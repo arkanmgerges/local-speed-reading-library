@@ -127,7 +127,7 @@ class SourceImporter {
         identifier: m.sourceIdentifier,
         revision: m.sourceRevision,
         pages: pages,
-        retrievedAt: _retrievedAt(dir),
+        retrievedAt: _retrievedAt(dir, m.retrievedAt),
       ),
     );
   }
@@ -176,13 +176,17 @@ class SourceImporter {
         identifier: m.sourceIdentifier,
         revision: pinned ?? lastModified,
         pages: const [],
-        retrievedAt: _retrievedAt(dir),
+        retrievedAt: _retrievedAt(dir, m.retrievedAt),
       ),
     );
   }
 
-  /// Snapshot time, recorded once when the source was first fetched.
-  String _retrievedAt(Directory dir) {
+  /// Retrieval time of the pinned source. It is part of the asset's
+  /// provenance, so it must be stable: the value recorded in the metadata
+  /// file wins (CI rebuilds reproduce the same bytes), then the snapshot
+  /// stamp, and only a first-ever fetch uses the clock.
+  String _retrievedAt(Directory dir, String? pinned) {
+    if (pinned != null && pinned.isNotEmpty) return pinned;
     final File stamp = File(p.join(dir.path, 'retrieved-at.txt'));
     if (stamp.existsSync()) return stamp.readAsStringSync().trim();
     final String now = _now().toUtc().toIso8601String();
