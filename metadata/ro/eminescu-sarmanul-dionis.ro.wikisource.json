@@ -1,0 +1,72 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-20T18:54:33.968534Z",
+    "chapterCount": 1,
+    "contentSha256": "a5ef09c4dad38d971cbced1bf2c3daa8139c55119bc24fbe295ecfbe742b7d07",
+    "normalizerVersion": "0.1.0",
+    "path": "books/ro/eminescu-sarmanul-dionis.ro.wikisource/v1/book.json.gz",
+    "sha256": "61660fb0d8cca68665d7450f08355ed9491e19595c7c34f4f7b9a0ac7fcb23fd",
+    "sizeBytes": 36986,
+    "uncompressedSizeBytes": 94063,
+    "wordCount": 14921
+  },
+  "edition": {
+    "editionId": "eminescu-sarmanul-dionis.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "notes": "First published in Convorbiri literare, 1872–1873.",
+    "title": "Sărmanul Dionis"
+  },
+  "genres": [
+    "Fiction",
+    "Philosophy"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1889: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1872: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://ro.wikipedia.org/wiki/Mihai_Eminescu",
+      "https://ro.wikisource.org/wiki/Autor:Mihai_Eminescu"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "statement": "Public domain worldwide. Mihai Eminescu died in 1889 and the text was first published in 1872.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-20",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Sărmanul Dionis",
+    "pages": [
+      {
+        "revision": 119857,
+        "title": "Sărmanul Dionis"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-20T18:48:51.429792Z",
+    "revision": "119857",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/S%C4%83rmanul_Dionis"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1850,
+      "deathYear": 1889,
+      "name": "Mihai Eminescu"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1872,
+    "originalTitle": "Sărmanul Dionis",
+    "workId": "eminescu-sarmanul-dionis"
+  }
+}

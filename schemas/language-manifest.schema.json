@@ -1,0 +1,81 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/arkanmgerges/local-speed-reading-library/schemas/language-manifest.schema.json",
+  "title": "Language manifest",
+  "description": "Metadata for every published edition in one language. Generated; the app fetches it when the user opens that language. Contains no book text.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "language", "englishName", "nativeName", "direction", "manifestVersion", "books"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "language": { "type": "string" },
+    "englishName": { "type": "string" },
+    "nativeName": { "type": "string" },
+    "direction": { "enum": ["ltr", "rtl"] },
+    "manifestVersion": { "type": "string", "pattern": "^[a-f0-9]{16}$" },
+    "books": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["workId", "editionId", "language", "title", "originalTitle", "author", "translator", "kind", "genres", "rights", "source", "asset"],
+        "properties": {
+          "workId": { "type": "string" },
+          "editionId": { "type": "string" },
+          "language": { "type": "string" },
+          "title": { "type": "string" },
+          "originalTitle": { "type": "string" },
+          "originalLanguage": { "type": "string" },
+          "author": { "type": "string" },
+          "authorDeathYear": { "type": ["integer", "null"] },
+          "translator": { "type": ["string", "null"] },
+          "translatorDeathYear": { "type": ["integer", "null"] },
+          "kind": { "enum": ["original", "translation"] },
+          "originalPublicationYear": { "type": ["integer", "null"] },
+          "editionPublicationYear": { "type": ["integer", "null"] },
+          "translationPublicationYear": { "type": ["integer", "null"] },
+          "genres": { "type": "array", "items": { "type": "string" } },
+          "rights": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["status", "statement", "verifiedAt"],
+            "properties": {
+              "status": { "enum": ["public-domain"] },
+              "statement": { "type": "string" },
+              "verifiedAt": { "type": "string" }
+            }
+          },
+          "source": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["provider", "url", "identifier"],
+            "properties": {
+              "provider": { "type": "string" },
+              "url": { "type": "string" },
+              "identifier": { "type": "string" },
+              "revision": { "type": ["string", "null"] },
+              "retrievedAt": { "type": ["string", "null"] }
+            }
+          },
+          "asset": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["assetVersion", "path", "sizeBytes", "sha256", "uncompressedSizeBytes", "contentSha256", "wordCount", "chapterCount", "schemaVersion", "encoding"],
+            "properties": {
+              "assetVersion": { "type": "integer", "minimum": 1 },
+              "path": { "type": "string", "pattern": "^books/[a-z0-9-]+/[a-z0-9.-]+/v[0-9]+/book\\.json\\.gz$" },
+              "sizeBytes": { "type": "integer", "minimum": 1 },
+              "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+              "uncompressedSizeBytes": { "type": "integer", "minimum": 1 },
+              "contentSha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+              "wordCount": { "type": "integer", "minimum": 1 },
+              "chapterCount": { "type": "integer", "minimum": 1 },
+              "schemaVersion": { "type": "integer", "description": "Schema version of the normalized book inside the asset." },
+              "encoding": { "enum": ["gzip"] }
+            }
+          }
+        }
+      }
+    }
+  }
+}

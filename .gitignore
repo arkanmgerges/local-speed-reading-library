@@ -1,0 +1,14 @@
+# Generated assets live in Cloudflare R2, never in git.
+build/
+
+# Dart
+.dart_tool/
+.packages
+pubspec.lock
+
+# Editors / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db

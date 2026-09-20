@@ -1,0 +1,72 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-20T18:54:33.602840Z",
+    "chapterCount": 5,
+    "contentSha256": "e6d425e2805f3f00b158bcce30d5caaeb498721b2e5cd9865147a5ff5b8a4ede",
+    "normalizerVersion": "0.1.0",
+    "path": "books/ro/creanga-amintiri-din-copilarie.ro.wikisource/v1/book.json.gz",
+    "sha256": "0d5a4f6a2ec31576a2d0dc3b201701d7097da8b8664d36e3ec7c6785101d117e",
+    "sizeBytes": 60846,
+    "uncompressedSizeBytes": 159274,
+    "wordCount": 25203
+  },
+  "edition": {
+    "editionId": "creanga-amintiri-din-copilarie.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "notes": "Parts I–III appeared in Convorbiri literare 1881–1882; part IV posthumously in 1892.",
+    "title": "Amintiri din copilărie"
+  },
+  "genres": [
+    "Fiction",
+    "Biography"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1889: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1881–1892: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://ro.wikipedia.org/wiki/Ion_Creang%C4%83",
+      "https://ro.wikisource.org/wiki/Autor:Ion_Creang%C4%83"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "statement": "Public domain worldwide. Ion Creangă died in 1889 and the text was first published between 1881 and 1892.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-20",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Amintiri din copilărie",
+    "pages": [
+      {
+        "revision": 106333,
+        "title": "Amintiri din copilărie"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-20T18:48:50.476346Z",
+    "revision": "106333",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1837,
+      "deathYear": 1889,
+      "name": "Ion Creangă"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1881,
+    "originalTitle": "Amintiri din copilărie",
+    "workId": "creanga-amintiri-din-copilarie"
+  }
+}

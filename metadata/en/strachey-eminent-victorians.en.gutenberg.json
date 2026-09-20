@@ -1,0 +1,64 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-20T19:12:09.580494Z",
+    "chapterCount": 24,
+    "contentSha256": "1789bad0883236edafc660d4c01f2218c09753d73d251d12f4cb7bdcf811a780",
+    "normalizerVersion": "0.1.0",
+    "path": "books/en/strachey-eminent-victorians.en.gutenberg/v1/book.json.gz",
+    "sha256": "18763f019b01e9e53f026f99f190d6b9e491b626a63f1f1ecb6bc1f7b73eee53",
+    "sizeBytes": 217568,
+    "uncompressedSizeBytes": 585163,
+    "wordCount": 98445
+  },
+  "edition": {
+    "editionId": "strachey-eminent-victorians.en.gutenberg",
+    "kind": "original",
+    "language": "en",
+    "title": "Eminent Victorians"
+  },
+  "genres": [
+    "Biography",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1932: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1918: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/2447",
+      "https://en.wikipedia.org/wiki/Lytton_Strachey"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "statement": "Public domain worldwide. Lytton Strachey died in 1932 and the book was first published in 1918. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-20",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "2447",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-20T18:48:48.358259Z",
+    "revision": "Tue, 01 Sep 2026 17:10:55 GMT",
+    "url": "https://www.gutenberg.org/ebooks/2447"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1880,
+      "deathYear": 1932,
+      "name": "Lytton Strachey"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1918,
+    "originalTitle": "Eminent Victorians",
+    "workId": "strachey-eminent-victorians"
+  }
+}

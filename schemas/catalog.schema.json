@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/arkanmgerges/local-speed-reading-library/schemas/catalog.schema.json",
+  "title": "Catalog",
+  "description": "Top-level index the app downloads first: one entry per language with a pointer to that language's manifest. Kept small; contains no book metadata or text.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "catalogVersion", "generatedBy", "assets", "languages"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "catalogVersion": { "type": "string", "pattern": "^[a-f0-9]{16}$" },
+    "generatedBy": { "type": "string" },
+    "assets": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["baseUrl"],
+      "properties": {
+        "baseUrl": { "type": "string", "pattern": "^https://.+/$", "description": "Every relative path in the catalog and the manifests is resolved against this URL." }
+      }
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["language", "englishName", "nativeName", "direction", "bookCount", "manifest", "manifestVersion", "manifestSha256"],
+        "properties": {
+          "language": { "type": "string" },
+          "englishName": { "type": "string" },
+          "nativeName": { "type": "string" },
+          "direction": { "enum": ["ltr", "rtl"] },
+          "bookCount": { "type": "integer", "minimum": 1 },
+          "manifest": { "type": "string", "pattern": "^catalog/languages/[A-Za-z0-9-]+\\.json$" },
+          "manifestVersion": { "type": "string", "pattern": "^[a-f0-9]{16}$" },
+          "manifestSha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" }
+        }
+      }
+    }
+  }
+}

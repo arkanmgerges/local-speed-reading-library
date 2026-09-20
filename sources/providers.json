@@ -1,0 +1,32 @@
+{
+  "_note": "Source providers the importer knows. Rate limits are per process; the tools fetch single named books and never crawl.",
+  "providers": [
+    {
+      "id": "wikisource",
+      "name": "Wikisource",
+      "homepage": "https://wikisource.org/",
+      "access": "MediaWiki API, action=parse with a pinned oldid per page",
+      "formats": ["html"],
+      "licenceNotes": "Public-domain texts stay public domain. Contributor-created content (user translations, annotations) is CC BY-SA and is NOT imported. Header/navigation templates are stripped.",
+      "rateLimit": "1 request at a time, retries with back-off, identifying User-Agent"
+    },
+    {
+      "id": "gutenberg",
+      "name": "Project Gutenberg",
+      "homepage": "https://www.gutenberg.org/",
+      "access": "https://www.gutenberg.org/ebooks/<number>.epub.noimages (single books only; bulk crawling is forbidden by the site)",
+      "formats": ["epub"],
+      "licenceNotes": "Texts are public domain in the USA; this project additionally requires the worldwide-conservative test. The Project Gutenberg licence header/footer and trademark are removed from the distributed text, which the licence permits when the trademark is not used; the provenance record keeps the attribution.",
+      "rateLimit": "1 request at a time, retries with back-off, identifying User-Agent"
+    },
+    {
+      "id": "europeana",
+      "name": "Europeana",
+      "homepage": "https://www.europeana.eu/",
+      "access": "discovery and metadata only; not an import source yet",
+      "formats": [],
+      "licenceNotes": "Rights vary per item; only items whose rights statement is public domain may be considered, and each needs its own import path.",
+      "rateLimit": "n/a"
+    }
+  ]
+}

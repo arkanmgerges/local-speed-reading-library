@@ -1,0 +1,30 @@
+{
+  "assets": {
+    "baseUrl": "https://books.localspeedreading.com/"
+  },
+  "catalogVersion": "df96cd8648e96d90",
+  "generatedBy": "lsr-library-tools 0.1.0",
+  "languages": [
+    {
+      "bookCount": 3,
+      "direction": "ltr",
+      "englishName": "English",
+      "language": "en",
+      "manifest": "catalog/languages/en.json",
+      "manifestSha256": "1ce3f04adf2f7ada99bee15148b65ccef8eb686cb37a9b2cbba13907f3738e65",
+      "manifestVersion": "fe0c58252de02d9b",
+      "nativeName": "English"
+    },
+    {
+      "bookCount": 3,
+      "direction": "ltr",
+      "englishName": "Romanian",
+      "language": "ro",
+      "manifest": "catalog/languages/ro.json",
+      "manifestSha256": "78dc88b99e8f0ada662a441108cdebb22d93dd599799578fd91edd5ed5a9d5bb",
+      "manifestVersion": "fc911e2cd3692db0",
+      "nativeName": "Română"
+    }
+  ],
+  "schemaVersion": 1
+}

@@ -1,0 +1,67 @@
+name: publish
+
+# Builds every publishable edition from its pinned source, uploads the assets
+# that are not on the CDN yet (immutable, never overwritten) and then publishes
+# the catalogue. Secrets: see docs/publishing.md.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'metadata/**'
+      - 'catalog/**'
+      - 'sources/**'
+      - 'tools/**'
+      - 'scripts/**'
+      - '.github/workflows/publish.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      R2_BUCKET: ${{ secrets.R2_BUCKET }}
+      BOOKS_BASE_URL: ${{ vars.BOOKS_BASE_URL || 'https://books.localspeedreading.com/' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dart-lang/setup-dart@v1
+        with:
+          sdk: stable
+      - name: Check that the R2 secrets are configured
+        id: secrets
+        run: |
+          if [ -z "$R2_ACCESS_KEY_ID" ] || [ -z "$R2_SECRET_ACCESS_KEY" ] || [ -z "$R2_ACCOUNT_ID" ] || [ -z "$R2_BUCKET" ]; then
+            echo "R2 secrets are not configured; validating only." >&2
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
+      - run: dart pub get
+        working-directory: tools
+      - name: Validate
+        run: dart run bin/lsr.dart validate
+        working-directory: tools
+      - name: Rebuild every publishable edition from its pinned source
+        run: dart run bin/lsr.dart build --all --check
+        working-directory: tools
+      - name: Compare with the CDN (refuses to overwrite an immutable asset)
+        if: steps.secrets.outputs.configured == 'true'
+        run: dart run bin/lsr.dart publish-check --base-url "$BOOKS_BASE_URL" --plan ../build/upload-plan.json
+        working-directory: tools
+      - name: Upload missing assets, then the catalogue
+        if: steps.secrets.outputs.configured == 'true'
+        run: scripts/upload.sh
+      - name: Verify the deployment
+        if: steps.secrets.outputs.configured == 'true'
+        run: dart run bin/lsr.dart publish-check --base-url "$BOOKS_BASE_URL"
+        working-directory: tools

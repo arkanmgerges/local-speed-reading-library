@@ -1,0 +1,148 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/arkanmgerges/local-speed-reading-library/schemas/book-metadata.schema.json",
+  "title": "Book metadata (one edition)",
+  "description": "Hand-maintained record for one edition of one work: the work, the edition, where the text came from, its rights record, and the asset block written by the build tool.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "work", "edition", "source", "rights", "genres", "publish"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "work": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["workId", "originalTitle", "originalLanguage", "author"],
+      "properties": {
+        "workId": { "$ref": "#/definitions/workId" },
+        "originalTitle": { "type": "string", "minLength": 1 },
+        "originalLanguage": { "$ref": "#/definitions/languageTag" },
+        "author": { "$ref": "#/definitions/person" },
+        "originalPublicationYear": { "$ref": "#/definitions/year" },
+        "wikidata": { "type": "string", "pattern": "^Q[0-9]+$" }
+      }
+    },
+    "edition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["editionId", "language", "title", "kind"],
+      "properties": {
+        "editionId": { "$ref": "#/definitions/editionId" },
+        "language": { "$ref": "#/definitions/languageTag" },
+        "title": { "type": "string", "minLength": 1 },
+        "kind": { "enum": ["original", "translation"] },
+        "translator": { "$ref": "#/definitions/person" },
+        "editionPublicationYear": { "$ref": "#/definitions/year" },
+        "translationPublicationYear": { "$ref": "#/definitions/year" },
+        "publisher": { "type": "string" },
+        "notes": { "type": "string" }
+      },
+      "if": { "properties": { "kind": { "const": "translation" } } },
+      "then": { "required": ["translator"] }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["provider", "url", "identifier", "format"],
+      "properties": {
+        "provider": { "enum": ["wikisource", "gutenberg", "europeana", "other"] },
+        "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+        "identifier": { "type": "string", "minLength": 1 },
+        "format": { "enum": ["html", "epub", "txt", "tei"] },
+        "site": { "type": "string", "description": "Host of the provider instance, e.g. ro.wikisource.org." },
+        "revision": { "type": "string", "description": "Provider revision: Wikisource main-page revision id, Gutenberg Last-Modified date." },
+        "pages": {
+          "type": "array",
+          "description": "Wikisource pages that make up the text, in reading order, each pinned to a revision id.",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["title", "revision"],
+            "properties": {
+              "title": { "type": "string", "minLength": 1 },
+              "revision": { "type": "integer", "minimum": 1 }
+            }
+          }
+        },
+        "retrievedAt": { "type": "string", "format": "date-time" },
+        "notes": { "type": "string" }
+      }
+    },
+    "rights": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "basis", "jurisdictions", "statement", "evidence", "verifiedBy", "verifiedAt"],
+      "properties": {
+        "status": { "enum": ["public-domain", "uncertain", "restricted"] },
+        "basis": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+        "jurisdictions": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } },
+        "statement": { "type": "string", "minLength": 1 },
+        "evidence": { "type": "array", "items": { "type": "string", "format": "uri" } },
+        "verifiedBy": { "type": "string", "minLength": 1 },
+        "verifiedAt": { "type": "string", "format": "date" },
+        "notes": { "type": "string" }
+      }
+    },
+    "genres": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": { "enum": ["Fiction", "Non-fiction", "History", "Science", "Philosophy", "Biography", "Poetry", "Children", "Article", "Other"] }
+    },
+    "publish": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["assetVersion"],
+      "properties": {
+        "assetVersion": { "type": "integer", "minimum": 1, "description": "Bump when the normalised text must change. Never reuse a version." }
+      }
+    },
+    "import": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Per-edition normalisation hints.",
+      "properties": {
+        "chapterHeadingLevels": { "type": "array", "items": { "type": "integer", "minimum": 1, "maximum": 6 } },
+        "skipHeadings": { "type": "array", "items": { "type": "string" } },
+        "removeSelectors": { "type": "array", "items": { "type": "string" } },
+        "dropParagraphsMatching": { "type": "array", "items": { "type": "string" } },
+        "firstChapterTitle": { "type": "string" }
+      }
+    },
+    "asset": {
+      "type": "object",
+      "description": "Written by `lsr build`; do not edit by hand.",
+      "additionalProperties": false,
+      "required": ["assetVersion", "path", "sizeBytes", "sha256", "uncompressedSizeBytes", "contentSha256", "wordCount", "chapterCount", "normalizerVersion", "builtAt"],
+      "properties": {
+        "assetVersion": { "type": "integer", "minimum": 1 },
+        "path": { "type": "string", "pattern": "^books/[a-z0-9-]+/[a-z0-9.-]+/v[0-9]+/book\\.json\\.gz$" },
+        "sizeBytes": { "type": "integer", "minimum": 1 },
+        "sha256": { "$ref": "#/definitions/sha256" },
+        "uncompressedSizeBytes": { "type": "integer", "minimum": 1 },
+        "contentSha256": { "$ref": "#/definitions/sha256" },
+        "wordCount": { "type": "integer", "minimum": 1 },
+        "chapterCount": { "type": "integer", "minimum": 1 },
+        "normalizerVersion": { "type": "string", "minLength": 1 },
+        "builtAt": { "type": "string", "format": "date-time" }
+      }
+    }
+  },
+  "definitions": {
+    "workId": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "maxLength": 80 },
+    "editionId": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*\\.[a-z0-9]+(-[a-z0-9]+)*\\.[a-z0-9]+(-[a-z0-9]+)*$", "maxLength": 120 },
+    "languageTag": { "type": "string", "pattern": "^[A-Za-z]{2,3}(-[A-Za-z]{4})?(-([A-Za-z]{2}|[0-9]{3}))?(-[A-Za-z0-9]{5,8}|-[0-9][A-Za-z0-9]{3})*$" },
+    "year": { "type": "integer", "minimum": -3000, "maximum": 2100 },
+    "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+    "person": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string", "minLength": 1 },
+        "birthYear": { "$ref": "#/definitions/year" },
+        "deathYear": { "$ref": "#/definitions/year" },
+        "wikidata": { "type": "string", "pattern": "^Q[0-9]+$" }
+      }
+    }
+  }
+}

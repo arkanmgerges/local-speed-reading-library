@@ -1,0 +1,141 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 24,
+        "contentSha256": "c9131c7e06000ad5ec4c2f3d7f9631c33a23953c0b13d99ffcd1d21a05eb06d2",
+        "encoding": "gzip",
+        "path": "books/en/haggard-king-solomons-mines.en.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "3377d494e5f3220b969bfecc2f0078ab1838581cbf86c8e6e32201e472e5743e",
+        "sizeBytes": 167811,
+        "uncompressedSizeBytes": 463712,
+        "wordCount": 81257
+      },
+      "author": "H. Rider Haggard",
+      "authorDeathYear": 1925,
+      "editionId": "haggard-king-solomons-mines.en.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "en",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1885,
+      "originalTitle": "King Solomon's Mines",
+      "rights": {
+        "statement": "Public domain worldwide. H. Rider Haggard died in 1925 and the novel was first published in 1885. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-20"
+      },
+      "source": {
+        "identifier": "2166",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-20T18:48:44.413211Z",
+        "revision": "Tue, 01 Sep 2026 16:18:18 GMT",
+        "url": "https://www.gutenberg.org/ebooks/2166"
+      },
+      "title": "King Solomon's Mines",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "haggard-king-solomons-mines"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 76,
+        "contentSha256": "94a36f163c0a29965f4b89920cfd79a028b7f3b690ba8f833e684de859050037",
+        "encoding": "gzip",
+        "path": "books/en/olcott-a-field-book-of-the-stars.en.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "af3c5e348748768b5a06a74f8b8bc1154c96eb798ad3f5b64346e458d6fd425d",
+        "sizeBytes": 43724,
+        "uncompressedSizeBytes": 139314,
+        "wordCount": 20489
+      },
+      "author": "William Tyler Olcott",
+      "authorDeathYear": 1936,
+      "editionId": "olcott-a-field-book-of-the-stars.en.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Science",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "en",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1907,
+      "originalTitle": "A Field Book of the Stars",
+      "rights": {
+        "statement": "Public domain worldwide. William Tyler Olcott died in 1936 and the book was first published in 1907. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-20"
+      },
+      "source": {
+        "identifier": "20769",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-20T18:48:46.652539Z",
+        "revision": "Wed, 09 Sep 2026 03:27:40 GMT",
+        "url": "https://www.gutenberg.org/ebooks/20769"
+      },
+      "title": "A Field Book of the Stars",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "olcott-a-field-book-of-the-stars"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 24,
+        "contentSha256": "1789bad0883236edafc660d4c01f2218c09753d73d251d12f4cb7bdcf811a780",
+        "encoding": "gzip",
+        "path": "books/en/strachey-eminent-victorians.en.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "18763f019b01e9e53f026f99f190d6b9e491b626a63f1f1ecb6bc1f7b73eee53",
+        "sizeBytes": 217568,
+        "uncompressedSizeBytes": 585163,
+        "wordCount": 98445
+      },
+      "author": "Lytton Strachey",
+      "authorDeathYear": 1932,
+      "editionId": "strachey-eminent-victorians.en.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Biography",
+        "History"
+      ],
+      "kind": "original",
+      "language": "en",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1918,
+      "originalTitle": "Eminent Victorians",
+      "rights": {
+        "statement": "Public domain worldwide. Lytton Strachey died in 1932 and the book was first published in 1918. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-20"
+      },
+      "source": {
+        "identifier": "2447",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-20T18:48:48.358259Z",
+        "revision": "Tue, 01 Sep 2026 17:10:55 GMT",
+        "url": "https://www.gutenberg.org/ebooks/2447"
+      },
+      "title": "Eminent Victorians",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "strachey-eminent-victorians"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "English",
+  "language": "en",
+  "manifestVersion": "fe0c58252de02d9b",
+  "nativeName": "English",
+  "schemaVersion": 1
+}

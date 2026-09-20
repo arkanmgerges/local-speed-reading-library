@@ -1,0 +1,71 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-20T18:54:34.720074Z",
+    "chapterCount": 17,
+    "contentSha256": "39caaea37c193a98618ba74153d9ec9bbbc00be6aca389162c14218a0e1a9469",
+    "normalizerVersion": "0.1.0",
+    "path": "books/ro/slavici-moara-cu-noroc.ro.wikisource/v1/book.json.gz",
+    "sha256": "7b5eaa41784b030573d73c2f1abe294c55b91a4a616778764c5f54b0c643feb5",
+    "sizeBytes": 79514,
+    "uncompressedSizeBytes": 237583,
+    "wordCount": 39178
+  },
+  "edition": {
+    "editionId": "slavici-moara-cu-noroc.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "notes": "First published in the collection Novele din popor (1881).",
+    "title": "Moara cu noroc"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1925: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1881: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://ro.wikipedia.org/wiki/Ioan_Slavici",
+      "https://ro.wikisource.org/wiki/Autor:Ioan_Slavici"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "statement": "Public domain worldwide. Ioan Slavici died in 1925 and the text was first published in 1881.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-20",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Moara cu noroc",
+    "pages": [
+      {
+        "revision": 129071,
+        "title": "Moara cu noroc"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-20T18:48:52.661825Z",
+    "revision": "129071",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/Moara_cu_noroc"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1848,
+      "deathYear": 1925,
+      "name": "Ioan Slavici"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1881,
+    "originalTitle": "Moara cu noroc",
+    "workId": "slavici-moara-cu-noroc"
+  }
+}

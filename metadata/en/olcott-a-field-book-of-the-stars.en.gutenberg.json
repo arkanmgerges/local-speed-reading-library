@@ -1,0 +1,64 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-20T19:09:30.243180Z",
+    "chapterCount": 76,
+    "contentSha256": "94a36f163c0a29965f4b89920cfd79a028b7f3b690ba8f833e684de859050037",
+    "normalizerVersion": "0.1.0",
+    "path": "books/en/olcott-a-field-book-of-the-stars.en.gutenberg/v1/book.json.gz",
+    "sha256": "af3c5e348748768b5a06a74f8b8bc1154c96eb798ad3f5b64346e458d6fd425d",
+    "sizeBytes": 43724,
+    "uncompressedSizeBytes": 139314,
+    "wordCount": 20489
+  },
+  "edition": {
+    "editionId": "olcott-a-field-book-of-the-stars.en.gutenberg",
+    "kind": "original",
+    "language": "en",
+    "title": "A Field Book of the Stars"
+  },
+  "genres": [
+    "Science",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1936: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1907: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/20769",
+      "https://en.wikipedia.org/wiki/William_Tyler_Olcott"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "statement": "Public domain worldwide. William Tyler Olcott died in 1936 and the book was first published in 1907. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-20",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "20769",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-20T18:48:46.652539Z",
+    "revision": "Wed, 09 Sep 2026 03:27:40 GMT",
+    "url": "https://www.gutenberg.org/ebooks/20769"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1873,
+      "deathYear": 1936,
+      "name": "William Tyler Olcott"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1907,
+    "originalTitle": "A Field Book of the Stars",
+    "workId": "olcott-a-field-book-of-the-stars"
+  }
+}

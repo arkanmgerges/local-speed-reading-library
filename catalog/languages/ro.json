@@ -1,0 +1,141 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "e6d425e2805f3f00b158bcce30d5caaeb498721b2e5cd9865147a5ff5b8a4ede",
+        "encoding": "gzip",
+        "path": "books/ro/creanga-amintiri-din-copilarie.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0d5a4f6a2ec31576a2d0dc3b201701d7097da8b8664d36e3ec7c6785101d117e",
+        "sizeBytes": 60846,
+        "uncompressedSizeBytes": 159274,
+        "wordCount": 25203
+      },
+      "author": "Ion Creangă",
+      "authorDeathYear": 1889,
+      "editionId": "creanga-amintiri-din-copilarie.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "Biography"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1881,
+      "originalTitle": "Amintiri din copilărie",
+      "rights": {
+        "statement": "Public domain worldwide. Ion Creangă died in 1889 and the text was first published between 1881 and 1892.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-20"
+      },
+      "source": {
+        "identifier": "Amintiri din copilărie",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-20T18:48:50.476346Z",
+        "revision": "106333",
+        "url": "https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie"
+      },
+      "title": "Amintiri din copilărie",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "creanga-amintiri-din-copilarie"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "a5ef09c4dad38d971cbced1bf2c3daa8139c55119bc24fbe295ecfbe742b7d07",
+        "encoding": "gzip",
+        "path": "books/ro/eminescu-sarmanul-dionis.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "61660fb0d8cca68665d7450f08355ed9491e19595c7c34f4f7b9a0ac7fcb23fd",
+        "sizeBytes": 36986,
+        "uncompressedSizeBytes": 94063,
+        "wordCount": 14921
+      },
+      "author": "Mihai Eminescu",
+      "authorDeathYear": 1889,
+      "editionId": "eminescu-sarmanul-dionis.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "Philosophy"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1872,
+      "originalTitle": "Sărmanul Dionis",
+      "rights": {
+        "statement": "Public domain worldwide. Mihai Eminescu died in 1889 and the text was first published in 1872.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-20"
+      },
+      "source": {
+        "identifier": "Sărmanul Dionis",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-20T18:48:51.429792Z",
+        "revision": "119857",
+        "url": "https://ro.wikisource.org/wiki/S%C4%83rmanul_Dionis"
+      },
+      "title": "Sărmanul Dionis",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "eminescu-sarmanul-dionis"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 17,
+        "contentSha256": "39caaea37c193a98618ba74153d9ec9bbbc00be6aca389162c14218a0e1a9469",
+        "encoding": "gzip",
+        "path": "books/ro/slavici-moara-cu-noroc.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7b5eaa41784b030573d73c2f1abe294c55b91a4a616778764c5f54b0c643feb5",
+        "sizeBytes": 79514,
+        "uncompressedSizeBytes": 237583,
+        "wordCount": 39178
+      },
+      "author": "Ioan Slavici",
+      "authorDeathYear": 1925,
+      "editionId": "slavici-moara-cu-noroc.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1881,
+      "originalTitle": "Moara cu noroc",
+      "rights": {
+        "statement": "Public domain worldwide. Ioan Slavici died in 1925 and the text was first published in 1881.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-20"
+      },
+      "source": {
+        "identifier": "Moara cu noroc",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-20T18:48:52.661825Z",
+        "revision": "129071",
+        "url": "https://ro.wikisource.org/wiki/Moara_cu_noroc"
+      },
+      "title": "Moara cu noroc",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "slavici-moara-cu-noroc"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Romanian",
+  "language": "ro",
+  "manifestVersion": "fc911e2cd3692db0",
+  "nativeName": "Română",
+  "schemaVersion": 1
+}
