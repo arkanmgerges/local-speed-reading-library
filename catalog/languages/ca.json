@@ -1,0 +1,871 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 29,
+        "contentSha256": "cec09b29c7c0ecda1d5ded2a15e0a9e6cdfe00720aacd3c8d6391b7fbfd5e5f7",
+        "encoding": "gzip",
+        "path": "books/ca/bertrana-el-meu-amic-pellini-i-altres-contes.ca.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d0c3374beee2a59f454239ab477a755feac2991410e5beff7e3f300e6e096ff5",
+        "sizeBytes": 87513,
+        "uncompressedSizeBytes": 218661,
+        "wordCount": 33421
+      },
+      "author": "Prudenci Bertrana",
+      "authorDeathYear": 1941,
+      "editionId": "bertrana-el-meu-amic-pellini-i-altres-contes.ca.gutenberg",
+      "editionPublicationYear": 1923,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ca",
+      "originalLanguage": "ca",
+      "originalPublicationYear": null,
+      "originalTitle": "El meu amic Pellini i altres contes",
+      "rights": {
+        "statement": "Public domain worldwide. Prudenci Bertrana died in 1941 and the edition digitised by Project Gutenberg was printed in 1923. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "74649",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:05:13.213950Z",
+        "revision": "Sat, 29 Aug 2026 15:27:12 GMT",
+        "url": "https://www.gutenberg.org/ebooks/74649"
+      },
+      "title": "El meu amic Pellini i altres contes",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bertrana-el-meu-amic-pellini-i-altres-contes"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 10,
+        "contentSha256": "29af97c743cfa48b170ebb6c34bbadf89c0651ea876d4c3db904ac4e98649f00",
+        "encoding": "gzip",
+        "path": "books/ca/bertrana-josafat.ca.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c7e9f79d870f15e94248bb2ef4b0f5025c8aebaa9b0c660102d702986640fb42",
+        "sizeBytes": 45921,
+        "uncompressedSizeBytes": 115392,
+        "wordCount": 17677
+      },
+      "author": "Prudenci Bertrana",
+      "authorDeathYear": 1941,
+      "editionId": "bertrana-josafat.ca.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ca",
+      "originalLanguage": "ca",
+      "originalPublicationYear": 1906,
+      "originalTitle": "Josafat",
+      "rights": {
+        "statement": "Public domain worldwide. Prudenci Bertrana died in 1941 and the work was first published in 1906. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "73408",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:05:15.782772Z",
+        "revision": "Sat, 29 Aug 2026 10:03:58 GMT",
+        "url": "https://www.gutenberg.org/ebooks/73408"
+      },
+      "title": "Josafat",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bertrana-josafat"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 50,
+        "contentSha256": "a51e568d6567bf712727ea2bbddf0ccd8ee41d55562baffc9c5d38785ab2fbfa",
+        "encoding": "gzip",
+        "path": "books/ca/bofarull-la-orfaneta-de-menargues.ca.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d8dde5bd23e2c122ae8807b463b0196befac36ac2a89d443ed819006497e25ef",
+        "sizeBytes": 434183,
+        "uncompressedSizeBytes": 1215220,
+        "wordCount": 201491
+      },
+      "author": "Antoni de Bofarull",
+      "authorDeathYear": 1892,
+      "editionId": "bofarull-la-orfaneta-de-menargues.ca.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ca",
+      "originalLanguage": "ca",
+      "originalPublicationYear": 1862,
+      "originalTitle": "La orfaneta de Menargues; o, Catalunya agonisant : $b Novela histórica",
+      "rights": {
+        "statement": "Public domain worldwide. Antoni de Bofarull died in 1892 and the work was first published in 1862. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "75136",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:05:19.725432Z",
+        "revision": "Sat, 29 Aug 2026 18:08:32 GMT",
+        "url": "https://www.gutenberg.org/ebooks/75136"
+      },
+      "title": "La orfaneta de Menargues; o, Catalunya agonisant : $b Novela histórica",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bofarull-la-orfaneta-de-menargues"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 33,
+        "contentSha256": "9f40f5f3b2f04f56582d2c2560ad0d1e1a9d8fe9ae16129765d89e7bbea3e2aa",
+        "encoding": "gzip",
+        "path": "books/ca/careta-y-vidal-narracions-estranyes.ca.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2281f7dbd289e4dd7908117b4d8f55985eaaf800f6db8ffb72db90e197fa5e1f",
+        "sizeBytes": 68316,
+        "uncompressedSizeBytes": 179751,
+        "wordCount": 27470
+      },
+      "author": "Antoni Careta y Vidal",
+      "authorDeathYear": 1924,
+      "editionId": "careta-y-vidal-narracions-estranyes.ca.gutenberg",
+      "editionPublicationYear": 1905,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ca",
+      "originalLanguage": "ca",
+      "originalPublicationYear": null,
+      "originalTitle": "Narracions estranyes : $b ¡Oydà! - L'ull acusador - L'embaixada de la mort",
+      "rights": {
+        "statement": "Public domain worldwide. Antoni Careta y Vidal died in 1924 and the edition digitised by Project Gutenberg was printed in 1905. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "77135",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:05:25.039702Z",
+        "revision": "Sun, 30 Aug 2026 19:07:33 GMT",
+        "url": "https://www.gutenberg.org/ebooks/77135"
+      },
+      "title": "Narracions estranyes : $b ¡Oydà! - L'ull acusador - L'embaixada de la mort",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "careta-y-vidal-narracions-estranyes"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 21,
+        "contentSha256": "a457e1122d7f549ffa1ebd7e6644fedbd06ed40aa60e8c5cb005025e6532c8a5",
+        "encoding": "gzip",
+        "path": "books/ca/casellas-els-sots-ferestechs.ca.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0d77d2c496bf9823a2c2a8ae75012bf894684328633f64d82b171a63d1ef4d18",
+        "sizeBytes": 96141,
+        "uncompressedSizeBytes": 269225,
+        "wordCount": 42829
+      },
+      "author": "Raimón Casellas",
+      "authorDeathYear": 1910,
+      "editionId": "casellas-els-sots-ferestechs.ca.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ca",
+      "originalLanguage": "ca",
+      "originalPublicationYear": 1901,
+      "originalTitle": "Els sots feréstechs",
+      "rights": {
+        "statement": "Public domain worldwide. Raimón Casellas died in 1910 and the work was first published in 1901. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "75701",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:05:27.667470Z",
+        "revision": "Sun, 30 Aug 2026 08:43:20 GMT",
+        "url": "https://www.gutenberg.org/ebooks/75701"
+      },
+      "title": "Els sots feréstechs",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "casellas-els-sots-ferestechs"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 28,
+        "contentSha256": "b531323e7f587ed96ebe8f93b4f667787ba570d6d6d7b120aff2b94908bea40d",
+        "encoding": "gzip",
+        "path": "books/ca/figuerola-aldrofeu-l-esca-del-pecat.ca.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f77ece067c6cc9740de70b7345979dfce8e113d27d9c0cc9a6dc7c13f64ebf78",
+        "sizeBytes": 58941,
+        "uncompressedSizeBytes": 163070,
+        "wordCount": 24888
+      },
+      "author": "M. Figuerola Aldroféu",
+      "authorDeathYear": 1913,
+      "editionId": "figuerola-aldrofeu-l-esca-del-pecat.ca.gutenberg",
+      "editionPublicationYear": 1890,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ca",
+      "originalLanguage": "ca",
+      "originalPublicationYear": null,
+      "originalTitle": "L'esca del pecat",
+      "rights": {
+        "statement": "Public domain worldwide. M. Figuerola Aldroféu died in 1913 and the edition digitised by Project Gutenberg was printed in 1890. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "76140",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:05:31.787924Z",
+        "revision": "Sun, 30 Aug 2026 12:41:12 GMT",
+        "url": "https://www.gutenberg.org/ebooks/76140"
+      },
+      "title": "L'esca del pecat",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "figuerola-aldrofeu-l-esca-del-pecat"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 28,
+        "contentSha256": "2e05afc2839c154b2ed83a1c430a4bbe9965ef472abd4d0977ec9f69843556b9",
+        "encoding": "gzip",
+        "path": "books/ca/maspons-i-labros-lo-rondallayre-tercera-serie.ca.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ad9546127a8edb1d7b68714833467070700d391e9665586b92e95e561733f595",
+        "sizeBytes": 75957,
+        "uncompressedSizeBytes": 230242,
+        "wordCount": 38574
+      },
+      "author": "Francesc Maspons i Labrós",
+      "authorDeathYear": 1901,
+      "editionId": "maspons-i-labros-lo-rondallayre-tercera-serie.ca.gutenberg",
+      "editionPublicationYear": 1875,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ca",
+      "originalLanguage": "ca",
+      "originalPublicationYear": null,
+      "originalTitle": "Lo rondallayre, Tercera série : $b Quentos populars catalans",
+      "rights": {
+        "statement": "Public domain worldwide. Francesc Maspons i Labrós died in 1901 and the edition digitised by Project Gutenberg was printed in 1875. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "76026",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:05:39.889378Z",
+        "revision": "Sun, 30 Aug 2026 10:07:48 GMT",
+        "url": "https://www.gutenberg.org/ebooks/76026"
+      },
+      "title": "Lo rondallayre, Tercera série : $b Quentos populars catalans",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "maspons-i-labros-lo-rondallayre-tercera-serie"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 27,
+        "contentSha256": "6d05703d23069354a047de5246056b3e6ffbd154fb3e64719d1846a6a229902c",
+        "encoding": "gzip",
+        "path": "books/ca/maspons-i-labros-lo-rondallayre.ca.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c22a542221e10eb969f6363eb32fa9a42d9b5035d1549fd970fb1e29cf15d4d6",
+        "sizeBytes": 55961,
+        "uncompressedSizeBytes": 168841,
+        "wordCount": 29452
+      },
+      "author": "Francesc Maspons i Labrós",
+      "authorDeathYear": 1901,
+      "editionId": "maspons-i-labros-lo-rondallayre.ca.gutenberg",
+      "editionPublicationYear": 1871,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ca",
+      "originalLanguage": "ca",
+      "originalPublicationYear": null,
+      "originalTitle": "Lo rondallayre : $b Quentos populars catalans",
+      "rights": {
+        "statement": "Public domain worldwide. Francesc Maspons i Labrós died in 1901 and the edition digitised by Project Gutenberg was printed in 1871. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "75409",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:05:42.487852Z",
+        "revision": "Sun, 30 Aug 2026 07:31:47 GMT",
+        "url": "https://www.gutenberg.org/ebooks/75409"
+      },
+      "title": "Lo rondallayre : $b Quentos populars catalans",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "maspons-i-labros-lo-rondallayre"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 8,
+        "contentSha256": "29847abdad170c2db80beaefd5d2d62a9f4864195e657437d60f9d4044f105a7",
+        "encoding": "gzip",
+        "path": "books/ca/novalis-enric-d-ofterdingen.ca.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ffd80553e0341ac05a4cd3ba2c294fa2e516f140d9dc6270d146856f0c9f3569",
+        "sizeBytes": 65721,
+        "uncompressedSizeBytes": 171008,
+        "wordCount": 29446
+      },
+      "author": "Novalis",
+      "authorDeathYear": 1801,
+      "editionId": "novalis-enric-d-ofterdingen.ca.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ca",
+      "originalLanguage": "de",
+      "originalPublicationYear": 1802,
+      "originalTitle": "Enric d'Ofterdingen",
+      "rights": {
+        "statement": "Public domain worldwide. Novalis died in 1801; the translator Joan Maragall i Gorina died in 1910 and this translation was first published in 1907. Source: ca.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Enric d'Ofterdingen (1907)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:05:45.826979Z",
+        "revision": "179595",
+        "url": "https://ca.wikisource.org/wiki/Enric_d'Ofterdingen_(1907)"
+      },
+      "title": "Enric d'Ofterdingen",
+      "translationPublicationYear": 1907,
+      "translator": "Joan Maragall i Gorina",
+      "translatorDeathYear": 1910,
+      "workId": "novalis-enric-d-ofterdingen"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 10,
+        "contentSha256": "1a8125037047b031a4e2a3a5c9d61d3449a319c7388a3099bd3f85c63c6f92cc",
+        "encoding": "gzip",
+        "path": "books/ca/oller-l-escanya-pobres.ca.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "65578fd1c92530db99a6ec5123f2cadf26db9f5ab239019ce6d5cee663e0e602",
+        "sizeBytes": 53099,
+        "uncompressedSizeBytes": 132860,
+        "wordCount": 20714
+      },
+      "author": "Narcís Oller",
+      "authorDeathYear": 1930,
+      "editionId": "oller-l-escanya-pobres.ca.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ca",
+      "originalLanguage": "ca",
+      "originalPublicationYear": 1884,
+      "originalTitle": "L'escanya-pobres",
+      "rights": {
+        "statement": "Public domain worldwide. Narcís Oller died in 1930 and the work was first published in 1884. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "72856",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:05:48.555694Z",
+        "revision": "Sat, 29 Aug 2026 07:43:44 GMT",
+        "url": "https://www.gutenberg.org/ebooks/72856"
+      },
+      "title": "L'escanya-pobres",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "oller-l-escanya-pobres"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 22,
+        "contentSha256": "176c9916270470be8888705d93a12ec1c815a7dc841997deb3aedc6680aa075a",
+        "encoding": "gzip",
+        "path": "books/ca/oller-vilaniu.ca.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "62988a74f265ce92f47eda704c11243745caa31a1d2a4f1d84cc6901fae96ada",
+        "sizeBytes": 206797,
+        "uncompressedSizeBytes": 540854,
+        "wordCount": 85007
+      },
+      "author": "Narcís Oller",
+      "authorDeathYear": 1930,
+      "editionId": "oller-vilaniu.ca.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ca",
+      "originalLanguage": "ca",
+      "originalPublicationYear": 1885,
+      "originalTitle": "Vilaniu : $b Novela de costums del nostre temps",
+      "rights": {
+        "statement": "Public domain worldwide. Narcís Oller died in 1930 and the work was first published in 1885. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "75945",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:05:51.511414Z",
+        "revision": "Sun, 30 Aug 2026 09:45:52 GMT",
+        "url": "https://www.gutenberg.org/ebooks/75945"
+      },
+      "title": "Vilaniu : $b Novela de costums del nostre temps",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "oller-vilaniu"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 4,
+        "contentSha256": "bda70cea2df1afaea87a4d19452c0caf1bc4d5f7216aabb10d52e8d291f9fac8",
+        "encoding": "gzip",
+        "path": "books/ca/plato-defensa-de-socrates.ca.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8814a39a3f13c06a667e61425e4c6bfc21fbc0a2c2c39775a591cf126d4fe25c",
+        "sizeBytes": 22593,
+        "uncompressedSizeBytes": 61752,
+        "wordCount": 10802
+      },
+      "author": "Plató",
+      "authorDeathYear": -348,
+      "editionId": "plato-defensa-de-socrates.ca.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ca",
+      "originalLanguage": "grc",
+      "originalPublicationYear": -395,
+      "originalTitle": "Defensa de Sòcrates",
+      "rights": {
+        "statement": "Public domain worldwide. Plató died in -348; the translator Joan Crexells i Vallhonrat died in 1926 and this translation was first published in 1924. Source: ca.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Diàlegs I - Defensa de Sòcrates",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:05:56.001772Z",
+        "revision": "134950",
+        "url": "https://ca.wikisource.org/wiki/Di%C3%A0legs_I_-_Defensa_de_S%C3%B2crates"
+      },
+      "title": "Diàlegs I - Defensa de Sòcrates",
+      "translationPublicationYear": 1924,
+      "translator": "Joan Crexells i Vallhonrat",
+      "translatorDeathYear": 1926,
+      "workId": "plato-defensa-de-socrates"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "50541cdbef73b0b226c377241ccf49b7d87779a7cd1e2c62ae1fe626286a83e7",
+        "encoding": "gzip",
+        "path": "books/ca/plato-eutifron.ca.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d937499c6781969fce19a33b44a1ff7d2ba4775db501606d685b81f945016b0d",
+        "sizeBytes": 13259,
+        "uncompressedSizeBytes": 37900,
+        "wordCount": 6579
+      },
+      "author": "Plató",
+      "authorDeathYear": -348,
+      "editionId": "plato-eutifron.ca.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ca",
+      "originalLanguage": "grc",
+      "originalPublicationYear": -400,
+      "originalTitle": "Eutífron",
+      "rights": {
+        "statement": "Public domain worldwide. Plató died in -348; the translator Joan Crexells i Vallhonrat died in 1926 and this translation was first published in 1924. Source: ca.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Diàlegs I - Eutífron",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:05:57.681288Z",
+        "revision": "134998",
+        "url": "https://ca.wikisource.org/wiki/Di%C3%A0legs_I_-_Eut%C3%ADfron"
+      },
+      "title": "Diàlegs I - Eutífron",
+      "translationPublicationYear": 1924,
+      "translator": "Joan Crexells i Vallhonrat",
+      "translatorDeathYear": 1926,
+      "workId": "plato-eutifron"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 4,
+        "contentSha256": "44f42a121e3d96309b5a5f33971256bbfbd77c82578fa03204e3903e635533a8",
+        "encoding": "gzip",
+        "path": "books/ca/plato-laques.ca.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4472935da00b0ad78c47871657a0f93d0f35216f3dbc49b8145b5d96be4fd8a4",
+        "sizeBytes": 19499,
+        "uncompressedSizeBytes": 55694,
+        "wordCount": 9492
+      },
+      "author": "Plató",
+      "authorDeathYear": -348,
+      "editionId": "plato-laques.ca.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ca",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Laques",
+      "rights": {
+        "statement": "Public domain worldwide. Plató died in -348; the translator Joan Crexells i Vallhonrat died in 1926 and this translation was first published in 1924. Source: ca.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Diàlegs I - Laques",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:05:59.380657Z",
+        "revision": "25447",
+        "url": "https://ca.wikisource.org/wiki/Di%C3%A0legs_I_-_Laques"
+      },
+      "title": "Diàlegs I - Laques",
+      "translationPublicationYear": 1924,
+      "translator": "Joan Crexells i Vallhonrat",
+      "translatorDeathYear": 1926,
+      "workId": "plato-laques"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 16,
+        "contentSha256": "1280227c93e09574525a8f037bffb6a93aa2f26ff1615301eaff53caac9bf00b",
+        "encoding": "gzip",
+        "path": "books/ca/pons-i-massaveu-en-mitja-galta.ca.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9dbecad26311d944ab45779210dacd4827c2b8f1c9fbfed21e55da697b82b010",
+        "sizeBytes": 40223,
+        "uncompressedSizeBytes": 103927,
+        "wordCount": 15941
+      },
+      "author": "Joan Pons i Massaveu",
+      "authorDeathYear": 1918,
+      "editionId": "pons-i-massaveu-en-mitja-galta.ca.gutenberg",
+      "editionPublicationYear": 1905,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ca",
+      "originalLanguage": "ca",
+      "originalPublicationYear": null,
+      "originalTitle": "En Mitja-galta : $b Noveleta barcelonina",
+      "rights": {
+        "statement": "Public domain worldwide. Joan Pons i Massaveu died in 1918 and the edition digitised by Project Gutenberg was printed in 1905. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "78990",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:06:01.801610Z",
+        "revision": "Mon, 31 Aug 2026 11:56:09 GMT",
+        "url": "https://www.gutenberg.org/ebooks/78990"
+      },
+      "title": "En Mitja-galta : $b Noveleta barcelonina",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "pons-i-massaveu-en-mitja-galta"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 34,
+        "contentSha256": "a328db76da65f2d1365c0690bd6eab0a8c07c1265c3447387e8d7ca27f812be0",
+        "encoding": "gzip",
+        "path": "books/ca/rusinol-l-auca-del-senyor-esteve-ab-redolins.ca.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "fae8718112ca29f01eff381abd75c98207bbf2f15b1564d78cbd533ca7b02b6b",
+        "sizeBytes": 112485,
+        "uncompressedSizeBytes": 309141,
+        "wordCount": 52115
+      },
+      "author": "Santiago Rusiñol",
+      "authorDeathYear": 1931,
+      "editionId": "rusinol-l-auca-del-senyor-esteve-ab-redolins.ca.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ca",
+      "originalLanguage": "ca",
+      "originalPublicationYear": 1907,
+      "originalTitle": "L'auca del senyor Esteve ab redolins dibuixats per en Ramón Casas; escrits per en Gabriel Alomar",
+      "rights": {
+        "statement": "Public domain worldwide. Santiago Rusiñol died in 1931 and the work was first published in 1907. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "56856",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:06:07.111373Z",
+        "revision": "Sat, 22 Aug 2026 17:50:31 GMT",
+        "url": "https://www.gutenberg.org/ebooks/56856"
+      },
+      "title": "L'auca del senyor Esteve ab redolins dibuixats per en Ramón Casas; escrits per en Gabriel Alomar",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "rusinol-l-auca-del-senyor-esteve-ab-redolins"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "441c9685f0d5e4dda1cc59fb84acb44edc04198e175ac0c6130be4a6f53923c3",
+        "encoding": "gzip",
+        "path": "books/ca/saltrey-viatge-del-cavaller-owein-al-purgatori-de.ca.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9d329ccf87b29f9a9f71dd199b66013376fbe55a409698d54b36db8f873c6840",
+        "sizeBytes": 19092,
+        "uncompressedSizeBytes": 50761,
+        "wordCount": 9122
+      },
+      "author": "Enric de Saltrey",
+      "authorDeathYear": 1200,
+      "editionId": "saltrey-viatge-del-cavaller-owein-al-purgatori-de.ca.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ca",
+      "originalLanguage": "fro",
+      "originalPublicationYear": 1200,
+      "originalTitle": "Viatge del Cavaller Owein al Purgatori de Sant Patrici",
+      "rights": {
+        "statement": "Public domain worldwide. Enric de Saltrey died in 1200; the translator Ramon Ros died in 1400 and this translation was first published in 1914. Source: ca.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Viatge del Cavaller Owein al Purgatori de Sant Patrici",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:06:12.204399Z",
+        "revision": "93731",
+        "url": "https://ca.wikisource.org/wiki/Viatge_del_Cavaller_Owein_al_Purgatori_de_Sant_Patrici"
+      },
+      "title": "Viatge del Cavaller Owein al Purgatori de Sant Patrici",
+      "translationPublicationYear": 1914,
+      "translator": "Ramon Ros",
+      "translatorDeathYear": 1400,
+      "workId": "saltrey-viatge-del-cavaller-owein-al-purgatori-de"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "762ab649b4519871d2d71fc7c1cc8e4f37f43dca7313b127f96f78fbbb81dd78",
+        "encoding": "gzip",
+        "path": "books/ca/tarre-els-aucells-mes-utils-a-la-agricultura.ca.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7b603568942122959b5db0983a48f97498c4136572ecd93e7a72621a77696b62",
+        "sizeBytes": 63370,
+        "uncompressedSizeBytes": 180605,
+        "wordCount": 28892
+      },
+      "author": "Emili Tarré",
+      "authorDeathYear": 1918,
+      "editionId": "tarre-els-aucells-mes-utils-a-la-agricultura.ca.gutenberg",
+      "editionPublicationYear": 1902,
+      "genres": [
+        "Science",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "ca",
+      "originalLanguage": "ca",
+      "originalPublicationYear": null,
+      "originalTitle": "Els aucells més útils a la agricultura de Catalunya",
+      "rights": {
+        "statement": "Public domain worldwide. Emili Tarré died in 1918 and the edition digitised by Project Gutenberg was printed in 1902. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "74159",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:06:14.550935Z",
+        "revision": "Sat, 29 Aug 2026 13:22:02 GMT",
+        "url": "https://www.gutenberg.org/ebooks/74159"
+      },
+      "title": "Els aucells més útils a la agricultura de Catalunya",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "tarre-els-aucells-mes-utils-a-la-agricultura"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "57bf6decda632ab4aa07c0d221c3ac07cdf7b5884a993b8536895d11d1e86bf3",
+        "encoding": "gzip",
+        "path": "books/ca/tolstoi-contes-primera-serie-no-s-pot-tirar.ca.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e719fa6f572f356e9af9e4b33cef13a37b560714e9e512c8646a4b2721e72c7d",
+        "sizeBytes": 14621,
+        "uncompressedSizeBytes": 37093,
+        "wordCount": 6147
+      },
+      "author": "Lev Tolstoi",
+      "authorDeathYear": 1910,
+      "editionId": "tolstoi-contes-primera-serie-no-s-pot-tirar.ca.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ca",
+      "originalLanguage": "ru",
+      "originalPublicationYear": 1885,
+      "originalTitle": "Contes. Primera serie/No s pot tirar llenya al foc",
+      "rights": {
+        "statement": "Public domain worldwide. Lev Tolstoi died in 1910; the translator Joaquim Casas i Carbó died in 1943 and this translation was first published in 1903. Source: ca.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Contes. Primera serie/No s pot tirar llenya al foc",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:06:19.584124Z",
+        "revision": "180978",
+        "url": "https://ca.wikisource.org/wiki/Contes._Primera_serie/No_s_pot_tirar_llenya_al_foc"
+      },
+      "title": "Contes. Primera serie/No s pot tirar llenya al foc",
+      "translationPublicationYear": 1903,
+      "translator": "Joaquim Casas i Carbó",
+      "translatorDeathYear": 1943,
+      "workId": "tolstoi-contes-primera-serie-no-s-pot-tirar"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 77,
+        "contentSha256": "16056b9b2a75d299321c0937d4382986478602a30fd74bcff6c37f89ad5f5d2f",
+        "encoding": "gzip",
+        "path": "books/ca/vayreda-sang-nova-novel-la-muntanyenca-volumes-1.ca.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "829beae265d205a25970767b2dbfa6bc1f64c3d42819721643ba6a237033feb2",
+        "sizeBytes": 226926,
+        "uncompressedSizeBytes": 587146,
+        "wordCount": 95208
+      },
+      "author": "Marià Vayreda",
+      "authorDeathYear": 1903,
+      "editionId": "vayreda-sang-nova-novel-la-muntanyenca-volumes-1.ca.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ca",
+      "originalLanguage": "ca",
+      "originalPublicationYear": 1900,
+      "originalTitle": "Sang Nova Novel, la muntanyenca (Volumes 1 and 2)",
+      "rights": {
+        "statement": "Public domain worldwide. Marià Vayreda died in 1903 and the work was first published in 1900. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "23021",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:06:22.729862Z",
+        "revision": "Wed, 09 Sep 2026 16:27:46 GMT",
+        "url": "https://www.gutenberg.org/ebooks/23021"
+      },
+      "title": "Sang Nova Novel, la muntanyenca (Volumes 1 and 2)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vayreda-sang-nova-novel-la-muntanyenca-volumes-1"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Catalan",
+  "language": "ca",
+  "manifestVersion": "ba7a548d62beb4e9",
+  "nativeName": "Català",
+  "schemaVersion": 1
+}

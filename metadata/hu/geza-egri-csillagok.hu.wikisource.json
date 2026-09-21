@@ -1,0 +1,109 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:58:42.332199Z",
+    "chapterCount": 23,
+    "contentSha256": "a065f85532a71f04a1baa445aec4693061b8d1a20143c938d38512fd1d47b6a7",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hu/geza-egri-csillagok.hu.wikisource/v1/book.json.gz",
+    "sha256": "3d54874740d978019e1146d553c40403d6b58645c62b475bf02056bb02876883",
+    "sizeBytes": 388195,
+    "uncompressedSizeBytes": 1069364,
+    "wordCount": 142039
+  },
+  "edition": {
+    "editionId": "geza-egri-csillagok.hu.wikisource",
+    "kind": "original",
+    "language": "hu",
+    "title": "Egri csillagok"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1922: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1901: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q987956",
+      "https://www.wikidata.org/wiki/Q221903",
+      "https://hu.wikisource.org/wiki/Egri_csillagok"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Gárdonyi Géza died in 1922 and the work was first published in 1901. Source: hu.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Egri csillagok",
+    "pages": [
+      {
+        "revision": 54554,
+        "title": "Egri csillagok"
+      },
+      {
+        "revision": 54063,
+        "title": "Egri csillagok/1. rész"
+      },
+      {
+        "revision": 54290,
+        "title": "Egri csillagok/2. rész"
+      },
+      {
+        "revision": 74157,
+        "title": "Egri csillagok/3. rész"
+      },
+      {
+        "revision": 54335,
+        "title": "Egri csillagok/4. rész"
+      },
+      {
+        "revision": 54328,
+        "title": "Egri csillagok/5. rész"
+      },
+      {
+        "revision": 103073,
+        "title": "Egri csillagok/Befejezés"
+      },
+      {
+        "revision": 54509,
+        "title": "Egri csillagok/A várvédő egri hősök névsora"
+      },
+      {
+        "revision": 54562,
+        "title": "Egri csillagok/Egyes névtelenek"
+      },
+      {
+        "revision": 98850,
+        "title": "Egri csillagok/Török szavak és kifejezések"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:35:11.994843Z",
+    "revision": "54554",
+    "site": "hu.wikisource.org",
+    "url": "https://hu.wikisource.org/wiki/Egri_csillagok"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1863,
+      "deathYear": 1922,
+      "name": "Gárdonyi Géza",
+      "wikidata": "Q221903"
+    },
+    "originalLanguage": "hu",
+    "originalPublicationYear": 1901,
+    "originalTitle": "Egri csillagok",
+    "workId": "geza-egri-csillagok"
+  }
+}

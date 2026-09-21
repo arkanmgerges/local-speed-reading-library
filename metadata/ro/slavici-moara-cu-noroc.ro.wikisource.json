@@ -1,13 +1,13 @@
 {
   "asset": {
-    "assetVersion": 1,
-    "builtAt": "2026-09-20T18:54:34.720074Z",
+    "assetVersion": 2,
+    "builtAt": "2026-09-21T06:34:12.650498Z",
     "chapterCount": 17,
-    "contentSha256": "39caaea37c193a98618ba74153d9ec9bbbc00be6aca389162c14218a0e1a9469",
-    "normalizerVersion": "0.1.0",
-    "path": "books/ro/slavici-moara-cu-noroc.ro.wikisource/v1/book.json.gz",
-    "sha256": "7b5eaa41784b030573d73c2f1abe294c55b91a4a616778764c5f54b0c643feb5",
-    "sizeBytes": 79514,
+    "contentSha256": "c1fd58c7614690f225671cd85a50584d73bab66131e97e174c74b5e6e9197cca",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/slavici-moara-cu-noroc.ro.wikisource/v2/book.json.gz",
+    "sha256": "9b258ee2107731c38afc52aa215ff1e704e16d8f94690c0eaf2f419c0228cbaa",
+    "sizeBytes": 79515,
     "uncompressedSizeBytes": 237583,
     "wordCount": 39178
   },
@@ -22,7 +22,7 @@
     "Fiction"
   ],
   "publish": {
-    "assetVersion": 1
+    "assetVersion": 2
   },
   "rights": {
     "basis": [

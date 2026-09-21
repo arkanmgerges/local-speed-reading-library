@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:16.121516Z",
+    "chapterCount": 40,
+    "contentSha256": "c2786a7b8e1f85eb9300c4229aff7c873da65e8c08cf4eebe1989519a71332d4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/bg/vazov-q131085333.bg.wikisource/v1/book.json.gz",
+    "sha256": "e4e2f1276f79a9a586cae68c0e22835f7e99166cbb06296002ec9fddc36c95c3",
+    "sizeBytes": 122987,
+    "uncompressedSizeBytes": 453545,
+    "wordCount": 40266
+  },
+  "edition": {
+    "editionId": "vazov-q131085333.bg.wikisource",
+    "kind": "original",
+    "language": "bg",
+    "title": "Нова земя"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1921: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1896: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q131085333",
+      "https://www.wikidata.org/wiki/Q310630",
+      "https://bg.wikisource.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0_%D0%B7%D0%B5%D0%BC%D1%8F"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Иван Вазов died in 1921 and the work was first published in 1896. Source: bg.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Нова земя",
+    "pages": [
+      {
+        "revision": 18747,
+        "title": "Нова земя"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:59:03.047569Z",
+    "revision": "18747",
+    "site": "bg.wikisource.org",
+    "url": "https://bg.wikisource.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0_%D0%B7%D0%B5%D0%BC%D1%8F"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1850,
+      "deathYear": 1921,
+      "name": "Иван Вазов",
+      "wikidata": "Q310630"
+    },
+    "originalLanguage": "bg",
+    "originalPublicationYear": 1896,
+    "originalTitle": "Нова земя",
+    "workId": "vazov-q131085333"
+  }
+}

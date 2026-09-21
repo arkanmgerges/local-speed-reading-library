@@ -1,0 +1,223 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:27:08.713091Z",
+    "chapterCount": 69,
+    "contentSha256": "835af408233ad1958e8285c858d53dc0e4f9c2d0961dfcfa616c8d22552dd933",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/stevenson-l-ile-au-tresor.fr.wikisource/v1/book.json.gz",
+    "sha256": "d58da86654f2e03532a88c3c2d1d6f33ef8ba55e62769bf37b11e51d8600fee7",
+    "sizeBytes": 310147,
+    "uncompressedSizeBytes": 873776,
+    "wordCount": 139471
+  },
+  "edition": {
+    "editionId": "stevenson-l-ile-au-tresor.fr.wikisource",
+    "kind": "translation",
+    "language": "fr",
+    "title": "L’Île au trésor",
+    "translationPublicationYear": 1926,
+    "translator": {
+      "birthYear": 1878,
+      "deathYear": 1938,
+      "name": "Théo Varlet",
+      "wikidata": "Q3526334"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1894: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1938: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1926: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q185118",
+      "https://www.wikidata.org/wiki/Q44476148",
+      "https://www.wikidata.org/wiki/Q1512",
+      "https://www.wikidata.org/wiki/Q3526334",
+      "https://fr.wikisource.org/wiki/L%E2%80%99%C3%8Ele_au_tr%C3%A9sor_(trad._Varlet)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Robert Louis Stevenson died in 1894; the translator Théo Varlet died in 1938 and this translation was first published in 1926. Source: fr.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "L’Île au trésor (trad. Varlet)",
+    "pages": [
+      {
+        "revision": 14107245,
+        "title": "L’Île au trésor (trad. Varlet)"
+      },
+      {
+        "revision": 14806174,
+        "title": "L’Île au trésor (trad. Varlet)/Texte entier"
+      },
+      {
+        "revision": 14806090,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 1"
+      },
+      {
+        "revision": 14806092,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 2"
+      },
+      {
+        "revision": 14806093,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 3"
+      },
+      {
+        "revision": 14806096,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 4"
+      },
+      {
+        "revision": 14806099,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 5"
+      },
+      {
+        "revision": 14806100,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 6"
+      },
+      {
+        "revision": 14806104,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 7"
+      },
+      {
+        "revision": 14806106,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 8"
+      },
+      {
+        "revision": 14806107,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 9"
+      },
+      {
+        "revision": 14806108,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 10"
+      },
+      {
+        "revision": 14806109,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 11"
+      },
+      {
+        "revision": 14806112,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 12"
+      },
+      {
+        "revision": 14806115,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 13"
+      },
+      {
+        "revision": 14806117,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 14"
+      },
+      {
+        "revision": 14806119,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 15"
+      },
+      {
+        "revision": 14806125,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 16"
+      },
+      {
+        "revision": 14806127,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 17"
+      },
+      {
+        "revision": 14806130,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 18"
+      },
+      {
+        "revision": 14806133,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 19"
+      },
+      {
+        "revision": 14806134,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 20"
+      },
+      {
+        "revision": 14806138,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 21"
+      },
+      {
+        "revision": 14806139,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 22"
+      },
+      {
+        "revision": 14806141,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 23"
+      },
+      {
+        "revision": 14806142,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 24"
+      },
+      {
+        "revision": 14806144,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 25"
+      },
+      {
+        "revision": 14806145,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 26"
+      },
+      {
+        "revision": 14806146,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 27"
+      },
+      {
+        "revision": 14806148,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 28"
+      },
+      {
+        "revision": 14806149,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 29"
+      },
+      {
+        "revision": 14806150,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 30"
+      },
+      {
+        "revision": 14806151,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 31"
+      },
+      {
+        "revision": 14806153,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 32"
+      },
+      {
+        "revision": 14806154,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 33"
+      },
+      {
+        "revision": 14806156,
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 34"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:13:10.424596Z",
+    "revision": "14107245",
+    "site": "fr.wikisource.org",
+    "url": "https://fr.wikisource.org/wiki/L%E2%80%99%C3%8Ele_au_tr%C3%A9sor_(trad._Varlet)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1850,
+      "deathYear": 1894,
+      "name": "Robert Louis Stevenson",
+      "wikidata": "Q1512"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1883,
+    "originalTitle": "L’Île au trésor",
+    "workId": "stevenson-l-ile-au-tresor"
+  }
+}

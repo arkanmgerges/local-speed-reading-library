@@ -1,0 +1,235 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:52:07.157777Z",
+    "chapterCount": 76,
+    "contentSha256": "8ae000c779029f81827a32415a554a4679d6e9c213f0aee098a34e995c71d018",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cs/twain-dobrodruystvi-toma-sawyera.cs.wikisource/v1/book.json.gz",
+    "sha256": "4770c3f622c357b55d33ddacb9516030b8ffa403051b0510e94746cf1467a691",
+    "sizeBytes": 167751,
+    "uncompressedSizeBytes": 436907,
+    "wordCount": 61557
+  },
+  "edition": {
+    "editionId": "twain-dobrodruystvi-toma-sawyera.cs.wikisource",
+    "kind": "translation",
+    "language": "cs",
+    "title": "Dobrodružství Toma Sawyera",
+    "translationPublicationYear": 1900,
+    "translator": {
+      "birthYear": 1878,
+      "deathYear": 1948,
+      "name": "Karel Kohlman",
+      "wikidata": "Q86534567"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1910: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1948: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1900: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q326914",
+      "https://www.wikidata.org/wiki/Q86352099",
+      "https://www.wikidata.org/wiki/Q7245",
+      "https://www.wikidata.org/wiki/Q86534567",
+      "https://cs.wikisource.org/wiki/Dobrodru%C5%BEstv%C3%AD_Toma_Sawyera"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Mark Twain died in 1910; the translator Karel Kohlman died in 1948 and this translation was first published in 1900. Source: cs.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Dobrodružství Toma Sawyera",
+    "pages": [
+      {
+        "revision": 277142,
+        "title": "Dobrodružství Toma Sawyera"
+      },
+      {
+        "revision": 275829,
+        "title": "Dobrodružství Toma Sawyera/Předmluva"
+      },
+      {
+        "revision": 284126,
+        "title": "Dobrodružství Toma Sawyera/I"
+      },
+      {
+        "revision": 284127,
+        "title": "Dobrodružství Toma Sawyera/II"
+      },
+      {
+        "revision": 284128,
+        "title": "Dobrodružství Toma Sawyera/III"
+      },
+      {
+        "revision": 284129,
+        "title": "Dobrodružství Toma Sawyera/IV"
+      },
+      {
+        "revision": 284131,
+        "title": "Dobrodružství Toma Sawyera/V"
+      },
+      {
+        "revision": 284261,
+        "title": "Dobrodružství Toma Sawyera/VI"
+      },
+      {
+        "revision": 284262,
+        "title": "Dobrodružství Toma Sawyera/VII"
+      },
+      {
+        "revision": 284263,
+        "title": "Dobrodružství Toma Sawyera/VIII"
+      },
+      {
+        "revision": 284130,
+        "title": "Dobrodružství Toma Sawyera/IX"
+      },
+      {
+        "revision": 284264,
+        "title": "Dobrodružství Toma Sawyera/X"
+      },
+      {
+        "revision": 284265,
+        "title": "Dobrodružství Toma Sawyera/XI"
+      },
+      {
+        "revision": 284270,
+        "title": "Dobrodružství Toma Sawyera/XIa"
+      },
+      {
+        "revision": 284266,
+        "title": "Dobrodružství Toma Sawyera/XII"
+      },
+      {
+        "revision": 284267,
+        "title": "Dobrodružství Toma Sawyera/XIII"
+      },
+      {
+        "revision": 293638,
+        "title": "Dobrodružství Toma Sawyera/XIV"
+      },
+      {
+        "revision": 284271,
+        "title": "Dobrodružství Toma Sawyera/XV"
+      },
+      {
+        "revision": 284272,
+        "title": "Dobrodružství Toma Sawyera/XVI"
+      },
+      {
+        "revision": 284273,
+        "title": "Dobrodružství Toma Sawyera/XVII"
+      },
+      {
+        "revision": 284274,
+        "title": "Dobrodružství Toma Sawyera/XVIII"
+      },
+      {
+        "revision": 284269,
+        "title": "Dobrodružství Toma Sawyera/XIX"
+      },
+      {
+        "revision": 284275,
+        "title": "Dobrodružství Toma Sawyera/XX"
+      },
+      {
+        "revision": 284276,
+        "title": "Dobrodružství Toma Sawyera/XXI"
+      },
+      {
+        "revision": 284277,
+        "title": "Dobrodružství Toma Sawyera/XXII"
+      },
+      {
+        "revision": 284278,
+        "title": "Dobrodružství Toma Sawyera/XXIII"
+      },
+      {
+        "revision": 293639,
+        "title": "Dobrodružství Toma Sawyera/XXIV"
+      },
+      {
+        "revision": 284300,
+        "title": "Dobrodružství Toma Sawyera/XXV"
+      },
+      {
+        "revision": 284301,
+        "title": "Dobrodružství Toma Sawyera/XXVI"
+      },
+      {
+        "revision": 284302,
+        "title": "Dobrodružství Toma Sawyera/XXVII"
+      },
+      {
+        "revision": 284303,
+        "title": "Dobrodružství Toma Sawyera/XXVIII"
+      },
+      {
+        "revision": 284280,
+        "title": "Dobrodružství Toma Sawyera/XXIX"
+      },
+      {
+        "revision": 284304,
+        "title": "Dobrodružství Toma Sawyera/XXX"
+      },
+      {
+        "revision": 284305,
+        "title": "Dobrodružství Toma Sawyera/XXXI"
+      },
+      {
+        "revision": 284306,
+        "title": "Dobrodružství Toma Sawyera/XXXII"
+      },
+      {
+        "revision": 284307,
+        "title": "Dobrodružství Toma Sawyera/XXXIII"
+      },
+      {
+        "revision": 284308,
+        "title": "Dobrodružství Toma Sawyera/XXXIV"
+      },
+      {
+        "revision": 284309,
+        "title": "Dobrodružství Toma Sawyera/XXXV"
+      },
+      {
+        "revision": 284322,
+        "title": "Dobrodružství Toma Sawyera/Závěrek"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:15:54.763771Z",
+    "revision": "277142",
+    "site": "cs.wikisource.org",
+    "url": "https://cs.wikisource.org/wiki/Dobrodru%C5%BEstv%C3%AD_Toma_Sawyera"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1910,
+      "name": "Mark Twain",
+      "wikidata": "Q7245"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1876,
+    "originalTitle": "Dobrodružství Toma Sawyera",
+    "workId": "twain-dobrodruystvi-toma-sawyera"
+  }
+}

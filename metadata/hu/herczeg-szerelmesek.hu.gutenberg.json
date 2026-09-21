@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:28:06.262205Z",
+    "chapterCount": 29,
+    "contentSha256": "b01f4bd8f4fa652cb81fa9e1368cc3ee0993fdbda8992cbf8c845a06c33752c3",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hu/herczeg-szerelmesek.hu.gutenberg/v1/book.json.gz",
+    "sha256": "92aa55e36c8976fe378d91a0ec968c3231059b1af1dc869501d72396d17288c1",
+    "sizeBytes": 126236,
+    "uncompressedSizeBytes": 340386,
+    "wordCount": 43286
+  },
+  "edition": {
+    "editionId": "herczeg-szerelmesek.hu.gutenberg",
+    "editionPublicationYear": 1909,
+    "kind": "original",
+    "language": "hu",
+    "title": "Szerelmesek"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1954: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1909 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/75286",
+      "https://en.wikipedia.org/wiki/Ferenc_Herczeg"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ferenc Herczeg died in 1954 and the edition digitised by Project Gutenberg was printed in 1909. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "75286",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:35:20.509272Z",
+    "revision": "Sat, 29 Aug 2026 18:43:37 GMT",
+    "url": "https://www.gutenberg.org/ebooks/75286"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1863,
+      "deathYear": 1954,
+      "name": "Ferenc Herczeg",
+      "wikidata": "Q701640"
+    },
+    "originalLanguage": "hu",
+    "originalTitle": "Szerelmesek",
+    "workId": "herczeg-szerelmesek"
+  }
+}

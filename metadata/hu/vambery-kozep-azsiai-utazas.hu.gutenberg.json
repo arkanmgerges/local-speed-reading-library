@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:59:08.079406Z",
+    "chapterCount": 61,
+    "contentSha256": "b2d806c5b99ffa6faa245ca776c2a53793cd4b1e131db49d52648e64d5ad17e4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hu/vambery-kozep-azsiai-utazas.hu.gutenberg/v1/book.json.gz",
+    "sha256": "df5ac11c6a2b4907063622e0ff6d2e7bd00e4ea8a1d34569d22d781850663c51",
+    "sizeBytes": 262716,
+    "uncompressedSizeBytes": 662030,
+    "wordCount": 85371
+  },
+  "edition": {
+    "editionId": "vambery-kozep-azsiai-utazas.hu.gutenberg",
+    "editionPublicationYear": 1865,
+    "kind": "original",
+    "language": "hu",
+    "title": "Közép-ázsiai utazás"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1913: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1865 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/69015",
+      "https://en.wikipedia.org/wiki/%C3%81rmin_V%C3%A1mb%C3%A9ry",
+      "https://hu.wikipedia.org/wiki/V%C3%A1mb%C3%A9ry_%C3%81rmin"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ármin Vámbéry died in 1913 and the edition digitised by Project Gutenberg was printed in 1865. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "69015",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:36:34.775085Z",
+    "revision": "Thu, 27 Aug 2026 13:24:08 GMT",
+    "url": "https://www.gutenberg.org/ebooks/69015"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1832,
+      "deathYear": 1913,
+      "name": "Ármin Vámbéry",
+      "wikidata": "Q557360"
+    },
+    "originalLanguage": "hu",
+    "originalTitle": "Közép-ázsiai utazás",
+    "workId": "vambery-kozep-azsiai-utazas"
+  }
+}

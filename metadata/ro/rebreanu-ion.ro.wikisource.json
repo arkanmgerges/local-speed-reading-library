@@ -1,0 +1,81 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:09.220405Z",
+    "chapterCount": 13,
+    "contentSha256": "60df3ba88523acc7b521dd3f9753209c502e75fac70b49a67a32944b4b2ef728",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/rebreanu-ion.ro.wikisource/v1/book.json.gz",
+    "sha256": "71d2550fc400a9ec72ea6eafc8e55ae1c6ee3d26b8eaa52d732ddcb1e790c102",
+    "sizeBytes": 370415,
+    "uncompressedSizeBytes": 1001209,
+    "wordCount": 151908
+  },
+  "edition": {
+    "editionId": "rebreanu-ion.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "title": "Ion"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1944: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1920: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12730777",
+      "https://www.wikidata.org/wiki/Q462220",
+      "https://ro.wikisource.org/wiki/Ion_(Rebreanu)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Liviu Rebreanu died in 1944 and the work was first published in 1920. Source: ro.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Ion (Rebreanu)",
+    "pages": [
+      {
+        "revision": 144776,
+        "title": "Ion (Rebreanu)"
+      },
+      {
+        "revision": 149664,
+        "title": "Ion (Rebreanu)/1. Glasul pământului"
+      },
+      {
+        "revision": 149663,
+        "title": "Ion (Rebreanu)/2. Glasul iubirii"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:51:41.940252Z",
+    "revision": "144776",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/Ion_(Rebreanu)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1885,
+      "deathYear": 1944,
+      "name": "Liviu Rebreanu",
+      "wikidata": "Q462220"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1920,
+    "originalTitle": "Ion",
+    "workId": "rebreanu-ion"
+  }
+}

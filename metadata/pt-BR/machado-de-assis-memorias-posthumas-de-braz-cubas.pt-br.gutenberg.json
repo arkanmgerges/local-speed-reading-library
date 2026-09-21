@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:33:21.309076Z",
+    "chapterCount": 1,
+    "contentSha256": "99a8dac9d12d62f27471afe82096dd159cc462fbbf04ffc0b54528ae5ffeece6",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt-br/machado-de-assis-memorias-posthumas-de-braz-cubas.pt-br.gutenberg/v1/book.json.gz",
+    "sha256": "890b17d75e74813ea45d75bac2ac70a86be8be193616ab6c99ae59e68fbb99ae",
+    "sizeBytes": 147038,
+    "uncompressedSizeBytes": 388393,
+    "wordCount": 61664
+  },
+  "edition": {
+    "editionId": "machado-de-assis-memorias-posthumas-de-braz-cubas.pt-br.gutenberg",
+    "kind": "original",
+    "language": "pt-BR",
+    "title": "Memorias Posthumas de Braz Cubas"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1908: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1881: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/54829",
+      "https://en.wikipedia.org/wiki/Machado_de_Assis",
+      "https://www.wikidata.org/wiki/Q1464493"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1881. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "54829",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:45:14.349104Z",
+    "revision": "Sat, 22 Aug 2026 08:33:17 GMT",
+    "url": "https://www.gutenberg.org/ebooks/54829"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1839,
+      "deathYear": 1908,
+      "name": "Machado de Assis",
+      "wikidata": "Q311145"
+    },
+    "originalLanguage": "pt-BR",
+    "originalPublicationYear": 1881,
+    "originalTitle": "Memorias Posthumas de Braz Cubas",
+    "workId": "machado-de-assis-memorias-posthumas-de-braz-cubas"
+  }
+}

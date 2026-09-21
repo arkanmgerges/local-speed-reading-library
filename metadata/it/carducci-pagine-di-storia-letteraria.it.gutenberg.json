@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:59:36.380438Z",
+    "chapterCount": 131,
+    "contentSha256": "d0b1a8104e6a1f11b28ca19bd01c7aed2ce923679ab09a793a95a53a836bee0c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/carducci-pagine-di-storia-letteraria.it.gutenberg/v1/book.json.gz",
+    "sha256": "ee4907bd9da023f54def75100d20a4518acaaca26934f77fa601597deb613021",
+    "sizeBytes": 402605,
+    "uncompressedSizeBytes": 1068757,
+    "wordCount": 161633
+  },
+  "edition": {
+    "editionId": "carducci-pagine-di-storia-letteraria.it.gutenberg",
+    "editionPublicationYear": 1920,
+    "kind": "original",
+    "language": "it",
+    "title": "Pagine di storia letteraria"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1907: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1920 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/77906",
+      "https://en.wikipedia.org/wiki/Giosu%C3%A8_Carducci"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Giosuè Carducci died in 1907 and the edition digitised by Project Gutenberg was printed in 1920. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "77906",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:42:08.311994Z",
+    "revision": "Sun, 30 Aug 2026 23:26:18 GMT",
+    "url": "https://www.gutenberg.org/ebooks/77906"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1907,
+      "name": "Giosuè Carducci",
+      "wikidata": "Q43440"
+    },
+    "originalLanguage": "it",
+    "originalTitle": "Pagine di storia letteraria",
+    "workId": "carducci-pagine-di-storia-letteraria"
+  }
+}

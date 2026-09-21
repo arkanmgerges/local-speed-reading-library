@@ -1,0 +1,153 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:53:35.000904Z",
+    "chapterCount": 31,
+    "contentSha256": "51a8b4418c6f0bdd44f455f0702e2cb1e6cf375eb62902bc7cfb94cb3266e597",
+    "normalizerVersion": "0.2.0",
+    "path": "books/el/kokkonis-geografia-stoicheiodis.el.wikisource/v1/book.json.gz",
+    "sha256": "03851fa50ef6d42edfbeda8c18caf8e497ca0b1cea3e0fa77b694bf20df51069",
+    "sizeBytes": 374109,
+    "uncompressedSizeBytes": 1489697,
+    "wordCount": 118144
+  },
+  "edition": {
+    "editionId": "kokkonis-geografia-stoicheiodis.el.wikisource",
+    "kind": "original",
+    "language": "el",
+    "title": "Γεωγραφία Στοιχειώδης"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1864: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1861: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q107588229",
+      "https://www.wikidata.org/wiki/Q12878356",
+      "https://el.wikisource.org/wiki/%CE%93%CE%B5%CF%89%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1_%CE%A3%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%B9%CF%8E%CE%B4%CE%B7%CF%82"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ιωάννης Κοκκώνης died in 1864 and the work was first published in 1861. Source: el.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Γεωγραφία Στοιχειώδης",
+    "pages": [
+      {
+        "revision": 124737,
+        "title": "Γεωγραφία Στοιχειώδης"
+      },
+      {
+        "revision": 111603,
+        "title": "Γεωγραφία Στοιχειώδης/Ειδοποιήσεις"
+      },
+      {
+        "revision": 111616,
+        "title": "Γεωγραφία Στοιχειώδης/Προσθήκαι"
+      },
+      {
+        "revision": 114508,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Α΄/Βιβλίον Α΄/Εισαγωγή"
+      },
+      {
+        "revision": 115833,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Α΄/Βιβλίον Α΄/Κεφάλαιον Α΄"
+      },
+      {
+        "revision": 115834,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Α΄/Βιβλίον Α΄/Κεφάλαιον Β΄"
+      },
+      {
+        "revision": 111810,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Α΄/Βιβλίον Β΄/Κεφάλαιον Α΄"
+      },
+      {
+        "revision": 111811,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Α΄/Βιβλίον Β΄/Κεφάλαιον Β΄"
+      },
+      {
+        "revision": 111841,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Α΄/Βιβλίον Β΄/Κεφάλαιον Γ΄"
+      },
+      {
+        "revision": 111850,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Α΄/Βιβλίον Β΄/Κεφάλαιον Δ΄"
+      },
+      {
+        "revision": 111930,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Α΄/Βιβλίον Β΄/Κεφάλαιον Ε΄"
+      },
+      {
+        "revision": 111936,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Β΄/Εισαγωγή"
+      },
+      {
+        "revision": 111943,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Β΄/Βιβλίον Α΄/Εισαγωγή"
+      },
+      {
+        "revision": 111958,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Β΄/Βιβλίον Α΄/Κεφάλαιον Α΄"
+      },
+      {
+        "revision": 111994,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Β΄/Βιβλίον Α΄/Κεφάλαιον Β΄"
+      },
+      {
+        "revision": 112604,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Β΄/Βιβλίον Α΄/Κεφάλαιον Γ΄"
+      },
+      {
+        "revision": 113707,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Β΄/Βιβλίον Β΄/Κεφάλαιον Α΄"
+      },
+      {
+        "revision": 113952,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Β΄/Βιβλίον Β΄/Κεφάλαιον Β΄"
+      },
+      {
+        "revision": 114173,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Β΄/Βιβλίον Β΄/Κεφάλαιον Γ΄"
+      },
+      {
+        "revision": 115564,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Β΄/Βιβλίον Β΄/Κεφάλαιον Δ΄"
+      },
+      {
+        "revision": 115665,
+        "title": "Γεωγραφία Στοιχειώδης/Μέρος Β΄/Βιβλίον Β΄/Κεφάλαιον Ε΄"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:28:21.838444Z",
+    "revision": "124737",
+    "site": "el.wikisource.org",
+    "url": "https://el.wikisource.org/wiki/%CE%93%CE%B5%CF%89%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1_%CE%A3%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%B9%CF%8E%CE%B4%CE%B7%CF%82"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1796,
+      "deathYear": 1864,
+      "name": "Ιωάννης Κοκκώνης",
+      "wikidata": "Q12878356"
+    },
+    "originalLanguage": "el",
+    "originalPublicationYear": 1861,
+    "originalTitle": "Γεωγραφία Στοιχειώδης",
+    "workId": "kokkonis-geografia-stoicheiodis"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:47.795791Z",
+    "chapterCount": 14,
+    "contentSha256": "40954321c1d86b12d1fcc014e9ccc566a81419cca4a6085e8e9319eff4d857f6",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/pekkola-terveeks.fi.gutenberg/v1/book.json.gz",
+    "sha256": "99b754b54922d440c0b343a4fff9ade2d299a2d59a9dc01815850b23965d1a78",
+    "sizeBytes": 87531,
+    "uncompressedSizeBytes": 232953,
+    "wordCount": 26665
+  },
+  "edition": {
+    "editionId": "pekkola-terveeks.fi.gutenberg",
+    "editionPublicationYear": 1929,
+    "kind": "original",
+    "language": "fi",
+    "title": "Terveeks' — Buddha!"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1931: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1929 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/76730",
+      "https://fi.wikipedia.org/wiki/Sulo-Weikko_Pekkola"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Sulo-Weikko Pekkola died in 1931 and the edition digitised by Project Gutenberg was printed in 1929. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "76730",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:04:55.036890Z",
+    "revision": "Sun, 30 Aug 2026 17:25:10 GMT",
+    "url": "https://www.gutenberg.org/ebooks/76730"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1890,
+      "deathYear": 1931,
+      "name": "Sulo-Weikko Pekkola",
+      "wikidata": "Q5411298"
+    },
+    "originalLanguage": "fi",
+    "originalTitle": "Terveeks' — Buddha!",
+    "workId": "pekkola-terveeks"
+  }
+}

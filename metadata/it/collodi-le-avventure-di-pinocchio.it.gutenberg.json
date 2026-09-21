@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:59:37.877175Z",
+    "chapterCount": 37,
+    "contentSha256": "caafd95be36360b4e383435e70d5f41553c432c8c557f155a9d25635d1b043ff",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/collodi-le-avventure-di-pinocchio.it.gutenberg/v1/book.json.gz",
+    "sha256": "678fab3a2b37e6369723f825961acb5fe300f5afd957e2bb0442c497f7663eb3",
+    "sizeBytes": 89930,
+    "uncompressedSizeBytes": 267845,
+    "wordCount": 40835
+  },
+  "edition": {
+    "editionId": "collodi-le-avventure-di-pinocchio.it.gutenberg",
+    "kind": "original",
+    "language": "it",
+    "title": "Le avventure di Pinocchio: Storia di un burattino"
+  },
+  "genres": [
+    "Fiction",
+    "Children"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1890: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1883: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/52484",
+      "https://en.wikipedia.org/wiki/Carlo_Collodi",
+      "https://www.wikidata.org/wiki/Q8065468"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Carlo Collodi died in 1890 and the work was first published in 1883. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "52484",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:42:16.388854Z",
+    "revision": "Fri, 21 Aug 2026 09:30:39 GMT",
+    "url": "https://www.gutenberg.org/ebooks/52484"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1826,
+      "deathYear": 1890,
+      "name": "Carlo Collodi",
+      "wikidata": "Q199588"
+    },
+    "originalLanguage": "it",
+    "originalPublicationYear": 1883,
+    "originalTitle": "Le avventure di Pinocchio: Storia di un burattino",
+    "workId": "collodi-le-avventure-di-pinocchio"
+  }
+}

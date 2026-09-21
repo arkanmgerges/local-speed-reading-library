@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:20:47.102971Z",
+    "chapterCount": 1,
+    "contentSha256": "e2c59805b4403d6663868b921af2d109af3b7493c112e09fdad3592f11ce804d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/as/bardoloi-griha-lakshmi.as.wikisource/v1/book.json.gz",
+    "sha256": "edf426ff2d89662835c27b29a6bf5b4e51b75635932823d606966b9107e6c974",
+    "sizeBytes": 25854,
+    "uncompressedSizeBytes": 113030,
+    "wordCount": 6961
+  },
+  "edition": {
+    "editionId": "bardoloi-griha-lakshmi.as.wikisource",
+    "kind": "original",
+    "language": "as",
+    "title": "গৃহ-লক্ষ্মী"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1936: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1910: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q136325020",
+      "https://www.wikidata.org/wiki/Q6956919",
+      "https://as.wikisource.org/wiki/%E0%A6%97%E0%A7%83%E0%A6%B9-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%80"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. নবীনচন্দ্ৰ বৰদলৈ died in 1936 and the work was first published in 1910. Source: as.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "গৃহ-লক্ষ্মী",
+    "pages": [
+      {
+        "revision": 79677,
+        "title": "গৃহ-লক্ষ্মী"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:53:41.442817Z",
+    "revision": "79677",
+    "site": "as.wikisource.org",
+    "url": "https://as.wikisource.org/wiki/%E0%A6%97%E0%A7%83%E0%A6%B9-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%80"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1875,
+      "deathYear": 1936,
+      "name": "নবীনচন্দ্ৰ বৰদলৈ",
+      "wikidata": "Q6956919"
+    },
+    "originalLanguage": "as",
+    "originalPublicationYear": 1910,
+    "originalTitle": "গৃহ-লক্ষ্মী",
+    "workId": "bardoloi-griha-lakshmi"
+  }
+}

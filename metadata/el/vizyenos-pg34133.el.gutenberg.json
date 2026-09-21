@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:23:38.223560Z",
+    "chapterCount": 7,
+    "contentSha256": "71bea292894b3e00fe6dc4495d7ca656f8e32092007539cb47a061103a457e00",
+    "normalizerVersion": "0.2.0",
+    "path": "books/el/vizyenos-pg34133.el.gutenberg/v1/book.json.gz",
+    "sha256": "c475e87b68e66537d78f75918ca98384c7b1784de8e5691332ca5d51f76b5361",
+    "sizeBytes": 93787,
+    "uncompressedSizeBytes": 334708,
+    "wordCount": 30384
+  },
+  "edition": {
+    "editionId": "vizyenos-pg34133.el.gutenberg",
+    "kind": "original",
+    "language": "el",
+    "title": "Ποίος ήτον ο φονεύς του αδελφού μου"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1896: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1883: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/34133",
+      "https://el.wikipedia.org/wiki/%CE%93%CE%B5%CF%8E%CF%81%CE%B3%CE%B9%CE%BF%CF%82_%CE%92%CE%B9%CE%B6%CF%85%CE%B7%CE%BD%CF%8C%CF%82",
+      "https://www.wikidata.org/wiki/Q12883542"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. G. M. Vizyenos died in 1896 and the work was first published in 1883. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "34133",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:30:46.227879Z",
+    "revision": "Mon, 14 Sep 2026 08:53:12 GMT",
+    "url": "https://www.gutenberg.org/ebooks/34133"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1849,
+      "deathYear": 1896,
+      "name": "G. M. Vizyenos",
+      "wikidata": "Q331250"
+    },
+    "originalLanguage": "el",
+    "originalPublicationYear": 1883,
+    "originalTitle": "Ποίος ήτον ο φονεύς του αδελφού μου",
+    "workId": "vizyenos-pg34133"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:20:29.729849Z",
+    "chapterCount": 12,
+    "contentSha256": "84007d96b03dd167ae981a72288c56ac67260223d19eda64bdf80a477b55369e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/al-ghazali-the-incoherence-of-the-philosophers.ar.wikisource/v1/book.json.gz",
+    "sha256": "faddd19d74c96218abe952b03100e14319c46b1d8e3f9cd30f8228a4bf85a7c9",
+    "sizeBytes": 31479,
+    "uncompressedSizeBytes": 121334,
+    "wordCount": 12269
+  },
+  "edition": {
+    "editionId": "al-ghazali-the-incoherence-of-the-philosophers.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "تهافت الفلاسفة"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1111: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1095: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q2736005",
+      "https://www.wikidata.org/wiki/Q9546",
+      "https://ar.wikisource.org/wiki/%D8%AA%D9%87%D8%A7%D9%81%D8%AA_%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%B3%D9%81%D8%A9"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. أبو حامد الغزالي died in 1111 and the work was first published in 1095. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "تهافت الفلاسفة",
+    "pages": [
+      {
+        "revision": 413651,
+        "title": "تهافت الفلاسفة"
+      },
+      {
+        "revision": 289190,
+        "title": "تهافت الفلاسفة/مقدمة"
+      },
+      {
+        "revision": 232917,
+        "title": "تهافت الفلاسفة/فهرست المسائل"
+      },
+      {
+        "revision": 232913,
+        "title": "تهافت الفلاسفة/المسألة الأولى: مسألة في إبطال قولهم بقدم العالم"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:51:09.131369Z",
+    "revision": "413651",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%AA%D9%87%D8%A7%D9%81%D8%AA_%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%B3%D9%81%D8%A9"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1056,
+      "deathYear": 1111,
+      "name": "أبو حامد الغزالي",
+      "wikidata": "Q9546"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 1095,
+    "originalTitle": "تهافت الفلاسفة",
+    "workId": "al-ghazali-the-incoherence-of-the-philosophers"
+  }
+}

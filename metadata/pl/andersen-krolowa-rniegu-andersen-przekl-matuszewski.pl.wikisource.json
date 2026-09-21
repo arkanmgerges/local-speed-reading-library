@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:06.923310Z",
+    "chapterCount": 1,
+    "contentSha256": "79ab76d4e6afb933bc09b4f9fc808c69b4c9c6d464796b343aeaa0ff58d50213",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/andersen-krolowa-rniegu-andersen-przekl-matuszewski.pl.wikisource/v1/book.json.gz",
+    "sha256": "a73c61b397b99f241d7c7994968c5b195a35af8722c049bbdfd4e30a2b36e30f",
+    "sizeBytes": 22453,
+    "uncompressedSizeBytes": 55608,
+    "wordCount": 7998
+  },
+  "edition": {
+    "editionId": "andersen-krolowa-rniegu-andersen-przekl-matuszewski.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Królowa Śniegu (Andersen, przekł. Matuszewski)",
+    "translationPublicationYear": 1899,
+    "translator": {
+      "birthYear": 1858,
+      "deathYear": 1919,
+      "name": "Ignacy Matuszewski",
+      "wikidata": "Q11711267"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1875: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1919: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1899: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q11880",
+      "https://www.wikidata.org/wiki/Q108848532",
+      "https://www.wikidata.org/wiki/Q5673",
+      "https://www.wikidata.org/wiki/Q11711267",
+      "https://pl.wikisource.org/wiki/Kr%C3%B3lowa_%C5%9Aniegu_(Andersen%2C_przek%C5%82._Matuszewski)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Hans Christian Andersen died in 1875; the translator Ignacy Matuszewski died in 1919 and this translation was first published in 1899. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Królowa Śniegu (Andersen, przekł. Matuszewski)",
+    "pages": [
+      {
+        "revision": 3588612,
+        "title": "Królowa Śniegu (Andersen, przekł. Matuszewski)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:20:28.354039Z",
+    "revision": "3588612",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Kr%C3%B3lowa_%C5%9Aniegu_(Andersen%2C_przek%C5%82._Matuszewski)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1805,
+      "deathYear": 1875,
+      "name": "Hans Christian Andersen",
+      "wikidata": "Q5673"
+    },
+    "originalLanguage": "da",
+    "originalPublicationYear": 1844,
+    "originalTitle": "Królowa Śniegu (Andersen, przekł. Matuszewski)",
+    "workId": "andersen-krolowa-rniegu-andersen-przekl-matuszewski"
+  }
+}

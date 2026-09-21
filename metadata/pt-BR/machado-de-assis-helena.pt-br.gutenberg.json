@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:33:19.948909Z",
+    "chapterCount": 3,
+    "contentSha256": "75d3525b09b1a59543eade3bc03e136fd5e5362a24f2e3b756de558d3616dc2b",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt-br/machado-de-assis-helena.pt-br.gutenberg/v1/book.json.gz",
+    "sha256": "5a310133fe46a0b51a419dc52ef7c1be1db2dcdccde7a5830c0290e6fdab5f85",
+    "sizeBytes": 131275,
+    "uncompressedSizeBytes": 359122,
+    "wordCount": 55881
+  },
+  "edition": {
+    "editionId": "machado-de-assis-helena.pt-br.gutenberg",
+    "kind": "original",
+    "language": "pt-BR",
+    "title": "Helena"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1908: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1876: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/67162",
+      "https://en.wikipedia.org/wiki/Machado_de_Assis",
+      "https://www.wikidata.org/wiki/Q5703513"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1876. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "67162",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:45:11.040204Z",
+    "revision": "Wed, 26 Aug 2026 16:16:57 GMT",
+    "url": "https://www.gutenberg.org/ebooks/67162"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1839,
+      "deathYear": 1908,
+      "name": "Machado de Assis",
+      "wikidata": "Q311145"
+    },
+    "originalLanguage": "pt-BR",
+    "originalPublicationYear": 1876,
+    "originalTitle": "Helena",
+    "workId": "machado-de-assis-helena"
+  }
+}

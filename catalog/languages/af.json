@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 16,
+        "contentSha256": "a22ec3c33240deec40ece2a500ad2c48d66767e0da437e2f98d8616b52def20e",
+        "encoding": "gzip",
+        "path": "books/af/leipoldt-kampstories.af.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1d1745e4651d8b9bbb622f38315f993df4846e02c483441e5391bf4201893031",
+        "sizeBytes": 68442,
+        "uncompressedSizeBytes": 207093,
+        "wordCount": 35823
+      },
+      "author": "C. Louis Leipoldt",
+      "authorDeathYear": 1947,
+      "editionId": "leipoldt-kampstories.af.gutenberg",
+      "editionPublicationYear": 1924,
+      "genres": [
+        "Children"
+      ],
+      "kind": "original",
+      "language": "af",
+      "originalLanguage": "af",
+      "originalPublicationYear": null,
+      "originalTitle": "Kampstories",
+      "rights": {
+        "statement": "Public domain worldwide. C. Louis Leipoldt died in 1947 and the edition digitised by Project Gutenberg was printed in 1924. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "77225",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T01:50:52.868001Z",
+        "revision": "Sun, 30 Aug 2026 19:41:46 GMT",
+        "url": "https://www.gutenberg.org/ebooks/77225"
+      },
+      "title": "Kampstories",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "leipoldt-kampstories"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Afrikaans",
+  "language": "af",
+  "manifestVersion": "57d0d5d48809dd1a",
+  "nativeName": "Afrikaans",
+  "schemaVersion": 1
+}

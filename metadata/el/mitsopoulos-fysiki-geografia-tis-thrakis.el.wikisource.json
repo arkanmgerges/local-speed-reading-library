@@ -1,0 +1,89 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:23:27.342811Z",
+    "chapterCount": 4,
+    "contentSha256": "9301a88f1c0597333d3722b335e293bce13bc4029b155c343e7c6e2431c80168",
+    "normalizerVersion": "0.2.0",
+    "path": "books/el/mitsopoulos-fysiki-geografia-tis-thrakis.el.wikisource/v1/book.json.gz",
+    "sha256": "32ee6f7f53d8bd69ceb5a88915b22d94fe011c079a27977e6e6ccb0b48a1d05b",
+    "sizeBytes": 38379,
+    "uncompressedSizeBytes": 151543,
+    "wordCount": 11784
+  },
+  "edition": {
+    "editionId": "mitsopoulos-fysiki-geografia-tis-thrakis.el.wikisource",
+    "kind": "original",
+    "language": "el",
+    "title": "Φυσική γεωγραφία της Θράκης"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1911: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1897: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q110842794",
+      "https://www.wikidata.org/wiki/Q12112452",
+      "https://el.wikisource.org/wiki/%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE_%CE%B3%CE%B5%CF%89%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1_%CF%84%CE%B7%CF%82_%CE%98%CF%81%CE%AC%CE%BA%CE%B7%CF%82"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Κωνσταντίνος Μητσόπουλος died in 1911 and the work was first published in 1897. Source: el.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Φυσική γεωγραφία της Θράκης",
+    "pages": [
+      {
+        "revision": 144297,
+        "title": "Φυσική γεωγραφία της Θράκης"
+      },
+      {
+        "revision": 144288,
+        "title": "Φυσική γεωγραφία της Θράκης/Εισαγωγή"
+      },
+      {
+        "revision": 144287,
+        "title": "Φυσική γεωγραφία της Θράκης/Ενότητα Α΄"
+      },
+      {
+        "revision": 144298,
+        "title": "Φυσική γεωγραφία της Θράκης/Ενότητα Β΄"
+      },
+      {
+        "revision": 144294,
+        "title": "Φυσική γεωγραφία της Θράκης/Ενότητα Γ΄"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:29:38.410119Z",
+    "revision": "144297",
+    "site": "el.wikisource.org",
+    "url": "https://el.wikisource.org/wiki/%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE_%CE%B3%CE%B5%CF%89%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1_%CF%84%CE%B7%CF%82_%CE%98%CF%81%CE%AC%CE%BA%CE%B7%CF%82"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1844,
+      "deathYear": 1911,
+      "name": "Κωνσταντίνος Μητσόπουλος",
+      "wikidata": "Q12112452"
+    },
+    "originalLanguage": "el",
+    "originalPublicationYear": 1897,
+    "originalTitle": "Φυσική γεωγραφία της Θράκης",
+    "workId": "mitsopoulos-fysiki-geografia-tis-thrakis"
+  }
+}

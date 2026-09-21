@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:29.070938Z",
+    "chapterCount": 1,
+    "contentSha256": "ae80844ce862b4be221ed18825f5950b94c05888d3418eec48341208a429512e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ja/sentoku-karafuto-ainu-sowa.ja.wikisource/v1/book.json.gz",
+    "sha256": "8273c3de783bf657db7b988a879cb8cbcea616524ac933bfc4aab9b39da4dbbf",
+    "sizeBytes": 62104,
+    "uncompressedSizeBytes": 236341,
+    "wordCount": 921
+  },
+  "edition": {
+    "editionId": "sentoku-karafuto-ainu-sowa.ja.wikisource",
+    "kind": "original",
+    "language": "ja",
+    "title": "樺太アイヌ叢話"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1929: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1929: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q125620596",
+      "https://www.wikidata.org/wiki/Q17228949",
+      "https://ja.wikisource.org/wiki/%E6%A8%BA%E5%A4%AA%E3%82%A2%E3%82%A4%E3%83%8C%E5%8F%A2%E8%A9%B1"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 千徳太郎治 died in 1929 and the work was first published in 1929. Source: ja.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "樺太アイヌ叢話",
+    "pages": [
+      {
+        "revision": 214797,
+        "title": "樺太アイヌ叢話"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:50:38.520946Z",
+    "revision": "214797",
+    "site": "ja.wikisource.org",
+    "url": "https://ja.wikisource.org/wiki/%E6%A8%BA%E5%A4%AA%E3%82%A2%E3%82%A4%E3%83%8C%E5%8F%A2%E8%A9%B1"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1872,
+      "deathYear": 1929,
+      "name": "千徳太郎治",
+      "wikidata": "Q17228949"
+    },
+    "originalLanguage": "ja",
+    "originalPublicationYear": 1929,
+    "originalTitle": "樺太アイヌ叢話",
+    "workId": "sentoku-karafuto-ainu-sowa"
+  }
+}

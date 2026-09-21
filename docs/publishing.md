@@ -8,7 +8,7 @@ metadata change (PR)
   → merge to main
   → publish.yml:
       lsr validate
-      lsr build --all --check          (rebuild from pinned sources; contentSha256 must match)
+      lsr build --check <editions changed in the push>   (rebuild from pinned sources; contentSha256 must match)
       lsr publish-check --plan         (what is missing on the CDN; refuses to overwrite)
       upload missing books/**          (immutable headers, no overwrite)
       upload catalog/**                (short cache headers)

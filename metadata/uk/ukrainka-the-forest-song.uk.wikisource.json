@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:53.353815Z",
+    "chapterCount": 1,
+    "contentSha256": "25c2a2833339a684e8aa7f43d357c323d2f459d1154d9f3eccf4398044019af8",
+    "normalizerVersion": "0.2.0",
+    "path": "books/uk/ukrainka-the-forest-song.uk.wikisource/v1/book.json.gz",
+    "sha256": "9f69ae9c27b1aa3dc197f1c7ba1cee67efcca7146bea28563c7902bf328bc176",
+    "sizeBytes": 46594,
+    "uncompressedSizeBytes": 153038,
+    "wordCount": 16987
+  },
+  "edition": {
+    "editionId": "ukrainka-the-forest-song.uk.wikisource",
+    "kind": "original",
+    "language": "uk",
+    "title": "Лісова пісня"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1913: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1912: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q11816946",
+      "https://www.wikidata.org/wiki/Q298033",
+      "https://uk.wikisource.org/wiki/%D0%9B%D1%96%D1%81%D0%BE%D0%B2%D0%B0_%D0%BF%D1%96%D1%81%D0%BD%D1%8F"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Леся Українка died in 1913 and the work was first published in 1912. Source: uk.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Лісова пісня",
+    "pages": [
+      {
+        "revision": 86220,
+        "title": "Лісова пісня"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:22:13.704007Z",
+    "revision": "86220",
+    "site": "uk.wikisource.org",
+    "url": "https://uk.wikisource.org/wiki/%D0%9B%D1%96%D1%81%D0%BE%D0%B2%D0%B0_%D0%BF%D1%96%D1%81%D0%BD%D1%8F"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1871,
+      "deathYear": 1913,
+      "name": "Леся Українка",
+      "wikidata": "Q298033"
+    },
+    "originalLanguage": "uk",
+    "originalPublicationYear": 1912,
+    "originalTitle": "Лісова пісня",
+    "workId": "ukrainka-the-forest-song"
+  }
+}

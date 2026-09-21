@@ -1,0 +1,239 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:35.175446Z",
+    "chapterCount": 39,
+    "contentSha256": "35ed0f47a32cc91efae06d2dc845631ff5d851958724e2933c425d9e23e8dd80",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/bronte-jane-eyre.sv.wikisource/v1/book.json.gz",
+    "sha256": "07e39a90ebd5ccd705138b08c8c4a23ce51b1adcf693450be559695fc7db8ef3",
+    "sizeBytes": 451550,
+    "uncompressedSizeBytes": 1249913,
+    "wordCount": 198560
+  },
+  "edition": {
+    "editionId": "bronte-jane-eyre.sv.wikisource",
+    "kind": "translation",
+    "language": "sv",
+    "title": "Jane Eyre",
+    "translationPublicationYear": 1873,
+    "translator": {
+      "birthYear": 1825,
+      "deathYear": 1874,
+      "name": "Carl Johan Backman",
+      "wikidata": "Q5563626"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1855: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1874: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1873: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q182961",
+      "https://www.wikidata.org/wiki/Q122190096",
+      "https://www.wikidata.org/wiki/Q127332",
+      "https://www.wikidata.org/wiki/Q5563626",
+      "https://sv.wikisource.org/wiki/Jane_Eyre"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charlotte Brontë died in 1855; the translator Carl Johan Backman died in 1874 and this translation was first published in 1873. Source: sv.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Jane Eyre",
+    "pages": [
+      {
+        "revision": 605055,
+        "title": "Jane Eyre"
+      },
+      {
+        "revision": 212317,
+        "title": "Jane Eyre/Förord"
+      },
+      {
+        "revision": 235101,
+        "title": "Jane Eyre/1"
+      },
+      {
+        "revision": 235090,
+        "title": "Jane Eyre/2"
+      },
+      {
+        "revision": 235079,
+        "title": "Jane Eyre/3"
+      },
+      {
+        "revision": 235069,
+        "title": "Jane Eyre/4"
+      },
+      {
+        "revision": 235068,
+        "title": "Jane Eyre/5"
+      },
+      {
+        "revision": 235067,
+        "title": "Jane Eyre/6"
+      },
+      {
+        "revision": 235066,
+        "title": "Jane Eyre/7"
+      },
+      {
+        "revision": 235065,
+        "title": "Jane Eyre/8"
+      },
+      {
+        "revision": 235064,
+        "title": "Jane Eyre/9"
+      },
+      {
+        "revision": 235100,
+        "title": "Jane Eyre/10"
+      },
+      {
+        "revision": 235099,
+        "title": "Jane Eyre/11"
+      },
+      {
+        "revision": 235098,
+        "title": "Jane Eyre/12"
+      },
+      {
+        "revision": 235097,
+        "title": "Jane Eyre/13"
+      },
+      {
+        "revision": 235096,
+        "title": "Jane Eyre/14"
+      },
+      {
+        "revision": 235095,
+        "title": "Jane Eyre/15"
+      },
+      {
+        "revision": 235094,
+        "title": "Jane Eyre/16"
+      },
+      {
+        "revision": 235093,
+        "title": "Jane Eyre/17"
+      },
+      {
+        "revision": 235092,
+        "title": "Jane Eyre/18"
+      },
+      {
+        "revision": 235091,
+        "title": "Jane Eyre/19"
+      },
+      {
+        "revision": 235089,
+        "title": "Jane Eyre/20"
+      },
+      {
+        "revision": 235088,
+        "title": "Jane Eyre/21"
+      },
+      {
+        "revision": 235087,
+        "title": "Jane Eyre/22"
+      },
+      {
+        "revision": 235086,
+        "title": "Jane Eyre/23"
+      },
+      {
+        "revision": 235085,
+        "title": "Jane Eyre/24"
+      },
+      {
+        "revision": 235084,
+        "title": "Jane Eyre/25"
+      },
+      {
+        "revision": 235083,
+        "title": "Jane Eyre/26"
+      },
+      {
+        "revision": 235082,
+        "title": "Jane Eyre/27"
+      },
+      {
+        "revision": 235081,
+        "title": "Jane Eyre/28"
+      },
+      {
+        "revision": 235080,
+        "title": "Jane Eyre/29"
+      },
+      {
+        "revision": 235078,
+        "title": "Jane Eyre/30"
+      },
+      {
+        "revision": 235077,
+        "title": "Jane Eyre/31"
+      },
+      {
+        "revision": 235076,
+        "title": "Jane Eyre/32"
+      },
+      {
+        "revision": 235075,
+        "title": "Jane Eyre/33"
+      },
+      {
+        "revision": 235074,
+        "title": "Jane Eyre/34"
+      },
+      {
+        "revision": 235073,
+        "title": "Jane Eyre/35"
+      },
+      {
+        "revision": 235072,
+        "title": "Jane Eyre/36"
+      },
+      {
+        "revision": 235071,
+        "title": "Jane Eyre/37"
+      },
+      {
+        "revision": 235070,
+        "title": "Jane Eyre/38"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:01:05.115579Z",
+    "revision": "605055",
+    "site": "sv.wikisource.org",
+    "url": "https://sv.wikisource.org/wiki/Jane_Eyre"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1816,
+      "deathYear": 1855,
+      "name": "Charlotte Brontë",
+      "wikidata": "Q127332"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1847,
+    "originalTitle": "Jane Eyre",
+    "workId": "bronte-jane-eyre"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:36.647725Z",
+    "chapterCount": 12,
+    "contentSha256": "82e92e38d54cc2e2496b97a099a67001dca65eb3f984c2f4af5011415ec0c1e4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/et/tolstoi-ivan-iljitschi-surm.et.wikisource/v1/book.json.gz",
+    "sha256": "876451cc27b12ae708a9b5ee64dab5519a03620d986a6ff5c198b7e865409e57",
+    "sizeBytes": 45660,
+    "uncompressedSizeBytes": 128602,
+    "wordCount": 17627
+  },
+  "edition": {
+    "editionId": "tolstoi-ivan-iljitschi-surm.et.wikisource",
+    "kind": "translation",
+    "language": "et",
+    "title": "Ivan Iljitschi surm",
+    "translationPublicationYear": 1914,
+    "translator": {
+      "birthYear": 1878,
+      "deathYear": 1940,
+      "name": "A. H. Tammsaare",
+      "wikidata": "Q353637"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1910: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1940: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1914: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q396602",
+      "https://www.wikidata.org/wiki/Q83799156",
+      "https://www.wikidata.org/wiki/Q7243",
+      "https://www.wikidata.org/wiki/Q353637",
+      "https://et.wikisource.org/wiki/Ivan_Iljitschi_surm"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Lev Tolstoi died in 1910; the translator A. H. Tammsaare died in 1940 and this translation was first published in 1914. Source: et.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Ivan Iljitschi surm",
+    "pages": [
+      {
+        "revision": 59624,
+        "title": "Ivan Iljitschi surm"
+      },
+      {
+        "revision": 9542,
+        "title": "Ivan Iljitschi surm/I"
+      },
+      {
+        "revision": 9543,
+        "title": "Ivan Iljitschi surm/II"
+      },
+      {
+        "revision": 9544,
+        "title": "Ivan Iljitschi surm/III"
+      },
+      {
+        "revision": 9545,
+        "title": "Ivan Iljitschi surm/IV"
+      },
+      {
+        "revision": 9546,
+        "title": "Ivan Iljitschi surm/V"
+      },
+      {
+        "revision": 9547,
+        "title": "Ivan Iljitschi surm/VI"
+      },
+      {
+        "revision": 9548,
+        "title": "Ivan Iljitschi surm/VII"
+      },
+      {
+        "revision": 9549,
+        "title": "Ivan Iljitschi surm/VIII"
+      },
+      {
+        "revision": 9550,
+        "title": "Ivan Iljitschi surm/IX"
+      },
+      {
+        "revision": 9551,
+        "title": "Ivan Iljitschi surm/X"
+      },
+      {
+        "revision": 9552,
+        "title": "Ivan Iljitschi surm/XI"
+      },
+      {
+        "revision": 9553,
+        "title": "Ivan Iljitschi surm/XII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:56:00.686693Z",
+    "revision": "59624",
+    "site": "et.wikisource.org",
+    "url": "https://et.wikisource.org/wiki/Ivan_Iljitschi_surm"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1828,
+      "deathYear": 1910,
+      "name": "Lev Tolstoi",
+      "wikidata": "Q7243"
+    },
+    "originalLanguage": "ru",
+    "originalPublicationYear": 1886,
+    "originalTitle": "Ivan Iljitschi surm",
+    "workId": "tolstoi-ivan-iljitschi-surm"
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:59:46.207365Z",
+    "chapterCount": 112,
+    "contentSha256": "c2d6441d84c267635d79fc806d791fb721339853bf02047f2396f2825b513de6",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/defoe-avventure-di-robinson-crusoe.it.wikisource/v1/book.json.gz",
+    "sha256": "9621e0ba8c709316ad21b81b6f9537725fb37eea27c6a60f44d6a15cc3d12af3",
+    "sizeBytes": 553227,
+    "uncompressedSizeBytes": 1563134,
+    "wordCount": 245211
+  },
+  "edition": {
+    "editionId": "defoe-avventure-di-robinson-crusoe.it.wikisource",
+    "kind": "translation",
+    "language": "it",
+    "title": "Avventure di Robinson Crusoe",
+    "translationPublicationYear": 1842,
+    "translator": {
+      "birthYear": 1767,
+      "deathYear": 1853,
+      "name": "Gaetano Barbieri",
+      "wikidata": "Q15676151"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1731: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1853: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1842: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q483034",
+      "https://www.wikidata.org/wiki/Q16686023",
+      "https://www.wikidata.org/wiki/Q40946",
+      "https://www.wikidata.org/wiki/Q15676151",
+      "https://it.wikisource.org/wiki/Avventure_di_Robinson_Crusoe"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Daniel Defoe died in 1731; the translator Gaetano Barbieri died in 1853 and this translation was first published in 1842. Source: it.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Avventure di Robinson Crusoe",
+    "pages": [
+      {
+        "revision": 3674344,
+        "title": "Avventure di Robinson Crusoe"
+      },
+      {
+        "revision": 3674456,
+        "title": "Avventure di Robinson Crusoe/Il traduttore"
+      },
+      {
+        "revision": 3674345,
+        "title": "Avventure di Robinson Crusoe/1"
+      },
+      {
+        "revision": 3674367,
+        "title": "Avventure di Robinson Crusoe/2"
+      },
+      {
+        "revision": 3674378,
+        "title": "Avventure di Robinson Crusoe/3"
+      },
+      {
+        "revision": 3674389,
+        "title": "Avventure di Robinson Crusoe/4"
+      },
+      {
+        "revision": 3795570,
+        "title": "Avventure di Robinson Crusoe/5"
+      },
+      {
+        "revision": 3795580,
+        "title": "Avventure di Robinson Crusoe/6"
+      },
+      {
+        "revision": 3674422,
+        "title": "Avventure di Robinson Crusoe/7"
+      },
+      {
+        "revision": 3795596,
+        "title": "Avventure di Robinson Crusoe/8"
+      },
+      {
+        "revision": 3795604,
+        "title": "Avventure di Robinson Crusoe/9"
+      },
+      {
+        "revision": 3795531,
+        "title": "Avventure di Robinson Crusoe/10"
+      },
+      {
+        "revision": 3674357,
+        "title": "Avventure di Robinson Crusoe/11"
+      },
+      {
+        "revision": 3795539,
+        "title": "Avventure di Robinson Crusoe/12"
+      },
+      {
+        "revision": 3795540,
+        "title": "Avventure di Robinson Crusoe/13"
+      },
+      {
+        "revision": 3795541,
+        "title": "Avventure di Robinson Crusoe/14"
+      },
+      {
+        "revision": 3795542,
+        "title": "Avventure di Robinson Crusoe/15"
+      },
+      {
+        "revision": 3674363,
+        "title": "Avventure di Robinson Crusoe/16"
+      },
+      {
+        "revision": 3674364,
+        "title": "Avventure di Robinson Crusoe/17"
+      },
+      {
+        "revision": 3795543,
+        "title": "Avventure di Robinson Crusoe/18"
+      },
+      {
+        "revision": 3795544,
+        "title": "Avventure di Robinson Crusoe/19"
+      },
+      {
+        "revision": 3795545,
+        "title": "Avventure di Robinson Crusoe/20"
+      },
+      {
+        "revision": 3674369,
+        "title": "Avventure di Robinson Crusoe/21"
+      },
+      {
+        "revision": 3795546,
+        "title": "Avventure di Robinson Crusoe/22"
+      },
+      {
+        "revision": 3795547,
+        "title": "Avventure di Robinson Crusoe/23"
+      },
+      {
+        "revision": 3795549,
+        "title": "Avventure di Robinson Crusoe/24"
+      },
+      {
+        "revision": 3795550,
+        "title": "Avventure di Robinson Crusoe/25"
+      },
+      {
+        "revision": 3795551,
+        "title": "Avventure di Robinson Crusoe/26"
+      },
+      {
+        "revision": 3795552,
+        "title": "Avventure di Robinson Crusoe/27"
+      },
+      {
+        "revision": 3795553,
+        "title": "Avventure di Robinson Crusoe/28"
+      },
+      {
+        "revision": 3795554,
+        "title": "Avventure di Robinson Crusoe/29"
+      },
+      {
+        "revision": 3795555,
+        "title": "Avventure di Robinson Crusoe/30"
+      },
+      {
+        "revision": 3674380,
+        "title": "Avventure di Robinson Crusoe/31"
+      },
+      {
+        "revision": 3795556,
+        "title": "Avventure di Robinson Crusoe/32"
+      },
+      {
+        "revision": 3795557,
+        "title": "Avventure di Robinson Crusoe/33"
+      },
+      {
+        "revision": 3674383,
+        "title": "Avventure di Robinson Crusoe/34"
+      },
+      {
+        "revision": 3795558,
+        "title": "Avventure di Robinson Crusoe/35"
+      },
+      {
+        "revision": 3674385,
+        "title": "Avventure di Robinson Crusoe/36"
+      },
+      {
+        "revision": 3795559,
+        "title": "Avventure di Robinson Crusoe/37"
+      },
+      {
+        "revision": 3795560,
+        "title": "Avventure di Robinson Crusoe/38"
+      },
+      {
+        "revision": 3674388,
+        "title": "Avventure di Robinson Crusoe/39"
+      },
+      {
+        "revision": 3795561,
+        "title": "Avventure di Robinson Crusoe/40"
+      },
+      {
+        "revision": 3795562,
+        "title": "Avventure di Robinson Crusoe/41"
+      },
+      {
+        "revision": 3795563,
+        "title": "Avventure di Robinson Crusoe/42"
+      },
+      {
+        "revision": 3674393,
+        "title": "Avventure di Robinson Crusoe/43"
+      },
+      {
+        "revision": 3795564,
+        "title": "Avventure di Robinson Crusoe/44"
+      },
+      {
+        "revision": 3795565,
+        "title": "Avventure di Robinson Crusoe/45"
+      },
+      {
+        "revision": 3795566,
+        "title": "Avventure di Robinson Crusoe/46"
+      },
+      {
+        "revision": 3674397,
+        "title": "Avventure di Robinson Crusoe/47"
+      },
+      {
+        "revision": 3795568,
+        "title": "Avventure di Robinson Crusoe/48"
+      },
+      {
+        "revision": 3795569,
+        "title": "Avventure di Robinson Crusoe/49"
+      },
+      {
+        "revision": 3795571,
+        "title": "Avventure di Robinson Crusoe/50"
+      },
+      {
+        "revision": 3795572,
+        "title": "Avventure di Robinson Crusoe/51"
+      },
+      {
+        "revision": 3795573,
+        "title": "Avventure di Robinson Crusoe/52"
+      },
+      {
+        "revision": 3795574,
+        "title": "Avventure di Robinson Crusoe/53"
+      },
+      {
+        "revision": 3795575,
+        "title": "Avventure di Robinson Crusoe/54"
+      },
+      {
+        "revision": 3795576,
+        "title": "Avventure di Robinson Crusoe/55"
+      },
+      {
+        "revision": 3674407,
+        "title": "Avventure di Robinson Crusoe/56"
+      },
+      {
+        "revision": 3795577,
+        "title": "Avventure di Robinson Crusoe/57"
+      },
+      {
+        "revision": 3795578,
+        "title": "Avventure di Robinson Crusoe/58"
+      },
+      {
+        "revision": 3795579,
+        "title": "Avventure di Robinson Crusoe/59"
+      },
+      {
+        "revision": 3795581,
+        "title": "Avventure di Robinson Crusoe/60"
+      },
+      {
+        "revision": 3674413,
+        "title": "Avventure di Robinson Crusoe/61"
+      },
+      {
+        "revision": 3795582,
+        "title": "Avventure di Robinson Crusoe/62"
+      },
+      {
+        "revision": 3795583,
+        "title": "Avventure di Robinson Crusoe/63"
+      },
+      {
+        "revision": 3795584,
+        "title": "Avventure di Robinson Crusoe/64"
+      },
+      {
+        "revision": 3795585,
+        "title": "Avventure di Robinson Crusoe/65"
+      },
+      {
+        "revision": 3795586,
+        "title": "Avventure di Robinson Crusoe/66"
+      },
+      {
+        "revision": 3795587,
+        "title": "Avventure di Robinson Crusoe/67"
+      },
+      {
+        "revision": 3795588,
+        "title": "Avventure di Robinson Crusoe/68"
+      },
+      {
+        "revision": 3795589,
+        "title": "Avventure di Robinson Crusoe/69"
+      },
+      {
+        "revision": 3795590,
+        "title": "Avventure di Robinson Crusoe/70"
+      },
+      {
+        "revision": 3674424,
+        "title": "Avventure di Robinson Crusoe/71"
+      },
+      {
+        "revision": 3674425,
+        "title": "Avventure di Robinson Crusoe/72"
+      },
+      {
+        "revision": 3795591,
+        "title": "Avventure di Robinson Crusoe/73"
+      },
+      {
+        "revision": 3795592,
+        "title": "Avventure di Robinson Crusoe/74"
+      },
+      {
+        "revision": 3795593,
+        "title": "Avventure di Robinson Crusoe/75"
+      },
+      {
+        "revision": 3674429,
+        "title": "Avventure di Robinson Crusoe/76"
+      },
+      {
+        "revision": 3674430,
+        "title": "Avventure di Robinson Crusoe/77"
+      },
+      {
+        "revision": 3795594,
+        "title": "Avventure di Robinson Crusoe/78"
+      },
+      {
+        "revision": 3795595,
+        "title": "Avventure di Robinson Crusoe/79"
+      },
+      {
+        "revision": 3795597,
+        "title": "Avventure di Robinson Crusoe/80"
+      },
+      {
+        "revision": 3674435,
+        "title": "Avventure di Robinson Crusoe/81"
+      },
+      {
+        "revision": 3795598,
+        "title": "Avventure di Robinson Crusoe/82"
+      },
+      {
+        "revision": 3795599,
+        "title": "Avventure di Robinson Crusoe/83"
+      },
+      {
+        "revision": 3795600,
+        "title": "Avventure di Robinson Crusoe/84"
+      },
+      {
+        "revision": 3674439,
+        "title": "Avventure di Robinson Crusoe/85"
+      },
+      {
+        "revision": 3674440,
+        "title": "Avventure di Robinson Crusoe/86"
+      },
+      {
+        "revision": 3795601,
+        "title": "Avventure di Robinson Crusoe/87"
+      },
+      {
+        "revision": 3795602,
+        "title": "Avventure di Robinson Crusoe/88"
+      },
+      {
+        "revision": 3795603,
+        "title": "Avventure di Robinson Crusoe/89"
+      },
+      {
+        "revision": 3795606,
+        "title": "Avventure di Robinson Crusoe/90"
+      },
+      {
+        "revision": 3795607,
+        "title": "Avventure di Robinson Crusoe/91"
+      },
+      {
+        "revision": 3795608,
+        "title": "Avventure di Robinson Crusoe/92"
+      },
+      {
+        "revision": 3795609,
+        "title": "Avventure di Robinson Crusoe/93"
+      },
+      {
+        "revision": 3674449,
+        "title": "Avventure di Robinson Crusoe/94"
+      },
+      {
+        "revision": 3674450,
+        "title": "Avventure di Robinson Crusoe/95"
+      },
+      {
+        "revision": 3795610,
+        "title": "Avventure di Robinson Crusoe/96"
+      },
+      {
+        "revision": 3795611,
+        "title": "Avventure di Robinson Crusoe/97"
+      },
+      {
+        "revision": 3795612,
+        "title": "Avventure di Robinson Crusoe/98"
+      },
+      {
+        "revision": 3795613,
+        "title": "Avventure di Robinson Crusoe/99"
+      },
+      {
+        "revision": 3795532,
+        "title": "Avventure di Robinson Crusoe/100"
+      },
+      {
+        "revision": 3674348,
+        "title": "Avventure di Robinson Crusoe/101"
+      },
+      {
+        "revision": 3674349,
+        "title": "Avventure di Robinson Crusoe/102"
+      },
+      {
+        "revision": 3795533,
+        "title": "Avventure di Robinson Crusoe/103"
+      },
+      {
+        "revision": 3674351,
+        "title": "Avventure di Robinson Crusoe/104"
+      },
+      {
+        "revision": 3795534,
+        "title": "Avventure di Robinson Crusoe/105"
+      },
+      {
+        "revision": 3674353,
+        "title": "Avventure di Robinson Crusoe/106"
+      },
+      {
+        "revision": 3795535,
+        "title": "Avventure di Robinson Crusoe/107"
+      },
+      {
+        "revision": 3795536,
+        "title": "Avventure di Robinson Crusoe/108"
+      },
+      {
+        "revision": 3795537,
+        "title": "Avventure di Robinson Crusoe/109"
+      },
+      {
+        "revision": 3795538,
+        "title": "Avventure di Robinson Crusoe/110"
+      },
+      {
+        "revision": 3795614,
+        "title": "Avventure di Robinson Crusoe/Biografia"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:45:00.012197Z",
+    "revision": "3674344",
+    "site": "it.wikisource.org",
+    "url": "https://it.wikisource.org/wiki/Avventure_di_Robinson_Crusoe"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1660,
+      "deathYear": 1731,
+      "name": "Daniel Defoe",
+      "wikidata": "Q40946"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1719,
+    "originalTitle": "Avventure di Robinson Crusoe",
+    "workId": "defoe-avventure-di-robinson-crusoe"
+  }
+}

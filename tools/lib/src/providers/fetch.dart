@@ -8,6 +8,10 @@ const String userAgent =
 
 const Duration fetchTimeout = Duration(seconds: 60);
 
+/// Pause before every network request; batch runs set it (`--delay`) so
+/// hundreds of single-book fetches never look like a crawl.
+Duration fetchDelay = Duration.zero;
+
 class FetchException implements Exception {
   const FetchException(this.message);
   final String message;
@@ -22,6 +26,7 @@ Future<http.Response> fetchWithRetry(http.Client client, Uri uri,
     {String method = 'GET', int attempts = 3}) async {
   Object? last;
   for (int i = 1; i <= attempts; i++) {
+    if (fetchDelay > Duration.zero) await Future<void>.delayed(fetchDelay);
     try {
       final http.Request req = http.Request(method, uri)
         ..headers['user-agent'] = userAgent

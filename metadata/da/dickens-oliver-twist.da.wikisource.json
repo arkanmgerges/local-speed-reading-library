@@ -1,0 +1,291 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:11.185436Z",
+    "chapterCount": 51,
+    "contentSha256": "37d246038e59f1b39a7af51ca757d128f206e7cb706c012bba7e72761a01cb69",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/dickens-oliver-twist.da.wikisource/v1/book.json.gz",
+    "sha256": "4a90ca7d16597f37f989483c77c477cde502679999dd66d5f5fd853bc54fe310",
+    "sizeBytes": 254818,
+    "uncompressedSizeBytes": 701873,
+    "wordCount": 115882
+  },
+  "edition": {
+    "editionId": "dickens-oliver-twist.da.wikisource",
+    "kind": "translation",
+    "language": "da",
+    "title": "Oliver Twist",
+    "translationPublicationYear": 1898,
+    "translator": {
+      "birthYear": 1846,
+      "deathYear": 1904,
+      "name": "Vilhelm Møller",
+      "wikidata": "Q12341040"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1870: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1904: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1898: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q164974",
+      "https://www.wikidata.org/wiki/Q50072177",
+      "https://www.wikidata.org/wiki/Q5686",
+      "https://www.wikidata.org/wiki/Q12341040",
+      "https://da.wikisource.org/wiki/Oliver_Twist"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Vilhelm Møller died in 1904 and this translation was first published in 1898. Source: da.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Oliver Twist",
+    "pages": [
+      {
+        "revision": 37369,
+        "title": "Oliver Twist"
+      },
+      {
+        "revision": 20078,
+        "title": "Oliver Twist/Portræt"
+      },
+      {
+        "revision": 37400,
+        "title": "Oliver Twist/1"
+      },
+      {
+        "revision": 37401,
+        "title": "Oliver Twist/2"
+      },
+      {
+        "revision": 37402,
+        "title": "Oliver Twist/3"
+      },
+      {
+        "revision": 37403,
+        "title": "Oliver Twist/4"
+      },
+      {
+        "revision": 37404,
+        "title": "Oliver Twist/5"
+      },
+      {
+        "revision": 37405,
+        "title": "Oliver Twist/6"
+      },
+      {
+        "revision": 37406,
+        "title": "Oliver Twist/7"
+      },
+      {
+        "revision": 37407,
+        "title": "Oliver Twist/8"
+      },
+      {
+        "revision": 37408,
+        "title": "Oliver Twist/9"
+      },
+      {
+        "revision": 37409,
+        "title": "Oliver Twist/10"
+      },
+      {
+        "revision": 37410,
+        "title": "Oliver Twist/11"
+      },
+      {
+        "revision": 37411,
+        "title": "Oliver Twist/12"
+      },
+      {
+        "revision": 37412,
+        "title": "Oliver Twist/13"
+      },
+      {
+        "revision": 37413,
+        "title": "Oliver Twist/14"
+      },
+      {
+        "revision": 37414,
+        "title": "Oliver Twist/15"
+      },
+      {
+        "revision": 37415,
+        "title": "Oliver Twist/16"
+      },
+      {
+        "revision": 37416,
+        "title": "Oliver Twist/17"
+      },
+      {
+        "revision": 37417,
+        "title": "Oliver Twist/18"
+      },
+      {
+        "revision": 37418,
+        "title": "Oliver Twist/19"
+      },
+      {
+        "revision": 37419,
+        "title": "Oliver Twist/20"
+      },
+      {
+        "revision": 37420,
+        "title": "Oliver Twist/21"
+      },
+      {
+        "revision": 37421,
+        "title": "Oliver Twist/22"
+      },
+      {
+        "revision": 37422,
+        "title": "Oliver Twist/23"
+      },
+      {
+        "revision": 37423,
+        "title": "Oliver Twist/24"
+      },
+      {
+        "revision": 37424,
+        "title": "Oliver Twist/25"
+      },
+      {
+        "revision": 37425,
+        "title": "Oliver Twist/26"
+      },
+      {
+        "revision": 37426,
+        "title": "Oliver Twist/27"
+      },
+      {
+        "revision": 37427,
+        "title": "Oliver Twist/28"
+      },
+      {
+        "revision": 37428,
+        "title": "Oliver Twist/29"
+      },
+      {
+        "revision": 37429,
+        "title": "Oliver Twist/30"
+      },
+      {
+        "revision": 37430,
+        "title": "Oliver Twist/31"
+      },
+      {
+        "revision": 37431,
+        "title": "Oliver Twist/32"
+      },
+      {
+        "revision": 37432,
+        "title": "Oliver Twist/33"
+      },
+      {
+        "revision": 37433,
+        "title": "Oliver Twist/34"
+      },
+      {
+        "revision": 37434,
+        "title": "Oliver Twist/35"
+      },
+      {
+        "revision": 37435,
+        "title": "Oliver Twist/36"
+      },
+      {
+        "revision": 37436,
+        "title": "Oliver Twist/37"
+      },
+      {
+        "revision": 37437,
+        "title": "Oliver Twist/38"
+      },
+      {
+        "revision": 37438,
+        "title": "Oliver Twist/39"
+      },
+      {
+        "revision": 37439,
+        "title": "Oliver Twist/40"
+      },
+      {
+        "revision": 37440,
+        "title": "Oliver Twist/41"
+      },
+      {
+        "revision": 37441,
+        "title": "Oliver Twist/42"
+      },
+      {
+        "revision": 37442,
+        "title": "Oliver Twist/43"
+      },
+      {
+        "revision": 37443,
+        "title": "Oliver Twist/44"
+      },
+      {
+        "revision": 37444,
+        "title": "Oliver Twist/45"
+      },
+      {
+        "revision": 37445,
+        "title": "Oliver Twist/46"
+      },
+      {
+        "revision": 37446,
+        "title": "Oliver Twist/47"
+      },
+      {
+        "revision": 37447,
+        "title": "Oliver Twist/48"
+      },
+      {
+        "revision": 37448,
+        "title": "Oliver Twist/49"
+      },
+      {
+        "revision": 37449,
+        "title": "Oliver Twist/50"
+      },
+      {
+        "revision": 37450,
+        "title": "Oliver Twist/51"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:20:42.041003Z",
+    "revision": "37369",
+    "site": "da.wikisource.org",
+    "url": "https://da.wikisource.org/wiki/Oliver_Twist"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1812,
+      "deathYear": 1870,
+      "name": "Charles Dickens",
+      "wikidata": "Q5686"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1838,
+    "originalTitle": "Oliver Twist",
+    "workId": "dickens-oliver-twist"
+  }
+}

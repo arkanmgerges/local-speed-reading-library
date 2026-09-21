@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:38.550870Z",
+    "chapterCount": 22,
+    "contentSha256": "176c9916270470be8888705d93a12ec1c815a7dc841997deb3aedc6680aa075a",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/oller-vilaniu.ca.gutenberg/v1/book.json.gz",
+    "sha256": "62988a74f265ce92f47eda704c11243745caa31a1d2a4f1d84cc6901fae96ada",
+    "sizeBytes": 206797,
+    "uncompressedSizeBytes": 540854,
+    "wordCount": 85007
+  },
+  "edition": {
+    "editionId": "oller-vilaniu.ca.gutenberg",
+    "kind": "original",
+    "language": "ca",
+    "title": "Vilaniu : $b Novela de costums del nostre temps"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1885: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/75945",
+      "https://en.wikipedia.org/wiki/Narc%C3%ADs_Oller",
+      "https://ca.wikipedia.org/wiki/Narc%C3%ADs_Oller_i_de_Moragas",
+      "https://www.wikidata.org/wiki/Q86450071"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Narcís Oller died in 1930 and the work was first published in 1885. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "75945",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:05:51.511414Z",
+    "revision": "Sun, 30 Aug 2026 09:45:52 GMT",
+    "url": "https://www.gutenberg.org/ebooks/75945"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1846,
+      "deathYear": 1930,
+      "name": "Narcís Oller",
+      "wikidata": "Q999904"
+    },
+    "originalLanguage": "ca",
+    "originalPublicationYear": 1885,
+    "originalTitle": "Vilaniu : $b Novela de costums del nostre temps",
+    "workId": "oller-vilaniu"
+  }
+}

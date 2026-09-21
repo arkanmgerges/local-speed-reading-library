@@ -1,0 +1,95 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:53.950313Z",
+    "chapterCount": 27,
+    "contentSha256": "70225b368711901b7c994308f05eae3a076466fd3793deb849a1cf063539374f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/wells-wojna-rwiatow.pl.wikisource/v1/book.json.gz",
+    "sha256": "d00f791d726046ac8f7f1f5a37477bfd620c0cb16b18e52b01bd5d9ec05c0ee8",
+    "sizeBytes": 123336,
+    "uncompressedSizeBytes": 318298,
+    "wordCount": 43671
+  },
+  "edition": {
+    "editionId": "wells-wojna-rwiatow.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Wojna światów",
+    "translationPublicationYear": 1899,
+    "translator": {
+      "birthYear": 1859,
+      "deathYear": 1931,
+      "name": "Maria Wentz'l",
+      "wikidata": "Q59136821"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1931: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1899: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q213019",
+      "https://www.wikidata.org/wiki/Q59661186",
+      "https://www.wikidata.org/wiki/Q42511",
+      "https://www.wikidata.org/wiki/Q59136821",
+      "https://pl.wikisource.org/wiki/Wojna_%C5%9Bwiat%C3%B3w"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Herbert George Wells died in 1946; the translator Maria Wentz'l died in 1931 and this translation was first published in 1899. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Wojna światów",
+    "pages": [
+      {
+        "revision": 3295794,
+        "title": "Wojna światów"
+      },
+      {
+        "revision": 3295795,
+        "title": "Wojna światów/Księga I"
+      },
+      {
+        "revision": 3295825,
+        "title": "Wojna światów/całość"
+      },
+      {
+        "revision": 3295814,
+        "title": "Wojna światów/Księga II"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:30:58.878327Z",
+    "revision": "3295794",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Wojna_%C5%9Bwiat%C3%B3w"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1866,
+      "deathYear": 1946,
+      "name": "Herbert George Wells",
+      "wikidata": "Q42511"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1897,
+    "originalTitle": "Wojna światów",
+    "workId": "wells-wojna-rwiatow"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:35.992090Z",
+    "chapterCount": 1,
+    "contentSha256": "3c4cb15216663f670eb60b29508d3b7ee355ebe5b3487feb483ca894aa951ca2",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ja/soseki-the-210th-day.ja.wikisource/v1/book.json.gz",
+    "sha256": "2ed6d418af2db38c23e348c47c8cc533fff3dd82c6fcb41a52c1f7c6322c9949",
+    "sizeBytes": 33796,
+    "uncompressedSizeBytes": 113086,
+    "wordCount": 977
+  },
+  "edition": {
+    "editionId": "soseki-the-210th-day.ja.wikisource",
+    "kind": "original",
+    "language": "ja",
+    "title": "二百十日"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1916: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1906: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q11371738",
+      "https://www.wikidata.org/wiki/Q180903",
+      "https://ja.wikisource.org/wiki/%E4%BA%8C%E7%99%BE%E5%8D%81%E6%97%A5_(%E5%B0%8F%E8%AA%AC)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 夏目漱石 died in 1916 and the work was first published in 1906. Source: ja.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "二百十日 (小説)",
+    "pages": [
+      {
+        "revision": 212578,
+        "title": "二百十日 (小説)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:51:02.078015Z",
+    "revision": "212578",
+    "site": "ja.wikisource.org",
+    "url": "https://ja.wikisource.org/wiki/%E4%BA%8C%E7%99%BE%E5%8D%81%E6%97%A5_(%E5%B0%8F%E8%AA%AC)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1867,
+      "deathYear": 1916,
+      "name": "夏目漱石",
+      "wikidata": "Q180903"
+    },
+    "originalLanguage": "ja",
+    "originalPublicationYear": 1906,
+    "originalTitle": "二百十日",
+    "workId": "soseki-the-210th-day"
+  }
+}

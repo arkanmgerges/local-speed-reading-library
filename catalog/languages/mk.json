@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "c639371293cbbab7249a0bd68ceab2ce0f5081cdd7d70a2800042e078258cec3",
+        "encoding": "gzip",
+        "path": "books/mk/misirkov-on-macedonian-matters.mk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1a2e7d031b346246016564a8af628163b0bb9a288bffaeea33b5b34406f439c6",
+        "sizeBytes": 108731,
+        "uncompressedSizeBytes": 511540,
+        "wordCount": 45088
+      },
+      "author": "Крсте Петков Мисирков",
+      "authorDeathYear": 1926,
+      "editionId": "misirkov-on-macedonian-matters.mk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mk",
+      "originalLanguage": "mk",
+      "originalPublicationYear": 1903,
+      "originalTitle": "За македонцките работи",
+      "rights": {
+        "statement": "Public domain worldwide. Крсте Петков Мисирков died in 1926 and the work was first published in 1903. Source: mk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "За македонските работи",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:56:33.163223Z",
+        "revision": "20961",
+        "url": "https://mk.wikisource.org/wiki/%D0%97%D0%B0_%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D1%82%D0%B5_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B8"
+      },
+      "title": "За македонцките работи",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "misirkov-on-macedonian-matters"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Macedonian",
+  "language": "mk",
+  "manifestVersion": "fd81be27455006ad",
+  "nativeName": "Македонски",
+  "schemaVersion": 1
+}

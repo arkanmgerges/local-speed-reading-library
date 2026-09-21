@@ -1,0 +1,113 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:58.091479Z",
+    "chapterCount": 10,
+    "contentSha256": "4921deddc12937171f22880edd92da5026ed3c98c2baadf8a4e25d4ff108058d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt-br/alencar-cinco-minutos.pt-br.wikisource/v1/book.json.gz",
+    "sha256": "0ac0ce78aeab933fd65489f01158c0ce1688e6c1fd3637b13b60f3d17aa3cf1c",
+    "sizeBytes": 33469,
+    "uncompressedSizeBytes": 92928,
+    "wordCount": 14236
+  },
+  "edition": {
+    "editionId": "alencar-cinco-minutos.pt-br.wikisource",
+    "kind": "original",
+    "language": "pt-BR",
+    "title": "Cinco Minutos"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1877: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1856: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q5456034",
+      "https://www.wikidata.org/wiki/Q455703",
+      "https://pt.wikisource.org/wiki/Cinco_Minutos"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. José de Alencar died in 1877 and the work was first published in 1856. Source: pt.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Cinco Minutos",
+    "pages": [
+      {
+        "revision": 435417,
+        "title": "Cinco Minutos"
+      },
+      {
+        "revision": 435267,
+        "title": "Cinco Minutos/I"
+      },
+      {
+        "revision": 435270,
+        "title": "Cinco Minutos/II"
+      },
+      {
+        "revision": 435273,
+        "title": "Cinco Minutos/III"
+      },
+      {
+        "revision": 435279,
+        "title": "Cinco Minutos/IV"
+      },
+      {
+        "revision": 435282,
+        "title": "Cinco Minutos/V"
+      },
+      {
+        "revision": 435286,
+        "title": "Cinco Minutos/VI"
+      },
+      {
+        "revision": 435289,
+        "title": "Cinco Minutos/VII"
+      },
+      {
+        "revision": 435293,
+        "title": "Cinco Minutos/VIII"
+      },
+      {
+        "revision": 435296,
+        "title": "Cinco Minutos/IX"
+      },
+      {
+        "revision": 435304,
+        "title": "Cinco Minutos/X"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:31:53.784858Z",
+    "revision": "435417",
+    "site": "pt.wikisource.org",
+    "url": "https://pt.wikisource.org/wiki/Cinco_Minutos"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1829,
+      "deathYear": 1877,
+      "name": "José de Alencar",
+      "wikidata": "Q455703"
+    },
+    "originalLanguage": "pt-BR",
+    "originalPublicationYear": 1856,
+    "originalTitle": "Cinco Minutos",
+    "workId": "alencar-cinco-minutos"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:37.175491Z",
+    "chapterCount": 349,
+    "contentSha256": "104e118b1407ddea47607dcf258931aa8c4d54114e9f8ee45f266a39779b3922",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/caesar-gaius-julius-c-sars-anteckningar-om-galliska.sv.wikisource/v1/book.json.gz",
+    "sha256": "13c75f22d17029b29592fcb981e8e58ccc5bf767aa8bd84596286a08d117d7c0",
+    "sizeBytes": 160232,
+    "uncompressedSizeBytes": 470371,
+    "wordCount": 67002
+  },
+  "edition": {
+    "editionId": "caesar-gaius-julius-c-sars-anteckningar-om-galliska.sv.wikisource",
+    "kind": "translation",
+    "language": "sv",
+    "title": "Gaius Julius Cæsars anteckningar om galliska kriget",
+    "translationPublicationYear": 1927,
+    "translator": {
+      "birthYear": 1875,
+      "deathYear": 1925,
+      "name": "Erik Hedén",
+      "wikidata": "Q5795423"
+    }
+  },
+  "genres": [
+    "Biography"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -43: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1925: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1927: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q106199",
+      "https://www.wikidata.org/wiki/Q126683113",
+      "https://www.wikidata.org/wiki/Q1048",
+      "https://www.wikidata.org/wiki/Q5795423",
+      "https://sv.wikisource.org/wiki/Gaius_Julius_C%C3%A6sars_anteckningar_om_galliska_kriget"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Julius Caesar died in -43; the translator Erik Hedén died in 1925 and this translation was first published in 1927. Source: sv.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Gaius Julius Cæsars anteckningar om galliska kriget",
+    "pages": [
+      {
+        "revision": 566982,
+        "title": "Gaius Julius Cæsars anteckningar om galliska kriget"
+      },
+      {
+        "revision": 562130,
+        "title": "Gaius Julius Cæsars anteckningar om galliska kriget/Förord"
+      },
+      {
+        "revision": 560648,
+        "title": "Gaius Julius Cæsars anteckningar om galliska kriget/Första boken"
+      },
+      {
+        "revision": 561221,
+        "title": "Gaius Julius Cæsars anteckningar om galliska kriget/Andra boken"
+      },
+      {
+        "revision": 561482,
+        "title": "Gaius Julius Cæsars anteckningar om galliska kriget/Tredje boken"
+      },
+      {
+        "revision": 561942,
+        "title": "Gaius Julius Cæsars anteckningar om galliska kriget/Fjärde boken"
+      },
+      {
+        "revision": 561943,
+        "title": "Gaius Julius Cæsars anteckningar om galliska kriget/Femte boken"
+      },
+      {
+        "revision": 562032,
+        "title": "Gaius Julius Cæsars anteckningar om galliska kriget/Sjätte boken"
+      },
+      {
+        "revision": 562457,
+        "title": "Gaius Julius Cæsars anteckningar om galliska kriget/Sjunde boken"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:01:21.410773Z",
+    "revision": "566982",
+    "site": "sv.wikisource.org",
+    "url": "https://sv.wikisource.org/wiki/Gaius_Julius_C%C3%A6sars_anteckningar_om_galliska_kriget"
+  },
+  "work": {
+    "author": {
+      "birthYear": -99,
+      "deathYear": -43,
+      "name": "Julius Caesar",
+      "wikidata": "Q1048"
+    },
+    "originalLanguage": "la",
+    "originalPublicationYear": -57,
+    "originalTitle": "Gaius Julius Cæsars anteckningar om galliska kriget",
+    "workId": "caesar-gaius-julius-c-sars-anteckningar-om-galliska"
+  }
+}

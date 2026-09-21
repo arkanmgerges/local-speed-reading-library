@@ -1,0 +1,273 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:46.659104Z",
+    "chapterCount": 50,
+    "contentSha256": "446496b5833ee609f4278a2e080401d9fe0f3b41d41dfc3aa67e256cd7cbc285",
+    "normalizerVersion": "0.2.0",
+    "path": "books/eu/mogel-ipui-onac.eu.wikisource/v1/book.json.gz",
+    "sha256": "70a9918840d4d19cb6d44c456aa93c2dcc4775e0338199a764f47e5df58cdb78",
+    "sizeBytes": 31905,
+    "uncompressedSizeBytes": 99726,
+    "wordCount": 11591
+  },
+  "edition": {
+    "editionId": "mogel-ipui-onac.eu.wikisource",
+    "kind": "original",
+    "language": "eu",
+    "title": "Ipui onac"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1854: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1804: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12259693",
+      "https://www.wikidata.org/wiki/Q11705052",
+      "https://eu.wikisource.org/wiki/Ipui_onac%2C_ceintzuetan_arquituco_dituzten_euscaldun_necazari_ta_gazte_guciac_eracaste_ederrac_beren_vicitza_zucentzeco"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Bizenta Mogel died in 1854 and the work was first published in 1804. Source: eu.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco",
+    "pages": [
+      {
+        "revision": 26892,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco"
+      },
+      {
+        "revision": 26812,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Otsoa ta Bildotsa"
+      },
+      {
+        "revision": 26814,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Zakurra ta Ardia"
+      },
+      {
+        "revision": 26816,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Txakurra ta aragi zatia"
+      },
+      {
+        "revision": 26818,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Leoia, Beia, Auntza ta Ardia"
+      },
+      {
+        "revision": 26820,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Otsoa ta Kurulloa"
+      },
+      {
+        "revision": 26822,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Gizona ta Sugea"
+      },
+      {
+        "revision": 26824,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Etxeko, eta Kanpoko Saguak"
+      },
+      {
+        "revision": 26826,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Arranoa ta Aizeria"
+      },
+      {
+        "revision": 26828,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Belea ta Aizeria"
+      },
+      {
+        "revision": 26830,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Leoia, Basaurdea, Zezena ta Astoa"
+      },
+      {
+        "revision": 26832,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Astoa ta Txakurtxoa"
+      },
+      {
+        "revision": 26834,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Leoia ta Sagua"
+      },
+      {
+        "revision": 26836,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Ontza ta bere Ama"
+      },
+      {
+        "revision": 26838,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Enadea ta beste Txoriak"
+      },
+      {
+        "revision": 26840,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Lapurra ta Etxe-txakurra"
+      },
+      {
+        "revision": 26842,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Eiza-txakurra ta bere Jabea"
+      },
+      {
+        "revision": 26844,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Erbiak ta Igelak"
+      },
+      {
+        "revision": 26846,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Otsoa ta Irudia"
+      },
+      {
+        "revision": 26848,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Eulia eta Mandoa"
+      },
+      {
+        "revision": 26850,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Eulia ta Txindurria"
+      },
+      {
+        "revision": 26852,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Otsoa, Aizeria ta Tximua"
+      },
+      {
+        "revision": 26854,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Gizona ta Ogi-gaztaia"
+      },
+      {
+        "revision": 26856,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Igela eta Idia"
+      },
+      {
+        "revision": 26858,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Leoia ta Arzaia"
+      },
+      {
+        "revision": 26860,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Zaldia ta Leoia"
+      },
+      {
+        "revision": 26862,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Zaldia ta Astoa"
+      },
+      {
+        "revision": 26864,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Lurreko Abere ta Goietako Egaztiak"
+      },
+      {
+        "revision": 26866,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Aizeria ta Otsoa"
+      },
+      {
+        "revision": 26868,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Basauntza ta Eizaria"
+      },
+      {
+        "revision": 26870,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Aizeria, Ollara ta Txakurrak"
+      },
+      {
+        "revision": 26872,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Aita ta Seme gaiztoa"
+      },
+      {
+        "revision": 26874,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Eskua, Oñak ta Sabela"
+      },
+      {
+        "revision": 26876,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Gizona eta Astoa"
+      },
+      {
+        "revision": 26878,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Aizeria ta Matsak"
+      },
+      {
+        "revision": 26880,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Ogi-gaztaia ta Sagua"
+      },
+      {
+        "revision": 26882,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Itzaia ta Otsoa"
+      },
+      {
+        "revision": 26884,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Otsoa ta atxurlaria"
+      },
+      {
+        "revision": 26886,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Aragi-epallea ta Aria"
+      },
+      {
+        "revision": 26888,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Txori-artzallea ta Txoriak"
+      },
+      {
+        "revision": 26890,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Gizon egia zalea, Gezurtia ta Tximoa"
+      },
+      {
+        "revision": 26893,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Astoa ta Leoia"
+      },
+      {
+        "revision": 26895,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Arranoa ta beste Egaztiak"
+      },
+      {
+        "revision": 26897,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Leoia ta Aizeria"
+      },
+      {
+        "revision": 26899,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Otso ta Asto gaixotua"
+      },
+      {
+        "revision": 26901,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Txindurria ta Txirriskia"
+      },
+      {
+        "revision": 26903,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Pagoa ta Kañaberea"
+      },
+      {
+        "revision": 26905,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Mandakoa, Aizeria ta Otsoa"
+      },
+      {
+        "revision": 26907,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Mika egarritua"
+      },
+      {
+        "revision": 26909,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Nekazaria ta Idisko gaztea"
+      },
+      {
+        "revision": 26911,
+        "title": "Ipui onac, ceintzuetan arquituco dituzten euscaldun necazari ta gazte guciac eracaste ederrac beren vicitza zucentzeco/Piztia itxusi ta Gizon bideaztia"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:00:19.088931Z",
+    "revision": "26892",
+    "site": "eu.wikisource.org",
+    "url": "https://eu.wikisource.org/wiki/Ipui_onac%2C_ceintzuetan_arquituco_dituzten_euscaldun_necazari_ta_gazte_guciac_eracaste_ederrac_beren_vicitza_zucentzeco"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1782,
+      "deathYear": 1854,
+      "name": "Bizenta Mogel",
+      "wikidata": "Q11705052"
+    },
+    "originalLanguage": "eu",
+    "originalPublicationYear": 1804,
+    "originalTitle": "Ipui onac",
+    "workId": "mogel-ipui-onac"
+  }
+}

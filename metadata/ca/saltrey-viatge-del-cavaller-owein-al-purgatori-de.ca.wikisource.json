@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:51:49.620099Z",
+    "chapterCount": 2,
+    "contentSha256": "441c9685f0d5e4dda1cc59fb84acb44edc04198e175ac0c6130be4a6f53923c3",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/saltrey-viatge-del-cavaller-owein-al-purgatori-de.ca.wikisource/v1/book.json.gz",
+    "sha256": "9d329ccf87b29f9a9f71dd199b66013376fbe55a409698d54b36db8f873c6840",
+    "sizeBytes": 19092,
+    "uncompressedSizeBytes": 50761,
+    "wordCount": 9122
+  },
+  "edition": {
+    "editionId": "saltrey-viatge-del-cavaller-owein-al-purgatori-de.ca.wikisource",
+    "kind": "translation",
+    "language": "ca",
+    "title": "Viatge del Cavaller Owein al Purgatori de Sant Patrici",
+    "translationPublicationYear": 1914,
+    "translator": {
+      "birthYear": 1400,
+      "deathYear": 1400,
+      "name": "Ramon Ros",
+      "wikidata": "Q19301700"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1200: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1400: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1914: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q3203300",
+      "https://www.wikidata.org/wiki/Q123586977",
+      "https://www.wikidata.org/wiki/Q18671361",
+      "https://www.wikidata.org/wiki/Q19301700",
+      "https://ca.wikisource.org/wiki/Viatge_del_Cavaller_Owein_al_Purgatori_de_Sant_Patrici"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Enric de Saltrey died in 1200; the translator Ramon Ros died in 1400 and this translation was first published in 1914. Source: ca.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Viatge del Cavaller Owein al Purgatori de Sant Patrici",
+    "pages": [
+      {
+        "revision": 93731,
+        "title": "Viatge del Cavaller Owein al Purgatori de Sant Patrici"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:06:12.204399Z",
+    "revision": "93731",
+    "site": "ca.wikisource.org",
+    "url": "https://ca.wikisource.org/wiki/Viatge_del_Cavaller_Owein_al_Purgatori_de_Sant_Patrici"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1200,
+      "deathYear": 1200,
+      "name": "Enric de Saltrey",
+      "wikidata": "Q18671361"
+    },
+    "originalLanguage": "fro",
+    "originalPublicationYear": 1200,
+    "originalTitle": "Viatge del Cavaller Owein al Purgatori de Sant Patrici",
+    "workId": "saltrey-viatge-del-cavaller-owein-al-purgatori-de"
+  }
+}

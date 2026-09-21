@@ -1,0 +1,68 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:17.436092Z",
+    "chapterCount": 53,
+    "contentSha256": "0fc4ed88c08982e2a729f18142f5c77830785521c4d386c5c756c133aabe9e97",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/manzoni-i-promessi-sposi-opere-di-alessando-manzoni.it.gutenberg/v1/book.json.gz",
+    "sha256": "d064d10924c689622f49962b1033d01c1036d3b7c2d391784b221bf3f160e829",
+    "sizeBytes": 532083,
+    "uncompressedSizeBytes": 1441143,
+    "wordCount": 228078
+  },
+  "edition": {
+    "editionId": "manzoni-i-promessi-sposi-opere-di-alessando-manzoni.it.gutenberg",
+    "kind": "original",
+    "language": "it",
+    "title": "I promessi sposi. Opere di Alessando Manzoni, vol. 1"
+  },
+  "genres": [
+    "Fiction",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1873: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1827: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/45334",
+      "https://en.wikipedia.org/wiki/Alessandro_Manzoni",
+      "https://it.wikipedia.org/wiki/Alessandro_Manzoni",
+      "https://www.wikidata.org/wiki/Q28491"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Alessandro Manzoni died in 1873 and the work was first published in 1827. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "45334",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:46:12.681348Z",
+    "revision": "Fri, 18 Sep 2026 14:29:41 GMT",
+    "url": "https://www.gutenberg.org/ebooks/45334"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1785,
+      "deathYear": 1873,
+      "name": "Alessandro Manzoni",
+      "wikidata": "Q1064"
+    },
+    "originalLanguage": "it",
+    "originalPublicationYear": 1827,
+    "originalTitle": "I promessi sposi. Opere di Alessando Manzoni, vol. 1",
+    "workId": "manzoni-i-promessi-sposi-opere-di-alessando-manzoni"
+  }
+}

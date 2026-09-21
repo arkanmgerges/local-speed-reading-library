@@ -1,0 +1,82 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:57.074182Z",
+    "chapterCount": 1,
+    "contentSha256": "97c9150b456c675832c0a45d567790167a74ace763497cfffd302cb26c8579ed",
+    "normalizerVersion": "0.2.0",
+    "path": "books/la/plato-parmenides.la.wikisource/v1/book.json.gz",
+    "sha256": "60c5a5eeb0ded459e39484723c1719bf60d6fe88cb97bce853898674ec359655",
+    "sizeBytes": 31337,
+    "uncompressedSizeBytes": 93802,
+    "wordCount": 14190
+  },
+  "edition": {
+    "editionId": "plato-parmenides.la.wikisource",
+    "kind": "translation",
+    "language": "la",
+    "title": "Parmenides",
+    "translationPublicationYear": 1816,
+    "translator": {
+      "birthYear": 1433,
+      "deathYear": 1499,
+      "name": "Marsilius Ficinus",
+      "wikidata": "Q192374"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -348: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1499: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1816: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1130762",
+      "https://www.wikidata.org/wiki/Q137371436",
+      "https://www.wikidata.org/wiki/Q859",
+      "https://www.wikidata.org/wiki/Q192374",
+      "https://la.wikisource.org/wiki/Parmenides_(ed._Bekker)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Plato died in -348; the translator Marsilius Ficinus died in 1499 and this translation was first published in 1816. Source: la.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Parmenides (ed. Bekker)",
+    "pages": [
+      {
+        "revision": 248164,
+        "title": "Parmenides (ed. Bekker)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:56:07.331726Z",
+    "revision": "248164",
+    "site": "la.wikisource.org",
+    "url": "https://la.wikisource.org/wiki/Parmenides_(ed._Bekker)"
+  },
+  "work": {
+    "author": {
+      "birthYear": -428,
+      "deathYear": -348,
+      "name": "Plato",
+      "wikidata": "Q859"
+    },
+    "originalLanguage": "grc",
+    "originalTitle": "Parmenides",
+    "workId": "plato-parmenides"
+  }
+}

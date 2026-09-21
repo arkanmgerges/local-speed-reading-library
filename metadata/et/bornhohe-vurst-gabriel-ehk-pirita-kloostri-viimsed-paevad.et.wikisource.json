@@ -1,0 +1,137 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:20.405351Z",
+    "chapterCount": 16,
+    "contentSha256": "969675012453024cdf05555ac38b78319fefef0af50fcde084d0f247f3eefa2d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/et/bornhohe-vurst-gabriel-ehk-pirita-kloostri-viimsed-paevad.et.wikisource/v1/book.json.gz",
+    "sha256": "b407b76e45d95e46155843b1f03b244a2d7d527c466bd1b728be8ae3a6a91c63",
+    "sizeBytes": 116586,
+    "uncompressedSizeBytes": 327814,
+    "wordCount": 44638
+  },
+  "edition": {
+    "editionId": "bornhohe-vurst-gabriel-ehk-pirita-kloostri-viimsed-paevad.et.wikisource",
+    "kind": "original",
+    "language": "et",
+    "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1923: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1893: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q5509729",
+      "https://www.wikidata.org/wiki/Q717712",
+      "https://et.wikisource.org/wiki/V%C3%BCrst_Gabriel_ehk_Pirita_kloostri_viimsed_p%C3%A4evad"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Eduard Bornhöhe died in 1923 and the work was first published in 1893. Source: et.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Vürst Gabriel ehk Pirita kloostri viimsed päevad",
+    "pages": [
+      {
+        "revision": 59621,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad"
+      },
+      {
+        "revision": 20945,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/1"
+      },
+      {
+        "revision": 20900,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/2"
+      },
+      {
+        "revision": 20905,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/3"
+      },
+      {
+        "revision": 20910,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/4"
+      },
+      {
+        "revision": 20924,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/5"
+      },
+      {
+        "revision": 20948,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/6"
+      },
+      {
+        "revision": 20956,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/7"
+      },
+      {
+        "revision": 20961,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/8"
+      },
+      {
+        "revision": 20972,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/9"
+      },
+      {
+        "revision": 20979,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/10"
+      },
+      {
+        "revision": 20984,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/11"
+      },
+      {
+        "revision": 20989,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/12"
+      },
+      {
+        "revision": 21002,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/13"
+      },
+      {
+        "revision": 21012,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/14"
+      },
+      {
+        "revision": 21019,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/15"
+      },
+      {
+        "revision": 21021,
+        "title": "Vürst Gabriel ehk Pirita kloostri viimsed päevad/16"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:50:31.244483Z",
+    "revision": "59621",
+    "site": "et.wikisource.org",
+    "url": "https://et.wikisource.org/wiki/V%C3%BCrst_Gabriel_ehk_Pirita_kloostri_viimsed_p%C3%A4evad"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1862,
+      "deathYear": 1923,
+      "name": "Eduard Bornhöhe",
+      "wikidata": "Q717712"
+    },
+    "originalLanguage": "et",
+    "originalPublicationYear": 1893,
+    "originalTitle": "Vürst Gabriel ehk Pirita kloostri viimsed päevad",
+    "workId": "bornhohe-vurst-gabriel-ehk-pirita-kloostri-viimsed-paevad"
+  }
+}

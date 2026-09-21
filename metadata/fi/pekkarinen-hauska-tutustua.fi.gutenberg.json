@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:47.036171Z",
+    "chapterCount": 16,
+    "contentSha256": "a68edd8733e7c9715f5f60fe9a8e496df3ba7c08c63e661d1f20645d290a84a1",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/pekkarinen-hauska-tutustua.fi.gutenberg/v1/book.json.gz",
+    "sha256": "00448b80ac6f15d6ea07c75faa317b92f6141cfbcd5900390b85f4ad8b6a902b",
+    "sizeBytes": 94573,
+    "uncompressedSizeBytes": 244528,
+    "wordCount": 26801
+  },
+  "edition": {
+    "editionId": "pekkarinen-hauska-tutustua.fi.gutenberg",
+    "editionPublicationYear": 1929,
+    "kind": "original",
+    "language": "fi",
+    "title": "\"Hauska tutustua!\" : $b Viisunikkarin elämyksiä Lännen kultamaassa"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1951: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1929 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/78008",
+      "https://fi.wikipedia.org/wiki/Tatu_Pekkarinen"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Tatu Pekkarinen died in 1951 and the edition digitised by Project Gutenberg was printed in 1929. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "78008",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:04:52.372875Z",
+    "revision": "Mon, 31 Aug 2026 07:32:11 GMT",
+    "url": "https://www.gutenberg.org/ebooks/78008"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1892,
+      "deathYear": 1951,
+      "name": "Tatu Pekkarinen",
+      "wikidata": "Q4348123"
+    },
+    "originalLanguage": "fi",
+    "originalTitle": "\"Hauska tutustua!\" : $b Viisunikkarin elämyksiä Lännen kultamaassa",
+    "workId": "pekkarinen-hauska-tutustua"
+  }
+}

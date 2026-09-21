@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:56.319576Z",
+    "chapterCount": 10,
+    "contentSha256": "a5ba97810983b77395a7d3f259894f785d02eb7a42bea24e954278448b436e89",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/cankar-hisa-marije-pomocnice.sl.wikisource/v1/book.json.gz",
+    "sha256": "43d3159092c140c7cf1c50fc6d0db77c81b964d511a46d2710b679479d7a1b90",
+    "sizeBytes": 64056,
+    "uncompressedSizeBytes": 178080,
+    "wordCount": 30189
+  },
+  "edition": {
+    "editionId": "cankar-hisa-marije-pomocnice.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Hiša Marije Pomočnice"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1918: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1904: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q11166040",
+      "https://www.wikidata.org/wiki/Q15809",
+      "https://sl.wikisource.org/wiki/Hi%C5%A1a_Marije_Pomo%C4%8Dnice"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ivan Cankar died in 1918 and the work was first published in 1904. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Hiša Marije Pomočnice",
+    "pages": [
+      {
+        "revision": 224526,
+        "title": "Hiša Marije Pomočnice"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:55:35.624900Z",
+    "revision": "224526",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Hi%C5%A1a_Marije_Pomo%C4%8Dnice"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1876,
+      "deathYear": 1918,
+      "name": "Ivan Cankar",
+      "wikidata": "Q15809"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1904,
+    "originalTitle": "Hiša Marije Pomočnice",
+    "workId": "cankar-hisa-marije-pomocnice"
+  }
+}

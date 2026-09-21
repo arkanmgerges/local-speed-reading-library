@@ -1,0 +1,68 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:45.928744Z",
+    "chapterCount": 12,
+    "contentSha256": "bc980eae9b9445fa9ebf3f5bf6595ae18db93ec322373933746d6a76593c09c2",
+    "normalizerVersion": "0.2.0",
+    "path": "books/la/descartes-meditationes-de-prima-philosophia.la.gutenberg/v1/book.json.gz",
+    "sha256": "374d84e27dfc4835a0322cdd42d3028b129ac6f47fcfcb03b833a87f22d66bf6",
+    "sizeBytes": 47434,
+    "uncompressedSizeBytes": 134250,
+    "wordCount": 19862
+  },
+  "edition": {
+    "editionId": "descartes-meditationes-de-prima-philosophia.la.gutenberg",
+    "kind": "original",
+    "language": "la",
+    "title": "Meditationes de prima philosophia"
+  },
+  "genres": [
+    "Philosophy",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1650: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1641: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/23306",
+      "https://en.wikipedia.org/wiki/René_Descartes",
+      "https://fr.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+      "https://www.wikidata.org/wiki/Q605790"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. René Descartes died in 1650 and the work was first published in 1641. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "23306",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:54:36.671323Z",
+    "revision": "Wed, 09 Sep 2026 17:27:48 GMT",
+    "url": "https://www.gutenberg.org/ebooks/23306"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1596,
+      "deathYear": 1650,
+      "name": "René Descartes",
+      "wikidata": "Q9191"
+    },
+    "originalLanguage": "la",
+    "originalPublicationYear": 1641,
+    "originalTitle": "Meditationes de prima philosophia",
+    "workId": "descartes-meditationes-de-prima-philosophia"
+  }
+}

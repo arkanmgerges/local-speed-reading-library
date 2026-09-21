@@ -1,0 +1,743 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 13,
+        "contentSha256": "03b8104724b6717a1f7099bd43adb5769050cbb86ff7d509436838eed38a5112",
+        "encoding": "gzip",
+        "path": "books/el/chrestomanos-pg27073.el.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "36700b8246ac3935a050a6f50bdaed960e8e0898ed810e72a9d5306a5091c485",
+        "sizeBytes": 118139,
+        "uncompressedSizeBytes": 442142,
+        "wordCount": 44210
+      },
+      "author": "Konstantinos Chrestomanos",
+      "authorDeathYear": 1911,
+      "editionId": "chrestomanos-pg27073.el.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1908,
+      "originalTitle": "Η Κερένια κούκλα: Αθηναϊκό μυθιστόρημα",
+      "rights": {
+        "statement": "Public domain worldwide. Konstantinos Chrestomanos died in 1911 and the work was first published in 1908. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "27073",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:26:56.225420Z",
+        "revision": "Fri, 11 Sep 2026 11:16:31 GMT",
+        "url": "https://www.gutenberg.org/ebooks/27073"
+      },
+      "title": "Η Κερένια κούκλα: Αθηναϊκό μυθιστόρημα",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "chrestomanos-pg27073"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 11,
+        "contentSha256": "b44a025bf1c3edf9d8cd9775da8c076d0ac31ea40923d87f310522870d39d225",
+        "encoding": "gzip",
+        "path": "books/el/christomanos-q15618359.el.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5f4d75e6ba50521aaeb793730aace15e6b39b6bc3e9f5cf9c70578aa68cc9caa",
+        "sizeBytes": 116995,
+        "uncompressedSizeBytes": 439816,
+        "wordCount": 43884
+      },
+      "author": "Κωνσταντίνος Χρηστομάνος",
+      "authorDeathYear": 1911,
+      "editionId": "christomanos-q15618359.el.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1908,
+      "originalTitle": "Η κερένια κούκλα",
+      "rights": {
+        "statement": "Public domain worldwide. Κωνσταντίνος Χρηστομάνος died in 1911 and the work was first published in 1908. Source: el.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Η κερένια κούκλα",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:27:14.453135Z",
+        "revision": "162027",
+        "url": "https://el.wikisource.org/wiki/%CE%97_%CE%BA%CE%B5%CF%81%CE%AD%CE%BD%CE%B9%CE%B1_%CE%BA%CE%BF%CF%8D%CE%BA%CE%BB%CE%B1"
+      },
+      "title": "Η κερένια κούκλα",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "christomanos-q15618359"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 20,
+        "contentSha256": "5bb00cd13d5abcb67803887aa3d234c2b69e9dfa3a00696982fee10ee298d776",
+        "encoding": "gzip",
+        "path": "books/el/delta-q12883245.el.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c2c133baaeff42fe6690130002eb6e906be034cb3adfeb6ec348b1f66833756f",
+        "sizeBytes": 105133,
+        "uncompressedSizeBytes": 439727,
+        "wordCount": 39130
+      },
+      "author": "Πηνελόπη Δέλτα",
+      "authorDeathYear": 1941,
+      "editionId": "delta-q12883245.el.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1910,
+      "originalTitle": "Παραμύθι χωρίς όνομα",
+      "rights": {
+        "statement": "Public domain worldwide. Πηνελόπη Δέλτα died in 1941 and the work was first published in 1910. Source: el.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Παραμύθι χωρίς όνομα",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:27:43.259560Z",
+        "revision": "48904",
+        "url": "https://el.wikisource.org/wiki/%CE%A0%CE%B1%CF%81%CE%B1%CE%BC%CF%8D%CE%B8%CE%B9_%CF%87%CF%89%CF%81%CE%AF%CF%82_%CF%8C%CE%BD%CE%BF%CE%BC%CE%B1"
+      },
+      "title": "Παραμύθι χωρίς όνομα",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "delta-q12883245"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 24,
+        "contentSha256": "89ea13753d5d52f50494ae3274e3dded5ed865c14e5058ae90a9ee8db28f1b99",
+        "encoding": "gzip",
+        "path": "books/el/karkavitsas-pg31865.el.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "47d102efbf13230f75ba1cb9919818ee0d09e3697bddd938e5593a218bbff940",
+        "sizeBytes": 185252,
+        "uncompressedSizeBytes": 669724,
+        "wordCount": 59549
+      },
+      "author": "Andreas Karkavitsas",
+      "authorDeathYear": 1922,
+      "editionId": "karkavitsas-pg31865.el.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1899,
+      "originalTitle": "Λόγια της Πλώρης: Θαλασσινά Διηγήματα",
+      "rights": {
+        "statement": "Public domain worldwide. Andreas Karkavitsas died in 1922 and the work was first published in 1899. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "31865",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:27:48.115093Z",
+        "revision": "Sun, 13 Sep 2026 10:17:12 GMT",
+        "url": "https://www.gutenberg.org/ebooks/31865"
+      },
+      "title": "Λόγια της Πλώρης: Θαλασσινά Διηγήματα",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "karkavitsas-pg31865"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 31,
+        "contentSha256": "51a8b4418c6f0bdd44f455f0702e2cb1e6cf375eb62902bc7cfb94cb3266e597",
+        "encoding": "gzip",
+        "path": "books/el/kokkonis-geografia-stoicheiodis.el.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "03851fa50ef6d42edfbeda8c18caf8e497ca0b1cea3e0fa77b694bf20df51069",
+        "sizeBytes": 374109,
+        "uncompressedSizeBytes": 1489697,
+        "wordCount": 118144
+      },
+      "author": "Ιωάννης Κοκκώνης",
+      "authorDeathYear": 1864,
+      "editionId": "kokkonis-geografia-stoicheiodis.el.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1861,
+      "originalTitle": "Γεωγραφία Στοιχειώδης",
+      "rights": {
+        "statement": "Public domain worldwide. Ιωάννης Κοκκώνης died in 1864 and the work was first published in 1861. Source: el.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Γεωγραφία Στοιχειώδης",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:28:21.838444Z",
+        "revision": "124737",
+        "url": "https://el.wikisource.org/wiki/%CE%93%CE%B5%CF%89%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1_%CE%A3%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%B9%CF%8E%CE%B4%CE%B7%CF%82"
+      },
+      "title": "Γεωγραφία Στοιχειώδης",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kokkonis-geografia-stoicheiodis"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 54,
+        "contentSha256": "d27747cecaed14692c4abe45aa3c0ab38dfcad05e9d4ea7bb1b0917097fc4378",
+        "encoding": "gzip",
+        "path": "books/el/makriyannis-q41793796.el.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "136225b88756728bce3b835bd533a58c1fcb7ebd348d05e70e2c7852a8d32be7",
+        "sizeBytes": 754124,
+        "uncompressedSizeBytes": 3135416,
+        "wordCount": 289705
+      },
+      "author": "Ιωάννης Μακρυγιάννης",
+      "authorDeathYear": 1864,
+      "editionId": "makriyannis-q41793796.el.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Biography"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1907,
+      "originalTitle": "Απομνημονεύματα Στρατηγού Ιωάννη Μακρυγιάννη",
+      "rights": {
+        "statement": "Public domain worldwide. Ιωάννης Μακρυγιάννης died in 1864 and the work was first published in 1907. Source: el.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Απομνημονεύματα Μακρυγιάννη",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:29:26.074794Z",
+        "revision": "137527",
+        "url": "https://el.wikisource.org/wiki/%CE%91%CF%80%CE%BF%CE%BC%CE%BD%CE%B7%CE%BC%CE%BF%CE%BD%CE%B5%CF%8D%CE%BC%CE%B1%CF%84%CE%B1_%CE%9C%CE%B1%CE%BA%CF%81%CF%85%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7"
+      },
+      "title": "Απομνημονεύματα Στρατηγού Ιωάννη Μακρυγιάννη",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "makriyannis-q41793796"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 4,
+        "contentSha256": "9301a88f1c0597333d3722b335e293bce13bc4029b155c343e7c6e2431c80168",
+        "encoding": "gzip",
+        "path": "books/el/mitsopoulos-fysiki-geografia-tis-thrakis.el.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "32ee6f7f53d8bd69ceb5a88915b22d94fe011c079a27977e6e6ccb0b48a1d05b",
+        "sizeBytes": 38379,
+        "uncompressedSizeBytes": 151543,
+        "wordCount": 11784
+      },
+      "author": "Κωνσταντίνος Μητσόπουλος",
+      "authorDeathYear": 1911,
+      "editionId": "mitsopoulos-fysiki-geografia-tis-thrakis.el.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1897,
+      "originalTitle": "Φυσική γεωγραφία της Θράκης",
+      "rights": {
+        "statement": "Public domain worldwide. Κωνσταντίνος Μητσόπουλος died in 1911 and the work was first published in 1897. Source: el.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Φυσική γεωγραφία της Θράκης",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:29:38.410119Z",
+        "revision": "144297",
+        "url": "https://el.wikisource.org/wiki/%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE_%CE%B3%CE%B5%CF%89%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1_%CF%84%CE%B7%CF%82_%CE%98%CF%81%CE%AC%CE%BA%CE%B7%CF%82"
+      },
+      "title": "Φυσική γεωγραφία της Θράκης",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "mitsopoulos-fysiki-geografia-tis-thrakis"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "9dba9de208b72cfce1010f10300a392d1fec3f4f1eb22d86e496498a5ae85dbd",
+        "encoding": "gzip",
+        "path": "books/el/papadiamantes-pg33395.el.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "bf949fdfc2cac5ba4fbe6563dba3a4c82248f06ec97d4fa5155b790f48ff9c4c",
+        "sizeBytes": 114625,
+        "uncompressedSizeBytes": 411518,
+        "wordCount": 36470
+      },
+      "author": "Alexandros Papadiamantes",
+      "authorDeathYear": 1911,
+      "editionId": "papadiamantes-pg33395.el.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1894,
+      "originalTitle": "Η νοσταλγός",
+      "rights": {
+        "statement": "Public domain worldwide. Alexandros Papadiamantes died in 1911 and the work was first published in 1894. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "33395",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:29:41.086841Z",
+        "revision": "Sun, 13 Sep 2026 20:37:49 GMT",
+        "url": "https://www.gutenberg.org/ebooks/33395"
+      },
+      "title": "Η νοσταλγός",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "papadiamantes-pg33395"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 46,
+        "contentSha256": "745850c3cece57997b8cfcde204d546f669e0767510fc60ffcdb6f53b5f15f42",
+        "encoding": "gzip",
+        "path": "books/el/papadiamantes-pg34723.el.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f000e8c6bde7ff6c59019d4dbb58b59dd9ea2a290bcdd42f469982bc37ca614c",
+        "sizeBytes": 282254,
+        "uncompressedSizeBytes": 1087122,
+        "wordCount": 95601
+      },
+      "author": "Alexandros Papadiamantes",
+      "authorDeathYear": 1911,
+      "editionId": "papadiamantes-pg34723.el.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1884,
+      "originalTitle": "Η Γυφτοπούλα",
+      "rights": {
+        "statement": "Public domain worldwide. Alexandros Papadiamantes died in 1911 and the work was first published in 1884. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "34723",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:29:44.705593Z",
+        "revision": "Mon, 14 Sep 2026 13:46:05 GMT",
+        "url": "https://www.gutenberg.org/ebooks/34723"
+      },
+      "title": "Η Γυφτοπούλα",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "papadiamantes-pg34723"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 9,
+        "contentSha256": "f2dd09942d466f4b49763f81f0ed9536644221c843551c269e42a2c04158c220",
+        "encoding": "gzip",
+        "path": "books/el/papadiamantes-pg36205.el.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ff35666a91ef8adbf738324752df894ef15b6d8ce182df4a1536ae12fb913b45",
+        "sizeBytes": 157921,
+        "uncompressedSizeBytes": 581027,
+        "wordCount": 53146
+      },
+      "author": "Alexandros Papadiamantes",
+      "authorDeathYear": 1911,
+      "editionId": "papadiamantes-pg36205.el.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1903,
+      "originalTitle": "Η Φόνισσα",
+      "rights": {
+        "statement": "Public domain worldwide. Alexandros Papadiamantes died in 1911 and the work was first published in 1903. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "36205",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:29:48.992664Z",
+        "revision": "Tue, 15 Sep 2026 03:25:08 GMT",
+        "url": "https://www.gutenberg.org/ebooks/36205"
+      },
+      "title": "Η Φόνισσα",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "papadiamantes-pg36205"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 10,
+        "contentSha256": "0605107ac4fadd77a2a381c1911cfd2d6d38b6c6658955eef46513e1b7bdb23e",
+        "encoding": "gzip",
+        "path": "books/el/papadiamantes-pg36845.el.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c1577b1b2c5edaf4f6e8486513611c56e5182530631155ced20f1b21fb1ed3f6",
+        "sizeBytes": 84393,
+        "uncompressedSizeBytes": 302303,
+        "wordCount": 26984
+      },
+      "author": "Alexandros Papadiamantes",
+      "authorDeathYear": 1911,
+      "editionId": "papadiamantes-pg36845.el.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1901,
+      "originalTitle": "Χριστουγεννιάτικα διηγήματα",
+      "rights": {
+        "statement": "Public domain worldwide. Alexandros Papadiamantes died in 1911 and the work was first published in 1901. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "36845",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:29:52.182286Z",
+        "revision": "Tue, 15 Sep 2026 09:20:13 GMT",
+        "url": "https://www.gutenberg.org/ebooks/36845"
+      },
+      "title": "Χριστουγεννιάτικα διηγήματα",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "papadiamantes-pg36845"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "cc481fb62c48673d71f12f41dc7fec8ed1ec72ded0da374997c11f71ffeb1633",
+        "encoding": "gzip",
+        "path": "books/el/papadiamantes-pg42070.el.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8d2f95dd0c95be23e4bfa86d74e76837926a489bdf69d812c7603ce929237f78",
+        "sizeBytes": 86806,
+        "uncompressedSizeBytes": 313352,
+        "wordCount": 28399
+      },
+      "author": "Alexandros Papadiamantes",
+      "authorDeathYear": 1911,
+      "editionId": "papadiamantes-pg42070.el.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1902,
+      "originalTitle": "Πρωτοχρονιάτικα διηγήματα",
+      "rights": {
+        "statement": "Public domain worldwide. Alexandros Papadiamantes died in 1911 and the work was first published in 1902. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "42070",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:29:54.779196Z",
+        "revision": "Thu, 17 Sep 2026 09:49:53 GMT",
+        "url": "https://www.gutenberg.org/ebooks/42070"
+      },
+      "title": "Πρωτοχρονιάτικα διηγήματα",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "papadiamantes-pg42070"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "1fdd6e04b72b8b20aa62298d625b17863286f774cce5ca69c431aca0bdb37125",
+        "encoding": "gzip",
+        "path": "books/el/plato-apologia-sokratous.el.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7e4f9919e69db2da1f1ab4c57e02a1a2abc3050169d67f391e506458d082b75d",
+        "sizeBytes": 50784,
+        "uncompressedSizeBytes": 210135,
+        "wordCount": 17349
+      },
+      "author": "Πλάτων",
+      "authorDeathYear": -348,
+      "editionId": "plato-apologia-sokratous.el.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "el",
+      "originalLanguage": "grc",
+      "originalPublicationYear": -395,
+      "originalTitle": "Apologia Sokratous",
+      "rights": {
+        "statement": "Public domain worldwide. Πλάτων died in -348; the translator Αλέξανδρος Μωραϊτίδης died in 1929 and this translation was first published in 1911. Source: el.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Απολογία Σωκράτους (μετάφραση)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:30:30.182279Z",
+        "revision": "143538",
+        "url": "https://el.wikisource.org/wiki/%CE%91%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1_%CE%A3%CF%89%CE%BA%CF%81%CE%AC%CF%84%CE%BF%CF%85%CF%82_(%CE%BC%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7)"
+      },
+      "title": "Απολογία Σωκράτους (μετάφραση)",
+      "translationPublicationYear": 1911,
+      "translator": "Αλέξανδρος Μωραϊτίδης",
+      "translatorDeathYear": 1929,
+      "workId": "plato-apologia-sokratous"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "352a99285ce3ab6b708f72494f221ae3dc2c495be782d26676e05f48e1c817f5",
+        "encoding": "gzip",
+        "path": "books/el/rhoides-pg27760.el.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7ac0fac3f66e0909f6e783ed6b25f6af8d923f01eae0688b1ed2dd39b410d6f1",
+        "sizeBytes": 243757,
+        "uncompressedSizeBytes": 858411,
+        "wordCount": 81784
+      },
+      "author": "Emmanouel D. Rhoides",
+      "authorDeathYear": 1904,
+      "editionId": "rhoides-pg27760.el.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1866,
+      "originalTitle": "Η Πάπισσα Ιωάννα",
+      "rights": {
+        "statement": "Public domain worldwide. Emmanouel D. Rhoides died in 1904 and the work was first published in 1866. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "27760",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:30:39.754775Z",
+        "revision": "Fri, 11 Sep 2026 14:31:36 GMT",
+        "url": "https://www.gutenberg.org/ebooks/27760"
+      },
+      "title": "Η Πάπισσα Ιωάννα",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "rhoides-pg27760"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 13,
+        "contentSha256": "aa4e298dc276c558aa6307d42cdb0497af03a72dd062ac93e2451bde35846969",
+        "encoding": "gzip",
+        "path": "books/el/vikelas-pg29062.el.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7f7a85f0e8cc091f360b929f19a99225e94f95510e842940e9b939a0f223d0b0",
+        "sizeBytes": 106806,
+        "uncompressedSizeBytes": 397017,
+        "wordCount": 34204
+      },
+      "author": "Demetrios Vikelas",
+      "authorDeathYear": 1908,
+      "editionId": "vikelas-pg29062.el.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1879,
+      "originalTitle": "Λουκής Λάρας",
+      "rights": {
+        "statement": "Public domain worldwide. Demetrios Vikelas died in 1908 and the work was first published in 1879. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "29062",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:30:43.483458Z",
+        "revision": "Sat, 12 Sep 2026 09:25:57 GMT",
+        "url": "https://www.gutenberg.org/ebooks/29062"
+      },
+      "title": "Λουκής Λάρας",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vikelas-pg29062"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 7,
+        "contentSha256": "71bea292894b3e00fe6dc4495d7ca656f8e32092007539cb47a061103a457e00",
+        "encoding": "gzip",
+        "path": "books/el/vizyenos-pg34133.el.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c475e87b68e66537d78f75918ca98384c7b1784de8e5691332ca5d51f76b5361",
+        "sizeBytes": 93787,
+        "uncompressedSizeBytes": 334708,
+        "wordCount": 30384
+      },
+      "author": "G. M. Vizyenos",
+      "authorDeathYear": 1896,
+      "editionId": "vizyenos-pg34133.el.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1883,
+      "originalTitle": "Ποίος ήτον ο φονεύς του αδελφού μου",
+      "rights": {
+        "statement": "Public domain worldwide. G. M. Vizyenos died in 1896 and the work was first published in 1883. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "34133",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:30:46.227879Z",
+        "revision": "Mon, 14 Sep 2026 08:53:12 GMT",
+        "url": "https://www.gutenberg.org/ebooks/34133"
+      },
+      "title": "Ποίος ήτον ο φονεύς του αδελφού μου",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vizyenos-pg34133"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "d7157a805f53c58541488b0aed142ddd4678360934c602bcc6ea99546776d86d",
+        "encoding": "gzip",
+        "path": "books/el/vizyinos-the-only-journey-of-his-life.el.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "584febaf61c3ee07ed0a1dfe3ecd21ae424b86040be4366aedb32a8663e786a2",
+        "sizeBytes": 38894,
+        "uncompressedSizeBytes": 137614,
+        "wordCount": 11273
+      },
+      "author": "Γεώργιος Βιζυηνός",
+      "authorDeathYear": 1896,
+      "editionId": "vizyinos-the-only-journey-of-his-life.el.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1884,
+      "originalTitle": "Το μόνον της ζωής του ταξείδιον",
+      "rights": {
+        "statement": "Public domain worldwide. Γεώργιος Βιζυηνός died in 1896 and the work was first published in 1884. Source: el.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Το μόνον της ζωής του ταξείδιον",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:30:48.559953Z",
+        "revision": "152626",
+        "url": "https://el.wikisource.org/wiki/%CE%A4%CE%BF_%CE%BC%CF%8C%CE%BD%CE%BF%CE%BD_%CF%84%CE%B7%CF%82_%CE%B6%CF%89%CE%AE%CF%82_%CF%84%CE%BF%CF%85_%CF%84%CE%B1%CE%BE%CE%B5%CE%AF%CE%B4%CE%B9%CE%BF%CE%BD"
+      },
+      "title": "Το μόνον της ζωής του ταξείδιον",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vizyinos-the-only-journey-of-his-life"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Greek",
+  "language": "el",
+  "manifestVersion": "4f5a89a50f07c441",
+  "nativeName": "Ελληνικά",
+  "schemaVersion": 1
+}

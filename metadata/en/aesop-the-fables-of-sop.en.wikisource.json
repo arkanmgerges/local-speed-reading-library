@@ -1,0 +1,426 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:53:57.381113Z",
+    "chapterCount": 92,
+    "contentSha256": "09b3551c727673bdf589b7e3c8e2a8865f475824c539c5b3fa3f9745c48c7684",
+    "normalizerVersion": "0.2.0",
+    "path": "books/en/aesop-the-fables-of-sop.en.wikisource/v1/book.json.gz",
+    "sha256": "294a1c429f2277a07d8dd7dd36bb1b6ba40bfad0d57c9c03e68e40228ae964db",
+    "sizeBytes": 36970,
+    "uncompressedSizeBytes": 111353,
+    "wordCount": 16133
+  },
+  "edition": {
+    "editionId": "aesop-the-fables-of-sop.en.wikisource",
+    "kind": "translation",
+    "language": "en",
+    "title": "The Fables of Æsop",
+    "translationPublicationYear": 1894,
+    "translator": {
+      "birthYear": 1854,
+      "deathYear": 1916,
+      "name": "Joseph Jacobs",
+      "wikidata": "Q981949"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -563: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1916: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1894: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q865902",
+      "https://www.wikidata.org/wiki/Q19086419",
+      "https://www.wikidata.org/wiki/Q43423",
+      "https://www.wikidata.org/wiki/Q981949",
+      "https://en.wikisource.org/wiki/The_Fables_of_%C3%86sop_(Jacobs)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Aesop died in -563; the translator Joseph Jacobs died in 1916 and this translation was first published in 1894. Source: en.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "The Fables of Æsop (Jacobs)",
+    "pages": [
+      {
+        "revision": 14278603,
+        "title": "The Fables of Æsop (Jacobs)"
+      },
+      {
+        "revision": 4700592,
+        "title": "The Fables of Æsop (Jacobs)/Preface"
+      },
+      {
+        "revision": 4700597,
+        "title": "The Fables of Æsop (Jacobs)/A Short History of the Æsopic Fable"
+      },
+      {
+        "revision": 4703343,
+        "title": "The Fables of Æsop (Jacobs)/Notes"
+      },
+      {
+        "revision": 6176801,
+        "title": "The Fables of Æsop (Jacobs)/Index"
+      },
+      {
+        "revision": 4711633,
+        "title": "The Fables of Æsop (Jacobs)/The Cock and the Pearl"
+      },
+      {
+        "revision": 4711634,
+        "title": "The Fables of Æsop (Jacobs)/The Wolf and the Lamb"
+      },
+      {
+        "revision": 4711635,
+        "title": "The Fables of Æsop (Jacobs)/The Dog and the Shadow"
+      },
+      {
+        "revision": 4711636,
+        "title": "The Fables of Æsop (Jacobs)/The Lion's Share"
+      },
+      {
+        "revision": 4711637,
+        "title": "The Fables of Æsop (Jacobs)/The Wolf and the Crane"
+      },
+      {
+        "revision": 4711638,
+        "title": "The Fables of Æsop (Jacobs)/The Man and the Serpent"
+      },
+      {
+        "revision": 4711639,
+        "title": "The Fables of Æsop (Jacobs)/The Town Mouse and the Country Mouse"
+      },
+      {
+        "revision": 4711640,
+        "title": "The Fables of Æsop (Jacobs)/The Fox and the Crow"
+      },
+      {
+        "revision": 4711641,
+        "title": "The Fables of Æsop (Jacobs)/The Sick Lion"
+      },
+      {
+        "revision": 4711642,
+        "title": "The Fables of Æsop (Jacobs)/The Ass and the Lap-Dog"
+      },
+      {
+        "revision": 4711643,
+        "title": "The Fables of Æsop (Jacobs)/The Lion and the Mouse"
+      },
+      {
+        "revision": 13110521,
+        "title": "The Fables of Æsop (Jacobs)/The Swallow and the other Birds"
+      },
+      {
+        "revision": 4711645,
+        "title": "The Fables of Æsop (Jacobs)/The Frogs desiring a King"
+      },
+      {
+        "revision": 4711646,
+        "title": "The Fables of Æsop (Jacobs)/The Mountains in Labour"
+      },
+      {
+        "revision": 4711647,
+        "title": "The Fables of Æsop (Jacobs)/The Hares and the Frogs"
+      },
+      {
+        "revision": 4711648,
+        "title": "The Fables of Æsop (Jacobs)/The Wolf and the Kid"
+      },
+      {
+        "revision": 4711649,
+        "title": "The Fables of Æsop (Jacobs)/The Woodman and the Serpent"
+      },
+      {
+        "revision": 4711650,
+        "title": "The Fables of Æsop (Jacobs)/The Bald Man and the Fly"
+      },
+      {
+        "revision": 4711652,
+        "title": "The Fables of Æsop (Jacobs)/The Fox and the Stork"
+      },
+      {
+        "revision": 4711653,
+        "title": "The Fables of Æsop (Jacobs)/The Fox and the Mask"
+      },
+      {
+        "revision": 4711654,
+        "title": "The Fables of Æsop (Jacobs)/The Jay and the Peacock"
+      },
+      {
+        "revision": 4711655,
+        "title": "The Fables of Æsop (Jacobs)/The Frog and the Ox"
+      },
+      {
+        "revision": 4711656,
+        "title": "The Fables of Æsop (Jacobs)/Androcles"
+      },
+      {
+        "revision": 4711657,
+        "title": "The Fables of Æsop (Jacobs)/The Bat, the Birds, and the Beasts"
+      },
+      {
+        "revision": 4711658,
+        "title": "The Fables of Æsop (Jacobs)/The Hart and the Hunter"
+      },
+      {
+        "revision": 4711660,
+        "title": "The Fables of Æsop (Jacobs)/The Serpent and the File"
+      },
+      {
+        "revision": 4711661,
+        "title": "The Fables of Æsop (Jacobs)/The Man and the Wood"
+      },
+      {
+        "revision": 4711662,
+        "title": "The Fables of Æsop (Jacobs)/The Dog and the Wolf"
+      },
+      {
+        "revision": 4711663,
+        "title": "The Fables of Æsop (Jacobs)/The Belly and the Members"
+      },
+      {
+        "revision": 4711664,
+        "title": "The Fables of Æsop (Jacobs)/The Hart in the Ox-Stall"
+      },
+      {
+        "revision": 4711665,
+        "title": "The Fables of Æsop (Jacobs)/The Fox and the Grapes"
+      },
+      {
+        "revision": 4711666,
+        "title": "The Fables of Æsop (Jacobs)/The Peacock and Juno"
+      },
+      {
+        "revision": 4711668,
+        "title": "The Fables of Æsop (Jacobs)/The Horse, Hunter, and Stag"
+      },
+      {
+        "revision": 4711670,
+        "title": "The Fables of Æsop (Jacobs)/The Fox and the Lion"
+      },
+      {
+        "revision": 4711678,
+        "title": "The Fables of Æsop (Jacobs)/The Lion and the Statue"
+      },
+      {
+        "revision": 4711684,
+        "title": "The Fables of Æsop (Jacobs)/The Ant and the Grasshopper"
+      },
+      {
+        "revision": 4711691,
+        "title": "The Fables of Æsop (Jacobs)/The Tree and the Reed"
+      },
+      {
+        "revision": 4711695,
+        "title": "The Fables of Æsop (Jacobs)/The Fox and the Cat"
+      },
+      {
+        "revision": 4711700,
+        "title": "The Fables of Æsop (Jacobs)/The Wolf in Sheep's Clothing"
+      },
+      {
+        "revision": 4711705,
+        "title": "The Fables of Æsop (Jacobs)/The Dog in the Manger"
+      },
+      {
+        "revision": 4711709,
+        "title": "The Fables of Æsop (Jacobs)/The Man and the Wooden God"
+      },
+      {
+        "revision": 16179336,
+        "title": "The Fables of Æsop (Jacobs)/The Fisher"
+      },
+      {
+        "revision": 4711717,
+        "title": "The Fables of Æsop (Jacobs)/The Shepherd's Boy"
+      },
+      {
+        "revision": 4711720,
+        "title": "The Fables of Æsop (Jacobs)/The Young Thief and his Mother"
+      },
+      {
+        "revision": 4711731,
+        "title": "The Fables of Æsop (Jacobs)/The Man and his Two Wives"
+      },
+      {
+        "revision": 4711736,
+        "title": "The Fables of Æsop (Jacobs)/The Nurse and the Wolf"
+      },
+      {
+        "revision": 4711739,
+        "title": "The Fables of Æsop (Jacobs)/The Tortoise and the Birds"
+      },
+      {
+        "revision": 4711744,
+        "title": "The Fables of Æsop (Jacobs)/The Two Crabs"
+      },
+      {
+        "revision": 4711763,
+        "title": "The Fables of Æsop (Jacobs)/The Ass in the Lion's Skin"
+      },
+      {
+        "revision": 4711767,
+        "title": "The Fables of Æsop (Jacobs)/The Two Fellows and the Bear"
+      },
+      {
+        "revision": 4711772,
+        "title": "The Fables of Æsop (Jacobs)/The Two Pots"
+      },
+      {
+        "revision": 4819099,
+        "title": "The Fables of Æsop (Jacobs)/The Four Oxen and the Lion"
+      },
+      {
+        "revision": 4711779,
+        "title": "The Fables of Æsop (Jacobs)/The Fisher and the Little Fish"
+      },
+      {
+        "revision": 4711790,
+        "title": "The Fables of Æsop (Jacobs)/Avaricious and Envious"
+      },
+      {
+        "revision": 4711796,
+        "title": "The Fables of Æsop (Jacobs)/The Crow and the Pitcher"
+      },
+      {
+        "revision": 4711800,
+        "title": "The Fables of Æsop (Jacobs)/The Man and the Satyr"
+      },
+      {
+        "revision": 4711801,
+        "title": "The Fables of Æsop (Jacobs)/The Goose with the Golden Eggs"
+      },
+      {
+        "revision": 4711804,
+        "title": "The Fables of Æsop (Jacobs)/The Labourer and the Nightingale"
+      },
+      {
+        "revision": 4711805,
+        "title": "The Fables of Æsop (Jacobs)/The Fox, the Cock, and the Dog"
+      },
+      {
+        "revision": 4711806,
+        "title": "The Fables of Æsop (Jacobs)/The Wind and the Sun"
+      },
+      {
+        "revision": 4711807,
+        "title": "The Fables of Æsop (Jacobs)/Hercules and the Waggoner"
+      },
+      {
+        "revision": 4711808,
+        "title": "The Fables of Æsop (Jacobs)/The Miser and his Gold"
+      },
+      {
+        "revision": 4711809,
+        "title": "The Fables of Æsop (Jacobs)/The Man, the Boy, and the Donkey"
+      },
+      {
+        "revision": 4711810,
+        "title": "The Fables of Æsop (Jacobs)/The Fox and the Mosquitoes"
+      },
+      {
+        "revision": 4711811,
+        "title": "The Fables of Æsop (Jacobs)/The Fox without a Tail"
+      },
+      {
+        "revision": 4711812,
+        "title": "The Fables of Æsop (Jacobs)/The One-Eyed Doe"
+      },
+      {
+        "revision": 4711815,
+        "title": "The Fables of Æsop (Jacobs)/Belling the Cat"
+      },
+      {
+        "revision": 4711817,
+        "title": "The Fables of Æsop (Jacobs)/The Hare and the Tortoise"
+      },
+      {
+        "revision": 4711818,
+        "title": "The Fables of Æsop (Jacobs)/The Old Man and Death"
+      },
+      {
+        "revision": 4711820,
+        "title": "The Fables of Æsop (Jacobs)/The Hare with Many Friends"
+      },
+      {
+        "revision": 4711821,
+        "title": "The Fables of Æsop (Jacobs)/The Lion in Love"
+      },
+      {
+        "revision": 4711822,
+        "title": "The Fables of Æsop (Jacobs)/The Bundle of Sticks"
+      },
+      {
+        "revision": 4711823,
+        "title": "The Fables of Æsop (Jacobs)/The Lion, the Fox, and the Beasts"
+      },
+      {
+        "revision": 4711826,
+        "title": "The Fables of Æsop (Jacobs)/The Ass's Brains"
+      },
+      {
+        "revision": 4711827,
+        "title": "The Fables of Æsop (Jacobs)/The Eagle and the Arrow"
+      },
+      {
+        "revision": 4711828,
+        "title": "The Fables of Æsop (Jacobs)/The Cat-Maiden"
+      },
+      {
+        "revision": 4711829,
+        "title": "The Fables of Æsop (Jacobs)/The Milkmaid and her Pail"
+      },
+      {
+        "revision": 4711831,
+        "title": "The Fables of Æsop (Jacobs)/The Horse and the Ass"
+      },
+      {
+        "revision": 4711832,
+        "title": "The Fables of Æsop (Jacobs)/The Trumpeter taken Prisoner"
+      },
+      {
+        "revision": 4711833,
+        "title": "The Fables of Æsop (Jacobs)/The Buffoon and the Countryman"
+      },
+      {
+        "revision": 4711835,
+        "title": "The Fables of Æsop (Jacobs)/The Old Woman and the Wine-Jar"
+      },
+      {
+        "revision": 4711836,
+        "title": "The Fables of Æsop (Jacobs)/The Fox and the Goat"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:32:54.295888Z",
+    "revision": "14278603",
+    "site": "en.wikisource.org",
+    "url": "https://en.wikisource.org/wiki/The_Fables_of_%C3%86sop_(Jacobs)"
+  },
+  "work": {
+    "author": {
+      "birthYear": -619,
+      "deathYear": -563,
+      "name": "Aesop",
+      "wikidata": "Q43423"
+    },
+    "originalLanguage": "grc",
+    "originalTitle": "The Fables of Æsop",
+    "workId": "aesop-the-fables-of-sop"
+  }
+}

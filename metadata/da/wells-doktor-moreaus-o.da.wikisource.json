@@ -1,0 +1,167 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:52:45.029757Z",
+    "chapterCount": 21,
+    "contentSha256": "db90fb05bcb16f0e5a1787d579bed52f44c8cc7af9d86f041f32fd89a0032dd1",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/wells-doktor-moreaus-o.da.wikisource/v1/book.json.gz",
+    "sha256": "47b0b32420cdc0b0f01d364e29ea85bdda0104dd1aecf8096c7aab0f401e9237",
+    "sizeBytes": 99899,
+    "uncompressedSizeBytes": 279368,
+    "wordCount": 45420
+  },
+  "edition": {
+    "editionId": "wells-doktor-moreaus-o.da.wikisource",
+    "kind": "translation",
+    "language": "da",
+    "title": "Doktor Moreaus Ø",
+    "translationPublicationYear": 1898,
+    "translator": {
+      "birthYear": 1869,
+      "deathYear": 1917,
+      "name": "Axel Halling",
+      "wikidata": "Q23010036"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1917: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1898: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q718268",
+      "https://www.wikidata.org/wiki/Q47005606",
+      "https://www.wikidata.org/wiki/Q42511",
+      "https://www.wikidata.org/wiki/Q23010036",
+      "https://da.wikisource.org/wiki/Doktor_Moreaus_%C3%98"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. H.G. Wells died in 1946; the translator Axel Halling died in 1917 and this translation was first published in 1898. Source: da.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Doktor Moreaus Ø",
+    "pages": [
+      {
+        "revision": 48205,
+        "title": "Doktor Moreaus Ø"
+      },
+      {
+        "revision": 45161,
+        "title": "Doktor Moreaus Ø/1. Øen uden Navn"
+      },
+      {
+        "revision": 45162,
+        "title": "Doktor Moreaus Ø/2. Den sorte Mands Ansigt"
+      },
+      {
+        "revision": 45181,
+        "title": "Doktor Moreaus Ø/3. Ved Skonnertens Ræling"
+      },
+      {
+        "revision": 45244,
+        "title": "Doktor Moreaus Ø/4. Manden, som intet Sted havde at ty hen"
+      },
+      {
+        "revision": 45264,
+        "title": "Doktor Moreaus Ø/5. De hæslige Mænd i Baaden"
+      },
+      {
+        "revision": 45275,
+        "title": "Doktor Moreaus Ø/6. Den aflaasede Dør"
+      },
+      {
+        "revision": 45282,
+        "title": "Doktor Moreaus Ø/7. Pumaens Hyl"
+      },
+      {
+        "revision": 45301,
+        "title": "Doktor Moreaus Ø/8. I Skoven"
+      },
+      {
+        "revision": 45309,
+        "title": "Doktor Moreaus Ø/9. Menneskestemmen"
+      },
+      {
+        "revision": 45322,
+        "title": "Doktor Moreaus Ø/10. Menneskejagt"
+      },
+      {
+        "revision": 45342,
+        "title": "Doktor Moreaus Ø/11. Loven"
+      },
+      {
+        "revision": 45354,
+        "title": "Doktor Moreaus Ø/12. Underhandlinger"
+      },
+      {
+        "revision": 45377,
+        "title": "Doktor Moreaus Ø/13. Menneskefabrikation"
+      },
+      {
+        "revision": 45388,
+        "title": "Doktor Moreaus Ø/14. Dyrefolkene"
+      },
+      {
+        "revision": 45413,
+        "title": "Doktor Moreaus Ø/15. Hvorledes Dyrefolkene smagte Blod"
+      },
+      {
+        "revision": 45424,
+        "title": "Doktor Moreaus Ø/16. En Katastrofe"
+      },
+      {
+        "revision": 45437,
+        "title": "Doktor Moreaus Ø/17. Moreau findes"
+      },
+      {
+        "revision": 45453,
+        "title": "Doktor Moreaus Ø/18. Montgomerys \"blaa Mandag\""
+      },
+      {
+        "revision": 45464,
+        "title": "Doktor Moreaus Ø/19. Alene blandt Dyrefolkene"
+      },
+      {
+        "revision": 45504,
+        "title": "Doktor Moreaus Ø/20. Dyrefolkenes Tilbagefald"
+      },
+      {
+        "revision": 45512,
+        "title": "Doktor Moreaus Ø/21. Mennesket alene"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:24:11.510074Z",
+    "revision": "48205",
+    "site": "da.wikisource.org",
+    "url": "https://da.wikisource.org/wiki/Doktor_Moreaus_%C3%98"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1866,
+      "deathYear": 1946,
+      "name": "H.G. Wells",
+      "wikidata": "Q42511"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1895,
+    "originalTitle": "Doktor Moreaus Ø",
+    "workId": "wells-doktor-moreaus-o"
+  }
+}

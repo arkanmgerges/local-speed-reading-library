@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:21.199943Z",
+    "chapterCount": 2,
+    "contentSha256": "fa7e0440d70ec38da0ff8ddcd1d6c55bb85f9e183868a39311bd4936a96a47ea",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/poe-una-discesa-nel-maelstrom.it.wikisource/v1/book.json.gz",
+    "sha256": "ae0b1107cd7d99f1ccae62eb754739821b48d0677807c4436d8b2a354756b740",
+    "sizeBytes": 18970,
+    "uncompressedSizeBytes": 47510,
+    "wordCount": 7134
+  },
+  "edition": {
+    "editionId": "poe-una-discesa-nel-maelstrom.it.wikisource",
+    "kind": "translation",
+    "language": "it",
+    "title": "Una discesa nel Maelstrom",
+    "translationPublicationYear": 1869,
+    "translator": {
+      "birthYear": 1831,
+      "deathYear": 1899,
+      "name": "Baccio Emanuele Maineri",
+      "wikidata": "Q18071573"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1849: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1899: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1869: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1658772",
+      "https://www.wikidata.org/wiki/Q84925877",
+      "https://www.wikidata.org/wiki/Q16867",
+      "https://www.wikidata.org/wiki/Q18071573",
+      "https://it.wikisource.org/wiki/Una_discesa_nel_Maelstrom_(Poe-Maineri)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Edgar Allan Poe died in 1849; the translator Baccio Emanuele Maineri died in 1899 and this translation was first published in 1869. Source: it.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Una discesa nel Maelstrom (Poe-Maineri)",
+    "pages": [
+      {
+        "revision": 3767185,
+        "title": "Una discesa nel Maelstrom (Poe-Maineri)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:48:39.400726Z",
+    "revision": "3767185",
+    "site": "it.wikisource.org",
+    "url": "https://it.wikisource.org/wiki/Una_discesa_nel_Maelstrom_(Poe-Maineri)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1809,
+      "deathYear": 1849,
+      "name": "Edgar Allan Poe",
+      "wikidata": "Q16867"
+    },
+    "originalLanguage": "en-us",
+    "originalPublicationYear": 1841,
+    "originalTitle": "Una discesa nel Maelstrom",
+    "workId": "poe-una-discesa-nel-maelstrom"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:31:44.860185Z",
+    "chapterCount": 6,
+    "contentSha256": "97a12deca68698f9aac1a2ca51eb2030ca227ce0ca31db037e59343f1000d871",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/conrad-taifun.no.wikisource/v1/book.json.gz",
+    "sha256": "5aa519713cb050115a2f3eddf953b81d5dddbe13120094f11a5f6d30b034b3a6",
+    "sizeBytes": 62605,
+    "uncompressedSizeBytes": 167194,
+    "wordCount": 27739
+  },
+  "edition": {
+    "editionId": "conrad-taifun.no.wikisource",
+    "kind": "translation",
+    "language": "no",
+    "title": "Taifun",
+    "translationPublicationYear": 1930,
+    "translator": {
+      "birthYear": 1902,
+      "deathYear": 1943,
+      "name": "Nordahl Grieg",
+      "wikidata": "Q381734"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1924: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1943: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1930: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1329329",
+      "https://www.wikidata.org/wiki/Q137645541",
+      "https://www.wikidata.org/wiki/Q82925",
+      "https://www.wikidata.org/wiki/Q381734",
+      "https://no.wikisource.org/wiki/Taifun"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Joseph Conrad died in 1924; the translator Nordahl Grieg died in 1943 and this translation was first published in 1930. Source: no.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Taifun",
+    "pages": [
+      {
+        "revision": 319946,
+        "title": "Taifun"
+      },
+      {
+        "revision": 299548,
+        "title": "Taifun/01"
+      },
+      {
+        "revision": 299561,
+        "title": "Taifun/02"
+      },
+      {
+        "revision": 299587,
+        "title": "Taifun/03"
+      },
+      {
+        "revision": 299630,
+        "title": "Taifun/04"
+      },
+      {
+        "revision": 299669,
+        "title": "Taifun/05"
+      },
+      {
+        "revision": 299695,
+        "title": "Taifun/06"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:13:56.547006Z",
+    "revision": "319946",
+    "site": "no.wikisource.org",
+    "url": "https://no.wikisource.org/wiki/Taifun"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1857,
+      "deathYear": 1924,
+      "name": "Joseph Conrad",
+      "wikidata": "Q82925"
+    },
+    "originalLanguage": "en-gb",
+    "originalPublicationYear": 1902,
+    "originalTitle": "Taifun",
+    "workId": "conrad-taifun"
+  }
+}

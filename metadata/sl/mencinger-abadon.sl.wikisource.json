@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:12.148429Z",
+    "chapterCount": 13,
+    "contentSha256": "ae1a71aee1444c4928d6fc2888f0bb1845dc89fa4f6b53494bc3a37a80ba71a5",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/mencinger-abadon.sl.wikisource/v1/book.json.gz",
+    "sha256": "5b40d76f21d022e71df208066a0460da10549cf66d2c6670ca6bf7d97ccab6a2",
+    "sizeBytes": 237584,
+    "uncompressedSizeBytes": 592910,
+    "wordCount": 94407
+  },
+  "edition": {
+    "editionId": "mencinger-abadon.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Abadon"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1912: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1893: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q4663232",
+      "https://www.wikidata.org/wiki/Q14915276",
+      "https://sl.wikisource.org/wiki/Abadon"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Janez Mencinger died in 1912 and the work was first published in 1893. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Abadon",
+    "pages": [
+      {
+        "revision": 207148,
+        "title": "Abadon"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:56:23.978051Z",
+    "revision": "207148",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Abadon"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1838,
+      "deathYear": 1912,
+      "name": "Janez Mencinger",
+      "wikidata": "Q14915276"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1893,
+    "originalTitle": "Abadon",
+    "workId": "mencinger-abadon"
+  }
+}

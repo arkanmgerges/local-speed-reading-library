@@ -1,13 +1,13 @@
 {
   "asset": {
-    "assetVersion": 1,
-    "builtAt": "2026-09-20T19:12:09.580494Z",
+    "assetVersion": 2,
+    "builtAt": "2026-09-21T06:24:16.778546Z",
     "chapterCount": 24,
-    "contentSha256": "1789bad0883236edafc660d4c01f2218c09753d73d251d12f4cb7bdcf811a780",
-    "normalizerVersion": "0.1.0",
-    "path": "books/en/strachey-eminent-victorians.en.gutenberg/v1/book.json.gz",
-    "sha256": "18763f019b01e9e53f026f99f190d6b9e491b626a63f1f1ecb6bc1f7b73eee53",
-    "sizeBytes": 217568,
+    "contentSha256": "2ac350282adb5c2d90296d3ab2b77b595d4e2a29320dc5c9fc8ec9644ba059bc",
+    "normalizerVersion": "0.2.0",
+    "path": "books/en/strachey-eminent-victorians.en.gutenberg/v2/book.json.gz",
+    "sha256": "98c4e504ff1e59a1dae2a4d34524102e8c61dde4442932d05f841be157f923bf",
+    "sizeBytes": 217567,
     "uncompressedSizeBytes": 585163,
     "wordCount": 98445
   },
@@ -22,7 +22,7 @@
     "History"
   ],
   "publish": {
-    "assetVersion": 1
+    "assetVersion": 2
   },
   "rights": {
     "basis": [

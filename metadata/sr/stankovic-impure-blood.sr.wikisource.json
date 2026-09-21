@@ -1,0 +1,205 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:06:36.985599Z",
+    "chapterCount": 33,
+    "contentSha256": "ef7fcd8f914831cc0bcfae43ece163d39458261a01997a5bdeadad8239cc90cc",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sr/stankovic-impure-blood.sr.wikisource/v1/book.json.gz",
+    "sha256": "75a3e51c209d274efb0a24643357e4845b011708b844582a035dce04d60a48ea",
+    "sizeBytes": 176340,
+    "uncompressedSizeBytes": 662401,
+    "wordCount": 68388
+  },
+  "edition": {
+    "editionId": "stankovic-impure-blood.sr.wikisource",
+    "kind": "original",
+    "language": "sr",
+    "title": "Нечиста крв"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1927: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1910: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q6008043",
+      "https://www.wikidata.org/wiki/Q370392",
+      "https://sr.wikisource.org/wiki/%D0%9D%D0%B5%D1%87%D0%B8%D1%81%D1%82%D0%B0_%D0%BA%D1%80%D0%B2"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Борисав Станковић died in 1927 and the work was first published in 1910. Source: sr.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Нечиста крв",
+    "pages": [
+      {
+        "revision": 58357,
+        "title": "Нечиста крв"
+      },
+      {
+        "revision": 48042,
+        "title": "Нечиста крв/Глава прва"
+      },
+      {
+        "revision": 48043,
+        "title": "Нечиста крв/Глава друга"
+      },
+      {
+        "revision": 48044,
+        "title": "Нечиста крв/Глава трећа"
+      },
+      {
+        "revision": 48045,
+        "title": "Нечиста крв/Глава четврта"
+      },
+      {
+        "revision": 48046,
+        "title": "Нечиста крв/Глава пета"
+      },
+      {
+        "revision": 48047,
+        "title": "Нечиста крв/Глава шеста"
+      },
+      {
+        "revision": 48048,
+        "title": "Нечиста крв/Глава седма"
+      },
+      {
+        "revision": 48080,
+        "title": "Нечиста крв/Глава осма"
+      },
+      {
+        "revision": 48081,
+        "title": "Нечиста крв/Глава девета"
+      },
+      {
+        "revision": 48082,
+        "title": "Нечиста крв/Глава десета"
+      },
+      {
+        "revision": 48083,
+        "title": "Нечиста крв/Глава једанаеста"
+      },
+      {
+        "revision": 48084,
+        "title": "Нечиста крв/Глава дванаеста"
+      },
+      {
+        "revision": 48085,
+        "title": "Нечиста крв/Глава тринаеста"
+      },
+      {
+        "revision": 48086,
+        "title": "Нечиста крв/Глава четрнаеста"
+      },
+      {
+        "revision": 48087,
+        "title": "Нечиста крв/Глава петнаеста"
+      },
+      {
+        "revision": 48089,
+        "title": "Нечиста крв/Глава шеснаеста"
+      },
+      {
+        "revision": 48090,
+        "title": "Нечиста крв/Глава седамнаеста"
+      },
+      {
+        "revision": 48091,
+        "title": "Нечиста крв/Глава осамнаеста"
+      },
+      {
+        "revision": 48092,
+        "title": "Нечиста крв/Глава деветнаеста"
+      },
+      {
+        "revision": 48093,
+        "title": "Нечиста крв/Глава двадесета"
+      },
+      {
+        "revision": 48094,
+        "title": "Нечиста крв/Глава двадесетпрва"
+      },
+      {
+        "revision": 48095,
+        "title": "Нечиста крв/Глава двадесетдруга"
+      },
+      {
+        "revision": 48096,
+        "title": "Нечиста крв/Глава двадесеттрећа"
+      },
+      {
+        "revision": 48097,
+        "title": "Нечиста крв/Глава двадесетчетврта"
+      },
+      {
+        "revision": 48098,
+        "title": "Нечиста крв/Глава двадесетпета"
+      },
+      {
+        "revision": 48099,
+        "title": "Нечиста крв/Глава двадесетшеста"
+      },
+      {
+        "revision": 48100,
+        "title": "Нечиста крв/Глава двадесетседма"
+      },
+      {
+        "revision": 48101,
+        "title": "Нечиста крв/Глава двадесетосма"
+      },
+      {
+        "revision": 48102,
+        "title": "Нечиста крв/Глава двадесетдевета"
+      },
+      {
+        "revision": 48103,
+        "title": "Нечиста крв/Глава тридесета"
+      },
+      {
+        "revision": 48104,
+        "title": "Нечиста крв/Глава тридесетпрва"
+      },
+      {
+        "revision": 48040,
+        "title": "Нечиста крв/Глава тридесетдруга"
+      },
+      {
+        "revision": 48038,
+        "title": "Нечиста крв/Глава тридесеттрећа"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:57:46.578964Z",
+    "revision": "58357",
+    "site": "sr.wikisource.org",
+    "url": "https://sr.wikisource.org/wiki/%D0%9D%D0%B5%D1%87%D0%B8%D1%81%D1%82%D0%B0_%D0%BA%D1%80%D0%B2"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1875,
+      "deathYear": 1927,
+      "name": "Борисав Станковић",
+      "wikidata": "Q370392"
+    },
+    "originalLanguage": "sr",
+    "originalPublicationYear": 1910,
+    "originalTitle": "Нечиста крв",
+    "workId": "stankovic-impure-blood"
+  }
+}

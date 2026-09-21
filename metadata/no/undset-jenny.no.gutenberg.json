@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:06.443264Z",
+    "chapterCount": 35,
+    "contentSha256": "92f5b3eb4e0b5dbf93c46ce20836d2a236075127c6ceb7032b1590c5d8d4cde1",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/undset-jenny.no.gutenberg/v1/book.json.gz",
+    "sha256": "2591c2eabb76648ed84bd1e93483d6b006c34e8ee50e17b5646290d0de23be5c",
+    "sizeBytes": 209318,
+    "uncompressedSizeBytes": 590232,
+    "wordCount": 102231
+  },
+  "edition": {
+    "editionId": "undset-jenny.no.gutenberg",
+    "kind": "original",
+    "language": "no",
+    "title": "Jenny: Roman"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1949: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1911: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/32245",
+      "https://en.wikipedia.org/wiki/Sigrid_Undset",
+      "https://www.wikidata.org/wiki/Q11978379"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Sigrid Undset died in 1949 and the work was first published in 1911. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "32245",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:19:42.227441Z",
+    "revision": "Sun, 13 Sep 2026 13:59:24 GMT",
+    "url": "https://www.gutenberg.org/ebooks/32245"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1882,
+      "deathYear": 1949,
+      "name": "Sigrid Undset",
+      "wikidata": "Q80889"
+    },
+    "originalLanguage": "no",
+    "originalPublicationYear": 1911,
+    "originalTitle": "Jenny: Roman",
+    "workId": "undset-jenny"
+  }
+}

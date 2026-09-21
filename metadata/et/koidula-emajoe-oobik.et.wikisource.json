@@ -1,0 +1,253 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:55:47.385070Z",
+    "chapterCount": 51,
+    "contentSha256": "8c4c55b8d3a4e3c44632d074fe1404b96e37322d0e0eb2b3d59b8eb28a06a2b7",
+    "normalizerVersion": "0.2.0",
+    "path": "books/et/koidula-emajoe-oobik.et.wikisource/v1/book.json.gz",
+    "sha256": "9d30327f10cd7d3f63ce25598c3be9c68b39e6bfc33283480005e70b8d08f191",
+    "sizeBytes": 16287,
+    "uncompressedSizeBytes": 72708,
+    "wordCount": 17976
+  },
+  "edition": {
+    "editionId": "koidula-emajoe-oobik.et.wikisource",
+    "kind": "original",
+    "language": "et",
+    "title": "Emajõe ööbik"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1886: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1867: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q29042777",
+      "https://www.wikidata.org/wiki/Q237056",
+      "https://et.wikisource.org/wiki/Emmaj%C3%B6e_%C3%96pik"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Lydia Koidula died in 1886 and the work was first published in 1867. Source: et.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Emmajöe Öpik",
+    "pages": [
+      {
+        "revision": 37027,
+        "title": "Emmajöe Öpik"
+      },
+      {
+        "revision": 37034,
+        "title": "Emmajöe Öpik/Teretamine"
+      },
+      {
+        "revision": 41743,
+        "title": "Emmajöe Öpik/Emmajöe kaldal"
+      },
+      {
+        "revision": 37037,
+        "title": "Emmajöe Öpik/Neiu kanga juures"
+      },
+      {
+        "revision": 41744,
+        "title": "Emmajöe Öpik/Looda!"
+      },
+      {
+        "revision": 37040,
+        "title": "Emmajöe Öpik/Pühapääwa kellad"
+      },
+      {
+        "revision": 41745,
+        "title": "Emmajöe Öpik/So oma südant"
+      },
+      {
+        "revision": 41746,
+        "title": "Emmajöe Öpik/Oh räägi!"
+      },
+      {
+        "revision": 37074,
+        "title": "Emmajöe Öpik/Sind surmani!"
+      },
+      {
+        "revision": 41747,
+        "title": "Emmajöe Öpik/Seltsimees"
+      },
+      {
+        "revision": 41748,
+        "title": "Emmajöe Öpik/Ma ollen mo armokest näinud"
+      },
+      {
+        "revision": 37047,
+        "title": "Emmajöe Öpik/Weel hiilgwad körges"
+      },
+      {
+        "revision": 41749,
+        "title": "Emmajöe Öpik/Jätta järrele!"
+      },
+      {
+        "revision": 37683,
+        "title": "Emmajöe Öpik/Mis kaebad sa?"
+      },
+      {
+        "revision": 41750,
+        "title": "Emmajöe Öpik/Ja öues on kewwade"
+      },
+      {
+        "revision": 37052,
+        "title": "Emmajöe Öpik/Keik muutnud"
+      },
+      {
+        "revision": 37055,
+        "title": "Emmajöe Öpik/Lenda!"
+      },
+      {
+        "revision": 37058,
+        "title": "Emmajöe Öpik/Öhtul"
+      },
+      {
+        "revision": 41751,
+        "title": "Emmajöe Öpik/Head ööd"
+      },
+      {
+        "revision": 41752,
+        "title": "Emmajöe Öpik/Üht eestilaulo"
+      },
+      {
+        "revision": 41753,
+        "title": "Emmajöe Öpik/Uus rahho"
+      },
+      {
+        "revision": 37061,
+        "title": "Emmajöe Öpik/Näed körged pilwed"
+      },
+      {
+        "revision": 37031,
+        "title": "Emmajöe Öpik/Mo issama on minno arm!"
+      },
+      {
+        "revision": 41764,
+        "title": "Emmajöe Öpik/Nad on mo armokest pannud"
+      },
+      {
+        "revision": 37064,
+        "title": "Emmajöe Öpik/Öhtorahho"
+      },
+      {
+        "revision": 41765,
+        "title": "Emmajöe Öpik/Mo issama, nad ollid matnud"
+      },
+      {
+        "revision": 41766,
+        "title": "Emmajöe Öpik/Kaddund"
+      },
+      {
+        "revision": 41767,
+        "title": "Emmajöe Öpik/Rahhuto"
+      },
+      {
+        "revision": 41768,
+        "title": "Emmajöe Öpik/Kui päwa kärra aega"
+      },
+      {
+        "revision": 37067,
+        "title": "Emmajöe Öpik/Ei ma jöua"
+      },
+      {
+        "revision": 37070,
+        "title": "Emmajöe Öpik/Emmasüdda"
+      },
+      {
+        "revision": 41769,
+        "title": "Emmajöe Öpik/Oh armasta!"
+      },
+      {
+        "revision": 37073,
+        "title": "Emmajöe Öpik/Issama, usk, rahwas!"
+      },
+      {
+        "revision": 41770,
+        "title": "Emmajöe Öpik/Pallu andeks"
+      },
+      {
+        "revision": 37081,
+        "title": "Emmajöe Öpik/Kassepu"
+      },
+      {
+        "revision": 41945,
+        "title": "Emmajöe Öpik/Kui öis mis õitseb heinamaal"
+      },
+      {
+        "revision": 41946,
+        "title": "Emmajöe Öpik/Isse tahtsid"
+      },
+      {
+        "revision": 37084,
+        "title": "Emmajöe Öpik/Hallasta ja kannata"
+      },
+      {
+        "revision": 41947,
+        "title": "Emmajöe Öpik/Kindel pohhi"
+      },
+      {
+        "revision": 41956,
+        "title": "Emmajöe Öpik/Pitkalt kigub padikene"
+      },
+      {
+        "revision": 37087,
+        "title": "Emmajöe Öpik/Te lahti"
+      },
+      {
+        "revision": 41957,
+        "title": "Emmajöe Öpik/So priust ollid matnud"
+      },
+      {
+        "revision": 37090,
+        "title": "Emmajöe Öpik/Kewwade tullik"
+      },
+      {
+        "revision": 41958,
+        "title": "Emmajöe Öpik/Kül tahhaks nad!"
+      },
+      {
+        "revision": 37093,
+        "title": "Emmajöe Öpik/Mailmale ärra ütle!"
+      },
+      {
+        "revision": 41959,
+        "title": "Emmajöe Öpik/Mötted Tom-mäel"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:51:29.183394Z",
+    "revision": "37027",
+    "site": "et.wikisource.org",
+    "url": "https://et.wikisource.org/wiki/Emmaj%C3%B6e_%C3%96pik"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1843,
+      "deathYear": 1886,
+      "name": "Lydia Koidula",
+      "wikidata": "Q237056"
+    },
+    "originalLanguage": "et",
+    "originalPublicationYear": 1867,
+    "originalTitle": "Emajõe ööbik",
+    "workId": "koidula-emajoe-oobik"
+  }
+}

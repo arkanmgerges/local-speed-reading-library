@@ -1,0 +1,657 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:04:10.436029Z",
+    "chapterCount": 146,
+    "contentSha256": "416e3b71545e9058c2eb5098a2f0404bbdacf660e10e1c00fff87275186f5403",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt-br/assis-dom-casmurro.pt-br.wikisource/v1/book.json.gz",
+    "sha256": "3589887efcf83b323c67ab552d7b89527c7d0191b15f311becb263b73b615bec",
+    "sizeBytes": 148818,
+    "uncompressedSizeBytes": 416358,
+    "wordCount": 64852
+  },
+  "edition": {
+    "editionId": "assis-dom-casmurro.pt-br.wikisource",
+    "kind": "original",
+    "language": "pt-BR",
+    "title": "Dom Casmurro"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1908: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1899: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1236531",
+      "https://www.wikidata.org/wiki/Q311145",
+      "https://pt.wikisource.org/wiki/Dom_Casmurro"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1899. Source: pt.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Dom Casmurro",
+    "pages": [
+      {
+        "revision": 542852,
+        "title": "Dom Casmurro"
+      },
+      {
+        "revision": 542432,
+        "title": "Dom Casmurro/I"
+      },
+      {
+        "revision": 542433,
+        "title": "Dom Casmurro/II"
+      },
+      {
+        "revision": 542434,
+        "title": "Dom Casmurro/III"
+      },
+      {
+        "revision": 542437,
+        "title": "Dom Casmurro/IV"
+      },
+      {
+        "revision": 542438,
+        "title": "Dom Casmurro/V"
+      },
+      {
+        "revision": 542457,
+        "title": "Dom Casmurro/VI"
+      },
+      {
+        "revision": 542461,
+        "title": "Dom Casmurro/VII"
+      },
+      {
+        "revision": 542466,
+        "title": "Dom Casmurro/VIII"
+      },
+      {
+        "revision": 542477,
+        "title": "Dom Casmurro/IX"
+      },
+      {
+        "revision": 542479,
+        "title": "Dom Casmurro/X"
+      },
+      {
+        "revision": 542832,
+        "title": "Dom Casmurro/XI"
+      },
+      {
+        "revision": 542844,
+        "title": "Dom Casmurro/XII"
+      },
+      {
+        "revision": 542866,
+        "title": "Dom Casmurro/XIII"
+      },
+      {
+        "revision": 542867,
+        "title": "Dom Casmurro/XIV"
+      },
+      {
+        "revision": 552221,
+        "title": "Dom Casmurro/XV"
+      },
+      {
+        "revision": 552226,
+        "title": "Dom Casmurro/XVI"
+      },
+      {
+        "revision": 544823,
+        "title": "Dom Casmurro/XVII"
+      },
+      {
+        "revision": 544556,
+        "title": "Dom Casmurro/XVIII"
+      },
+      {
+        "revision": 552233,
+        "title": "Dom Casmurro/XIX"
+      },
+      {
+        "revision": 552237,
+        "title": "Dom Casmurro/XX"
+      },
+      {
+        "revision": 552293,
+        "title": "Dom Casmurro/XXI"
+      },
+      {
+        "revision": 552296,
+        "title": "Dom Casmurro/XXII"
+      },
+      {
+        "revision": 552300,
+        "title": "Dom Casmurro/XXIII"
+      },
+      {
+        "revision": 552303,
+        "title": "Dom Casmurro/XXIV"
+      },
+      {
+        "revision": 553094,
+        "title": "Dom Casmurro/XXV"
+      },
+      {
+        "revision": 555886,
+        "title": "Dom Casmurro/XXVI"
+      },
+      {
+        "revision": 555889,
+        "title": "Dom Casmurro/XXVII"
+      },
+      {
+        "revision": 555891,
+        "title": "Dom Casmurro/XXVIII"
+      },
+      {
+        "revision": 555895,
+        "title": "Dom Casmurro/XXIX"
+      },
+      {
+        "revision": 557239,
+        "title": "Dom Casmurro/XXX"
+      },
+      {
+        "revision": 560679,
+        "title": "Dom Casmurro/XXXI"
+      },
+      {
+        "revision": 560688,
+        "title": "Dom Casmurro/XXXII"
+      },
+      {
+        "revision": 560697,
+        "title": "Dom Casmurro/XXXIII"
+      },
+      {
+        "revision": 561331,
+        "title": "Dom Casmurro/XXXIV"
+      },
+      {
+        "revision": 211151,
+        "title": "Dom Casmurro/XXXV"
+      },
+      {
+        "revision": 560709,
+        "title": "Dom Casmurro/XXXVI"
+      },
+      {
+        "revision": 211154,
+        "title": "Dom Casmurro/XXXVII"
+      },
+      {
+        "revision": 211155,
+        "title": "Dom Casmurro/XXXVIII"
+      },
+      {
+        "revision": 211173,
+        "title": "Dom Casmurro/XXXIX"
+      },
+      {
+        "revision": 211174,
+        "title": "Dom Casmurro/XL"
+      },
+      {
+        "revision": 211180,
+        "title": "Dom Casmurro/XLI"
+      },
+      {
+        "revision": 211181,
+        "title": "Dom Casmurro/XLII"
+      },
+      {
+        "revision": 211200,
+        "title": "Dom Casmurro/XLIII"
+      },
+      {
+        "revision": 211205,
+        "title": "Dom Casmurro/XLIV"
+      },
+      {
+        "revision": 211206,
+        "title": "Dom Casmurro/XLV"
+      },
+      {
+        "revision": 211207,
+        "title": "Dom Casmurro/XLVI"
+      },
+      {
+        "revision": 211209,
+        "title": "Dom Casmurro/XLVII"
+      },
+      {
+        "revision": 211211,
+        "title": "Dom Casmurro/XLVIII"
+      },
+      {
+        "revision": 211215,
+        "title": "Dom Casmurro/XLIX"
+      },
+      {
+        "revision": 213708,
+        "title": "Dom Casmurro/L"
+      },
+      {
+        "revision": 213709,
+        "title": "Dom Casmurro/LI"
+      },
+      {
+        "revision": 213711,
+        "title": "Dom Casmurro/LII"
+      },
+      {
+        "revision": 213714,
+        "title": "Dom Casmurro/LIII"
+      },
+      {
+        "revision": 213832,
+        "title": "Dom Casmurro/LIV"
+      },
+      {
+        "revision": 225834,
+        "title": "Dom Casmurro/LV"
+      },
+      {
+        "revision": 213843,
+        "title": "Dom Casmurro/LVI"
+      },
+      {
+        "revision": 213844,
+        "title": "Dom Casmurro/LVII"
+      },
+      {
+        "revision": 213876,
+        "title": "Dom Casmurro/LVIII"
+      },
+      {
+        "revision": 213877,
+        "title": "Dom Casmurro/LIX"
+      },
+      {
+        "revision": 215584,
+        "title": "Dom Casmurro/LX"
+      },
+      {
+        "revision": 215597,
+        "title": "Dom Casmurro/LXI"
+      },
+      {
+        "revision": 215617,
+        "title": "Dom Casmurro/LXII"
+      },
+      {
+        "revision": 215620,
+        "title": "Dom Casmurro/LXIII"
+      },
+      {
+        "revision": 216718,
+        "title": "Dom Casmurro/LXIV"
+      },
+      {
+        "revision": 216719,
+        "title": "Dom Casmurro/LXV"
+      },
+      {
+        "revision": 216720,
+        "title": "Dom Casmurro/LXVI"
+      },
+      {
+        "revision": 216750,
+        "title": "Dom Casmurro/LXVII"
+      },
+      {
+        "revision": 216751,
+        "title": "Dom Casmurro/LXVIII"
+      },
+      {
+        "revision": 216752,
+        "title": "Dom Casmurro/LXIX"
+      },
+      {
+        "revision": 216753,
+        "title": "Dom Casmurro/LXX"
+      },
+      {
+        "revision": 217181,
+        "title": "Dom Casmurro/LXXI"
+      },
+      {
+        "revision": 225836,
+        "title": "Dom Casmurro/LXXII"
+      },
+      {
+        "revision": 217183,
+        "title": "Dom Casmurro/LXXIII"
+      },
+      {
+        "revision": 217184,
+        "title": "Dom Casmurro/LXXIV"
+      },
+      {
+        "revision": 217185,
+        "title": "Dom Casmurro/LXXV"
+      },
+      {
+        "revision": 217464,
+        "title": "Dom Casmurro/LXXVI"
+      },
+      {
+        "revision": 217465,
+        "title": "Dom Casmurro/LXXVII"
+      },
+      {
+        "revision": 217466,
+        "title": "Dom Casmurro/LXXVIII"
+      },
+      {
+        "revision": 217467,
+        "title": "Dom Casmurro/LXXIX"
+      },
+      {
+        "revision": 217512,
+        "title": "Dom Casmurro/LXXX"
+      },
+      {
+        "revision": 560719,
+        "title": "Dom Casmurro/LXXXI"
+      },
+      {
+        "revision": 217554,
+        "title": "Dom Casmurro/LXXXII"
+      },
+      {
+        "revision": 217555,
+        "title": "Dom Casmurro/LXXXIII"
+      },
+      {
+        "revision": 217556,
+        "title": "Dom Casmurro/LXXXIV"
+      },
+      {
+        "revision": 560722,
+        "title": "Dom Casmurro/LXXXV"
+      },
+      {
+        "revision": 217558,
+        "title": "Dom Casmurro/LXXXVI"
+      },
+      {
+        "revision": 217559,
+        "title": "Dom Casmurro/LXXXVII"
+      },
+      {
+        "revision": 217560,
+        "title": "Dom Casmurro/LXXXVIII"
+      },
+      {
+        "revision": 560734,
+        "title": "Dom Casmurro/LXXXIX"
+      },
+      {
+        "revision": 225837,
+        "title": "Dom Casmurro/XC"
+      },
+      {
+        "revision": 218221,
+        "title": "Dom Casmurro/XCI"
+      },
+      {
+        "revision": 218222,
+        "title": "Dom Casmurro/XCII"
+      },
+      {
+        "revision": 218244,
+        "title": "Dom Casmurro/XCIII"
+      },
+      {
+        "revision": 459844,
+        "title": "Dom Casmurro/XCIV"
+      },
+      {
+        "revision": 219479,
+        "title": "Dom Casmurro/XCV"
+      },
+      {
+        "revision": 219897,
+        "title": "Dom Casmurro/XCVI"
+      },
+      {
+        "revision": 219898,
+        "title": "Dom Casmurro/XCVII"
+      },
+      {
+        "revision": 219899,
+        "title": "Dom Casmurro/XCVIII"
+      },
+      {
+        "revision": 219900,
+        "title": "Dom Casmurro/XCIX"
+      },
+      {
+        "revision": 219950,
+        "title": "Dom Casmurro/C"
+      },
+      {
+        "revision": 219951,
+        "title": "Dom Casmurro/CI"
+      },
+      {
+        "revision": 219952,
+        "title": "Dom Casmurro/CII"
+      },
+      {
+        "revision": 219953,
+        "title": "Dom Casmurro/CIII"
+      },
+      {
+        "revision": 220506,
+        "title": "Dom Casmurro/CIV"
+      },
+      {
+        "revision": 220516,
+        "title": "Dom Casmurro/CV"
+      },
+      {
+        "revision": 560724,
+        "title": "Dom Casmurro/CVI"
+      },
+      {
+        "revision": 220553,
+        "title": "Dom Casmurro/CVII"
+      },
+      {
+        "revision": 459906,
+        "title": "Dom Casmurro/CVIII"
+      },
+      {
+        "revision": 220726,
+        "title": "Dom Casmurro/CIX"
+      },
+      {
+        "revision": 220727,
+        "title": "Dom Casmurro/CX"
+      },
+      {
+        "revision": 459848,
+        "title": "Dom Casmurro/CXI"
+      },
+      {
+        "revision": 220742,
+        "title": "Dom Casmurro/CXII"
+      },
+      {
+        "revision": 220743,
+        "title": "Dom Casmurro/CXIII"
+      },
+      {
+        "revision": 220766,
+        "title": "Dom Casmurro/CXIV"
+      },
+      {
+        "revision": 220801,
+        "title": "Dom Casmurro/CXV"
+      },
+      {
+        "revision": 220813,
+        "title": "Dom Casmurro/CXVI"
+      },
+      {
+        "revision": 220814,
+        "title": "Dom Casmurro/CXVII"
+      },
+      {
+        "revision": 220856,
+        "title": "Dom Casmurro/CXVIII"
+      },
+      {
+        "revision": 220857,
+        "title": "Dom Casmurro/CXIX"
+      },
+      {
+        "revision": 459924,
+        "title": "Dom Casmurro/CXX"
+      },
+      {
+        "revision": 220884,
+        "title": "Dom Casmurro/CXXI"
+      },
+      {
+        "revision": 220886,
+        "title": "Dom Casmurro/CXXIII"
+      },
+      {
+        "revision": 220887,
+        "title": "Dom Casmurro/CXXIV"
+      },
+      {
+        "revision": 220889,
+        "title": "Dom Casmurro/CXXV"
+      },
+      {
+        "revision": 221454,
+        "title": "Dom Casmurro/CXXVI"
+      },
+      {
+        "revision": 221455,
+        "title": "Dom Casmurro/CXXVII"
+      },
+      {
+        "revision": 221456,
+        "title": "Dom Casmurro/CXXVIII"
+      },
+      {
+        "revision": 225838,
+        "title": "Dom Casmurro/CXXIX"
+      },
+      {
+        "revision": 221493,
+        "title": "Dom Casmurro/CXXX"
+      },
+      {
+        "revision": 533924,
+        "title": "Dom Casmurro/CXXXI"
+      },
+      {
+        "revision": 221500,
+        "title": "Dom Casmurro/CXXXII"
+      },
+      {
+        "revision": 221501,
+        "title": "Dom Casmurro/CXXXIII"
+      },
+      {
+        "revision": 221502,
+        "title": "Dom Casmurro/CXXXIV"
+      },
+      {
+        "revision": 459926,
+        "title": "Dom Casmurro/CXXXV"
+      },
+      {
+        "revision": 221504,
+        "title": "Dom Casmurro/CXXXVI"
+      },
+      {
+        "revision": 114243,
+        "title": "Dom Casmurro/CXXXVII"
+      },
+      {
+        "revision": 221505,
+        "title": "Dom Casmurro/CXXXVIII"
+      },
+      {
+        "revision": 221506,
+        "title": "Dom Casmurro/CXXXIX"
+      },
+      {
+        "revision": 221540,
+        "title": "Dom Casmurro/CXL"
+      },
+      {
+        "revision": 221541,
+        "title": "Dom Casmurro/CXLI"
+      },
+      {
+        "revision": 221542,
+        "title": "Dom Casmurro/CXLII"
+      },
+      {
+        "revision": 221543,
+        "title": "Dom Casmurro/CXLIII"
+      },
+      {
+        "revision": 221544,
+        "title": "Dom Casmurro/CXLIV"
+      },
+      {
+        "revision": 221546,
+        "title": "Dom Casmurro/CXLV"
+      },
+      {
+        "revision": 221547,
+        "title": "Dom Casmurro/CXLVI"
+      },
+      {
+        "revision": 560712,
+        "title": "Dom Casmurro/CXLVII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:37:23.597058Z",
+    "revision": "542852",
+    "site": "pt.wikisource.org",
+    "url": "https://pt.wikisource.org/wiki/Dom_Casmurro"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1839,
+      "deathYear": 1908,
+      "name": "Machado de Assis",
+      "wikidata": "Q311145"
+    },
+    "originalLanguage": "pt-BR",
+    "originalPublicationYear": 1899,
+    "originalTitle": "Dom Casmurro",
+    "workId": "assis-dom-casmurro"
+  }
+}

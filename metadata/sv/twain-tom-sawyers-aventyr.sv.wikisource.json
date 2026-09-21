@@ -1,0 +1,231 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:07:37.258661Z",
+    "chapterCount": 37,
+    "contentSha256": "ed1f28391e32f3ad524b532a0a484d315d2e6f4f3e3a71cd4984cfd50bdb3768",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/twain-tom-sawyers-aventyr.sv.wikisource/v1/book.json.gz",
+    "sha256": "1307c899e1acdef8cc3903b529d3fa8dca31944d7068c767ca3d59379902b4b5",
+    "sizeBytes": 164388,
+    "uncompressedSizeBytes": 463085,
+    "wordCount": 74080
+  },
+  "edition": {
+    "editionId": "twain-tom-sawyers-aventyr.sv.wikisource",
+    "kind": "translation",
+    "language": "sv",
+    "title": "Tom Sawyers äventyr",
+    "translationPublicationYear": 1913,
+    "translator": {
+      "birthYear": 1849,
+      "deathYear": 1931,
+      "name": "Petrus Hedberg",
+      "wikidata": "Q53583323"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1910: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1931: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1913: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q326914",
+      "https://www.wikidata.org/wiki/Q122803259",
+      "https://www.wikidata.org/wiki/Q7245",
+      "https://www.wikidata.org/wiki/Q53583323",
+      "https://sv.wikisource.org/wiki/Tom_Sawyers_%C3%A4ventyr"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Mark Twain died in 1910; the translator Petrus Hedberg died in 1931 and this translation was first published in 1913. Source: sv.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Tom Sawyers äventyr",
+    "pages": [
+      {
+        "revision": 407580,
+        "title": "Tom Sawyers äventyr"
+      },
+      {
+        "revision": 335478,
+        "title": "Tom Sawyers äventyr/Kapitel 01"
+      },
+      {
+        "revision": 369093,
+        "title": "Tom Sawyers äventyr/Kapitel 02"
+      },
+      {
+        "revision": 369165,
+        "title": "Tom Sawyers äventyr/Kapitel 03"
+      },
+      {
+        "revision": 375777,
+        "title": "Tom Sawyers äventyr/Kapitel 04"
+      },
+      {
+        "revision": 382916,
+        "title": "Tom Sawyers äventyr/Kapitel 05"
+      },
+      {
+        "revision": 388147,
+        "title": "Tom Sawyers äventyr/Kapitel 06"
+      },
+      {
+        "revision": 388145,
+        "title": "Tom Sawyers äventyr/Kapitel 07"
+      },
+      {
+        "revision": 388205,
+        "title": "Tom Sawyers äventyr/Kapitel 08"
+      },
+      {
+        "revision": 388236,
+        "title": "Tom Sawyers äventyr/Kapitel 09"
+      },
+      {
+        "revision": 388296,
+        "title": "Tom Sawyers äventyr/Kapitel 10"
+      },
+      {
+        "revision": 388368,
+        "title": "Tom Sawyers äventyr/Kapitel 11"
+      },
+      {
+        "revision": 388678,
+        "title": "Tom Sawyers äventyr/Kapitel 12"
+      },
+      {
+        "revision": 388691,
+        "title": "Tom Sawyers äventyr/Kapitel 13"
+      },
+      {
+        "revision": 388736,
+        "title": "Tom Sawyers äventyr/Kapitel 14"
+      },
+      {
+        "revision": 388744,
+        "title": "Tom Sawyers äventyr/Kapitel 15"
+      },
+      {
+        "revision": 388773,
+        "title": "Tom Sawyers äventyr/Kapitel 16"
+      },
+      {
+        "revision": 388822,
+        "title": "Tom Sawyers äventyr/Kapitel 17"
+      },
+      {
+        "revision": 388830,
+        "title": "Tom Sawyers äventyr/Kapitel 18"
+      },
+      {
+        "revision": 388853,
+        "title": "Tom Sawyers äventyr/Kapitel 19"
+      },
+      {
+        "revision": 388884,
+        "title": "Tom Sawyers äventyr/Kapitel 20"
+      },
+      {
+        "revision": 388918,
+        "title": "Tom Sawyers äventyr/Kapitel 21"
+      },
+      {
+        "revision": 388981,
+        "title": "Tom Sawyers äventyr/Kapitel 22"
+      },
+      {
+        "revision": 389054,
+        "title": "Tom Sawyers äventyr/Kapitel 23"
+      },
+      {
+        "revision": 389065,
+        "title": "Tom Sawyers äventyr/Kapitel 24"
+      },
+      {
+        "revision": 389527,
+        "title": "Tom Sawyers äventyr/Kapitel 25"
+      },
+      {
+        "revision": 389539,
+        "title": "Tom Sawyers äventyr/Kapitel 26"
+      },
+      {
+        "revision": 389599,
+        "title": "Tom Sawyers äventyr/Kapitel 27"
+      },
+      {
+        "revision": 389741,
+        "title": "Tom Sawyers äventyr/Kapitel 28"
+      },
+      {
+        "revision": 389747,
+        "title": "Tom Sawyers äventyr/Kapitel 29"
+      },
+      {
+        "revision": 389823,
+        "title": "Tom Sawyers äventyr/Kapitel 30"
+      },
+      {
+        "revision": 389881,
+        "title": "Tom Sawyers äventyr/Kapitel 31"
+      },
+      {
+        "revision": 389974,
+        "title": "Tom Sawyers äventyr/Kapitel 32"
+      },
+      {
+        "revision": 390042,
+        "title": "Tom Sawyers äventyr/Kapitel 33"
+      },
+      {
+        "revision": 390091,
+        "title": "Tom Sawyers äventyr/Kapitel 34"
+      },
+      {
+        "revision": 390209,
+        "title": "Tom Sawyers äventyr/Kapitel 35"
+      },
+      {
+        "revision": 390227,
+        "title": "Tom Sawyers äventyr/Kapitel 36"
+      },
+      {
+        "revision": 389630,
+        "title": "Tom Sawyers äventyr/Förlagsreklam"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:09:38.525889Z",
+    "revision": "407580",
+    "site": "sv.wikisource.org",
+    "url": "https://sv.wikisource.org/wiki/Tom_Sawyers_%C3%A4ventyr"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1910,
+      "name": "Mark Twain",
+      "wikidata": "Q7245"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1876,
+    "originalTitle": "Tom Sawyers äventyr",
+    "workId": "twain-tom-sawyers-aventyr"
+  }
+}

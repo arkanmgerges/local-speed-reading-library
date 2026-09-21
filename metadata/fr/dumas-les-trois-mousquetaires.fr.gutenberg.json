@@ -1,0 +1,69 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:57:28.798810Z",
+    "chapterCount": 69,
+    "contentSha256": "a95a465ecf8047cfdec882343b6967168d8ec83e5f022c28c52081535604ffda",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/dumas-les-trois-mousquetaires.fr.gutenberg/v1/book.json.gz",
+    "sha256": "ecc3b9bbb6e8a262d47c2d88685106fe2f98a1e1252e3aec5251bb8bb2bb09ab",
+    "sizeBytes": 487534,
+    "uncompressedSizeBytes": 1488100,
+    "wordCount": 224328
+  },
+  "edition": {
+    "editionId": "dumas-les-trois-mousquetaires.fr.gutenberg",
+    "kind": "original",
+    "language": "fr",
+    "notes": "Co-authors: Alexandre Dumas, Auguste Maquet",
+    "title": "Les trois mousquetaires"
+  },
+  "genres": [
+    "Fiction",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1870: more than 70 years ago in every life-plus-70 jurisdiction (all 2 authors died 1870/1888)",
+      "first published 1844: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/13951",
+      "https://en.wikipedia.org/wiki/Alexandre_Dumas,_père",
+      "https://fr.wikipedia.org/wiki/Alexandre_Dumas",
+      "https://www.wikidata.org/wiki/Q140527"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Alexandre Dumas died in 1870 and the work was first published in 1844. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "13951",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:10:25.051254Z",
+    "revision": "Sun, 06 Sep 2026 11:18:00 GMT",
+    "url": "https://www.gutenberg.org/ebooks/13951"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1802,
+      "deathYear": 1870,
+      "name": "Alexandre Dumas",
+      "wikidata": "Q38337"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1844,
+    "originalTitle": "Les trois mousquetaires",
+    "workId": "dumas-les-trois-mousquetaires"
+  }
+}

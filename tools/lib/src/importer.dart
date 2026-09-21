@@ -21,6 +21,7 @@ class ImportedSource {
     this.title,
     this.author,
     this.language,
+    this.mainPageSectionCount = 0,
   });
 
   final List<RawSection> sections;
@@ -28,6 +29,11 @@ class ImportedSource {
   final String? title;
   final String? author;
   final String? language;
+
+  /// How many leading [sections] come from the main page of a multi-page
+  /// Wikisource work (a title page or table of contents, usually); zero for
+  /// single-page and EPUB sources.
+  final int mainPageSectionCount;
 }
 
 /// Fetches the pinned source of an edition and keeps a raw copy under
@@ -100,6 +106,7 @@ class SourceImporter {
     final WikisourceClient ws = WikisourceClient(_site(m), client: _client);
     final Directory dir = Directory(snapshotDir(m))..createSync(recursive: true);
     final List<RawSection> sections = <RawSection>[];
+    int mainPageSections = 0;
     for (int i = 0; i < pages.length; i++) {
       final ({String title, int revision}) page = pages[i];
       final File snap = File(p.join(dir.path, 'page-${i.toString().padLeft(3, '0')}-${page.revision}.html'));
@@ -118,9 +125,11 @@ class SourceImporter {
         headingLevels: m.chapterHeadingLevels,
         initialHeading: subtitle,
       ));
+      if (i == 0) mainPageSections = sections.length;
     }
     return ImportedSource(
       sections: sections,
+      mainPageSectionCount: pages.length > 1 ? mainPageSections : 0,
       provenance: Provenance(
         provider: 'wikisource',
         url: m.sourceUrl,

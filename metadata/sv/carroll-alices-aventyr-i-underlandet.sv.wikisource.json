@@ -1,0 +1,139 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:37.979321Z",
+    "chapterCount": 14,
+    "contentSha256": "a62e478237f146a48b45b22adf441386a6b61340196dd49603ebebfd923d42d0",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/carroll-alices-aventyr-i-underlandet.sv.wikisource/v1/book.json.gz",
+    "sha256": "559bae191fe5788420342637c7bedb7a4cf4edd5a20ab7dfb79e494de86bf0c6",
+    "sizeBytes": 56085,
+    "uncompressedSizeBytes": 168036,
+    "wordCount": 26149
+  },
+  "edition": {
+    "editionId": "carroll-alices-aventyr-i-underlandet.sv.wikisource",
+    "kind": "translation",
+    "language": "sv",
+    "title": "Alices äventyr i underlandet",
+    "translationPublicationYear": 1921,
+    "translator": {
+      "birthYear": 1874,
+      "deathYear": 1934,
+      "name": "Nino Runeberg",
+      "wikidata": "Q3809123"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1898: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1934: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1921: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q92640",
+      "https://www.wikidata.org/wiki/Q106497820",
+      "https://www.wikidata.org/wiki/Q38082",
+      "https://www.wikidata.org/wiki/Q3809123",
+      "https://sv.wikisource.org/wiki/Alices_%C3%A4ventyr_i_underlandet"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Lewis Carroll died in 1898; the translator Nino Runeberg died in 1934 and this translation was first published in 1921. Source: sv.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Alices äventyr i underlandet",
+    "pages": [
+      {
+        "revision": 498021,
+        "title": "Alices äventyr i underlandet"
+      },
+      {
+        "revision": 442243,
+        "title": "Alices äventyr i underlandet/Kapitel 01"
+      },
+      {
+        "revision": 442379,
+        "title": "Alices äventyr i underlandet/Kapitel 02"
+      },
+      {
+        "revision": 442735,
+        "title": "Alices äventyr i underlandet/Kapitel 03"
+      },
+      {
+        "revision": 443073,
+        "title": "Alices äventyr i underlandet/Kapitel 04"
+      },
+      {
+        "revision": 443075,
+        "title": "Alices äventyr i underlandet/Kapitel 05"
+      },
+      {
+        "revision": 443954,
+        "title": "Alices äventyr i underlandet/Kapitel 06"
+      },
+      {
+        "revision": 443955,
+        "title": "Alices äventyr i underlandet/Kapitel 07"
+      },
+      {
+        "revision": 444186,
+        "title": "Alices äventyr i underlandet/Kapitel 08"
+      },
+      {
+        "revision": 444411,
+        "title": "Alices äventyr i underlandet/Kapitel 09"
+      },
+      {
+        "revision": 444434,
+        "title": "Alices äventyr i underlandet/Kapitel 10"
+      },
+      {
+        "revision": 444453,
+        "title": "Alices äventyr i underlandet/Kapitel 11"
+      },
+      {
+        "revision": 444490,
+        "title": "Alices äventyr i underlandet/Kapitel 12"
+      },
+      {
+        "revision": 444359,
+        "title": "Alices äventyr i underlandet/Efterskrift"
+      },
+      {
+        "revision": 444416,
+        "title": "Alices äventyr i underlandet/Förlagsreklam"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:01:42.133987Z",
+    "revision": "498021",
+    "site": "sv.wikisource.org",
+    "url": "https://sv.wikisource.org/wiki/Alices_%C3%A4ventyr_i_underlandet"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1832,
+      "deathYear": 1898,
+      "name": "Lewis Carroll",
+      "wikidata": "Q38082"
+    },
+    "originalLanguage": "en-gb",
+    "originalPublicationYear": 1865,
+    "originalTitle": "Alices äventyr i underlandet",
+    "workId": "carroll-alices-aventyr-i-underlandet"
+  }
+}

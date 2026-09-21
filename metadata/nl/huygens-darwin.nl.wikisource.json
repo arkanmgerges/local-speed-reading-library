@@ -1,0 +1,77 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:31:22.009665Z",
+    "chapterCount": 2,
+    "contentSha256": "643eaf0cb26492a2da1a490f7f573efe6384197cae2a726a132ecb49a8252d51",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/huygens-darwin.nl.wikisource/v1/book.json.gz",
+    "sha256": "9bbaa33fb6483acf13853d1d10aadbbd0cd02a5298bdce3e8792da023745fdaa",
+    "sizeBytes": 16664,
+    "uncompressedSizeBytes": 44894,
+    "wordCount": 6259
+  },
+  "edition": {
+    "editionId": "huygens-darwin.nl.wikisource",
+    "kind": "original",
+    "language": "nl",
+    "title": "Darwin - Marx. Bernstein als bestrijder van eene natuur-philosophische leer"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1902: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1901: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q66979242",
+      "https://www.wikidata.org/wiki/Q4955185",
+      "https://nl.wikisource.org/wiki/Huygens_-_Darwin-Marx_(1901)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Cornélie Huygens died in 1902 and the work was first published in 1901. Source: nl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Huygens - Darwin-Marx (1901)",
+    "pages": [
+      {
+        "revision": 152400,
+        "title": "Huygens - Darwin-Marx (1901)"
+      },
+      {
+        "revision": 84395,
+        "title": "Huygens - Darwin-Marx (1901)/1"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:09:48.747375Z",
+    "revision": "152400",
+    "site": "nl.wikisource.org",
+    "url": "https://nl.wikisource.org/wiki/Huygens_-_Darwin-Marx_(1901)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1848,
+      "deathYear": 1902,
+      "name": "Cornélie Huygens",
+      "wikidata": "Q4955185"
+    },
+    "originalLanguage": "nl",
+    "originalPublicationYear": 1901,
+    "originalTitle": "Darwin - Marx. Bernstein als bestrijder van eene natuur-philosophische leer",
+    "workId": "huygens-darwin"
+  }
+}

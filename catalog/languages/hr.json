@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 26,
+        "contentSha256": "4badd3aae019c83d7f9af257ef83b740215d8ae62a244608f63aa7e20ad5042c",
+        "encoding": "gzip",
+        "path": "books/hr/senoa-zlatarevo-zlato.hr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "bdce0f8821db7f2f6faa66021e59924398b428332e90daa3c6bd36e8c185407c",
+        "sizeBytes": 204822,
+        "uncompressedSizeBytes": 512528,
+        "wordCount": 80153
+      },
+      "author": "August Šenoa",
+      "authorDeathYear": 1881,
+      "editionId": "senoa-zlatarevo-zlato.hr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "hr",
+      "originalLanguage": "hr",
+      "originalPublicationYear": 1871,
+      "originalTitle": "Zlatarevo zlato",
+      "rights": {
+        "statement": "Public domain worldwide. August Šenoa died in 1881 and the work was first published in 1871. Source: hr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Zlatarevo zlato",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:34:36.187983Z",
+        "revision": "31487",
+        "url": "https://hr.wikisource.org/wiki/Zlatarevo_zlato"
+      },
+      "title": "Zlatarevo zlato",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "senoa-zlatarevo-zlato"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Croatian",
+  "language": "hr",
+  "manifestVersion": "8a53a739d69bb8ba",
+  "nativeName": "Hrvatski",
+  "schemaVersion": 1
+}

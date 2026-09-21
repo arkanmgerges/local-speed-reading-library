@@ -1,0 +1,137 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:01:20.108324Z",
+    "chapterCount": 16,
+    "contentSha256": "6be996756454f93c41ffea90010ba2d391b106e5266c252ba452e84d0ffe94cc",
+    "normalizerVersion": "0.2.0",
+    "path": "books/mr/apte-sfuta-goshti-bhag-tisara.mr.wikisource/v1/book.json.gz",
+    "sha256": "37c705315f3dae6b6f04e46723829b2d6b43bf11957d96a8b0718191118cc4ca",
+    "sizeBytes": 145306,
+    "uncompressedSizeBytes": 759885,
+    "wordCount": 42708
+  },
+  "edition": {
+    "editionId": "apte-sfuta-goshti-bhag-tisara.mr.wikisource",
+    "kind": "original",
+    "language": "mr",
+    "title": "स्फुट गोष्टी भाग तिसरा"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1919: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1928: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q136160665",
+      "https://www.wikidata.org/wiki/Q55687",
+      "https://mr.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%AB%E0%A5%81%E0%A4%9F_%E0%A4%97%E0%A5%8B%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%80_%E0%A4%AD%E0%A4%BE%E0%A4%97_%E0%A4%A4%E0%A4%BF%E0%A4%B8%E0%A4%B0%E0%A4%BE"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. हरी नारायण आपटे died in 1919 and the work was first published in 1928. Source: mr.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "स्फुट गोष्टी भाग तिसरा",
+    "pages": [
+      {
+        "revision": 234713,
+        "title": "स्फुट गोष्टी भाग तिसरा"
+      },
+      {
+        "revision": 234729,
+        "title": "स्फुट गोष्टी भाग तिसरा/हरि नारायण आपटे यांचें अल्प चरित्र."
+      },
+      {
+        "revision": 234726,
+        "title": "स्फुट गोष्टी भाग तिसरा/राणी भवानी"
+      },
+      {
+        "revision": 234722,
+        "title": "स्फुट गोष्टी भाग तिसरा/भास्कराचार्यांची लीलावती"
+      },
+      {
+        "revision": 234718,
+        "title": "स्फुट गोष्टी भाग तिसरा/क्यारोलिन हर्शेल"
+      },
+      {
+        "revision": 234727,
+        "title": "स्फुट गोष्टी भाग तिसरा/सिस्टर डोरा"
+      },
+      {
+        "revision": 234716,
+        "title": "स्फुट गोष्टी भाग तिसरा/एलिजाबेथ फ्राय्"
+      },
+      {
+        "revision": 234723,
+        "title": "स्फुट गोष्टी भाग तिसरा/मेरी सोमर्व्हिल"
+      },
+      {
+        "revision": 234720,
+        "title": "स्फुट गोष्टी भाग तिसरा/जोधपूरची राणी"
+      },
+      {
+        "revision": 234725,
+        "title": "स्फुट गोष्टी भाग तिसरा/रणशूर राणी दुर्गावती"
+      },
+      {
+        "revision": 234717,
+        "title": "स्फुट गोष्टी भाग तिसरा/कृष्णदेव यादव"
+      },
+      {
+        "revision": 234719,
+        "title": "स्फुट गोष्टी भाग तिसरा/गरीब बिचारी पार्वतीबाई"
+      },
+      {
+        "revision": 234724,
+        "title": "स्फुट गोष्टी भाग तिसरा/रजपुताचा अभिमान"
+      },
+      {
+        "revision": 234721,
+        "title": "स्फुट गोष्टी भाग तिसरा/भक्त कनाप्पा नायनार"
+      },
+      {
+        "revision": 234728,
+        "title": "स्फुट गोष्टी भाग तिसरा/सेऱ्हा मार्टिन्"
+      },
+      {
+        "revision": 234715,
+        "title": "स्फुट गोष्टी भाग तिसरा/एड्मे जॉन लक्लेअर"
+      },
+      {
+        "revision": 234714,
+        "title": "स्फुट गोष्टी भाग तिसरा/ईसाप"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:02:35.133140Z",
+    "revision": "234713",
+    "site": "mr.wikisource.org",
+    "url": "https://mr.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%AB%E0%A5%81%E0%A4%9F_%E0%A4%97%E0%A5%8B%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%80_%E0%A4%AD%E0%A4%BE%E0%A4%97_%E0%A4%A4%E0%A4%BF%E0%A4%B8%E0%A4%B0%E0%A4%BE"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1864,
+      "deathYear": 1919,
+      "name": "हरी नारायण आपटे",
+      "wikidata": "Q55687"
+    },
+    "originalLanguage": "mr",
+    "originalPublicationYear": 1928,
+    "originalTitle": "स्फुट गोष्टी भाग तिसरा",
+    "workId": "apte-sfuta-goshti-bhag-tisara"
+  }
+}

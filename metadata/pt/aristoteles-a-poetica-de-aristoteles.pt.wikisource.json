@@ -1,0 +1,202 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:04:32.384064Z",
+    "chapterCount": 165,
+    "contentSha256": "8684c1b5b62544a50d2cd42889fc8ef59fa6a513f98b866352aba5311947b4ed",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt/aristoteles-a-poetica-de-aristoteles.pt.wikisource/v1/book.json.gz",
+    "sha256": "062e3c33c71e2f93f3f0871f819d82958027e7703ee3f3337faa830f52e4f05f",
+    "sizeBytes": 41713,
+    "uncompressedSizeBytes": 135966,
+    "wordCount": 18524
+  },
+  "edition": {
+    "editionId": "aristoteles-a-poetica-de-aristoteles.pt.wikisource",
+    "kind": "translation",
+    "language": "pt",
+    "title": "A Poetica de Aristoteles",
+    "translationPublicationYear": 1779,
+    "translator": {
+      "birthYear": 1746,
+      "deathYear": 1827,
+      "name": "Ricardo Raimundo Nogueira",
+      "wikidata": "Q28890095"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -321: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1827: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1779: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q264714",
+      "https://www.wikidata.org/wiki/Q135298510",
+      "https://www.wikidata.org/wiki/Q868",
+      "https://www.wikidata.org/wiki/Q28890095",
+      "https://pt.wikisource.org/wiki/A_Poetica_de_Aristoteles"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Aristóteles died in -321; the translator Ricardo Raimundo Nogueira died in 1827 and this translation was first published in 1779. Source: pt.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "A Poetica de Aristoteles",
+    "pages": [
+      {
+        "revision": 538464,
+        "title": "A Poetica de Aristoteles"
+      },
+      {
+        "revision": 529282,
+        "title": "A Poetica de Aristoteles/Ao Illustrissimo Senhor D. Domingos José de Assís Mascarenhas"
+      },
+      {
+        "revision": 531384,
+        "title": "A Poetica de Aristoteles/Introducção á Poetica de Aristoteles"
+      },
+      {
+        "revision": 531382,
+        "title": "A Poetica de Aristoteles/I"
+      },
+      {
+        "revision": 531381,
+        "title": "A Poetica de Aristoteles/II"
+      },
+      {
+        "revision": 531383,
+        "title": "A Poetica de Aristoteles/III"
+      },
+      {
+        "revision": 531649,
+        "title": "A Poetica de Aristoteles/IV"
+      },
+      {
+        "revision": 532111,
+        "title": "A Poetica de Aristoteles/V"
+      },
+      {
+        "revision": 532117,
+        "title": "A Poetica de Aristoteles/VI"
+      },
+      {
+        "revision": 532222,
+        "title": "A Poetica de Aristoteles/VII"
+      },
+      {
+        "revision": 532429,
+        "title": "A Poetica de Aristoteles/VIII"
+      },
+      {
+        "revision": 532432,
+        "title": "A Poetica de Aristoteles/IX"
+      },
+      {
+        "revision": 532453,
+        "title": "A Poetica de Aristoteles/X"
+      },
+      {
+        "revision": 532528,
+        "title": "A Poetica de Aristoteles/XI"
+      },
+      {
+        "revision": 532590,
+        "title": "A Poetica de Aristoteles/XII"
+      },
+      {
+        "revision": 532596,
+        "title": "A Poetica de Aristoteles/XIII"
+      },
+      {
+        "revision": 532631,
+        "title": "A Poetica de Aristoteles/XIV"
+      },
+      {
+        "revision": 532639,
+        "title": "A Poetica de Aristoteles/XV"
+      },
+      {
+        "revision": 532815,
+        "title": "A Poetica de Aristoteles/XVI"
+      },
+      {
+        "revision": 532900,
+        "title": "A Poetica de Aristoteles/XVII"
+      },
+      {
+        "revision": 532909,
+        "title": "A Poetica de Aristoteles/XVIII"
+      },
+      {
+        "revision": 533006,
+        "title": "A Poetica de Aristoteles/XIX"
+      },
+      {
+        "revision": 537194,
+        "title": "A Poetica de Aristoteles/XX"
+      },
+      {
+        "revision": 537272,
+        "title": "A Poetica de Aristoteles/XXI"
+      },
+      {
+        "revision": 537287,
+        "title": "A Poetica de Aristoteles/XXII"
+      },
+      {
+        "revision": 537350,
+        "title": "A Poetica de Aristoteles/XXIII"
+      },
+      {
+        "revision": 537430,
+        "title": "A Poetica de Aristoteles/XXIV"
+      },
+      {
+        "revision": 537431,
+        "title": "A Poetica de Aristoteles/XXV"
+      },
+      {
+        "revision": 537590,
+        "title": "A Poetica de Aristoteles/XXVI"
+      },
+      {
+        "revision": 538364,
+        "title": "A Poetica de Aristoteles/XXVII"
+      },
+      {
+        "revision": 538419,
+        "title": "A Poetica de Aristoteles/XXVIII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:46:38.357364Z",
+    "revision": "538464",
+    "site": "pt.wikisource.org",
+    "url": "https://pt.wikisource.org/wiki/A_Poetica_de_Aristoteles"
+  },
+  "work": {
+    "author": {
+      "birthYear": -383,
+      "deathYear": -321,
+      "name": "Aristóteles",
+      "wikidata": "Q868"
+    },
+    "originalLanguage": "grc",
+    "originalTitle": "A Poetica de Aristoteles",
+    "workId": "aristoteles-a-poetica-de-aristoteles"
+  }
+}

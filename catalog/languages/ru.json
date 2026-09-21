@@ -1,0 +1,870 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "05ed74080f1a6244da8a12dbd4760f0d59ea9807789023323c2219cc0d50e2e6",
+        "encoding": "gzip",
+        "path": "books/ru/andersen-q11870.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "486b10f15da9a26d66b0575199af0bf395762e41dbaa78c0ebc0902655ff94bb",
+        "sizeBytes": 21052,
+        "uncompressedSizeBytes": 76783,
+        "wordCount": 6510
+      },
+      "author": "Ханс Кристиан Андерсен",
+      "authorDeathYear": 1875,
+      "editionId": "andersen-q11870.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1835,
+      "originalTitle": "Лизок с вершок (Андерсен; Ганзен)",
+      "rights": {
+        "statement": "Public domain worldwide. Ханс Кристиан Андерсен died in 1875; the translator Анна Васильевна Ганзен died in 1942 and this translation was first published in 1899. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Лизок с вершок (Андерсен; Ганзен)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:51:57.936750Z",
+        "revision": "4716268",
+        "url": "https://ru.wikisource.org/wiki/%D0%9B%D0%B8%D0%B7%D0%BE%D0%BA_%D1%81_%D0%B2%D0%B5%D1%80%D1%88%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD%3B_%D0%93%D0%B0%D0%BD%D0%B7%D0%B5%D0%BD)"
+      },
+      "title": "Лизок с вершок (Андерсен; Ганзен)",
+      "translationPublicationYear": 1899,
+      "translator": "Анна Васильевна Ганзен",
+      "translatorDeathYear": 1942,
+      "workId": "andersen-q11870"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "2de9d03f3b9258b00f61da55fcc1668cef5856944aa2303728c6f2685d3c4d3c",
+        "encoding": "gzip",
+        "path": "books/ru/carroll-q92640.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d80749c6a9b1a559062c6c0ebc3777a8ab1b19b2631688867e4dd9ccec8ab007",
+        "sizeBytes": 66402,
+        "uncompressedSizeBytes": 266205,
+        "wordCount": 23086
+      },
+      "author": "Льюис Кэрролл",
+      "authorDeathYear": 1898,
+      "editionId": "carroll-q92640.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "en-gb",
+      "originalPublicationYear": 1865,
+      "originalTitle": "Приключения Алисы в стране чудес (Кэрролл; Рождественская)",
+      "rights": {
+        "statement": "Public domain worldwide. Льюис Кэрролл died in 1898; the translator Александра Николаевна Рождественская died in 1909 and this translation was first published in 1909. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Приключения Алисы в стране чудес (Кэрролл; Рождественская)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:52:00.035513Z",
+        "revision": "5301726",
+        "url": "https://ru.wikisource.org/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%90%D0%BB%D0%B8%D1%81%D1%8B_%D0%B2_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5_%D1%87%D1%83%D0%B4%D0%B5%D1%81_(%D0%9A%D1%8D%D1%80%D1%80%D0%BE%D0%BB%D0%BB%3B_%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)"
+      },
+      "title": "Приключения Алисы в стране чудес (Кэрролл; Рождественская)",
+      "translationPublicationYear": 1909,
+      "translator": "Александра Николаевна Рождественская",
+      "translatorDeathYear": 1909,
+      "workId": "carroll-q92640"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 11,
+        "contentSha256": "8352b6c59e9d1ce5c1b69502f92a9fd860f3ebddd4e22d1f39ea1156ece4fd77",
+        "encoding": "gzip",
+        "path": "books/ru/darwin-1864.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "032a1cf7939c9824e16639ac267633b676503a59b8c0c40ffcf68368d5be1e26",
+        "sizeBytes": 42670,
+        "uncompressedSizeBytes": 158734,
+        "wordCount": 13093
+      },
+      "author": "Чарльз Дарвин",
+      "authorDeathYear": 1882,
+      "editionId": "darwin-1864.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1859,
+      "originalTitle": "О происхождении видов (1864)",
+      "rights": {
+        "statement": "Public domain worldwide. Чарльз Дарвин died in 1882; the translator Сергей Александрович Рачинский died in 1902 and this translation was first published in 1864. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "О происхождении видов (Дарвин; Рачинский)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:52:07.098693Z",
+        "revision": "5048027",
+        "url": "https://ru.wikisource.org/wiki/%D0%9E_%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2_(%D0%94%D0%B0%D1%80%D0%B2%D0%B8%D0%BD%3B_%D0%A0%D0%B0%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)"
+      },
+      "title": "О происхождении видов",
+      "translationPublicationYear": 1864,
+      "translator": "Сергей Александрович Рачинский",
+      "translatorDeathYear": 1902,
+      "workId": "darwin-1864"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 9,
+        "contentSha256": "1a7bda5366c135c2a5e59ea825f0f282f1c40ff1fe6b954fa839fc45ea936a5a",
+        "encoding": "gzip",
+        "path": "books/ru/herodotus-istoriya.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "35742756c1d94a07d8de4c02aa0c5da9381a684511c9b6b6eb9e067ccd1ee670",
+        "sizeBytes": 580161,
+        "uncompressedSizeBytes": 2252134,
+        "wordCount": 190240
+      },
+      "author": "Геродот",
+      "authorDeathYear": -424,
+      "editionId": "herodotus-istoriya.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Istoriya",
+      "rights": {
+        "statement": "Public domain worldwide. Геродот died in -424; the translator Фёдор Герасимович Мищенко died in 1906 and this translation was first published in 1885. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "История (Геродот; Мищенко)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:52:27.349266Z",
+        "revision": "4072563",
+        "url": "https://ru.wikisource.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_(%D0%93%D0%B5%D1%80%D0%BE%D0%B4%D0%BE%D1%82%3B_%D0%9C%D0%B8%D1%89%D0%B5%D0%BD%D0%BA%D0%BE)"
+      },
+      "title": "История",
+      "translationPublicationYear": 1885,
+      "translator": "Фёдор Герасимович Мищенко",
+      "translatorDeathYear": 1906,
+      "workId": "herodotus-istoriya"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 46,
+        "contentSha256": "df7c55cc5d58f8c4e2db2aa65f993084104ef2f59d607c0a71ae10199266b08a",
+        "encoding": "gzip",
+        "path": "books/ru/london-q1317839.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8a2dee4613c745beaf66664e92fc413d4f55ebbcde1d8d32610d5b055092fff6",
+        "sizeBytes": 360955,
+        "uncompressedSizeBytes": 1334389,
+        "wordCount": 115413
+      },
+      "author": "Джек Лондон",
+      "authorDeathYear": 1916,
+      "editionId": "london-q1317839.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1909,
+      "originalTitle": "Мартин Иден",
+      "rights": {
+        "statement": "Public domain worldwide. Джек Лондон died in 1916; the translator Сергей Сергеевич Заяицкий died in 1930 and this translation was first published in 1929. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Мартин Иден (Лондон; Заяицкий)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:52:34.088109Z",
+        "revision": "5334179",
+        "url": "https://ru.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD_%D0%98%D0%B4%D0%B5%D0%BD_(%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%3B_%D0%97%D0%B0%D1%8F%D0%B8%D1%86%D0%BA%D0%B8%D0%B9)"
+      },
+      "title": "Мартин Иден",
+      "translationPublicationYear": 1929,
+      "translator": "Сергей Сергеевич Заяицкий",
+      "translatorDeathYear": 1930,
+      "workId": "london-q1317839"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 7,
+        "contentSha256": "ef1c556de4d492c5c0bbffb39aac81aed18abaa073b53c2db3abd1ced686543f",
+        "encoding": "gzip",
+        "path": "books/ru/london-q476871.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "67b809bb8fee028cef68b3da3b50040993fc77024ad979a4a56af80c74ffcf60",
+        "sizeBytes": 92351,
+        "uncompressedSizeBytes": 335800,
+        "wordCount": 29188
+      },
+      "author": "Джек Лондон",
+      "authorDeathYear": 1916,
+      "editionId": "london-q476871.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1903,
+      "originalTitle": "Зов предков",
+      "rights": {
+        "statement": "Public domain worldwide. Джек Лондон died in 1916; the translator Зинаида Андреевна Вершинина died in 1942 and this translation was first published in 1928. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Зов предков (Лондон; Вершинина)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:52:38.229972Z",
+        "revision": "5303384",
+        "url": "https://ru.wikisource.org/wiki/%D0%97%D0%BE%D0%B2_%D0%BF%D1%80%D0%B5%D0%B4%D0%BA%D0%BE%D0%B2_(%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%3B_%D0%92%D0%B5%D1%80%D1%88%D0%B8%D0%BD%D0%B8%D0%BD%D0%B0)"
+      },
+      "title": "Зов предков",
+      "translationPublicationYear": 1928,
+      "translator": "Зинаида Андреевна Вершинина",
+      "translatorDeathYear": 1942,
+      "workId": "london-q476871"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "8c79c80e9b9dd27a003ea4d75eedf37c7b156520296049e56cb9798d8c802328",
+        "encoding": "gzip",
+        "path": "books/ru/plato-apologia-sokrata.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8b10daa1c52ed3c278051d02602cf9ed9dc0a00b5d955eaac1f1129836eb00dc",
+        "sizeBytes": 27788,
+        "uncompressedSizeBytes": 103440,
+        "wordCount": 9380
+      },
+      "author": "Платон",
+      "authorDeathYear": -348,
+      "editionId": "plato-apologia-sokrata.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "grc",
+      "originalPublicationYear": -395,
+      "originalTitle": "Apologiâ Sokrata",
+      "rights": {
+        "statement": "Public domain worldwide. Платон died in -348; the translator Василий Николаевич Карпов died in 1867 and this translation was first published in 1863. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Апология Сократа (Платон; Карпов)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:52:42.072641Z",
+        "revision": "3714605",
+        "url": "https://ru.wikisource.org/wiki/%D0%90%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%A1%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B0_(%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%3B_%D0%9A%D0%B0%D1%80%D0%BF%D0%BE%D0%B2)"
+      },
+      "title": "Апология Сократа",
+      "translationPublicationYear": 1863,
+      "translator": "Василий Николаевич Карпов",
+      "translatorDeathYear": 1867,
+      "workId": "plato-apologia-sokrata"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "5c9a78d3044f4eeb5f9d7abbe1d13b9c734e89561e817d7c98a98576fb18df78",
+        "encoding": "gzip",
+        "path": "books/ru/plato-fedon.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "bae5589d27585eba011703491ef3fac572a21efb6b27fb2eac7c41f73b5c2769",
+        "sizeBytes": 64264,
+        "uncompressedSizeBytes": 254847,
+        "wordCount": 22883
+      },
+      "author": "Платон",
+      "authorDeathYear": -348,
+      "editionId": "plato-fedon.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Fedon",
+      "rights": {
+        "statement": "Public domain worldwide. Платон died in -348; the translator Василий Николаевич Карпов died in 1867 and this translation was first published in 1863. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Федон (Платон; Карпов)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:52:44.183001Z",
+        "revision": "3752780",
+        "url": "https://ru.wikisource.org/wiki/%D0%A4%D0%B5%D0%B4%D0%BE%D0%BD_(%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%3B_%D0%9A%D0%B0%D1%80%D0%BF%D0%BE%D0%B2)"
+      },
+      "title": "Федон",
+      "translationPublicationYear": 1863,
+      "translator": "Василий Николаевич Карпов",
+      "translatorDeathYear": 1867,
+      "workId": "plato-fedon"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "12828a630740b03acbb02b95279febad63db40f4c645556b4499fa523b705665",
+        "encoding": "gzip",
+        "path": "books/ru/plato-pir-tr-karpov.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "60c8893dc81a779fcaf89a721c99a456d62dd39c16a1465ac9389fe5cfdefc7f",
+        "sizeBytes": 53758,
+        "uncompressedSizeBytes": 203265,
+        "wordCount": 18343
+      },
+      "author": "Платон",
+      "authorDeathYear": -348,
+      "editionId": "plato-pir-tr-karpov.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Pir (tr. Karpov)",
+      "rights": {
+        "statement": "Public domain worldwide. Платон died in -348; the translator Василий Николаевич Карпов died in 1867 and this translation was first published in 1863. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Пир (Платон; Карпов)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:52:46.635397Z",
+        "revision": "3741674",
+        "url": "https://ru.wikisource.org/wiki/%D0%9F%D0%B8%D1%80_(%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%3B_%D0%9A%D0%B0%D1%80%D0%BF%D0%BE%D0%B2)"
+      },
+      "title": "Пир",
+      "translationPublicationYear": 1863,
+      "translator": "Василий Николаевич Карпов",
+      "translatorDeathYear": 1867,
+      "workId": "plato-pir-tr-karpov"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "7de35381c179529ceea18c8cb1034699fb33ba1d2ffea37cf3c9e2d77000afc7",
+        "encoding": "gzip",
+        "path": "books/ru/plato-q555862.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f63c2fb16a9cbfedb0075a778ca21e9623861638add339d3693e5c2939aef357",
+        "sizeBytes": 55775,
+        "uncompressedSizeBytes": 212062,
+        "wordCount": 18037
+      },
+      "author": "Платон",
+      "authorDeathYear": -348,
+      "editionId": "plato-q555862.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "grc",
+      "originalPublicationYear": -369,
+      "originalTitle": "Федр",
+      "rights": {
+        "statement": "Public domain worldwide. Платон died in -348; the translator Василий Николаевич Карпов died in 1867 and this translation was first published in 1863. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Федр (Платон; Карпов)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:52:59.954459Z",
+        "revision": "3752802",
+        "url": "https://ru.wikisource.org/wiki/%D0%A4%D0%B5%D0%B4%D1%80_(%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%3B_%D0%9A%D0%B0%D1%80%D0%BF%D0%BE%D0%B2)"
+      },
+      "title": "Федр",
+      "translationPublicationYear": 1863,
+      "translator": "Василий Николаевич Карпов",
+      "translatorDeathYear": 1867,
+      "workId": "plato-q555862"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 24,
+        "contentSha256": "8e677f084ffd720f58b6b62e383fc6f27f9ac0e0700a4e490d1f1a9d16ab2dd5",
+        "encoding": "gzip",
+        "path": "books/ru/plato-q752285.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "54f8263fcc6ed15c30c5ad994442b149cded195774a7dc3d109983517c744613",
+        "sizeBytes": 567907,
+        "uncompressedSizeBytes": 2317169,
+        "wordCount": 183529
+      },
+      "author": "Платон",
+      "authorDeathYear": -348,
+      "editionId": "plato-q752285.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Платоновы разговоры о законах (Платон/Оболенский)",
+      "rights": {
+        "statement": "Public domain worldwide. Платон died in -348; the translator Оболенский, Василий Иванович died in 1847 and this translation was first published in 1827. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Платоновы разговоры о законах (Платон; Оболенский)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:53:44.985931Z",
+        "revision": "3776907",
+        "url": "https://ru.wikisource.org/wiki/%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B_%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8B_%D0%BE_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0%D1%85_(%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%3B_%D0%9E%D0%B1%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)"
+      },
+      "title": "Платоновы разговоры о законах (Платон/Оболенский)",
+      "translationPublicationYear": 1827,
+      "translator": "Оболенский, Василий Иванович",
+      "translatorDeathYear": 1847,
+      "workId": "plato-q752285"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 31,
+        "contentSha256": "9e40899afe52ee06e60baac15c95da6115c758fa9e1417def73b400f24d34d40",
+        "encoding": "gzip",
+        "path": "books/ru/q199774.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7c99e9b3e7ebf54d5c8c2b7cd196057588d4134896d2e969a629a09678551859",
+        "sizeBytes": 225467,
+        "uncompressedSizeBytes": 902066,
+        "wordCount": 87526
+      },
+      "author": "Фридрих Ницше",
+      "authorDeathYear": 1900,
+      "editionId": "q199774.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "de",
+      "originalPublicationYear": 1885,
+      "originalTitle": "Так говорил Заратустра (Ницше/Антоновский)",
+      "rights": {
+        "statement": "Public domain worldwide. Фридрих Ницше died in 1900; the translator Юлий Михайлович Антоновский died in 1913 and this translation was first published in 1900. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Так говорил Заратустра (Ницше; Антоновский)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:54:13.489147Z",
+        "revision": "5634814",
+        "url": "https://ru.wikisource.org/wiki/%D0%A2%D0%B0%D0%BA_%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BB_%D0%97%D0%B0%D1%80%D0%B0%D1%82%D1%83%D1%81%D1%82%D1%80%D0%B0_(%D0%9D%D0%B8%D1%86%D1%88%D0%B5%3B_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)"
+      },
+      "title": "Так говорил Заратустра (Ницше/Антоновский)",
+      "translationPublicationYear": 1900,
+      "translator": "Юлий Михайлович Антоновский",
+      "translatorDeathYear": 1913,
+      "workId": "q199774"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 45,
+        "contentSha256": "1176739a09d0413d51f532c83fbbdd52c532eb1d3f942418b0160b007b988f1b",
+        "encoding": "gzip",
+        "path": "books/ru/scott-q840974.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f547d33afc3a89b903652ceb746ab6d4ed36b56cf5606be5e33ae242c3a17204",
+        "sizeBytes": 495584,
+        "uncompressedSizeBytes": 1824437,
+        "wordCount": 154119
+      },
+      "author": "Вальтер Скотт",
+      "authorDeathYear": 1832,
+      "editionId": "scott-q840974.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1819,
+      "originalTitle": "Айвенго",
+      "rights": {
+        "statement": "Public domain worldwide. Вальтер Скотт died in 1832; the translator Елизавета Григорьевна Бекетова died in 1902 and this translation was first published in 1882. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Айвенго (Скотт; Бекетова)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:54:18.496311Z",
+        "revision": "5582858",
+        "url": "https://ru.wikisource.org/wiki/%D0%90%D0%B9%D0%B2%D0%B5%D0%BD%D0%B3%D0%BE_(%D0%A1%D0%BA%D0%BE%D1%82%D1%82%3B_%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%B0)"
+      },
+      "title": "Айвенго",
+      "translationPublicationYear": 1882,
+      "translator": "Елизавета Григорьевна Бекетова",
+      "translatorDeathYear": 1902,
+      "workId": "scott-q840974"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "7d09f57671cb674eafaed51d64033651c2a3a4798f4867208d509636d1b5de28",
+        "encoding": "gzip",
+        "path": "books/ru/stevenson-q185118.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "790fc9ad5ffd223a9cc85b94a8f72d35d572003884691f75083e127f4e17adac",
+        "sizeBytes": 184880,
+        "uncompressedSizeBytes": 710684,
+        "wordCount": 60319
+      },
+      "author": "Роберт Льюис Стивенсон",
+      "authorDeathYear": 1894,
+      "editionId": "stevenson-q185118.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1883,
+      "originalTitle": "Остров сокровищ (Стивенсон; Пименова)/ДО",
+      "rights": {
+        "statement": "Public domain worldwide. Роберт Льюис Стивенсон died in 1894; the translator Эмилия Кирилловна Пименова died in 1935 and this translation was first published in 1916. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Остров сокровищ (Стивенсон; Пименова)/ДО",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:54:23.842125Z",
+        "revision": "5528855",
+        "url": "https://ru.wikisource.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D1%81%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%B8%D1%89_(%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%D1%81%D0%BE%D0%BD%3B_%D0%9F%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0)/%D0%94%D0%9E"
+      },
+      "title": "Остров сокровищ (Стивенсон; Пименова)/ДО",
+      "translationPublicationYear": 1916,
+      "translator": "Эмилия Кирилловна Пименова",
+      "translatorDeathYear": 1935,
+      "workId": "stevenson-q185118"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 77,
+        "contentSha256": "3e117e9502e4e1c24799c50a360309a4753caccfde76c574666366596a3f4b6a",
+        "encoding": "gzip",
+        "path": "books/ru/stoker-dracula.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "dc798f64656bceb5be89a278fd021b563522ccb4d49dcec98daa129b705d351d",
+        "sizeBytes": 160814,
+        "uncompressedSizeBytes": 611125,
+        "wordCount": 51062
+      },
+      "author": "Bram Stoker",
+      "authorDeathYear": 1912,
+      "editionId": "stoker-dracula.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1897,
+      "originalTitle": "Dracula",
+      "rights": {
+        "statement": "Public domain worldwide. Брэм Стокер died in 1912; the translator Н. Сандрова died in 1930 and this translation was first published in 1912. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Вампир (Стокер; Сандрова)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:55:04.438549Z",
+        "revision": "4715329",
+        "url": "https://ru.wikisource.org/wiki/%D0%92%D0%B0%D0%BC%D0%BF%D0%B8%D1%80_(%D0%A1%D1%82%D0%BE%D0%BA%D0%B5%D1%80%3B_%D0%A1%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0)"
+      },
+      "title": "Вампир",
+      "translationPublicationYear": 1912,
+      "translator": "Н. Сандрова",
+      "translatorDeathYear": 1930,
+      "workId": "stoker-dracula"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "4053d8c5d23a7c8d620b45f8c86fb0846f6238c7d8dc8abf521dff79157da1ad",
+        "encoding": "gzip",
+        "path": "books/ru/verne-q1213902.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d921147253f85e07f249d80d4c46cfee407c45db9c17ebaef0c474363e788ba8",
+        "sizeBytes": 541589,
+        "uncompressedSizeBytes": 2041040,
+        "wordCount": 166064
+      },
+      "author": "Жюль Верн",
+      "authorDeathYear": 1905,
+      "editionId": "verne-q1213902.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1868,
+      "originalTitle": "Дети капитана Гранта",
+      "rights": {
+        "statement": "Public domain worldwide. Жюль Верн died in 1905; the translator Александра Андреевна Кублицкая-Пиоттух died in 1923 and this translation was first published in 1867. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Дети капитана Гранта (Верн; Бекетова)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:55:09.260073Z",
+        "revision": "5304880",
+        "url": "https://ru.wikisource.org/wiki/%D0%94%D0%B5%D1%82%D0%B8_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B0_%D0%93%D1%80%D0%B0%D0%BD%D1%82%D0%B0_(%D0%92%D0%B5%D1%80%D0%BD%3B_%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%B0)"
+      },
+      "title": "Дети капитана Гранта",
+      "translationPublicationYear": 1867,
+      "translator": "Александра Андреевна Кублицкая-Пиоттух",
+      "translatorDeathYear": 1923,
+      "workId": "verne-q1213902"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 30,
+        "contentSha256": "fc978954966f26da294a5ade95ae9e7b17c22b4e1b62981b654d313471a1b473",
+        "encoding": "gzip",
+        "path": "books/ru/verne-q53592.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2e66c527850666f0dd9c8369025e2a7aa9998516b7f5fb6628b5b5be7c993af2",
+        "sizeBytes": 143347,
+        "uncompressedSizeBytes": 580135,
+        "wordCount": 43150
+      },
+      "author": "Жюль Верн",
+      "authorDeathYear": 1905,
+      "editionId": "verne-q53592.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1865,
+      "originalTitle": "От Земли до Луны",
+      "rights": {
+        "statement": "Public domain worldwide. Жюль Верн died in 1905; the translator Павел Матвеевич Ольхин died in 1915 and this translation was first published in 1870. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "От Земли до Луны (Верн; Ольхин)/ДО",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:55:15.257373Z",
+        "revision": "5654157",
+        "url": "https://ru.wikisource.org/wiki/%D0%9E%D1%82_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8_%D0%B4%D0%BE_%D0%9B%D1%83%D0%BD%D1%8B_(%D0%92%D0%B5%D1%80%D0%BD%3B_%D0%9E%D0%BB%D1%8C%D1%85%D0%B8%D0%BD)/%D0%94%D0%9E"
+      },
+      "title": "От Земли до Луны",
+      "translationPublicationYear": 1870,
+      "translator": "Павел Матвеевич Ольхин",
+      "translatorDeathYear": 1915,
+      "workId": "verne-q53592"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 29,
+        "contentSha256": "e41c704000d325190a7b578ae9d1fdf1e4a099665b8d35131605aefcf7e55612",
+        "encoding": "gzip",
+        "path": "books/ru/wells-q1539509.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "cf67c29db4e6fa5d78ad87b5f28b8d1e90e139a186548efca2a80dc78e6c177c",
+        "sizeBytes": 130511,
+        "uncompressedSizeBytes": 489962,
+        "wordCount": 41618
+      },
+      "author": "Герберт Уэллс",
+      "authorDeathYear": 1946,
+      "editionId": "wells-q1539509.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1897,
+      "originalTitle": "Человек-невидимка",
+      "rights": {
+        "statement": "Public domain worldwide. Герберт Уэллс died in 1946; the translator Давид Лазаревич Вейс died in 1938 and this translation was first published in 1910. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Человек-невидимка (Уэллс; Вейс)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:55:19.877500Z",
+        "revision": "5039636",
+        "url": "https://ru.wikisource.org/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B0_(%D0%A3%D1%8D%D0%BB%D0%BB%D1%81%3B_%D0%92%D0%B5%D0%B9%D1%81)"
+      },
+      "title": "Человек-невидимка",
+      "translationPublicationYear": 1910,
+      "translator": "Давид Лазаревич Вейс",
+      "translatorDeathYear": 1938,
+      "workId": "wells-q1539509"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 27,
+        "contentSha256": "3582d95dd82af2e8d689bd3ec671ae52bb6aee86b4065a2e2478a8c8809baf0a",
+        "encoding": "gzip",
+        "path": "books/ru/wells-q213019.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1b1e6de34d474f04391a7f81d4e8f94b6aadb76c74b9d34985a6dce4b4b97e55",
+        "sizeBytes": 157870,
+        "uncompressedSizeBytes": 573787,
+        "wordCount": 45412
+      },
+      "author": "Герберт Уэллс",
+      "authorDeathYear": 1946,
+      "editionId": "wells-q213019.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1897,
+      "originalTitle": "Борьба миров (Уэллс; Журавская)/1898 (ДО)",
+      "rights": {
+        "statement": "Public domain worldwide. Герберт Уэллс died in 1946; the translator Зинаида Николаевна Журавская died in 1937 and this translation was first published in 1898. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Борьба миров (Уэллс; Журавская)/1898 (ДО)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:55:23.412416Z",
+        "revision": "5504040",
+        "url": "https://ru.wikisource.org/wiki/%D0%91%D0%BE%D1%80%D1%8C%D0%B1%D0%B0_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2_(%D0%A3%D1%8D%D0%BB%D0%BB%D1%81%3B_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/1898_(%D0%94%D0%9E)"
+      },
+      "title": "Борьба миров (Уэллс; Журавская)/1898 (ДО)",
+      "translationPublicationYear": 1898,
+      "translator": "Зинаида Николаевна Журавская",
+      "translatorDeathYear": 1937,
+      "workId": "wells-q213019"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 17,
+        "contentSha256": "7002e0a860f9ede4dd8cab7a3310e8c2d319e3d6a93858080aee155ffba0e646",
+        "encoding": "gzip",
+        "path": "books/ru/wells-q627333.ru.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1fca5ab43755f91cafea901b8cde71e58ed9f9b8084e24169d90a6d3c937ad17",
+        "sizeBytes": 95641,
+        "uncompressedSizeBytes": 361586,
+        "wordCount": 29566
+      },
+      "author": "Герберт Уэллс",
+      "authorDeathYear": 1946,
+      "editionId": "wells-q627333.ru.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "ru",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1895,
+      "originalTitle": "Машина времени (Уэллс; Морозов)",
+      "rights": {
+        "statement": "Public domain worldwide. Герберт Уэллс died in 1946; the translator Николай Александрович Морозов died in 1946 and this translation was first published in 1909. Source: ru.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Машина времени (Уэллс; Морозов)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:55:26.435024Z",
+        "revision": "5267906",
+        "url": "https://ru.wikisource.org/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%B0_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_(%D0%A3%D1%8D%D0%BB%D0%BB%D1%81%3B_%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2)"
+      },
+      "title": "Машина времени (Уэллс; Морозов)",
+      "translationPublicationYear": 1909,
+      "translator": "Николай Александрович Морозов",
+      "translatorDeathYear": 1946,
+      "workId": "wells-q627333"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Russian",
+  "language": "ru",
+  "manifestVersion": "789a7184e2d204d2",
+  "nativeName": "Русский",
+  "schemaVersion": 1
+}

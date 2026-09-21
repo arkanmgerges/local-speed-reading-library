@@ -1,0 +1,440 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 127,
+        "contentSha256": "7cda3342a88c991083dce9d1f300a08a0c3290099ace28e4ec998597e55627c4",
+        "encoding": "gzip",
+        "path": "books/ar/al-athir-al-kamil-fi-al-tarikh.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d0158573d94eb0c19c8ab3c967c0b864b73d1c94cf09a1e073555d36e17df74e",
+        "sizeBytes": 237256,
+        "uncompressedSizeBytes": 868428,
+        "wordCount": 86456
+      },
+      "author": "ابن الأثير الجزري",
+      "authorDeathYear": 1233,
+      "editionId": "al-athir-al-kamil-fi-al-tarikh.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 1231,
+      "originalTitle": "الكامل في التاريخ",
+      "rights": {
+        "statement": "Public domain worldwide. ابن الأثير الجزري died in 1233 and the work was first published in 1231. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "الكامل في التاريخ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:51:02.168511Z",
+        "revision": "105765",
+        "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84_%D9%81%D9%8A_%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE"
+      },
+      "title": "الكامل في التاريخ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "al-athir-al-kamil-fi-al-tarikh"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "84007d96b03dd167ae981a72288c56ac67260223d19eda64bdf80a477b55369e",
+        "encoding": "gzip",
+        "path": "books/ar/al-ghazali-the-incoherence-of-the-philosophers.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "faddd19d74c96218abe952b03100e14319c46b1d8e3f9cd30f8228a4bf85a7c9",
+        "sizeBytes": 31479,
+        "uncompressedSizeBytes": 121334,
+        "wordCount": 12269
+      },
+      "author": "أبو حامد الغزالي",
+      "authorDeathYear": 1111,
+      "editionId": "al-ghazali-the-incoherence-of-the-philosophers.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 1095,
+      "originalTitle": "تهافت الفلاسفة",
+      "rights": {
+        "statement": "Public domain worldwide. أبو حامد الغزالي died in 1111 and the work was first published in 1095. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "تهافت الفلاسفة",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:51:09.131369Z",
+        "revision": "413651",
+        "url": "https://ar.wikisource.org/wiki/%D8%AA%D9%87%D8%A7%D9%81%D8%AA_%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%B3%D9%81%D8%A9"
+      },
+      "title": "تهافت الفلاسفة",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "al-ghazali-the-incoherence-of-the-philosophers"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 68,
+        "contentSha256": "8762490faac34e3fe941f2bbda2b9b2beb363e326b96699554fc68cd06905acd",
+        "encoding": "gzip",
+        "path": "books/ar/al-muqaddasi-a-san-al-taqasim-fi-ma-rifat-al-aqalim.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "cb40d71d9f8fea707dbe76d3f390b45e59eec8304eefe021c517e46c4430c9b1",
+        "sizeBytes": 100454,
+        "uncompressedSizeBytes": 369870,
+        "wordCount": 35170
+      },
+      "author": "شمس الدين المقدسي",
+      "authorDeathYear": 1000,
+      "editionId": "al-muqaddasi-a-san-al-taqasim-fi-ma-rifat-al-aqalim.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 985,
+      "originalTitle": "أحسن التقاسيم في معرفة الأقاليم",
+      "rights": {
+        "statement": "Public domain worldwide. شمس الدين المقدسي died in 1000 and the work was first published in 985. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "أحسن التقاسيم في معرفة الأقاليم",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:51:35.729235Z",
+        "revision": "231634",
+        "url": "https://ar.wikisource.org/wiki/%D8%A3%D8%AD%D8%B3%D9%86_%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B3%D9%8A%D9%85_%D9%81%D9%8A_%D9%85%D8%B9%D8%B1%D9%81%D8%A9_%D8%A7%D9%84%D8%A3%D9%82%D8%A7%D9%84%D9%8A%D9%85"
+      },
+      "title": "أحسن التقاسيم في معرفة الأقاليم",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "al-muqaddasi-a-san-al-taqasim-fi-ma-rifat-al-aqalim"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 131,
+        "contentSha256": "b3f31e28a80a81285458e46fa80b6ab2f28f30219c02c27d81bb3132d941aafd",
+        "encoding": "gzip",
+        "path": "books/ar/al-suyuti-history-of-the-caliphs.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "49481c6539a10d0e7fbf0658a4b970c487bd97e3730c474dcd780d018c12799a",
+        "sizeBytes": 323749,
+        "uncompressedSizeBytes": 1258457,
+        "wordCount": 130354
+      },
+      "author": "جلال الدين السيوطي",
+      "authorDeathYear": 1505,
+      "editionId": "al-suyuti-history-of-the-caliphs.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 1881,
+      "originalTitle": "تاريخ الخلفاء",
+      "rights": {
+        "statement": "Public domain worldwide. جلال الدين السيوطي died in 1505 and the work was first published in 1881. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "تاريخ الخلفاء",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:51:44.807255Z",
+        "revision": "218458",
+        "url": "https://ar.wikisource.org/wiki/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1"
+      },
+      "title": "تاريخ الخلفاء",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "al-suyuti-history-of-the-caliphs"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 22,
+        "contentSha256": "5977f48d28a594583ccfb58652991adeca14a5ccfc94c4c08889b676f0cc4523",
+        "encoding": "gzip",
+        "path": "books/ar/averroes-on-the-harmony-of-religions-and-philosophy.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7af9332ec3bf33f0fe264467c36a6ffd6a2d209b5f0d986b5d954b27e4f29592",
+        "sizeBytes": 19366,
+        "uncompressedSizeBytes": 75245,
+        "wordCount": 7239
+      },
+      "author": "ابن رشد",
+      "authorDeathYear": 1198,
+      "editionId": "averroes-on-the-harmony-of-religions-and-philosophy.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 1179,
+      "originalTitle": "فصل المقال في ما بين الحكمة والشريعة من اتصال",
+      "rights": {
+        "statement": "Public domain worldwide. ابن رشد died in 1198 and the work was first published in 1179. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "فصل المقال فيما بين الحكمة والشريعة من الاتصال",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:52:53.832424Z",
+        "revision": "413648",
+        "url": "https://ar.wikisource.org/wiki/%D9%81%D8%B5%D9%84_%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%84_%D9%81%D9%8A%D9%85%D8%A7_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9_%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%B9%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84"
+      },
+      "title": "فصل المقال في ما بين الحكمة والشريعة من اتصال",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "averroes-on-the-harmony-of-religions-and-philosophy"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "b00a31a5f5d65f89e482cf1afb806256dfffd16bff9fe59e49f75f9fa15ad9af",
+        "encoding": "gzip",
+        "path": "books/ar/baha-u-llah-kitab-i-aqdas.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "187ce9365cbfab52c1aced66f7267ed2fc8cf30268e58958d43ca5fafe63b2dd",
+        "sizeBytes": 25789,
+        "uncompressedSizeBytes": 97870,
+        "wordCount": 9736
+      },
+      "author": "بهاء الله",
+      "authorDeathYear": 1892,
+      "editionId": "baha-u-llah-kitab-i-aqdas.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 1872,
+      "originalTitle": "الكتاب الأقدس",
+      "rights": {
+        "statement": "Public domain worldwide. بهاء الله died in 1892 and the work was first published in 1872. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "الكتاب الأقدس",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:52:56.906084Z",
+        "revision": "278288",
+        "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%A3%D9%82%D8%AF%D8%B3"
+      },
+      "title": "الكتاب الأقدس",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "baha-u-llah-kitab-i-aqdas"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "bf5e05223fc1f8c53e71b970db4b13ffb3ee3bad0436e566cca7cfda05550984",
+        "encoding": "gzip",
+        "path": "books/ar/fadlan-mission-to-the-volga.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f5e2934c07bee0eab17e754c4316e0291ebfe42e37bdc22c4bfc362bc99878af",
+        "sizeBytes": 26678,
+        "uncompressedSizeBytes": 91559,
+        "wordCount": 9272
+      },
+      "author": "أحمد بن فضلان",
+      "authorDeathYear": 922,
+      "editionId": "fadlan-mission-to-the-volga.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 920,
+      "originalTitle": "رسالة ابن فضلان",
+      "rights": {
+        "statement": "Public domain worldwide. أحمد بن فضلان died in 922 and the work was first published in 920. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "رحلة ابن فضلان",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:52:59.818912Z",
+        "revision": "257547",
+        "url": "https://ar.wikisource.org/wiki/%D8%B1%D8%AD%D9%84%D8%A9_%D8%A7%D8%A8%D9%86_%D9%81%D8%B6%D9%84%D8%A7%D9%86"
+      },
+      "title": "رسالة ابن فضلان",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "fadlan-mission-to-the-volga"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "9f29cc97605499bf9e4e266aea2189dba1d45290538efdf3e02e926c31dad6d1",
+        "encoding": "gzip",
+        "path": "books/ar/khordadbeh-book-of-roads-and-kingdoms.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "fe92d199068488218bfe817005dfb5e89148607f3e4cfe0f9d2c7a6e67a8e229",
+        "sizeBytes": 95805,
+        "uncompressedSizeBytes": 404556,
+        "wordCount": 40427
+      },
+      "author": "ابن خرداذبة",
+      "authorDeathYear": 912,
+      "editionId": "khordadbeh-book-of-roads-and-kingdoms.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 870,
+      "originalTitle": "كتاب المسالك والممالك",
+      "rights": {
+        "statement": "Public domain worldwide. ابن خرداذبة died in 912 and the work was first published in 870. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "المسالك والممالك (ابن خرداذبة)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:53:05.885800Z",
+        "revision": "375602",
+        "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%84%D9%83_%D9%88%D8%A7%D9%84%D9%85%D9%85%D8%A7%D9%84%D9%83_(%D8%A7%D8%A8%D9%86_%D8%AE%D8%B1%D8%AF%D8%A7%D8%B0%D8%A8%D8%A9)"
+      },
+      "title": "كتاب المسالك والممالك",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "khordadbeh-book-of-roads-and-kingdoms"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 273,
+        "contentSha256": "c67c54ec1d0c03245139aa6e46bcd0a4889568ff90410a2ba0f40c305806b7f9",
+        "encoding": "gzip",
+        "path": "books/ar/sibawayh-kitab-sibawayh.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "89319492cf5ded9d7db87488294c2a6d7fabe189d3caedf25c16d4c4cee74997",
+        "sizeBytes": 628903,
+        "uncompressedSizeBytes": 2631792,
+        "wordCount": 272015
+      },
+      "author": "سيبويه",
+      "authorDeathYear": 797,
+      "editionId": "sibawayh-kitab-sibawayh.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 800,
+      "originalTitle": "الكتاب",
+      "rights": {
+        "statement": "Public domain worldwide. سيبويه died in 797 and the work was first published in 800. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "الكتاب (سيبويه)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:53:29.512174Z",
+        "revision": "498514",
+        "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8_(%D8%B3%D9%8A%D8%A8%D9%88%D9%8A%D9%87)"
+      },
+      "title": "الكتاب",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "sibawayh-kitab-sibawayh"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "0a7188e302ae8493497fea6816cec056f8f65b8eae544835221170c8509e58f4",
+        "encoding": "gzip",
+        "path": "books/ar/taymiyyah-as-sarim-al-maslul-ala-shatim-ar-rasul.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c3b1bd0c19d76bbddcde6cdf12ba8c391e6f661c6dffb8c5fbdc6ab7141ee1bb",
+        "sizeBytes": 325838,
+        "uncompressedSizeBytes": 1333854,
+        "wordCount": 147232
+      },
+      "author": "ابن تيمية",
+      "authorDeathYear": 1328,
+      "editionId": "taymiyyah-as-sarim-al-maslul-ala-shatim-ar-rasul.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 1294,
+      "originalTitle": "الصارم المسلول على شاتم الرسول",
+      "rights": {
+        "statement": "Public domain worldwide. ابن تيمية died in 1328 and the work was first published in 1294. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "الصارم المسلول على شاتم الرسول",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:53:37.046544Z",
+        "revision": "280552",
+        "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%B5%D8%A7%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%88%D9%84_%D8%B9%D9%84%D9%89_%D8%B4%D8%A7%D8%AA%D9%85_%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84"
+      },
+      "title": "الصارم المسلول على شاتم الرسول",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "taymiyyah-as-sarim-al-maslul-ala-shatim-ar-rasul"
+    }
+  ],
+  "direction": "rtl",
+  "englishName": "Arabic",
+  "language": "ar",
+  "manifestVersion": "c6b799d0062de476",
+  "nativeName": "العربية",
+  "schemaVersion": 1
+}

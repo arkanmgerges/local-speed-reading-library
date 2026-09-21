@@ -1,0 +1,231 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:18.285249Z",
+    "chapterCount": 38,
+    "contentSha256": "8a99a3e8516a3735a03609bbce853ec7d9004a95fd98b80eecd2bc0d3e784e28",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/verne-la-vuelta-al-mundo-en-80-dias.es.wikisource/v1/book.json.gz",
+    "sha256": "fa98dd15bca39d010ef492828b854dced6fce285b826db306c8941fe3e815cef",
+    "sizeBytes": 149437,
+    "uncompressedSizeBytes": 430586,
+    "wordCount": 65190
+  },
+  "edition": {
+    "editionId": "verne-la-vuelta-al-mundo-en-80-dias.es.wikisource",
+    "kind": "translation",
+    "language": "es",
+    "title": "La vuelta al mundo en 80 días",
+    "translationPublicationYear": 1885,
+    "translator": {
+      "birthYear": 1853,
+      "deathYear": 1902,
+      "name": "Vicente Guimerá",
+      "wikidata": "Q55838196"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1905: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1902: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1885: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1219561",
+      "https://www.wikidata.org/wiki/Q51954980",
+      "https://www.wikidata.org/wiki/Q33977",
+      "https://www.wikidata.org/wiki/Q55838196",
+      "https://es.wikisource.org/wiki/La_vuelta_al_mundo_en_ochenta_d%C3%ADas"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Julio Verne died in 1905; the translator Vicente Guimerá died in 1902 and this translation was first published in 1885. Source: es.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "La vuelta al mundo en ochenta días",
+    "pages": [
+      {
+        "revision": 1291170,
+        "title": "La vuelta al mundo en ochenta días"
+      },
+      {
+        "revision": 1291153,
+        "title": "La vuelta al mundo en ochenta días/Capítulo I"
+      },
+      {
+        "revision": 1291160,
+        "title": "La vuelta al mundo en ochenta días/Capítulo II"
+      },
+      {
+        "revision": 1291111,
+        "title": "La vuelta al mundo en ochenta días/Capítulo III"
+      },
+      {
+        "revision": 1291112,
+        "title": "La vuelta al mundo en ochenta días/Capítulo IV"
+      },
+      {
+        "revision": 1291114,
+        "title": "La vuelta al mundo en ochenta días/Capítulo V"
+      },
+      {
+        "revision": 1291115,
+        "title": "La vuelta al mundo en ochenta días/Capítulo VI"
+      },
+      {
+        "revision": 1291116,
+        "title": "La vuelta al mundo en ochenta días/Capítulo VII"
+      },
+      {
+        "revision": 1291117,
+        "title": "La vuelta al mundo en ochenta días/Capítulo VIII"
+      },
+      {
+        "revision": 1291113,
+        "title": "La vuelta al mundo en ochenta días/Capítulo IX"
+      },
+      {
+        "revision": 1291118,
+        "title": "La vuelta al mundo en ochenta días/Capítulo X"
+      },
+      {
+        "revision": 1291119,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XI"
+      },
+      {
+        "revision": 1291120,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XII"
+      },
+      {
+        "revision": 1291121,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XIII"
+      },
+      {
+        "revision": 1291122,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XIV"
+      },
+      {
+        "revision": 1291124,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XV"
+      },
+      {
+        "revision": 1291125,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XVI"
+      },
+      {
+        "revision": 1291126,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XVII"
+      },
+      {
+        "revision": 1291127,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XVIII"
+      },
+      {
+        "revision": 1291123,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XIX"
+      },
+      {
+        "revision": 1291128,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XX"
+      },
+      {
+        "revision": 1291129,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXI"
+      },
+      {
+        "revision": 1291130,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXII"
+      },
+      {
+        "revision": 1291131,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXIII"
+      },
+      {
+        "revision": 1291132,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXIV"
+      },
+      {
+        "revision": 1291134,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXV"
+      },
+      {
+        "revision": 1291135,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXVI"
+      },
+      {
+        "revision": 1291136,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXVII"
+      },
+      {
+        "revision": 1291137,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXVIII"
+      },
+      {
+        "revision": 1291133,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXIX"
+      },
+      {
+        "revision": 1321531,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXX"
+      },
+      {
+        "revision": 1321532,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXXI"
+      },
+      {
+        "revision": 1321534,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXXII"
+      },
+      {
+        "revision": 1291141,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXXIII"
+      },
+      {
+        "revision": 1291142,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXXIV"
+      },
+      {
+        "revision": 1291143,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXXV"
+      },
+      {
+        "revision": 1291144,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXXVI"
+      },
+      {
+        "revision": 1321535,
+        "title": "La vuelta al mundo en ochenta días/Capítulo XXXVII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:49:41.315160Z",
+    "revision": "1291170",
+    "site": "es.wikisource.org",
+    "url": "https://es.wikisource.org/wiki/La_vuelta_al_mundo_en_ochenta_d%C3%ADas"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1828,
+      "deathYear": 1905,
+      "name": "Julio Verne",
+      "wikidata": "Q33977"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1872,
+    "originalTitle": "La vuelta al mundo en 80 días",
+    "workId": "verne-la-vuelta-al-mundo-en-80-dias"
+  }
+}

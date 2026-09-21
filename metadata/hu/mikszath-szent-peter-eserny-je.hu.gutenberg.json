@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:58:55.276428Z",
+    "chapterCount": 18,
+    "contentSha256": "d24b3786601c5d223ab4a7cf6d9aefa90d95a892d2e94499372ec4d2397fa5b1",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hu/mikszath-szent-peter-eserny-je.hu.gutenberg/v1/book.json.gz",
+    "sha256": "b8f41d573c4934d615b05ebc295577ad3a7f98dc9612cfeddc7cc04149206767",
+    "sizeBytes": 156467,
+    "uncompressedSizeBytes": 402265,
+    "wordCount": 53051
+  },
+  "edition": {
+    "editionId": "mikszath-szent-peter-eserny-je.hu.gutenberg",
+    "kind": "original",
+    "language": "hu",
+    "title": "Szent Péter esernyője"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1910: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1895: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/68911",
+      "https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th",
+      "https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)",
+      "https://www.wikidata.org/wiki/Q1296683"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Kálmán Mikszáth died in 1910 and the work was first published in 1895. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "68911",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:36:06.953180Z",
+    "revision": "Thu, 27 Aug 2026 13:00:25 GMT",
+    "url": "https://www.gutenberg.org/ebooks/68911"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1847,
+      "deathYear": 1910,
+      "name": "Kálmán Mikszáth",
+      "wikidata": "Q350552"
+    },
+    "originalLanguage": "hu",
+    "originalPublicationYear": 1895,
+    "originalTitle": "Szent Péter esernyője",
+    "workId": "mikszath-szent-peter-eserny-je"
+  }
+}

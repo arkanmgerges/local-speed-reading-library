@@ -1,0 +1,103 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:52:36.148278Z",
+    "chapterCount": 6,
+    "contentSha256": "acbc680a47dbc84fbc66b551e6a1c5fb01382f811eb5b675fc416cdeb4881460",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/mill-om-friheden.da.wikisource/v1/book.json.gz",
+    "sha256": "6c62c50258cc172ac9cd39a6f3a8cc0e3c6e34e448d52fe334272492a0f42f64",
+    "sizeBytes": 102530,
+    "uncompressedSizeBytes": 301625,
+    "wordCount": 48160
+  },
+  "edition": {
+    "editionId": "mill-om-friheden.da.wikisource",
+    "kind": "translation",
+    "language": "da",
+    "title": "Om friheden",
+    "translationPublicationYear": 1876,
+    "translator": {
+      "birthYear": 1842,
+      "deathYear": 1893,
+      "name": "Vilhelm Arntzen",
+      "wikidata": "Q123694430"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1873: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1893: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1876: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1055881",
+      "https://www.wikidata.org/wiki/Q136418000",
+      "https://www.wikidata.org/wiki/Q50020",
+      "https://www.wikidata.org/wiki/Q123694430",
+      "https://da.wikisource.org/wiki/Om_Friheden_(1876)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. John Stuart Mill died in 1873; the translator Vilhelm Arntzen died in 1893 and this translation was first published in 1876. Source: da.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Om Friheden (1876)",
+    "pages": [
+      {
+        "revision": 481645,
+        "title": "Om Friheden (1876)"
+      },
+      {
+        "revision": 481594,
+        "title": "Om Friheden (1876)/Kapittel 1"
+      },
+      {
+        "revision": 481597,
+        "title": "Om Friheden (1876)/Kapittel 2"
+      },
+      {
+        "revision": 481604,
+        "title": "Om Friheden (1876)/Kapittel 3"
+      },
+      {
+        "revision": 481605,
+        "title": "Om Friheden (1876)/Kapittel 4"
+      },
+      {
+        "revision": 481607,
+        "title": "Om Friheden (1876)/Kapittel 5"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:22:56.069682Z",
+    "revision": "481645",
+    "site": "da.wikisource.org",
+    "url": "https://da.wikisource.org/wiki/Om_Friheden_(1876)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1806,
+      "deathYear": 1873,
+      "name": "John Stuart Mill",
+      "wikidata": "Q50020"
+    },
+    "originalLanguage": "en-gb",
+    "originalPublicationYear": 1859,
+    "originalTitle": "Om friheden",
+    "workId": "mill-om-friheden"
+  }
+}

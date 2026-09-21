@@ -1,12 +1,12 @@
 {
   "asset": {
-    "assetVersion": 1,
-    "builtAt": "2026-09-20T18:54:33.968534Z",
+    "assetVersion": 2,
+    "builtAt": "2026-09-21T06:34:04.390316Z",
     "chapterCount": 1,
-    "contentSha256": "a5ef09c4dad38d971cbced1bf2c3daa8139c55119bc24fbe295ecfbe742b7d07",
-    "normalizerVersion": "0.1.0",
-    "path": "books/ro/eminescu-sarmanul-dionis.ro.wikisource/v1/book.json.gz",
-    "sha256": "61660fb0d8cca68665d7450f08355ed9491e19595c7c34f4f7b9a0ac7fcb23fd",
+    "contentSha256": "d8919b2833a6dc456fa29bcaa654831f6b617c703ad11cbcf03a1b8cb5754d5e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/eminescu-sarmanul-dionis.ro.wikisource/v2/book.json.gz",
+    "sha256": "d2f00fb0944e34d5eca3dc8387f1dbd02228875239816cd4c6abd28f8a53fbe0",
     "sizeBytes": 36986,
     "uncompressedSizeBytes": 94063,
     "wordCount": 14921
@@ -23,7 +23,7 @@
     "Philosophy"
   ],
   "publish": {
-    "assetVersion": 1
+    "assetVersion": 2
   },
   "rights": {
     "basis": [

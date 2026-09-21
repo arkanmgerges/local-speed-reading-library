@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:59.795984Z",
+    "chapterCount": 2,
+    "contentSha256": "5246b3856167db100e9a3b858341038344b23d16c9443ecafcc3db420a24e24e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/de/sacher-masoch-venus-im-pelz.de.gutenberg/v1/book.json.gz",
+    "sha256": "c6526d0189a45c0aee6f9648aa1cb2ba3c50be7e85e3763bcbdb42721ef1611b",
+    "sizeBytes": 95506,
+    "uncompressedSizeBytes": 269675,
+    "wordCount": 39817
+  },
+  "edition": {
+    "editionId": "sacher-masoch-venus-im-pelz.de.gutenberg",
+    "kind": "original",
+    "language": "de",
+    "title": "Venus im Pelz"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1895: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1870: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/56156",
+      "https://en.wikipedia.org/wiki/Leopold_von_Sacher-Masoch",
+      "https://www.wikidata.org/wiki/Q677592"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Leopold Sacher-Masoch died in 1895 and the work was first published in 1870. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "56156",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:26:18.696269Z",
+    "revision": "Sat, 22 Aug 2026 14:28:28 GMT",
+    "url": "https://www.gutenberg.org/ebooks/56156"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1895,
+      "name": "Leopold Sacher-Masoch",
+      "wikidata": "Q78474"
+    },
+    "originalLanguage": "de",
+    "originalPublicationYear": 1870,
+    "originalTitle": "Venus im Pelz",
+    "workId": "sacher-masoch-venus-im-pelz"
+  }
+}

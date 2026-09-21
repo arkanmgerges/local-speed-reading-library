@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:36.514222Z",
+    "chapterCount": 8,
+    "contentSha256": "29847abdad170c2db80beaefd5d2d62a9f4864195e657437d60f9d4044f105a7",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/novalis-enric-d-ofterdingen.ca.wikisource/v1/book.json.gz",
+    "sha256": "ffd80553e0341ac05a4cd3ba2c294fa2e516f140d9dc6270d146856f0c9f3569",
+    "sizeBytes": 65721,
+    "uncompressedSizeBytes": 171008,
+    "wordCount": 29446
+  },
+  "edition": {
+    "editionId": "novalis-enric-d-ofterdingen.ca.wikisource",
+    "kind": "translation",
+    "language": "ca",
+    "title": "Enric d'Ofterdingen",
+    "translationPublicationYear": 1907,
+    "translator": {
+      "birthYear": 1860,
+      "deathYear": 1910,
+      "name": "Joan Maragall i Gorina",
+      "wikidata": "Q562402"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1801: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1910: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1907: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q58178849",
+      "https://www.wikidata.org/wiki/Q105714132",
+      "https://www.wikidata.org/wiki/Q60684",
+      "https://www.wikidata.org/wiki/Q562402",
+      "https://ca.wikisource.org/wiki/Enric_d'Ofterdingen_(1907)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Novalis died in 1801; the translator Joan Maragall i Gorina died in 1910 and this translation was first published in 1907. Source: ca.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Enric d'Ofterdingen (1907)",
+    "pages": [
+      {
+        "revision": 179595,
+        "title": "Enric d'Ofterdingen (1907)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:05:45.826979Z",
+    "revision": "179595",
+    "site": "ca.wikisource.org",
+    "url": "https://ca.wikisource.org/wiki/Enric_d'Ofterdingen_(1907)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1772,
+      "deathYear": 1801,
+      "name": "Novalis",
+      "wikidata": "Q60684"
+    },
+    "originalLanguage": "de",
+    "originalPublicationYear": 1802,
+    "originalTitle": "Enric d'Ofterdingen",
+    "workId": "novalis-enric-d-ofterdingen"
+  }
+}

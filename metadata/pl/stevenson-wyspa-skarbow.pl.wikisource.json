@@ -1,0 +1,251 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:03:48.877021Z",
+    "chapterCount": 47,
+    "contentSha256": "1d6bc2757c309100bcaf57520db5dfd642320b8394c79bd75a1d3babe691f0b0",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/stevenson-wyspa-skarbow.pl.wikisource/v1/book.json.gz",
+    "sha256": "af0fd06319925ee0ed7d098658819906adb3e85496c8d819543883f6406d18df",
+    "sizeBytes": 344015,
+    "uncompressedSizeBytes": 877674,
+    "wordCount": 122990
+  },
+  "edition": {
+    "editionId": "stevenson-wyspa-skarbow.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Wyspa skarbów",
+    "translationPublicationYear": 1930,
+    "translator": {
+      "birthYear": 1897,
+      "deathYear": 1939,
+      "name": "Józef Birkenmajer",
+      "wikidata": "Q11729949"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1894: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1939: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1930: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q185118",
+      "https://www.wikidata.org/wiki/Q88379663",
+      "https://www.wikidata.org/wiki/Q1512",
+      "https://www.wikidata.org/wiki/Q11729949",
+      "https://pl.wikisource.org/wiki/Wyspa_skarb%C3%B3w"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Robert Louis Stevenson died in 1894; the translator Józef Birkenmajer died in 1939 and this translation was first published in 1930. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Wyspa skarbów",
+    "pages": [
+      {
+        "revision": 3296581,
+        "title": "Wyspa skarbów"
+      },
+      {
+        "revision": 3296589,
+        "title": "Wyspa skarbów/Do wahającego się nabywcy"
+      },
+      {
+        "revision": 3296582,
+        "title": "Wyspa skarbów/Całość"
+      },
+      {
+        "revision": 3296583,
+        "title": "Wyspa skarbów/Część I"
+      },
+      {
+        "revision": 3296590,
+        "title": "Wyspa skarbów/Rozdział I"
+      },
+      {
+        "revision": 3296591,
+        "title": "Wyspa skarbów/Rozdział II"
+      },
+      {
+        "revision": 3296592,
+        "title": "Wyspa skarbów/Rozdział III"
+      },
+      {
+        "revision": 3296593,
+        "title": "Wyspa skarbów/Rozdział IV"
+      },
+      {
+        "revision": 3296595,
+        "title": "Wyspa skarbów/Rozdział V"
+      },
+      {
+        "revision": 3296596,
+        "title": "Wyspa skarbów/Rozdział VI"
+      },
+      {
+        "revision": 3296584,
+        "title": "Wyspa skarbów/Część II"
+      },
+      {
+        "revision": 3296597,
+        "title": "Wyspa skarbów/Rozdział VII"
+      },
+      {
+        "revision": 3296598,
+        "title": "Wyspa skarbów/Rozdział VIII"
+      },
+      {
+        "revision": 3296594,
+        "title": "Wyspa skarbów/Rozdział IX"
+      },
+      {
+        "revision": 3296599,
+        "title": "Wyspa skarbów/Rozdział X"
+      },
+      {
+        "revision": 3296600,
+        "title": "Wyspa skarbów/Rozdział XI"
+      },
+      {
+        "revision": 3296601,
+        "title": "Wyspa skarbów/Rozdział XII"
+      },
+      {
+        "revision": 3296585,
+        "title": "Wyspa skarbów/Część III"
+      },
+      {
+        "revision": 3296602,
+        "title": "Wyspa skarbów/Rozdział XIII"
+      },
+      {
+        "revision": 3296603,
+        "title": "Wyspa skarbów/Rozdział XIV"
+      },
+      {
+        "revision": 3296605,
+        "title": "Wyspa skarbów/Rozdział XV"
+      },
+      {
+        "revision": 3296586,
+        "title": "Wyspa skarbów/Część IV"
+      },
+      {
+        "revision": 3296606,
+        "title": "Wyspa skarbów/Rozdział XVI"
+      },
+      {
+        "revision": 3296607,
+        "title": "Wyspa skarbów/Rozdział XVII"
+      },
+      {
+        "revision": 3296608,
+        "title": "Wyspa skarbów/Rozdział XVIII"
+      },
+      {
+        "revision": 3296604,
+        "title": "Wyspa skarbów/Rozdział XIX"
+      },
+      {
+        "revision": 3296609,
+        "title": "Wyspa skarbów/Rozdział XX"
+      },
+      {
+        "revision": 3296610,
+        "title": "Wyspa skarbów/Rozdział XXI"
+      },
+      {
+        "revision": 3296587,
+        "title": "Wyspa skarbów/Część V"
+      },
+      {
+        "revision": 3296611,
+        "title": "Wyspa skarbów/Rozdział XXII"
+      },
+      {
+        "revision": 3296612,
+        "title": "Wyspa skarbów/Rozdział XXIII"
+      },
+      {
+        "revision": 3296613,
+        "title": "Wyspa skarbów/Rozdział XXIV"
+      },
+      {
+        "revision": 3296615,
+        "title": "Wyspa skarbów/Rozdział XXV"
+      },
+      {
+        "revision": 3296616,
+        "title": "Wyspa skarbów/Rozdział XXVI"
+      },
+      {
+        "revision": 3296617,
+        "title": "Wyspa skarbów/Rozdział XXVII"
+      },
+      {
+        "revision": 3296588,
+        "title": "Wyspa skarbów/Część VI"
+      },
+      {
+        "revision": 3296618,
+        "title": "Wyspa skarbów/Rozdział XXVIII"
+      },
+      {
+        "revision": 3296614,
+        "title": "Wyspa skarbów/Rozdział XXIX"
+      },
+      {
+        "revision": 3296619,
+        "title": "Wyspa skarbów/Rozdział XXX"
+      },
+      {
+        "revision": 3296620,
+        "title": "Wyspa skarbów/Rozdział XXXI"
+      },
+      {
+        "revision": 3296621,
+        "title": "Wyspa skarbów/Rozdział XXXII"
+      },
+      {
+        "revision": 3296622,
+        "title": "Wyspa skarbów/Rozdział XXXIII"
+      },
+      {
+        "revision": 3296623,
+        "title": "Wyspa skarbów/Rozdział XXXIV"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:28:54.936627Z",
+    "revision": "3296581",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Wyspa_skarb%C3%B3w"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1850,
+      "deathYear": 1894,
+      "name": "Robert Louis Stevenson",
+      "wikidata": "Q1512"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1883,
+    "originalTitle": "Wyspa skarbów",
+    "workId": "stevenson-wyspa-skarbow"
+  }
+}

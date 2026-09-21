@@ -1,0 +1,85 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:24.248973Z",
+    "chapterCount": 5,
+    "contentSha256": "dcc9832814c0e0e0441680b7a065b5a37cab4a7dd3dca4273313a2f423b02099",
+    "normalizerVersion": "0.2.0",
+    "path": "books/su/lasminingrat-warnasari-atawa-rupa-rupa-dongeng.su.wikisource/v1/book.json.gz",
+    "sha256": "1863fa24e57e3e4132358a7f671af711066b24587c31a71f3dbe9987de93f65c",
+    "sizeBytes": 169148,
+    "uncompressedSizeBytes": 599494,
+    "wordCount": 56636
+  },
+  "edition": {
+    "editionId": "lasminingrat-warnasari-atawa-rupa-rupa-dongeng.su.wikisource",
+    "kind": "original",
+    "language": "su",
+    "title": "Warnasari atawa rupa-rupa dongeng"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1948: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1876: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q65338129",
+      "https://www.wikidata.org/wiki/Q12494030",
+      "https://su.wikisource.org/wiki/Warnasari"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Lasminingrat died in 1948 and the work was first published in 1876. Source: su.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Warnasari",
+    "pages": [
+      {
+        "revision": 27660,
+        "title": "Warnasari"
+      },
+      {
+        "revision": 47304,
+        "title": "Warnasari/Jilid 1"
+      },
+      {
+        "revision": 44333,
+        "title": "Warnasari/Jilid 2"
+      },
+      {
+        "revision": 44336,
+        "title": "Warnasari/Jilid 3"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:57:58.555663Z",
+    "revision": "27660",
+    "site": "su.wikisource.org",
+    "url": "https://su.wikisource.org/wiki/Warnasari"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1854,
+      "deathYear": 1948,
+      "name": "Lasminingrat",
+      "wikidata": "Q12494030"
+    },
+    "originalLanguage": "su",
+    "originalPublicationYear": 1876,
+    "originalTitle": "Warnasari atawa rupa-rupa dongeng",
+    "workId": "lasminingrat-warnasari-atawa-rupa-rupa-dongeng"
+  }
+}

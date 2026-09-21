@@ -3,12 +3,399 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 24,
-        "contentSha256": "c9131c7e06000ad5ec4c2f3d7f9631c33a23953c0b13d99ffcd1d21a05eb06d2",
+        "chapterCount": 92,
+        "contentSha256": "09b3551c727673bdf589b7e3c8e2a8865f475824c539c5b3fa3f9745c48c7684",
         "encoding": "gzip",
-        "path": "books/en/haggard-king-solomons-mines.en.gutenberg/v1/book.json.gz",
+        "path": "books/en/aesop-the-fables-of-sop.en.wikisource/v1/book.json.gz",
         "schemaVersion": 1,
-        "sha256": "3377d494e5f3220b969bfecc2f0078ab1838581cbf86c8e6e32201e472e5743e",
+        "sha256": "294a1c429f2277a07d8dd7dd36bb1b6ba40bfad0d57c9c03e68e40228ae964db",
+        "sizeBytes": 36970,
+        "uncompressedSizeBytes": 111353,
+        "wordCount": 16133
+      },
+      "author": "Aesop",
+      "authorDeathYear": -563,
+      "editionId": "aesop-the-fables-of-sop.en.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "en",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "The Fables of Æsop",
+      "rights": {
+        "statement": "Public domain worldwide. Aesop died in -563; the translator Joseph Jacobs died in 1916 and this translation was first published in 1894. Source: en.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "The Fables of Æsop (Jacobs)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:32:54.295888Z",
+        "revision": "14278603",
+        "url": "https://en.wikisource.org/wiki/The_Fables_of_%C3%86sop_(Jacobs)"
+      },
+      "title": "The Fables of Æsop",
+      "translationPublicationYear": 1894,
+      "translator": "Joseph Jacobs",
+      "translatorDeathYear": 1916,
+      "workId": "aesop-the-fables-of-sop"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 9,
+        "contentSha256": "e593539b362b8b8ad448435a33980acff05eb1dda034c02a563e66c6ebff5479",
+        "encoding": "gzip",
+        "path": "books/en/aristotle-aristotle.en.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c51104a966fc54b3bde6785816f30f8641783c74a0e378de7f4940cd5bdaa934",
+        "sizeBytes": 31426,
+        "uncompressedSizeBytes": 88825,
+        "wordCount": 15405
+      },
+      "author": "Aristotle",
+      "authorDeathYear": -321,
+      "editionId": "aristotle-aristotle.en.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "en",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Aristotle: On the Art of Poetry",
+      "rights": {
+        "statement": "Public domain worldwide. Aristotle died in -321; the translator Ingram Bywater died in 1914 and this translation was first published in 1909. Source: en.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Poetics (Bywater)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:33:00.071980Z",
+        "revision": "15996871",
+        "url": "https://en.wikisource.org/wiki/Poetics_(Bywater)"
+      },
+      "title": "Aristotle: On the Art of Poetry",
+      "translationPublicationYear": 1909,
+      "translator": "Ingram Bywater",
+      "translatorDeathYear": 1914,
+      "workId": "aristotle-aristotle"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 113,
+        "contentSha256": "9b90b7eaa701c826990412e6003901331ae2b58805d94ae0ff35379943e53e91",
+        "encoding": "gzip",
+        "path": "books/en/aristotle-nicomachean-ethics.en.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "85452202deedeea63aa9db26267ad107ef78a164afc2188dcbc93ee5dda05b8a",
+        "sizeBytes": 184551,
+        "uncompressedSizeBytes": 588062,
+        "wordCount": 100736
+      },
+      "author": "Aristotle",
+      "authorDeathYear": -321,
+      "editionId": "aristotle-nicomachean-ethics.en.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "en",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Nicomachean Ethics",
+      "rights": {
+        "statement": "Public domain worldwide. Aristotle died in -321; the translator Drummond Percy Chase died in 1902 and this translation was first published in 1911. Source: en.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Nicomachean Ethics (Chase)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:33:21.274336Z",
+        "revision": "15993953",
+        "url": "https://en.wikisource.org/wiki/Nicomachean_Ethics_(Chase)"
+      },
+      "title": "Nicomachean Ethics",
+      "translationPublicationYear": 1911,
+      "translator": "Drummond Percy Chase",
+      "translatorDeathYear": 1902,
+      "workId": "aristotle-nicomachean-ethics"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 63,
+        "contentSha256": "fe6f42cf5c1751f682928d7d14a75fc867d7b7174011ac45b3127830cd5c1fc6",
+        "encoding": "gzip",
+        "path": "books/en/austen-pride-and-prejudice.en.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a2686a773aa3cdf4024f032506354cd702cd51f7d45b29bfe3a2d46bf8abcdd8",
+        "sizeBytes": 254175,
+        "uncompressedSizeBytes": 746125,
+        "wordCount": 125905
+      },
+      "author": "Jane Austen",
+      "authorDeathYear": 1817,
+      "editionId": "austen-pride-and-prejudice.en.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "en",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1813,
+      "originalTitle": "Pride and Prejudice",
+      "rights": {
+        "statement": "Public domain worldwide. Jane Austen died in 1817 and the work was first published in 1813. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "1342",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:33:25.959060Z",
+        "revision": "Wed, 02 Sep 2026 00:00:23 GMT",
+        "url": "https://www.gutenberg.org/ebooks/1342"
+      },
+      "title": "Pride and Prejudice",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "austen-pride-and-prejudice"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "d317bf0af26bed706bb83393afaa4a1cb02d1d8004cb6a51e5ae5b3f7734815e",
+        "encoding": "gzip",
+        "path": "books/en/caesar-caesar-s-commentaries-on-the-gallic-war.en.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "51db242f092115abee7e513eac58862141d3262bf558d10b7793b618db065be9",
+        "sizeBytes": 69375,
+        "uncompressedSizeBytes": 200241,
+        "wordCount": 33815
+      },
+      "author": "Julius Caesar",
+      "authorDeathYear": -43,
+      "editionId": "caesar-caesar-s-commentaries-on-the-gallic-war.en.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Biography"
+      ],
+      "kind": "translation",
+      "language": "en",
+      "originalLanguage": "la",
+      "originalPublicationYear": -57,
+      "originalTitle": "Caesar's Commentaries on the Gallic War",
+      "rights": {
+        "statement": "Public domain worldwide. Julius Caesar died in -43; the translator T. Rice Holmes died in 1933 and this translation was first published in 1908. Source: en.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Caesar's Commentaries on the Gallic War (Holmes 1908)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:33:45.603285Z",
+        "revision": "15999171",
+        "url": "https://en.wikisource.org/wiki/Caesar's_Commentaries_on_the_Gallic_War_(Holmes_1908)"
+      },
+      "title": "Caesar's Commentaries on the Gallic War",
+      "translationPublicationYear": 1908,
+      "translator": "T. Rice Holmes",
+      "translatorDeathYear": 1933,
+      "workId": "caesar-caesar-s-commentaries-on-the-gallic-war"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "106ab203a9470b20ae382a6e4cbba0debad09c43ff7e7cd73ca73fc9138eabf2",
+        "encoding": "gzip",
+        "path": "books/en/doyle-the-adventures-of-sherlock-holmes.en.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "bc0d32927ae8a124b5a390be1ad2ca6fbbd56f4bfe36514f675b6cebe414119a",
+        "sizeBytes": 214068,
+        "uncompressedSizeBytes": 602121,
+        "wordCount": 104364
+      },
+      "author": "Arthur Conan Doyle",
+      "authorDeathYear": 1930,
+      "editionId": "doyle-the-adventures-of-sherlock-holmes.en.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "en",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1892,
+      "originalTitle": "The Adventures of Sherlock Holmes",
+      "rights": {
+        "statement": "Public domain worldwide. Arthur Conan Doyle died in 1930 and the work was first published in 1892. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "1661",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:33:59.288627Z",
+        "revision": "Tue, 01 Sep 2026 14:33:55 GMT",
+        "url": "https://www.gutenberg.org/ebooks/1661"
+      },
+      "title": "The Adventures of Sherlock Holmes",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "doyle-the-adventures-of-sherlock-holmes"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 102,
+        "contentSha256": "cea0f8d170e28116bd907f023e97d25f71a1e28a2ef2472432018e1d9c09f647",
+        "encoding": "gzip",
+        "path": "books/en/elder-the-history-of-the-world.en.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8999dc32f4af68a588ed6f1128fc079072641153d7b93474656b13ffdd03aed9",
+        "sizeBytes": 78909,
+        "uncompressedSizeBytes": 221712,
+        "wordCount": 37300
+      },
+      "author": "Pliny the Elder",
+      "authorDeathYear": 79,
+      "editionId": "elder-the-history-of-the-world.en.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "en",
+      "originalLanguage": "la",
+      "originalPublicationYear": null,
+      "originalTitle": "The History of the World",
+      "rights": {
+        "statement": "Public domain worldwide. Pliny the Elder died in 79; the translator Philemon Holland died in 1637 and this translation was first published in 1847. Source: en.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "The Natural History of Pliny (Holland)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:34:05.549320Z",
+        "revision": "15738460",
+        "url": "https://en.wikisource.org/wiki/The_Natural_History_of_Pliny_(Holland)"
+      },
+      "title": "The History of the World",
+      "translationPublicationYear": 1847,
+      "translator": "Philemon Holland",
+      "translatorDeathYear": 1637,
+      "workId": "elder-the-history-of-the-world"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 35,
+        "contentSha256": "52ef3db7bef2447367d8443b5679f09fd10324d3fc8c8c17e2be06039107ecb0",
+        "encoding": "gzip",
+        "path": "books/en/flaubert-madame-bovary.en.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7a5673f25d61096999f47db1b4e8c8c6cb4f9b209c024d28726d80052d22e86f",
+        "sizeBytes": 255799,
+        "uncompressedSizeBytes": 690305,
+        "wordCount": 115332
+      },
+      "author": "Gustave Flaubert",
+      "authorDeathYear": 1880,
+      "editionId": "flaubert-madame-bovary.en.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "en",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1857,
+      "originalTitle": "Madame Bovary",
+      "rights": {
+        "statement": "Public domain worldwide. Gustave Flaubert died in 1880; the translator Eleanor Marx died in 1898 and this translation was first published in 1886. Source: en.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Madame Bovary (Marx-Aveling translation)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:35:03.926296Z",
+        "revision": "15581709",
+        "url": "https://en.wikisource.org/wiki/Madame_Bovary_(Marx-Aveling_translation)"
+      },
+      "title": "Madame Bovary",
+      "translationPublicationYear": 1886,
+      "translator": "Eleanor Marx",
+      "translatorDeathYear": 1898,
+      "workId": "flaubert-madame-bovary"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 17,
+        "contentSha256": "9987b9bd2213cf614d4ebff0763777ff72aa3605f846823894fc38e0a503b4b9",
+        "encoding": "gzip",
+        "path": "books/en/gogol-dead-souls-a-poem.en.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1c9ae4e09131f56612ed5e1b8cb01d7c13c40d0b6766189ec694c012049e38b1",
+        "sizeBytes": 318301,
+        "uncompressedSizeBytes": 882401,
+        "wordCount": 153843
+      },
+      "author": "Nikolai Gogol",
+      "authorDeathYear": 1852,
+      "editionId": "gogol-dead-souls-a-poem.en.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "en",
+      "originalLanguage": "ru",
+      "originalPublicationYear": 1842,
+      "originalTitle": "Dead Souls—A Poem",
+      "rights": {
+        "statement": "Public domain worldwide. Nikolai Gogol died in 1852; the translator Constance Garnett died in 1946 and this translation was first published in 1922. Source: en.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Dead Souls—A Poem",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:35:35.052615Z",
+        "revision": "10804149",
+        "url": "https://en.wikisource.org/wiki/Dead_Souls%E2%80%94A_Poem"
+      },
+      "title": "Dead Souls—A Poem",
+      "translationPublicationYear": 1922,
+      "translator": "Constance Garnett",
+      "translatorDeathYear": 1946,
+      "workId": "gogol-dead-souls-a-poem"
+    },
+    {
+      "asset": {
+        "assetVersion": 2,
+        "chapterCount": 24,
+        "contentSha256": "b690c6365ba89019d178ee90ed39776e65372a7cbc7ec590a5898a0cea93a184",
+        "encoding": "gzip",
+        "path": "books/en/haggard-king-solomons-mines.en.gutenberg/v2/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1ae5a082a59f196d9fbbbe67c072133c12cf5b81d492ce3e0d6d3564717fee8f",
         "sizeBytes": 167811,
         "uncompressedSizeBytes": 463712,
         "wordCount": 81257
@@ -46,13 +433,99 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 76,
-        "contentSha256": "94a36f163c0a29965f4b89920cfd79a028b7f3b690ba8f833e684de859050037",
+        "chapterCount": 9,
+        "contentSha256": "c89823d9673958cf6cb6eca902df7b2fc6aa843b52f27c97467a8435a46a1df0",
         "encoding": "gzip",
-        "path": "books/en/olcott-a-field-book-of-the-stars.en.gutenberg/v1/book.json.gz",
+        "path": "books/en/herodotus-the-history-of-herodotus.en.wikisource/v1/book.json.gz",
         "schemaVersion": 1,
-        "sha256": "af3c5e348748768b5a06a74f8b8bc1154c96eb798ad3f5b64346e458d6fd425d",
-        "sizeBytes": 43724,
+        "sha256": "12e1d5179f69a37d2c7ef26a73d13b0fac8fb64cf2d17397d148b0106fa66470",
+        "sizeBytes": 533053,
+        "uncompressedSizeBytes": 1523090,
+        "wordCount": 268653
+      },
+      "author": "Herodotus",
+      "authorDeathYear": -424,
+      "editionId": "herodotus-the-history-of-herodotus.en.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "en",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "The History of Herodotus",
+      "rights": {
+        "statement": "Public domain worldwide. Herodotus died in -424; the translator George Rawlinson died in 1902 and this translation was first published in 1910. Source: en.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "The History of Herodotus (Rawlinson)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:35:54.448581Z",
+        "revision": "6389297",
+        "url": "https://en.wikisource.org/wiki/The_History_of_Herodotus_(Rawlinson)"
+      },
+      "title": "The History of Herodotus",
+      "translationPublicationYear": 1910,
+      "translator": "George Rawlinson",
+      "translatorDeathYear": 1902,
+      "workId": "herodotus-the-history-of-herodotus"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 140,
+        "contentSha256": "3b4a2723c662afcdc17c1c1f805fd3dae4099f50d6e1fbf3cdc0e0f35be1a706",
+        "encoding": "gzip",
+        "path": "books/en/melville-moby-dick.en.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "74bce720f06d3539a8a015bb4b0bb6c5ed6254d45f53f016479f822265c792a9",
+        "sizeBytes": 484540,
+        "uncompressedSizeBytes": 1258254,
+        "wordCount": 210303
+      },
+      "author": "Herman Melville",
+      "authorDeathYear": 1891,
+      "editionId": "melville-moby-dick.en.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "en",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1851,
+      "originalTitle": "Moby Dick; Or, The Whale",
+      "rights": {
+        "statement": "Public domain worldwide. Herman Melville died in 1891 and the work was first published in 1851. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "2701",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:36:06.981934Z",
+        "revision": "Mon, 07 Sep 2026 18:01:03 GMT",
+        "url": "https://www.gutenberg.org/ebooks/2701"
+      },
+      "title": "Moby Dick; Or, The Whale",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "melville-moby-dick"
+    },
+    {
+      "asset": {
+        "assetVersion": 2,
+        "chapterCount": 76,
+        "contentSha256": "311949f6481324ff8f5f4574580e396bf5305833f63f44ea5807aaa34fbeb332",
+        "encoding": "gzip",
+        "path": "books/en/olcott-a-field-book-of-the-stars.en.gutenberg/v2/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "021aa56d2f3891f1eca41570d86db3a5c35dc1e589ec2e488806c9a51128daf7",
+        "sizeBytes": 43723,
         "uncompressedSizeBytes": 139314,
         "wordCount": 20489
       },
@@ -90,13 +563,99 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 24,
-        "contentSha256": "1789bad0883236edafc660d4c01f2218c09753d73d251d12f4cb7bdcf811a780",
+        "chapterCount": 15,
+        "contentSha256": "1f4d810bfb967682c693e6a903eb12b837c40cae0386c16cfd5dae7bce9c2c78",
         "encoding": "gzip",
-        "path": "books/en/strachey-eminent-victorians.en.gutenberg/v1/book.json.gz",
+        "path": "books/en/plato-the-republic-of-plato.en.wikisource/v1/book.json.gz",
         "schemaVersion": 1,
-        "sha256": "18763f019b01e9e53f026f99f190d6b9e491b626a63f1f1ecb6bc1f7b73eee53",
-        "sizeBytes": 217568,
+        "sha256": "861b15a3e6d8e11e6bdb213a1d24a37607240483cf918bcf932c6b4d65ccf37b",
+        "sizeBytes": 297329,
+        "uncompressedSizeBytes": 896193,
+        "wordCount": 153662
+      },
+      "author": "Plato",
+      "authorDeathYear": -348,
+      "editionId": "plato-the-republic-of-plato.en.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "en",
+      "originalLanguage": "grc",
+      "originalPublicationYear": 1963,
+      "originalTitle": "The Republic of Plato",
+      "rights": {
+        "statement": "Public domain worldwide. Plato died in -348; the translator Benjamin Jowett died in 1893 and this translation was first published in 1901. Source: en.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "The Republic of Plato",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:36:32.750994Z",
+        "revision": "13342062",
+        "url": "https://en.wikisource.org/wiki/The_Republic_of_Plato"
+      },
+      "title": "The Republic of Plato",
+      "translationPublicationYear": 1901,
+      "translator": "Benjamin Jowett",
+      "translatorDeathYear": 1893,
+      "workId": "plato-the-republic-of-plato"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 57,
+        "contentSha256": "55632567170b174360f478d7156deab6cb81a895d2da0093fcba44cb30de536f",
+        "encoding": "gzip",
+        "path": "books/en/radcliffe-the-mysteries-of-udolpho.en.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1343f06559dd06e0e483d9061f52683007056104cdc6de72533cdc7cd705195a",
+        "sizeBytes": 591704,
+        "uncompressedSizeBytes": 1736803,
+        "wordCount": 290034
+      },
+      "author": "Ann Ward Radcliffe",
+      "authorDeathYear": 1823,
+      "editionId": "radcliffe-the-mysteries-of-udolpho.en.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "en",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1794,
+      "originalTitle": "The Mysteries of Udolpho",
+      "rights": {
+        "statement": "Public domain worldwide. Ann Ward Radcliffe died in 1823 and the work was first published in 1794. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "3268",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:36:40.867799Z",
+        "revision": "Wed, 02 Sep 2026 10:41:14 GMT",
+        "url": "https://www.gutenberg.org/ebooks/3268"
+      },
+      "title": "The Mysteries of Udolpho",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "radcliffe-the-mysteries-of-udolpho"
+    },
+    {
+      "asset": {
+        "assetVersion": 2,
+        "chapterCount": 24,
+        "contentSha256": "2ac350282adb5c2d90296d3ab2b77b595d4e2a29320dc5c9fc8ec9644ba059bc",
+        "encoding": "gzip",
+        "path": "books/en/strachey-eminent-victorians.en.gutenberg/v2/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "98c4e504ff1e59a1dae2a4d34524102e8c61dde4442932d05f841be157f923bf",
+        "sizeBytes": 217567,
         "uncompressedSizeBytes": 585163,
         "wordCount": 98445
       },
@@ -130,12 +689,184 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "strachey-eminent-victorians"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 48,
+        "contentSha256": "8f76b54ac8df88620495f9ff22fd1008e9751cf940cde47a984980f80b2fded3",
+        "encoding": "gzip",
+        "path": "books/en/sturluson-the-younger-edda.en.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e023f3f038d23a7c105255223dd4618c909dd25520a838255c4d115e86f25047",
+        "sizeBytes": 107448,
+        "uncompressedSizeBytes": 299686,
+        "wordCount": 51968
+      },
+      "author": "Snorri Sturluson",
+      "authorDeathYear": 1241,
+      "editionId": "sturluson-the-younger-edda.en.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "en",
+      "originalLanguage": "non",
+      "originalPublicationYear": null,
+      "originalTitle": "The Younger Edda",
+      "rights": {
+        "statement": "Public domain worldwide. Snorri Sturluson died in 1241; the translator Rasmus Bjørn Anderson died in 1936 and this translation was first published in 1880. Source: en.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "The Younger Edda (tr. Anderson)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:38:14.403197Z",
+        "revision": "14123641",
+        "url": "https://en.wikisource.org/wiki/The_Younger_Edda_(tr._Anderson)"
+      },
+      "title": "The Younger Edda",
+      "translationPublicationYear": 1880,
+      "translator": "Rasmus Bjørn Anderson",
+      "translatorDeathYear": 1936,
+      "workId": "sturluson-the-younger-edda"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 47,
+        "contentSha256": "1f2569f257ceeb905547c6d71f8d8d6dc698b98d6e5ebbc8fd5abb50a684c22a",
+        "encoding": "gzip",
+        "path": "books/en/vatsyayana-the-kama-sutra-of-vatsyayana.en.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "fe88f3cbdd6083a78a343f97ddb665620c1b33a2c6a542a65d557f3fe188d1d0",
+        "sizeBytes": 103577,
+        "uncompressedSizeBytes": 333872,
+        "wordCount": 55658
+      },
+      "author": "Vātsyāyana",
+      "authorDeathYear": 500,
+      "editionId": "vatsyayana-the-kama-sutra-of-vatsyayana.en.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "en",
+      "originalLanguage": "sa",
+      "originalPublicationYear": null,
+      "originalTitle": "The Kama Sutra of Vatsyayana",
+      "rights": {
+        "statement": "Public domain worldwide. Vātsyāyana died in 500; the translator Richard Francis Burton died in 1890 and this translation was first published in 1883. Source: en.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Kama Sutra (Burton)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:39:23.314250Z",
+        "revision": "15262787",
+        "url": "https://en.wikisource.org/wiki/Kama_Sutra_(Burton)"
+      },
+      "title": "The Kama Sutra of Vatsyayana",
+      "translationPublicationYear": 1883,
+      "translator": "Richard Francis Burton",
+      "translatorDeathYear": 1890,
+      "workId": "vatsyayana-the-kama-sutra-of-vatsyayana"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 42,
+        "contentSha256": "913fe924664b510d3ec1a034465556ba188b7cf588b813e809b7b9a72fddeca2",
+        "encoding": "gzip",
+        "path": "books/en/verne-around-the-world-in-eighty-days.en.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "38621f27a4e5bd9cd3424527d3bfc743b80f55e266e5c7716b5cdf37d0d3cb20",
+        "sizeBytes": 140992,
+        "uncompressedSizeBytes": 405538,
+        "wordCount": 64323
+      },
+      "author": "Jules Verne",
+      "authorDeathYear": 1905,
+      "editionId": "verne-around-the-world-in-eighty-days.en.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "en",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1872,
+      "originalTitle": "Around the World in Eighty Days",
+      "rights": {
+        "statement": "Public domain worldwide. Jules Verne died in 1905; the translator George Makepeace Towle died in 1893 and this translation was first published in 1873. Source: en.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Around the World in Eighty Days (Towle)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:40:19.354777Z",
+        "revision": "13924989",
+        "url": "https://en.wikisource.org/wiki/Around_the_World_in_Eighty_Days_(Towle)"
+      },
+      "title": "Around the World in Eighty Days",
+      "translationPublicationYear": 1873,
+      "translator": "George Makepeace Towle",
+      "translatorDeathYear": 1893,
+      "workId": "verne-around-the-world-in-eighty-days"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 62,
+        "contentSha256": "b721ea90829166b6554e448014d66ac80b2df320bc4b674faff7128b4de3d925",
+        "encoding": "gzip",
+        "path": "books/en/verne-the-mysterious-island.en.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8832f4bdd6da81a2fb9af3e89fe3c37d42c48f3cdb44ea5f7a4283e10f8ec19a",
+        "sizeBytes": 390504,
+        "uncompressedSizeBytes": 1179820,
+        "wordCount": 193238
+      },
+      "author": "Jules Verne",
+      "authorDeathYear": 1905,
+      "editionId": "verne-the-mysterious-island.en.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "en",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1888,
+      "originalTitle": "The Mysterious Island",
+      "rights": {
+        "statement": "Public domain worldwide. Jules Verne died in 1905; the translator Agnes Kinloch Kingston died in 1913 and this translation was first published in 1874. Source: en.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "The Mysterious Island",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:41:46.655970Z",
+        "revision": "15421571",
+        "url": "https://en.wikisource.org/wiki/The_Mysterious_Island"
+      },
+      "title": "The Mysterious Island",
+      "translationPublicationYear": 1874,
+      "translator": "Agnes Kinloch Kingston",
+      "translatorDeathYear": 1913,
+      "workId": "verne-the-mysterious-island"
     }
   ],
   "direction": "ltr",
   "englishName": "English",
   "language": "en",
-  "manifestVersion": "fe0c58252de02d9b",
+  "manifestVersion": "6431e96c4d5f7022",
   "nativeName": "English",
   "schemaVersion": 1
 }

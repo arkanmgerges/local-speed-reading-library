@@ -1,0 +1,201 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:31:55.822686Z",
+    "chapterCount": 31,
+    "contentSha256": "6988468229e18936099a82c33a0cd95546274aeb1bb982a68f8903249eb85b6a",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/hamsun-markens-grode.no.wikisource/v1/book.json.gz",
+    "sha256": "9d1679a4e0dc76ebfb840391ae7381b800354245f14d0d3908e69da0a9ca98b3",
+    "sizeBytes": 244822,
+    "uncompressedSizeBytes": 676016,
+    "wordCount": 121700
+  },
+  "edition": {
+    "editionId": "hamsun-markens-grode.no.wikisource",
+    "kind": "original",
+    "language": "no",
+    "title": "Markens Grøde"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1952: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1917: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q2266122",
+      "https://www.wikidata.org/wiki/Q40826",
+      "https://no.wikisource.org/wiki/Markens_Gr%C3%B8de"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Knut Hamsun died in 1952 and the work was first published in 1917. Source: no.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Markens Grøde",
+    "pages": [
+      {
+        "revision": 330717,
+        "title": "Markens Grøde"
+      },
+      {
+        "revision": 329891,
+        "title": "Markens Grøde/1/01"
+      },
+      {
+        "revision": 329890,
+        "title": "Markens Grøde/1/02"
+      },
+      {
+        "revision": 329892,
+        "title": "Markens Grøde/1/03"
+      },
+      {
+        "revision": 329893,
+        "title": "Markens Grøde/1/04"
+      },
+      {
+        "revision": 329894,
+        "title": "Markens Grøde/1/05"
+      },
+      {
+        "revision": 329895,
+        "title": "Markens Grøde/1/06"
+      },
+      {
+        "revision": 329896,
+        "title": "Markens Grøde/1/07"
+      },
+      {
+        "revision": 329897,
+        "title": "Markens Grøde/1/08"
+      },
+      {
+        "revision": 329898,
+        "title": "Markens Grøde/1/09"
+      },
+      {
+        "revision": 329899,
+        "title": "Markens Grøde/1/10"
+      },
+      {
+        "revision": 329900,
+        "title": "Markens Grøde/1/11"
+      },
+      {
+        "revision": 329901,
+        "title": "Markens Grøde/1/12"
+      },
+      {
+        "revision": 329902,
+        "title": "Markens Grøde/1/13"
+      },
+      {
+        "revision": 329903,
+        "title": "Markens Grøde/1/14"
+      },
+      {
+        "revision": 329904,
+        "title": "Markens Grøde/1/15"
+      },
+      {
+        "revision": 329905,
+        "title": "Markens Grøde/1/16"
+      },
+      {
+        "revision": 329906,
+        "title": "Markens Grøde/1/17"
+      },
+      {
+        "revision": 329907,
+        "title": "Markens Grøde/1/18"
+      },
+      {
+        "revision": 329908,
+        "title": "Markens Grøde/1/19"
+      },
+      {
+        "revision": 330181,
+        "title": "Markens Grøde/2/00"
+      },
+      {
+        "revision": 330163,
+        "title": "Markens Grøde/2/01"
+      },
+      {
+        "revision": 330165,
+        "title": "Markens Grøde/2/02"
+      },
+      {
+        "revision": 330167,
+        "title": "Markens Grøde/2/03"
+      },
+      {
+        "revision": 330168,
+        "title": "Markens Grøde/2/04"
+      },
+      {
+        "revision": 330169,
+        "title": "Markens Grøde/2/05"
+      },
+      {
+        "revision": 330170,
+        "title": "Markens Grøde/2/06"
+      },
+      {
+        "revision": 330171,
+        "title": "Markens Grøde/2/07"
+      },
+      {
+        "revision": 330172,
+        "title": "Markens Grøde/2/08"
+      },
+      {
+        "revision": 330173,
+        "title": "Markens Grøde/2/09"
+      },
+      {
+        "revision": 330174,
+        "title": "Markens Grøde/2/10"
+      },
+      {
+        "revision": 330175,
+        "title": "Markens Grøde/2/11"
+      },
+      {
+        "revision": 330176,
+        "title": "Markens Grøde/2/12"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:17:06.822720Z",
+    "revision": "330717",
+    "site": "no.wikisource.org",
+    "url": "https://no.wikisource.org/wiki/Markens_Gr%C3%B8de"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1859,
+      "deathYear": 1952,
+      "name": "Knut Hamsun",
+      "wikidata": "Q40826"
+    },
+    "originalLanguage": "no",
+    "originalPublicationYear": 1917,
+    "originalTitle": "Markens Grøde",
+    "workId": "hamsun-markens-grode"
+  }
+}

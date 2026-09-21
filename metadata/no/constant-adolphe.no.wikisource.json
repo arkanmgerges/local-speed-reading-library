@@ -1,0 +1,139 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:02:42.452556Z",
+    "chapterCount": 14,
+    "contentSha256": "bf62d953505d3cba27fa515920628bc5e4b38a0abcd9820829ca4cf128fa0480",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/constant-adolphe.no.wikisource/v1/book.json.gz",
+    "sha256": "358bb5ac8ae8a00de03f66f61200babc854ecc046db14d85d681c6cbf7619c2e",
+    "sizeBytes": 70811,
+    "uncompressedSizeBytes": 200186,
+    "wordCount": 32775
+  },
+  "edition": {
+    "editionId": "constant-adolphe.no.wikisource",
+    "kind": "translation",
+    "language": "no",
+    "title": "Adolphe",
+    "translationPublicationYear": 1894,
+    "translator": {
+      "birthYear": 1869,
+      "deathYear": 1925,
+      "name": "Hjalmar Christensen",
+      "wikidata": "Q1803750"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1830: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1925: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1894: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1605244",
+      "https://www.wikidata.org/wiki/Q133273212",
+      "https://www.wikidata.org/wiki/Q123089",
+      "https://www.wikidata.org/wiki/Q1803750",
+      "https://no.wikisource.org/wiki/Adolphe"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Benjamin Constant died in 1830; the translator Hjalmar Christensen died in 1925 and this translation was first published in 1894. Source: no.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Adolphe",
+    "pages": [
+      {
+        "revision": 319950,
+        "title": "Adolphe"
+      },
+      {
+        "revision": 247251,
+        "title": "Adolphe/00"
+      },
+      {
+        "revision": 247252,
+        "title": "Adolphe/01"
+      },
+      {
+        "revision": 247253,
+        "title": "Adolphe/02"
+      },
+      {
+        "revision": 247254,
+        "title": "Adolphe/03"
+      },
+      {
+        "revision": 247255,
+        "title": "Adolphe/04"
+      },
+      {
+        "revision": 247256,
+        "title": "Adolphe/05"
+      },
+      {
+        "revision": 247257,
+        "title": "Adolphe/06"
+      },
+      {
+        "revision": 247258,
+        "title": "Adolphe/07"
+      },
+      {
+        "revision": 247259,
+        "title": "Adolphe/08"
+      },
+      {
+        "revision": 247260,
+        "title": "Adolphe/09"
+      },
+      {
+        "revision": 247261,
+        "title": "Adolphe/10"
+      },
+      {
+        "revision": 247328,
+        "title": "Adolphe/11"
+      },
+      {
+        "revision": 247263,
+        "title": "Adolphe/12"
+      },
+      {
+        "revision": 247264,
+        "title": "Adolphe/13"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:14:19.166658Z",
+    "revision": "319950",
+    "site": "no.wikisource.org",
+    "url": "https://no.wikisource.org/wiki/Adolphe"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1767,
+      "deathYear": 1830,
+      "name": "Benjamin Constant",
+      "wikidata": "Q123089"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1816,
+    "originalTitle": "Adolphe",
+    "workId": "constant-adolphe"
+  }
+}

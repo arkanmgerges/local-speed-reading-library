@@ -1,0 +1,77 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:02:27.417561Z",
+    "chapterCount": 81,
+    "contentSha256": "f2595fe45888f2bc256e73e468e1665f4ff835d8ac6320c33275e7697a4654fc",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/thackeray-pendennis.nl.gutenberg/v1/book.json.gz",
+    "sha256": "9ea017c9c9f555108afa11325729537a649dbc5a42aeb3c0de4d4f17d9dfc70a",
+    "sizeBytes": 845312,
+    "uncompressedSizeBytes": 2343752,
+    "wordCount": 378739
+  },
+  "edition": {
+    "editionId": "thackeray-pendennis.nl.gutenberg",
+    "kind": "translation",
+    "language": "nl",
+    "title": "Geschiedenis van Arthur Pendennis : $b Zijn voor- en tegenspoed, zijn vrienden en zijn grootsten vijand",
+    "translationPublicationYear": 1870,
+    "translator": {
+      "birthYear": 1819,
+      "deathYear": 1877,
+      "name": "M. P. Lindo",
+      "wikidata": "Q2305299"
+    }
+  },
+  "genres": [
+    "Fiction",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1863: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1877: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation printed 1870 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/77583",
+      "https://en.wikipedia.org/wiki/William_Makepeace_Thackeray",
+      "https://www.wikidata.org/wiki/Q7162382",
+      "https://en.wikipedia.org/wiki/Mark_Prager_Lindo",
+      "https://nl.wikipedia.org/wiki/Mark_Prager_Lindo"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. William Makepeace Thackeray died in 1863; the translator M. P. Lindo died in 1877 and this translation was printed in 1870. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "77583",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:10:12.271218Z",
+    "revision": "Sun, 30 Aug 2026 21:14:04 GMT",
+    "url": "https://www.gutenberg.org/ebooks/77583"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1811,
+      "deathYear": 1863,
+      "name": "William Makepeace Thackeray",
+      "wikidata": "Q167768"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1850,
+    "originalTitle": "Pendennis",
+    "workId": "thackeray-pendennis"
+  }
+}

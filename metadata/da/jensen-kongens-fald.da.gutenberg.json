@@ -1,0 +1,68 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:17.877788Z",
+    "chapterCount": 43,
+    "contentSha256": "b9c0fce14df5e33ddac6a6866bd5a1228d65ee3e7b5f0903694c57ae3fbc13b8",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/jensen-kongens-fald.da.gutenberg/v1/book.json.gz",
+    "sha256": "4deb9e0199e95074f5a59cb1bfa86d7cfba2b36edb5fd3a03ffd54d39d3e46d7",
+    "sizeBytes": 156935,
+    "uncompressedSizeBytes": 414703,
+    "wordCount": 70544
+  },
+  "edition": {
+    "editionId": "jensen-kongens-fald.da.gutenberg",
+    "kind": "original",
+    "language": "da",
+    "title": "Kongens Fald"
+  },
+  "genres": [
+    "Fiction",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1950: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1901: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/36942",
+      "https://en.wikipedia.org/wiki/Johannes_V._Jensen",
+      "https://da.wikipedia.org/wiki/Johannes_V._Jensen",
+      "https://www.wikidata.org/wiki/Q1758876"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Johannes V. Jensen died in 1950 and the work was first published in 1901. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "36942",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:21:24.895282Z",
+    "revision": "Tue, 15 Sep 2026 09:42:29 GMT",
+    "url": "https://www.gutenberg.org/ebooks/36942"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1873,
+      "deathYear": 1950,
+      "name": "Johannes V. Jensen",
+      "wikidata": "Q159552"
+    },
+    "originalLanguage": "da",
+    "originalPublicationYear": 1901,
+    "originalTitle": "Kongens Fald",
+    "workId": "jensen-kongens-fald"
+  }
+}

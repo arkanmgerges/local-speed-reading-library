@@ -1,0 +1,109 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:40.260773Z",
+    "chapterCount": 13,
+    "contentSha256": "477ab3234c0e8055ab3d587594c44e6c794e479ef8aa8e893e6b0682f2169da5",
+    "normalizerVersion": "0.2.0",
+    "path": "books/te/veeraswamayya-kasiyatra-charitra.te.wikisource/v1/book.json.gz",
+    "sha256": "0f82ce4b26c56f2ad99518a8496510db9c53da8da7b7603bee1a15afc5a3d829",
+    "sizeBytes": 136997,
+    "uncompressedSizeBytes": 736401,
+    "wordCount": 31377
+  },
+  "edition": {
+    "editionId": "veeraswamayya-kasiyatra-charitra.te.wikisource",
+    "kind": "original",
+    "language": "te",
+    "title": "కాశీయాత్ర చరిత్ర"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1836: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1838: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q15692476",
+      "https://www.wikidata.org/wiki/Q12992313",
+      "https://te.wikisource.org/wiki/%E0%B0%95%E0%B0%BE%E0%B0%B6%E0%B1%80%E0%B0%AF%E0%B0%BE%E0%B0%A4%E0%B1%8D%E0%B0%B0_%E0%B0%9A%E0%B0%B0%E0%B0%BF%E0%B0%A4%E0%B1%8D%E0%B0%B0"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ఏనుగుల వీరాస్వామయ్య died in 1836 and the work was first published in 1838. Source: te.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "కాశీయాత్ర చరిత్ర",
+    "pages": [
+      {
+        "revision": 580261,
+        "title": "కాశీయాత్ర చరిత్ర"
+      },
+      {
+        "revision": 92659,
+        "title": "కాశీయాత్ర చరిత్ర/పీఠిక"
+      },
+      {
+        "revision": 134591,
+        "title": "కాశీయాత్ర చరిత్ర/పద్దెనిమిదవ ప్రకరణము"
+      },
+      {
+        "revision": 134594,
+        "title": "కాశీయాత్ర చరిత్ర/పందొమ్మిదవ ప్రకరణము"
+      },
+      {
+        "revision": 134597,
+        "title": "కాశీయాత్ర చరిత్ర/ఇరువదియవ ప్రకరణము"
+      },
+      {
+        "revision": 134600,
+        "title": "కాశీయాత్ర చరిత్ర/ఇరువది ఒకటవ ప్రకరణము"
+      },
+      {
+        "revision": 134603,
+        "title": "కాశీయాత్ర చరిత్ర/ఇరువది రెండవ ప్రకరణము"
+      },
+      {
+        "revision": 134639,
+        "title": "కాశీయాత్ర చరిత్ర/ఇరువది మూడవ ప్రకరణము"
+      },
+      {
+        "revision": 134641,
+        "title": "కాశీయాత్ర చరిత్ర/ఇరువది నాలుగవ ప్రకరణము"
+      },
+      {
+        "revision": 134642,
+        "title": "కాశీయాత్ర చరిత్ర/ఇరువది ఐదవ ప్రకరణము"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:17:54.165725Z",
+    "revision": "580261",
+    "site": "te.wikisource.org",
+    "url": "https://te.wikisource.org/wiki/%E0%B0%95%E0%B0%BE%E0%B0%B6%E0%B1%80%E0%B0%AF%E0%B0%BE%E0%B0%A4%E0%B1%8D%E0%B0%B0_%E0%B0%9A%E0%B0%B0%E0%B0%BF%E0%B0%A4%E0%B1%8D%E0%B0%B0"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1780,
+      "deathYear": 1836,
+      "name": "ఏనుగుల వీరాస్వామయ్య",
+      "wikidata": "Q12992313"
+    },
+    "originalLanguage": "te",
+    "originalPublicationYear": 1838,
+    "originalTitle": "కాశీయాత్ర చరిత్ర",
+    "workId": "veeraswamayya-kasiyatra-charitra"
+  }
+}

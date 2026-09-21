@@ -1,0 +1,147 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:03:31.827052Z",
+    "chapterCount": 17,
+    "contentSha256": "4c0d361d364fef2bb96c79f0e06f8369feee5f0f5e9fe81d88856c0d4b204e7c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/doyle-tajemnica-baskerville-ow.pl.wikisource/v1/book.json.gz",
+    "sha256": "6c3346cd318215643dece906801e5996b28c130f2184934149aaa3a5de7e39c8",
+    "sizeBytes": 188792,
+    "uncompressedSizeBytes": 507106,
+    "wordCount": 71741
+  },
+  "edition": {
+    "editionId": "doyle-tajemnica-baskerville-ow.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Tajemnica Baskerville’ów",
+    "translationPublicationYear": 1902,
+    "translator": {
+      "birthYear": 1865,
+      "deathYear": 1923,
+      "name": "Eugenia Żmijewska",
+      "wikidata": "Q11697269"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1923: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1902: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q45192",
+      "https://www.wikidata.org/wiki/Q19670033",
+      "https://www.wikidata.org/wiki/Q35610",
+      "https://www.wikidata.org/wiki/Q11697269",
+      "https://pl.wikisource.org/wiki/Tajemnica_Baskerville%E2%80%99%C3%B3w"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Arthur Conan Doyle died in 1930; the translator Eugenia Żmijewska died in 1923 and this translation was first published in 1902. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Tajemnica Baskerville’ów",
+    "pages": [
+      {
+        "revision": 3290055,
+        "title": "Tajemnica Baskerville’ów"
+      },
+      {
+        "revision": 3290056,
+        "title": "Tajemnica Baskerville’ów/I"
+      },
+      {
+        "revision": 3290071,
+        "title": "Tajemnica Baskerville’ów/całość"
+      },
+      {
+        "revision": 3290057,
+        "title": "Tajemnica Baskerville’ów/II"
+      },
+      {
+        "revision": 3290058,
+        "title": "Tajemnica Baskerville’ów/III"
+      },
+      {
+        "revision": 3290059,
+        "title": "Tajemnica Baskerville’ów/IV"
+      },
+      {
+        "revision": 3290061,
+        "title": "Tajemnica Baskerville’ów/V"
+      },
+      {
+        "revision": 3290062,
+        "title": "Tajemnica Baskerville’ów/VI"
+      },
+      {
+        "revision": 3290063,
+        "title": "Tajemnica Baskerville’ów/VII"
+      },
+      {
+        "revision": 3290064,
+        "title": "Tajemnica Baskerville’ów/VIII"
+      },
+      {
+        "revision": 3290060,
+        "title": "Tajemnica Baskerville’ów/IX"
+      },
+      {
+        "revision": 3290065,
+        "title": "Tajemnica Baskerville’ów/X"
+      },
+      {
+        "revision": 3290066,
+        "title": "Tajemnica Baskerville’ów/XI"
+      },
+      {
+        "revision": 3290067,
+        "title": "Tajemnica Baskerville’ów/XII"
+      },
+      {
+        "revision": 3290068,
+        "title": "Tajemnica Baskerville’ów/XIII"
+      },
+      {
+        "revision": 3290069,
+        "title": "Tajemnica Baskerville’ów/XIV"
+      },
+      {
+        "revision": 3290070,
+        "title": "Tajemnica Baskerville’ów/XV"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:23:59.633824Z",
+    "revision": "3290055",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Tajemnica_Baskerville%E2%80%99%C3%B3w"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1859,
+      "deathYear": 1930,
+      "name": "Arthur Conan Doyle",
+      "wikidata": "Q35610"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1902,
+    "originalTitle": "Tajemnica Baskerville’ów",
+    "workId": "doyle-tajemnica-baskerville-ow"
+  }
+}

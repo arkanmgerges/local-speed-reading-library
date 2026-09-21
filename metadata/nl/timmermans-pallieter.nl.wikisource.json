@@ -1,0 +1,133 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:31:33.372882Z",
+    "chapterCount": 15,
+    "contentSha256": "a6e182ff1dfca9e32797c81c7ae0a69cb27ebde1e3fb20ca3ad1dd0e28df0d89",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/timmermans-pallieter.nl.wikisource/v1/book.json.gz",
+    "sha256": "b3bf08b3a035780d177eac8777944e41b71f586bcfb3cdeb4aac0591fe1fa525",
+    "sizeBytes": 65353,
+    "uncompressedSizeBytes": 178327,
+    "wordCount": 28491
+  },
+  "edition": {
+    "editionId": "timmermans-pallieter.nl.wikisource",
+    "kind": "original",
+    "language": "nl",
+    "title": "Pallieter"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1947: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1916: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q21465365",
+      "https://www.wikidata.org/wiki/Q713284",
+      "https://nl.wikisource.org/wiki/Pallieter"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Felix Timmermans died in 1947 and the work was first published in 1916. Source: nl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Pallieter",
+    "pages": [
+      {
+        "revision": 168869,
+        "title": "Pallieter"
+      },
+      {
+        "revision": 187290,
+        "title": "Pallieter/I"
+      },
+      {
+        "revision": 187291,
+        "title": "Pallieter/II"
+      },
+      {
+        "revision": 187292,
+        "title": "Pallieter/III"
+      },
+      {
+        "revision": 187293,
+        "title": "Pallieter/IV"
+      },
+      {
+        "revision": 187294,
+        "title": "Pallieter/V"
+      },
+      {
+        "revision": 187295,
+        "title": "Pallieter/VI"
+      },
+      {
+        "revision": 187296,
+        "title": "Pallieter/VII"
+      },
+      {
+        "revision": 187297,
+        "title": "Pallieter/VIII"
+      },
+      {
+        "revision": 187298,
+        "title": "Pallieter/IX"
+      },
+      {
+        "revision": 187299,
+        "title": "Pallieter/X"
+      },
+      {
+        "revision": 187300,
+        "title": "Pallieter/XI"
+      },
+      {
+        "revision": 187301,
+        "title": "Pallieter/XII"
+      },
+      {
+        "revision": 187302,
+        "title": "Pallieter/XIII"
+      },
+      {
+        "revision": 187303,
+        "title": "Pallieter/XIV"
+      },
+      {
+        "revision": 187304,
+        "title": "Pallieter/XV"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:10:40.381642Z",
+    "revision": "168869",
+    "site": "nl.wikisource.org",
+    "url": "https://nl.wikisource.org/wiki/Pallieter"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1886,
+      "deathYear": 1947,
+      "name": "Felix Timmermans",
+      "wikidata": "Q713284"
+    },
+    "originalLanguage": "nl",
+    "originalPublicationYear": 1916,
+    "originalTitle": "Pallieter",
+    "workId": "timmermans-pallieter"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:23:36.386923Z",
+    "chapterCount": 5,
+    "contentSha256": "352a99285ce3ab6b708f72494f221ae3dc2c495be782d26676e05f48e1c817f5",
+    "normalizerVersion": "0.2.0",
+    "path": "books/el/rhoides-pg27760.el.gutenberg/v1/book.json.gz",
+    "sha256": "7ac0fac3f66e0909f6e783ed6b25f6af8d923f01eae0688b1ed2dd39b410d6f1",
+    "sizeBytes": 243757,
+    "uncompressedSizeBytes": 858411,
+    "wordCount": 81784
+  },
+  "edition": {
+    "editionId": "rhoides-pg27760.el.gutenberg",
+    "kind": "original",
+    "language": "el",
+    "title": "Η Πάπισσα Ιωάννα"
+  },
+  "genres": [
+    "Fiction",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1904: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1866: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/27760",
+      "https://el.wikipedia.org/wiki/%CE%95%CE%BC%CE%BC%CE%B1%CE%BD%CE%BF%CF%85%CE%AE%CE%BB_%CE%A1%CE%BF%CE%90%CE%B4%CE%B7%CF%82",
+      "https://en.wikipedia.org/wiki/Rhoides",
+      "https://www.wikidata.org/wiki/Q15706857"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Emmanouel D. Rhoides died in 1904 and the work was first published in 1866. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "27760",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:30:39.754775Z",
+    "revision": "Fri, 11 Sep 2026 14:31:36 GMT",
+    "url": "https://www.gutenberg.org/ebooks/27760"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1904,
+      "name": "Emmanouel D. Rhoides",
+      "wikidata": "Q211350"
+    },
+    "originalLanguage": "el",
+    "originalPublicationYear": 1866,
+    "originalTitle": "Η Πάπισσα Ιωάννα",
+    "workId": "rhoides-pg27760"
+  }
+}

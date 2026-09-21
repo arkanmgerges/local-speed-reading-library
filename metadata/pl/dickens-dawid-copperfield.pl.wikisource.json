@@ -1,0 +1,171 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:03:18.084572Z",
+    "chapterCount": 23,
+    "contentSha256": "c09e08f82b67dc72504264c67fa0fc9268d6ceadb888fc5f4830110c5e9dd15e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/dickens-dawid-copperfield.pl.wikisource/v1/book.json.gz",
+    "sha256": "47393804d604c95e8dce6e03ec613834484fc32d4ca46bff79efd06d220d3f8a",
+    "sizeBytes": 320501,
+    "uncompressedSizeBytes": 883619,
+    "wordCount": 126026
+  },
+  "edition": {
+    "editionId": "dickens-dawid-copperfield.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Dawid Copperfield",
+    "translationPublicationYear": 1927,
+    "translator": {
+      "birthYear": 1855,
+      "deathYear": 1925,
+      "name": "Cecylia Niewiadomska",
+      "wikidata": "Q3593982"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1870: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1925: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1927: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q189811",
+      "https://www.wikidata.org/wiki/Q59220303",
+      "https://www.wikidata.org/wiki/Q5686",
+      "https://www.wikidata.org/wiki/Q3593982",
+      "https://pl.wikisource.org/wiki/Dawid_Copperfield"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Cecylia Niewiadomska died in 1925 and this translation was first published in 1927. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Dawid Copperfield",
+    "pages": [
+      {
+        "revision": 3912679,
+        "title": "Dawid Copperfield"
+      },
+      {
+        "revision": 3912680,
+        "title": "Dawid Copperfield/I"
+      },
+      {
+        "revision": 3912695,
+        "title": "Dawid Copperfield/całość"
+      },
+      {
+        "revision": 3912681,
+        "title": "Dawid Copperfield/II"
+      },
+      {
+        "revision": 3915201,
+        "title": "Dawid Copperfield/III"
+      },
+      {
+        "revision": 3912682,
+        "title": "Dawid Copperfield/IV"
+      },
+      {
+        "revision": 3912684,
+        "title": "Dawid Copperfield/V"
+      },
+      {
+        "revision": 3912685,
+        "title": "Dawid Copperfield/VI"
+      },
+      {
+        "revision": 3915189,
+        "title": "Dawid Copperfield/VII"
+      },
+      {
+        "revision": 3912686,
+        "title": "Dawid Copperfield/VIII"
+      },
+      {
+        "revision": 3912683,
+        "title": "Dawid Copperfield/IX"
+      },
+      {
+        "revision": 3915202,
+        "title": "Dawid Copperfield/X"
+      },
+      {
+        "revision": 3915203,
+        "title": "Dawid Copperfield/XI"
+      },
+      {
+        "revision": 3912687,
+        "title": "Dawid Copperfield/XII"
+      },
+      {
+        "revision": 3912688,
+        "title": "Dawid Copperfield/XIII"
+      },
+      {
+        "revision": 3912689,
+        "title": "Dawid Copperfield/XIV"
+      },
+      {
+        "revision": 3912691,
+        "title": "Dawid Copperfield/XV"
+      },
+      {
+        "revision": 3912692,
+        "title": "Dawid Copperfield/XVI"
+      },
+      {
+        "revision": 3912693,
+        "title": "Dawid Copperfield/XVII"
+      },
+      {
+        "revision": 3915204,
+        "title": "Dawid Copperfield/XVIII"
+      },
+      {
+        "revision": 3912690,
+        "title": "Dawid Copperfield/XIX"
+      },
+      {
+        "revision": 3912694,
+        "title": "Dawid Copperfield/XX"
+      },
+      {
+        "revision": 3915788,
+        "title": "Dawid Copperfield/XXI"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:22:44.560838Z",
+    "revision": "3912679",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Dawid_Copperfield"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1812,
+      "deathYear": 1870,
+      "name": "Charles Dickens",
+      "wikidata": "Q5686"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1850,
+    "originalTitle": "Dawid Copperfield",
+    "workId": "dickens-dawid-copperfield"
+  }
+}

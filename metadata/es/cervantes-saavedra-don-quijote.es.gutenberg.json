@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:24:40.908527Z",
+    "chapterCount": 137,
+    "contentSha256": "4388bcfdd01e7ff1964971786e39bc3af4612794a1bf82020747bdf0d49b336e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/cervantes-saavedra-don-quijote.es.gutenberg/v1/book.json.gz",
+    "sha256": "a69bb6f67dda6b658c1e07f8a03cf4f957bee591aa7ca73c4b583e24a607a972",
+    "sizeBytes": 778430,
+    "uncompressedSizeBytes": 2218243,
+    "wordCount": 381731
+  },
+  "edition": {
+    "editionId": "cervantes-saavedra-don-quijote.es.gutenberg",
+    "kind": "original",
+    "language": "es",
+    "title": "Don Quijote"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1616: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1605: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/2000",
+      "https://en.wikipedia.org/wiki/Miguel_de_Cervantes",
+      "https://es.wikipedia.org/wiki/Miguel_de_Cervantes",
+      "https://www.wikidata.org/wiki/Q480"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Miguel de Cervantes Saavedra died in 1616 and the work was first published in 1605. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "2000",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:43:50.578821Z",
+    "revision": "Tue, 01 Sep 2026 15:37:56 GMT",
+    "url": "https://www.gutenberg.org/ebooks/2000"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1547,
+      "deathYear": 1616,
+      "name": "Miguel de Cervantes Saavedra",
+      "wikidata": "Q5682"
+    },
+    "originalLanguage": "es",
+    "originalPublicationYear": 1605,
+    "originalTitle": "Don Quijote",
+    "workId": "cervantes-saavedra-don-quijote"
+  }
+}

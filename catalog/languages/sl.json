@@ -1,0 +1,827 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 10,
+        "contentSha256": "f3bb53900da9b998cc5464bd2e6a72e89e79e089074a608ef109390ba3d82541",
+        "encoding": "gzip",
+        "path": "books/sl/cankar-gospa-judit.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4838bede33872df7be1ffb307bcc420f04a050c4c1f029e87e50141b267039da",
+        "sizeBytes": 65482,
+        "uncompressedSizeBytes": 172026,
+        "wordCount": 28829
+      },
+      "author": "Ivan Cankar",
+      "authorDeathYear": 1918,
+      "editionId": "cankar-gospa-judit.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1904,
+      "originalTitle": "Gospa Judit",
+      "rights": {
+        "statement": "Public domain worldwide. Ivan Cankar died in 1918 and the work was first published in 1904. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Gospa Judit",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:55:33.444470Z",
+        "revision": "161518",
+        "url": "https://sl.wikisource.org/wiki/Gospa_Judit"
+      },
+      "title": "Gospa Judit",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "cankar-gospa-judit"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 10,
+        "contentSha256": "a5ba97810983b77395a7d3f259894f785d02eb7a42bea24e954278448b436e89",
+        "encoding": "gzip",
+        "path": "books/sl/cankar-hisa-marije-pomocnice.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "43d3159092c140c7cf1c50fc6d0db77c81b964d511a46d2710b679479d7a1b90",
+        "sizeBytes": 64056,
+        "uncompressedSizeBytes": 178080,
+        "wordCount": 30189
+      },
+      "author": "Ivan Cankar",
+      "authorDeathYear": 1918,
+      "editionId": "cankar-hisa-marije-pomocnice.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1904,
+      "originalTitle": "Hiša Marije Pomočnice",
+      "rights": {
+        "statement": "Public domain worldwide. Ivan Cankar died in 1918 and the work was first published in 1904. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Hiša Marije Pomočnice",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:55:35.624900Z",
+        "revision": "224526",
+        "url": "https://sl.wikisource.org/wiki/Hi%C5%A1a_Marije_Pomo%C4%8Dnice"
+      },
+      "title": "Hiša Marije Pomočnice",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "cankar-hisa-marije-pomocnice"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 10,
+        "contentSha256": "141c1092b39c7c2d889c5f1560777f97d07b25e5df05ae8b5d954ea7b70d0625",
+        "encoding": "gzip",
+        "path": "books/sl/cankar-martin-kacur.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "88759039dcacb3b48111341d93b7719eb25322e2969602de10509f5a756e7835",
+        "sizeBytes": 90488,
+        "uncompressedSizeBytes": 252209,
+        "wordCount": 40859
+      },
+      "author": "Ivan Cankar",
+      "authorDeathYear": 1918,
+      "editionId": "cankar-martin-kacur.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1906,
+      "originalTitle": "Martin Kačur",
+      "rights": {
+        "statement": "Public domain worldwide. Ivan Cankar died in 1918 and the work was first published in 1906. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Martin Kačur",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:55:38.069075Z",
+        "revision": "219949",
+        "url": "https://sl.wikisource.org/wiki/Martin_Ka%C4%8Dur"
+      },
+      "title": "Martin Kačur",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "cankar-martin-kacur"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 9,
+        "contentSha256": "9dbc0fafec3461b034dcecdf6111f2f65e4efbcce300418288e4a8f999ec4737",
+        "encoding": "gzip",
+        "path": "books/sl/cankar-na-klancu.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c359d44a88d4f51b0ea5ffb4b9d95cdf14634966b9378729b2965e83fbb3993e",
+        "sizeBytes": 123956,
+        "uncompressedSizeBytes": 344027,
+        "wordCount": 59730
+      },
+      "author": "Ivan Cankar",
+      "authorDeathYear": 1918,
+      "editionId": "cankar-na-klancu.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1902,
+      "originalTitle": "Na klancu",
+      "rights": {
+        "statement": "Public domain worldwide. Ivan Cankar died in 1918 and the work was first published in 1902. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Na klancu",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:55:40.579038Z",
+        "revision": "221375",
+        "url": "https://sl.wikisource.org/wiki/Na_klancu"
+      },
+      "title": "Na klancu",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "cankar-na-klancu"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 45,
+        "contentSha256": "9eae44b696672fe618ca0926ef441a2eaf9a66276e1f447188685af5c4d6ae6c",
+        "encoding": "gzip",
+        "path": "books/sl/cankar-za-kriyem.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c7a4d65b0e77eced9b12c0142b08dc3a5cba413bb759711513a715ab5e63dfc9",
+        "sizeBytes": 119365,
+        "uncompressedSizeBytes": 341010,
+        "wordCount": 55541
+      },
+      "author": "Ivan Cankar",
+      "authorDeathYear": 1918,
+      "editionId": "cankar-za-kriyem.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1909,
+      "originalTitle": "Za križem",
+      "rights": {
+        "statement": "Public domain worldwide. Ivan Cankar died in 1918 and the work was first published in 1909. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Za križem",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:55:43.534286Z",
+        "revision": "110171",
+        "url": "https://sl.wikisource.org/wiki/Za_kri%C5%BEem"
+      },
+      "title": "Za križem",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "cankar-za-kriyem"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 26,
+        "contentSha256": "e6387421ad18528b52486e83018d7f9692cd7936c987b3ee9b270089397165b2",
+        "encoding": "gzip",
+        "path": "books/sl/jurcic-deseti-brat.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e98521b5ae8a2a8fe9290d4848fe44fe72b383ce28e27847e8af3129e550fd8b",
+        "sizeBytes": 154547,
+        "uncompressedSizeBytes": 401453,
+        "wordCount": 66841
+      },
+      "author": "Josip Jurčič",
+      "authorDeathYear": 1881,
+      "editionId": "jurcic-deseti-brat.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1866,
+      "originalTitle": "Deseti brat",
+      "rights": {
+        "statement": "Public domain worldwide. Josip Jurčič died in 1881 and the work was first published in 1866. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Deseti brat (Josip Jurčič)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:55:46.599059Z",
+        "revision": "220583",
+        "url": "https://sl.wikisource.org/wiki/Deseti_brat_(Josip_Jur%C4%8Di%C4%8D)"
+      },
+      "title": "Deseti brat",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "jurcic-deseti-brat"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 21,
+        "contentSha256": "8162c50b47932b9b14a37302bc3d7dfed0faa8fb8f214fe80f1ed2fd78dc86af",
+        "encoding": "gzip",
+        "path": "books/sl/jurcic-ivan-erazem-tatenbah.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "346c61a44a74980a674cbe776ce1fb10f75f18108d49203684b17e808f1367a0",
+        "sizeBytes": 57406,
+        "uncompressedSizeBytes": 145034,
+        "wordCount": 22617
+      },
+      "author": "Josip Jurčič",
+      "authorDeathYear": 1881,
+      "editionId": "jurcic-ivan-erazem-tatenbah.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1873,
+      "originalTitle": "Ivan Erazem Tatenbah",
+      "rights": {
+        "statement": "Public domain worldwide. Josip Jurčič died in 1881 and the work was first published in 1873. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Ivan Erazem Tatenbah",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:55:51.214421Z",
+        "revision": "142982",
+        "url": "https://sl.wikisource.org/wiki/Ivan_Erazem_Tatenbah"
+      },
+      "title": "Ivan Erazem Tatenbah",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "jurcic-ivan-erazem-tatenbah"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 32,
+        "contentSha256": "1882b12da1ab3b9d94cae2c00c424086d67033a44284bb7e6ccf2dadba4e3adc",
+        "encoding": "gzip",
+        "path": "books/sl/jurcic-med-dvema-stoloma.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b98f3f448f12ff39d05d34f8873f7e42553bf95379314e45b7946f020c818c86",
+        "sizeBytes": 52722,
+        "uncompressedSizeBytes": 135956,
+        "wordCount": 21634
+      },
+      "author": "Josip Jurčič",
+      "authorDeathYear": 1881,
+      "editionId": "jurcic-med-dvema-stoloma.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1876,
+      "originalTitle": "Med dvema stoloma",
+      "rights": {
+        "statement": "Public domain worldwide. Josip Jurčič died in 1881 and the work was first published in 1876. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Med dvema stoloma",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:55:55.523008Z",
+        "revision": "170623",
+        "url": "https://sl.wikisource.org/wiki/Med_dvema_stoloma"
+      },
+      "title": "Med dvema stoloma",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "jurcic-med-dvema-stoloma"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 25,
+        "contentSha256": "5b0d4fa64649078b082cbbaf9ea74e44ea303effdc9eed1864a1ac80f0475e5d",
+        "encoding": "gzip",
+        "path": "books/sl/jurcic-rokovnjaci.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d7e3e65d66c1c622550ab83657b3bd9e0725fbf09bef9b9b0f181472bb9d8475",
+        "sizeBytes": 118445,
+        "uncompressedSizeBytes": 304734,
+        "wordCount": 49320
+      },
+      "author": "Josip Jurčič",
+      "authorDeathYear": 1881,
+      "editionId": "jurcic-rokovnjaci.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1881,
+      "originalTitle": "Rokovnjači",
+      "rights": {
+        "statement": "Public domain worldwide. Josip Jurčič died in 1881 and the work was first published in 1881. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Rokovnjači",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:55:57.848143Z",
+        "revision": "199118",
+        "url": "https://sl.wikisource.org/wiki/Rokovnja%C4%8Di"
+      },
+      "title": "Rokovnjači",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "jurcic-rokovnjaci"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 17,
+        "contentSha256": "3a2cc12ddee3fcc94f1c97caf055d2346fe72b43021a5b5f891292d57ecf9adf",
+        "encoding": "gzip",
+        "path": "books/sl/jurcic-slovenski-svetec-in-ucitelj.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a84d2f293bfc596136db13dd93199fc4caf3368d0b5c3ef415360b5f2a0033c3",
+        "sizeBytes": 100575,
+        "uncompressedSizeBytes": 259304,
+        "wordCount": 41915
+      },
+      "author": "Josip Jurčič",
+      "authorDeathYear": 1881,
+      "editionId": "jurcic-slovenski-svetec-in-ucitelj.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1886,
+      "originalTitle": "Slovenski svetec in učitelj",
+      "rights": {
+        "statement": "Public domain worldwide. Josip Jurčič died in 1881 and the work was first published in 1886. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Slovenski svetec in učitelj",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:56:00.624767Z",
+        "revision": "55982",
+        "url": "https://sl.wikisource.org/wiki/Slovenski_svetec_in_u%C4%8Ditelj"
+      },
+      "title": "Slovenski svetec in učitelj",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "jurcic-slovenski-svetec-in-ucitelj"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 17,
+        "contentSha256": "bc92e65b755c81e0de8d5f5ddfdf3b4d6de696c006f5ed363eadc056ed7541f5",
+        "encoding": "gzip",
+        "path": "books/sl/kersnik-ciklamen.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "bfe1a39b55abf32430d5a4f903d15e44721b2965c0bfdb147fd70ac24fce0008",
+        "sizeBytes": 90548,
+        "uncompressedSizeBytes": 239754,
+        "wordCount": 37493
+      },
+      "author": "Janko Kersnik",
+      "authorDeathYear": 1897,
+      "editionId": "kersnik-ciklamen.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1883,
+      "originalTitle": "Ciklamen",
+      "rights": {
+        "statement": "Public domain worldwide. Janko Kersnik died in 1897 and the work was first published in 1883. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Cyclamen",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:56:08.461466Z",
+        "revision": "211650",
+        "url": "https://sl.wikisource.org/wiki/Cyclamen"
+      },
+      "title": "Ciklamen",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kersnik-ciklamen"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 29,
+        "contentSha256": "d0cb6395ad020ec015d8d2d94035275e40a28f220d24801da842c01a76d9ed1d",
+        "encoding": "gzip",
+        "path": "books/sl/kersnik-na-yerinjah.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a1f4cf75252a8249b4b2ae19dd472503a3b557d9d98304e14a29d40300fe6443",
+        "sizeBytes": 79510,
+        "uncompressedSizeBytes": 210460,
+        "wordCount": 32817
+      },
+      "author": "Janko Kersnik",
+      "authorDeathYear": 1897,
+      "editionId": "kersnik-na-yerinjah.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1876,
+      "originalTitle": "Na Žerinjah",
+      "rights": {
+        "statement": "Public domain worldwide. Janko Kersnik died in 1897 and the work was first published in 1876. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Na Žerinjah",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:56:10.953991Z",
+        "revision": "161856",
+        "url": "https://sl.wikisource.org/wiki/Na_%C5%BDerinjah"
+      },
+      "title": "Na Žerinjah",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kersnik-na-yerinjah"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 7,
+        "contentSha256": "66c0b1c673c0ad3921de56708e14a07276e36de336834f81e0e453af6a38d882",
+        "encoding": "gzip",
+        "path": "books/sl/kocevar-mlinarjev-janez.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "381522ec04c3e6ae907e0591ee64e13b4e0ea7dc29f367bc7516a6b203b82f4f",
+        "sizeBytes": 73282,
+        "uncompressedSizeBytes": 183587,
+        "wordCount": 29990
+      },
+      "author": "Ferdo Kočevar",
+      "authorDeathYear": 1878,
+      "editionId": "kocevar-mlinarjev-janez.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1859,
+      "originalTitle": "Mlinarjev Janez: Slovenski junak ali uplemenitba Teharčanov",
+      "rights": {
+        "statement": "Public domain worldwide. Ferdo Kočevar died in 1878 and the work was first published in 1859. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Mlinarjev Janez",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:56:13.215395Z",
+        "revision": "161894",
+        "url": "https://sl.wikisource.org/wiki/Mlinarjev_Janez"
+      },
+      "title": "Mlinarjev Janez: Slovenski junak ali uplemenitba Teharčanov",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kocevar-mlinarjev-janez"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 22,
+        "contentSha256": "e911e9a4d2ec0bd5a3726758249fdbe2c389aa0d025a8b5522b1932a5424c9b0",
+        "encoding": "gzip",
+        "path": "books/sl/kveder-njeno-yivljenje.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5027163efd52ea55d69df7bc3f8ecb0df18390263c85f03072f06ab36fff5e3a",
+        "sizeBytes": 134836,
+        "uncompressedSizeBytes": 351165,
+        "wordCount": 58818
+      },
+      "author": "Zofka Kveder",
+      "authorDeathYear": 1926,
+      "editionId": "kveder-njeno-yivljenje.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1914,
+      "originalTitle": "Njeno življenje",
+      "rights": {
+        "statement": "Public domain worldwide. Zofka Kveder died in 1926 and the work was first published in 1914. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Njeno življenje",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:56:18.680474Z",
+        "revision": "161871",
+        "url": "https://sl.wikisource.org/wiki/Njeno_%C5%BEivljenje"
+      },
+      "title": "Njeno življenje",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kveder-njeno-yivljenje"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 13,
+        "contentSha256": "ae1a71aee1444c4928d6fc2888f0bb1845dc89fa4f6b53494bc3a37a80ba71a5",
+        "encoding": "gzip",
+        "path": "books/sl/mencinger-abadon.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5b40d76f21d022e71df208066a0460da10549cf66d2c6670ca6bf7d97ccab6a2",
+        "sizeBytes": 237584,
+        "uncompressedSizeBytes": 592910,
+        "wordCount": 94407
+      },
+      "author": "Janez Mencinger",
+      "authorDeathYear": 1912,
+      "editionId": "mencinger-abadon.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1893,
+      "originalTitle": "Abadon",
+      "rights": {
+        "statement": "Public domain worldwide. Janez Mencinger died in 1912 and the work was first published in 1893. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Abadon",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:56:23.978051Z",
+        "revision": "207148",
+        "url": "https://sl.wikisource.org/wiki/Abadon"
+      },
+      "title": "Abadon",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "mencinger-abadon"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 52,
+        "contentSha256": "6e207afada846e210e16716466e943ef5e6b9c5712d1813548b96b2a98d7c570",
+        "encoding": "gzip",
+        "path": "books/sl/podlimbarski-gospodin-franjo.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5218c4b11ce159c93690c5916333b71d896a5251ec66c4f9119dfb8da8a9901f",
+        "sizeBytes": 432776,
+        "uncompressedSizeBytes": 1082070,
+        "wordCount": 174004
+      },
+      "author": "Fran Maselj - Podlimbarski",
+      "authorDeathYear": 1917,
+      "editionId": "podlimbarski-gospodin-franjo.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1913,
+      "originalTitle": "Gospodin Franjo",
+      "rights": {
+        "statement": "Public domain worldwide. Fran Maselj - Podlimbarski died in 1917 and the work was first published in 1913. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Gospodin Franjo",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:56:28.596236Z",
+        "revision": "171004",
+        "url": "https://sl.wikisource.org/wiki/Gospodin_Franjo"
+      },
+      "title": "Gospodin Franjo",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "podlimbarski-gospodin-franjo"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 13,
+        "contentSha256": "cfbc3fffb2f06ca1495f230f84b8951fb96b41b2d575c16668065a9322f446dd",
+        "encoding": "gzip",
+        "path": "books/sl/tavcar-4000.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f44c2ac431a94588e2103cc111d0789e463893fa9d7a209d9b8e4a92b3c7d956",
+        "sizeBytes": 85603,
+        "uncompressedSizeBytes": 226051,
+        "wordCount": 34293
+      },
+      "author": "Ivan Tavčar",
+      "authorDeathYear": 1923,
+      "editionId": "tavcar-4000.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1891,
+      "originalTitle": "4000",
+      "rights": {
+        "statement": "Public domain worldwide. Ivan Tavčar died in 1923 and the work was first published in 1891. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "4000",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:56:38.196356Z",
+        "revision": "161612",
+        "url": "https://sl.wikisource.org/wiki/4000"
+      },
+      "title": "4000",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "tavcar-4000"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 11,
+        "contentSha256": "f8c50f3d38c23901a162ca187862aaf31864e1a496658ed57bf24e55a7eba0a1",
+        "encoding": "gzip",
+        "path": "books/sl/tavcar-cvetje-v-jeseni.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2eb6e5784b6cc1401fdcdd402441b90b760b9944da2df3bc04981e24c52f5494",
+        "sizeBytes": 64288,
+        "uncompressedSizeBytes": 163936,
+        "wordCount": 26559
+      },
+      "author": "Ivan Tavčar",
+      "authorDeathYear": 1923,
+      "editionId": "tavcar-cvetje-v-jeseni.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1917,
+      "originalTitle": "Cvetje v jeseni",
+      "rights": {
+        "statement": "Public domain worldwide. Ivan Tavčar died in 1923 and the work was first published in 1917. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Cvetje v jeseni (Ljubljanski zvon)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:56:40.483578Z",
+        "revision": "218942",
+        "url": "https://sl.wikisource.org/wiki/Cvetje_v_jeseni_(Ljubljanski_zvon)"
+      },
+      "title": "Cvetje v jeseni",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "tavcar-cvetje-v-jeseni"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 34,
+        "contentSha256": "976c8b7acd83119dfddbf7731168c646eaed486b9b939f315e5ebd217b019d75",
+        "encoding": "gzip",
+        "path": "books/sl/verne-carski-sel.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f87286fa55b375ecdc0b7b321b9e8d57690c308c5930676cab06366a251fd340",
+        "sizeBytes": 203259,
+        "uncompressedSizeBytes": 568278,
+        "wordCount": 87981
+      },
+      "author": "Jules Verne",
+      "authorDeathYear": 1905,
+      "editionId": "verne-carski-sel.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "sl",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1876,
+      "originalTitle": "Carski sel",
+      "rights": {
+        "statement": "Public domain worldwide. Jules Verne died in 1905; the translator Anton Ratajec died in 1939 and this translation was first published in 1923. Source: sl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Carski sel",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:56:44.694331Z",
+        "revision": "144911",
+        "url": "https://sl.wikisource.org/wiki/Carski_sel"
+      },
+      "title": "Carski sel",
+      "translationPublicationYear": 1923,
+      "translator": "Anton Ratajec",
+      "translatorDeathYear": 1939,
+      "workId": "verne-carski-sel"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Slovenian",
+  "language": "sl",
+  "manifestVersion": "3ae6e2256fae9eb5",
+  "nativeName": "Slovenščina",
+  "schemaVersion": 1
+}

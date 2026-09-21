@@ -1,0 +1,113 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:39.505426Z",
+    "chapterCount": 11,
+    "contentSha256": "e10006857cb05991fa900bc3dccdcf5a2a2c5ccfb960693b58f7a37370200050",
+    "normalizerVersion": "0.2.0",
+    "path": "books/mr/parasnis-baijabai-shinde-hyanche-charitra.mr.wikisource/v1/book.json.gz",
+    "sha256": "35ae04ea6787b0efcaa62d29268b66560721b9b93bc73915db0d66714cdf7d3c",
+    "sizeBytes": 103915,
+    "uncompressedSizeBytes": 588437,
+    "wordCount": 29920
+  },
+  "edition": {
+    "editionId": "parasnis-baijabai-shinde-hyanche-charitra.mr.wikisource",
+    "kind": "original",
+    "language": "mr",
+    "title": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1926: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1902: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q131844186",
+      "https://www.wikidata.org/wiki/Q5227755",
+      "https://mr.wikisource.org/wiki/%E0%A4%AC%E0%A4%BE%E0%A4%AF%E0%A4%9C%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%88%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A5%87%E0%A4%AC_%E0%A4%B6%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%87_%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%9A%E0%A5%87_%E0%A4%9A%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. दत्तात्रय बळवंत पारसनीस died in 1926 and the work was first published in 1902. Source: mr.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र",
+    "pages": [
+      {
+        "revision": 214217,
+        "title": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र"
+      },
+      {
+        "revision": 214218,
+        "title": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र/शिंदे घराण्याचा अल्प वृत्तांत"
+      },
+      {
+        "revision": 162247,
+        "title": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र/बायजाबाई शिंदे ह्यांचा कुलवृत्तांत"
+      },
+      {
+        "revision": 162248,
+        "title": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र/दौलतराव शिंदे ह्यांची कारकीर्द"
+      },
+      {
+        "revision": 162249,
+        "title": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र/दौलतराव शिंदे ह्यांचा मृत्यु"
+      },
+      {
+        "revision": 162250,
+        "title": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र/बायजाबाईसाहेबांची कारकीर्द"
+      },
+      {
+        "revision": 162251,
+        "title": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र/बायजाबाईसाहेब व महाराज जनकोजीराव ह्यांचा बेबनाव"
+      },
+      {
+        "revision": 162252,
+        "title": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र/ग्वाल्हेर येथील राज्यक्रांति व बायजाबाईसाहेबांचा वनवास"
+      },
+      {
+        "revision": 162257,
+        "title": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र/बायजाबाईसाहेबांच्या कांहीं गोष्टी"
+      },
+      {
+        "revision": 162264,
+        "title": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र/कसोटीचा प्रसंग"
+      },
+      {
+        "revision": 162267,
+        "title": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र/शेवट"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:03:47.366674Z",
+    "revision": "214217",
+    "site": "mr.wikisource.org",
+    "url": "https://mr.wikisource.org/wiki/%E0%A4%AC%E0%A4%BE%E0%A4%AF%E0%A4%9C%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%88%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A5%87%E0%A4%AC_%E0%A4%B6%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%87_%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%9A%E0%A5%87_%E0%A4%9A%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1870,
+      "deathYear": 1926,
+      "name": "दत्तात्रय बळवंत पारसनीस",
+      "wikidata": "Q5227755"
+    },
+    "originalLanguage": "mr",
+    "originalPublicationYear": 1902,
+    "originalTitle": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र",
+    "workId": "parasnis-baijabai-shinde-hyanche-charitra"
+  }
+}

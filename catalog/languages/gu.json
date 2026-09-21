@@ -1,0 +1,870 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 94,
+        "contentSha256": "495c288ab532dcdf876f81dd1101b46f9f2876de4b50333fd62dba61bd6cd459",
+        "encoding": "gzip",
+        "path": "books/gu/bhatt-okhaharan.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "760b72ff62927996b4d023d9507644432bcd23670902313c8c93076f15e6858a",
+        "sizeBytes": 62000,
+        "uncompressedSizeBytes": 311399,
+        "wordCount": 19719
+      },
+      "author": "પ્રેમાનંદ",
+      "authorDeathYear": 1734,
+      "editionId": "bhatt-okhaharan.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1667,
+      "originalTitle": "ઓખાહરણ",
+      "rights": {
+        "statement": "Public domain worldwide. પ્રેમાનંદ died in 1734 and the work was first published in 1667. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "ઓખાહરણ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:18:07.831626Z",
+        "revision": "207078",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%93%E0%AA%96%E0%AA%BE%E0%AA%B9%E0%AA%B0%E0%AA%A3"
+      },
+      "title": "ઓખાહરણ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bhatt-okhaharan"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 8,
+        "contentSha256": "ab909efe6ba79e39fb1a2a1688a612ab15ddead7f118202c466df1a7e559d599",
+        "encoding": "gzip",
+        "path": "books/gu/dalpatram-lakshmi-natak.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "dc42cb50c0ea4064d5b39b8beb882e78b727076dcc78524b7118dd6fd37087e9",
+        "sizeBytes": 29551,
+        "uncompressedSizeBytes": 148270,
+        "wordCount": 10715
+      },
+      "author": "દલપતરામ",
+      "authorDeathYear": 1898,
+      "editionId": "dalpatram-lakshmi-natak.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1863,
+      "originalTitle": "લક્ષ્મી નાટક",
+      "rights": {
+        "statement": "Public domain worldwide. દલપતરામ died in 1898 and the work was first published in 1863. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "લક્ષ્મી નાટક",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:18:30.010741Z",
+        "revision": "197848",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%B2%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AB%8D%E0%AA%AE%E0%AB%80_%E0%AA%A8%E0%AA%BE%E0%AA%9F%E0%AA%95"
+      },
+      "title": "લક્ષ્મી નાટક",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "dalpatram-lakshmi-natak"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "7df1a428e67042da74459f120147d4b0b795c2ea2db6be841d7645f39a06f2ff",
+        "encoding": "gzip",
+        "path": "books/gu/dalpatram-strisambhashan.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "24e65194d0bd796f0b3144b779f7df947a3a7fb1fca7d30ff7af0f3ba4a71c2d",
+        "sizeBytes": 20537,
+        "uncompressedSizeBytes": 105975,
+        "wordCount": 7781
+      },
+      "author": "દલપતરામ",
+      "authorDeathYear": 1898,
+      "editionId": "dalpatram-strisambhashan.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1887,
+      "originalTitle": "સ્ત્રીસંભાષણ",
+      "rights": {
+        "statement": "Public domain worldwide. દલપતરામ died in 1898 and the work was first published in 1887. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "સ્ત્રીસંભાષણ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:18:39.797153Z",
+        "revision": "207304",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%B8%E0%AB%8D%E0%AA%A4%E0%AB%8D%E0%AA%B0%E0%AB%80%E0%AA%B8%E0%AA%82%E0%AA%AD%E0%AA%BE%E0%AA%B7%E0%AA%A3"
+      },
+      "title": "સ્ત્રીસંભાષણ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "dalpatram-strisambhashan"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "30627003ecc7666dfbf23b842aabc46dba8f6f784f0700ac29bda8ed0cb7ba15",
+        "encoding": "gzip",
+        "path": "books/gu/dalpatram-tarkik-bodh.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "391cb55b34f64ea4d9a0d1de4fcbc9f8d9805f309b509e371874bdee0a983633",
+        "sizeBytes": 52850,
+        "uncompressedSizeBytes": 270080,
+        "wordCount": 18340
+      },
+      "author": "દલપતરામ",
+      "authorDeathYear": 1898,
+      "editionId": "dalpatram-tarkik-bodh.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1870,
+      "originalTitle": "તાર્કિક બોધ",
+      "rights": {
+        "statement": "Public domain worldwide. દલપતરામ died in 1898 and the work was first published in 1870. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "તાર્કિક બોધ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:19:01.292505Z",
+        "revision": "187849",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%A4%E0%AA%BE%E0%AA%B0%E0%AB%8D%E0%AA%95%E0%AA%BF%E0%AA%95_%E0%AA%AC%E0%AB%8B%E0%AA%A7"
+      },
+      "title": "તાર્કિક બોધ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "dalpatram-tarkik-bodh"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 24,
+        "contentSha256": "3b8a658fe262515ea884975443ae432767440de4e1f7fb95bb85680fe5596215",
+        "encoding": "gzip",
+        "path": "books/gu/derasari-sathina-sahityanu-digdarshan.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d84648f869d013a381c01f6150206be7155adb0ef33b364156464c8c092f967d",
+        "sizeBytes": 256133,
+        "uncompressedSizeBytes": 1273582,
+        "wordCount": 80436
+      },
+      "author": "ડાહ્યાભાઇ દેરાસરી",
+      "authorDeathYear": 1938,
+      "editionId": "derasari-sathina-sahityanu-digdarshan.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1911,
+      "originalTitle": "સાઠીના સાહિત્યનું દિગ્દર્શન",
+      "rights": {
+        "statement": "Public domain worldwide. ડાહ્યાભાઇ દેરાસરી died in 1938 and the work was first published in 1911. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "સાઠીના સાહિત્યનું દિગ્દર્શન",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:19:29.781275Z",
+        "revision": "222585",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%B8%E0%AA%BE%E0%AA%A0%E0%AB%80%E0%AA%A8%E0%AA%BE_%E0%AA%B8%E0%AA%BE%E0%AA%B9%E0%AA%BF%E0%AA%A4%E0%AB%8D%E0%AA%AF%E0%AA%A8%E0%AB%81%E0%AA%82_%E0%AA%A6%E0%AA%BF%E0%AA%97%E0%AB%8D%E0%AA%A6%E0%AA%B0%E0%AB%8D%E0%AA%B6%E0%AA%A8"
+      },
+      "title": "સાઠીના સાહિત્યનું દિગ્દર્શન",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "derasari-sathina-sahityanu-digdarshan"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "d94a1bcae4bce5451177274ac3d007cae45f561f89d97bc09ce3e65cc1a6b5cb",
+        "encoding": "gzip",
+        "path": "books/gu/desai-savita-sundari.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f077a0fd5b9abf9e55c9ee738517fa9d8dce6dacbb440238046d434c71bb919f",
+        "sizeBytes": 46045,
+        "uncompressedSizeBytes": 225639,
+        "wordCount": 15198
+      },
+      "author": "ઇચ્છારામ દેસાઈ",
+      "authorDeathYear": 1912,
+      "editionId": "desai-savita-sundari.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1891,
+      "originalTitle": "સવિતા-સુંદરી",
+      "rights": {
+        "statement": "Public domain worldwide. ઇચ્છારામ દેસાઈ died in 1912 and the work was first published in 1891. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "સવિતા-સુંદરી",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:19:54.499222Z",
+        "revision": "204854",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%B8%E0%AA%B5%E0%AA%BF%E0%AA%A4%E0%AA%BE-%E0%AA%B8%E0%AB%81%E0%AA%82%E0%AA%A6%E0%AA%B0%E0%AB%80"
+      },
+      "title": "સવિતા-સુંદરી",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "desai-savita-sundari"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "b6bfd311ae2ccef2e5af71ab7dd1208bac191c9278b321980d474c0de89140fb",
+        "encoding": "gzip",
+        "path": "books/gu/gandhi-ek-satyavirni-katha-athava-socratesno-bachav.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "bfb4e1af64034971c5aa47faa084ed184e1612de406ce09f9d40731948e7cbaa",
+        "sizeBytes": 27955,
+        "uncompressedSizeBytes": 140268,
+        "wordCount": 9713
+      },
+      "author": "મહાત્મા ગાંધી",
+      "authorDeathYear": 1948,
+      "editionId": "gandhi-ek-satyavirni-katha-athava-socratesno-bachav.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1925,
+      "originalTitle": "એક સત્યવીરની કથા અથવા સોકરેટીસનો બચાવ",
+      "rights": {
+        "statement": "Public domain worldwide. મહાત્મા ગાંધી died in 1948 and the work was first published in 1925. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "એક સત્યવીરની કથા અથવા સોકરેટીસનો બચાવ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:20:02.729529Z",
+        "revision": "199712",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%8F%E0%AA%95_%E0%AA%B8%E0%AA%A4%E0%AB%8D%E0%AA%AF%E0%AA%B5%E0%AB%80%E0%AA%B0%E0%AA%A8%E0%AB%80_%E0%AA%95%E0%AA%A5%E0%AA%BE_%E0%AA%85%E0%AA%A5%E0%AA%B5%E0%AA%BE_%E0%AA%B8%E0%AB%8B%E0%AA%95%E0%AA%B0%E0%AB%87%E0%AA%9F%E0%AB%80%E0%AA%B8%E0%AA%A8%E0%AB%8B_%E0%AA%AC%E0%AA%9A%E0%AA%BE%E0%AA%B5"
+      },
+      "title": "એક સત્યવીરની કથા અથવા સોકરેટીસનો બચાવ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "gandhi-ek-satyavirni-katha-athava-socratesno-bachav"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 27,
+        "contentSha256": "45340d5628964247d0e869cbe37332032033b66fe107e80cd5b348b9c5b27535",
+        "encoding": "gzip",
+        "path": "books/gu/gandhi-hind-swaraj.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "509e4049764ca53208522359c370b1b59b9938b873baf353101707e5c43ca9a7",
+        "sizeBytes": 76649,
+        "uncompressedSizeBytes": 399406,
+        "wordCount": 27919
+      },
+      "author": "મહાત્મા ગાંધી",
+      "authorDeathYear": 1948,
+      "editionId": "gandhi-hind-swaraj.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1921,
+      "originalTitle": "હિંદ સ્વરાજ",
+      "rights": {
+        "statement": "Public domain worldwide. મહાત્મા ગાંધી died in 1948 and the work was first published in 1921. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "હિંદ સ્વરાજ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:20:38.538539Z",
+        "revision": "136843",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%B9%E0%AA%BF%E0%AA%82%E0%AA%A6_%E0%AA%B8%E0%AB%8D%E0%AA%B5%E0%AA%B0%E0%AA%BE%E0%AA%9C"
+      },
+      "title": "હિંદ સ્વરાજ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "gandhi-hind-swaraj"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "471da887b152f64a8919cc0e15b0e1a775370d849c1df7d1de8d0ce373d9831d",
+        "encoding": "gzip",
+        "path": "books/gu/gandhi-mahatmaji-ni-vato.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "934f4f5e26fab5842211f672595ebce54c6e49f72f8312b322f408f23a5a615d",
+        "sizeBytes": 64530,
+        "uncompressedSizeBytes": 336940,
+        "wordCount": 23580
+      },
+      "author": "મહાત્મા ગાંધી",
+      "authorDeathYear": 1948,
+      "editionId": "gandhi-mahatmaji-ni-vato.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1923,
+      "originalTitle": "મહાત્માજીની વાતો",
+      "rights": {
+        "statement": "Public domain worldwide. મહાત્મા ગાંધી died in 1948 and the work was first published in 1923. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "મહાત્માજીની વાતો",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:20:46.786854Z",
+        "revision": "184783",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%AE%E0%AA%B9%E0%AA%BE%E0%AA%A4%E0%AB%8D%E0%AA%AE%E0%AA%BE%E0%AA%9C%E0%AB%80%E0%AA%A8%E0%AB%80_%E0%AA%B5%E0%AA%BE%E0%AA%A4%E0%AB%8B"
+      },
+      "title": "મહાત્માજીની વાતો",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "gandhi-mahatmaji-ni-vato"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 16,
+        "contentSha256": "b73806e1529a4cd54ac8815287ed4107b17c22b9d394397d9b62eddad0a89d91",
+        "encoding": "gzip",
+        "path": "books/gu/kalapi-kashmir-no-pravas.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "41049f3f654e025c5b57016f4a5180cb23bfcd66915d04ead550bc82d2e6d867",
+        "sizeBytes": 61817,
+        "uncompressedSizeBytes": 294448,
+        "wordCount": 20274
+      },
+      "author": "કલાપી",
+      "authorDeathYear": 1900,
+      "editionId": "kalapi-kashmir-no-pravas.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1912,
+      "originalTitle": "કાશ્મીરનો પ્રવાસ",
+      "rights": {
+        "statement": "Public domain worldwide. કલાપી died in 1900 and the work was first published in 1912. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "કાશ્મીરનો પ્રવાસ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:21:07.945964Z",
+        "revision": "202380",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%95%E0%AA%BE%E0%AA%B6%E0%AB%8D%E0%AA%AE%E0%AB%80%E0%AA%B0%E0%AA%A8%E0%AB%8B_%E0%AA%AA%E0%AB%8D%E0%AA%B0%E0%AA%B5%E0%AA%BE%E0%AA%B8"
+      },
+      "title": "કાશ્મીરનો પ્રવાસ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kalapi-kashmir-no-pravas"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 19,
+        "contentSha256": "bb040db3b2cc374e173fb577e48e6f11b7229ce1a3410e13a5ddec0024865d12",
+        "encoding": "gzip",
+        "path": "books/gu/kavi-chitradarshano.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6ef38ec58dc83082c47269cd0ea452b7508b255c72748e4b2ad2f931e37b0745",
+        "sizeBytes": 61680,
+        "uncompressedSizeBytes": 273988,
+        "wordCount": 15505
+      },
+      "author": "ન્હાનાલાલ",
+      "authorDeathYear": 1946,
+      "editionId": "kavi-chitradarshano.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1921,
+      "originalTitle": "ચિત્રદર્શનો",
+      "rights": {
+        "statement": "Public domain worldwide. ન્હાનાલાલ died in 1946 and the work was first published in 1921. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "ચિત્રદર્શનો",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:21:33.386730Z",
+        "revision": "217866",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%9A%E0%AA%BF%E0%AA%A4%E0%AB%8D%E0%AA%B0%E0%AA%A6%E0%AA%B0%E0%AB%8D%E0%AA%B6%E0%AA%A8%E0%AB%8B"
+      },
+      "title": "ચિત્રદર્શનો",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kavi-chitradarshano"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 20,
+        "contentSha256": "715117f2bd1a8a645ef0ed9ad04ccc722fac0b77dac466ae15a0d8feb2f52c56",
+        "encoding": "gzip",
+        "path": "books/gu/kavi-pankhadio.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "69032db5df1f34f56739bf2d8a8b03130b6fbd1c42bdef83a04849b6203244da",
+        "sizeBytes": 75947,
+        "uncompressedSizeBytes": 368019,
+        "wordCount": 22281
+      },
+      "author": "ન્હાનાલાલ",
+      "authorDeathYear": 1946,
+      "editionId": "kavi-pankhadio.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1930,
+      "originalTitle": "પાંખડીઓ",
+      "rights": {
+        "statement": "Public domain worldwide. ન્હાનાલાલ died in 1946 and the work was first published in 1930. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "પાંખડીઓ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:22:00.793491Z",
+        "revision": "191307",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%AA%E0%AA%BE%E0%AA%82%E0%AA%96%E0%AA%A1%E0%AB%80%E0%AA%93"
+      },
+      "title": "પાંખડીઓ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kavi-pankhadio"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 13,
+        "contentSha256": "2b00d5e44bed824598408e655afa7e12c43de9eeb29cc92413641199f956178c",
+        "encoding": "gzip",
+        "path": "books/gu/mashruwala-buddha-ane-mahaveer.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "cda9a4e0fa0b43cb53c704e9012e2cddb84a9300ccf86cadb5ad6cb2be4a60d2",
+        "sizeBytes": 47016,
+        "uncompressedSizeBytes": 238945,
+        "wordCount": 15471
+      },
+      "author": "કિશોરલાલ મશરૂવાળા",
+      "authorDeathYear": 1952,
+      "editionId": "mashruwala-buddha-ane-mahaveer.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1926,
+      "originalTitle": "બુદ્ધ અને મહાવીર",
+      "rights": {
+        "statement": "Public domain worldwide. કિશોરલાલ મશરૂવાળા died in 1952 and the work was first published in 1926. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "બુદ્ધ અને મહાવીર",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:22:18.911912Z",
+        "revision": "199593",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%AC%E0%AB%81%E0%AA%A6%E0%AB%8D%E0%AA%A7_%E0%AA%85%E0%AA%A8%E0%AB%87_%E0%AA%AE%E0%AA%B9%E0%AA%BE%E0%AA%B5%E0%AB%80%E0%AA%B0"
+      },
+      "title": "બુદ્ધ અને મહાવીર",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "mashruwala-buddha-ane-mahaveer"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "e78d4a3124a509fd2884d21ebccff00be133136192eeb23f2fb5793aef57c032",
+        "encoding": "gzip",
+        "path": "books/gu/mashruwala-ishu-khrista.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "646f21b36ed8ff485bdc8cb627e97ad5650583feb8c66ffc215d5f4b649af450",
+        "sizeBytes": 70505,
+        "uncompressedSizeBytes": 339275,
+        "wordCount": 22605
+      },
+      "author": "કિશોરલાલ મશરૂવાળા",
+      "authorDeathYear": 1952,
+      "editionId": "mashruwala-ishu-khrista.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1925,
+      "originalTitle": "ઈશુ ખ્રિસ્ત",
+      "rights": {
+        "statement": "Public domain worldwide. કિશોરલાલ મશરૂવાળા died in 1952 and the work was first published in 1925. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "ઈશુ ખ્રિસ્ત",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:22:38.313322Z",
+        "revision": "197809",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%88%E0%AA%B6%E0%AB%81_%E0%AA%96%E0%AB%8D%E0%AA%B0%E0%AA%BF%E0%AA%B8%E0%AB%8D%E0%AA%A4"
+      },
+      "title": "ઈશુ ખ્રિસ્ત",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "mashruwala-ishu-khrista"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 18,
+        "contentSha256": "da69f13f6fae6aaac6bf8d6739ff0af36ed420479c04b5a42f737c6da3ab5006",
+        "encoding": "gzip",
+        "path": "books/gu/mashruwala-q18710312.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5358e82d22be18442427cb66d70cfdc26468bd57a071fca4130b08d7b3d49f28",
+        "sizeBytes": 37650,
+        "uncompressedSizeBytes": 176796,
+        "wordCount": 11013
+      },
+      "author": "કિશોરલાલ મશરૂવાળા",
+      "authorDeathYear": 1952,
+      "editionId": "mashruwala-q18710312.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1923,
+      "originalTitle": "ગીતાધ્વનિ",
+      "rights": {
+        "statement": "Public domain worldwide. કિશોરલાલ મશરૂવાળા died in 1952 and the work was first published in 1923. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "ગીતાધ્વનિ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:23:03.873982Z",
+        "revision": "207140",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%97%E0%AB%80%E0%AA%A4%E0%AA%BE%E0%AA%A7%E0%AB%8D%E0%AA%B5%E0%AA%A8%E0%AA%BF"
+      },
+      "title": "ગીતાધ્વનિ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "mashruwala-q18710312"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 18,
+        "contentSha256": "b879ff00a9d07abf60a0f1de97ed86bec37fdc719b015ba316d6474cc7a400f4",
+        "encoding": "gzip",
+        "path": "books/gu/mashruwala-ram-ane-krishna.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "783f92e52e984f70ed9d11429b804949710071b6a0d25b86750e4bdac580e575",
+        "sizeBytes": 77713,
+        "uncompressedSizeBytes": 382413,
+        "wordCount": 24111
+      },
+      "author": "કિશોરલાલ મશરૂવાળા",
+      "authorDeathYear": 1952,
+      "editionId": "mashruwala-ram-ane-krishna.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1923,
+      "originalTitle": "રામ અને કૃષ્ણ",
+      "rights": {
+        "statement": "Public domain worldwide. કિશોરલાલ મશરૂવાળા died in 1952 and the work was first published in 1923. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "રામ અને કૃષ્ણ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:23:28.132779Z",
+        "revision": "217946",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%B0%E0%AA%BE%E0%AA%AE_%E0%AA%85%E0%AA%A8%E0%AB%87_%E0%AA%95%E0%AB%83%E0%AA%B7%E0%AB%8D%E0%AA%A3"
+      },
+      "title": "રામ અને કૃષ્ણ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "mashruwala-ram-ane-krishna"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 25,
+        "contentSha256": "3e46ecd677b3ecd0cdb860731d6c1cf2e28cad31ac38a60549342d2a3b23d383",
+        "encoding": "gzip",
+        "path": "books/gu/meghani-rutu-geeto.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ffa837a1e09fc0db77f72cf9dd619380af010e50770cdf70ca6b2ef153943068",
+        "sizeBytes": 76777,
+        "uncompressedSizeBytes": 345040,
+        "wordCount": 23011
+      },
+      "author": "ઝવેરચંદ મેઘાણી",
+      "authorDeathYear": 1947,
+      "editionId": "meghani-rutu-geeto.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1929,
+      "originalTitle": "ઋતુગીતો",
+      "rights": {
+        "statement": "Public domain worldwide. ઝવેરચંદ મેઘાણી died in 1947 and the work was first published in 1929. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "ઋતુગીતો",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:24:34.013902Z",
+        "revision": "145084",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%8B%E0%AA%A4%E0%AB%81%E0%AA%97%E0%AB%80%E0%AA%A4%E0%AB%8B"
+      },
+      "title": "ઋતુગીતો",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "meghani-rutu-geeto"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 34,
+        "contentSha256": "51af238111d4cabc0feb0d918672f3f39977f1a61ab65c4f843aff39ba82eb21",
+        "encoding": "gzip",
+        "path": "books/gu/meghani-venina-phool.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d670b38009c44c156bf5c64a37e5aad00f728f02866ef5d601158c635fb33145",
+        "sizeBytes": 25216,
+        "uncompressedSizeBytes": 131233,
+        "wordCount": 8207
+      },
+      "author": "ઝવેરચંદ મેઘાણી",
+      "authorDeathYear": 1947,
+      "editionId": "meghani-venina-phool.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1928,
+      "originalTitle": "વેણીનાં ફૂલ",
+      "rights": {
+        "statement": "Public domain worldwide. ઝવેરચંદ મેઘાણી died in 1947 and the work was first published in 1928. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "વેણીનાં ફૂલ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:25:19.672114Z",
+        "revision": "167294",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%B5%E0%AB%87%E0%AA%A3%E0%AB%80%E0%AA%A8%E0%AA%BE%E0%AA%82_%E0%AA%AB%E0%AB%82%E0%AA%B2"
+      },
+      "title": "વેણીનાં ફૂલ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "meghani-venina-phool"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 19,
+        "contentSha256": "b33738f124292bcaa62649f194da85debcc7bba587bbf4adedd26298031b46d0",
+        "encoding": "gzip",
+        "path": "books/gu/meghani-zandadhari.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "69f0ba3156689d328f2ad51d02a6376773733a2b58f4bb73ea4fb791db0c503e",
+        "sizeBytes": 75086,
+        "uncompressedSizeBytes": 357334,
+        "wordCount": 21681
+      },
+      "author": "ઝવેરચંદ મેઘાણી",
+      "authorDeathYear": 1947,
+      "editionId": "meghani-zandadhari.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1926,
+      "originalTitle": "ઝંડાધારી - મહર્ષિ દયાનંદ",
+      "rights": {
+        "statement": "Public domain worldwide. ઝવેરચંદ મેઘાણી died in 1947 and the work was first published in 1926. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "ઝંડાધારી - મહર્ષિ દયાનંદ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:25:46.667877Z",
+        "revision": "218495",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%9D%E0%AA%82%E0%AA%A1%E0%AA%BE%E0%AA%A7%E0%AA%BE%E0%AA%B0%E0%AB%80_-_%E0%AA%AE%E0%AA%B9%E0%AA%B0%E0%AB%8D%E0%AA%B7%E0%AA%BF_%E0%AA%A6%E0%AA%AF%E0%AA%BE%E0%AA%A8%E0%AA%82%E0%AA%A6"
+      },
+      "title": "ઝંડાધારી - મહર્ષિ દયાનંદ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "meghani-zandadhari"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 17,
+        "contentSha256": "041736fd3dc1a81fb24ba80768860c1f99f202edbb06b30b230cbddcd845af72",
+        "encoding": "gzip",
+        "path": "books/gu/mehta-karan-ghelo.gu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "31c8c5ca5623a5d88ba97538a29186ceeeeb58297eb13e3dea8693014e9a03e7",
+        "sizeBytes": 292331,
+        "uncompressedSizeBytes": 1466935,
+        "wordCount": 103028
+      },
+      "author": "નંદશંકર મહેતા",
+      "authorDeathYear": 1905,
+      "editionId": "mehta-karan-ghelo.gu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "gu",
+      "originalLanguage": "gu",
+      "originalPublicationYear": 1926,
+      "originalTitle": "કરણ ઘેલો",
+      "rights": {
+        "statement": "Public domain worldwide. નંદશંકર મહેતા died in 1905 and the work was first published in 1926. Source: gu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "કરણ ઘેલો",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:26:12.606027Z",
+        "revision": "164923",
+        "url": "https://gu.wikisource.org/wiki/%E0%AA%95%E0%AA%B0%E0%AA%A3_%E0%AA%98%E0%AB%87%E0%AA%B2%E0%AB%8B"
+      },
+      "title": "કરણ ઘેલો",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "mehta-karan-ghelo"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Gujarati",
+  "language": "gu",
+  "manifestVersion": "ee7bb2cb67ff548b",
+  "nativeName": "ગુજરાતી",
+  "schemaVersion": 1
+}

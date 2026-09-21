@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:16.489207Z",
+    "chapterCount": 19,
+    "contentSha256": "f377e55e80da0ec37c0803cdb8b99d5fe79d072aca937d7b9df72106ca27e229",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/jacobsen-fru-marie-grubbe.da.gutenberg/v1/book.json.gz",
+    "sha256": "1f86970b6cf2e9224aa8d9335609d98dd25a65036182cc9545ca359f2cfd677b",
+    "sizeBytes": 171837,
+    "uncompressedSizeBytes": 442424,
+    "wordCount": 74374
+  },
+  "edition": {
+    "editionId": "jacobsen-fru-marie-grubbe.da.gutenberg",
+    "kind": "original",
+    "language": "da",
+    "title": "Fru Marie Grubbe: Interieurer fra det syttende Aarhundrede"
+  },
+  "genres": [
+    "Fiction",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1885: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1876: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/44275",
+      "https://en.wikipedia.org/wiki/Jens_Peter_Jacobsen",
+      "https://www.wikidata.org/wiki/Q11970411"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. J. P. Jacobsen died in 1885 and the work was first published in 1876. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "44275",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:21:21.370865Z",
+    "revision": "Fri, 18 Sep 2026 07:48:30 GMT",
+    "url": "https://www.gutenberg.org/ebooks/44275"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1847,
+      "deathYear": 1885,
+      "name": "J. P. Jacobsen",
+      "wikidata": "Q370246"
+    },
+    "originalLanguage": "da",
+    "originalPublicationYear": 1876,
+    "originalTitle": "Fru Marie Grubbe: Interieurer fra det syttende Aarhundrede",
+    "workId": "jacobsen-fru-marie-grubbe"
+  }
+}

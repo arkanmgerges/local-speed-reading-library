@@ -1,0 +1,159 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:02:00.101450Z",
+    "chapterCount": 32,
+    "contentSha256": "be57ce595bfcc1dc3fbf42b30a1cb6a5351cc15a5167311982130daccc79a591",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/darwin-het-ontstaan-der-soorten.nl.wikisource/v1/book.json.gz",
+    "sha256": "784c1eb224d560c71f8ed6c917392cd2bc61d1084fee806df70c2ca469d6c866",
+    "sizeBytes": 325608,
+    "uncompressedSizeBytes": 1059421,
+    "wordCount": 161278
+  },
+  "edition": {
+    "editionId": "darwin-het-ontstaan-der-soorten.nl.wikisource",
+    "kind": "translation",
+    "language": "nl",
+    "title": "Het ontstaan der soorten",
+    "translationPublicationYear": 1860,
+    "translator": {
+      "birthYear": 1822,
+      "deathYear": 1897,
+      "name": "Tiberius Cornelis Winkler",
+      "wikidata": "Q474547"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1882: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1897: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1860: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q20124",
+      "https://www.wikidata.org/wiki/Q93474768",
+      "https://www.wikidata.org/wiki/Q1035",
+      "https://www.wikidata.org/wiki/Q474547",
+      "https://nl.wikisource.org/wiki/Darwin_-_Het_ontstaan_der_soorten_(1860)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charles Darwin died in 1882; the translator Tiberius Cornelis Winkler died in 1897 and this translation was first published in 1860. Source: nl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Darwin - Het ontstaan der soorten (1860)",
+    "pages": [
+      {
+        "revision": 147824,
+        "title": "Darwin - Het ontstaan der soorten (1860)"
+      },
+      {
+        "revision": 56368,
+        "title": "Darwin - Het ontstaan der soorten (1860)/Voor"
+      },
+      {
+        "revision": 56374,
+        "title": "Darwin - Het ontstaan der soorten (1860)/Inl"
+      },
+      {
+        "revision": 57163,
+        "title": "Darwin - Het ontstaan der soorten (1860)/1"
+      },
+      {
+        "revision": 56376,
+        "title": "Darwin - Het ontstaan der soorten (1860)/2"
+      },
+      {
+        "revision": 57472,
+        "title": "Darwin - Het ontstaan der soorten (1860)/3"
+      },
+      {
+        "revision": 57473,
+        "title": "Darwin - Het ontstaan der soorten (1860)/4"
+      },
+      {
+        "revision": 57474,
+        "title": "Darwin - Het ontstaan der soorten (1860)/5"
+      },
+      {
+        "revision": 57475,
+        "title": "Darwin - Het ontstaan der soorten (1860)/6"
+      },
+      {
+        "revision": 57478,
+        "title": "Darwin - Het ontstaan der soorten (1860)/7"
+      },
+      {
+        "revision": 63238,
+        "title": "Darwin - Het ontstaan der soorten (1860)/Register"
+      },
+      {
+        "revision": 63235,
+        "title": "Darwin - Het ontstaan der soorten (1860)/8"
+      },
+      {
+        "revision": 57493,
+        "title": "Darwin - Het ontstaan der soorten (1860)/9"
+      },
+      {
+        "revision": 57495,
+        "title": "Darwin - Het ontstaan der soorten (1860)/10"
+      },
+      {
+        "revision": 57496,
+        "title": "Darwin - Het ontstaan der soorten (1860)/11"
+      },
+      {
+        "revision": 57498,
+        "title": "Darwin - Het ontstaan der soorten (1860)/12"
+      },
+      {
+        "revision": 57499,
+        "title": "Darwin - Het ontstaan der soorten (1860)/13"
+      },
+      {
+        "revision": 63236,
+        "title": "Darwin - Het ontstaan der soorten (1860)/14"
+      },
+      {
+        "revision": 57618,
+        "title": "Darwin - Het ontstaan der soorten (1860)/Naschrift"
+      },
+      {
+        "revision": 57617,
+        "title": "Darwin - Het ontstaan der soorten (1860)/Register2"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:08:22.192348Z",
+    "revision": "147824",
+    "site": "nl.wikisource.org",
+    "url": "https://nl.wikisource.org/wiki/Darwin_-_Het_ontstaan_der_soorten_(1860)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1809,
+      "deathYear": 1882,
+      "name": "Charles Darwin",
+      "wikidata": "Q1035"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1859,
+    "originalTitle": "Het ontstaan der soorten",
+    "workId": "darwin-het-ontstaan-der-soorten"
+  }
+}

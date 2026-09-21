@@ -1,0 +1,150 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:51:34.270157Z",
+    "chapterCount": 17,
+    "contentSha256": "5a875d477e61c932e46e17f8085485429e7b04ada554a413f0574d747724596e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/bn/washington-negrojatir-karmmabeer.bn.wikisource/v1/book.json.gz",
+    "sha256": "510caedee025de9ef0b4ac7deeed0d923373b2ef24e10252facbf1eb863e2de5",
+    "sizeBytes": 143033,
+    "uncompressedSizeBytes": 807625,
+    "wordCount": 43580
+  },
+  "edition": {
+    "editionId": "washington-negrojatir-karmmabeer.bn.wikisource",
+    "kind": "translation",
+    "language": "bn",
+    "title": "নিগ্রোজাতির কর্ম্মবীর",
+    "translationPublicationYear": 1914,
+    "translator": {
+      "birthYear": 1887,
+      "deathYear": 1949,
+      "name": "বিনয়কুমার সরকার",
+      "wikidata": "Q4890148"
+    }
+  },
+  "genres": [
+    "Biography"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1915: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1949: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1914: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1568126",
+      "https://www.wikidata.org/wiki/Q124607241",
+      "https://www.wikidata.org/wiki/Q319871",
+      "https://www.wikidata.org/wiki/Q4890148",
+      "https://bn.wikisource.org/wiki/%E0%A6%A8%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B0_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%AC%E0%A7%80%E0%A6%B0_(%E0%A7%A7%E0%A7%AF%E0%A7%A7%E0%A7%AA)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. বুকার টালিয়াফেরো ওয়াশিংটন died in 1915; the translator বিনয়কুমার সরকার died in 1949 and this translation was first published in 1914. Source: bn.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)",
+    "pages": [
+      {
+        "revision": 1971906,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)"
+      },
+      {
+        "revision": 1819172,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/প্রথম অধ্যায়"
+      },
+      {
+        "revision": 1819173,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/দ্বিতীয় অধ্যায়"
+      },
+      {
+        "revision": 1819174,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/তৃতীয় অধ্যায়"
+      },
+      {
+        "revision": 1819253,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/চতুর্থ অধ্যায়"
+      },
+      {
+        "revision": 1819254,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/পঞ্চম অধ্যায়"
+      },
+      {
+        "revision": 1819298,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/ষষ্ঠ অধ্যায়"
+      },
+      {
+        "revision": 1819299,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/সপ্তম অধ্যায়"
+      },
+      {
+        "revision": 1819509,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/অষ্টম অধ্যায়"
+      },
+      {
+        "revision": 1819605,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/নবম অধ্যায়"
+      },
+      {
+        "revision": 1819606,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/দশম অধ্যায়"
+      },
+      {
+        "revision": 1819644,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/একাদশ অধ্যায়"
+      },
+      {
+        "revision": 1819769,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/দ্বাদশ অধ্যায়"
+      },
+      {
+        "revision": 1819808,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/ত্রয়োদশ অধ্যায়"
+      },
+      {
+        "revision": 1819872,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/চতুর্দ্দশ অধ্যায়"
+      },
+      {
+        "revision": 1819873,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/পঞ্চদশ অধ্যায়"
+      },
+      {
+        "revision": 1819892,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/ষোড়শ অধ্যায়"
+      },
+      {
+        "revision": 1819893,
+        "title": "নিগ্রোজাতির কর্ম্মবীর (১৯১৪)/সপ্তদশ অধ্যায়"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:05:08.048731Z",
+    "revision": "1971906",
+    "site": "bn.wikisource.org",
+    "url": "https://bn.wikisource.org/wiki/%E0%A6%A8%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B0_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%AC%E0%A7%80%E0%A6%B0_(%E0%A7%A7%E0%A7%AF%E0%A7%A7%E0%A7%AA)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1856,
+      "deathYear": 1915,
+      "name": "বুকার টালিয়াফেরো ওয়াশিংটন",
+      "wikidata": "Q319871"
+    },
+    "originalLanguage": "en",
+    "originalTitle": "Negrojatir Karmmabeer",
+    "workId": "washington-negrojatir-karmmabeer"
+  }
+}

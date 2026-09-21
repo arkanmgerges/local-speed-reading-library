@@ -93,3 +93,37 @@ dart test
 Commit the metadata file and the regenerated `catalog/` files (never `build/`). CI runs
 the same validation; after merge, the publish workflow builds the same bytes (it checks
 `contentSha256`), uploads the asset and publishes the catalogue.
+
+## Batch discovery
+
+`tools/bin/discover.dart` finds candidates for every catalogue language and writes their
+metadata files; `scripts/batch-build.sh` pins, builds, prunes and validates them.
+
+```bash
+# once: the offline Gutenberg catalogue (about 130 MB, extracts to cache/epub/*/pg*.rdf)
+curl -A "lsr-library-tools/0.1" -o rdf-files.tar.bz2 https://www.gutenberg.org/cache/epub/feeds/rdf-files.tar.bz2
+mkdir rdf && tar -xjf rdf-files.tar.bz2 -C rdf
+
+cd tools
+dart run bin/discover.dart --rdf ../rdf --per-language 20 --overshoot 12 \
+    --report ../build/discover-report.json --write
+cd .. && scripts/batch-build.sh --delay 2          # pin, build, prune to 20 per language, catalog, validate
+```
+
+What discovery accepts, per source:
+
+* **Gutenberg** (ranked by downloads): every creator, translator and other named contributor
+  has a death year that passes the policy; no poetry/drama/periodical subjects; not a later
+  volume. An original needs a first-publication year on the Wikidata item behind the
+  "Wikipedia page about this book" link, or an imprint year in the MARC 260 field
+  (recorded as `editionPublicationYear`). A translation needs exactly one translator and an
+  imprint year. Portuguese is split into `pt` and `pt-BR` by the author's citizenship.
+* **Wikisource** (ranked by Wikidata sitelinks): works written in the language whose author(s)
+  died early enough and whose first publication is recorded on Wikidata; translations only
+  when the translator and the translation year are recorded. Poems, plays, songs, speeches
+  and documents are excluded by class and genre.
+
+Everything else is left out rather than guessed. `rights.notes` marks the batch origin.
+After the build, `bin/prune.dart` removes editions that did not build or have fewer than
+6000 words, and keeps the first 20 per language in discovery order. Review the outlines
+with `lsr show` where a book looks off, and fix with `import` hints as above.

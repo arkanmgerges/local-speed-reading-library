@@ -1,0 +1,155 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:07:04.668739Z",
+    "chapterCount": 17,
+    "contentSha256": "e7e6f88264ce0aa5225db7d203b03467c43009ee47b88a1da5221e35d3b91baa",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/darwin-om-arternas-uppkomst-genom-naturligt-urval.sv.wikisource/v1/book.json.gz",
+    "sha256": "90d8ac4a6f5aa3e2010e5e80d947ec756c8ab485e051a549255b363c8b7f8f86",
+    "sizeBytes": 364120,
+    "uncompressedSizeBytes": 1150589,
+    "wordCount": 167526
+  },
+  "edition": {
+    "editionId": "darwin-om-arternas-uppkomst-genom-naturligt-urval.sv.wikisource",
+    "kind": "translation",
+    "language": "sv",
+    "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron af Charles Darwin. Öfversättning från femte originalupplagan af A. M. Selling",
+    "translationPublicationYear": 1871,
+    "translator": {
+      "birthYear": 1847,
+      "deathYear": 1932,
+      "name": "Alfred Mauritz Selling",
+      "wikidata": "Q16515302"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1882: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1932: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1871: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q20124",
+      "https://www.wikidata.org/wiki/Q102487176",
+      "https://www.wikidata.org/wiki/Q1035",
+      "https://www.wikidata.org/wiki/Q16515302",
+      "https://sv.wikisource.org/wiki/Om_arternas_uppkomst_genom_naturligt_urval_eller_de_b%C3%A4st_utrustade_rasernas_best%C3%A5nd_i_kampen_f%C3%B6r_tillvaron"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charles Darwin died in 1882; the translator Alfred Mauritz Selling died in 1932 and this translation was first published in 1871. Source: sv.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron",
+    "pages": [
+      {
+        "revision": 260081,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron"
+      },
+      {
+        "revision": 641913,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Titelsida"
+      },
+      {
+        "revision": 632183,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Historisk öfverblick"
+      },
+      {
+        "revision": 639803,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Inledning"
+      },
+      {
+        "revision": 631677,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Kapitel 1"
+      },
+      {
+        "revision": 635535,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Kapitel 2"
+      },
+      {
+        "revision": 633436,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Kapitel 3"
+      },
+      {
+        "revision": 632414,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Kapitel 4"
+      },
+      {
+        "revision": 642684,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Kapitel 5"
+      },
+      {
+        "revision": 640469,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Kapitel 6"
+      },
+      {
+        "revision": 635516,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Kapitel 7"
+      },
+      {
+        "revision": 638411,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Kapitel 8"
+      },
+      {
+        "revision": 634232,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Kapitel 9"
+      },
+      {
+        "revision": 633341,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Kapitel 10"
+      },
+      {
+        "revision": 637408,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Kapitel 11"
+      },
+      {
+        "revision": 642106,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Kapitel 12"
+      },
+      {
+        "revision": 638674,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Kapitel 13"
+      },
+      {
+        "revision": 631591,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Kapitel 14"
+      },
+      {
+        "revision": 642685,
+        "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron/Register"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:03:53.062910Z",
+    "revision": "260081",
+    "site": "sv.wikisource.org",
+    "url": "https://sv.wikisource.org/wiki/Om_arternas_uppkomst_genom_naturligt_urval_eller_de_b%C3%A4st_utrustade_rasernas_best%C3%A5nd_i_kampen_f%C3%B6r_tillvaron"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1809,
+      "deathYear": 1882,
+      "name": "Charles Darwin",
+      "wikidata": "Q1035"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1859,
+    "originalTitle": "Om arternas uppkomst genom naturligt urval",
+    "workId": "darwin-om-arternas-uppkomst-genom-naturligt-urval"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:19.498Z",
+    "chapterCount": 9,
+    "contentSha256": "de30a3b0261a2a2b357941c4aa1a44ec122940584e371f2886137b2111bae534",
+    "normalizerVersion": "0.2.0",
+    "path": "books/bn/chatterjee-bijnanrahasya.bn.wikisource/v1/book.json.gz",
+    "sha256": "5516be14e5bcca759d382550320d4900c90ecff52c9757bdb5427edef91272e0",
+    "sizeBytes": 50165,
+    "uncompressedSizeBytes": 271135,
+    "wordCount": 14998
+  },
+  "edition": {
+    "editionId": "chatterjee-bijnanrahasya.bn.wikisource",
+    "kind": "original",
+    "language": "bn",
+    "title": "বিজ্ঞানরহস্য"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1894: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1884: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q108216412",
+      "https://www.wikidata.org/wiki/Q377881",
+      "https://bn.wikisource.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A6%B0%E0%A6%B9%E0%A6%B8%E0%A7%8D%E0%A6%AF_(%E0%A7%A7%E0%A7%AE%E0%A7%AE%E0%A7%AA)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. বঙ্কিমচন্দ্র চট্টোপাধ্যায় died in 1894 and the work was first published in 1884. Source: bn.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "বিজ্ঞানরহস্য (১৮৮৪)",
+    "pages": [
+      {
+        "revision": 1972009,
+        "title": "বিজ্ঞানরহস্য (১৮৮৪)"
+      },
+      {
+        "revision": 1817208,
+        "title": "বিজ্ঞানরহস্য (১৮৮৪)/আশ্চর্য্য সৌরোৎপাত"
+      },
+      {
+        "revision": 1817207,
+        "title": "বিজ্ঞানরহস্য (১৮৮৪)/আকাশে কত তারা আছে?"
+      },
+      {
+        "revision": 1817214,
+        "title": "বিজ্ঞানরহস্য (১৮৮৪)/ধূলা"
+      },
+      {
+        "revision": 1817210,
+        "title": "বিজ্ঞানরহস্য (১৮৮৪)/গগনপর্য্যটন"
+      },
+      {
+        "revision": 1817211,
+        "title": "বিজ্ঞানরহস্য (১৮৮৪)/চঞ্চল জগৎ"
+      },
+      {
+        "revision": 1817209,
+        "title": "বিজ্ঞানরহস্য (১৮৮৪)/কত কাল মনুষ্য?"
+      },
+      {
+        "revision": 1817213,
+        "title": "বিজ্ঞানরহস্য (১৮৮৪)/জৈবনিক"
+      },
+      {
+        "revision": 1817215,
+        "title": "বিজ্ঞানরহস্য (১৮৮৪)/পরিমাণ-রহস্য"
+      },
+      {
+        "revision": 1817212,
+        "title": "বিজ্ঞানরহস্য (১৮৮৪)/চন্দ্রলোক"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:00:52.537457Z",
+    "revision": "1972009",
+    "site": "bn.wikisource.org",
+    "url": "https://bn.wikisource.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A6%B0%E0%A6%B9%E0%A6%B8%E0%A7%8D%E0%A6%AF_(%E0%A7%A7%E0%A7%AE%E0%A7%AE%E0%A7%AA)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1838,
+      "deathYear": 1894,
+      "name": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+      "wikidata": "Q377881"
+    },
+    "originalLanguage": "bn",
+    "originalPublicationYear": 1884,
+    "originalTitle": "বিজ্ঞানরহস্য",
+    "workId": "chatterjee-bijnanrahasya"
+  }
+}

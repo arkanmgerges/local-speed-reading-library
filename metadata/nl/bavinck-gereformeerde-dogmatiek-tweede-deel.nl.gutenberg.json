@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:56.291701Z",
+    "chapterCount": 17,
+    "contentSha256": "215ca87615eed57488c8993761d0384eb3c5e44be3dc285cabce4c3a01610523",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/bavinck-gereformeerde-dogmatiek-tweede-deel.nl.gutenberg/v1/book.json.gz",
+    "sha256": "992526b06a6b45e14fd1ba0c7af19e605bd55811a6ab5a3dd47bc19cdebab6ad",
+    "sizeBytes": 501849,
+    "uncompressedSizeBytes": 1405660,
+    "wordCount": 229669
+  },
+  "edition": {
+    "editionId": "bavinck-gereformeerde-dogmatiek-tweede-deel.nl.gutenberg",
+    "editionPublicationYear": 1897,
+    "kind": "original",
+    "language": "nl",
+    "title": "Gereformeerde dogmatiek. Tweede deel."
+  },
+  "genres": [
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1921: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1897 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/67966",
+      "https://en.wikipedia.org/wiki/Herman_Bavinck",
+      "https://nl.wikipedia.org/wiki/Herman_Bavinck"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Herman Bavinck died in 1921 and the edition digitised by Project Gutenberg was printed in 1897. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "67966",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:05:46.451514Z",
+    "revision": "Thu, 27 Aug 2026 08:59:17 GMT",
+    "url": "https://www.gutenberg.org/ebooks/67966"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1854,
+      "deathYear": 1921,
+      "name": "Herman Bavinck",
+      "wikidata": "Q1404648"
+    },
+    "originalLanguage": "nl",
+    "originalTitle": "Gereformeerde dogmatiek. Tweede deel.",
+    "workId": "bavinck-gereformeerde-dogmatiek-tweede-deel"
+  }
+}

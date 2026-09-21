@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:02.939707Z",
+    "chapterCount": 2,
+    "contentSha256": "4d30706230c779656f6b3347d63813c85f107fe84d2367a7c40cc7d45d0859ce",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/caragiale-pacat-caragiale.ro.wikisource/v1/book.json.gz",
+    "sha256": "8a338a484f5df6d403b856d120964b5bf696a41e170c4f2af777a7272e6c2c26",
+    "sizeBytes": 27474,
+    "uncompressedSizeBytes": 68241,
+    "wordCount": 10092
+  },
+  "edition": {
+    "editionId": "caragiale-pacat-caragiale.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "title": "Păcat... (Caragiale)"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1912: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1892: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q98057849",
+      "https://www.wikidata.org/wiki/Q315132",
+      "https://ro.wikisource.org/wiki/P%C4%83cat..._(Caragiale)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ion Luca Caragiale died in 1912 and the work was first published in 1892. Source: ro.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Păcat... (Caragiale)",
+    "pages": [
+      {
+        "revision": 93914,
+        "title": "Păcat... (Caragiale)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:51:04.585012Z",
+    "revision": "93914",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/P%C4%83cat..._(Caragiale)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1852,
+      "deathYear": 1912,
+      "name": "Ion Luca Caragiale",
+      "wikidata": "Q315132"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1892,
+    "originalTitle": "Păcat... (Caragiale)",
+    "workId": "caragiale-pacat-caragiale"
+  }
+}

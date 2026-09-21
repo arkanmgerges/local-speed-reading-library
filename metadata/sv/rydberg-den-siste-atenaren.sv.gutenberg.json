@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:09.894879Z",
+    "chapterCount": 33,
+    "contentSha256": "e268bc5aad08bc5ffcf414300fdc1bab7065659185e851a4ed2018f37a44be63",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/rydberg-den-siste-atenaren.sv.gutenberg/v1/book.json.gz",
+    "sha256": "71813ed84ebfa06aac588c6099940553f527248b5ae0e050bb8c3d31904d1e15",
+    "sizeBytes": 371778,
+    "uncompressedSizeBytes": 1016409,
+    "wordCount": 151867
+  },
+  "edition": {
+    "editionId": "rydberg-den-siste-atenaren.sv.gutenberg",
+    "kind": "original",
+    "language": "sv",
+    "title": "Den siste Atenaren"
+  },
+  "genres": [
+    "Fiction",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1895: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1859: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/10117",
+      "https://en.wikipedia.org/wiki/Viktor_Rydberg",
+      "https://www.wikidata.org/wiki/Q10468752"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Viktor Rydberg died in 1895 and the work was first published in 1859. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "10117",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T05:07:22.232376Z",
+    "revision": "Fri, 04 Sep 2026 21:47:08 GMT",
+    "url": "https://www.gutenberg.org/ebooks/10117"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1828,
+      "deathYear": 1895,
+      "name": "Viktor Rydberg",
+      "wikidata": "Q432129"
+    },
+    "originalLanguage": "sv",
+    "originalPublicationYear": 1859,
+    "originalTitle": "Den siste Atenaren",
+    "workId": "rydberg-den-siste-atenaren"
+  }
+}

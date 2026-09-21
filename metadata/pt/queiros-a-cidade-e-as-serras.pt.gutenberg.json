@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:33:39.683549Z",
+    "chapterCount": 19,
+    "contentSha256": "17822f659b14922572a4fe26515da776723d20cb2d616ce48ee378a436b1fd3a",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt/queiros-a-cidade-e-as-serras.pt.gutenberg/v1/book.json.gz",
+    "sha256": "8dbc09e5227f8e731d4d3a6cef92a6966e0d595b5e48157058f6b515ddf7cf39",
+    "sizeBytes": 172629,
+    "uncompressedSizeBytes": 444671,
+    "wordCount": 68237
+  },
+  "edition": {
+    "editionId": "queiros-a-cidade-e-as-serras.pt.gutenberg",
+    "kind": "original",
+    "language": "pt",
+    "title": "A Cidade e as Serras"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1900: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1901: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/18220",
+      "https://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz",
+      "https://en.wikipedia.org/wiki/Jos%C3%A9_Maria_de_E%C3%A7a_de_Queir%C3%B3s",
+      "https://www.wikidata.org/wiki/Q9556665"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Eça de Queirós died in 1900 and the work was first published in 1901. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "18220",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:48:11.068243Z",
+    "revision": "Tue, 08 Sep 2026 07:35:13 GMT",
+    "url": "https://www.gutenberg.org/ebooks/18220"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1845,
+      "deathYear": 1900,
+      "name": "Eça de Queirós",
+      "wikidata": "Q316327"
+    },
+    "originalLanguage": "pt",
+    "originalPublicationYear": 1901,
+    "originalTitle": "A Cidade e as Serras",
+    "workId": "queiros-a-cidade-e-as-serras"
+  }
+}

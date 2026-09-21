@@ -1,0 +1,117 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:20:41.586048Z",
+    "chapterCount": 273,
+    "contentSha256": "c67c54ec1d0c03245139aa6e46bcd0a4889568ff90410a2ba0f40c305806b7f9",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/sibawayh-kitab-sibawayh.ar.wikisource/v1/book.json.gz",
+    "sha256": "89319492cf5ded9d7db87488294c2a6d7fabe189d3caedf25c16d4c4cee74997",
+    "sizeBytes": 628903,
+    "uncompressedSizeBytes": 2631792,
+    "wordCount": 272015
+  },
+  "edition": {
+    "editionId": "sibawayh-kitab-sibawayh.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "الكتاب"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 797: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 800: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q3197258",
+      "https://www.wikidata.org/wiki/Q983355",
+      "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8_(%D8%B3%D9%8A%D8%A8%D9%88%D9%8A%D9%87)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. سيبويه died in 797 and the work was first published in 800. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "الكتاب (سيبويه)",
+    "pages": [
+      {
+        "revision": 498514,
+        "title": "الكتاب (سيبويه)"
+      },
+      {
+        "revision": 278388,
+        "title": "الكتاب (سيبويه)/المقدمة"
+      },
+      {
+        "revision": 292032,
+        "title": "الكتاب (سيبويه)/الجزء الأول"
+      },
+      {
+        "revision": 280588,
+        "title": "الكتاب (سيبويه)/الجزء الثاني"
+      },
+      {
+        "revision": 308378,
+        "title": "الكتاب (سيبويه)/الجزء الثالث"
+      },
+      {
+        "revision": 278384,
+        "title": "الكتاب (سيبويه)/الجزء الرابع"
+      },
+      {
+        "revision": 280589,
+        "title": "الكتاب (سيبويه)/الجزء الخامس"
+      },
+      {
+        "revision": 278386,
+        "title": "الكتاب (سيبويه)/الجزء السادس"
+      },
+      {
+        "revision": 278385,
+        "title": "الكتاب (سيبويه)/الجزء السابع"
+      },
+      {
+        "revision": 278381,
+        "title": "الكتاب (سيبويه)/الجزء الثامن"
+      },
+      {
+        "revision": 278379,
+        "title": "الكتاب (سيبويه)/الجزء التاسع"
+      },
+      {
+        "revision": 278387,
+        "title": "الكتاب (سيبويه)/الجزء العاشر"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:53:29.512174Z",
+    "revision": "498514",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8_(%D8%B3%D9%8A%D8%A8%D9%88%D9%8A%D9%87)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 760,
+      "deathYear": 797,
+      "name": "سيبويه",
+      "wikidata": "Q983355"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 800,
+    "originalTitle": "الكتاب",
+    "workId": "sibawayh-kitab-sibawayh"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:04:43.626592Z",
+    "chapterCount": 20,
+    "contentSha256": "f7528cf0e9125531f8886692ed96b06b12787ecd535e7827d793a60c37de726d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt/haggard-king-solomon-s-mines.pt.gutenberg/v1/book.json.gz",
+    "sha256": "c0ef4d8feaa54401bf1e063bd9579ec0fc704b749115fd0b6cfda87c012dc9a1",
+    "sizeBytes": 135371,
+    "uncompressedSizeBytes": 365101,
+    "wordCount": 56771
+  },
+  "edition": {
+    "editionId": "haggard-king-solomon-s-mines.pt.gutenberg",
+    "kind": "translation",
+    "language": "pt",
+    "title": "As Minas de Salomão",
+    "translationPublicationYear": 1891,
+    "translator": {
+      "birthYear": 1845,
+      "deathYear": 1900,
+      "name": "Eça de Queirós",
+      "wikidata": "Q316327"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1925: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1900: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation printed 1891 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/22015",
+      "https://en.wikipedia.org/wiki/H._Rider_Haggard",
+      "https://www.wikidata.org/wiki/Q1137494",
+      "https://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz",
+      "https://en.wikipedia.org/wiki/Jos%C3%A9_Maria_de_E%C3%A7a_de_Queir%C3%B3s"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. H. Rider Haggard died in 1925; the translator Eça de Queirós died in 1900 and this translation was printed in 1891. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "22015",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:47:57.623378Z",
+    "revision": "Wed, 09 Sep 2026 12:09:59 GMT",
+    "url": "https://www.gutenberg.org/ebooks/22015"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1856,
+      "deathYear": 1925,
+      "name": "H. Rider Haggard",
+      "wikidata": "Q237196"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1885,
+    "originalTitle": "King Solomon's Mines",
+    "workId": "haggard-king-solomon-s-mines"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:01.865028Z",
+    "chapterCount": 15,
+    "contentSha256": "bde5d59382e7763625cdb646569a36646901bfc25d59a1f0d73e656bdb06dbca",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/kielland-skipper-worse.no.wikisource/v1/book.json.gz",
+    "sha256": "299ac651d649c5a4b2e9456a1e0e56c9dddcc8086d50d1b2b5d91a68b6db23b9",
+    "sizeBytes": 119993,
+    "uncompressedSizeBytes": 323975,
+    "wordCount": 53100
+  },
+  "edition": {
+    "editionId": "kielland-skipper-worse.no.wikisource",
+    "kind": "original",
+    "language": "no",
+    "title": "Skipper Worse"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1906: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1882: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12000992",
+      "https://www.wikidata.org/wiki/Q318358",
+      "https://no.wikisource.org/wiki/Skipper_Worse"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Alexander Kielland died in 1906 and the work was first published in 1882. Source: no.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Skipper Worse",
+    "pages": [
+      {
+        "revision": 67577,
+        "title": "Skipper Worse"
+      },
+      {
+        "revision": 63761,
+        "title": "Skipper Worse/1"
+      },
+      {
+        "revision": 63762,
+        "title": "Skipper Worse/2"
+      },
+      {
+        "revision": 66817,
+        "title": "Skipper Worse/3"
+      },
+      {
+        "revision": 66833,
+        "title": "Skipper Worse/4"
+      },
+      {
+        "revision": 66847,
+        "title": "Skipper Worse/5"
+      },
+      {
+        "revision": 66870,
+        "title": "Skipper Worse/6"
+      },
+      {
+        "revision": 66900,
+        "title": "Skipper Worse/7"
+      },
+      {
+        "revision": 67182,
+        "title": "Skipper Worse/8"
+      },
+      {
+        "revision": 67452,
+        "title": "Skipper Worse/9"
+      },
+      {
+        "revision": 67901,
+        "title": "Skipper Worse/10"
+      },
+      {
+        "revision": 67491,
+        "title": "Skipper Worse/11"
+      },
+      {
+        "revision": 67544,
+        "title": "Skipper Worse/12"
+      },
+      {
+        "revision": 67555,
+        "title": "Skipper Worse/13"
+      },
+      {
+        "revision": 67564,
+        "title": "Skipper Worse/14"
+      },
+      {
+        "revision": 67575,
+        "title": "Skipper Worse/15"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:18:51.357045Z",
+    "revision": "67577",
+    "site": "no.wikisource.org",
+    "url": "https://no.wikisource.org/wiki/Skipper_Worse"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1849,
+      "deathYear": 1906,
+      "name": "Alexander Kielland",
+      "wikidata": "Q318358"
+    },
+    "originalLanguage": "no",
+    "originalPublicationYear": 1882,
+    "originalTitle": "Skipper Worse",
+    "workId": "kielland-skipper-worse"
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 51,
+        "contentSha256": "285c9f6c6da557c5acba01e7b36c5dc168ad563d452d9f58ffdadee761f94771",
+        "encoding": "gzip",
+        "path": "books/cs/afanasjev-ruske-narodni-pohadky.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "870b2fe666e449b4ec3b7a6bda13d4e9f6fa6b14751728e1f420014fab08c19f",
+        "sizeBytes": 159899,
+        "uncompressedSizeBytes": 454279,
+        "wordCount": 68303
+      },
+      "author": "Alexandr Nikolajevič Afanasjev",
+      "authorDeathYear": 1871,
+      "editionId": "afanasjev-ruske-narodni-pohadky.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "cs",
+      "originalLanguage": "be",
+      "originalPublicationYear": 1855,
+      "originalTitle": "Ruské národní pohádky",
+      "rights": {
+        "statement": "Public domain worldwide. Alexandr Nikolajevič Afanasjev died in 1871; the translator František Vymazal died in 1917 and this translation was first published in 1883. Source: cs.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Ruské národní pohádky",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:07:27.907806Z",
+        "revision": "292188",
+        "url": "https://cs.wikisource.org/wiki/Rusk%C3%A9_n%C3%A1rodn%C3%AD_poh%C3%A1dky"
+      },
+      "title": "Ruské národní pohádky",
+      "translationPublicationYear": 1883,
+      "translator": "František Vymazal",
+      "translatorDeathYear": 1917,
+      "workId": "afanasjev-ruske-narodni-pohadky"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "bc253095f6113f44eb5907e3bf5f52d5c9923c6ea5d548428e2bfca5b6a412c4",
+        "encoding": "gzip",
+        "path": "books/cs/andersen-vodni-panna.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0e76a17f84e402ed42c4b2040379b80c39a99d2f857ec7601ad9b670738bad34",
+        "sizeBytes": 20574,
+        "uncompressedSizeBytes": 50727,
+        "wordCount": 7264
+      },
+      "author": "Hans Christian Andersen",
+      "authorDeathYear": 1875,
+      "editionId": "andersen-vodni-panna.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "cs",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1837,
+      "originalTitle": "Vodní panna",
+      "rights": {
+        "statement": "Public domain worldwide. Hans Christian Andersen died in 1875; the translator Josef Mikuláš Boleslavský died in 1892 and this translation was first published in 1863. Source: cs.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "H. C. Andersena Povídky a báchorky/Vodní panna",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:07:37.449768Z",
+        "revision": "257524",
+        "url": "https://cs.wikisource.org/wiki/H._C._Andersena_Pov%C3%ADdky_a_b%C3%A1chorky/Vodn%C3%AD_panna"
+      },
+      "title": "Vodní panna",
+      "translationPublicationYear": 1863,
+      "translator": "Josef Mikuláš Boleslavský",
+      "translatorDeathYear": 1892,
+      "workId": "andersen-vodni-panna"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "7fa203a04363aa66154b4710d299c98a2c4e0f2a83bd38b5e58d413c56352024",
+        "encoding": "gzip",
+        "path": "books/cs/defoe-malu-robinson.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "511d67c7f58910c46b2916c49e19260e4662d3045c80bb8bdffbf020372c2b66",
+        "sizeBytes": 25333,
+        "uncompressedSizeBytes": 70961,
+        "wordCount": 9685
+      },
+      "author": "Daniel Defoe",
+      "authorDeathYear": 1731,
+      "editionId": "defoe-malu-robinson.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "cs",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1719,
+      "originalTitle": "Malý Robinson",
+      "rights": {
+        "statement": "Public domain worldwide. Daniel Defoe died in 1731; the translator Pavel J. Šulc died in 1897 and this translation was first published in 1882. Source: cs.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Malý Robinson",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:08:01.689924Z",
+        "revision": "298323",
+        "url": "https://cs.wikisource.org/wiki/Mal%C3%BD_Robinson"
+      },
+      "title": "Malý Robinson",
+      "translationPublicationYear": 1882,
+      "translator": "Pavel J. Šulc",
+      "translatorDeathYear": 1897,
+      "workId": "defoe-malu-robinson"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 20,
+        "contentSha256": "0d1fe5b5d9233d1c95227c4d373c946c1fcb6c2891b247e36362ef0d87229769",
+        "encoding": "gzip",
+        "path": "books/cs/doyle-ztracenu-svet.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "22ea8abee3c5232f1cb83a45dbc27bb7caf1a462f513cc9c2394cc9f18cb95ea",
+        "sizeBytes": 195922,
+        "uncompressedSizeBytes": 506767,
+        "wordCount": 71052
+      },
+      "author": "Arthur Conan Doyle",
+      "authorDeathYear": 1930,
+      "editionId": "doyle-ztracenu-svet.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "cs",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1912,
+      "originalTitle": "Ztracený svět",
+      "rights": {
+        "statement": "Public domain worldwide. Arthur Conan Doyle died in 1930; the translator Karel Weinfurter died in 1942 and this translation was first published in 1925. Source: cs.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Ztracený svět",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:08:28.616410Z",
+        "revision": "336520",
+        "url": "https://cs.wikisource.org/wiki/Ztracen%C3%BD_sv%C4%9Bt"
+      },
+      "title": "Ztracený svět",
+      "translationPublicationYear": 1925,
+      "translator": "Karel Weinfurter",
+      "translatorDeathYear": 1942,
+      "workId": "doyle-ztracenu-svet"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 75,
+        "contentSha256": "63ec43f5a702d17b8834f0ebe1c89b0cdc8c6426970b2660cb48282db4d05fe3",
+        "encoding": "gzip",
+        "path": "books/cs/fontaine-bajky-lafontenovy.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b055bcd2e3cf69d980e38d81e63847e57092bac6822895f8087cd3892499626c",
+        "sizeBytes": 47995,
+        "uncompressedSizeBytes": 145054,
+        "wordCount": 18162
+      },
+      "author": "Jean de La Fontaine",
+      "authorDeathYear": 1695,
+      "editionId": "fontaine-bajky-lafontenovy.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "cs",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1668,
+      "originalTitle": "Bajky Lafonténovy",
+      "rights": {
+        "statement": "Public domain worldwide. Jean de La Fontaine died in 1695; the translator Emil Herrmann died in 1892 and this translation was first published in 1875. Source: cs.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Bajky Lafonténovy",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:10:07.868452Z",
+        "revision": "306604",
+        "url": "https://cs.wikisource.org/wiki/Bajky_Lafont%C3%A9novy"
+      },
+      "title": "Bajky Lafonténovy",
+      "translationPublicationYear": 1875,
+      "translator": "Emil Herrmann",
+      "translatorDeathYear": 1892,
+      "workId": "fontaine-bajky-lafontenovy"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 21,
+        "contentSha256": "2ef02edfb554f77bc5957c70bad9b04c890709b5f622bdedf286046641a29006",
+        "encoding": "gzip",
+        "path": "books/cs/meyrink-golem.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4c7927e9e67921e2c6c2c0707e969e479c7ce5ae3e45d7d667ed443e130f3fbf",
+        "sizeBytes": 184783,
+        "uncompressedSizeBytes": 477698,
+        "wordCount": 66477
+      },
+      "author": "Gustav Meyrink",
+      "authorDeathYear": 1932,
+      "editionId": "meyrink-golem.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "cs",
+      "originalLanguage": "de",
+      "originalPublicationYear": 1915,
+      "originalTitle": "Golem",
+      "rights": {
+        "statement": "Public domain worldwide. Gustav Meyrink died in 1932; the translator Bořivoj Prusík died in 1928 and this translation was first published in 1917. Source: cs.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Golem (překlad Prusík)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:10:45.494490Z",
+        "revision": "249483",
+        "url": "https://cs.wikisource.org/wiki/Golem_(p%C5%99eklad_Prus%C3%ADk)"
+      },
+      "title": "Golem",
+      "translationPublicationYear": 1917,
+      "translator": "Bořivoj Prusík",
+      "translatorDeathYear": 1928,
+      "workId": "meyrink-golem"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 23,
+        "contentSha256": "4f23d93731045178bad2793e40397978b6d420fc696f5da86dbe1bdf7bf657bd",
+        "encoding": "gzip",
+        "path": "books/cs/sienkiewicz-koiyaci.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "39f1d4dd94c06ce73c55186029d9c238f8d379ac68c0efde351313f7fc401b0d",
+        "sizeBytes": 267893,
+        "uncompressedSizeBytes": 706196,
+        "wordCount": 98148
+      },
+      "author": "Henryk Sienkiewicz",
+      "authorDeathYear": 1916,
+      "editionId": "sienkiewicz-koiyaci.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "cs",
+      "originalLanguage": "pl",
+      "originalPublicationYear": 1900,
+      "originalTitle": "Křižáci",
+      "rights": {
+        "statement": "Public domain worldwide. Henryk Sienkiewicz died in 1916; the translator Augustin Spáčil died in 1929 and this translation was first published in 1926. Source: cs.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Křižáci",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:11:25.319489Z",
+        "revision": "227872",
+        "url": "https://cs.wikisource.org/wiki/K%C5%99i%C5%BE%C3%A1ci"
+      },
+      "title": "Křižáci",
+      "translationPublicationYear": 1926,
+      "translator": "Augustin Spáčil",
+      "translatorDeathYear": 1929,
+      "workId": "sienkiewicz-koiyaci"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "5710859af90c32d8ac7c99e5bc5cb46e7222d5cb35e852f979c05243412c6781",
+        "encoding": "gzip",
+        "path": "books/cs/swift-gulliverovy-cesty.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "425fcdafdf79490c5c4a0260540fb7d2b906598d09a3ef30a8243fe6c2ac0e44",
+        "sizeBytes": 40618,
+        "uncompressedSizeBytes": 106624,
+        "wordCount": 14624
+      },
+      "author": "Jonathan Swift",
+      "authorDeathYear": 1745,
+      "editionId": "swift-gulliverovy-cesty.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "cs",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1726,
+      "originalTitle": "Gulliverovy cesty",
+      "rights": {
+        "statement": "Public domain worldwide. Jonathan Swift died in 1745; the translator Bohumil Klika died in 1942 and this translation was first published in 1905. Source: cs.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Gulliverovy cesty (Klika)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:11:43.007190Z",
+        "revision": "290511",
+        "url": "https://cs.wikisource.org/wiki/Gulliverovy_cesty_(Klika)"
+      },
+      "title": "Gulliverovy cesty",
+      "translationPublicationYear": 1905,
+      "translator": "Bohumil Klika",
+      "translatorDeathYear": 1942,
+      "workId": "swift-gulliverovy-cesty"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 147,
+        "contentSha256": "e68b61b7d9741196563a29a320e945c880bf8a097d319e0fc30e084e31c8a9a9",
+        "encoding": "gzip",
+        "path": "books/cs/thukydides-sepsani-valky-peloponnesske.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "fa7e3addc20ab6166edf1aafe8e85d1c5cfd3f60f539e162dfacb2e240c26aa6",
+        "sizeBytes": 79020,
+        "uncompressedSizeBytes": 269255,
+        "wordCount": 33208
+      },
+      "author": "Thúkydidés",
+      "authorDeathYear": -394,
+      "editionId": "thukydides-sepsani-valky-peloponnesske.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "cs",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Sepsání války peloponnesské",
+      "rights": {
+        "statement": "Public domain worldwide. Thúkydidés died in -394; the translator Jan Nepomuk František Desolda died in 1885 and this translation was first published in 1885. Source: cs.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Sepsání války peloponnesské",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:15:02.424016Z",
+        "revision": "281869",
+        "url": "https://cs.wikisource.org/wiki/Seps%C3%A1n%C3%AD_v%C3%A1lky_peloponnessk%C3%A9"
+      },
+      "title": "Sepsání války peloponnesské",
+      "translationPublicationYear": 1885,
+      "translator": "Jan Nepomuk František Desolda",
+      "translatorDeathYear": 1885,
+      "workId": "thukydides-sepsani-valky-peloponnesske"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 76,
+        "contentSha256": "8ae000c779029f81827a32415a554a4679d6e9c213f0aee098a34e995c71d018",
+        "encoding": "gzip",
+        "path": "books/cs/twain-dobrodruystvi-toma-sawyera.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4770c3f622c357b55d33ddacb9516030b8ffa403051b0510e94746cf1467a691",
+        "sizeBytes": 167751,
+        "uncompressedSizeBytes": 436907,
+        "wordCount": 61557
+      },
+      "author": "Mark Twain",
+      "authorDeathYear": 1910,
+      "editionId": "twain-dobrodruystvi-toma-sawyera.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "cs",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1876,
+      "originalTitle": "Dobrodružství Toma Sawyera",
+      "rights": {
+        "statement": "Public domain worldwide. Mark Twain died in 1910; the translator Karel Kohlman died in 1948 and this translation was first published in 1900. Source: cs.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Dobrodružství Toma Sawyera",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:15:54.763771Z",
+        "revision": "277142",
+        "url": "https://cs.wikisource.org/wiki/Dobrodru%C5%BEstv%C3%AD_Toma_Sawyera"
+      },
+      "title": "Dobrodružství Toma Sawyera",
+      "translationPublicationYear": 1900,
+      "translator": "Karel Kohlman",
+      "translatorDeathYear": 1948,
+      "workId": "twain-dobrodruystvi-toma-sawyera"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Czech",
+  "language": "cs",
+  "manifestVersion": "ddf66882ac5be983",
+  "nativeName": "Čeština",
+  "schemaVersion": 1
+}

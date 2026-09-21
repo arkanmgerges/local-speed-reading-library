@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:31:24.476886Z",
+    "chapterCount": 23,
+    "contentSha256": "39e3c6dd8d7ef6df7d787c6f0523de6ccc492035f3ed75e74013d43be8c9b86c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/multatuli-max-havelaar-of-de-koffiveilingen-der-nederlandsche.nl.gutenberg/v1/book.json.gz",
+    "sha256": "efcfa11ae49ebb4b09730f85486b9af55e923d8f00b169db6c2fc48c0584fe30",
+    "sizeBytes": 288130,
+    "uncompressedSizeBytes": 770566,
+    "wordCount": 123860
+  },
+  "edition": {
+    "editionId": "multatuli-max-havelaar-of-de-koffiveilingen-der-nederlandsche.nl.gutenberg",
+    "kind": "original",
+    "language": "nl",
+    "title": "Max Havelaar Of de koffiveilingen der Nederlandsche Handelsmaatschappy"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1887: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1860: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/11024",
+      "https://nl.wikipedia.org/wiki/Eduard_Douwes_Dekker",
+      "https://en.wikipedia.org/wiki/Multatuli",
+      "https://www.wikidata.org/wiki/Q919067"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Multatuli died in 1887 and the work was first published in 1860. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "11024",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:09:52.013823Z",
+    "revision": "Sat, 05 Sep 2026 09:52:33 GMT",
+    "url": "https://www.gutenberg.org/ebooks/11024"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1820,
+      "deathYear": 1887,
+      "name": "Multatuli",
+      "wikidata": "Q154211"
+    },
+    "originalLanguage": "nl",
+    "originalPublicationYear": 1860,
+    "originalTitle": "Max Havelaar Of de koffiveilingen der Nederlandsche Handelsmaatschappy",
+    "workId": "multatuli-max-havelaar-of-de-koffiveilingen-der-nederlandsche"
+  }
+}

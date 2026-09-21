@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:08.996776Z",
+    "chapterCount": 1,
+    "contentSha256": "09525121caf85e677b3c7b12e6f67c3a690d5600b9affb799d4852d0898b15d6",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ml/gundert-keralolpathi.ml.wikisource/v1/book.json.gz",
+    "sha256": "910a59ff7862837f694194a3932e4815e0a9cf3f58b8fbcadd5d5639a5fe36a7",
+    "sizeBytes": 63354,
+    "uncompressedSizeBytes": 345612,
+    "wordCount": 14391
+  },
+  "edition": {
+    "editionId": "gundert-keralolpathi.ml.wikisource",
+    "kind": "original",
+    "language": "ml",
+    "title": "കെരളൊല്പത്തി"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1893: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1843: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q108200514",
+      "https://www.wikidata.org/wiki/Q76578",
+      "https://ml.wikisource.org/wiki/%E0%B4%95%E0%B5%86%E0%B4%B0%E0%B4%B3%E0%B5%8A%E0%B4%B2%E0%B5%8D%E0%B4%AA%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%BF_(1843)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ഹെർമൻ ഗുണ്ടർട്ട് died in 1893 and the work was first published in 1843. Source: ml.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "കെരളൊല്പത്തി (1843)",
+    "pages": [
+      {
+        "revision": 210916,
+        "title": "കെരളൊല്പത്തി (1843)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:59:00.818923Z",
+    "revision": "210916",
+    "site": "ml.wikisource.org",
+    "url": "https://ml.wikisource.org/wiki/%E0%B4%95%E0%B5%86%E0%B4%B0%E0%B4%B3%E0%B5%8A%E0%B4%B2%E0%B5%8D%E0%B4%AA%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%BF_(1843)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1814,
+      "deathYear": 1893,
+      "name": "ഹെർമൻ ഗുണ്ടർട്ട്",
+      "wikidata": "Q76578"
+    },
+    "originalLanguage": "ml",
+    "originalPublicationYear": 1843,
+    "originalTitle": "കെരളൊല്പത്തി",
+    "workId": "gundert-keralolpathi"
+  }
+}

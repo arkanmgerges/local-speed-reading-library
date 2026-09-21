@@ -1,0 +1,133 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:11.862593Z",
+    "chapterCount": 15,
+    "contentSha256": "955d5b7ffebb6babf5fda96977c655a3a0ec418533ee7b0a5cb1e9ec716c4c69",
+    "normalizerVersion": "0.2.0",
+    "path": "books/be/lastouski-q28152914.be.wikisource/v1/book.json.gz",
+    "sha256": "c8a6e7128f42bc64df32eac9efd7aa2bb7cb2ba27984644bac516e637179c83a",
+    "sizeBytes": 840112,
+    "uncompressedSizeBytes": 2997081,
+    "wordCount": 250968
+  },
+  "edition": {
+    "editionId": "lastouski-q28152914.be.wikisource",
+    "kind": "original",
+    "language": "be",
+    "title": "Гісторыя беларускай (крыўскай) кнігі"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1938: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1926: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q28152914",
+      "https://www.wikidata.org/wiki/Q2995798",
+      "https://be.wikisource.org/wiki/%D0%93%D1%96%D1%81%D1%82%D0%BE%D1%80%D1%8B%D1%8F_%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%BA%D0%B0%D0%B9_(%D0%BA%D1%80%D1%8B%D1%9E%D1%81%D0%BA%D0%B0%D0%B9)_%D0%BA%D0%BD%D1%96%D0%B3%D1%96_(1926)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Вацлаў Юстынавіч Ластоўскі died in 1938 and the work was first published in 1926. Source: be.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Гісторыя беларускай (крыўскай) кнігі (1926)",
+    "pages": [
+      {
+        "revision": 286957,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)"
+      },
+      {
+        "revision": 286902,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)/Прадмова"
+      },
+      {
+        "revision": 286906,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)/Уступ"
+      },
+      {
+        "revision": 286909,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)/Канец X-га і XI-е стагодзьдзе"
+      },
+      {
+        "revision": 286911,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)/XII стагодзьдзе"
+      },
+      {
+        "revision": 286914,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)/XIII стагодзьдзе"
+      },
+      {
+        "revision": 286917,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)/XIV стагодзьдзе"
+      },
+      {
+        "revision": 286920,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)/XV стагодзьдзе"
+      },
+      {
+        "revision": 286923,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)/XVI стагодзьдзе"
+      },
+      {
+        "revision": 286926,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)/XVII стагодзьдзе"
+      },
+      {
+        "revision": 286929,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)/XVIII стагодзьдзе"
+      },
+      {
+        "revision": 286933,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)/Слоўнік помнікаў старакрыўскай (беларускай) пісьменнасьці"
+      },
+      {
+        "revision": 286937,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)/Выказ імён і рэчаў"
+      },
+      {
+        "revision": 286941,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)/Выказ старакрыўскай (беларускай) пісьменнасьці паводле зьместу"
+      },
+      {
+        "revision": 286943,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)/Выказ аўтораў"
+      },
+      {
+        "revision": 286945,
+        "title": "Гісторыя беларускай (крыўскай) кнігі (1926)/Важнейшыя папраўкі друку"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:58:03.328034Z",
+    "revision": "286957",
+    "site": "be.wikisource.org",
+    "url": "https://be.wikisource.org/wiki/%D0%93%D1%96%D1%81%D1%82%D0%BE%D1%80%D1%8B%D1%8F_%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%BA%D0%B0%D0%B9_(%D0%BA%D1%80%D1%8B%D1%9E%D1%81%D0%BA%D0%B0%D0%B9)_%D0%BA%D0%BD%D1%96%D0%B3%D1%96_(1926)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1883,
+      "deathYear": 1938,
+      "name": "Вацлаў Юстынавіч Ластоўскі",
+      "wikidata": "Q2995798"
+    },
+    "originalLanguage": "be",
+    "originalPublicationYear": 1926,
+    "originalTitle": "Гісторыя беларускай (крыўскай) кнігі",
+    "workId": "lastouski-q28152914"
+  }
+}

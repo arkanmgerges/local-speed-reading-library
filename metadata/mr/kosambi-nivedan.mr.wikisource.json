@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:38.009948Z",
+    "chapterCount": 1,
+    "contentSha256": "dc804fb9a666edff0263f1da5e2f7566f5a587f78a85c76a45d18b4aa7ede4d4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/mr/kosambi-nivedan.mr.wikisource/v1/book.json.gz",
+    "sha256": "23b08f5699a1f3f18b652aeb123fee91b237bdb853ffecf34ef7bf8c9a643dbd",
+    "sizeBytes": 190689,
+    "uncompressedSizeBytes": 1013506,
+    "wordCount": 57012
+  },
+  "edition": {
+    "editionId": "kosambi-nivedan.mr.wikisource",
+    "kind": "original",
+    "language": "mr",
+    "title": "निवेदन"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1947: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1924: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q136659980",
+      "https://www.wikidata.org/wiki/Q2085380",
+      "https://mr.wikisource.org/wiki/%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%A8"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. धर्मानंद दामोदर कोसंबी died in 1947 and the work was first published in 1924. Source: mr.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "निवेदन",
+    "pages": [
+      {
+        "revision": 226130,
+        "title": "निवेदन"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:03:28.090589Z",
+    "revision": "226130",
+    "site": "mr.wikisource.org",
+    "url": "https://mr.wikisource.org/wiki/%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%A8"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1876,
+      "deathYear": 1947,
+      "name": "धर्मानंद दामोदर कोसंबी",
+      "wikidata": "Q2085380"
+    },
+    "originalLanguage": "mr",
+    "originalPublicationYear": 1924,
+    "originalTitle": "निवेदन",
+    "workId": "kosambi-nivedan"
+  }
+}

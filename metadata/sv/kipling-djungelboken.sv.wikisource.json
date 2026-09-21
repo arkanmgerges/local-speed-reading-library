@@ -1,0 +1,139 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:07:24.429165Z",
+    "chapterCount": 14,
+    "contentSha256": "8fbddd491e56d0ec728248e0f3b411f6b7fd57b14171a7eaf3a2fd497b85ae38",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/kipling-djungelboken.sv.wikisource/v1/book.json.gz",
+    "sha256": "6ddcf5cdbe59a53561044d56a0c31af27418ee67448d917527640705d7c87e3f",
+    "sizeBytes": 113933,
+    "uncompressedSizeBytes": 315255,
+    "wordCount": 50322
+  },
+  "edition": {
+    "editionId": "kipling-djungelboken.sv.wikisource",
+    "kind": "translation",
+    "language": "sv",
+    "title": "Djungelboken",
+    "translationPublicationYear": 1915,
+    "translator": {
+      "birthYear": 1849,
+      "deathYear": 1923,
+      "name": "Tom Edgar Wilson",
+      "wikidata": "Q5627104"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1936: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1923: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1915: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q189509",
+      "https://www.wikidata.org/wiki/Q121843147",
+      "https://www.wikidata.org/wiki/Q34743",
+      "https://www.wikidata.org/wiki/Q5627104",
+      "https://sv.wikisource.org/wiki/Djungelboken"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Rudyard Kipling died in 1936; the translator Tom Edgar Wilson died in 1923 and this translation was first published in 1915. Source: sv.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Djungelboken",
+    "pages": [
+      {
+        "revision": 323985,
+        "title": "Djungelboken"
+      },
+      {
+        "revision": 323983,
+        "title": "Djungelboken/Kapitel 01"
+      },
+      {
+        "revision": 323984,
+        "title": "Djungelboken/Kapitel 02"
+      },
+      {
+        "revision": 323986,
+        "title": "Djungelboken/Kapitel 03"
+      },
+      {
+        "revision": 323987,
+        "title": "Djungelboken/Kapitel 04"
+      },
+      {
+        "revision": 323988,
+        "title": "Djungelboken/Kapitel 05"
+      },
+      {
+        "revision": 323989,
+        "title": "Djungelboken/Kapitel 06"
+      },
+      {
+        "revision": 323990,
+        "title": "Djungelboken/Kapitel 07"
+      },
+      {
+        "revision": 323991,
+        "title": "Djungelboken/Kapitel 08"
+      },
+      {
+        "revision": 323992,
+        "title": "Djungelboken/Kapitel 09"
+      },
+      {
+        "revision": 323993,
+        "title": "Djungelboken/Kapitel 10"
+      },
+      {
+        "revision": 323994,
+        "title": "Djungelboken/Kapitel 11"
+      },
+      {
+        "revision": 323995,
+        "title": "Djungelboken/Kapitel 12"
+      },
+      {
+        "revision": 323996,
+        "title": "Djungelboken/Kapitel 13"
+      },
+      {
+        "revision": 323997,
+        "title": "Djungelboken/Kapitel 14"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:07:11.345428Z",
+    "revision": "323985",
+    "site": "sv.wikisource.org",
+    "url": "https://sv.wikisource.org/wiki/Djungelboken"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1865,
+      "deathYear": 1936,
+      "name": "Rudyard Kipling",
+      "wikidata": "Q34743"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1894,
+    "originalTitle": "Djungelboken",
+    "workId": "kipling-djungelboken"
+  }
+}

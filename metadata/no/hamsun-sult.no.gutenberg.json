@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:31:57.194781Z",
+    "chapterCount": 6,
+    "contentSha256": "0cfc0f13aa28eae7f0b60a4a797bfcda670badd4dcb8150438aae2140d44370e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/hamsun-sult.no.gutenberg/v1/book.json.gz",
+    "sha256": "d6eaf2b1723e5e02ccc16ef29bbbbf17f40dcc26415490a11515c42e7387c376",
+    "sizeBytes": 128229,
+    "uncompressedSizeBytes": 354059,
+    "wordCount": 61303
+  },
+  "edition": {
+    "editionId": "hamsun-sult.no.gutenberg",
+    "kind": "original",
+    "language": "no",
+    "title": "Sult"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1952: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1890: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/30027",
+      "https://en.wikipedia.org/wiki/Knut_Hamsun",
+      "https://www.wikidata.org/wiki/Q1062365"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Knut Hamsun died in 1952 and the work was first published in 1890. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "30027",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:17:10.975841Z",
+    "revision": "Sat, 12 Sep 2026 18:23:57 GMT",
+    "url": "https://www.gutenberg.org/ebooks/30027"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1859,
+      "deathYear": 1952,
+      "name": "Knut Hamsun",
+      "wikidata": "Q40826"
+    },
+    "originalLanguage": "no",
+    "originalPublicationYear": 1890,
+    "originalTitle": "Sult",
+    "workId": "hamsun-sult"
+  }
+}

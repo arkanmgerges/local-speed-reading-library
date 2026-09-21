@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:58:48.827191Z",
+    "chapterCount": 97,
+    "contentSha256": "15218e662b4f36a281e704ef9c1efbbf7a096ac1818e587becfbab412945b234",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hu/jokai-forradalom-alatt-irt-m-vek.hu.gutenberg/v1/book.json.gz",
+    "sha256": "89f9c32a5753060f8c57f8bf09efbc4fe8325f9763b25a330c61d374bee875f2",
+    "sizeBytes": 192030,
+    "uncompressedSizeBytes": 501579,
+    "wordCount": 62712
+  },
+  "edition": {
+    "editionId": "jokai-forradalom-alatt-irt-m-vek.hu.gutenberg",
+    "editionPublicationYear": 1912,
+    "kind": "original",
+    "language": "hu",
+    "title": "Forradalom alatt irt művek"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1904: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1912 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/76255",
+      "https://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Mór Jókai died in 1904 and the edition digitised by Project Gutenberg was printed in 1912. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "76255",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:35:46.485968Z",
+    "revision": "Sun, 30 Aug 2026 13:08:16 GMT",
+    "url": "https://www.gutenberg.org/ebooks/76255"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1825,
+      "deathYear": 1904,
+      "name": "Mór Jókai",
+      "wikidata": "Q379621"
+    },
+    "originalLanguage": "hu",
+    "originalTitle": "Forradalom alatt irt művek",
+    "workId": "jokai-forradalom-alatt-irt-m-vek"
+  }
+}

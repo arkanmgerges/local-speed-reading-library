@@ -1,0 +1,76 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:02:05.885866Z",
+    "chapterCount": 41,
+    "contentSha256": "3dac46ed4cf3918b93c02589d3c9a3a8cc4c09249735367c1fad82b38b76b830",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/darwin-the-descent-of-man-and-selection-in.nl.gutenberg/v1/book.json.gz",
+    "sha256": "1ba968ab020ff9aa8215bfe8e3ce51a719fde0492687450e2a3a7fb6fbdb5e2e",
+    "sizeBytes": 490157,
+    "uncompressedSizeBytes": 1471328,
+    "wordCount": 221093
+  },
+  "edition": {
+    "editionId": "darwin-the-descent-of-man-and-selection-in.nl.gutenberg",
+    "kind": "translation",
+    "language": "nl",
+    "title": "De afstamming van den mensch en de seksueele teeltkeus, deel 1 (van 2)",
+    "translationPublicationYear": 1872,
+    "translator": {
+      "birthYear": 1841,
+      "deathYear": 1891,
+      "name": "H. Hartogh Heys van Zouteveen",
+      "wikidata": "Q13725306"
+    }
+  },
+  "genres": [
+    "Science",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1882: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1891: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation printed 1872 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/69013",
+      "https://en.wikipedia.org/wiki/Charles_Darwin",
+      "https://www.wikidata.org/wiki/Q1165434",
+      "https://nl.wikipedia.org/wiki/Hermanus_Hartogh_Heijs_van_Zouteveen"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charles Darwin died in 1882; the translator H. Hartogh Heys van Zouteveen died in 1891 and this translation was printed in 1872. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "69013",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:08:29.324769Z",
+    "revision": "Thu, 27 Aug 2026 13:23:09 GMT",
+    "url": "https://www.gutenberg.org/ebooks/69013"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1809,
+      "deathYear": 1882,
+      "name": "Charles Darwin",
+      "wikidata": "Q1035"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1871,
+    "originalTitle": "The Descent of Man, and Selection in Relation to Sex",
+    "workId": "darwin-the-descent-of-man-and-selection-in"
+  }
+}

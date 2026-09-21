@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:51:47.354331Z",
+    "chapterCount": 4,
+    "contentSha256": "bda70cea2df1afaea87a4d19452c0caf1bc4d5f7216aabb10d52e8d291f9fac8",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/plato-defensa-de-socrates.ca.wikisource/v1/book.json.gz",
+    "sha256": "8814a39a3f13c06a667e61425e4c6bfc21fbc0a2c2c39775a591cf126d4fe25c",
+    "sizeBytes": 22593,
+    "uncompressedSizeBytes": 61752,
+    "wordCount": 10802
+  },
+  "edition": {
+    "editionId": "plato-defensa-de-socrates.ca.wikisource",
+    "kind": "translation",
+    "language": "ca",
+    "title": "Diàlegs I - Defensa de Sòcrates",
+    "translationPublicationYear": 1924,
+    "translator": {
+      "birthYear": 1896,
+      "deathYear": 1926,
+      "name": "Joan Crexells i Vallhonrat",
+      "wikidata": "Q11033020"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -348: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1926: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1924: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q273668",
+      "https://www.wikidata.org/wiki/Q19524800",
+      "https://www.wikidata.org/wiki/Q859",
+      "https://www.wikidata.org/wiki/Q11033020",
+      "https://ca.wikisource.org/wiki/Di%C3%A0legs_I_-_Defensa_de_S%C3%B2crates"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Plató died in -348; the translator Joan Crexells i Vallhonrat died in 1926 and this translation was first published in 1924. Source: ca.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Diàlegs I - Defensa de Sòcrates",
+    "pages": [
+      {
+        "revision": 134950,
+        "title": "Diàlegs I - Defensa de Sòcrates"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:05:56.001772Z",
+    "revision": "134950",
+    "site": "ca.wikisource.org",
+    "url": "https://ca.wikisource.org/wiki/Di%C3%A0legs_I_-_Defensa_de_S%C3%B2crates"
+  },
+  "work": {
+    "author": {
+      "birthYear": -428,
+      "deathYear": -348,
+      "name": "Plató",
+      "wikidata": "Q859"
+    },
+    "originalLanguage": "grc",
+    "originalPublicationYear": -395,
+    "originalTitle": "Defensa de Sòcrates",
+    "workId": "plato-defensa-de-socrates"
+  }
+}

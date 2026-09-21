@@ -1,0 +1,127 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:43.392365Z",
+    "chapterCount": 13,
+    "contentSha256": "205d793b5710fee8387071a997c2b11123ffaaf2de0baf282c0f60151866aeb0",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/stevenson-czlowiek-o-dwu-twarzach.pl.wikisource/v1/book.json.gz",
+    "sha256": "3af740b003ee9d1fc81bc56ffef7399c714d3028ef2f02879394a5cb702fb229",
+    "sizeBytes": 115394,
+    "uncompressedSizeBytes": 316691,
+    "wordCount": 44752
+  },
+  "edition": {
+    "editionId": "stevenson-czlowiek-o-dwu-twarzach.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Człowiek o dwu twarzach",
+    "translationPublicationYear": 1924,
+    "translator": {
+      "birthYear": 1877,
+      "deathYear": 1946,
+      "name": "Bernard Szarlitt",
+      "wikidata": "Q95251614"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1894: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1924: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q217352",
+      "https://www.wikidata.org/wiki/Q111472909",
+      "https://www.wikidata.org/wiki/Q1512",
+      "https://www.wikidata.org/wiki/Q95251614",
+      "https://pl.wikisource.org/wiki/Cz%C5%82owiek_o_dwu_twarzach"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Robert Louis Stevenson died in 1894; the translator Bernard Szarlitt died in 1946 and this translation was first published in 1924. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Człowiek o dwu twarzach",
+    "pages": [
+      {
+        "revision": 3250900,
+        "title": "Człowiek o dwu twarzach"
+      },
+      {
+        "revision": 3250901,
+        "title": "Człowiek o dwu twarzach/Rozdział I"
+      },
+      {
+        "revision": 3250911,
+        "title": "Człowiek o dwu twarzach/całość"
+      },
+      {
+        "revision": 3250902,
+        "title": "Człowiek o dwu twarzach/Rozdział II"
+      },
+      {
+        "revision": 3250903,
+        "title": "Człowiek o dwu twarzach/Rozdział III"
+      },
+      {
+        "revision": 3250904,
+        "title": "Człowiek o dwu twarzach/Rozdział IV"
+      },
+      {
+        "revision": 3250906,
+        "title": "Człowiek o dwu twarzach/Rozdział V"
+      },
+      {
+        "revision": 3250907,
+        "title": "Człowiek o dwu twarzach/Rozdział VI"
+      },
+      {
+        "revision": 3250908,
+        "title": "Człowiek o dwu twarzach/Rozdział VII"
+      },
+      {
+        "revision": 3250909,
+        "title": "Człowiek o dwu twarzach/Rozdział VIII"
+      },
+      {
+        "revision": 3250905,
+        "title": "Człowiek o dwu twarzach/Rozdział IX"
+      },
+      {
+        "revision": 3250910,
+        "title": "Człowiek o dwu twarzach/Rozdział X"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:27:55.260682Z",
+    "revision": "3250900",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Cz%C5%82owiek_o_dwu_twarzach"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1850,
+      "deathYear": 1894,
+      "name": "Robert Louis Stevenson",
+      "wikidata": "Q1512"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1886,
+    "originalTitle": "Człowiek o dwu twarzach",
+    "workId": "stevenson-czlowiek-o-dwu-twarzach"
+  }
+}

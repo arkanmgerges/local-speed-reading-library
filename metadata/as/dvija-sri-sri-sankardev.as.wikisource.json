@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:20:52.384851Z",
+    "chapterCount": 1,
+    "contentSha256": "7ce40a2dc48e57ffe680d6305344904a391adcd1f315bc99839314f4878f07d4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/as/dvija-sri-sri-sankardev.as.wikisource/v1/book.json.gz",
+    "sha256": "1169428dfd7b51cc79fb20beeedb8fcb434fb990eaeeed2ddbbfd43fa293e23a",
+    "sizeBytes": 75132,
+    "uncompressedSizeBytes": 370087,
+    "wordCount": 22919
+  },
+  "edition": {
+    "editionId": "dvija-sri-sri-sankardev.as.wikisource",
+    "kind": "original",
+    "language": "as",
+    "title": "শ্ৰীশ্ৰীশঙ্কৰদেৱ"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1577: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1925: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q136037147",
+      "https://www.wikidata.org/wiki/Q4902211",
+      "https://as.wikisource.org/wiki/%E0%A6%B6%E0%A7%8D%E0%A7%B0%E0%A7%80%E0%A6%B6%E0%A7%8D%E0%A7%B0%E0%A7%80%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%B0%E0%A6%A6%E0%A7%87%E0%A7%B1"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ভূষণ দ্বিজ died in 1577 and the work was first published in 1925. Source: as.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "শ্ৰীশ্ৰীশঙ্কৰদেৱ",
+    "pages": [
+      {
+        "revision": 143518,
+        "title": "শ্ৰীশ্ৰীশঙ্কৰদেৱ"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:54:35.211824Z",
+    "revision": "143518",
+    "site": "as.wikisource.org",
+    "url": "https://as.wikisource.org/wiki/%E0%A6%B6%E0%A7%8D%E0%A7%B0%E0%A7%80%E0%A6%B6%E0%A7%8D%E0%A7%B0%E0%A7%80%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%B0%E0%A6%A6%E0%A7%87%E0%A7%B1"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1508,
+      "deathYear": 1577,
+      "name": "ভূষণ দ্বিজ",
+      "wikidata": "Q4902211"
+    },
+    "originalLanguage": "as",
+    "originalPublicationYear": 1925,
+    "originalTitle": "শ্ৰীশ্ৰীশঙ্কৰদেৱ",
+    "workId": "dvija-sri-sri-sankardev"
+  }
+}

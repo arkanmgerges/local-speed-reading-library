@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:38.430041Z",
+    "chapterCount": 14,
+    "contentSha256": "fae2d14b1a366390634cd1aa6943124128a4ef9cbd084e8ef593be335ebacc84",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/inha-maantiede-ja-loytoretket-4.fi.gutenberg/v1/book.json.gz",
+    "sha256": "acaeed42a2d5f87420880a7b68e73e297e82b4b5c09c5ec268260bab1859aa24",
+    "sizeBytes": 839131,
+    "uncompressedSizeBytes": 2327124,
+    "wordCount": 266475
+  },
+  "edition": {
+    "editionId": "inha-maantiede-ja-loytoretket-4.fi.gutenberg",
+    "editionPublicationYear": 1925,
+    "kind": "original",
+    "language": "fi",
+    "title": "Maantiede ja löytöretket 4 : $b Uusin aika 17.-vuosisadan alusta nykyaikaan (loppupuoli)"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1925 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/70428",
+      "https://fi.wikipedia.org/wiki/I._K._Inha"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Into Konrad Inha died in 1930 and the edition digitised by Project Gutenberg was printed in 1925. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "70428",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:04:20.823304Z",
+    "revision": "Fri, 28 Aug 2026 08:25:09 GMT",
+    "url": "https://www.gutenberg.org/ebooks/70428"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1865,
+      "deathYear": 1930,
+      "name": "Into Konrad Inha",
+      "wikidata": "Q3511011"
+    },
+    "originalLanguage": "fi",
+    "originalTitle": "Maantiede ja löytöretket 4 : $b Uusin aika 17.-vuosisadan alusta nykyaikaan (loppupuoli)",
+    "workId": "inha-maantiede-ja-loytoretket-4"
+  }
+}

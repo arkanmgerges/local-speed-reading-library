@@ -1,0 +1,829 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 27,
+        "contentSha256": "53a4a176ea0a0cd617d1f1668f5b4893afb0a68cdd1061a8b678808d6ef85d87",
+        "encoding": "gzip",
+        "path": "books/da/andersen-nexo-pelle-erobreren-1.da.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "27a4f1006a3b6515722cc258ac3142742636d3e571a6afe5eb84eef4bdccccb6",
+        "sizeBytes": 218385,
+        "uncompressedSizeBytes": 586321,
+        "wordCount": 101784
+      },
+      "author": "Martin Andersen Nexø",
+      "authorDeathYear": 1954,
+      "editionId": "andersen-nexo-pelle-erobreren-1.da.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "da",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1900,
+      "originalTitle": "Pelle Erobreren 1: Barndom",
+      "rights": {
+        "statement": "Public domain worldwide. Martin Andersen Nexø died in 1954 and the work was first published in 1900. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "76563",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:19:07.787581Z",
+        "revision": "Sun, 30 Aug 2026 14:22:36 GMT",
+        "url": "https://www.gutenberg.org/ebooks/76563"
+      },
+      "title": "Pelle Erobreren 1: Barndom",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "andersen-nexo-pelle-erobreren-1"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 28,
+        "contentSha256": "2e562cf809f8edf5575c0914c77b7d22ae47175b177efb1d50774762e2bde50d",
+        "encoding": "gzip",
+        "path": "books/da/andersen-nexo-pelle-erobreren-2.da.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "67049f56834d6fbdc30cf73df719d2931469f12f23229237bc53192be5c49844",
+        "sizeBytes": 196635,
+        "uncompressedSizeBytes": 523932,
+        "wordCount": 90777
+      },
+      "author": "Martin Andersen Nexø",
+      "authorDeathYear": 1954,
+      "editionId": "andersen-nexo-pelle-erobreren-2.da.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "da",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1900,
+      "originalTitle": "Pelle Erobreren 2: Læreaar",
+      "rights": {
+        "statement": "Public domain worldwide. Martin Andersen Nexø died in 1954 and the work was first published in 1900. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "76723",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:19:11.895130Z",
+        "revision": "Sun, 30 Aug 2026 17:23:43 GMT",
+        "url": "https://www.gutenberg.org/ebooks/76723"
+      },
+      "title": "Pelle Erobreren 2: Læreaar",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "andersen-nexo-pelle-erobreren-2"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 39,
+        "contentSha256": "bc13f6603ac2429f6f55522f7c4871afb4a65a1023a11113f1407490070fc80e",
+        "encoding": "gzip",
+        "path": "books/da/andersen-nexo-pelle-erobreren-3.da.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ddef3ca24de7e7d1e53bdf876e322b945c6956d0332c887f937c0f0955d9841f",
+        "sizeBytes": 258954,
+        "uncompressedSizeBytes": 693539,
+        "wordCount": 118750
+      },
+      "author": "Martin Andersen Nexø",
+      "authorDeathYear": 1954,
+      "editionId": "andersen-nexo-pelle-erobreren-3.da.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "da",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1900,
+      "originalTitle": "Pelle Erobreren 3: Den store Kamp",
+      "rights": {
+        "statement": "Public domain worldwide. Martin Andersen Nexø died in 1954 and the work was first published in 1900. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "76883",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:19:16.281458Z",
+        "revision": "Sun, 30 Aug 2026 18:07:14 GMT",
+        "url": "https://www.gutenberg.org/ebooks/76883"
+      },
+      "title": "Pelle Erobreren 3: Den store Kamp",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "andersen-nexo-pelle-erobreren-3"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 25,
+        "contentSha256": "a2f95e2ffcf18242295e549561e694be242298bb681e107da2b8d75c5ecb6e72",
+        "encoding": "gzip",
+        "path": "books/da/andersen-nexo-pelle-erobreren-4.da.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "cc7297904935be2d7ed05540adc1a69baf5d4fdfed4d3c62a50e71e03e36eef7",
+        "sizeBytes": 175678,
+        "uncompressedSizeBytes": 470732,
+        "wordCount": 80377
+      },
+      "author": "Martin Andersen Nexø",
+      "authorDeathYear": 1954,
+      "editionId": "andersen-nexo-pelle-erobreren-4.da.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "da",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1900,
+      "originalTitle": "Pelle Erobreren 4: Gryet",
+      "rights": {
+        "statement": "Public domain worldwide. Martin Andersen Nexø died in 1954 and the work was first published in 1900. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "77037",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:19:20.492429Z",
+        "revision": "Sun, 30 Aug 2026 18:44:57 GMT",
+        "url": "https://www.gutenberg.org/ebooks/77037"
+      },
+      "title": "Pelle Erobreren 4: Gryet",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "andersen-nexo-pelle-erobreren-4"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 11,
+        "contentSha256": "1c03af8a0c9bb503f07010e967af01105f792029ae6c082e6ed9948050de2cc1",
+        "encoding": "gzip",
+        "path": "books/da/bang-tine.da.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7b38b87c155c403da53d48a86f80cd6fc842f00eb0c4c9d1b62c8e2551a3f6b9",
+        "sizeBytes": 105108,
+        "uncompressedSizeBytes": 296038,
+        "wordCount": 47024
+      },
+      "author": "Herman Bang",
+      "authorDeathYear": 1912,
+      "editionId": "bang-tine.da.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "da",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1889,
+      "originalTitle": "Tine",
+      "rights": {
+        "statement": "Public domain worldwide. Herman Bang died in 1912 and the work was first published in 1889. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "10686",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:19:27.063617Z",
+        "revision": "Sat, 05 Sep 2026 08:31:41 GMT",
+        "url": "https://www.gutenberg.org/ebooks/10686"
+      },
+      "title": "Tine",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bang-tine"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 8,
+        "contentSha256": "72d56d13938dc7e6744c1376cfa8a468851e9b341028133e7d80d63c3a1131f4",
+        "encoding": "gzip",
+        "path": "books/da/bang-ved-vejen.da.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5c9053ccf797c603e9f8add3d530939c43977ff9d9439e45c301d23c68bc37dc",
+        "sizeBytes": 90255,
+        "uncompressedSizeBytes": 262863,
+        "wordCount": 39621
+      },
+      "author": "Herman Bang",
+      "authorDeathYear": 1912,
+      "editionId": "bang-ved-vejen.da.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "da",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1886,
+      "originalTitle": "Ved Vejen",
+      "rights": {
+        "statement": "Public domain worldwide. Herman Bang died in 1912 and the work was first published in 1886. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "13175",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:19:30.036571Z",
+        "revision": "Sun, 06 Sep 2026 08:11:12 GMT",
+        "url": "https://www.gutenberg.org/ebooks/13175"
+      },
+      "title": "Ved Vejen",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bang-ved-vejen"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 51,
+        "contentSha256": "37d246038e59f1b39a7af51ca757d128f206e7cb706c012bba7e72761a01cb69",
+        "encoding": "gzip",
+        "path": "books/da/dickens-oliver-twist.da.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4a90ca7d16597f37f989483c77c477cde502679999dd66d5f5fd853bc54fe310",
+        "sizeBytes": 254818,
+        "uncompressedSizeBytes": 701873,
+        "wordCount": 115882
+      },
+      "author": "Charles Dickens",
+      "authorDeathYear": 1870,
+      "editionId": "dickens-oliver-twist.da.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "da",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1838,
+      "originalTitle": "Oliver Twist",
+      "rights": {
+        "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Vilhelm Møller died in 1904 and this translation was first published in 1898. Source: da.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Oliver Twist",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:20:42.041003Z",
+        "revision": "37369",
+        "url": "https://da.wikisource.org/wiki/Oliver_Twist"
+      },
+      "title": "Oliver Twist",
+      "translationPublicationYear": 1898,
+      "translator": "Vilhelm Møller",
+      "translatorDeathYear": 1904,
+      "workId": "dickens-oliver-twist"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "b6aebd089cb90f0744376305e3fa05a1a0b013ddff644f69464812bdb5a40cb6",
+        "encoding": "gzip",
+        "path": "books/da/doyle-en-studie-i-rodt.da.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c30eeecd708a5a07dab772fc1f17a215e9bd40c333b677553c23cc4e13093661",
+        "sizeBytes": 108858,
+        "uncompressedSizeBytes": 296448,
+        "wordCount": 49540
+      },
+      "author": "Arthur Conan Doyle",
+      "authorDeathYear": 1930,
+      "editionId": "doyle-en-studie-i-rodt.da.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "da",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1887,
+      "originalTitle": "En Studie i rødt",
+      "rights": {
+        "statement": "Public domain worldwide. Arthur Conan Doyle died in 1930; the translator Peter Jerndorff-Jessen died in 1942 and this translation was first published in 1898. Source: da.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "En Studie i rødt",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:21:04.180375Z",
+        "revision": "63680",
+        "url": "https://da.wikisource.org/wiki/En_Studie_i_r%C3%B8dt"
+      },
+      "title": "En Studie i rødt",
+      "translationPublicationYear": 1898,
+      "translator": "Peter Jerndorff-Jessen",
+      "translatorDeathYear": 1942,
+      "workId": "doyle-en-studie-i-rodt"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 35,
+        "contentSha256": "e22ce6a5fa39212d507b4da87f954ab67121ee150fcb8c2a5075185adefcae8d",
+        "encoding": "gzip",
+        "path": "books/da/flaubert-fru-bovary-scener-af-det-franske-provinsliv.da.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e3604e39eda6628a6b709b5b05a879acbac4c6ef2e14c0fcb783c76822fa4936",
+        "sizeBytes": 263530,
+        "uncompressedSizeBytes": 691395,
+        "wordCount": 110795
+      },
+      "author": "Gustave Flaubert",
+      "authorDeathYear": 1880,
+      "editionId": "flaubert-fru-bovary-scener-af-det-franske-provinsliv.da.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "da",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1857,
+      "originalTitle": "Fru Bovary. Scener af det franske Provinsliv",
+      "rights": {
+        "statement": "Public domain worldwide. Gustave Flaubert died in 1880; the translator Nathan Joseph Berendsen died in 1920 and this translation was first published in 1875. Source: da.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Fru Bovary",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:21:12.593569Z",
+        "revision": "49061",
+        "url": "https://da.wikisource.org/wiki/Fru_Bovary"
+      },
+      "title": "Fru Bovary. Scener af det franske Provinsliv",
+      "translationPublicationYear": 1875,
+      "translator": "Nathan Joseph Berendsen",
+      "translatorDeathYear": 1920,
+      "workId": "flaubert-fru-bovary-scener-af-det-franske-provinsliv"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 19,
+        "contentSha256": "f377e55e80da0ec37c0803cdb8b99d5fe79d072aca937d7b9df72106ca27e229",
+        "encoding": "gzip",
+        "path": "books/da/jacobsen-fru-marie-grubbe.da.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1f86970b6cf2e9224aa8d9335609d98dd25a65036182cc9545ca359f2cfd677b",
+        "sizeBytes": 171837,
+        "uncompressedSizeBytes": 442424,
+        "wordCount": 74374
+      },
+      "author": "J. P. Jacobsen",
+      "authorDeathYear": 1885,
+      "editionId": "jacobsen-fru-marie-grubbe.da.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "da",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1876,
+      "originalTitle": "Fru Marie Grubbe: Interieurer fra det syttende Aarhundrede",
+      "rights": {
+        "statement": "Public domain worldwide. J. P. Jacobsen died in 1885 and the work was first published in 1876. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "44275",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:21:21.370865Z",
+        "revision": "Fri, 18 Sep 2026 07:48:30 GMT",
+        "url": "https://www.gutenberg.org/ebooks/44275"
+      },
+      "title": "Fru Marie Grubbe: Interieurer fra det syttende Aarhundrede",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "jacobsen-fru-marie-grubbe"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 43,
+        "contentSha256": "b9c0fce14df5e33ddac6a6866bd5a1228d65ee3e7b5f0903694c57ae3fbc13b8",
+        "encoding": "gzip",
+        "path": "books/da/jensen-kongens-fald.da.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4deb9e0199e95074f5a59cb1bfa86d7cfba2b36edb5fd3a03ffd54d39d3e46d7",
+        "sizeBytes": 156935,
+        "uncompressedSizeBytes": 414703,
+        "wordCount": 70544
+      },
+      "author": "Johannes V. Jensen",
+      "authorDeathYear": 1950,
+      "editionId": "jensen-kongens-fald.da.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "da",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1901,
+      "originalTitle": "Kongens Fald",
+      "rights": {
+        "statement": "Public domain worldwide. Johannes V. Jensen died in 1950 and the work was first published in 1901. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "36942",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:21:24.895282Z",
+        "revision": "Tue, 15 Sep 2026 09:42:29 GMT",
+        "url": "https://www.gutenberg.org/ebooks/36942"
+      },
+      "title": "Kongens Fald",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "jensen-kongens-fald"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 96,
+        "contentSha256": "f75b679eb8d4a39d0d582ac50b952111d445bed191f92da6ed9c5ef3e47fc63e",
+        "encoding": "gzip",
+        "path": "books/da/lagerlof-nils-holgersens-forunderlige-rejse-gennem-sverige.da.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5e79afa10e38ee9552012cb3bced5caa36f2fd5907f105ab78d4975e36522475",
+        "sizeBytes": 400687,
+        "uncompressedSizeBytes": 1155299,
+        "wordCount": 200051
+      },
+      "author": "Selma Lagerlöf",
+      "authorDeathYear": 1940,
+      "editionId": "lagerlof-nils-holgersens-forunderlige-rejse-gennem-sverige.da.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "da",
+      "originalLanguage": "sv",
+      "originalPublicationYear": 1906,
+      "originalTitle": "Nils Holgersens forunderlige rejse gennem Sverige",
+      "rights": {
+        "statement": "Public domain worldwide. Selma Lagerlöf died in 1940; the translator Ida Falbe-Hansen died in 1922 and this translation was first published in 1910. Source: da.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Niels Holgersens vidunderlige Rejse gennem Sverige",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:22:43.152215Z",
+        "revision": "76991",
+        "url": "https://da.wikisource.org/wiki/Niels_Holgersens_vidunderlige_Rejse_gennem_Sverige"
+      },
+      "title": "Niels Holgersens vidunderlige Rejse gennem Sverige",
+      "translationPublicationYear": 1910,
+      "translator": "Ida Falbe-Hansen",
+      "translatorDeathYear": 1922,
+      "workId": "lagerlof-nils-holgersens-forunderlige-rejse-gennem-sverige"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "acbc680a47dbc84fbc66b551e6a1c5fb01382f811eb5b675fc416cdeb4881460",
+        "encoding": "gzip",
+        "path": "books/da/mill-om-friheden.da.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6c62c50258cc172ac9cd39a6f3a8cc0e3c6e34e448d52fe334272492a0f42f64",
+        "sizeBytes": 102530,
+        "uncompressedSizeBytes": 301625,
+        "wordCount": 48160
+      },
+      "author": "John Stuart Mill",
+      "authorDeathYear": 1873,
+      "editionId": "mill-om-friheden.da.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "da",
+      "originalLanguage": "en-gb",
+      "originalPublicationYear": 1859,
+      "originalTitle": "Om friheden",
+      "rights": {
+        "statement": "Public domain worldwide. John Stuart Mill died in 1873; the translator Vilhelm Arntzen died in 1893 and this translation was first published in 1876. Source: da.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Om Friheden (1876)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:22:56.069682Z",
+        "revision": "481645",
+        "url": "https://da.wikisource.org/wiki/Om_Friheden_(1876)"
+      },
+      "title": "Om friheden",
+      "translationPublicationYear": 1876,
+      "translator": "Vilhelm Arntzen",
+      "translatorDeathYear": 1893,
+      "workId": "mill-om-friheden"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "f4c4a969919a5419525b6e37fca9af6cde31b05c8ec5ccd4fa6b1d2af44c6239",
+        "encoding": "gzip",
+        "path": "books/da/pontoppidan-lykke-per-forste-del.da.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2a0f8d331148b733c357bdfaa094301f94293ecb1ee09dae03736a41655eafc1",
+        "sizeBytes": 205954,
+        "uncompressedSizeBytes": 536651,
+        "wordCount": 86477
+      },
+      "author": "Henrik Pontoppidan",
+      "authorDeathYear": 1943,
+      "editionId": "pontoppidan-lykke-per-forste-del.da.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "da",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1898,
+      "originalTitle": "Lykke-Per. Første Del",
+      "rights": {
+        "statement": "Public domain worldwide. Henrik Pontoppidan died in 1943 and the work was first published in 1898. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "51384",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:23:00.082830Z",
+        "revision": "Sun, 20 Sep 2026 17:00:56 GMT",
+        "url": "https://www.gutenberg.org/ebooks/51384"
+      },
+      "title": "Lykke-Per. Første Del",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "pontoppidan-lykke-per-forste-del"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "de0eabf79c9f184002ace5640cb4ab661fe8402030991713e4f087bd225a4f6b",
+        "encoding": "gzip",
+        "path": "books/da/scharling-ved-nytaarstid-i-noddebo-pr-stegaard.da.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9c2bfc5c219bb8e1a303de2e81a4576c56c76c2d2c50543c07a67c06db51f9fb",
+        "sizeBytes": 174786,
+        "uncompressedSizeBytes": 493825,
+        "wordCount": 83087
+      },
+      "author": "C. Henrik Scharling",
+      "authorDeathYear": 1920,
+      "editionId": "scharling-ved-nytaarstid-i-noddebo-pr-stegaard.da.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "da",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1862,
+      "originalTitle": "Ved Nytaarstid i Nøddebo Præstegaard",
+      "rights": {
+        "statement": "Public domain worldwide. C. Henrik Scharling died in 1920 and the work was first published in 1862. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "38220",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:23:04.002904Z",
+        "revision": "Tue, 15 Sep 2026 19:58:44 GMT",
+        "url": "https://www.gutenberg.org/ebooks/38220"
+      },
+      "title": "Ved Nytaarstid i Nøddebo Præstegaard",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "scharling-ved-nytaarstid-i-noddebo-pr-stegaard"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "8b7a07e9ad3a20c0db29f5eaa6180276873f150fd267e8e57052505af1ad2f4e",
+        "encoding": "gzip",
+        "path": "books/da/twain-huck-finns-h-ndelser.da.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "009470d131120735d65d32c69558b466628f4f34ccae51bcfac7ab04ee98294f",
+        "sizeBytes": 246409,
+        "uncompressedSizeBytes": 647323,
+        "wordCount": 110679
+      },
+      "author": "Mark Twain",
+      "authorDeathYear": 1910,
+      "editionId": "twain-huck-finns-h-ndelser.da.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "da",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1884,
+      "originalTitle": "Huck Finns Hændelser",
+      "rights": {
+        "statement": "Public domain worldwide. Mark Twain died in 1910; the translator Broder August Duurloo died in 1921 and this translation was first published in 1910. Source: da.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Huck Finns Hændelser",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:23:08.288221Z",
+        "revision": "481851",
+        "url": "https://da.wikisource.org/wiki/Huck_Finns_H%C3%A6ndelser"
+      },
+      "title": "Huck Finns Hændelser",
+      "translationPublicationYear": 1910,
+      "translator": "Broder August Duurloo",
+      "translatorDeathYear": 1921,
+      "workId": "twain-huck-finns-h-ndelser"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 22,
+        "contentSha256": "9df1fae11b5c3d2070b79e5e3b5f256afd75721eeb004e14940fb08610eb5d2f",
+        "encoding": "gzip",
+        "path": "books/da/verne-det-sorte-indien.da.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "105e99c96cdb7fe0fe85a9046453120eab4e1bb4988877e81b10a71f77dce3a3",
+        "sizeBytes": 109878,
+        "uncompressedSizeBytes": 307180,
+        "wordCount": 47749
+      },
+      "author": "Jules Verne",
+      "authorDeathYear": 1905,
+      "editionId": "verne-det-sorte-indien.da.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "da",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1877,
+      "originalTitle": "Det sorte Indien",
+      "rights": {
+        "statement": "Public domain worldwide. Jules Verne died in 1905; the translator Otto Høpfner died in 1927 and this translation was first published in 1897. Source: da.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Det sorte Indien",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:23:40.663976Z",
+        "revision": "22970",
+        "url": "https://da.wikisource.org/wiki/Det_sorte_Indien"
+      },
+      "title": "Det sorte Indien",
+      "translationPublicationYear": 1897,
+      "translator": "Otto Høpfner",
+      "translatorDeathYear": 1927,
+      "workId": "verne-det-sorte-indien"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 21,
+        "contentSha256": "db90fb05bcb16f0e5a1787d579bed52f44c8cc7af9d86f041f32fd89a0032dd1",
+        "encoding": "gzip",
+        "path": "books/da/wells-doktor-moreaus-o.da.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "47b0b32420cdc0b0f01d364e29ea85bdda0104dd1aecf8096c7aab0f401e9237",
+        "sizeBytes": 99899,
+        "uncompressedSizeBytes": 279368,
+        "wordCount": 45420
+      },
+      "author": "H.G. Wells",
+      "authorDeathYear": 1946,
+      "editionId": "wells-doktor-moreaus-o.da.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "da",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1895,
+      "originalTitle": "Doktor Moreaus Ø",
+      "rights": {
+        "statement": "Public domain worldwide. H.G. Wells died in 1946; the translator Axel Halling died in 1917 and this translation was first published in 1898. Source: da.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Doktor Moreaus Ø",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:24:11.510074Z",
+        "revision": "48205",
+        "url": "https://da.wikisource.org/wiki/Doktor_Moreaus_%C3%98"
+      },
+      "title": "Doktor Moreaus Ø",
+      "translationPublicationYear": 1898,
+      "translator": "Axel Halling",
+      "translatorDeathYear": 1917,
+      "workId": "wells-doktor-moreaus-o"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 4,
+        "contentSha256": "89e7ad30109d5c8533e0122cac35794b3a0d66f1dca4de2d2510e8eb99b078b4",
+        "encoding": "gzip",
+        "path": "books/da/zahle-vildsomme-veje.da.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b0101b941bee0d9c7107476e3bfdfdcbdda280d9b9dcd33603f38d6f29e5d941",
+        "sizeBytes": 53892,
+        "uncompressedSizeBytes": 144723,
+        "wordCount": 24044
+      },
+      "author": "Vilhelmine Zahle",
+      "authorDeathYear": 1940,
+      "editionId": "zahle-vildsomme-veje.da.gutenberg",
+      "editionPublicationYear": 1890,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "da",
+      "originalLanguage": "da",
+      "originalPublicationYear": null,
+      "originalTitle": "Vildsomme Veje : $b Ogsaa en kærlighedshistorie / I sommerferien",
+      "rights": {
+        "statement": "Public domain worldwide. Vilhelmine Zahle died in 1940 and the edition digitised by Project Gutenberg was printed in 1890. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "75414",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:24:14.775387Z",
+        "revision": "Sun, 30 Aug 2026 07:32:47 GMT",
+        "url": "https://www.gutenberg.org/ebooks/75414"
+      },
+      "title": "Vildsomme Veje : $b Ogsaa en kærlighedshistorie / I sommerferien",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "zahle-vildsomme-veje"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Danish",
+  "language": "da",
+  "manifestVersion": "7dfd5ad7c4420f3c",
+  "nativeName": "Dansk",
+  "schemaVersion": 1
+}

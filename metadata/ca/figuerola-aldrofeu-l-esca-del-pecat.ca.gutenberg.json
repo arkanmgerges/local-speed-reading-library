@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:34.603984Z",
+    "chapterCount": 28,
+    "contentSha256": "b531323e7f587ed96ebe8f93b4f667787ba570d6d6d7b120aff2b94908bea40d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/figuerola-aldrofeu-l-esca-del-pecat.ca.gutenberg/v1/book.json.gz",
+    "sha256": "f77ece067c6cc9740de70b7345979dfce8e113d27d9c0cc9a6dc7c13f64ebf78",
+    "sizeBytes": 58941,
+    "uncompressedSizeBytes": 163070,
+    "wordCount": 24888
+  },
+  "edition": {
+    "editionId": "figuerola-aldrofeu-l-esca-del-pecat.ca.gutenberg",
+    "editionPublicationYear": 1890,
+    "kind": "original",
+    "language": "ca",
+    "title": "L'esca del pecat"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1913: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1890 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/76140",
+      "https://ca.wikipedia.org/wiki/Miquel_Figuerola_i_Aldrofeu"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. M. Figuerola Aldroféu died in 1913 and the edition digitised by Project Gutenberg was printed in 1890. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "76140",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:05:31.787924Z",
+    "revision": "Sun, 30 Aug 2026 12:41:12 GMT",
+    "url": "https://www.gutenberg.org/ebooks/76140"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1861,
+      "deathYear": 1913,
+      "name": "M. Figuerola Aldroféu",
+      "wikidata": "Q16942170"
+    },
+    "originalLanguage": "ca",
+    "originalTitle": "L'esca del pecat",
+    "workId": "figuerola-aldrofeu-l-esca-del-pecat"
+  }
+}

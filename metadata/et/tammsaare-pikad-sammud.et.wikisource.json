@@ -1,0 +1,105 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:26.416048Z",
+    "chapterCount": 8,
+    "contentSha256": "d9dd85ecd919838ab98376f983fa9ee71873a5b09b2f82afb0d6411d3eda96d0",
+    "normalizerVersion": "0.2.0",
+    "path": "books/et/tammsaare-pikad-sammud.et.wikisource/v1/book.json.gz",
+    "sha256": "d60dc7251b9df2ee779f9afa3666e9971c991000645b85795512e93b7180e8bb",
+    "sizeBytes": 57393,
+    "uncompressedSizeBytes": 164890,
+    "wordCount": 23589
+  },
+  "edition": {
+    "editionId": "tammsaare-pikad-sammud.et.wikisource",
+    "kind": "original",
+    "language": "et",
+    "title": "Pikad sammud"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1940: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1908: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q16403458",
+      "https://www.wikidata.org/wiki/Q353637",
+      "https://et.wikisource.org/wiki/Pikad_sammud"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. A. H. Tammsaare died in 1940 and the work was first published in 1908. Source: et.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Pikad sammud",
+    "pages": [
+      {
+        "revision": 42582,
+        "title": "Pikad sammud"
+      },
+      {
+        "revision": 42588,
+        "title": "Pikad sammud/1"
+      },
+      {
+        "revision": 42603,
+        "title": "Pikad sammud/2"
+      },
+      {
+        "revision": 42614,
+        "title": "Pikad sammud/3"
+      },
+      {
+        "revision": 42618,
+        "title": "Pikad sammud/4"
+      },
+      {
+        "revision": 42622,
+        "title": "Pikad sammud/5"
+      },
+      {
+        "revision": 42624,
+        "title": "Pikad sammud/6"
+      },
+      {
+        "revision": 42625,
+        "title": "Pikad sammud/7"
+      },
+      {
+        "revision": 42626,
+        "title": "Pikad sammud/8"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:53:26.362474Z",
+    "revision": "42582",
+    "site": "et.wikisource.org",
+    "url": "https://et.wikisource.org/wiki/Pikad_sammud"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1878,
+      "deathYear": 1940,
+      "name": "A. H. Tammsaare",
+      "wikidata": "Q353637"
+    },
+    "originalLanguage": "et",
+    "originalPublicationYear": 1908,
+    "originalTitle": "Pikad sammud",
+    "workId": "tammsaare-pikad-sammud"
+  }
+}

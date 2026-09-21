@@ -1,0 +1,97 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:24.697706Z",
+    "chapterCount": 6,
+    "contentSha256": "1e4b905a353850e1c5cc0d015ca63dded7d7382bb1f044ef45dded4780c247a0",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/finne-kiljusen-herrasvaki-partiolaisina.fi.wikisource/v1/book.json.gz",
+    "sha256": "025834535630e37061e22a7c69925a1aa499fa52524fc4cc8640e2cb6cbbc260",
+    "sizeBytes": 33632,
+    "uncompressedSizeBytes": 101645,
+    "wordCount": 12368
+  },
+  "edition": {
+    "editionId": "finne-kiljusen-herrasvaki-partiolaisina.fi.wikisource",
+    "kind": "original",
+    "language": "fi",
+    "title": "Kiljusen herrasväki partiolaisina"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1938: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1918: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q67887566",
+      "https://www.wikidata.org/wiki/Q4907669",
+      "https://fi.wikisource.org/wiki/Kiljusen_herrasv%C3%A4ki_partiolaisina"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jalmari Finne died in 1938 and the work was first published in 1918. Source: fi.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Kiljusen herrasväki partiolaisina",
+    "pages": [
+      {
+        "revision": 117978,
+        "title": "Kiljusen herrasväki partiolaisina"
+      },
+      {
+        "revision": 117979,
+        "title": "Kiljusen herrasväki partiolaisina/Kiljuset keksivät uuden merkkikielen"
+      },
+      {
+        "revision": 117997,
+        "title": "Kiljusen herrasväki partiolaisina/Luru saa vammoja"
+      },
+      {
+        "revision": 118010,
+        "title": "Kiljusen herrasväki partiolaisina/Kiljuset suorittavat partiotutkinnon"
+      },
+      {
+        "revision": 118032,
+        "title": "Kiljusen herrasväki partiolaisina/Kiljusten sodankäynti"
+      },
+      {
+        "revision": 118052,
+        "title": "Kiljusen herrasväki partiolaisina/Plättä ja Pulla lähtevät sotaan"
+      },
+      {
+        "revision": 118075,
+        "title": "Kiljusen herrasväki partiolaisina/Isä Kiljusesta tulee kuningas"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:03:39.406219Z",
+    "revision": "117978",
+    "site": "fi.wikisource.org",
+    "url": "https://fi.wikisource.org/wiki/Kiljusen_herrasv%C3%A4ki_partiolaisina"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1874,
+      "deathYear": 1938,
+      "name": "Jalmari Finne",
+      "wikidata": "Q4907669"
+    },
+    "originalLanguage": "fi",
+    "originalPublicationYear": 1918,
+    "originalTitle": "Kiljusen herrasväki partiolaisina",
+    "workId": "finne-kiljusen-herrasvaki-partiolaisina"
+  }
+}

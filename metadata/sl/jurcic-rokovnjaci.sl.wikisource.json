@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:03.950295Z",
+    "chapterCount": 25,
+    "contentSha256": "5b0d4fa64649078b082cbbaf9ea74e44ea303effdc9eed1864a1ac80f0475e5d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/jurcic-rokovnjaci.sl.wikisource/v1/book.json.gz",
+    "sha256": "d7e3e65d66c1c622550ab83657b3bd9e0725fbf09bef9b9b0f181472bb9d8475",
+    "sizeBytes": 118445,
+    "uncompressedSizeBytes": 304734,
+    "wordCount": 49320
+  },
+  "edition": {
+    "editionId": "jurcic-rokovnjaci.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Rokovnjači"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1881: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1881: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q7360082",
+      "https://www.wikidata.org/wiki/Q3491574",
+      "https://sl.wikisource.org/wiki/Rokovnja%C4%8Di"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Josip Jurčič died in 1881 and the work was first published in 1881. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Rokovnjači",
+    "pages": [
+      {
+        "revision": 199118,
+        "title": "Rokovnjači"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:55:57.848143Z",
+    "revision": "199118",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Rokovnja%C4%8Di"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1844,
+      "deathYear": 1881,
+      "name": "Josip Jurčič",
+      "wikidata": "Q3491574"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1881,
+    "originalTitle": "Rokovnjači",
+    "workId": "jurcic-rokovnjaci"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:04:00.245501Z",
+    "chapterCount": 22,
+    "contentSha256": "3f1fbc1c9f01dc29b04f62e1ba2275605ee97d68674a1d461a66fe76ad0a4e27",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/wilde-portret-dorjana-gray-a.pl.wikisource/v1/book.json.gz",
+    "sha256": "694b326e399859232812bb3c09670758a3806747f6914f2a2d5928f6e6791132",
+    "sizeBytes": 343137,
+    "uncompressedSizeBytes": 896008,
+    "wordCount": 126171
+  },
+  "edition": {
+    "editionId": "wilde-portret-dorjana-gray-a.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Portret Dorjana Gray'a",
+    "translationPublicationYear": 1929,
+    "translator": {
+      "birthYear": 1899,
+      "deathYear": 1944,
+      "name": "Marceli Tarnowski",
+      "wikidata": "Q16913493"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1900: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1944: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1929: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q82464",
+      "https://www.wikidata.org/wiki/Q108002053",
+      "https://www.wikidata.org/wiki/Q30875",
+      "https://www.wikidata.org/wiki/Q16913493",
+      "https://pl.wikisource.org/wiki/Portret_Dorjana_Gray'a"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Oscar Wilde died in 1900; the translator Marceli Tarnowski died in 1944 and this translation was first published in 1929. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Portret Dorjana Gray'a",
+    "pages": [
+      {
+        "revision": 3281452,
+        "title": "Portret Dorjana Gray'a"
+      },
+      {
+        "revision": 3281453,
+        "title": "Portret Dorjana Gray'a/Przedmowa"
+      },
+      {
+        "revision": 3281474,
+        "title": "Portret Dorjana Gray'a/całość"
+      },
+      {
+        "revision": 3281454,
+        "title": "Portret Dorjana Gray'a/Rozdział I"
+      },
+      {
+        "revision": 3281455,
+        "title": "Portret Dorjana Gray'a/Rozdział II"
+      },
+      {
+        "revision": 3281456,
+        "title": "Portret Dorjana Gray'a/Rozdział III"
+      },
+      {
+        "revision": 3281457,
+        "title": "Portret Dorjana Gray'a/Rozdział IV"
+      },
+      {
+        "revision": 3281459,
+        "title": "Portret Dorjana Gray'a/Rozdział V"
+      },
+      {
+        "revision": 3281460,
+        "title": "Portret Dorjana Gray'a/Rozdział VI"
+      },
+      {
+        "revision": 3281461,
+        "title": "Portret Dorjana Gray'a/Rozdział VII"
+      },
+      {
+        "revision": 3281462,
+        "title": "Portret Dorjana Gray'a/Rozdział VIII"
+      },
+      {
+        "revision": 3281458,
+        "title": "Portret Dorjana Gray'a/Rozdział IX"
+      },
+      {
+        "revision": 3281463,
+        "title": "Portret Dorjana Gray'a/Rozdział X"
+      },
+      {
+        "revision": 3281464,
+        "title": "Portret Dorjana Gray'a/Rozdział XI"
+      },
+      {
+        "revision": 3281465,
+        "title": "Portret Dorjana Gray'a/Rozdział XII"
+      },
+      {
+        "revision": 3281466,
+        "title": "Portret Dorjana Gray'a/Rozdział XIII"
+      },
+      {
+        "revision": 3281467,
+        "title": "Portret Dorjana Gray'a/Rozdział XIV"
+      },
+      {
+        "revision": 3281469,
+        "title": "Portret Dorjana Gray'a/Rozdział XV"
+      },
+      {
+        "revision": 3281470,
+        "title": "Portret Dorjana Gray'a/Rozdział XVI"
+      },
+      {
+        "revision": 3281471,
+        "title": "Portret Dorjana Gray'a/Rozdział XVII"
+      },
+      {
+        "revision": 3281472,
+        "title": "Portret Dorjana Gray'a/Rozdział XVIII"
+      },
+      {
+        "revision": 3281468,
+        "title": "Portret Dorjana Gray'a/Rozdział XIX"
+      },
+      {
+        "revision": 3281473,
+        "title": "Portret Dorjana Gray'a/Rozdział XX"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:31:33.711994Z",
+    "revision": "3281452",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Portret_Dorjana_Gray'a"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1854,
+      "deathYear": 1900,
+      "name": "Oscar Wilde",
+      "wikidata": "Q30875"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1890,
+    "originalTitle": "Portret Dorjana Gray'a",
+    "workId": "wilde-portret-dorjana-gray-a"
+  }
+}

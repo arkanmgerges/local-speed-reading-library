@@ -1,0 +1,229 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:28:42.591267Z",
+    "chapterCount": 68,
+    "contentSha256": "7a26f13e33018d2b83d1c97134f63927b45bde4f53e6cbefdf8a1f29af4eca79",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hy/raffi-the-diary-of-a-cross-stealer.hy.wikisource/v1/book.json.gz",
+    "sha256": "75235fcf9ea68488d499620c2504d3f1419741c11f58735445e64fab89c0c66c",
+    "sizeBytes": 272742,
+    "uncompressedSizeBytes": 1124752,
+    "wordCount": 93832
+  },
+  "edition": {
+    "editionId": "raffi-the-diary-of-a-cross-stealer.hy.wikisource",
+    "kind": "original",
+    "language": "hy",
+    "title": "Խաչագողի հիշատարականը"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1888: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1883: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q4163086",
+      "https://www.wikidata.org/wiki/Q2610362",
+      "https://hy.wikisource.org/wiki/%D4%BD%D5%A1%D5%B9%D5%A1%D5%A3%D5%B8%D5%B2%D5%AB_%D5%B0%D5%AB%D5%B7%D5%A1%D5%BF%D5%A1%D5%AF%D5%A1%D6%80%D5%A1%D5%B6%D5%A8"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Րաֆֆի died in 1888 and the work was first published in 1883. Source: hy.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Խաչագողի հիշատակարանը",
+    "pages": [
+      {
+        "revision": 363253,
+        "title": "Խաչագողի հիշատակարանը"
+      },
+      {
+        "revision": 167823,
+        "title": "Խաչագողի հիշատակարանը/Մաս I/Ի՞ՆՉ է ԽԱՉԱԳՈՂԸ"
+      },
+      {
+        "revision": 167824,
+        "title": "Խաչագողի հիշատակարանը/Մաս I/Ա"
+      },
+      {
+        "revision": 167825,
+        "title": "Խաչագողի հիշատակարանը/Մաս I/Բ"
+      },
+      {
+        "revision": 167826,
+        "title": "Խաչագողի հիշատակարանը/Մաս I/Գ"
+      },
+      {
+        "revision": 167827,
+        "title": "Խաչագողի հիշատակարանը/Մաս I/Դ"
+      },
+      {
+        "revision": 260327,
+        "title": "Խաչագողի հիշատակարանը/Մաս I/Ե"
+      },
+      {
+        "revision": 167829,
+        "title": "Խաչագողի հիշատակարանը/Մաս II/Ա"
+      },
+      {
+        "revision": 167830,
+        "title": "Խաչագողի հիշատակարանը/Մաս II/Բ"
+      },
+      {
+        "revision": 167832,
+        "title": "Խաչագողի հիշատակարանը/Մաս II/Գ"
+      },
+      {
+        "revision": 167831,
+        "title": "Խաչագողի հիշատակարանը/Մաս II/Դ"
+      },
+      {
+        "revision": 167833,
+        "title": "Խաչագողի հիշատակարանը/Մաս II/Ե"
+      },
+      {
+        "revision": 167834,
+        "title": "Խաչագողի հիշատակարանը/Մաս II/Զ"
+      },
+      {
+        "revision": 167835,
+        "title": "Խաչագողի հիշատակարանը/Մաս II/Է"
+      },
+      {
+        "revision": 167849,
+        "title": "Խաչագողի հիշատակարանը/Մաս II/Ը"
+      },
+      {
+        "revision": 167836,
+        "title": "Խաչագողի հիշատակարանը/Մաս II/Թ"
+      },
+      {
+        "revision": 167837,
+        "title": "Խաչագողի հիշատակարանը/Մաս III/Ա"
+      },
+      {
+        "revision": 167838,
+        "title": "Խաչագողի հիշատակարանը/Մաս III/Բ"
+      },
+      {
+        "revision": 167839,
+        "title": "Խաչագողի հիշատակարանը/Մաս III/Գ"
+      },
+      {
+        "revision": 167840,
+        "title": "Խաչագողի հիշատակարանը/Մաս III/Դ"
+      },
+      {
+        "revision": 167841,
+        "title": "Խաչագողի հիշատակարանը/Մաս III/Ե"
+      },
+      {
+        "revision": 167842,
+        "title": "Խաչագողի հիշատակարանը/Մաս III/Զ"
+      },
+      {
+        "revision": 167843,
+        "title": "Խաչագողի հիշատակարանը/Մաս III/Է"
+      },
+      {
+        "revision": 167844,
+        "title": "Խաչագողի հիշատակարանը/Մաս III/Ը"
+      },
+      {
+        "revision": 167845,
+        "title": "Խաչագողի հիշատակարանը/Մաս III/Թ"
+      },
+      {
+        "revision": 167846,
+        "title": "Խաչագողի հիշատակարանը/Մաս III/Ժ"
+      },
+      {
+        "revision": 167848,
+        "title": "Խաչագողի հիշատակարանը/Մաս III/ԺԱ"
+      },
+      {
+        "revision": 167847,
+        "title": "Խաչագողի հիշատակարանը/Մաս III/ԺԲ"
+      },
+      {
+        "revision": 167850,
+        "title": "Խաչագողի հիշատակարանը/Մաս IV/Ա"
+      },
+      {
+        "revision": 167851,
+        "title": "Խաչագողի հիշատակարանը/Մաս IV/Բ"
+      },
+      {
+        "revision": 167852,
+        "title": "Խաչագողի հիշատակարանը/Մաս IV/Գ"
+      },
+      {
+        "revision": 167853,
+        "title": "Խաչագողի հիշատակարանը/Մաս IV/Դ"
+      },
+      {
+        "revision": 167854,
+        "title": "Խաչագողի հիշատակարանը/Մաս IV/Ե"
+      },
+      {
+        "revision": 167855,
+        "title": "Խաչագողի հիշատակարանը/Մաս IV/Զ"
+      },
+      {
+        "revision": 167856,
+        "title": "Խաչագողի հիշատակարանը/Մաս IV/Է"
+      },
+      {
+        "revision": 167857,
+        "title": "Խաչագողի հիշատակարանը/Մաս IV/Ը"
+      },
+      {
+        "revision": 167858,
+        "title": "Խաչագողի հիշատակարանը/Մաս IV/Թ"
+      },
+      {
+        "revision": 167859,
+        "title": "Խաչագողի հիշատակարանը/Մաս IV/Ժ"
+      },
+      {
+        "revision": 167860,
+        "title": "Խաչագողի հիշատակարանը/Մաս IV/ԺԱ"
+      },
+      {
+        "revision": 167861,
+        "title": "Խաչագողի հիշատակարանը/Մաս IV/ԺԲ"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:39:32.939789Z",
+    "revision": "363253",
+    "site": "hy.wikisource.org",
+    "url": "https://hy.wikisource.org/wiki/%D4%BD%D5%A1%D5%B9%D5%A1%D5%A3%D5%B8%D5%B2%D5%AB_%D5%B0%D5%AB%D5%B7%D5%A1%D5%BF%D5%A1%D5%AF%D5%A1%D6%80%D5%A1%D5%B6%D5%A8"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1888,
+      "name": "Րաֆֆի",
+      "wikidata": "Q2610362"
+    },
+    "originalLanguage": "hy",
+    "originalPublicationYear": 1883,
+    "originalTitle": "Խաչագողի հիշատարականը",
+    "workId": "raffi-the-diary-of-a-cross-stealer"
+  }
+}

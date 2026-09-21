@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:08:52.002287Z",
+    "chapterCount": 112,
+    "contentSha256": "e0d47a1d96207d403a40ac356f57a8988d75de6cb9c31ba4c9af78a17b99d9a8",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/il-yeon-samguk-yusa.zh-hant.wikisource/v1/book.json.gz",
+    "sha256": "07f57663fe4b70d5a66fa3a551fc6712edabf205f0baa7000bb7e10de72cb089",
+    "sizeBytes": 156995,
+    "uncompressedSizeBytes": 335118,
+    "wordCount": 1712
+  },
+  "edition": {
+    "editionId": "il-yeon-samguk-yusa.zh-hant.wikisource",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "三國遺事"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1289: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1279: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q485538",
+      "https://www.wikidata.org/wiki/Q484286",
+      "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E9%81%BA%E4%BA%8B"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 一然 died in 1289 and the work was first published in 1279. Source: zh.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "三國遺事",
+    "pages": [
+      {
+        "revision": 2531688,
+        "title": "三國遺事"
+      },
+      {
+        "revision": 2492938,
+        "title": "三國遺事/卷第一"
+      },
+      {
+        "revision": 2159564,
+        "title": "三國遺事/卷第二"
+      },
+      {
+        "revision": 334906,
+        "title": "三國遺事/卷第三"
+      },
+      {
+        "revision": 334896,
+        "title": "三國遺事/卷第四"
+      },
+      {
+        "revision": 334900,
+        "title": "三國遺事/卷第五"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:36:15.841446Z",
+    "revision": "2531688",
+    "site": "zh.wikisource.org",
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E9%81%BA%E4%BA%8B"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1206,
+      "deathYear": 1289,
+      "name": "一然",
+      "wikidata": "Q484286"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": 1279,
+    "originalTitle": "三國遺事",
+    "workId": "il-yeon-samguk-yusa"
+  }
+}

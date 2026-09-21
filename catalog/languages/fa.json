@@ -1,0 +1,268 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 38,
+        "contentSha256": "2278f83e1b79abf0308ba97ad3eba82329e2ba1ab24919449cf10d17c839e02b",
+        "encoding": "gzip",
+        "path": "books/fa/astarabadi-ma-ayeb-al-rejal.fa.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2520980bd1abd4a347ac5edc7159a42826eb01e0f639a7808b6bd24fb4afb355",
+        "sizeBytes": 36971,
+        "uncompressedSizeBytes": 129060,
+        "wordCount": 13665
+      },
+      "author": "بیبیخانم استرآبادی",
+      "authorDeathYear": 1921,
+      "editionId": "astarabadi-ma-ayeb-al-rejal.fa.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "fa",
+      "originalLanguage": "fa",
+      "originalPublicationYear": 1894,
+      "originalTitle": "معایب الرجال",
+      "rights": {
+        "statement": "Public domain worldwide. بیبیخانم استرآبادی died in 1921 and the work was first published in 1894. Source: fa.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "معایب الرجال",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:01:24.192047Z",
+        "revision": "276302",
+        "url": "https://fa.wikisource.org/wiki/%D9%85%D8%B9%D8%A7%DB%8C%D8%A8_%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D9%84"
+      },
+      "title": "معایب الرجال",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "astarabadi-ma-ayeb-al-rejal"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "175171a4238e41ba0ddeaa84537ce6f73a57f071710cd66c29c0153b7b170cc4",
+        "encoding": "gzip",
+        "path": "books/fa/baha-u-llah-kitab-i-iqan.fa.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a4a9b66c178af667559d43821f3bdea9ad1bb06685991ab6f5406c490cadd931",
+        "sizeBytes": 82582,
+        "uncompressedSizeBytes": 305671,
+        "wordCount": 35842
+      },
+      "author": "بهاءالله",
+      "authorDeathYear": 1892,
+      "editionId": "baha-u-llah-kitab-i-iqan.fa.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "fa",
+      "originalLanguage": "fa",
+      "originalPublicationYear": 1861,
+      "originalTitle": "کتاب ایقان",
+      "rights": {
+        "statement": "Public domain worldwide. بهاءالله died in 1892 and the work was first published in 1861. Source: fa.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "کتاب مستطاب ایقان",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:01:26.365043Z",
+        "revision": "278487",
+        "url": "https://fa.wikisource.org/wiki/%DA%A9%D8%AA%D8%A7%D8%A8_%D9%85%D8%B3%D8%AA%D8%B7%D8%A7%D8%A8_%D8%A7%DB%8C%D9%82%D8%A7%D9%86"
+      },
+      "title": "کتاب ایقان",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "baha-u-llah-kitab-i-iqan"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "779efabe8eb76867b43dfccd13056cc3e1308cc73cc4072d6164f3862b8cf80d",
+        "encoding": "gzip",
+        "path": "books/fa/baha-u-llah-the-hidden-words.fa.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5cd30351b5871e43750a49dcd14f9a98c6b9fa2436bcdd5a5ae8fafcc299977e",
+        "sizeBytes": 20911,
+        "uncompressedSizeBytes": 70632,
+        "wordCount": 7614
+      },
+      "author": "بهاءالله",
+      "authorDeathYear": 1892,
+      "editionId": "baha-u-llah-the-hidden-words.fa.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "fa",
+      "originalLanguage": "fa",
+      "originalPublicationYear": 1858,
+      "originalTitle": "کلمات مبارکه مکنونه",
+      "rights": {
+        "statement": "Public domain worldwide. بهاءالله died in 1892 and the work was first published in 1858. Source: fa.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "کلمات مکنونه عربی",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:01:28.395195Z",
+        "revision": "279258",
+        "url": "https://fa.wikisource.org/wiki/%DA%A9%D9%84%D9%85%D8%A7%D8%AA_%D9%85%DA%A9%D9%86%D9%88%D9%86%D9%87_%D8%B9%D8%B1%D8%A8%DB%8C"
+      },
+      "title": "کلمات مبارکه مکنونه",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "baha-u-llah-the-hidden-words"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "e225ef6f2693415d36cc639eb6e23f2c6ca16868d013f5ac11698b41ea18df1c",
+        "encoding": "gzip",
+        "path": "books/fa/ferdowsi-turner-macan-edition-of-shahnameh.fa.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9b1f06615bf16d0fbcfd848161ee1dac861a7ac67af729655c44276512ce3901",
+        "sizeBytes": 35672,
+        "uncompressedSizeBytes": 129063,
+        "wordCount": 15659
+      },
+      "author": "فردوسی",
+      "authorDeathYear": 1020,
+      "editionId": "ferdowsi-turner-macan-edition-of-shahnameh.fa.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "fa",
+      "originalLanguage": "fa",
+      "originalPublicationYear": 1829,
+      "originalTitle": "شاهنامه ترنر ماکان",
+      "rights": {
+        "statement": "Public domain worldwide. فردوسی died in 1020 and the work was first published in 1829. Source: fa.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "شاهنامه (تصحیح ترنر ماکان)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:01:36.260Z",
+        "revision": "285321",
+        "url": "https://fa.wikisource.org/wiki/%D8%B4%D8%A7%D9%87%D9%86%D8%A7%D9%85%D9%87_(%D8%AA%D8%B5%D8%AD%DB%8C%D8%AD_%D8%AA%D8%B1%D9%86%D8%B1_%D9%85%D8%A7%DA%A9%D8%A7%D9%86)"
+      },
+      "title": "شاهنامه ترنر ماکان",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "ferdowsi-turner-macan-edition-of-shahnameh"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "0ca6bf5ea4a846563b102ea8b29abfa958db1dc1646a00a012714316665e7981",
+        "encoding": "gzip",
+        "path": "books/fa/kasravi-history-of-the-lion-and-the-sun.fa.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "219056786508ece037566ea614686002ce5df96ec03303514034bd76f48b8925",
+        "sizeBytes": 16725,
+        "uncompressedSizeBytes": 66940,
+        "wordCount": 7007
+      },
+      "author": "احمد کسروی",
+      "authorDeathYear": 1946,
+      "editionId": "kasravi-history-of-the-lion-and-the-sun.fa.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "fa",
+      "originalLanguage": "fa",
+      "originalPublicationYear": 1930,
+      "originalTitle": "تاریخچه شیر و خورشید",
+      "rights": {
+        "statement": "Public domain worldwide. احمد کسروی died in 1946 and the work was first published in 1930. Source: fa.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "تاریخچه شیر و خورشید",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:01:45.866072Z",
+        "revision": "291024",
+        "url": "https://fa.wikisource.org/wiki/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DA%86%D9%87_%D8%B4%DB%8C%D8%B1_%D9%88_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF"
+      },
+      "title": "تاریخچه شیر و خورشید",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kasravi-history-of-the-lion-and-the-sun"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 50,
+        "contentSha256": "9b3500c55feec679fe3e5bbe2ba4762fa99b5e8efc231c5c8a4b98745fef8b57",
+        "encoding": "gzip",
+        "path": "books/fa/qajar-tarikhe-no.fa.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "29614e5dc2e9ab64ba180c4c835eaf21cf8058b59a19c1de64fbbf3410f7157b",
+        "sizeBytes": 345535,
+        "uncompressedSizeBytes": 1644315,
+        "wordCount": 177630
+      },
+      "author": "جهانگیر میرزا",
+      "authorDeathYear": 1853,
+      "editionId": "qajar-tarikhe-no.fa.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "fa",
+      "originalLanguage": "fa",
+      "originalPublicationYear": 1850,
+      "originalTitle": "تاریخ نو",
+      "rights": {
+        "statement": "Public domain worldwide. جهانگیر میرزا died in 1853 and the work was first published in 1850. Source: fa.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "تاریخ نو",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:03:17.517253Z",
+        "revision": "249291",
+        "url": "https://fa.wikisource.org/wiki/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE_%D9%86%D9%88"
+      },
+      "title": "تاریخ نو",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "qajar-tarikhe-no"
+    }
+  ],
+  "direction": "rtl",
+  "englishName": "Persian",
+  "language": "fa",
+  "manifestVersion": "1a705c6e4a5ab527",
+  "nativeName": "فارسی",
+  "schemaVersion": 1
+}

@@ -1,0 +1,233 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:02.470175Z",
+    "chapterCount": 41,
+    "contentSha256": "50af3766baab8ecbbb5766297c5180c7fbc4d114258c511aba0d0764eb506760",
+    "normalizerVersion": "0.2.0",
+    "path": "books/et/tammsaare-tode-ja-oigus-ii.et.wikisource/v1/book.json.gz",
+    "sha256": "9fd1bc5e431ae58b6c6ca1f3ab1fab72ba76a0c4411ff1e76880aca2dd4555a7",
+    "sizeBytes": 399642,
+    "uncompressedSizeBytes": 1133205,
+    "wordCount": 164692
+  },
+  "edition": {
+    "editionId": "tammsaare-tode-ja-oigus-ii.et.wikisource",
+    "kind": "original",
+    "language": "et",
+    "title": "Tõde ja õigus II"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1940: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1929: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q16407461",
+      "https://www.wikidata.org/wiki/Q353637",
+      "https://et.wikisource.org/wiki/T%C3%B5de_ja_%C3%B5igus_II"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. A. H. Tammsaare died in 1940 and the work was first published in 1929. Source: et.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Tõde ja õigus II",
+    "pages": [
+      {
+        "revision": 59616,
+        "title": "Tõde ja õigus II"
+      },
+      {
+        "revision": 18307,
+        "title": "Tõde ja õigus II/I"
+      },
+      {
+        "revision": 18344,
+        "title": "Tõde ja õigus II/II"
+      },
+      {
+        "revision": 18345,
+        "title": "Tõde ja õigus II/III"
+      },
+      {
+        "revision": 18346,
+        "title": "Tõde ja õigus II/IV"
+      },
+      {
+        "revision": 18347,
+        "title": "Tõde ja õigus II/V"
+      },
+      {
+        "revision": 18348,
+        "title": "Tõde ja õigus II/VI"
+      },
+      {
+        "revision": 18349,
+        "title": "Tõde ja õigus II/VII"
+      },
+      {
+        "revision": 18350,
+        "title": "Tõde ja õigus II/VIII"
+      },
+      {
+        "revision": 18351,
+        "title": "Tõde ja õigus II/IX"
+      },
+      {
+        "revision": 18352,
+        "title": "Tõde ja õigus II/X"
+      },
+      {
+        "revision": 19291,
+        "title": "Tõde ja õigus II/XI"
+      },
+      {
+        "revision": 19292,
+        "title": "Tõde ja õigus II/XII"
+      },
+      {
+        "revision": 19293,
+        "title": "Tõde ja õigus II/XIII"
+      },
+      {
+        "revision": 19294,
+        "title": "Tõde ja õigus II/XIV"
+      },
+      {
+        "revision": 19295,
+        "title": "Tõde ja õigus II/XV"
+      },
+      {
+        "revision": 19296,
+        "title": "Tõde ja õigus II/XVI"
+      },
+      {
+        "revision": 19297,
+        "title": "Tõde ja õigus II/XVII"
+      },
+      {
+        "revision": 19298,
+        "title": "Tõde ja õigus II/XVIII"
+      },
+      {
+        "revision": 19299,
+        "title": "Tõde ja õigus II/XIX"
+      },
+      {
+        "revision": 19300,
+        "title": "Tõde ja õigus II/XX"
+      },
+      {
+        "revision": 19454,
+        "title": "Tõde ja õigus II/XXI"
+      },
+      {
+        "revision": 19455,
+        "title": "Tõde ja õigus II/XXII"
+      },
+      {
+        "revision": 19456,
+        "title": "Tõde ja õigus II/XXIII"
+      },
+      {
+        "revision": 19457,
+        "title": "Tõde ja õigus II/XXIV"
+      },
+      {
+        "revision": 19458,
+        "title": "Tõde ja õigus II/XXV"
+      },
+      {
+        "revision": 19459,
+        "title": "Tõde ja õigus II/XXVI"
+      },
+      {
+        "revision": 19460,
+        "title": "Tõde ja õigus II/XXVII"
+      },
+      {
+        "revision": 19461,
+        "title": "Tõde ja õigus II/XXVIII"
+      },
+      {
+        "revision": 19462,
+        "title": "Tõde ja õigus II/XXIX"
+      },
+      {
+        "revision": 19463,
+        "title": "Tõde ja õigus II/XXX"
+      },
+      {
+        "revision": 19611,
+        "title": "Tõde ja õigus II/XXXI"
+      },
+      {
+        "revision": 19612,
+        "title": "Tõde ja õigus II/XXXII"
+      },
+      {
+        "revision": 19613,
+        "title": "Tõde ja õigus II/XXXIII"
+      },
+      {
+        "revision": 19614,
+        "title": "Tõde ja õigus II/XXXIV"
+      },
+      {
+        "revision": 19615,
+        "title": "Tõde ja õigus II/XXXV"
+      },
+      {
+        "revision": 19616,
+        "title": "Tõde ja õigus II/XXXVI"
+      },
+      {
+        "revision": 19617,
+        "title": "Tõde ja õigus II/XXXVII"
+      },
+      {
+        "revision": 19618,
+        "title": "Tõde ja õigus II/XXXVIII"
+      },
+      {
+        "revision": 19619,
+        "title": "Tõde ja õigus II/XXXIX"
+      },
+      {
+        "revision": 19620,
+        "title": "Tõde ja õigus II/XL"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:55:21.993087Z",
+    "revision": "59616",
+    "site": "et.wikisource.org",
+    "url": "https://et.wikisource.org/wiki/T%C3%B5de_ja_%C3%B5igus_II"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1878,
+      "deathYear": 1940,
+      "name": "A. H. Tammsaare",
+      "wikidata": "Q353637"
+    },
+    "originalLanguage": "et",
+    "originalPublicationYear": 1929,
+    "originalTitle": "Tõde ja õigus II",
+    "workId": "tammsaare-tode-ja-oigus-ii"
+  }
+}

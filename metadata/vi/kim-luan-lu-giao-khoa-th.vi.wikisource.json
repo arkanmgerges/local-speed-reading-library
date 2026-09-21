@@ -1,0 +1,277 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:58.455817Z",
+    "chapterCount": 51,
+    "contentSha256": "ccfc78bf53e7c6fac53168215e0d8b8af73691025657d02f2e93f355c784befe",
+    "normalizerVersion": "0.2.0",
+    "path": "books/vi/kim-luan-lu-giao-khoa-th.vi.wikisource/v1/book.json.gz",
+    "sha256": "5c3c120a813497d1905e77ce45cfc311c800b16a3259c1c4035a88c43160709b",
+    "sizeBytes": 19763,
+    "uncompressedSizeBytes": 73675,
+    "wordCount": 9785
+  },
+  "edition": {
+    "editionId": "kim-luan-lu-giao-khoa-th.vi.wikisource",
+    "kind": "original",
+    "language": "vi",
+    "title": "Luân lý giáo khoa thư - Lớp Đồng ấu"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1953: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1925: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q130403924",
+      "https://www.wikidata.org/wiki/Q665382",
+      "https://vi.wikisource.org/wiki/Lu%C3%A2n_l%C3%BD_gi%C3%A1o_khoa_th%C6%B0_-_L%E1%BB%9Bp_%C4%90%E1%BB%93ng_%E1%BA%A5u"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Trần Trọng Kim died in 1953 and the work was first published in 1925. Source: vi.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Luân lý giáo khoa thư - Lớp Đồng ấu",
+    "pages": [
+      {
+        "revision": 180638,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu"
+      },
+      {
+        "revision": 179571,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/Tựa"
+      },
+      {
+        "revision": 179955,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/1"
+      },
+      {
+        "revision": 179954,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/2"
+      },
+      {
+        "revision": 179956,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/3"
+      },
+      {
+        "revision": 179957,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/4"
+      },
+      {
+        "revision": 179958,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/5"
+      },
+      {
+        "revision": 179959,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/6"
+      },
+      {
+        "revision": 179960,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/7"
+      },
+      {
+        "revision": 179961,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/8"
+      },
+      {
+        "revision": 179962,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/9"
+      },
+      {
+        "revision": 179963,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/10"
+      },
+      {
+        "revision": 179964,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/11"
+      },
+      {
+        "revision": 179965,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/12"
+      },
+      {
+        "revision": 179966,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/13"
+      },
+      {
+        "revision": 179967,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/14"
+      },
+      {
+        "revision": 179968,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/15"
+      },
+      {
+        "revision": 179969,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/16"
+      },
+      {
+        "revision": 179970,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/17"
+      },
+      {
+        "revision": 179971,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/18"
+      },
+      {
+        "revision": 179972,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/19"
+      },
+      {
+        "revision": 179973,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/20"
+      },
+      {
+        "revision": 179974,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/21"
+      },
+      {
+        "revision": 179975,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/22"
+      },
+      {
+        "revision": 179976,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/23"
+      },
+      {
+        "revision": 179977,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/24"
+      },
+      {
+        "revision": 179978,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/25"
+      },
+      {
+        "revision": 179980,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/26"
+      },
+      {
+        "revision": 179981,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/27"
+      },
+      {
+        "revision": 179982,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/28"
+      },
+      {
+        "revision": 179983,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/29"
+      },
+      {
+        "revision": 179984,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/30"
+      },
+      {
+        "revision": 180468,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/31"
+      },
+      {
+        "revision": 180469,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/32"
+      },
+      {
+        "revision": 180470,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/33"
+      },
+      {
+        "revision": 180471,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/34"
+      },
+      {
+        "revision": 180472,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/35"
+      },
+      {
+        "revision": 180473,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/36"
+      },
+      {
+        "revision": 180474,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/37"
+      },
+      {
+        "revision": 180475,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/38"
+      },
+      {
+        "revision": 180476,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/39"
+      },
+      {
+        "revision": 180477,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/40"
+      },
+      {
+        "revision": 180478,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/41"
+      },
+      {
+        "revision": 180479,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/42"
+      },
+      {
+        "revision": 180480,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/43"
+      },
+      {
+        "revision": 180481,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/44"
+      },
+      {
+        "revision": 180482,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/45"
+      },
+      {
+        "revision": 180483,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/46"
+      },
+      {
+        "revision": 180484,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/47"
+      },
+      {
+        "revision": 180485,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/48"
+      },
+      {
+        "revision": 180486,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/49"
+      },
+      {
+        "revision": 180487,
+        "title": "Luân lý giáo khoa thư - Lớp Đồng ấu/50"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:24:20.507495Z",
+    "revision": "180638",
+    "site": "vi.wikisource.org",
+    "url": "https://vi.wikisource.org/wiki/Lu%C3%A2n_l%C3%BD_gi%C3%A1o_khoa_th%C6%B0_-_L%E1%BB%9Bp_%C4%90%E1%BB%93ng_%E1%BA%A5u"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1883,
+      "deathYear": 1953,
+      "name": "Trần Trọng Kim",
+      "wikidata": "Q665382"
+    },
+    "originalLanguage": "vi",
+    "originalPublicationYear": 1925,
+    "originalTitle": "Luân lý giáo khoa thư - Lớp Đồng ấu",
+    "workId": "kim-luan-lu-giao-khoa-th"
+  }
+}

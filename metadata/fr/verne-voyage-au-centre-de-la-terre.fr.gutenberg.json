@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:27:17.453908Z",
+    "chapterCount": 46,
+    "contentSha256": "3e7ab14215e9fc5bab5aab3a4c42521388f9bd4d847ace59554bb22a0d6ec6d7",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/verne-voyage-au-centre-de-la-terre.fr.gutenberg/v1/book.json.gz",
+    "sha256": "441496ff7abff2baafc4c26d8f930270757286004c6093e44409db1feb0bccc3",
+    "sizeBytes": 161787,
+    "uncompressedSizeBytes": 455023,
+    "wordCount": 66950
+  },
+  "edition": {
+    "editionId": "verne-voyage-au-centre-de-la-terre.fr.gutenberg",
+    "kind": "original",
+    "language": "fr",
+    "title": "Voyage au Centre de la Terre"
+  },
+  "genres": [
+    "Fiction",
+    "Science"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1905: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1864: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/4791",
+      "https://en.wikipedia.org/wiki/Jules_Verne",
+      "https://www.wikidata.org/wiki/Q219457"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jules Verne died in 1905 and the work was first published in 1864. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "4791",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:16:08.472235Z",
+    "revision": "Wed, 02 Sep 2026 16:04:10 GMT",
+    "url": "https://www.gutenberg.org/ebooks/4791"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1828,
+      "deathYear": 1905,
+      "name": "Jules Verne",
+      "wikidata": "Q33977"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1864,
+    "originalTitle": "Voyage au Centre de la Terre",
+    "workId": "verne-voyage-au-centre-de-la-terre"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:28.793049Z",
+    "chapterCount": 10,
+    "contentSha256": "29af97c743cfa48b170ebb6c34bbadf89c0651ea876d4c3db904ac4e98649f00",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/bertrana-josafat.ca.gutenberg/v1/book.json.gz",
+    "sha256": "c7e9f79d870f15e94248bb2ef4b0f5025c8aebaa9b0c660102d702986640fb42",
+    "sizeBytes": 45921,
+    "uncompressedSizeBytes": 115392,
+    "wordCount": 17677
+  },
+  "edition": {
+    "editionId": "bertrana-josafat.ca.gutenberg",
+    "kind": "original",
+    "language": "ca",
+    "title": "Josafat"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1941: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1906: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/73408",
+      "https://ca.wikipedia.org/wiki/Prudenci_Bertrana_i_Comte",
+      "https://www.wikidata.org/wiki/Q11038725"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Prudenci Bertrana died in 1941 and the work was first published in 1906. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "73408",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:05:15.782772Z",
+    "revision": "Sat, 29 Aug 2026 10:03:58 GMT",
+    "url": "https://www.gutenberg.org/ebooks/73408"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1867,
+      "deathYear": 1941,
+      "name": "Prudenci Bertrana",
+      "wikidata": "Q3322361"
+    },
+    "originalLanguage": "ca",
+    "originalPublicationYear": 1906,
+    "originalTitle": "Josafat",
+    "workId": "bertrana-josafat"
+  }
+}

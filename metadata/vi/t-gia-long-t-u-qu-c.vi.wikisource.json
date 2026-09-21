@@ -1,0 +1,193 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:08:34.215269Z",
+    "chapterCount": 31,
+    "contentSha256": "1419dd927e34b91138ab9ff4c243f1914ee4669a622912ff6ef04de09d358883",
+    "normalizerVersion": "0.2.0",
+    "path": "books/vi/t-gia-long-t-u-qu-c.vi.wikisource/v1/book.json.gz",
+    "sha256": "aae94c12e336c81f899633d6a580af085fd0eb89820a6ca036a207379442201f",
+    "sizeBytes": 204260,
+    "uncompressedSizeBytes": 686374,
+    "wordCount": 103509
+  },
+  "edition": {
+    "editionId": "t-gia-long-t-u-qu-c.vi.wikisource",
+    "kind": "original",
+    "language": "vi",
+    "title": "Gia Long tẩu quốc"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1955: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1930: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q24958954",
+      "https://www.wikidata.org/wiki/Q16480522",
+      "https://vi.wikisource.org/wiki/Gia_Long_t%E1%BA%A9u_qu%E1%BB%91c"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Tân Dân Tử died in 1955 and the work was first published in 1930. Source: vi.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Gia Long tẩu quốc",
+    "pages": [
+      {
+        "revision": 96002,
+        "title": "Gia Long tẩu quốc"
+      },
+      {
+        "revision": 92590,
+        "title": "Gia Long tẩu quốc/Tự"
+      },
+      {
+        "revision": 92773,
+        "title": "Gia Long tẩu quốc/Tựa"
+      },
+      {
+        "revision": 92774,
+        "title": "Gia Long tẩu quốc/Lời tựa của tác-giả"
+      },
+      {
+        "revision": 92800,
+        "title": "Gia Long tẩu quốc/Hồi thứ nhứt"
+      },
+      {
+        "revision": 92992,
+        "title": "Gia Long tẩu quốc/Hồi thứ hai"
+      },
+      {
+        "revision": 93098,
+        "title": "Gia Long tẩu quốc/Hồi thứ ba"
+      },
+      {
+        "revision": 93264,
+        "title": "Gia Long tẩu quốc/Hồi thứ tư"
+      },
+      {
+        "revision": 95358,
+        "title": "Gia Long tẩu quốc/Hồi thứ năm"
+      },
+      {
+        "revision": 93325,
+        "title": "Gia Long tẩu quốc/Hồi thứ sáu"
+      },
+      {
+        "revision": 93733,
+        "title": "Gia Long tẩu quốc/Hồi thứ bảy"
+      },
+      {
+        "revision": 93898,
+        "title": "Gia Long tẩu quốc/Hồi thứ tám"
+      },
+      {
+        "revision": 93903,
+        "title": "Gia Long tẩu quốc/Hồi thứ chín"
+      },
+      {
+        "revision": 93965,
+        "title": "Gia Long tẩu quốc/Hồi thứ mười"
+      },
+      {
+        "revision": 94059,
+        "title": "Gia Long tẩu quốc/Hồi thứ mười một"
+      },
+      {
+        "revision": 94080,
+        "title": "Gia Long tẩu quốc/Hồi thứ mười hai"
+      },
+      {
+        "revision": 95359,
+        "title": "Gia Long tẩu quốc/Hồi thứ mười ba"
+      },
+      {
+        "revision": 94992,
+        "title": "Gia Long tẩu quốc/Hồi thứ mười bốn"
+      },
+      {
+        "revision": 95090,
+        "title": "Gia Long tẩu quốc/Hồi thứ mười lăm"
+      },
+      {
+        "revision": 95096,
+        "title": "Gia Long tẩu quốc/Hồi thứ mười sáu"
+      },
+      {
+        "revision": 95299,
+        "title": "Gia Long tẩu quốc/Hồi thứ mười bảy"
+      },
+      {
+        "revision": 95399,
+        "title": "Gia Long tẩu quốc/Hồi thứ mười tám"
+      },
+      {
+        "revision": 95422,
+        "title": "Gia Long tẩu quốc/Hồi thứ mười chín"
+      },
+      {
+        "revision": 95574,
+        "title": "Gia Long tẩu quốc/Hồi thứ hai mươi"
+      },
+      {
+        "revision": 95595,
+        "title": "Gia Long tẩu quốc/Hồi thứ hai mươi mốt"
+      },
+      {
+        "revision": 95614,
+        "title": "Gia Long tẩu quốc/Hồi thứ hai mươi hai"
+      },
+      {
+        "revision": 95657,
+        "title": "Gia Long tẩu quốc/Hồi thứ hai mươi ba"
+      },
+      {
+        "revision": 95705,
+        "title": "Gia Long tẩu quốc/Hồi thứ hai mươi bốn"
+      },
+      {
+        "revision": 95707,
+        "title": "Gia Long tẩu quốc/Hồi thứ hai mươi lăm"
+      },
+      {
+        "revision": 95803,
+        "title": "Gia Long tẩu quốc/Hồi thứ hai mươi sáu"
+      },
+      {
+        "revision": 95827,
+        "title": "Gia Long tẩu quốc/Hồi thứ hai mươi bảy"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:27:24.343702Z",
+    "revision": "96002",
+    "site": "vi.wikisource.org",
+    "url": "https://vi.wikisource.org/wiki/Gia_Long_t%E1%BA%A9u_qu%E1%BB%91c"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1875,
+      "deathYear": 1955,
+      "name": "Tân Dân Tử",
+      "wikidata": "Q16480522"
+    },
+    "originalLanguage": "vi",
+    "originalPublicationYear": 1930,
+    "originalTitle": "Gia Long tẩu quốc",
+    "workId": "t-gia-long-t-u-qu-c"
+  }
+}

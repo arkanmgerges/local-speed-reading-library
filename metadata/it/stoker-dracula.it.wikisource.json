@@ -1,0 +1,175 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:22.649980Z",
+    "chapterCount": 22,
+    "contentSha256": "2865806efd933d93682d67a968f72051b1127df417b1125a12e92090265f9a38",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/stoker-dracula.it.wikisource/v1/book.json.gz",
+    "sha256": "70592a86ccb312c444c1d2e6ac999978f3bcf3c7e4abdffa7a23e73352beadd3",
+    "sizeBytes": 94745,
+    "uncompressedSizeBytes": 265129,
+    "wordCount": 39167
+  },
+  "edition": {
+    "editionId": "stoker-dracula.it.wikisource",
+    "kind": "translation",
+    "language": "it",
+    "title": "Dracula",
+    "translationPublicationYear": 1922,
+    "translator": {
+      "birthYear": 1873,
+      "deathYear": 1932,
+      "name": "Angelo Nessi",
+      "wikidata": "Q22574189"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1912: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1932: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1922: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q41542",
+      "https://www.wikidata.org/wiki/Q58070820",
+      "https://www.wikidata.org/wiki/Q36184",
+      "https://www.wikidata.org/wiki/Q22574189",
+      "https://it.wikisource.org/wiki/Dracula"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Bram Stoker died in 1912; the translator Angelo Nessi died in 1932 and this translation was first published in 1922. Source: it.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Dracula",
+    "pages": [
+      {
+        "revision": 3687377,
+        "title": "Dracula"
+      },
+      {
+        "revision": 3800563,
+        "title": "Dracula/I"
+      },
+      {
+        "revision": 3800564,
+        "title": "Dracula/II"
+      },
+      {
+        "revision": 3800565,
+        "title": "Dracula/III"
+      },
+      {
+        "revision": 3800566,
+        "title": "Dracula/IV"
+      },
+      {
+        "revision": 3800569,
+        "title": "Dracula/V"
+      },
+      {
+        "revision": 3800570,
+        "title": "Dracula/VI"
+      },
+      {
+        "revision": 3800571,
+        "title": "Dracula/VII"
+      },
+      {
+        "revision": 3800572,
+        "title": "Dracula/VIII"
+      },
+      {
+        "revision": 3800567,
+        "title": "Dracula/IX"
+      },
+      {
+        "revision": 3800573,
+        "title": "Dracula/X"
+      },
+      {
+        "revision": 3800574,
+        "title": "Dracula/XI"
+      },
+      {
+        "revision": 3800575,
+        "title": "Dracula/XII"
+      },
+      {
+        "revision": 3800576,
+        "title": "Dracula/XIII"
+      },
+      {
+        "revision": 3800577,
+        "title": "Dracula/XIV"
+      },
+      {
+        "revision": 3800579,
+        "title": "Dracula/XV"
+      },
+      {
+        "revision": 3800580,
+        "title": "Dracula/XVI"
+      },
+      {
+        "revision": 3800581,
+        "title": "Dracula/XVII"
+      },
+      {
+        "revision": 3800582,
+        "title": "Dracula/XVIII"
+      },
+      {
+        "revision": 3800578,
+        "title": "Dracula/XIX"
+      },
+      {
+        "revision": 3800583,
+        "title": "Dracula/XX"
+      },
+      {
+        "revision": 3800584,
+        "title": "Dracula/XXI"
+      },
+      {
+        "revision": 3800585,
+        "title": "Dracula/XXII"
+      },
+      {
+        "revision": 3800568,
+        "title": "Dracula/Indice"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:49:22.596358Z",
+    "revision": "3687377",
+    "site": "it.wikisource.org",
+    "url": "https://it.wikisource.org/wiki/Dracula"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1847,
+      "deathYear": 1912,
+      "name": "Bram Stoker",
+      "wikidata": "Q36184"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1897,
+    "originalTitle": "Dracula",
+    "workId": "stoker-dracula"
+  }
+}

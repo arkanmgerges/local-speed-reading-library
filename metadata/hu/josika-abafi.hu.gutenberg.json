@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:58:50.355190Z",
+    "chapterCount": 40,
+    "contentSha256": "326b3ea21ae00d0af6a3f3a3598a9587adb67f190bb57d1b989365ee697919a0",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hu/josika-abafi.hu.gutenberg/v1/book.json.gz",
+    "sha256": "743da3a0dc7ee0636e3315936dcca8a956710dc025e04b2559c82b3e6c7346b6",
+    "sizeBytes": 160298,
+    "uncompressedSizeBytes": 422967,
+    "wordCount": 54454
+  },
+  "edition": {
+    "editionId": "josika-abafi.hu.gutenberg",
+    "kind": "original",
+    "language": "hu",
+    "title": "Abafi : $b regény"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1865: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1836: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/77780",
+      "https://en.wikipedia.org/wiki/Mikl%C3%B3s_J%C3%B3sika",
+      "https://www.wikidata.org/wiki/Q479178"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Miklós Jósika died in 1865 and the work was first published in 1836. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "77780",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:35:50.247361Z",
+    "revision": "Sun, 30 Aug 2026 22:16:58 GMT",
+    "url": "https://www.gutenberg.org/ebooks/77780"
+  },
+  "work": {
+    "author": {
+      "deathYear": 1865,
+      "name": "Miklós Jósika",
+      "wikidata": "Q634047"
+    },
+    "originalLanguage": "hu",
+    "originalPublicationYear": 1836,
+    "originalTitle": "Abafi : $b regény",
+    "workId": "josika-abafi"
+  }
+}

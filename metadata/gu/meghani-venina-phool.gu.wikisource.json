@@ -1,0 +1,209 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:27:32.989586Z",
+    "chapterCount": 34,
+    "contentSha256": "51af238111d4cabc0feb0d918672f3f39977f1a61ab65c4f843aff39ba82eb21",
+    "normalizerVersion": "0.2.0",
+    "path": "books/gu/meghani-venina-phool.gu.wikisource/v1/book.json.gz",
+    "sha256": "d670b38009c44c156bf5c64a37e5aad00f728f02866ef5d601158c635fb33145",
+    "sizeBytes": 25216,
+    "uncompressedSizeBytes": 131233,
+    "wordCount": 8207
+  },
+  "edition": {
+    "editionId": "meghani-venina-phool.gu.wikisource",
+    "kind": "original",
+    "language": "gu",
+    "title": "વેણીનાં ફૂલ"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1947: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1928: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q18016193",
+      "https://www.wikidata.org/wiki/Q2758776",
+      "https://gu.wikisource.org/wiki/%E0%AA%B5%E0%AB%87%E0%AA%A3%E0%AB%80%E0%AA%A8%E0%AA%BE%E0%AA%82_%E0%AA%AB%E0%AB%82%E0%AA%B2"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ઝવેરચંદ મેઘાણી died in 1947 and the work was first published in 1928. Source: gu.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "વેણીનાં ફૂલ",
+    "pages": [
+      {
+        "revision": 167294,
+        "title": "વેણીનાં ફૂલ"
+      },
+      {
+        "revision": 36156,
+        "title": "વેણીનાં ફૂલ/પ્રવેશક"
+      },
+      {
+        "revision": 35862,
+        "title": "વેણીનાં ફૂલ/વેણીનાં ફૂલ"
+      },
+      {
+        "revision": 35868,
+        "title": "વેણીનાં ફૂલ/બાલૂડી બ્હેન"
+      },
+      {
+        "revision": 35875,
+        "title": "વેણીનાં ફૂલ/બોલે મોરલો"
+      },
+      {
+        "revision": 35908,
+        "title": "વેણીનાં ફૂલ/પારેવાં લ્યો"
+      },
+      {
+        "revision": 35911,
+        "title": "વેણીનાં ફૂલ/નીંદરભરી"
+      },
+      {
+        "revision": 35916,
+        "title": "વેણીનાં ફૂલ/વીરડો"
+      },
+      {
+        "revision": 35976,
+        "title": "વેણીનાં ફૂલ/ચલ ગાગર"
+      },
+      {
+        "revision": 35978,
+        "title": "વેણીનાં ફૂલ/લાલ લાલ જોગી"
+      },
+      {
+        "revision": 35981,
+        "title": "વેણીનાં ફૂલ/દાદાજીના દેશમાં"
+      },
+      {
+        "revision": 36036,
+        "title": "વેણીનાં ફૂલ/વાદળમાં વસનાર"
+      },
+      {
+        "revision": 36037,
+        "title": "વેણીનાં ફૂલ/સાગરમાં વસનાર"
+      },
+      {
+        "revision": 36038,
+        "title": "વેણીનાં ફૂલ/ગામડાંના વીસામા"
+      },
+      {
+        "revision": 36039,
+        "title": "વેણીનાં ફૂલ/ગામડાંના વીસામા(૨)"
+      },
+      {
+        "revision": 35945,
+        "title": "વેણીનાં ફૂલ/સૂરજ ધીમા તપો"
+      },
+      {
+        "revision": 36040,
+        "title": "વેણીનાં ફૂલ/દરિયો"
+      },
+      {
+        "revision": 36041,
+        "title": "વેણીનાં ફૂલ/કાળુડો રંગ"
+      },
+      {
+        "revision": 36042,
+        "title": "વેણીનાં ફૂલ/લીલો રંગ"
+      },
+      {
+        "revision": 36194,
+        "title": "વેણીનાં ફૂલ/પીળો રંગ"
+      },
+      {
+        "revision": 36195,
+        "title": "વેણીનાં ફૂલ/રાતો રંગ"
+      },
+      {
+        "revision": 35940,
+        "title": "વેણીનાં ફૂલ/દરિયાની માછલી"
+      },
+      {
+        "revision": 36196,
+        "title": "વેણીનાં ફૂલ/આભનાં દીવડા"
+      },
+      {
+        "revision": 36198,
+        "title": "વેણીનાં ફૂલ/આભનાં મોતી"
+      },
+      {
+        "revision": 36254,
+        "title": "વેણીનાં ફૂલ/આભનાં ફુલો"
+      },
+      {
+        "revision": 36255,
+        "title": "વેણીનાં ફૂલ/આભનાં ચંદરવા"
+      },
+      {
+        "revision": 36262,
+        "title": "વેણીનાં ફૂલ/ઉભાં રો' રંગગવાદળી"
+      },
+      {
+        "revision": 35927,
+        "title": "વેણીનાં ફૂલ/ચારણ-કન્યા"
+      },
+      {
+        "revision": 36199,
+        "title": "વેણીનાં ફૂલ/વીંઝણો"
+      },
+      {
+        "revision": 36200,
+        "title": "વેણીનાં ફૂલ/માલા ગુંથણ"
+      },
+      {
+        "revision": 36201,
+        "title": "વેણીનાં ફૂલ/બસંતની વનદેવી"
+      },
+      {
+        "revision": 36202,
+        "title": "વેણીનાં ફૂલ/કાંઠે રમનારા"
+      },
+      {
+        "revision": 35991,
+        "title": "વેણીનાં ફૂલ/બ્હેન હિન્દવાણી"
+      },
+      {
+        "revision": 35897,
+        "title": "વેણીનાં ફૂલ/તલવારનો વારસદાર"
+      },
+      {
+        "revision": 36099,
+        "title": "વેણીનાં ફૂલ/જાણવા જેવા શબ્દોનો કોષ"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:25:19.672114Z",
+    "revision": "167294",
+    "site": "gu.wikisource.org",
+    "url": "https://gu.wikisource.org/wiki/%E0%AA%B5%E0%AB%87%E0%AA%A3%E0%AB%80%E0%AA%A8%E0%AA%BE%E0%AA%82_%E0%AA%AB%E0%AB%82%E0%AA%B2"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1896,
+      "deathYear": 1947,
+      "name": "ઝવેરચંદ મેઘાણી",
+      "wikidata": "Q2758776"
+    },
+    "originalLanguage": "gu",
+    "originalPublicationYear": 1928,
+    "originalTitle": "વેણીનાં ફૂલ",
+    "workId": "meghani-venina-phool"
+  }
+}

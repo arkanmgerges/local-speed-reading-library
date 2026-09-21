@@ -1,0 +1,189 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:55:49.623262Z",
+    "chapterCount": 37,
+    "contentSha256": "f11afd11b735d7941dad968519abd37b53dabb4e5606feec3d5ae5ae80a5453b",
+    "normalizerVersion": "0.2.0",
+    "path": "books/et/kreutzwald-eesti-rahva-ennemuistsed-jutud.et.wikisource/v1/book.json.gz",
+    "sha256": "024b0f7f36e5a0cd7a27414cbd5788894d41403803885e671b27cfb7de53737c",
+    "sizeBytes": 201244,
+    "uncompressedSizeBytes": 599135,
+    "wordCount": 87670
+  },
+  "edition": {
+    "editionId": "kreutzwald-eesti-rahva-ennemuistsed-jutud.et.wikisource",
+    "kind": "original",
+    "language": "et",
+    "title": "Eesti rahva ennemuistsed jutud"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1882: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1866: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q31275072",
+      "https://www.wikidata.org/wiki/Q333900",
+      "https://et.wikisource.org/wiki/Eesti_rahva_ennemuistsed_jutud"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Friedrich Reinhold Kreutzwald died in 1882 and the work was first published in 1866. Source: et.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Eesti rahva ennemuistsed jutud",
+    "pages": [
+      {
+        "revision": 42025,
+        "title": "Eesti rahva ennemuistsed jutud"
+      },
+      {
+        "revision": 15568,
+        "title": "Eesti rahva ennemuistsed jutud/Kullaketrajad"
+      },
+      {
+        "revision": 15575,
+        "title": "Eesti rahva ennemuistsed jutud/Pikkjalg, Osavkäpp ja Teravsilm"
+      },
+      {
+        "revision": 59696,
+        "title": "Eesti rahva ennemuistsed jutud/Vaeselapse käsikivi"
+      },
+      {
+        "revision": 59697,
+        "title": "Eesti rahva ennemuistsed jutud/Kaksteistkümmend tütart"
+      },
+      {
+        "revision": 15588,
+        "title": "Eesti rahva ennemuistsed jutud/Kuidas vaenelaps kogemata leidis õnne"
+      },
+      {
+        "revision": 15594,
+        "title": "Eesti rahva ennemuistsed jutud/Kergejalgne kuningatütar"
+      },
+      {
+        "revision": 15601,
+        "title": "Eesti rahva ennemuistsed jutud/Puulane ja Tohtlane"
+      },
+      {
+        "revision": 59698,
+        "title": "Eesti rahva ennemuistsed jutud/Lopi ja Lapi"
+      },
+      {
+        "revision": 57826,
+        "title": "Eesti rahva ennemuistsed jutud/Nupumees"
+      },
+      {
+        "revision": 15612,
+        "title": "Eesti rahva ennemuistsed jutud/Härjapõlvlaste riid"
+      },
+      {
+        "revision": 15616,
+        "title": "Eesti rahva ennemuistsed jutud/Võllamehikesed"
+      },
+      {
+        "revision": 15619,
+        "title": "Eesti rahva ennemuistsed jutud/Tuhka-Triinu"
+      },
+      {
+        "revision": 15642,
+        "title": "Eesti rahva ennemuistsed jutud/Kuidas üks kuningatütar seitse aastat oli maganud"
+      },
+      {
+        "revision": 15644,
+        "title": "Eesti rahva ennemuistsed jutud/Tark mees taskus"
+      },
+      {
+        "revision": 15647,
+        "title": "Eesti rahva ennemuistsed jutud/Tänulik kuningapoeg"
+      },
+      {
+        "revision": 15648,
+        "title": "Eesti rahva ennemuistsed jutud/Maa-alused"
+      },
+      {
+        "revision": 58915,
+        "title": "Eesti rahva ennemuistsed jutud/Vägev vähk ja ahne naine"
+      },
+      {
+        "revision": 15650,
+        "title": "Eesti rahva ennemuistsed jutud/Põhja konn"
+      },
+      {
+        "revision": 15651,
+        "title": "Eesti rahva ennemuistsed jutud/Leitud laps"
+      },
+      {
+        "revision": 15652,
+        "title": "Eesti rahva ennemuistsed jutud/Õnnemunake"
+      },
+      {
+        "revision": 15653,
+        "title": "Eesti rahva ennemuistsed jutud/Kivialuste ristitütar"
+      },
+      {
+        "revision": 15654,
+        "title": "Eesti rahva ennemuistsed jutud/Õnne-rublatükk"
+      },
+      {
+        "revision": 15655,
+        "title": "Eesti rahva ennemuistsed jutud/Julge rehepapp"
+      },
+      {
+        "revision": 15656,
+        "title": "Eesti rahva ennemuistsed jutud/Kuidas üks kuningapoeg karjapoisi-põlves üles kasvas"
+      },
+      {
+        "revision": 15657,
+        "title": "Eesti rahva ennemuistsed jutud/Pilli-Tiidu"
+      },
+      {
+        "revision": 15658,
+        "title": "Eesti rahva ennemuistsed jutud/Võõrasema"
+      },
+      {
+        "revision": 15659,
+        "title": "Eesti rahva ennemuistsed jutud/Küti kadunud õnn"
+      },
+      {
+        "revision": 15660,
+        "title": "Eesti rahva ennemuistsed jutud/Paristaja-poeg"
+      },
+      {
+        "revision": 15662,
+        "title": "Eesti rahva ennemuistsed jutud/Helde puuraiuja"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:52:09.769675Z",
+    "revision": "42025",
+    "site": "et.wikisource.org",
+    "url": "https://et.wikisource.org/wiki/Eesti_rahva_ennemuistsed_jutud"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1803,
+      "deathYear": 1882,
+      "name": "Friedrich Reinhold Kreutzwald",
+      "wikidata": "Q333900"
+    },
+    "originalLanguage": "et",
+    "originalPublicationYear": 1866,
+    "originalTitle": "Eesti rahva ennemuistsed jutud",
+    "workId": "kreutzwald-eesti-rahva-ennemuistsed-jutud"
+  }
+}

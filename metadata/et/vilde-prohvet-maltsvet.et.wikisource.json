@@ -1,0 +1,261 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:42.090443Z",
+    "chapterCount": 47,
+    "contentSha256": "11b07fed6b991b41ada3788813c93c7892e087b5a092ae2d3e75c001a5ad294e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/et/vilde-prohvet-maltsvet.et.wikisource/v1/book.json.gz",
+    "sha256": "795b73629153463f47d97bfeabddec3ed798aaa61d5ccf02479d92201d353771",
+    "sizeBytes": 546689,
+    "uncompressedSizeBytes": 1452790,
+    "wordCount": 199144
+  },
+  "edition": {
+    "editionId": "vilde-prohvet-maltsvet.et.wikisource",
+    "kind": "original",
+    "language": "et",
+    "title": "Prohvet Maltsvet"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1933: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1908: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q16410765",
+      "https://www.wikidata.org/wiki/Q464207",
+      "https://et.wikisource.org/wiki/Prohwet_Maltswet"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Eduard Vilde died in 1933 and the work was first published in 1908. Source: et.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Prohwet Maltswet",
+    "pages": [
+      {
+        "revision": 36885,
+        "title": "Prohwet Maltswet"
+      },
+      {
+        "revision": 35695,
+        "title": "Prohwet Maltswet/1"
+      },
+      {
+        "revision": 35700,
+        "title": "Prohwet Maltswet/2"
+      },
+      {
+        "revision": 35705,
+        "title": "Prohwet Maltswet/3"
+      },
+      {
+        "revision": 35708,
+        "title": "Prohwet Maltswet/4"
+      },
+      {
+        "revision": 35709,
+        "title": "Prohwet Maltswet/5"
+      },
+      {
+        "revision": 35710,
+        "title": "Prohwet Maltswet/6"
+      },
+      {
+        "revision": 35711,
+        "title": "Prohwet Maltswet/7"
+      },
+      {
+        "revision": 35712,
+        "title": "Prohwet Maltswet/8"
+      },
+      {
+        "revision": 35713,
+        "title": "Prohwet Maltswet/9"
+      },
+      {
+        "revision": 35910,
+        "title": "Prohwet Maltswet/10"
+      },
+      {
+        "revision": 35911,
+        "title": "Prohwet Maltswet/11"
+      },
+      {
+        "revision": 35912,
+        "title": "Prohwet Maltswet/12"
+      },
+      {
+        "revision": 35913,
+        "title": "Prohwet Maltswet/13"
+      },
+      {
+        "revision": 35914,
+        "title": "Prohwet Maltswet/14"
+      },
+      {
+        "revision": 35915,
+        "title": "Prohwet Maltswet/15"
+      },
+      {
+        "revision": 35916,
+        "title": "Prohwet Maltswet/16"
+      },
+      {
+        "revision": 35917,
+        "title": "Prohwet Maltswet/17"
+      },
+      {
+        "revision": 35918,
+        "title": "Prohwet Maltswet/18"
+      },
+      {
+        "revision": 35919,
+        "title": "Prohwet Maltswet/19"
+      },
+      {
+        "revision": 35920,
+        "title": "Prohwet Maltswet/20"
+      },
+      {
+        "revision": 35921,
+        "title": "Prohwet Maltswet/21"
+      },
+      {
+        "revision": 35922,
+        "title": "Prohwet Maltswet/22"
+      },
+      {
+        "revision": 35923,
+        "title": "Prohwet Maltswet/23"
+      },
+      {
+        "revision": 35924,
+        "title": "Prohwet Maltswet/24"
+      },
+      {
+        "revision": 35925,
+        "title": "Prohwet Maltswet/25"
+      },
+      {
+        "revision": 36050,
+        "title": "Prohwet Maltswet/26"
+      },
+      {
+        "revision": 36051,
+        "title": "Prohwet Maltswet/27"
+      },
+      {
+        "revision": 36052,
+        "title": "Prohwet Maltswet/28"
+      },
+      {
+        "revision": 36883,
+        "title": "Prohwet Maltswet/29"
+      },
+      {
+        "revision": 36882,
+        "title": "Prohwet Maltswet/30"
+      },
+      {
+        "revision": 36881,
+        "title": "Prohwet Maltswet/31"
+      },
+      {
+        "revision": 36880,
+        "title": "Prohwet Maltswet/32"
+      },
+      {
+        "revision": 36878,
+        "title": "Prohwet Maltswet/33"
+      },
+      {
+        "revision": 36877,
+        "title": "Prohwet Maltswet/34"
+      },
+      {
+        "revision": 36876,
+        "title": "Prohwet Maltswet/35"
+      },
+      {
+        "revision": 36875,
+        "title": "Prohwet Maltswet/36"
+      },
+      {
+        "revision": 36874,
+        "title": "Prohwet Maltswet/37"
+      },
+      {
+        "revision": 36873,
+        "title": "Prohwet Maltswet/38"
+      },
+      {
+        "revision": 36872,
+        "title": "Prohwet Maltswet/39"
+      },
+      {
+        "revision": 36871,
+        "title": "Prohwet Maltswet/40"
+      },
+      {
+        "revision": 36869,
+        "title": "Prohwet Maltswet/41"
+      },
+      {
+        "revision": 36868,
+        "title": "Prohwet Maltswet/42"
+      },
+      {
+        "revision": 36818,
+        "title": "Prohwet Maltswet/43"
+      },
+      {
+        "revision": 36180,
+        "title": "Prohwet Maltswet/44"
+      },
+      {
+        "revision": 36181,
+        "title": "Prohwet Maltswet/45"
+      },
+      {
+        "revision": 36182,
+        "title": "Prohwet Maltswet/46"
+      },
+      {
+        "revision": 36183,
+        "title": "Prohwet Maltswet/47"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:57:13.856601Z",
+    "revision": "36885",
+    "site": "et.wikisource.org",
+    "url": "https://et.wikisource.org/wiki/Prohwet_Maltswet"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1865,
+      "deathYear": 1933,
+      "name": "Eduard Vilde",
+      "wikidata": "Q464207"
+    },
+    "originalLanguage": "et",
+    "originalPublicationYear": 1908,
+    "originalTitle": "Prohvet Maltsvet",
+    "workId": "vilde-prohvet-maltsvet"
+  }
+}

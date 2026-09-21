@@ -1,0 +1,133 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:27:26.578372Z",
+    "chapterCount": 16,
+    "contentSha256": "b73806e1529a4cd54ac8815287ed4107b17c22b9d394397d9b62eddad0a89d91",
+    "normalizerVersion": "0.2.0",
+    "path": "books/gu/kalapi-kashmir-no-pravas.gu.wikisource/v1/book.json.gz",
+    "sha256": "41049f3f654e025c5b57016f4a5180cb23bfcd66915d04ead550bc82d2e6d867",
+    "sizeBytes": 61817,
+    "uncompressedSizeBytes": 294448,
+    "wordCount": 20274
+  },
+  "edition": {
+    "editionId": "kalapi-kashmir-no-pravas.gu.wikisource",
+    "kind": "original",
+    "language": "gu",
+    "title": "કાશ્મીરનો પ્રવાસ"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1900: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1912: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q18003015",
+      "https://www.wikidata.org/wiki/Q2727327",
+      "https://gu.wikisource.org/wiki/%E0%AA%95%E0%AA%BE%E0%AA%B6%E0%AB%8D%E0%AA%AE%E0%AB%80%E0%AA%B0%E0%AA%A8%E0%AB%8B_%E0%AA%AA%E0%AB%8D%E0%AA%B0%E0%AA%B5%E0%AA%BE%E0%AA%B8"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. કલાપી died in 1900 and the work was first published in 1912. Source: gu.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "કાશ્મીરનો પ્રવાસ",
+    "pages": [
+      {
+        "revision": 202380,
+        "title": "કાશ્મીરનો પ્રવાસ"
+      },
+      {
+        "revision": 197771,
+        "title": "કાશ્મીરનો પ્રવાસ/કાશ્મીરનું સ્વપ્ન"
+      },
+      {
+        "revision": 197755,
+        "title": "કાશ્મીરનો પ્રવાસ/પત્રની શરૂઆત"
+      },
+      {
+        "revision": 197756,
+        "title": "કાશ્મીરનો પ્રવાસ/તા. ૧-૧૧-૯૧"
+      },
+      {
+        "revision": 197757,
+        "title": "કાશ્મીરનો પ્રવાસ/તા. ૩-૧૧-૯૧"
+      },
+      {
+        "revision": 197758,
+        "title": "કાશ્મીરનો પ્રવાસ/તા. ૫-૧૧-૯૧"
+      },
+      {
+        "revision": 197759,
+        "title": "કાશ્મીરનો પ્રવાસ/તા. ૬-૧૧-૯૧"
+      },
+      {
+        "revision": 197760,
+        "title": "કાશ્મીરનો પ્રવાસ/તા. ૭-૧૧-૯૧"
+      },
+      {
+        "revision": 197761,
+        "title": "કાશ્મીરનો પ્રવાસ/તા. ૮-૧૧-૯૧"
+      },
+      {
+        "revision": 197762,
+        "title": "કાશ્મીરનો પ્રવાસ/તા. ૯-૧૧-૯૧"
+      },
+      {
+        "revision": 197763,
+        "title": "કાશ્મીરનો પ્રવાસ/તા. ૧૦-૧૧-૯૧"
+      },
+      {
+        "revision": 197764,
+        "title": "કાશ્મીરનો પ્રવાસ/તા. ૧૧-૧૧-૯૧"
+      },
+      {
+        "revision": 197765,
+        "title": "કાશ્મીરનો પ્રવાસ/તા. ૧૨-૧૧-૯૧"
+      },
+      {
+        "revision": 197767,
+        "title": "કાશ્મીરનો પ્રવાસ/તા. ૧૩-૧૧-૯૧"
+      },
+      {
+        "revision": 197768,
+        "title": "કાશ્મીરનો પ્રવાસ/તા. ૧૪-૧૧-૯૧"
+      },
+      {
+        "revision": 197770,
+        "title": "કાશ્મીરનો પ્રવાસ/તા. ૧૫-૧૧-૯૧"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:21:07.945964Z",
+    "revision": "202380",
+    "site": "gu.wikisource.org",
+    "url": "https://gu.wikisource.org/wiki/%E0%AA%95%E0%AA%BE%E0%AA%B6%E0%AB%8D%E0%AA%AE%E0%AB%80%E0%AA%B0%E0%AA%A8%E0%AB%8B_%E0%AA%AA%E0%AB%8D%E0%AA%B0%E0%AA%B5%E0%AA%BE%E0%AA%B8"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1874,
+      "deathYear": 1900,
+      "name": "કલાપી",
+      "wikidata": "Q2727327"
+    },
+    "originalLanguage": "gu",
+    "originalPublicationYear": 1912,
+    "originalTitle": "કાશ્મીરનો પ્રવાસ",
+    "workId": "kalapi-kashmir-no-pravas"
+  }
+}

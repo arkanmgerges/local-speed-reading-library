@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:39.453589Z",
+    "chapterCount": 1,
+    "contentSha256": "6716e9f903c6025c7b74fea88e2b3d515e7985a4ca16fe0cf503e12103d99c53",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ka/ninoshvili-chveni-qveq-nis-raindi.ka.wikisource/v1/book.json.gz",
+    "sha256": "736f4a9691875884aeed2303e5263396bc01843d75e291b86ebe1ea0d90c41cb",
+    "sizeBytes": 48831,
+    "uncompressedSizeBytes": 256579,
+    "wordCount": 13473
+  },
+  "edition": {
+    "editionId": "ninoshvili-chveni-qveq-nis-raindi.ka.wikisource",
+    "kind": "original",
+    "language": "ka",
+    "title": "ჩვენი ქვეყნის რაინდი"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1894: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1893: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q140313503",
+      "https://www.wikidata.org/wiki/Q3653149",
+      "https://ka.wikisource.org/wiki/%E1%83%A9%E1%83%95%E1%83%94%E1%83%9C%E1%83%98_%E1%83%A5%E1%83%95%E1%83%94%E1%83%A7%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%A0%E1%83%90%E1%83%98%E1%83%9C%E1%83%93%E1%83%98"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ეგნატე ნინოშვილი died in 1894 and the work was first published in 1893. Source: ka.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "ჩვენი ქვეყნის რაინდი",
+    "pages": [
+      {
+        "revision": 75876,
+        "title": "ჩვენი ქვეყნის რაინდი"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:51:18.761851Z",
+    "revision": "75876",
+    "site": "ka.wikisource.org",
+    "url": "https://ka.wikisource.org/wiki/%E1%83%A9%E1%83%95%E1%83%94%E1%83%9C%E1%83%98_%E1%83%A5%E1%83%95%E1%83%94%E1%83%A7%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%A0%E1%83%90%E1%83%98%E1%83%9C%E1%83%93%E1%83%98"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1859,
+      "deathYear": 1894,
+      "name": "ეგნატე ნინოშვილი",
+      "wikidata": "Q3653149"
+    },
+    "originalLanguage": "ka",
+    "originalPublicationYear": 1893,
+    "originalTitle": "ჩვენი ქვეყნის რაინდი",
+    "workId": "ninoshvili-chveni-qveq-nis-raindi"
+  }
+}

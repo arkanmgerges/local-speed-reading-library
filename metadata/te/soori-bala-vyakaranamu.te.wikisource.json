@@ -1,0 +1,105 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:33.779913Z",
+    "chapterCount": 12,
+    "contentSha256": "33081ddaf69dd027dcf2479882bd5fb7562a247996ddb9f247efcb98a9555235",
+    "normalizerVersion": "0.2.0",
+    "path": "books/te/soori-bala-vyakaranamu.te.wikisource/v1/book.json.gz",
+    "sha256": "f7ce610ab2b8f1a81eb054652ef56d1df0623d2aa1ff60f902bf0b02871a5ea0",
+    "sizeBytes": 24572,
+    "uncompressedSizeBytes": 141807,
+    "wordCount": 7200
+  },
+  "edition": {
+    "editionId": "soori-bala-vyakaranamu.te.wikisource",
+    "kind": "original",
+    "language": "te",
+    "title": "బాల వ్యాకరణం"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1862: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1911: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q16341868",
+      "https://www.wikidata.org/wiki/Q7136257",
+      "https://te.wikisource.org/wiki/%E0%B0%AC%E0%B0%BE%E0%B0%B2_%E0%B0%B5%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%95%E0%B0%B0%E0%B0%A3%E0%B0%AE%E0%B1%81"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. పరవస్తు చిన్నయ సూరి died in 1862 and the work was first published in 1911. Source: te.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "బాల వ్యాకరణము",
+    "pages": [
+      {
+        "revision": 333038,
+        "title": "బాల వ్యాకరణము"
+      },
+      {
+        "revision": 118106,
+        "title": "బాల వ్యాకరణము/పీఠిక"
+      },
+      {
+        "revision": 118107,
+        "title": "బాల వ్యాకరణము/సంజ్ఙా పరిచ్ఛేదము"
+      },
+      {
+        "revision": 185011,
+        "title": "బాల వ్యాకరణము/సంధి పరిచ్ఛేదము"
+      },
+      {
+        "revision": 26644,
+        "title": "బాల వ్యాకరణము/తత్సమ పరిచ్ఛేదము"
+      },
+      {
+        "revision": 52236,
+        "title": "బాల వ్యాకరణము/ఆచ్ఛిక పరిచ్ఛేదము"
+      },
+      {
+        "revision": 52239,
+        "title": "బాల వ్యాకరణము/కారక పరిచ్ఛేదము"
+      },
+      {
+        "revision": 269760,
+        "title": "బాల వ్యాకరణము/సమాస పరిచ్ఛేదము"
+      },
+      {
+        "revision": 52363,
+        "title": "బాల వ్యాకరణము/ప్రకీర్ణక పరిచ్ఛేదము"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:16:39.629711Z",
+    "revision": "333038",
+    "site": "te.wikisource.org",
+    "url": "https://te.wikisource.org/wiki/%E0%B0%AC%E0%B0%BE%E0%B0%B2_%E0%B0%B5%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%95%E0%B0%B0%E0%B0%A3%E0%B0%AE%E0%B1%81"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1806,
+      "deathYear": 1862,
+      "name": "పరవస్తు చిన్నయ సూరి",
+      "wikidata": "Q7136257"
+    },
+    "originalLanguage": "te",
+    "originalPublicationYear": 1911,
+    "originalTitle": "బాల వ్యాకరణం",
+    "workId": "soori-bala-vyakaranamu"
+  }
+}

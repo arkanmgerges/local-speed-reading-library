@@ -1,0 +1,64 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:48.489167Z",
+    "chapterCount": 28,
+    "contentSha256": "3257bfa25c97e015bfdc9cc2e691034d6045417f5070e49a31eb50523db1a3df",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/siren-hajamuistelmia-pakolaiselamasta.fi.gutenberg/v1/book.json.gz",
+    "sha256": "3b4b825d8361544d9136b9dc24d95f9fe0f53b1d28359e3e9b5a4175261d98e1",
+    "sizeBytes": 78745,
+    "uncompressedSizeBytes": 205553,
+    "wordCount": 21719
+  },
+  "edition": {
+    "editionId": "siren-hajamuistelmia-pakolaiselamasta.fi.gutenberg",
+    "editionPublicationYear": 1923,
+    "kind": "original",
+    "language": "fi",
+    "title": "Hajamuistelmia pakolaiselämästä"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1955: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1923 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/78096"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Aatto Sirén died in 1955 and the edition digitised by Project Gutenberg was printed in 1923. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "78096",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:04:57.733025Z",
+    "revision": "Mon, 31 Aug 2026 08:05:07 GMT",
+    "url": "https://www.gutenberg.org/ebooks/78096"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1873,
+      "deathYear": 1955,
+      "name": "Aatto Sirén"
+    },
+    "originalLanguage": "fi",
+    "originalTitle": "Hajamuistelmia pakolaiselämästä",
+    "workId": "siren-hajamuistelmia-pakolaiselamasta"
+  }
+}

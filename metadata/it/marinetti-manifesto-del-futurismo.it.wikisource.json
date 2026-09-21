@@ -1,0 +1,165 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:00:04.277482Z",
+    "chapterCount": 27,
+    "contentSha256": "7b8071e7c8394131d6dffaba6ff076985d5efa65a609306278a400be2ffa0356",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/marinetti-manifesto-del-futurismo.it.wikisource/v1/book.json.gz",
+    "sha256": "21265ad7f6af3b62953993f92891e3849388f27371a32ba47d111419113f2f25",
+    "sizeBytes": 118369,
+    "uncompressedSizeBytes": 315662,
+    "wordCount": 44707
+  },
+  "edition": {
+    "editionId": "marinetti-manifesto-del-futurismo.it.wikisource",
+    "kind": "original",
+    "language": "it",
+    "title": "Manifesto del futurismo"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1944: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1909: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1983009",
+      "https://www.wikidata.org/wiki/Q216582",
+      "https://it.wikisource.org/wiki/I_Manifesti_del_futurismo"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Filippo Tommaso Marinetti died in 1944 and the work was first published in 1909. Source: it.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "I Manifesti del futurismo",
+    "pages": [
+      {
+        "revision": 3697797,
+        "title": "I Manifesti del futurismo"
+      },
+      {
+        "revision": 3804338,
+        "title": "I Manifesti del futurismo/Fondazione e Manifesto del futurismo"
+      },
+      {
+        "revision": 3697820,
+        "title": "I Manifesti del futurismo/Uccidiamo il Chiaro di Luna!"
+      },
+      {
+        "revision": 3804350,
+        "title": "I Manifesti del futurismo/Manifesto dei pittori futuristi"
+      },
+      {
+        "revision": 3804347,
+        "title": "I Manifesti del futurismo/La pittura futurista"
+      },
+      {
+        "revision": 3804335,
+        "title": "I Manifesti del futurismo/Contro Venezia passatista"
+      },
+      {
+        "revision": 3804349,
+        "title": "I Manifesti del futurismo/Manifesto dei musicisti futuristi"
+      },
+      {
+        "revision": 3804345,
+        "title": "I Manifesti del futurismo/La musica futurista"
+      },
+      {
+        "revision": 3804336,
+        "title": "I Manifesti del futurismo/Contro la Spagna passatista"
+      },
+      {
+        "revision": 3804355,
+        "title": "I Manifesti del futurismo/Prefazione al Catalogo delle Esposizioni di Parigi, Londra, Berlino, Bruxelles, Monaco, Amburgo, Vienna, ecc."
+      },
+      {
+        "revision": 3804351,
+        "title": "I Manifesti del futurismo/Manifesto della Donna futurista"
+      },
+      {
+        "revision": 3804348,
+        "title": "I Manifesti del futurismo/La scultura futurista"
+      },
+      {
+        "revision": 3804352,
+        "title": "I Manifesti del futurismo/Manifesto della prima Esposizione di scultura futurista"
+      },
+      {
+        "revision": 3804354,
+        "title": "I Manifesti del futurismo/Manifesto tecnico della letteratura futurista"
+      },
+      {
+        "revision": 3804344,
+        "title": "I Manifesti del futurismo/La distruzione della quadratura"
+      },
+      {
+        "revision": 3804353,
+        "title": "I Manifesti del futurismo/Manifesto futurista della Lussuria"
+      },
+      {
+        "revision": 3804342,
+        "title": "I Manifesti del futurismo/L'Arte dei rumori"
+      },
+      {
+        "revision": 3804337,
+        "title": "I Manifesti del futurismo/Distruzione della sintassi, immaginazione senza fili, parole in libertà"
+      },
+      {
+        "revision": 3804343,
+        "title": "I Manifesti del futurismo/L'antitradizione futurista"
+      },
+      {
+        "revision": 3804346,
+        "title": "I Manifesti del futurismo/La pittura dei suoni, rumori e odori"
+      },
+      {
+        "revision": 3804340,
+        "title": "I Manifesti del futurismo/Il Teatro di Varietà"
+      },
+      {
+        "revision": 3804356,
+        "title": "I Manifesti del futurismo/Programma politico futurista"
+      },
+      {
+        "revision": 3804339,
+        "title": "I Manifesti del futurismo/Il Controdolore"
+      },
+      {
+        "revision": 3804341,
+        "title": "I Manifesti del futurismo/Indice"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:46:49.372133Z",
+    "revision": "3697797",
+    "site": "it.wikisource.org",
+    "url": "https://it.wikisource.org/wiki/I_Manifesti_del_futurismo"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1876,
+      "deathYear": 1944,
+      "name": "Filippo Tommaso Marinetti",
+      "wikidata": "Q216582"
+    },
+    "originalLanguage": "it",
+    "originalPublicationYear": 1909,
+    "originalTitle": "Manifesto del futurismo",
+    "workId": "marinetti-manifesto-del-futurismo"
+  }
+}

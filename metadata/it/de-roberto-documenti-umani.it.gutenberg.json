@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:59:39.220182Z",
+    "chapterCount": 21,
+    "contentSha256": "9a6333f5f8788ce43d6286402af8d3c9e5663604afdfefa11b6a9d930ae672fc",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/de-roberto-documenti-umani.it.gutenberg/v1/book.json.gz",
+    "sha256": "04e2e2622b9355afa41bb415955c011148276e8707181922e56888cf11283fc8",
+    "sizeBytes": 143028,
+    "uncompressedSizeBytes": 384475,
+    "wordCount": 58583
+  },
+  "edition": {
+    "editionId": "de-roberto-documenti-umani.it.gutenberg",
+    "kind": "original",
+    "language": "it",
+    "title": "Documenti Umani"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1927: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1888: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/25182",
+      "https://it.wikipedia.org/wiki/Federico_De_Roberto",
+      "https://www.wikidata.org/wiki/Q28671014"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Federico De Roberto died in 1927 and the work was first published in 1888. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "25182",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:42:23.211363Z",
+    "revision": "Thu, 10 Sep 2026 16:35:16 GMT",
+    "url": "https://www.gutenberg.org/ebooks/25182"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1861,
+      "deathYear": 1927,
+      "name": "Federico De Roberto",
+      "wikidata": "Q2641199"
+    },
+    "originalLanguage": "it",
+    "originalPublicationYear": 1888,
+    "originalTitle": "Documenti Umani",
+    "workId": "de-roberto-documenti-umani"
+  }
+}

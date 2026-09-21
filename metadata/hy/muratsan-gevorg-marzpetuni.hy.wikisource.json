@@ -1,0 +1,197 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:28:30.922435Z",
+    "chapterCount": 93,
+    "contentSha256": "6addfcfaaed2ebc3ea1266bc71c7ac077d04140b12d38f46bea685ea244863e3",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hy/muratsan-gevorg-marzpetuni.hy.wikisource/v1/book.json.gz",
+    "sha256": "74dcfc89f425ce82f8b91b923f9aba9d600671ab50655f2de39a39e3e9954cf0",
+    "sizeBytes": 373369,
+    "uncompressedSizeBytes": 1550032,
+    "wordCount": 121932
+  },
+  "edition": {
+    "editionId": "muratsan-gevorg-marzpetuni.hy.wikisource",
+    "kind": "original",
+    "language": "hy",
+    "title": "Գևորգ Մարզպետունի"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1908: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1896: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q4134661",
+      "https://www.wikidata.org/wiki/Q4307894",
+      "https://hy.wikisource.org/wiki/%D4%B3%D6%87%D5%B8%D6%80%D5%A3_%D5%84%D5%A1%D6%80%D5%A6%D5%BA%D5%A5%D5%BF%D5%B8%D6%82%D5%B6%D5%AB"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Մուրացան died in 1908 and the work was first published in 1896. Source: hy.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Գևորգ Մարզպետունի",
+    "pages": [
+      {
+        "revision": 391941,
+        "title": "Գևորգ Մարզպետունի"
+      },
+      {
+        "revision": 38900,
+        "title": "Գևորգ Մարզպետունի/Գառնո ամրոցում"
+      },
+      {
+        "revision": 284963,
+        "title": "Գևորգ Մարզպետունի/Անհաճո նորություն"
+      },
+      {
+        "revision": 284964,
+        "title": "Գևորգ Մարզպետունի/Դայակի զրույցները"
+      },
+      {
+        "revision": 284965,
+        "title": "Գևորգ Մարզպետունի/Թե ե՞րբ որոշվեց Սահանույշի բախտը"
+      },
+      {
+        "revision": 284967,
+        "title": "Գևորգ Մարզպետունի/Թե ի՛նչ արգելքներ էին սպառնում այդ բախտին"
+      },
+      {
+        "revision": 284968,
+        "title": "Գևորգ Մարզպետունի/Քաղցր հիշողություններ թագադրության և նշանադրության"
+      },
+      {
+        "revision": 391954,
+        "title": "Գևորգ Մարզպետունի/Երեք տարվա ընթացքում հայ ազգի կրած և հարս թագուհուն անհայտ մնացած դժբախտությունները"
+      },
+      {
+        "revision": 284970,
+        "title": "Գևորգ Մարզպետունի/Հարսի հիշողություններն ու ոգևորությունը փեսային գալստյան առիթով"
+      },
+      {
+        "revision": 391966,
+        "title": "Գևորգ Մարզպետունի/Անհավատարմության հայտնություն"
+      },
+      {
+        "revision": 345135,
+        "title": "Գևորգ Մարզպետունի/Կույր վրիժառուն"
+      },
+      {
+        "revision": 345144,
+        "title": "Գևորգ Մարզպետունի/(Ա) - Կույր աչքը կներե,կույր սիրտը չէ ներիլ"
+      },
+      {
+        "revision": 345143,
+        "title": "Գևորգ Մարզպետունի/Անակնկալ վախճան"
+      },
+      {
+        "revision": 294249,
+        "title": "Գևորգ Մարզպետունի/Այրիվանքում"
+      },
+      {
+        "revision": 294250,
+        "title": "Գևորգ Մարզպետունի/Նոր դիմումներ"
+      },
+      {
+        "revision": 294251,
+        "title": "Գևորգ Մարզպետունի/Մի դալար բողբոջ չորացած ծառի մոտ"
+      },
+      {
+        "revision": 294252,
+        "title": "Գևորգ Մարզպետունի/Բյուրականի առումը"
+      },
+      {
+        "revision": 294233,
+        "title": "Գևորգ Մարզպետունի/Հերոսի որոշումը"
+      },
+      {
+        "revision": 294234,
+        "title": "Գևորգ Մարզպետունի/Վշտերից ծանրագույնը"
+      },
+      {
+        "revision": 336699,
+        "title": "Գևորգ Մարզպետունի/Մի ծաղկով գարուն"
+      },
+      {
+        "revision": 294236,
+        "title": "Գևորգ Մարզպետունի/Ծովամարտ"
+      },
+      {
+        "revision": 294237,
+        "title": "Գևորգ Մարզպետունի/Ջրից փախչողը կրակի մեջ"
+      },
+      {
+        "revision": 294238,
+        "title": "Գևորգ Մարզպետունի/Անհանգիստ մարդը"
+      },
+      {
+        "revision": 294239,
+        "title": "Գևորգ Մարզպետունի/Երեք կետի վրա"
+      },
+      {
+        "revision": 294241,
+        "title": "Գևորգ Մարզպետունի/Հաշտության պտուղները"
+      },
+      {
+        "revision": 294242,
+        "title": "Գևորգ Մարզպետունի/Դ"
+      },
+      {
+        "revision": 294243,
+        "title": "Գևորգ Մարզպետունի/Հին վշտերի վախճանը"
+      },
+      {
+        "revision": 294244,
+        "title": "Գևորգ Մարզպետունի/Հին թշնամին և նոր թագավորը"
+      },
+      {
+        "revision": 294245,
+        "title": "Գևորգ Մարզպետունի/Դվնո առումը"
+      },
+      {
+        "revision": 294246,
+        "title": "Գևորգ Մարզպետունի/Տասն և հինգ տարուց հետո"
+      },
+      {
+        "revision": 294247,
+        "title": "Գևորգ Մարզպետունի/Վերջին թշնամու վախճանը"
+      },
+      {
+        "revision": 294248,
+        "title": "Գևորգ Մարզպետունի/Հերոսի վախճանը"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:37:26.854240Z",
+    "revision": "391941",
+    "site": "hy.wikisource.org",
+    "url": "https://hy.wikisource.org/wiki/%D4%B3%D6%87%D5%B8%D6%80%D5%A3_%D5%84%D5%A1%D6%80%D5%A6%D5%BA%D5%A5%D5%BF%D5%B8%D6%82%D5%B6%D5%AB"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1854,
+      "deathYear": 1908,
+      "name": "Մուրացան",
+      "wikidata": "Q4307894"
+    },
+    "originalLanguage": "hy",
+    "originalPublicationYear": 1896,
+    "originalTitle": "Գևորգ Մարզպետունի",
+    "workId": "muratsan-gevorg-marzpetuni"
+  }
+}

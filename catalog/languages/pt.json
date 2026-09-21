@@ -1,0 +1,873 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "bfb47fffa17d2f76a5708b9e4625308914573e20e2bd8dfcfe441a7d33d1bb31",
+        "encoding": "gzip",
+        "path": "books/pt/almeida-contos.pt.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2534b57313c3d31bfdd4899df22a653d6cdfc6446cd4d87125c1594250803718",
+        "sizeBytes": 193975,
+        "uncompressedSizeBytes": 494305,
+        "wordCount": 75971
+      },
+      "author": "Fialho de Almeida",
+      "authorDeathYear": 1911,
+      "editionId": "almeida-contos.pt.gutenberg",
+      "editionPublicationYear": 1881,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": null,
+      "originalTitle": "Contos",
+      "rights": {
+        "statement": "Public domain worldwide. Fialho de Almeida died in 1911 and the edition digitised by Project Gutenberg was printed in 1881. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "70819",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:45:57.219329Z",
+        "revision": "Fri, 28 Aug 2026 10:14:01 GMT",
+        "url": "https://www.gutenberg.org/ebooks/70819"
+      },
+      "title": "Contos",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "almeida-contos"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 165,
+        "contentSha256": "8684c1b5b62544a50d2cd42889fc8ef59fa6a513f98b866352aba5311947b4ed",
+        "encoding": "gzip",
+        "path": "books/pt/aristoteles-a-poetica-de-aristoteles.pt.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "062e3c33c71e2f93f3f0871f819d82958027e7703ee3f3337faa830f52e4f05f",
+        "sizeBytes": 41713,
+        "uncompressedSizeBytes": 135966,
+        "wordCount": 18524
+      },
+      "author": "Aristóteles",
+      "authorDeathYear": -321,
+      "editionId": "aristoteles-a-poetica-de-aristoteles.pt.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pt",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "A Poetica de Aristoteles",
+      "rights": {
+        "statement": "Public domain worldwide. Aristóteles died in -321; the translator Ricardo Raimundo Nogueira died in 1827 and this translation was first published in 1779. Source: pt.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "A Poetica de Aristoteles",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:46:38.357364Z",
+        "revision": "538464",
+        "url": "https://pt.wikisource.org/wiki/A_Poetica_de_Aristoteles"
+      },
+      "title": "A Poetica de Aristoteles",
+      "translationPublicationYear": 1779,
+      "translator": "Ricardo Raimundo Nogueira",
+      "translatorDeathYear": 1827,
+      "workId": "aristoteles-a-poetica-de-aristoteles"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 30,
+        "contentSha256": "ad72c07c6d99b10c3fa5525303f380cf148d5a29a67d83c289d598242d012536",
+        "encoding": "gzip",
+        "path": "books/pt/brandao-os-pobres-precedido-de-uma-carta-prefacio.pt.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "3903dfdb9cf8652c167a235a8e0f1318421abc6a400a1762de8dbfc62d26ced2",
+        "sizeBytes": 103419,
+        "uncompressedSizeBytes": 276710,
+        "wordCount": 43643
+      },
+      "author": "Raul Brandão",
+      "authorDeathYear": 1930,
+      "editionId": "brandao-os-pobres-precedido-de-uma-carta-prefacio.pt.gutenberg",
+      "editionPublicationYear": 1906,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": null,
+      "originalTitle": "Os Pobres Precedido de uma Carta-Prefacio de Guerra Junqueiro",
+      "rights": {
+        "statement": "Public domain worldwide. Raul Brandão died in 1930 and the edition digitised by Project Gutenberg was printed in 1906. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "20841",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:46:41.273293Z",
+        "revision": "Wed, 09 Sep 2026 07:39:40 GMT",
+        "url": "https://www.gutenberg.org/ebooks/20841"
+      },
+      "title": "Os Pobres Precedido de uma Carta-Prefacio de Guerra Junqueiro",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "brandao-os-pobres-precedido-de-uma-carta-prefacio"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 7,
+        "contentSha256": "c26cbc87b2e38caf563978af7f3c9a27d1e340c2b84e72be10037723b2bb00e3",
+        "encoding": "gzip",
+        "path": "books/pt/candido-principios-e-questoes-de-philosophia-politica-vol.pt.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "510a7e6d5604f10627e892778d57e67455fc281bcbf71a08ca08afc691c5184d",
+        "sizeBytes": 94400,
+        "uncompressedSizeBytes": 276153,
+        "wordCount": 41031
+      },
+      "author": "António Cândido",
+      "authorDeathYear": 1922,
+      "editionId": "candido-principios-e-questoes-de-philosophia-politica-vol.pt.gutenberg",
+      "editionPublicationYear": 1878,
+      "genres": [
+        "Philosophy",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": null,
+      "originalTitle": "Principios e questões de philosophia politica (Vol. 1 of 2)",
+      "rights": {
+        "statement": "Public domain worldwide. António Cândido died in 1922 and the edition digitised by Project Gutenberg was printed in 1878. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "71031",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:46:44.258721Z",
+        "revision": "Fri, 28 Aug 2026 11:10:00 GMT",
+        "url": "https://www.gutenberg.org/ebooks/71031"
+      },
+      "title": "Principios e questões de philosophia politica (Vol. 1 of 2)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "candido-principios-e-questoes-de-philosophia-politica-vol"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 27,
+        "contentSha256": "3565509c2cad3974f3f685077d47b404c1dae188f053c6f4dfdd179b00a98a89",
+        "encoding": "gzip",
+        "path": "books/pt/castelo-branco-amor-de-salvacao.pt.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "09b7086c0dafee1e26e6666a39010a598d988216a39d426137268b9f32127a9f",
+        "sizeBytes": 122270,
+        "uncompressedSizeBytes": 314889,
+        "wordCount": 49061
+      },
+      "author": "Camilo Castelo Branco",
+      "authorDeathYear": 1890,
+      "editionId": "castelo-branco-amor-de-salvacao.pt.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": 1864,
+      "originalTitle": "Amor de Salvação",
+      "rights": {
+        "statement": "Public domain worldwide. Camilo Castelo Branco died in 1890 and the work was first published in 1864. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "26988",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:46:53.229931Z",
+        "revision": "Fri, 11 Sep 2026 10:59:31 GMT",
+        "url": "https://www.gutenberg.org/ebooks/26988"
+      },
+      "title": "Amor de Salvação",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "castelo-branco-amor-de-salvacao"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "5ca9a95a9084fac49aeba705c1ae3dbeb0805c8a3ac5f048edabcf67f307cbdb",
+        "encoding": "gzip",
+        "path": "books/pt/castelo-branco-novelas-do-minho.pt.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "332882806e44ef474f738690dd60190d3c6af08287763fb401da7eeed2395367",
+        "sizeBytes": 117621,
+        "uncompressedSizeBytes": 297345,
+        "wordCount": 45551
+      },
+      "author": "Camilo Castelo Branco",
+      "authorDeathYear": 1890,
+      "editionId": "castelo-branco-novelas-do-minho.pt.gutenberg",
+      "editionPublicationYear": 1903,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": null,
+      "originalTitle": "Novelas do Minho",
+      "rights": {
+        "statement": "Public domain worldwide. Camilo Castelo Branco died in 1890 and the edition digitised by Project Gutenberg was printed in 1903. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "21406",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:46:56.244509Z",
+        "revision": "Wed, 09 Sep 2026 09:48:25 GMT",
+        "url": "https://www.gutenberg.org/ebooks/21406"
+      },
+      "title": "Novelas do Minho",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "castelo-branco-novelas-do-minho"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 47,
+        "contentSha256": "b516da283cb12fb7f6a31bd96d36dc4fa515fad8db6dbeb773a024d55543f39d",
+        "encoding": "gzip",
+        "path": "books/pt/chagas-a-lenda-da-meia-noite.pt.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "043d042598be4d6076ec9ed52d26479e1f35c69f58cac51265e178eec29bf018",
+        "sizeBytes": 120367,
+        "uncompressedSizeBytes": 323552,
+        "wordCount": 49684
+      },
+      "author": "Manuel Pinheiro Chagas",
+      "authorDeathYear": 1895,
+      "editionId": "chagas-a-lenda-da-meia-noite.pt.gutenberg",
+      "editionPublicationYear": 1906,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": null,
+      "originalTitle": "A Lenda da Meia-Noite",
+      "rights": {
+        "statement": "Public domain worldwide. Manuel Pinheiro Chagas died in 1895 and the edition digitised by Project Gutenberg was printed in 1906. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "23400",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:47:06.157805Z",
+        "revision": "Thu, 10 Sep 2026 07:30:17 GMT",
+        "url": "https://www.gutenberg.org/ebooks/23400"
+      },
+      "title": "A Lenda da Meia-Noite",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "chagas-a-lenda-da-meia-noite"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "6575d535e95a91c186aa39d61f999ffd7b88b2ae4acb2d86db6831278d493a43",
+        "encoding": "gzip",
+        "path": "books/pt/fonseca-os-bravos-do-mindello-romance-historico.pt.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c21b388c08d3d57f4f88bd380a640541689772dc8fd83489df8c035e58d8acaa",
+        "sizeBytes": 121098,
+        "uncompressedSizeBytes": 320467,
+        "wordCount": 48141
+      },
+      "author": "Faustino da Fonseca",
+      "authorDeathYear": 1918,
+      "editionId": "fonseca-os-bravos-do-mindello-romance-historico.pt.gutenberg",
+      "editionPublicationYear": 1906,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": null,
+      "originalTitle": "Os Bravos do Mindello Romance Historico",
+      "rights": {
+        "statement": "Public domain worldwide. Faustino da Fonseca died in 1918 and the edition digitised by Project Gutenberg was printed in 1906. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "21290",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:47:20.866596Z",
+        "revision": "Wed, 09 Sep 2026 09:18:24 GMT",
+        "url": "https://www.gutenberg.org/ebooks/21290"
+      },
+      "title": "Os Bravos do Mindello Romance Historico",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "fonseca-os-bravos-do-mindello-romance-historico"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "7558dd53329db64144cbed40bc6c42762a67cab648536ddefcab077aab7aab28",
+        "encoding": "gzip",
+        "path": "books/pt/grave-a-morte-vence.pt.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f8693cc00d5eb20f94399531baafbe86a205e40bbaacdae505fcbc98a7ad2cb5",
+        "sizeBytes": 156823,
+        "uncompressedSizeBytes": 411892,
+        "wordCount": 60762
+      },
+      "author": "João José Grave",
+      "authorDeathYear": 1934,
+      "editionId": "grave-a-morte-vence.pt.gutenberg",
+      "editionPublicationYear": 1922,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": null,
+      "originalTitle": "A Morte Vence",
+      "rights": {
+        "statement": "Public domain worldwide. João José Grave died in 1934 and the edition digitised by Project Gutenberg was printed in 1922. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "23687",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:47:24.156627Z",
+        "revision": "Thu, 10 Sep 2026 08:35:03 GMT",
+        "url": "https://www.gutenberg.org/ebooks/23687"
+      },
+      "title": "A Morte Vence",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "grave-a-morte-vence"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 18,
+        "contentSha256": "7f1a4f6b5102fb0c4715061abd4ce311e81499f0d15435ab3a50aeb8ff075483",
+        "encoding": "gzip",
+        "path": "books/pt/haggard-as-minas-de-salomao.pt.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4092e2cf4c667dedb6ced809b51b54244ca62f495d3c18d8b10586025920896a",
+        "sizeBytes": 135268,
+        "uncompressedSizeBytes": 364504,
+        "wordCount": 58256
+      },
+      "author": "Henry Rider Haggard",
+      "authorDeathYear": 1925,
+      "editionId": "haggard-as-minas-de-salomao.pt.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pt",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1885,
+      "originalTitle": "As Minas de Salomão",
+      "rights": {
+        "statement": "Public domain worldwide. Henry Rider Haggard died in 1925; the translator Eça de Queirós died in 1900 and this translation was first published in 1891. Source: pt.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "As Minas de Salomão",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:47:51.014619Z",
+        "revision": "545791",
+        "url": "https://pt.wikisource.org/wiki/As_Minas_de_Salom%C3%A3o"
+      },
+      "title": "As Minas de Salomão",
+      "translationPublicationYear": 1891,
+      "translator": "Eça de Queirós",
+      "translatorDeathYear": 1900,
+      "workId": "haggard-as-minas-de-salomao"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 20,
+        "contentSha256": "f7528cf0e9125531f8886692ed96b06b12787ecd535e7827d793a60c37de726d",
+        "encoding": "gzip",
+        "path": "books/pt/haggard-king-solomon-s-mines.pt.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c0ef4d8feaa54401bf1e063bd9579ec0fc704b749115fd0b6cfda87c012dc9a1",
+        "sizeBytes": 135371,
+        "uncompressedSizeBytes": 365101,
+        "wordCount": 56771
+      },
+      "author": "H. Rider Haggard",
+      "authorDeathYear": 1925,
+      "editionId": "haggard-king-solomon-s-mines.pt.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "pt",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1885,
+      "originalTitle": "King Solomon's Mines",
+      "rights": {
+        "statement": "Public domain worldwide. H. Rider Haggard died in 1925; the translator Eça de Queirós died in 1900 and this translation was printed in 1891. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "22015",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:47:57.623378Z",
+        "revision": "Wed, 09 Sep 2026 12:09:59 GMT",
+        "url": "https://www.gutenberg.org/ebooks/22015"
+      },
+      "title": "As Minas de Salomão",
+      "translationPublicationYear": 1891,
+      "translator": "Eça de Queirós",
+      "translatorDeathYear": 1900,
+      "workId": "haggard-king-solomon-s-mines"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 11,
+        "contentSha256": "badd17b30ef585116d5cf35c9ae5c1f988883bff81fc46cdaf2a2fb4fe4f94fb",
+        "encoding": "gzip",
+        "path": "books/pt/malheiro-indice-chronologico-dos-factos-mais-notaveis-da.pt.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7dc794e2b0226edd5dab47d5aaca1c17bff8d500dff5a7b00ee5409ed71ea362",
+        "sizeBytes": 69038,
+        "uncompressedSizeBytes": 199039,
+        "wordCount": 30515
+      },
+      "author": "Agostinho Marques Perdigão Malheiro",
+      "authorDeathYear": 1881,
+      "editionId": "malheiro-indice-chronologico-dos-factos-mais-notaveis-da.pt.gutenberg",
+      "editionPublicationYear": 1850,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": null,
+      "originalTitle": "Indice chronologico dos factos mais notaveis da Historia do Brasil desde seu descobrimento em 1500 até 1849",
+      "rights": {
+        "statement": "Public domain worldwide. Agostinho Marques Perdigão Malheiro died in 1881 and the edition digitised by Project Gutenberg was printed in 1850. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "22044",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:48:03.615147Z",
+        "revision": "Wed, 09 Sep 2026 12:18:07 GMT",
+        "url": "https://www.gutenberg.org/ebooks/22044"
+      },
+      "title": "Indice chronologico dos factos mais notaveis da Historia do Brasil desde seu descobrimento em 1500 até 1849",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "malheiro-indice-chronologico-dos-factos-mais-notaveis-da"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 19,
+        "contentSha256": "17822f659b14922572a4fe26515da776723d20cb2d616ce48ee378a436b1fd3a",
+        "encoding": "gzip",
+        "path": "books/pt/queiros-a-cidade-e-as-serras.pt.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8dbc09e5227f8e731d4d3a6cef92a6966e0d595b5e48157058f6b515ddf7cf39",
+        "sizeBytes": 172629,
+        "uncompressedSizeBytes": 444671,
+        "wordCount": 68237
+      },
+      "author": "Eça de Queirós",
+      "authorDeathYear": 1900,
+      "editionId": "queiros-a-cidade-e-as-serras.pt.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": 1901,
+      "originalTitle": "A Cidade e as Serras",
+      "rights": {
+        "statement": "Public domain worldwide. Eça de Queirós died in 1900 and the work was first published in 1901. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "18220",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:48:11.068243Z",
+        "revision": "Tue, 08 Sep 2026 07:35:13 GMT",
+        "url": "https://www.gutenberg.org/ebooks/18220"
+      },
+      "title": "A Cidade e as Serras",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "queiros-a-cidade-e-as-serras"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 16,
+        "contentSha256": "200e2db6e7a24dc995505d96b4cafa4ea751e196118623c2416f2eed6b60812d",
+        "encoding": "gzip",
+        "path": "books/pt/queiros-a-illustre-casa-de-ramires.pt.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ac2b5a545e73d0aceea229a878f87aabd8cf4adffae156b17eabb1201037e1a0",
+        "sizeBytes": 257305,
+        "uncompressedSizeBytes": 681993,
+        "wordCount": 104203
+      },
+      "author": "Eça de Queirós",
+      "authorDeathYear": 1900,
+      "editionId": "queiros-a-illustre-casa-de-ramires.pt.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": 1900,
+      "originalTitle": "A Illustre Casa de Ramires",
+      "rights": {
+        "statement": "Public domain worldwide. Eça de Queirós died in 1900 and the work was first published in 1900. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "23145",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:48:15.021375Z",
+        "revision": "Wed, 09 Sep 2026 16:51:56 GMT",
+        "url": "https://www.gutenberg.org/ebooks/23145"
+      },
+      "title": "A Illustre Casa de Ramires",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "queiros-a-illustre-casa-de-ramires"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 30,
+        "contentSha256": "987a429d5399653c1dc8b7473750d792b75d87344dd1a007de41ff723bebcda6",
+        "encoding": "gzip",
+        "path": "books/pt/queiros-contos.pt.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4e74e7e11391786cb87bee7cd263132bfc13e55061abe276b139df2f9531a836",
+        "sizeBytes": 169430,
+        "uncompressedSizeBytes": 439058,
+        "wordCount": 69366
+      },
+      "author": "Eça de Queirós",
+      "authorDeathYear": 1900,
+      "editionId": "queiros-contos.pt.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": 1902,
+      "originalTitle": "Contos",
+      "rights": {
+        "statement": "Public domain worldwide. Eça de Queirós died in 1900 and the work was first published in 1902. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "31347",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:48:19.070826Z",
+        "revision": "Sun, 13 Sep 2026 08:00:01 GMT",
+        "url": "https://www.gutenberg.org/ebooks/31347"
+      },
+      "title": "Contos",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "queiros-contos"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 30,
+        "contentSha256": "ddd9823b8f39216e6f6062eb8cf5cc98c2b8e90fe81013741bcf3c4edaef0e2b",
+        "encoding": "gzip",
+        "path": "books/pt/queiros-o-crime-do-padre-amaro-scenas-da.pt.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a031697ef2b036e033b441701cdb356eee9b6c560341233bc983c87e077047a8",
+        "sizeBytes": 332793,
+        "uncompressedSizeBytes": 906471,
+        "wordCount": 138614
+      },
+      "author": "Eça de Queirós",
+      "authorDeathYear": 1900,
+      "editionId": "queiros-o-crime-do-padre-amaro-scenas-da.pt.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": 1875,
+      "originalTitle": "O crime do padre Amaro, scenas da vida devota",
+      "rights": {
+        "statement": "Public domain worldwide. Eça de Queirós died in 1900 and the work was first published in 1875. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "31971",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:48:23.487524Z",
+        "revision": "Sun, 13 Sep 2026 10:43:24 GMT",
+        "url": "https://www.gutenberg.org/ebooks/31971"
+      },
+      "title": "O crime do padre Amaro, scenas da vida devota",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "queiros-o-crime-do-padre-amaro-scenas-da"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 27,
+        "contentSha256": "ab172b82428c6a39481de8b3adc78110d87c26d6fa717a4cbb1d289bcdcb808d",
+        "encoding": "gzip",
+        "path": "books/pt/queiros-o-crime-do-padre-amaro.pt.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ea0be21cb949925d3afba06f8e333cb54637ce0010e5e6c1b24a2026d1303e05",
+        "sizeBytes": 332154,
+        "uncompressedSizeBytes": 906548,
+        "wordCount": 142947
+      },
+      "author": "Eça de Queirós",
+      "authorDeathYear": 1900,
+      "editionId": "queiros-o-crime-do-padre-amaro.pt.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": 1875,
+      "originalTitle": "O Crime do Padre Amaro",
+      "rights": {
+        "statement": "Public domain worldwide. Eça de Queirós died in 1900 and the work was first published in 1875. Source: pt.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "O Crime do Padre Amaro",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:49:05.701730Z",
+        "revision": "298848",
+        "url": "https://pt.wikisource.org/wiki/O_Crime_do_Padre_Amaro"
+      },
+      "title": "O Crime do Padre Amaro",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "queiros-o-crime-do-padre-amaro"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 20,
+        "contentSha256": "a4a4acadc234f17eb5e0efd1df13ec60e2759e10d1e93d2e9ec0ad59a18e7435",
+        "encoding": "gzip",
+        "path": "books/pt/queiros-o-primo-bazilio.pt.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "79086c607f346cb07e5b48c4ce91bddb104c75c8c55be8f053a5bd5a6475340b",
+        "sizeBytes": 294606,
+        "uncompressedSizeBytes": 800613,
+        "wordCount": 115454
+      },
+      "author": "Eça de Queirós",
+      "authorDeathYear": 1900,
+      "editionId": "queiros-o-primo-bazilio.pt.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": 1878,
+      "originalTitle": "O Primo Bazilio: Episodio Domestico",
+      "rights": {
+        "statement": "Public domain worldwide. Eça de Queirós died in 1900 and the work was first published in 1878. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "42942",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:49:19.494816Z",
+        "revision": "Thu, 17 Sep 2026 13:51:10 GMT",
+        "url": "https://www.gutenberg.org/ebooks/42942"
+      },
+      "title": "O Primo Bazilio: Episodio Domestico",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "queiros-o-primo-bazilio"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 16,
+        "contentSha256": "7455c8ef664001f9c854ad7442725f16d343adb31130e4d4bba02e7b807f610c",
+        "encoding": "gzip",
+        "path": "books/pt/queiros-os-maias.pt.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "cff53399d46c40952d2e9b51faef6911f20ee42dd5d401eb50bff9cf2c331115",
+        "sizeBytes": 423204,
+        "uncompressedSizeBytes": 1139359,
+        "wordCount": 178115
+      },
+      "author": "Eça de Queirós",
+      "authorDeathYear": 1900,
+      "editionId": "queiros-os-maias.pt.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "pt",
+      "originalLanguage": "pt",
+      "originalPublicationYear": 1888,
+      "originalTitle": "Os Maias",
+      "rights": {
+        "statement": "Public domain worldwide. Eça de Queirós died in 1900 and the work was first published in 1888. Source: pt.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Os Maias",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:49:47.744826Z",
+        "revision": "452226",
+        "url": "https://pt.wikisource.org/wiki/Os_Maias"
+      },
+      "title": "Os Maias",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "queiros-os-maias"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 28,
+        "contentSha256": "27ff3e35b45dee16bef469c8fd68ca42568abac9de798b3b554386944f453954",
+        "encoding": "gzip",
+        "path": "books/pt/verne-da-terra-a-lua.pt.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2e74351a7fa5647fa5b31cfea172a9b19c06e9bf22f9a7cfeb13c5327aac03d2",
+        "sizeBytes": 133192,
+        "uncompressedSizeBytes": 374721,
+        "wordCount": 56263
+      },
+      "author": "Júlio Verne",
+      "authorDeathYear": 1905,
+      "editionId": "verne-da-terra-a-lua.pt.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "pt",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1865,
+      "originalTitle": "Da Terra á Lua",
+      "rights": {
+        "statement": "Public domain worldwide. Júlio Verne died in 1905; the translator Henrique de Macedo Pereira Coutinho died in 1910 and this translation was first published in 1878. Source: pt.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Da Terra á Lua",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:50:29.908490Z",
+        "revision": "549423",
+        "url": "https://pt.wikisource.org/wiki/Da_Terra_%C3%A1_Lua"
+      },
+      "title": "Da Terra á Lua",
+      "translationPublicationYear": 1878,
+      "translator": "Henrique de Macedo Pereira Coutinho",
+      "translatorDeathYear": 1910,
+      "workId": "verne-da-terra-a-lua"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Portuguese",
+  "language": "pt",
+  "manifestVersion": "8d4f7d5d6d9ec2f0",
+  "nativeName": "Português",
+  "schemaVersion": 1
+}

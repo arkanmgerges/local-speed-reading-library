@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:20.958574Z",
+    "chapterCount": 2,
+    "contentSha256": "589adecb5e913ab3e95a8d88cf13633d132b1a07cd732eb2efbf9ceaac807f17",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/poe-ligeia.it.wikisource/v1/book.json.gz",
+    "sha256": "fb87a2c4c4df7cf1cb855c1225f3687beaa1d05b148b7152d5ef1b8723d6a79d",
+    "sizeBytes": 18162,
+    "uncompressedSizeBytes": 44933,
+    "wordCount": 6697
+  },
+  "edition": {
+    "editionId": "poe-ligeia.it.wikisource",
+    "kind": "translation",
+    "language": "it",
+    "title": "Ligeia",
+    "translationPublicationYear": 1869,
+    "translator": {
+      "birthYear": 1831,
+      "deathYear": 1899,
+      "name": "Baccio Emanuele Maineri",
+      "wikidata": "Q18071573"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1849: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1899: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1869: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q948786",
+      "https://www.wikidata.org/wiki/Q48560453",
+      "https://www.wikidata.org/wiki/Q16867",
+      "https://www.wikidata.org/wiki/Q18071573",
+      "https://it.wikisource.org/wiki/Ligeia_(Poe-Maineri)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Edgar Allan Poe died in 1849; the translator Baccio Emanuele Maineri died in 1899 and this translation was first published in 1869. Source: it.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Ligeia (Poe-Maineri)",
+    "pages": [
+      {
+        "revision": 3727646,
+        "title": "Ligeia (Poe-Maineri)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:48:37.721564Z",
+    "revision": "3727646",
+    "site": "it.wikisource.org",
+    "url": "https://it.wikisource.org/wiki/Ligeia_(Poe-Maineri)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1809,
+      "deathYear": 1849,
+      "name": "Edgar Allan Poe",
+      "wikidata": "Q16867"
+    },
+    "originalLanguage": "en-us",
+    "originalPublicationYear": 1838,
+    "originalTitle": "Ligeia",
+    "workId": "poe-ligeia"
+  }
+}

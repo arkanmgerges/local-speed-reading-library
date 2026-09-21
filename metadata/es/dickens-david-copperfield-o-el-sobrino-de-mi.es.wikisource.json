@@ -1,0 +1,130 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:24:49.849244Z",
+    "chapterCount": 12,
+    "contentSha256": "9e5f85e2d6e73c9b2c680207af8382929fb2a12d54ae426e27b801cc77b5d330",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/dickens-david-copperfield-o-el-sobrino-de-mi.es.wikisource/v1/book.json.gz",
+    "sha256": "7ba110af5ca4c3cd32eacec2f91c27974be9c4889d46c91e49c483be5ad989ad",
+    "sizeBytes": 142054,
+    "uncompressedSizeBytes": 398113,
+    "wordCount": 65272
+  },
+  "edition": {
+    "editionId": "dickens-david-copperfield-o-el-sobrino-de-mi.es.wikisource",
+    "kind": "translation",
+    "language": "es",
+    "title": "David Copperfield o El sobrino de mi tía",
+    "translationPublicationYear": 1871,
+    "translator": {
+      "deathYear": 1895,
+      "name": "Mariano Urrabieta",
+      "wikidata": "Q107422057"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1870: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1895: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1871: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q189811",
+      "https://www.wikidata.org/wiki/Q107420581",
+      "https://www.wikidata.org/wiki/Q5686",
+      "https://www.wikidata.org/wiki/Q107422057",
+      "https://es.wikisource.org/wiki/David_Copperfield_(1871)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Mariano Urrabieta died in 1895 and this translation was first published in 1871. Source: es.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "David Copperfield (1871)",
+    "pages": [
+      {
+        "revision": 1209450,
+        "title": "David Copperfield (1871)"
+      },
+      {
+        "revision": 1177605,
+        "title": "David Copperfield (1871)/Primera parte/I"
+      },
+      {
+        "revision": 1177611,
+        "title": "David Copperfield (1871)/Primera parte/II"
+      },
+      {
+        "revision": 1177614,
+        "title": "David Copperfield (1871)/Primera parte/III"
+      },
+      {
+        "revision": 1177616,
+        "title": "David Copperfield (1871)/Primera parte/IV"
+      },
+      {
+        "revision": 1177617,
+        "title": "David Copperfield (1871)/Primera parte/V"
+      },
+      {
+        "revision": 1178417,
+        "title": "David Copperfield (1871)/Primera parte/VI"
+      },
+      {
+        "revision": 1178420,
+        "title": "David Copperfield (1871)/Primera parte/VII"
+      },
+      {
+        "revision": 1178422,
+        "title": "David Copperfield (1871)/Primera parte/VIII"
+      },
+      {
+        "revision": 1178425,
+        "title": "David Copperfield (1871)/Primera parte/IX"
+      },
+      {
+        "revision": 1178428,
+        "title": "David Copperfield (1871)/Primera parte/X"
+      },
+      {
+        "revision": 1178429,
+        "title": "David Copperfield (1871)/Primera parte/XI"
+      },
+      {
+        "revision": 1179044,
+        "title": "David Copperfield (1871)/Primera parte/XII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:45:03.259137Z",
+    "revision": "1209450",
+    "site": "es.wikisource.org",
+    "url": "https://es.wikisource.org/wiki/David_Copperfield_(1871)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1812,
+      "deathYear": 1870,
+      "name": "Charles Dickens",
+      "wikidata": "Q5686"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1850,
+    "originalTitle": "David Copperfield o El sobrino de mi tía",
+    "workId": "dickens-david-copperfield-o-el-sobrino-de-mi"
+  }
+}

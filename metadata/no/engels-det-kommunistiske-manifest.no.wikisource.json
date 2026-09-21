@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:31:48.940407Z",
+    "chapterCount": 3,
+    "contentSha256": "eb059b6a46e3135c089f42d9bff7d75fc7fc81a3bb152b42e496bf332971cae4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/engels-det-kommunistiske-manifest.no.wikisource/v1/book.json.gz",
+    "sha256": "8b8a07c274277182f57a56789e66bbc83492aae16554f8d461e5b35c0c688318",
+    "sizeBytes": 34900,
+    "uncompressedSizeBytes": 101035,
+    "wordCount": 13988
+  },
+  "edition": {
+    "editionId": "engels-det-kommunistiske-manifest.no.wikisource",
+    "kind": "translation",
+    "language": "no",
+    "title": "Det kommunistiske manifest",
+    "translationPublicationYear": 1919,
+    "translator": {
+      "birthYear": 1889,
+      "deathYear": 1941,
+      "name": "Valborg Sønstevold",
+      "wikidata": "Q56736493"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1895: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1941: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1919: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q40591",
+      "https://www.wikidata.org/wiki/Q57313148",
+      "https://www.wikidata.org/wiki/Q34787",
+      "https://www.wikidata.org/wiki/Q56736493",
+      "https://no.wikisource.org/wiki/Det_kommunistiske_manifest_(1919)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Friedrich Engels died in 1895; the translator Valborg Sønstevold died in 1941 and this translation was first published in 1919. Source: no.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Det kommunistiske manifest (1919)",
+    "pages": [
+      {
+        "revision": 283573,
+        "title": "Det kommunistiske manifest (1919)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:15:10.576326Z",
+    "revision": "283573",
+    "site": "no.wikisource.org",
+    "url": "https://no.wikisource.org/wiki/Det_kommunistiske_manifest_(1919)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1820,
+      "deathYear": 1895,
+      "name": "Friedrich Engels",
+      "wikidata": "Q34787"
+    },
+    "originalLanguage": "de",
+    "originalPublicationYear": 1848,
+    "originalTitle": "Det kommunistiske manifest",
+    "workId": "engels-det-kommunistiske-manifest"
+  }
+}

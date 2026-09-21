@@ -1,15 +1,15 @@
 {
   "asset": {
-    "assetVersion": 1,
-    "builtAt": "2026-09-20T18:54:33.602840Z",
-    "chapterCount": 5,
-    "contentSha256": "e6d425e2805f3f00b158bcce30d5caaeb498721b2e5cd9865147a5ff5b8a4ede",
-    "normalizerVersion": "0.1.0",
-    "path": "books/ro/creanga-amintiri-din-copilarie.ro.wikisource/v1/book.json.gz",
-    "sha256": "0d5a4f6a2ec31576a2d0dc3b201701d7097da8b8664d36e3ec7c6785101d117e",
-    "sizeBytes": 60846,
-    "uncompressedSizeBytes": 159274,
-    "wordCount": 25203
+    "assetVersion": 2,
+    "builtAt": "2026-09-21T06:34:03.538386Z",
+    "chapterCount": 4,
+    "contentSha256": "1bb83608ef09305c50545976ac6cebbb36d9e2dbce80c585aa92d4c2caf34cee",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/creanga-amintiri-din-copilarie.ro.wikisource/v2/book.json.gz",
+    "sha256": "6e26f01e1756153963fb808cc6e34b207a62f5fb1f0aab5152c4b98ddc6d521e",
+    "sizeBytes": 60798,
+    "uncompressedSizeBytes": 159156,
+    "wordCount": 25200
   },
   "edition": {
     "editionId": "creanga-amintiri-din-copilarie.ro.wikisource",
@@ -23,7 +23,7 @@
     "Biography"
   ],
   "publish": {
-    "assetVersion": 1
+    "assetVersion": 2
   },
   "rights": {
     "basis": [

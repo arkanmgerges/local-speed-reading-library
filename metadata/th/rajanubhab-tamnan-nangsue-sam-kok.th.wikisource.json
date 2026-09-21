@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:41.432081Z",
+    "chapterCount": 1,
+    "contentSha256": "8ebda6bef34cf2cc6c32abfcf17dd3bd539d36202013b8d4ba7d3934b97a2931",
+    "normalizerVersion": "0.2.0",
+    "path": "books/th/rajanubhab-tamnan-nangsue-sam-kok.th.wikisource/v1/book.json.gz",
+    "sha256": "8bc3e24e4c6ad77804a02724407d02e5dc64d2b0deb165414dade69e0735ad47",
+    "sizeBytes": 41127,
+    "uncompressedSizeBytes": 278712,
+    "wordCount": 5443
+  },
+  "edition": {
+    "editionId": "rajanubhab-tamnan-nangsue-sam-kok.th.wikisource",
+    "kind": "original",
+    "language": "th",
+    "title": "ตำนานหนังสือสามก๊ก"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1943: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1928: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q136242694",
+      "https://www.wikidata.org/wiki/Q1158913",
+      "https://th.wikisource.org/wiki/%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B9%8A%E0%B8%81"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. สมเด็จพระเจ้าบรมวงศ์เธอ กรมพระยาดำรงราชานุภาพ died in 1943 and the work was first published in 1928. Source: th.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "ตำนานหนังสือสามก๊ก",
+    "pages": [
+      {
+        "revision": 266048,
+        "title": "ตำนานหนังสือสามก๊ก"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:18:12.722202Z",
+    "revision": "266048",
+    "site": "th.wikisource.org",
+    "url": "https://th.wikisource.org/wiki/%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B9%8A%E0%B8%81"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1862,
+      "deathYear": 1943,
+      "name": "สมเด็จพระเจ้าบรมวงศ์เธอ กรมพระยาดำรงราชานุภาพ",
+      "wikidata": "Q1158913"
+    },
+    "originalLanguage": "th",
+    "originalPublicationYear": 1928,
+    "originalTitle": "ตำนานหนังสือสามก๊ก",
+    "workId": "rajanubhab-tamnan-nangsue-sam-kok"
+  }
+}

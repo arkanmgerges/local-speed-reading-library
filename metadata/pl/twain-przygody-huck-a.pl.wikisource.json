@@ -1,0 +1,99 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:52.483382Z",
+    "chapterCount": 7,
+    "contentSha256": "cd5c1aacc83a75caf7c08d9fb338983247b280a3de56985ed3f01c114609f88d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/twain-przygody-huck-a.pl.wikisource/v1/book.json.gz",
+    "sha256": "449be4ec98b6eff744bab5b6e664518685f2f6769f84fa847d4d12291efdabd6",
+    "sizeBytes": 242878,
+    "uncompressedSizeBytes": 614648,
+    "wordCount": 89471
+  },
+  "edition": {
+    "editionId": "twain-przygody-huck-a.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Przygody Huck’a",
+    "translationPublicationYear": 1898,
+    "translator": {
+      "birthYear": 1842,
+      "deathYear": 1912,
+      "name": "Teresa Prażmowska",
+      "wikidata": "Q43402029"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1910: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1912: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1898: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q215410",
+      "https://www.wikidata.org/wiki/Q59222447",
+      "https://www.wikidata.org/wiki/Q7245",
+      "https://www.wikidata.org/wiki/Q43402029",
+      "https://pl.wikisource.org/wiki/Przygody_Huck%E2%80%99a"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Mark Twain died in 1910; the translator Teresa Prażmowska died in 1912 and this translation was first published in 1898. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Przygody Huck’a",
+    "pages": [
+      {
+        "revision": 2677785,
+        "title": "Przygody Huck’a"
+      },
+      {
+        "revision": 2635346,
+        "title": "Przygody Huck’a/Tom I"
+      },
+      {
+        "revision": 1377575,
+        "title": "Przygody Huck’a/Całość"
+      },
+      {
+        "revision": 2635354,
+        "title": "Przygody Huck’a/Przedmowa"
+      },
+      {
+        "revision": 2635347,
+        "title": "Przygody Huck’a/Tom II"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:29:19.763629Z",
+    "revision": "2677785",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Przygody_Huck%E2%80%99a"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1910,
+      "name": "Mark Twain",
+      "wikidata": "Q7245"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1884,
+    "originalTitle": "Przygody Huck’a",
+    "workId": "twain-przygody-huck-a"
+  }
+}

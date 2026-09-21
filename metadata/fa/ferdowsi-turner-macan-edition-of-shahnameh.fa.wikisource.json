@@ -1,0 +1,89 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:19.268166Z",
+    "chapterCount": 3,
+    "contentSha256": "e225ef6f2693415d36cc639eb6e23f2c6ca16868d013f5ac11698b41ea18df1c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fa/ferdowsi-turner-macan-edition-of-shahnameh.fa.wikisource/v1/book.json.gz",
+    "sha256": "9b1f06615bf16d0fbcfd848161ee1dac861a7ac67af729655c44276512ce3901",
+    "sizeBytes": 35672,
+    "uncompressedSizeBytes": 129063,
+    "wordCount": 15659
+  },
+  "edition": {
+    "editionId": "ferdowsi-turner-macan-edition-of-shahnameh.fa.wikisource",
+    "kind": "original",
+    "language": "fa",
+    "title": "شاهنامه ترنر ماکان"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1020: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1829: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q105355444",
+      "https://www.wikidata.org/wiki/Q43459",
+      "https://fa.wikisource.org/wiki/%D8%B4%D8%A7%D9%87%D9%86%D8%A7%D9%85%D9%87_(%D8%AA%D8%B5%D8%AD%DB%8C%D8%AD_%D8%AA%D8%B1%D9%86%D8%B1_%D9%85%D8%A7%DA%A9%D8%A7%D9%86)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. فردوسی died in 1020 and the work was first published in 1829. Source: fa.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "شاهنامه (تصحیح ترنر ماکان)",
+    "pages": [
+      {
+        "revision": 285321,
+        "title": "شاهنامه (تصحیح ترنر ماکان)"
+      },
+      {
+        "revision": 285392,
+        "title": "شاهنامه (تصحیح ترنر ماکان)/مقدمه"
+      },
+      {
+        "revision": 285343,
+        "title": "شاهنامه (تصحیح ترنر ماکان)/بیان احوال فردوسی"
+      },
+      {
+        "revision": 285389,
+        "title": "شاهنامه (تصحیح ترنر ماکان)/گفتار در هجو سلطان محمود"
+      },
+      {
+        "revision": 285374,
+        "title": "شاهنامه (تصحیح ترنر ماکان)/فهرست"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:01:36.260Z",
+    "revision": "285321",
+    "site": "fa.wikisource.org",
+    "url": "https://fa.wikisource.org/wiki/%D8%B4%D8%A7%D9%87%D9%86%D8%A7%D9%85%D9%87_(%D8%AA%D8%B5%D8%AD%DB%8C%D8%AD_%D8%AA%D8%B1%D9%86%D8%B1_%D9%85%D8%A7%DA%A9%D8%A7%D9%86)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 940,
+      "deathYear": 1020,
+      "name": "فردوسی",
+      "wikidata": "Q43459"
+    },
+    "originalLanguage": "fa",
+    "originalPublicationYear": 1829,
+    "originalTitle": "شاهنامه ترنر ماکان",
+    "workId": "ferdowsi-turner-macan-edition-of-shahnameh"
+  }
+}

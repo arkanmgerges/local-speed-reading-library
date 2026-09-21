@@ -1,0 +1,139 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:51:55.032742Z",
+    "chapterCount": 14,
+    "contentSha256": "7fa203a04363aa66154b4710d299c98a2c4e0f2a83bd38b5e58d413c56352024",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cs/defoe-malu-robinson.cs.wikisource/v1/book.json.gz",
+    "sha256": "511d67c7f58910c46b2916c49e19260e4662d3045c80bb8bdffbf020372c2b66",
+    "sizeBytes": 25333,
+    "uncompressedSizeBytes": 70961,
+    "wordCount": 9685
+  },
+  "edition": {
+    "editionId": "defoe-malu-robinson.cs.wikisource",
+    "kind": "translation",
+    "language": "cs",
+    "title": "Malý Robinson",
+    "translationPublicationYear": 1882,
+    "translator": {
+      "birthYear": 1828,
+      "deathYear": 1897,
+      "name": "Pavel J. Šulc",
+      "wikidata": "Q12044092"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1731: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1897: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1882: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q483034",
+      "https://www.wikidata.org/wiki/Q19527786",
+      "https://www.wikidata.org/wiki/Q40946",
+      "https://www.wikidata.org/wiki/Q12044092",
+      "https://cs.wikisource.org/wiki/Mal%C3%BD_Robinson"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Daniel Defoe died in 1731; the translator Pavel J. Šulc died in 1897 and this translation was first published in 1882. Source: cs.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Malý Robinson",
+    "pages": [
+      {
+        "revision": 298323,
+        "title": "Malý Robinson"
+      },
+      {
+        "revision": 228648,
+        "title": "Malý Robinson/I. Útěk z domova"
+      },
+      {
+        "revision": 228649,
+        "title": "Malý Robinson/II. Skoumání ostrova"
+      },
+      {
+        "revision": 228650,
+        "title": "Malý Robinson/III. Přípravy na zimu"
+      },
+      {
+        "revision": 228651,
+        "title": "Malý Robinson/IV. Nemoc"
+      },
+      {
+        "revision": 228653,
+        "title": "Malý Robinson/V. Návštěva na lodi"
+      },
+      {
+        "revision": 228654,
+        "title": "Malý Robinson/VI. Pevnost"
+      },
+      {
+        "revision": 228655,
+        "title": "Malý Robinson/VII. Zachránění divocha"
+      },
+      {
+        "revision": 228656,
+        "title": "Malý Robinson/VIII. Robinson a divoch"
+      },
+      {
+        "revision": 228652,
+        "title": "Malý Robinson/IX. Plavba"
+      },
+      {
+        "revision": 228657,
+        "title": "Malý Robinson/X. Shledání"
+      },
+      {
+        "revision": 228658,
+        "title": "Malý Robinson/XI. Příhody zachráněného"
+      },
+      {
+        "revision": 228659,
+        "title": "Malý Robinson/XIII. Útok divochů"
+      },
+      {
+        "revision": 228660,
+        "title": "Malý Robinson/XIV. Vítězství"
+      },
+      {
+        "revision": 228661,
+        "title": "Malý Robinson/XV. Závěrek"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:08:01.689924Z",
+    "revision": "298323",
+    "site": "cs.wikisource.org",
+    "url": "https://cs.wikisource.org/wiki/Mal%C3%BD_Robinson"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1660,
+      "deathYear": 1731,
+      "name": "Daniel Defoe",
+      "wikidata": "Q40946"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1719,
+    "originalTitle": "Malý Robinson",
+    "workId": "defoe-malu-robinson"
+  }
+}

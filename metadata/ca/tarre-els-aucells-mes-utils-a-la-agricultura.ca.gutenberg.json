@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:41.632203Z",
+    "chapterCount": 12,
+    "contentSha256": "762ab649b4519871d2d71fc7c1cc8e4f37f43dca7313b127f96f78fbbb81dd78",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/tarre-els-aucells-mes-utils-a-la-agricultura.ca.gutenberg/v1/book.json.gz",
+    "sha256": "7b603568942122959b5db0983a48f97498c4136572ecd93e7a72621a77696b62",
+    "sizeBytes": 63370,
+    "uncompressedSizeBytes": 180605,
+    "wordCount": 28892
+  },
+  "edition": {
+    "editionId": "tarre-els-aucells-mes-utils-a-la-agricultura.ca.gutenberg",
+    "editionPublicationYear": 1902,
+    "kind": "original",
+    "language": "ca",
+    "title": "Els aucells més útils a la agricultura de Catalunya"
+  },
+  "genres": [
+    "Science",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1918: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1902 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/74159",
+      "https://ca.wikipedia.org/wiki/Emili_Tarr%C3%A9_i_Tarr%C3%A9"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Emili Tarré died in 1918 and the edition digitised by Project Gutenberg was printed in 1902. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "74159",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:06:14.550935Z",
+    "revision": "Sat, 29 Aug 2026 13:22:02 GMT",
+    "url": "https://www.gutenberg.org/ebooks/74159"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1858,
+      "deathYear": 1918,
+      "name": "Emili Tarré",
+      "wikidata": "Q52161763"
+    },
+    "originalLanguage": "ca",
+    "originalTitle": "Els aucells més útils a la agricultura de Catalunya",
+    "workId": "tarre-els-aucells-mes-utils-a-la-agricultura"
+  }
+}

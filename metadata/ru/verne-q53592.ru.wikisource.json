@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:50.643321Z",
+    "chapterCount": 30,
+    "contentSha256": "fc978954966f26da294a5ade95ae9e7b17c22b4e1b62981b654d313471a1b473",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ru/verne-q53592.ru.wikisource/v1/book.json.gz",
+    "sha256": "2e66c527850666f0dd9c8369025e2a7aa9998516b7f5fb6628b5b5be7c993af2",
+    "sizeBytes": 143347,
+    "uncompressedSizeBytes": 580135,
+    "wordCount": 43150
+  },
+  "edition": {
+    "editionId": "verne-q53592.ru.wikisource",
+    "kind": "translation",
+    "language": "ru",
+    "title": "От Земли до Луны",
+    "translationPublicationYear": 1870,
+    "translator": {
+      "birthYear": 1830,
+      "deathYear": 1915,
+      "name": "Павел Матвеевич Ольхин",
+      "wikidata": "Q6056391"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1905: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1915: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1870: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q53592",
+      "https://www.wikidata.org/wiki/Q114658512",
+      "https://www.wikidata.org/wiki/Q33977",
+      "https://www.wikidata.org/wiki/Q6056391",
+      "https://ru.wikisource.org/wiki/%D0%9E%D1%82_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8_%D0%B4%D0%BE_%D0%9B%D1%83%D0%BD%D1%8B_(%D0%92%D0%B5%D1%80%D0%BD%3B_%D0%9E%D0%BB%D1%8C%D1%85%D0%B8%D0%BD)%2F%D0%94%D0%9E"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Жюль Верн died in 1905; the translator Павел Матвеевич Ольхин died in 1915 and this translation was first published in 1870. Source: ru.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "От Земли до Луны (Верн; Ольхин)/ДО",
+    "pages": [
+      {
+        "revision": 5654157,
+        "title": "От Земли до Луны (Верн; Ольхин)/ДО"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:55:15.257373Z",
+    "revision": "5654157",
+    "site": "ru.wikisource.org",
+    "url": "https://ru.wikisource.org/wiki/%D0%9E%D1%82_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8_%D0%B4%D0%BE_%D0%9B%D1%83%D0%BD%D1%8B_(%D0%92%D0%B5%D1%80%D0%BD%3B_%D0%9E%D0%BB%D1%8C%D1%85%D0%B8%D0%BD)/%D0%94%D0%9E"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1828,
+      "deathYear": 1905,
+      "name": "Жюль Верн",
+      "wikidata": "Q33977"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1865,
+    "originalTitle": "От Земли до Луны",
+    "workId": "verne-q53592"
+  }
+}

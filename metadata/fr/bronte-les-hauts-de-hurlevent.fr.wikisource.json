@@ -1,0 +1,219 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:26:28.678993Z",
+    "chapterCount": 34,
+    "contentSha256": "f8ed1914279fe434748da91eef58bde6cd416cfd96fafc22b4fc04c8487156e8",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/bronte-les-hauts-de-hurlevent.fr.wikisource/v1/book.json.gz",
+    "sha256": "c6a6c8e2567cf1dcaf529e4fc3679aecfe37f99e399f624f1ac4ea122a77b284",
+    "sizeBytes": 288196,
+    "uncompressedSizeBytes": 815456,
+    "wordCount": 130874
+  },
+  "edition": {
+    "editionId": "bronte-les-hauts-de-hurlevent.fr.wikisource",
+    "kind": "translation",
+    "language": "fr",
+    "title": "Les Hauts de Hurlevent",
+    "translationPublicationYear": 1925,
+    "translator": {
+      "birthYear": 1870,
+      "deathYear": 1940,
+      "name": "Frédéric Delebecque",
+      "wikidata": "Q3089751"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1848: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1940: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1925: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q202975",
+      "https://www.wikidata.org/wiki/Q16478477",
+      "https://www.wikidata.org/wiki/Q80137",
+      "https://www.wikidata.org/wiki/Q3089751",
+      "https://fr.wikisource.org/wiki/Les_Hauts_de_Hurlevent_(trad._Delebecque)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Emily Brontë died in 1848; the translator Frédéric Delebecque died in 1940 and this translation was first published in 1925. Source: fr.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Les Hauts de Hurlevent (trad. Delebecque)",
+    "pages": [
+      {
+        "revision": 13358709,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)"
+      },
+      {
+        "revision": 12375882,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 1"
+      },
+      {
+        "revision": 12375910,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 2"
+      },
+      {
+        "revision": 12375947,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 3"
+      },
+      {
+        "revision": 12375975,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 4"
+      },
+      {
+        "revision": 12375988,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 5"
+      },
+      {
+        "revision": 12376009,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 6"
+      },
+      {
+        "revision": 12376036,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 7"
+      },
+      {
+        "revision": 12376066,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 8"
+      },
+      {
+        "revision": 12376104,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 9"
+      },
+      {
+        "revision": 12376151,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 10"
+      },
+      {
+        "revision": 12376183,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 11"
+      },
+      {
+        "revision": 12376225,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 12"
+      },
+      {
+        "revision": 12376251,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 13"
+      },
+      {
+        "revision": 12376274,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 14"
+      },
+      {
+        "revision": 12376531,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 15"
+      },
+      {
+        "revision": 12376562,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 16"
+      },
+      {
+        "revision": 12376625,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 17"
+      },
+      {
+        "revision": 12376653,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 18"
+      },
+      {
+        "revision": 12376679,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 19"
+      },
+      {
+        "revision": 12376709,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 20"
+      },
+      {
+        "revision": 12376759,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 21"
+      },
+      {
+        "revision": 12376783,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 22"
+      },
+      {
+        "revision": 12376815,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 23"
+      },
+      {
+        "revision": 12377013,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 24"
+      },
+      {
+        "revision": 12377024,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 25"
+      },
+      {
+        "revision": 12377338,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 26"
+      },
+      {
+        "revision": 12377369,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 27"
+      },
+      {
+        "revision": 12377392,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 28"
+      },
+      {
+        "revision": 12377409,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 29"
+      },
+      {
+        "revision": 12377430,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 30"
+      },
+      {
+        "revision": 12377448,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 31"
+      },
+      {
+        "revision": 12377478,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 32"
+      },
+      {
+        "revision": 12377498,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 33"
+      },
+      {
+        "revision": 12377527,
+        "title": "Les Hauts de Hurlevent (trad. Delebecque)/Chapitre 34"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:07:32.714705Z",
+    "revision": "13358709",
+    "site": "fr.wikisource.org",
+    "url": "https://fr.wikisource.org/wiki/Les_Hauts_de_Hurlevent_(trad._Delebecque)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1818,
+      "deathYear": 1848,
+      "name": "Emily Brontë",
+      "wikidata": "Q80137"
+    },
+    "originalLanguage": "en-gb",
+    "originalPublicationYear": 1847,
+    "originalTitle": "Les Hauts de Hurlevent",
+    "workId": "bronte-les-hauts-de-hurlevent"
+  }
+}

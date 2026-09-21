@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:04:08.205226Z",
+    "chapterCount": 14,
+    "contentSha256": "2334cf67f3f5f13ba50862e8904a536abf259702de756b135b74629c9058530c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt-br/alencar-ubirajara.pt-br.gutenberg/v1/book.json.gz",
+    "sha256": "7713ece6ecb1a6eac6f8c53366cd27cfe520b589fb44269ca72f2e2d742b80e1",
+    "sizeBytes": 74326,
+    "uncompressedSizeBytes": 216509,
+    "wordCount": 33796
+  },
+  "edition": {
+    "editionId": "alencar-ubirajara.pt-br.gutenberg",
+    "kind": "original",
+    "language": "pt-BR",
+    "title": "Ubirajara: Lenda Tupi"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1877: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1874: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/38496",
+      "https://en.wikipedia.org/wiki/Jos%C3%A9_de_Alencar",
+      "https://pt.wikipedia.org/wiki/Jos%C3%A9_de_Alencar",
+      "https://www.wikidata.org/wiki/Q7876558"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. José Martiniano de Alencar died in 1877 and the work was first published in 1874. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "38496",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:34:09.534155Z",
+    "revision": "Tue, 15 Sep 2026 23:35:32 GMT",
+    "url": "https://www.gutenberg.org/ebooks/38496"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1829,
+      "deathYear": 1877,
+      "name": "José Martiniano de Alencar",
+      "wikidata": "Q455703"
+    },
+    "originalLanguage": "pt-BR",
+    "originalPublicationYear": 1874,
+    "originalTitle": "Ubirajara: Lenda Tupi",
+    "workId": "alencar-ubirajara"
+  }
+}

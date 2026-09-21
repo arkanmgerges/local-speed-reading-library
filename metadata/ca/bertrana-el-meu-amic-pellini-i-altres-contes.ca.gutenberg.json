@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:28.342926Z",
+    "chapterCount": 29,
+    "contentSha256": "cec09b29c7c0ecda1d5ded2a15e0a9e6cdfe00720aacd3c8d6391b7fbfd5e5f7",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/bertrana-el-meu-amic-pellini-i-altres-contes.ca.gutenberg/v1/book.json.gz",
+    "sha256": "d0c3374beee2a59f454239ab477a755feac2991410e5beff7e3f300e6e096ff5",
+    "sizeBytes": 87513,
+    "uncompressedSizeBytes": 218661,
+    "wordCount": 33421
+  },
+  "edition": {
+    "editionId": "bertrana-el-meu-amic-pellini-i-altres-contes.ca.gutenberg",
+    "editionPublicationYear": 1923,
+    "kind": "original",
+    "language": "ca",
+    "title": "El meu amic Pellini i altres contes"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1941: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1923 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/74649",
+      "https://ca.wikipedia.org/wiki/Prudenci_Bertrana_i_Comte"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Prudenci Bertrana died in 1941 and the edition digitised by Project Gutenberg was printed in 1923. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "74649",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:05:13.213950Z",
+    "revision": "Sat, 29 Aug 2026 15:27:12 GMT",
+    "url": "https://www.gutenberg.org/ebooks/74649"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1867,
+      "deathYear": 1941,
+      "name": "Prudenci Bertrana",
+      "wikidata": "Q3322361"
+    },
+    "originalLanguage": "ca",
+    "originalTitle": "El meu amic Pellini i altres contes",
+    "workId": "bertrana-el-meu-amic-pellini-i-altres-contes"
+  }
+}

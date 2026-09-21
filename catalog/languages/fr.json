@@ -1,0 +1,876 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "8a52f468cc05efc8c5f737ab9a747e5fa27aa80d752461d60de5d38cd4c3647a",
+        "encoding": "gzip",
+        "path": "books/fr/andersen-la-petite-sirene.fr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "142111a9636426861423b231f68040c81b3057d5d79e6eb9184ea88a4faef82c",
+        "sizeBytes": 16864,
+        "uncompressedSizeBytes": 46540,
+        "wordCount": 7412
+      },
+      "author": "Hans Christian Andersen",
+      "authorDeathYear": 1875,
+      "editionId": "andersen-la-petite-sirene.fr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "fr",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1837,
+      "originalTitle": "La Petite Sirène",
+      "rights": {
+        "statement": "Public domain worldwide. Hans Christian Andersen died in 1875; the translator David Soldi died in 1884 and this translation was first published in 1876. Source: fr.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Contes d’Andersen/La Petite Sirène",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:05:08.252340Z",
+        "revision": "12245708",
+        "url": "https://fr.wikisource.org/wiki/Contes_d%E2%80%99Andersen/La_Petite_Sir%C3%A8ne"
+      },
+      "title": "La Petite Sirène",
+      "translationPublicationYear": 1876,
+      "translator": "David Soldi",
+      "translatorDeathYear": 1884,
+      "workId": "andersen-la-petite-sirene"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 122,
+        "contentSha256": "6c2525aee4a3af64c9befcc0ffb331a363e4e548078d3894938545bd0cdbd356",
+        "encoding": "gzip",
+        "path": "books/fr/austen-orgueil-et-prevention.fr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5c12fa4d6b0ce93ca89a1c003e7e38facdbd4ee9485f57b7f60b567f18784afb",
+        "sizeBytes": 495768,
+        "uncompressedSizeBytes": 1531957,
+        "wordCount": 242382
+      },
+      "author": "Jane Austen",
+      "authorDeathYear": 1817,
+      "editionId": "austen-orgueil-et-prevention.fr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "fr",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1813,
+      "originalTitle": "Orgueil et Prévention",
+      "rights": {
+        "statement": "Public domain worldwide. Jane Austen died in 1817; the translator Eloïse Perks died in 1850 and this translation was first published in 1822. Source: fr.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Orgueil et Prévention",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:06:36.939926Z",
+        "revision": "14215144",
+        "url": "https://fr.wikisource.org/wiki/Orgueil_et_Pr%C3%A9vention"
+      },
+      "title": "Orgueil et Prévention",
+      "translationPublicationYear": 1822,
+      "translator": "Eloïse Perks",
+      "translatorDeathYear": 1850,
+      "workId": "austen-orgueil-et-prevention"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 34,
+        "contentSha256": "f8ed1914279fe434748da91eef58bde6cd416cfd96fafc22b4fc04c8487156e8",
+        "encoding": "gzip",
+        "path": "books/fr/bronte-les-hauts-de-hurlevent.fr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c6a6c8e2567cf1dcaf529e4fc3679aecfe37f99e399f624f1ac4ea122a77b284",
+        "sizeBytes": 288196,
+        "uncompressedSizeBytes": 815456,
+        "wordCount": 130874
+      },
+      "author": "Emily Brontë",
+      "authorDeathYear": 1848,
+      "editionId": "bronte-les-hauts-de-hurlevent.fr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "fr",
+      "originalLanguage": "en-gb",
+      "originalPublicationYear": 1847,
+      "originalTitle": "Les Hauts de Hurlevent",
+      "rights": {
+        "statement": "Public domain worldwide. Emily Brontë died in 1848; the translator Frédéric Delebecque died in 1940 and this translation was first published in 1925. Source: fr.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Les Hauts de Hurlevent (trad. Delebecque)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:07:32.714705Z",
+        "revision": "13358709",
+        "url": "https://fr.wikisource.org/wiki/Les_Hauts_de_Hurlevent_(trad._Delebecque)"
+      },
+      "title": "Les Hauts de Hurlevent",
+      "translationPublicationYear": 1925,
+      "translator": "Frédéric Delebecque",
+      "translatorDeathYear": 1940,
+      "workId": "bronte-les-hauts-de-hurlevent"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "44d4b3270a3e486c8b7c4b8eed3799649c487aad807cb4a4fb6f3fe465a8f377",
+        "encoding": "gzip",
+        "path": "books/fr/bussy-histoire-amoureuse-des-gaules.fr.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "532beded14df79b90611eaca3d7e048895915b391987f657c70dba881e3fb2f1",
+        "sizeBytes": 127466,
+        "uncompressedSizeBytes": 380397,
+        "wordCount": 62577
+      },
+      "author": "Roger de Rabutin Bussy",
+      "authorDeathYear": 1693,
+      "editionId": "bussy-histoire-amoureuse-des-gaules.fr.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "fr",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1665,
+      "originalTitle": "Histoire amoureuse des Gaules; suivie des Romans historico-satiriques du XVIIe siècle, Tome I",
+      "rights": {
+        "statement": "Public domain worldwide. Roger de Rabutin Bussy died in 1693 and the work was first published in 1665. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "29049",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:07:37.551440Z",
+        "revision": "Sat, 12 Sep 2026 09:22:58 GMT",
+        "url": "https://www.gutenberg.org/ebooks/29049"
+      },
+      "title": "Histoire amoureuse des Gaules; suivie des Romans historico-satiriques du XVIIe siècle, Tome I",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bussy-histoire-amoureuse-des-gaules"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 26,
+        "contentSha256": "b41d5170e241af88684cf0863620e405d1907371aba7407c7abf715eb593abf5",
+        "encoding": "gzip",
+        "path": "books/fr/carroll-alice-au-pays-des-merveilles.fr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5d53cb443a56b3685726838605bdb2c0a8af0a2edc98a160b2e6779408986c1d",
+        "sizeBytes": 112684,
+        "uncompressedSizeBytes": 351440,
+        "wordCount": 58896
+      },
+      "author": "Lewis Carroll",
+      "authorDeathYear": 1898,
+      "editionId": "carroll-alice-au-pays-des-merveilles.fr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "fr",
+      "originalLanguage": "en-gb",
+      "originalPublicationYear": 1865,
+      "originalTitle": "Alice au pays des merveilles",
+      "rights": {
+        "statement": "Public domain worldwide. Lewis Carroll died in 1898; the translator Henri Bué died in 1929 and this translation was first published in 1869. Source: fr.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Alice au pays des merveilles",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:08:00.035110Z",
+        "revision": "15537836",
+        "url": "https://fr.wikisource.org/wiki/Alice_au_pays_des_merveilles"
+      },
+      "title": "Alice au pays des merveilles",
+      "translationPublicationYear": 1869,
+      "translator": "Henri Bué",
+      "translatorDeathYear": 1929,
+      "workId": "carroll-alice-au-pays-des-merveilles"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 19,
+        "contentSha256": "659b2989675db33005e0509307108842dbc9856592094e6974ffeaccfc30d76c",
+        "encoding": "gzip",
+        "path": "books/fr/darwin-l-origine-des-especes-1906.fr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c684ad50e245a8309bedf5966b6dd6d5ac2c3bc4d418bc41449c53f4b760ee25",
+        "sizeBytes": 442379,
+        "uncompressedSizeBytes": 1476893,
+        "wordCount": 217831
+      },
+      "author": "Charles Darwin",
+      "authorDeathYear": 1882,
+      "editionId": "darwin-l-origine-des-especes-1906.fr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "fr",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1859,
+      "originalTitle": "L’Origine des espèces (1906)",
+      "rights": {
+        "statement": "Public domain worldwide. Charles Darwin died in 1882; the translator Edmond Barbier died in 1880 and this translation was first published in 1906. Source: fr.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "L’Origine des espèces",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:08:32.168393Z",
+        "revision": "13686324",
+        "url": "https://fr.wikisource.org/wiki/L%E2%80%99Origine_des_esp%C3%A8ces"
+      },
+      "title": "L’Origine des espèces",
+      "translationPublicationYear": 1906,
+      "translator": "Edmond Barbier",
+      "translatorDeathYear": 1880,
+      "workId": "darwin-l-origine-des-especes-1906"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 8,
+        "contentSha256": "468961f9b72ca073ab489a05b207f953c1889295659da1eb7d791788e6988e19",
+        "encoding": "gzip",
+        "path": "books/fr/defoe-robinson-crusoe-saint-hyacinthe.fr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "348649b6713e226f7c4e5ef7a6b481ea617497b16bb38f2764ec12d1a452879a",
+        "sizeBytes": 460847,
+        "uncompressedSizeBytes": 1397265,
+        "wordCount": 228105
+      },
+      "author": "Daniel Defoe",
+      "authorDeathYear": 1731,
+      "editionId": "defoe-robinson-crusoe-saint-hyacinthe.fr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "fr",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1719,
+      "originalTitle": "Robinson Crusoé (Saint-Hyacinthe)",
+      "rights": {
+        "statement": "Public domain worldwide. Daniel Defoe died in 1731; the translator Thémiseul de Saint-Hyacinthe died in 1746 and this translation was first published in 1787. Source: fr.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Robinson Crusoé (Saint-Hyacinthe)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:08:50.866984Z",
+        "revision": "15142129",
+        "url": "https://fr.wikisource.org/wiki/Robinson_Cruso%C3%A9_(Saint-Hyacinthe)"
+      },
+      "title": "Robinson Crusoé (Saint-Hyacinthe)",
+      "translationPublicationYear": 1787,
+      "translator": "Thémiseul de Saint-Hyacinthe",
+      "translatorDeathYear": 1746,
+      "workId": "defoe-robinson-crusoe-saint-hyacinthe"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "932dc406cb986862f1ef5fefff9fbc65d5d0b803ba7946e792b2c577407f5190",
+        "encoding": "gzip",
+        "path": "books/fr/dickens-les-apparitions-de-noel.fr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0fb36b9dd2102fcd4000ea8fd96be2d4e8928eb5cfb420f4dcda215bde458d85",
+        "sizeBytes": 55859,
+        "uncompressedSizeBytes": 156091,
+        "wordCount": 24951
+      },
+      "author": "Charles Dickens",
+      "authorDeathYear": 1870,
+      "editionId": "dickens-les-apparitions-de-noel.fr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "fr",
+      "originalLanguage": "en-gb",
+      "originalPublicationYear": 1843,
+      "originalTitle": "Les Apparitions de Noël",
+      "rights": {
+        "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Amédée Pichot died in 1877 and this translation was first published in 1847. Source: fr.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Les Apparitions de Noël",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:08:55.918502Z",
+        "revision": "12958881",
+        "url": "https://fr.wikisource.org/wiki/Les_Apparitions_de_No%C3%ABl"
+      },
+      "title": "Les Apparitions de Noël",
+      "translationPublicationYear": 1847,
+      "translator": "Amédée Pichot",
+      "translatorDeathYear": 1877,
+      "workId": "dickens-les-apparitions-de-noel"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 53,
+        "contentSha256": "1dc6f43249e90335c88f951b2358707277bcd1694d82d0e9e982d0a975febae6",
+        "encoding": "gzip",
+        "path": "books/fr/dickens-olivier-twist.fr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "431d1a715064938a8cb76afff631fbc2582f77733278a38d7eccb9b81cf1d9c4",
+        "sizeBytes": 344321,
+        "uncompressedSizeBytes": 1020709,
+        "wordCount": 164714
+      },
+      "author": "Charles Dickens",
+      "authorDeathYear": 1870,
+      "editionId": "dickens-olivier-twist.fr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "fr",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1838,
+      "originalTitle": "Olivier Twist",
+      "rights": {
+        "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Alfred Gérardin died in 1881 and this translation was first published in 1893. Source: fr.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Olivier Twist",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:09:00.990195Z",
+        "revision": "14084067",
+        "url": "https://fr.wikisource.org/wiki/Olivier_Twist"
+      },
+      "title": "Olivier Twist",
+      "translationPublicationYear": 1893,
+      "translator": "Alfred Gérardin",
+      "translatorDeathYear": 1881,
+      "workId": "dickens-olivier-twist"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 31,
+        "contentSha256": "09141e45fb8d5ed447ca47ace50dc389a5778eb2eaa7d5d553e8874a47879b60",
+        "encoding": "gzip",
+        "path": "books/fr/dumas-le-comte-de-monte-cristo-tome-i.fr.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c4b8e15bdeb3832e4dc7a33849b56f6c8876960c646a22da137f6b9f3cf91fa2",
+        "sizeBytes": 270280,
+        "uncompressedSizeBytes": 792973,
+        "wordCount": 121295
+      },
+      "author": "Alexandre Dumas",
+      "authorDeathYear": 1870,
+      "editionId": "dumas-le-comte-de-monte-cristo-tome-i.fr.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "fr",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1844,
+      "originalTitle": "Le comte de Monte-Cristo, Tome I",
+      "rights": {
+        "statement": "Public domain worldwide. Alexandre Dumas died in 1870 and the work was first published in 1844. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "17989",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:10:19.160446Z",
+        "revision": "Mon, 07 Sep 2026 23:57:33 GMT",
+        "url": "https://www.gutenberg.org/ebooks/17989"
+      },
+      "title": "Le comte de Monte-Cristo, Tome I",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "dumas-le-comte-de-monte-cristo-tome-i"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 69,
+        "contentSha256": "a95a465ecf8047cfdec882343b6967168d8ec83e5f022c28c52081535604ffda",
+        "encoding": "gzip",
+        "path": "books/fr/dumas-les-trois-mousquetaires.fr.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ecc3b9bbb6e8a262d47c2d88685106fe2f98a1e1252e3aec5251bb8bb2bb09ab",
+        "sizeBytes": 487534,
+        "uncompressedSizeBytes": 1488100,
+        "wordCount": 224328
+      },
+      "author": "Alexandre Dumas",
+      "authorDeathYear": 1870,
+      "editionId": "dumas-les-trois-mousquetaires.fr.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "fr",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1844,
+      "originalTitle": "Les trois mousquetaires",
+      "rights": {
+        "statement": "Public domain worldwide. Alexandre Dumas died in 1870 and the work was first published in 1844. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "13951",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:10:25.051254Z",
+        "revision": "Sun, 06 Sep 2026 11:18:00 GMT",
+        "url": "https://www.gutenberg.org/ebooks/13951"
+      },
+      "title": "Les trois mousquetaires",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "dumas-les-trois-mousquetaires"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "34a80d169554cff6d1d7050150698db05738ecab78a5f77725d3294bea38c902",
+        "encoding": "gzip",
+        "path": "books/fr/leblanc-arsene-lupin-gentleman-cambrioleur.fr.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "590996bdd687f4e43a2c23258526fdb83ddacec0062ca2da3496f573c301c6e8",
+        "sizeBytes": 133060,
+        "uncompressedSizeBytes": 370227,
+        "wordCount": 54446
+      },
+      "author": "Maurice Leblanc",
+      "authorDeathYear": 1941,
+      "editionId": "leblanc-arsene-lupin-gentleman-cambrioleur.fr.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "fr",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1907,
+      "originalTitle": "Arsène Lupin, gentleman-cambrioleur",
+      "rights": {
+        "statement": "Public domain worldwide. Maurice Leblanc died in 1941 and the work was first published in 1907. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "32854",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:10:40.482428Z",
+        "revision": "Sun, 13 Sep 2026 16:04:04 GMT",
+        "url": "https://www.gutenberg.org/ebooks/32854"
+      },
+      "title": "Arsène Lupin, gentleman-cambrioleur",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "leblanc-arsene-lupin-gentleman-cambrioleur"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 13,
+        "contentSha256": "d9277be8ea6cf6ef4f169653dfd3a63bd8b6a8dbc5acad076a24da1c10119847",
+        "encoding": "gzip",
+        "path": "books/fr/milton-le-paradis-perdu.fr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d50bca4462e37ca5cf05bb4307572d117fd9bef275a5b447d43127c28f23fccd",
+        "sizeBytes": 239180,
+        "uncompressedSizeBytes": 654901,
+        "wordCount": 105878
+      },
+      "author": "John Milton",
+      "authorDeathYear": 1674,
+      "editionId": "milton-le-paradis-perdu.fr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "fr",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1667,
+      "originalTitle": "Le Paradis perdu",
+      "rights": {
+        "statement": "Public domain worldwide. John Milton died in 1674; the translator François-René de Chateaubriand died in 1848 and this translation was first published in 1861. Source: fr.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Le Paradis perdu",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:11:13.209619Z",
+        "revision": "14437686",
+        "url": "https://fr.wikisource.org/wiki/Le_Paradis_perdu"
+      },
+      "title": "Le Paradis perdu",
+      "translationPublicationYear": 1861,
+      "translator": "François-René de Chateaubriand",
+      "translatorDeathYear": 1848,
+      "workId": "milton-le-paradis-perdu"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 10,
+        "contentSha256": "c21278d5af58c201a06354a8f9bbc16dba077236de11c11335ac2e6b65d1d498",
+        "encoding": "gzip",
+        "path": "books/fr/platon-la-republique.fr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1b78c2eb3cbcde269acb761dab23b102a0885a020f230fcae7a4c6c4ab5fbf09",
+        "sizeBytes": 238643,
+        "uncompressedSizeBytes": 759881,
+        "wordCount": 118203
+      },
+      "author": "Platon",
+      "authorDeathYear": -348,
+      "editionId": "platon-la-republique.fr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "fr",
+      "originalLanguage": "grc",
+      "originalPublicationYear": 1963,
+      "originalTitle": "La République",
+      "rights": {
+        "statement": "Public domain worldwide. Platon died in -348; the translator Victor Cousin died in 1867 and this translation was first published in 1833. Source: fr.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "La République (trad. Cousin)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:11:34.598641Z",
+        "revision": "13029410",
+        "url": "https://fr.wikisource.org/wiki/La_R%C3%A9publique_(trad._Cousin)"
+      },
+      "title": "La République",
+      "translationPublicationYear": 1833,
+      "translator": "Victor Cousin",
+      "translatorDeathYear": 1867,
+      "workId": "platon-la-republique"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 41,
+        "contentSha256": "68aedec3b69a5c314ed20b016456bc6719e3fbeb0ea9a52a4e5a3cec14ed8555",
+        "encoding": "gzip",
+        "path": "books/fr/shelley-frankenstein-ou-le-promethee-moderne.fr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "46e3bed69a84a286f18837a7b504f9244cb2ba16cfaec3281dcd509fa3ea66e7",
+        "sizeBytes": 219083,
+        "uncompressedSizeBytes": 642735,
+        "wordCount": 102095
+      },
+      "author": "Mary Shelley",
+      "authorDeathYear": 1851,
+      "editionId": "shelley-frankenstein-ou-le-promethee-moderne.fr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "fr",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1818,
+      "originalTitle": "Frankenstein, ou le Prométhée moderne",
+      "rights": {
+        "statement": "Public domain worldwide. Mary Shelley died in 1851; the translator Jules Saladin died in 1900 and this translation was first published in 1821. Source: fr.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Frankenstein, ou le Prométhée moderne (trad. Saladin)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:12:19.229467Z",
+        "revision": "15193643",
+        "url": "https://fr.wikisource.org/wiki/Frankenstein%2C_ou_le_Prom%C3%A9th%C3%A9e_moderne_(trad._Saladin)"
+      },
+      "title": "Frankenstein, ou le Prométhée moderne",
+      "translationPublicationYear": 1821,
+      "translator": "Jules Saladin",
+      "translatorDeathYear": 1900,
+      "workId": "shelley-frankenstein-ou-le-promethee-moderne"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 69,
+        "contentSha256": "835af408233ad1958e8285c858d53dc0e4f9c2d0961dfcfa616c8d22552dd933",
+        "encoding": "gzip",
+        "path": "books/fr/stevenson-l-ile-au-tresor.fr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d58da86654f2e03532a88c3c2d1d6f33ef8ba55e62769bf37b11e51d8600fee7",
+        "sizeBytes": 310147,
+        "uncompressedSizeBytes": 873776,
+        "wordCount": 139471
+      },
+      "author": "Robert Louis Stevenson",
+      "authorDeathYear": 1894,
+      "editionId": "stevenson-l-ile-au-tresor.fr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "fr",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1883,
+      "originalTitle": "L’Île au trésor",
+      "rights": {
+        "statement": "Public domain worldwide. Robert Louis Stevenson died in 1894; the translator Théo Varlet died in 1938 and this translation was first published in 1926. Source: fr.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "L’Île au trésor (trad. Varlet)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:13:10.424596Z",
+        "revision": "14107245",
+        "url": "https://fr.wikisource.org/wiki/L%E2%80%99%C3%8Ele_au_tr%C3%A9sor_(trad._Varlet)"
+      },
+      "title": "L’Île au trésor",
+      "translationPublicationYear": 1926,
+      "translator": "Théo Varlet",
+      "translatorDeathYear": 1938,
+      "workId": "stevenson-l-ile-au-tresor"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 42,
+        "contentSha256": "2376b4dcc8000f6823ae0fe6de5dedbbe638b8780b05322744e4636ad4bc90cb",
+        "encoding": "gzip",
+        "path": "books/fr/swift-les-voyages-de-gulliver.fr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ed059954e53401a3df6103ccf201a97a8fd48888a8a01b04f8373c066a907939",
+        "sizeBytes": 359088,
+        "uncompressedSizeBytes": 1057403,
+        "wordCount": 170501
+      },
+      "author": "Jonathan Swift",
+      "authorDeathYear": 1745,
+      "editionId": "swift-les-voyages-de-gulliver.fr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "fr",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1726,
+      "originalTitle": "Les Voyages de Gulliver",
+      "rights": {
+        "statement": "Public domain worldwide. Jonathan Swift died in 1745; the translator Pierre-François Guyot Desfontaines died in 1745 and this translation was first published in 1832. Source: fr.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Les Voyages de Gulliver",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:14:12.661954Z",
+        "revision": "13895033",
+        "url": "https://fr.wikisource.org/wiki/Les_Voyages_de_Gulliver"
+      },
+      "title": "Les Voyages de Gulliver",
+      "translationPublicationYear": 1832,
+      "translator": "Pierre-François Guyot Desfontaines",
+      "translatorDeathYear": 1745,
+      "workId": "swift-les-voyages-de-gulliver"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 27,
+        "contentSha256": "e26fc4c780af5683263d03ffa6096509595b386255773e8d3380a1370f645591",
+        "encoding": "gzip",
+        "path": "books/fr/theuriet-les-enchantements-de-la-foret.fr.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4f043775e25d4cadfc62a16ccbb891d8cf6fadfb5521197ec1367d66e0bec08b",
+        "sizeBytes": 113288,
+        "uncompressedSizeBytes": 309858,
+        "wordCount": 48863
+      },
+      "author": "André Theuriet",
+      "authorDeathYear": 1907,
+      "editionId": "theuriet-les-enchantements-de-la-foret.fr.gutenberg",
+      "editionPublicationYear": 1881,
+      "genres": [
+        "History",
+        "Science",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "fr",
+      "originalLanguage": "fr",
+      "originalPublicationYear": null,
+      "originalTitle": "Les enchantements de la forêt",
+      "rights": {
+        "statement": "Public domain worldwide. André Theuriet died in 1907 and the edition digitised by Project Gutenberg was printed in 1881. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "78027",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:14:17.834137Z",
+        "revision": "Mon, 31 Aug 2026 07:38:29 GMT",
+        "url": "https://www.gutenberg.org/ebooks/78027"
+      },
+      "title": "Les enchantements de la forêt",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "theuriet-les-enchantements-de-la-foret"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 36,
+        "contentSha256": "f6f04dd954bd05c707cf6140e61aa437179c665249916a3faba6b19482121fc0",
+        "encoding": "gzip",
+        "path": "books/fr/twain-les-aventures-de-tom-sawyer.fr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "27d3a5d237de4e1562fed6302a8e8b6b3f9d3fa82261041ac1db5aabe8185dca",
+        "sizeBytes": 136901,
+        "uncompressedSizeBytes": 389402,
+        "wordCount": 61085
+      },
+      "author": "Mark Twain",
+      "authorDeathYear": 1910,
+      "editionId": "twain-les-aventures-de-tom-sawyer.fr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "fr",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1876,
+      "originalTitle": "Les Aventures de Tom Sawyer",
+      "rights": {
+        "statement": "Public domain worldwide. Mark Twain died in 1910; the translator William Little Hughes died in 1887 and this translation was first published in 1884. Source: fr.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:15:57.511625Z",
+        "revision": "13360941",
+        "url": "https://fr.wikisource.org/wiki/Les_Aventures_de_Tom_Sawyer/Traduction_Hughes%2C_1884"
+      },
+      "title": "Les Aventures de Tom Sawyer",
+      "translationPublicationYear": 1884,
+      "translator": "William Little Hughes",
+      "translatorDeathYear": 1887,
+      "workId": "twain-les-aventures-de-tom-sawyer"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 46,
+        "contentSha256": "3e7ab14215e9fc5bab5aab3a4c42521388f9bd4d847ace59554bb22a0d6ec6d7",
+        "encoding": "gzip",
+        "path": "books/fr/verne-voyage-au-centre-de-la-terre.fr.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "441496ff7abff2baafc4c26d8f930270757286004c6093e44409db1feb0bccc3",
+        "sizeBytes": 161787,
+        "uncompressedSizeBytes": 455023,
+        "wordCount": 66950
+      },
+      "author": "Jules Verne",
+      "authorDeathYear": 1905,
+      "editionId": "verne-voyage-au-centre-de-la-terre.fr.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "Science"
+      ],
+      "kind": "original",
+      "language": "fr",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1864,
+      "originalTitle": "Voyage au Centre de la Terre",
+      "rights": {
+        "statement": "Public domain worldwide. Jules Verne died in 1905 and the work was first published in 1864. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "4791",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:16:08.472235Z",
+        "revision": "Wed, 02 Sep 2026 16:04:10 GMT",
+        "url": "https://www.gutenberg.org/ebooks/4791"
+      },
+      "title": "Voyage au Centre de la Terre",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "verne-voyage-au-centre-de-la-terre"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "French",
+  "language": "fr",
+  "manifestVersion": "f2d677d8aa2e7fb0",
+  "nativeName": "Français",
+  "schemaVersion": 1
+}

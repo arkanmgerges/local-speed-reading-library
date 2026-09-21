@@ -1,0 +1,182 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:32.306213Z",
+    "chapterCount": 24,
+    "contentSha256": "8e677f084ffd720f58b6b62e383fc6f27f9ac0e0700a4e490d1f1a9d16ab2dd5",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ru/plato-q752285.ru.wikisource/v1/book.json.gz",
+    "sha256": "54f8263fcc6ed15c30c5ad994442b149cded195774a7dc3d109983517c744613",
+    "sizeBytes": 567907,
+    "uncompressedSizeBytes": 2317169,
+    "wordCount": 183529
+  },
+  "edition": {
+    "editionId": "plato-q752285.ru.wikisource",
+    "kind": "translation",
+    "language": "ru",
+    "title": "Платоновы разговоры о законах (Платон/Оболенский)",
+    "translationPublicationYear": 1827,
+    "translator": {
+      "birthYear": 1790,
+      "deathYear": 1847,
+      "name": "Оболенский, Василий Иванович",
+      "wikidata": "Q15140682"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -348: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1847: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1827: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q752285",
+      "https://www.wikidata.org/wiki/Q56222491",
+      "https://www.wikidata.org/wiki/Q859",
+      "https://www.wikidata.org/wiki/Q15140682",
+      "https://ru.wikisource.org/wiki/%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B_%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8B_%D0%BE_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0%D1%85_(%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%3B_%D0%9E%D0%B1%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Платон died in -348; the translator Оболенский, Василий Иванович died in 1847 and this translation was first published in 1827. Source: ru.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Платоновы разговоры о законах (Платон; Оболенский)",
+    "pages": [
+      {
+        "revision": 3776907,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)"
+      },
+      {
+        "revision": 3779837,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/ДО"
+      },
+      {
+        "revision": 3779820,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/1/ДО"
+      },
+      {
+        "revision": 3741940,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/1"
+      },
+      {
+        "revision": 3779826,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/2/ДО"
+      },
+      {
+        "revision": 3741977,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/2"
+      },
+      {
+        "revision": 3779827,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/3/ДО"
+      },
+      {
+        "revision": 3741986,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/3"
+      },
+      {
+        "revision": 3779828,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/4/ДО"
+      },
+      {
+        "revision": 3741997,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/4"
+      },
+      {
+        "revision": 3779829,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/5/ДО"
+      },
+      {
+        "revision": 3742005,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/5"
+      },
+      {
+        "revision": 3779831,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/6/ДО"
+      },
+      {
+        "revision": 3742013,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/6"
+      },
+      {
+        "revision": 3779832,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/7/ДО"
+      },
+      {
+        "revision": 3742022,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/7"
+      },
+      {
+        "revision": 3779833,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/8/ДО"
+      },
+      {
+        "revision": 3742029,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/8"
+      },
+      {
+        "revision": 3779835,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/9/ДО"
+      },
+      {
+        "revision": 3742037,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/9"
+      },
+      {
+        "revision": 3779822,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/10/ДО"
+      },
+      {
+        "revision": 3741951,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/10"
+      },
+      {
+        "revision": 3779823,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/11/ДО"
+      },
+      {
+        "revision": 3741960,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/11"
+      },
+      {
+        "revision": 3779824,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/12/ДО"
+      },
+      {
+        "revision": 3741968,
+        "title": "Платоновы разговоры о законах (Платон; Оболенский)/12"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:53:44.985931Z",
+    "revision": "3776907",
+    "site": "ru.wikisource.org",
+    "url": "https://ru.wikisource.org/wiki/%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B_%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8B_%D0%BE_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0%D1%85_(%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%3B_%D0%9E%D0%B1%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)"
+  },
+  "work": {
+    "author": {
+      "birthYear": -428,
+      "deathYear": -348,
+      "name": "Платон",
+      "wikidata": "Q859"
+    },
+    "originalLanguage": "grc",
+    "originalTitle": "Платоновы разговоры о законах (Платон/Оболенский)",
+    "workId": "plato-q752285"
+  }
+}

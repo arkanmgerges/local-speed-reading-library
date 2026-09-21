@@ -1,0 +1,109 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:02:40.962128Z",
+    "chapterCount": 9,
+    "contentSha256": "89f8b640a505d567b001b79ea6fe2acd442545dfdd46c95461c02c7ac61ebc82",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/bjornson-synnove-solbakken.no.wikisource/v1/book.json.gz",
+    "sha256": "8e1bfac08bb7c910aa8b80db2555d9532baee09b0b3f3d9cb738f7af4a61be51",
+    "sizeBytes": 66766,
+    "uncompressedSizeBytes": 185353,
+    "wordCount": 32571
+  },
+  "edition": {
+    "editionId": "bjornson-synnove-solbakken.no.wikisource",
+    "kind": "original",
+    "language": "no",
+    "title": "Synnøve Solbakken"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1910: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1857: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q2421868",
+      "https://www.wikidata.org/wiki/Q46405",
+      "https://no.wikisource.org/wiki/Synn%C3%B8ve_Solbakken"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Bjørnstjerne Bjørnson died in 1910 and the work was first published in 1857. Source: no.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Synnøve Solbakken",
+    "pages": [
+      {
+        "revision": 102225,
+        "title": "Synnøve Solbakken"
+      },
+      {
+        "revision": 66614,
+        "title": "Synnøve Solbakken/1"
+      },
+      {
+        "revision": 57332,
+        "title": "Synnøve Solbakken/2"
+      },
+      {
+        "revision": 57334,
+        "title": "Synnøve Solbakken/3"
+      },
+      {
+        "revision": 76349,
+        "title": "Synnøve Solbakken/4"
+      },
+      {
+        "revision": 76350,
+        "title": "Synnøve Solbakken/5"
+      },
+      {
+        "revision": 76359,
+        "title": "Synnøve Solbakken/6"
+      },
+      {
+        "revision": 77589,
+        "title": "Synnøve Solbakken/7"
+      },
+      {
+        "revision": 77661,
+        "title": "Synnøve Solbakken/8"
+      },
+      {
+        "revision": 77671,
+        "title": "Synnøve Solbakken/9"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:13:46.099051Z",
+    "revision": "102225",
+    "site": "no.wikisource.org",
+    "url": "https://no.wikisource.org/wiki/Synn%C3%B8ve_Solbakken"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1832,
+      "deathYear": 1910,
+      "name": "Bjørnstjerne Bjørnson",
+      "wikidata": "Q46405"
+    },
+    "originalLanguage": "no",
+    "originalPublicationYear": 1857,
+    "originalTitle": "Synnøve Solbakken",
+    "workId": "bjornson-synnove-solbakken"
+  }
+}

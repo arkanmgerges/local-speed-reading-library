@@ -1,0 +1,121 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:33:24.483265Z",
+    "chapterCount": 12,
+    "contentSha256": "dd944d14f2d8a26a78b178235032858bd31f23d8b2d30c5fb89666a8bc12eba8",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt-br/pompeia-o-ateneu.pt-br.wikisource/v1/book.json.gz",
+    "sha256": "ebc5f3cbc4176b0abc12b24d796b15463431608a4342f993fb48c4d1db86fa57",
+    "sizeBytes": 164409,
+    "uncompressedSizeBytes": 409057,
+    "wordCount": 60668
+  },
+  "edition": {
+    "editionId": "pompeia-o-ateneu.pt-br.wikisource",
+    "kind": "original",
+    "language": "pt-BR",
+    "title": "O Ateneu"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1895: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1888: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q7073205",
+      "https://www.wikidata.org/wiki/Q3064910",
+      "https://pt.wikisource.org/wiki/O_Ateneu"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Raul Pompeia died in 1895 and the work was first published in 1888. Source: pt.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "O Ateneu",
+    "pages": [
+      {
+        "revision": 550990,
+        "title": "O Ateneu"
+      },
+      {
+        "revision": 456936,
+        "title": "O Ateneu/I"
+      },
+      {
+        "revision": 266363,
+        "title": "O Ateneu/II"
+      },
+      {
+        "revision": 266364,
+        "title": "O Ateneu/III"
+      },
+      {
+        "revision": 457004,
+        "title": "O Ateneu/IV"
+      },
+      {
+        "revision": 457022,
+        "title": "O Ateneu/V"
+      },
+      {
+        "revision": 457023,
+        "title": "O Ateneu/VI"
+      },
+      {
+        "revision": 266368,
+        "title": "O Ateneu/VII"
+      },
+      {
+        "revision": 266369,
+        "title": "O Ateneu/VIII"
+      },
+      {
+        "revision": 266370,
+        "title": "O Ateneu/IX"
+      },
+      {
+        "revision": 266371,
+        "title": "O Ateneu/X"
+      },
+      {
+        "revision": 266372,
+        "title": "O Ateneu/XI"
+      },
+      {
+        "revision": 457002,
+        "title": "O Ateneu/XII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:45:43.956562Z",
+    "revision": "550990",
+    "site": "pt.wikisource.org",
+    "url": "https://pt.wikisource.org/wiki/O_Ateneu"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1863,
+      "deathYear": 1895,
+      "name": "Raul Pompeia",
+      "wikidata": "Q3064910"
+    },
+    "originalLanguage": "pt-BR",
+    "originalPublicationYear": 1888,
+    "originalTitle": "O Ateneu",
+    "workId": "pompeia-o-ateneu"
+  }
+}

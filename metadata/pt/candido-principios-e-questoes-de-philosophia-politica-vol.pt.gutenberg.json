@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:04:34.516779Z",
+    "chapterCount": 7,
+    "contentSha256": "c26cbc87b2e38caf563978af7f3c9a27d1e340c2b84e72be10037723b2bb00e3",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt/candido-principios-e-questoes-de-philosophia-politica-vol.pt.gutenberg/v1/book.json.gz",
+    "sha256": "510a7e6d5604f10627e892778d57e67455fc281bcbf71a08ca08afc691c5184d",
+    "sizeBytes": 94400,
+    "uncompressedSizeBytes": 276153,
+    "wordCount": 41031
+  },
+  "edition": {
+    "editionId": "candido-principios-e-questoes-de-philosophia-politica-vol.pt.gutenberg",
+    "editionPublicationYear": 1878,
+    "kind": "original",
+    "language": "pt",
+    "title": "Principios e questões de philosophia politica (Vol. 1 of 2)"
+  },
+  "genres": [
+    "Philosophy",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1922: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1878 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/71031",
+      "https://pt.wikipedia.org/wiki/Ant%C3%B3nio_C%C3%A2ndido_Ribeiro_da_Costa"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. António Cândido died in 1922 and the edition digitised by Project Gutenberg was printed in 1878. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "71031",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:46:44.258721Z",
+    "revision": "Fri, 28 Aug 2026 11:10:00 GMT",
+    "url": "https://www.gutenberg.org/ebooks/71031"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1850,
+      "deathYear": 1922,
+      "name": "António Cândido",
+      "wikidata": "Q9618967"
+    },
+    "originalLanguage": "pt",
+    "originalTitle": "Principios e questões de philosophia politica (Vol. 1 of 2)",
+    "workId": "candido-principios-e-questoes-de-philosophia-politica-vol"
+  }
+}

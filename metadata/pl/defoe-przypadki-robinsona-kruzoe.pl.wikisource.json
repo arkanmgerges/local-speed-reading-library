@@ -1,0 +1,259 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:13.811255Z",
+    "chapterCount": 88,
+    "contentSha256": "a8f0942a84f20cd374d469857728992cd85268b9849bc56eeacbe4256d8e2b75",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/defoe-przypadki-robinsona-kruzoe.pl.wikisource/v1/book.json.gz",
+    "sha256": "3c3b8613995b2dd34710f47ba3938cd4422294bf74ede195991e2ad9951bfeb3",
+    "sizeBytes": 372817,
+    "uncompressedSizeBytes": 980863,
+    "wordCount": 132982
+  },
+  "edition": {
+    "editionId": "defoe-przypadki-robinsona-kruzoe.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Przypadki Robinsona Kruzoe",
+    "translationPublicationYear": 1868,
+    "translator": {
+      "birthYear": 1823,
+      "deathYear": 1883,
+      "name": "Władysław Ludwik Anczyc",
+      "wikidata": "Q713375"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1731: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1883: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1868: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q483034",
+      "https://www.wikidata.org/wiki/Q78651657",
+      "https://www.wikidata.org/wiki/Q40946",
+      "https://www.wikidata.org/wiki/Q713375",
+      "https://pl.wikisource.org/wiki/Przypadki_Robinsona_Kruzoe"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Daniel Defoe died in 1731; the translator Władysław Ludwik Anczyc died in 1883 and this translation was first published in 1868. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Przypadki Robinsona Kruzoe",
+    "pages": [
+      {
+        "revision": 3909455,
+        "title": "Przypadki Robinsona Kruzoe"
+      },
+      {
+        "revision": 3912504,
+        "title": "Przypadki Robinsona Kruzoe/Przedmowa"
+      },
+      {
+        "revision": 3909456,
+        "title": "Przypadki Robinsona Kruzoe/całość"
+      },
+      {
+        "revision": 3911505,
+        "title": "Przypadki Robinsona Kruzoe/I"
+      },
+      {
+        "revision": 3920133,
+        "title": "Przypadki Robinsona Kruzoe/II"
+      },
+      {
+        "revision": 3911506,
+        "title": "Przypadki Robinsona Kruzoe/IV"
+      },
+      {
+        "revision": 3920326,
+        "title": "Przypadki Robinsona Kruzoe/V"
+      },
+      {
+        "revision": 3910995,
+        "title": "Przypadki Robinsona Kruzoe/VI"
+      },
+      {
+        "revision": 3917586,
+        "title": "Przypadki Robinsona Kruzoe/VII"
+      },
+      {
+        "revision": 3917179,
+        "title": "Przypadki Robinsona Kruzoe/VIII"
+      },
+      {
+        "revision": 3918495,
+        "title": "Przypadki Robinsona Kruzoe/IX"
+      },
+      {
+        "revision": 3910996,
+        "title": "Przypadki Robinsona Kruzoe/X"
+      },
+      {
+        "revision": 3920237,
+        "title": "Przypadki Robinsona Kruzoe/XI"
+      },
+      {
+        "revision": 3911507,
+        "title": "Przypadki Robinsona Kruzoe/XII"
+      },
+      {
+        "revision": 3917180,
+        "title": "Przypadki Robinsona Kruzoe/XIII"
+      },
+      {
+        "revision": 3911508,
+        "title": "Przypadki Robinsona Kruzoe/XIV"
+      },
+      {
+        "revision": 3910998,
+        "title": "Przypadki Robinsona Kruzoe/XV"
+      },
+      {
+        "revision": 3911509,
+        "title": "Przypadki Robinsona Kruzoe/XVI"
+      },
+      {
+        "revision": 3911510,
+        "title": "Przypadki Robinsona Kruzoe/XVII"
+      },
+      {
+        "revision": 3917589,
+        "title": "Przypadki Robinsona Kruzoe/XVIII"
+      },
+      {
+        "revision": 3917181,
+        "title": "Przypadki Robinsona Kruzoe/XIX"
+      },
+      {
+        "revision": 3920238,
+        "title": "Przypadki Robinsona Kruzoe/XX"
+      },
+      {
+        "revision": 3910999,
+        "title": "Przypadki Robinsona Kruzoe/XXI"
+      },
+      {
+        "revision": 3919352,
+        "title": "Przypadki Robinsona Kruzoe/XXII"
+      },
+      {
+        "revision": 3917183,
+        "title": "Przypadki Robinsona Kruzoe/XXIII"
+      },
+      {
+        "revision": 3911511,
+        "title": "Przypadki Robinsona Kruzoe/XXIV"
+      },
+      {
+        "revision": 3918496,
+        "title": "Przypadki Robinsona Kruzoe/XXV"
+      },
+      {
+        "revision": 3918497,
+        "title": "Przypadki Robinsona Kruzoe/XXVI"
+      },
+      {
+        "revision": 3919708,
+        "title": "Przypadki Robinsona Kruzoe/XXVII"
+      },
+      {
+        "revision": 3918498,
+        "title": "Przypadki Robinsona Kruzoe/XXVIII"
+      },
+      {
+        "revision": 3917184,
+        "title": "Przypadki Robinsona Kruzoe/XXIX"
+      },
+      {
+        "revision": 3911000,
+        "title": "Przypadki Robinsona Kruzoe/XXX"
+      },
+      {
+        "revision": 3917185,
+        "title": "Przypadki Robinsona Kruzoe/XXXI"
+      },
+      {
+        "revision": 3918499,
+        "title": "Przypadki Robinsona Kruzoe/XXXII"
+      },
+      {
+        "revision": 3917186,
+        "title": "Przypadki Robinsona Kruzoe/XXXIII"
+      },
+      {
+        "revision": 3911001,
+        "title": "Przypadki Robinsona Kruzoe/XXXIV"
+      },
+      {
+        "revision": 3911513,
+        "title": "Przypadki Robinsona Kruzoe/XXXV"
+      },
+      {
+        "revision": 3911002,
+        "title": "Przypadki Robinsona Kruzoe/XXXVI"
+      },
+      {
+        "revision": 3911003,
+        "title": "Przypadki Robinsona Kruzoe/XXXVII"
+      },
+      {
+        "revision": 3917187,
+        "title": "Przypadki Robinsona Kruzoe/XXXVIII"
+      },
+      {
+        "revision": 3911512,
+        "title": "Przypadki Robinsona Kruzoe/XXXIX"
+      },
+      {
+        "revision": 3917587,
+        "title": "Przypadki Robinsona Kruzoe/XL"
+      },
+      {
+        "revision": 3910997,
+        "title": "Przypadki Robinsona Kruzoe/XLI"
+      },
+      {
+        "revision": 3917182,
+        "title": "Przypadki Robinsona Kruzoe/XLII"
+      },
+      {
+        "revision": 3917588,
+        "title": "Przypadki Robinsona Kruzoe/XLIII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:21:54.608087Z",
+    "revision": "3909455",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Przypadki_Robinsona_Kruzoe"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1660,
+      "deathYear": 1731,
+      "name": "Daniel Defoe",
+      "wikidata": "Q40946"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1719,
+    "originalTitle": "Przypadki Robinsona Kruzoe",
+    "workId": "defoe-przypadki-robinsona-kruzoe"
+  }
+}

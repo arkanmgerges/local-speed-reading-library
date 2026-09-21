@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:33:30.974583Z",
+    "chapterCount": 14,
+    "contentSha256": "5ca9a95a9084fac49aeba705c1ae3dbeb0805c8a3ac5f048edabcf67f307cbdb",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt/castelo-branco-novelas-do-minho.pt.gutenberg/v1/book.json.gz",
+    "sha256": "332882806e44ef474f738690dd60190d3c6af08287763fb401da7eeed2395367",
+    "sizeBytes": 117621,
+    "uncompressedSizeBytes": 297345,
+    "wordCount": 45551
+  },
+  "edition": {
+    "editionId": "castelo-branco-novelas-do-minho.pt.gutenberg",
+    "editionPublicationYear": 1903,
+    "kind": "original",
+    "language": "pt",
+    "title": "Novelas do Minho"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1890: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1903 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/21406",
+      "https://en.wikipedia.org/wiki/Camilo_Castelo_Branco",
+      "https://pt.wikipedia.org/wiki/Camilo_Castelo_Branco"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Camilo Castelo Branco died in 1890 and the edition digitised by Project Gutenberg was printed in 1903. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "21406",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:46:56.244509Z",
+    "revision": "Wed, 09 Sep 2026 09:48:25 GMT",
+    "url": "https://www.gutenberg.org/ebooks/21406"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1825,
+      "deathYear": 1890,
+      "name": "Camilo Castelo Branco",
+      "wikidata": "Q365423"
+    },
+    "originalLanguage": "pt",
+    "originalTitle": "Novelas do Minho",
+    "workId": "castelo-branco-novelas-do-minho"
+  }
+}

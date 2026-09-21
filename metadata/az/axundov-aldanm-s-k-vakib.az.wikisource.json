@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:00.031705Z",
+    "chapterCount": 1,
+    "contentSha256": "1812eb5fb227cc06dd3541e5d710f7679145199418d5b2bb836f0a0b045d94b3",
+    "normalizerVersion": "0.2.0",
+    "path": "books/az/axundov-aldanm-s-k-vakib.az.wikisource/v1/book.json.gz",
+    "sha256": "a15c5d0b34518c73b247219900a7a362ad95845cd801f9a1a84f07ad0ad7e487",
+    "sizeBytes": 20803,
+    "uncompressedSizeBytes": 56670,
+    "wordCount": 6630
+  },
+  "edition": {
+    "editionId": "axundov-aldanm-s-k-vakib.az.wikisource",
+    "kind": "original",
+    "language": "az",
+    "title": "Aldanmış kəvakib"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1878: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1857: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q20556532",
+      "https://www.wikidata.org/wiki/Q315158",
+      "https://az.wikisource.org/wiki/Aldanm%C4%B1%C5%9F_k%C9%99vakib"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Mirzə Fətəli Axundov died in 1878 and the work was first published in 1857. Source: az.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Aldanmış kəvakib",
+    "pages": [
+      {
+        "revision": 42247,
+        "title": "Aldanmış kəvakib"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:55:44.078552Z",
+    "revision": "42247",
+    "site": "az.wikisource.org",
+    "url": "https://az.wikisource.org/wiki/Aldanm%C4%B1%C5%9F_k%C9%99vakib"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1812,
+      "deathYear": 1878,
+      "name": "Mirzə Fətəli Axundov",
+      "wikidata": "Q315158"
+    },
+    "originalLanguage": "az",
+    "originalPublicationYear": 1857,
+    "originalTitle": "Aldanmış kəvakib",
+    "workId": "axundov-aldanm-s-k-vakib"
+  }
+}

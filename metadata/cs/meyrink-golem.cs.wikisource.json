@@ -1,0 +1,163 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:52:00.056764Z",
+    "chapterCount": 21,
+    "contentSha256": "2ef02edfb554f77bc5957c70bad9b04c890709b5f622bdedf286046641a29006",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cs/meyrink-golem.cs.wikisource/v1/book.json.gz",
+    "sha256": "4c7927e9e67921e2c6c2c0707e969e479c7ce5ae3e45d7d667ed443e130f3fbf",
+    "sizeBytes": 184783,
+    "uncompressedSizeBytes": 477698,
+    "wordCount": 66477
+  },
+  "edition": {
+    "editionId": "meyrink-golem.cs.wikisource",
+    "kind": "translation",
+    "language": "cs",
+    "title": "Golem",
+    "translationPublicationYear": 1917,
+    "translator": {
+      "birthYear": 1872,
+      "deathYear": 1928,
+      "name": "Bořivoj Prusík",
+      "wikidata": "Q21996456"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1932: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1928: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1917: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q673861",
+      "https://www.wikidata.org/wiki/Q38228779",
+      "https://www.wikidata.org/wiki/Q78511",
+      "https://www.wikidata.org/wiki/Q21996456",
+      "https://cs.wikisource.org/wiki/Golem_(p%C5%99eklad_Prus%C3%ADk)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Gustav Meyrink died in 1932; the translator Bořivoj Prusík died in 1928 and this translation was first published in 1917. Source: cs.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Golem (překlad Prusík)",
+    "pages": [
+      {
+        "revision": 249483,
+        "title": "Golem (překlad Prusík)"
+      },
+      {
+        "revision": 297199,
+        "title": "Golem (překlad Prusík)/Spánek"
+      },
+      {
+        "revision": 297204,
+        "title": "Golem (překlad Prusík)/Den"
+      },
+      {
+        "revision": 297205,
+        "title": "Golem (překlad Prusík)/I"
+      },
+      {
+        "revision": 297196,
+        "title": "Golem (překlad Prusík)/Praha"
+      },
+      {
+        "revision": 297198,
+        "title": "Golem (překlad Prusík)/Punš"
+      },
+      {
+        "revision": 297208,
+        "title": "Golem (překlad Prusík)/Noc"
+      },
+      {
+        "revision": 297203,
+        "title": "Golem (překlad Prusík)/Bdělý"
+      },
+      {
+        "revision": 297209,
+        "title": "Golem (překlad Prusík)/Sníh"
+      },
+      {
+        "revision": 297210,
+        "title": "Golem (překlad Prusík)/Strašidlo"
+      },
+      {
+        "revision": 297200,
+        "title": "Golem (překlad Prusík)/Světlo"
+      },
+      {
+        "revision": 297202,
+        "title": "Golem (překlad Prusík)/Tíseň"
+      },
+      {
+        "revision": 297212,
+        "title": "Golem (překlad Prusík)/Úzkost"
+      },
+      {
+        "revision": 297197,
+        "title": "Golem (překlad Prusík)/Pud"
+      },
+      {
+        "revision": 297213,
+        "title": "Golem (překlad Prusík)/Žena"
+      },
+      {
+        "revision": 297207,
+        "title": "Golem (překlad Prusík)/Lest"
+      },
+      {
+        "revision": 297193,
+        "title": "Golem (překlad Prusík)/Muka"
+      },
+      {
+        "revision": 297194,
+        "title": "Golem (překlad Prusík)/Máj"
+      },
+      {
+        "revision": 297195,
+        "title": "Golem (překlad Prusík)/Měsíc"
+      },
+      {
+        "revision": 297211,
+        "title": "Golem (překlad Prusík)/Svoboden"
+      },
+      {
+        "revision": 297206,
+        "title": "Golem (překlad Prusík)/Konec"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:10:45.494490Z",
+    "revision": "249483",
+    "site": "cs.wikisource.org",
+    "url": "https://cs.wikisource.org/wiki/Golem_(p%C5%99eklad_Prus%C3%ADk)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1868,
+      "deathYear": 1932,
+      "name": "Gustav Meyrink",
+      "wikidata": "Q78511"
+    },
+    "originalLanguage": "de",
+    "originalPublicationYear": 1915,
+    "originalTitle": "Golem",
+    "workId": "meyrink-golem"
+  }
+}

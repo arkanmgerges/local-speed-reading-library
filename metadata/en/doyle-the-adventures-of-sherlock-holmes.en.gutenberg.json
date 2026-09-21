@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:23:47.380967Z",
+    "chapterCount": 15,
+    "contentSha256": "106ab203a9470b20ae382a6e4cbba0debad09c43ff7e7cd73ca73fc9138eabf2",
+    "normalizerVersion": "0.2.0",
+    "path": "books/en/doyle-the-adventures-of-sherlock-holmes.en.gutenberg/v1/book.json.gz",
+    "sha256": "bc0d32927ae8a124b5a390be1ad2ca6fbbd56f4bfe36514f675b6cebe414119a",
+    "sizeBytes": 214068,
+    "uncompressedSizeBytes": 602121,
+    "wordCount": 104364
+  },
+  "edition": {
+    "editionId": "doyle-the-adventures-of-sherlock-holmes.en.gutenberg",
+    "kind": "original",
+    "language": "en",
+    "title": "The Adventures of Sherlock Holmes"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1892: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/1661",
+      "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle",
+      "https://www.wikidata.org/wiki/Q392147"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Arthur Conan Doyle died in 1930 and the work was first published in 1892. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "1661",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:33:59.288627Z",
+    "revision": "Tue, 01 Sep 2026 14:33:55 GMT",
+    "url": "https://www.gutenberg.org/ebooks/1661"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1859,
+      "deathYear": 1930,
+      "name": "Arthur Conan Doyle",
+      "wikidata": "Q35610"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1892,
+    "originalTitle": "The Adventures of Sherlock Holmes",
+    "workId": "doyle-the-adventures-of-sherlock-holmes"
+  }
+}

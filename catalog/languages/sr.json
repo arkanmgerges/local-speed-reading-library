@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 33,
+        "contentSha256": "ef7fcd8f914831cc0bcfae43ece163d39458261a01997a5bdeadad8239cc90cc",
+        "encoding": "gzip",
+        "path": "books/sr/stankovic-impure-blood.sr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "75a3e51c209d274efb0a24643357e4845b011708b844582a035dce04d60a48ea",
+        "sizeBytes": 176340,
+        "uncompressedSizeBytes": 662401,
+        "wordCount": 68388
+      },
+      "author": "Борисав Станковић",
+      "authorDeathYear": 1927,
+      "editionId": "stankovic-impure-blood.sr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sr",
+      "originalLanguage": "sr",
+      "originalPublicationYear": 1910,
+      "originalTitle": "Нечиста крв",
+      "rights": {
+        "statement": "Public domain worldwide. Борисав Станковић died in 1927 and the work was first published in 1910. Source: sr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Нечиста крв",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:57:46.578964Z",
+        "revision": "58357",
+        "url": "https://sr.wikisource.org/wiki/%D0%9D%D0%B5%D1%87%D0%B8%D1%81%D1%82%D0%B0_%D0%BA%D1%80%D0%B2"
+      },
+      "title": "Нечиста крв",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "stankovic-impure-blood"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Serbian",
+  "language": "sr",
+  "manifestVersion": "e24f5684424d7c28",
+  "nativeName": "Српски",
+  "schemaVersion": 1
+}

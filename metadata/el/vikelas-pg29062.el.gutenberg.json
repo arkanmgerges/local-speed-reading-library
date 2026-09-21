@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:23:37.494608Z",
+    "chapterCount": 13,
+    "contentSha256": "aa4e298dc276c558aa6307d42cdb0497af03a72dd062ac93e2451bde35846969",
+    "normalizerVersion": "0.2.0",
+    "path": "books/el/vikelas-pg29062.el.gutenberg/v1/book.json.gz",
+    "sha256": "7f7a85f0e8cc091f360b929f19a99225e94f95510e842940e9b939a0f223d0b0",
+    "sizeBytes": 106806,
+    "uncompressedSizeBytes": 397017,
+    "wordCount": 34204
+  },
+  "edition": {
+    "editionId": "vikelas-pg29062.el.gutenberg",
+    "kind": "original",
+    "language": "el",
+    "title": "Λουκής Λάρας"
+  },
+  "genres": [
+    "Fiction",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1908: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1879: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/29062",
+      "https://en.wikipedia.org/wiki/Demetrius_Vikelas",
+      "https://www.wikidata.org/wiki/Q12880283"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Demetrios Vikelas died in 1908 and the work was first published in 1879. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "29062",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:30:43.483458Z",
+    "revision": "Sat, 12 Sep 2026 09:25:57 GMT",
+    "url": "https://www.gutenberg.org/ebooks/29062"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1908,
+      "name": "Demetrios Vikelas"
+    },
+    "originalLanguage": "el",
+    "originalPublicationYear": 1879,
+    "originalTitle": "Λουκής Λάρας",
+    "workId": "vikelas-pg29062"
+  }
+}

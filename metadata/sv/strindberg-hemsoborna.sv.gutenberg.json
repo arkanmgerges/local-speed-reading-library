@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:07:32.242495Z",
+    "chapterCount": 9,
+    "contentSha256": "dfad00ff1713e2fcf03bb2387a6808ffcee966070a168ed499f6b12473eb475c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/strindberg-hemsoborna.sv.gutenberg/v1/book.json.gz",
+    "sha256": "11748b6b631d5420d3245980e4464742d19038c1c308bf9d6705058c514c3012",
+    "sizeBytes": 104011,
+    "uncompressedSizeBytes": 276028,
+    "wordCount": 43802
+  },
+  "edition": {
+    "editionId": "strindberg-hemsoborna.sv.gutenberg",
+    "kind": "original",
+    "language": "sv",
+    "title": "Hemsöborna"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1912: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1887: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/30078",
+      "https://en.wikipedia.org/wiki/August_Strindberg",
+      "https://sv.wikipedia.org/wiki/August_Strindberg",
+      "https://www.wikidata.org/wiki/Q3287333"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. August Strindberg died in 1912 and the work was first published in 1887. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "30078",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T05:07:36.388696Z",
+    "revision": "Sat, 12 Sep 2026 18:34:45 GMT",
+    "url": "https://www.gutenberg.org/ebooks/30078"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1849,
+      "deathYear": 1912,
+      "name": "August Strindberg",
+      "wikidata": "Q7724"
+    },
+    "originalLanguage": "sv",
+    "originalPublicationYear": 1887,
+    "originalTitle": "Hemsöborna",
+    "workId": "strindberg-hemsoborna"
+  }
+}

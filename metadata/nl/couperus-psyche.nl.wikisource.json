@@ -1,0 +1,181 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:01:56.187490Z",
+    "chapterCount": 27,
+    "contentSha256": "2f34b3bdd1239ed9f9d2ba48a4571fc9c13178e295c716696cb132f2a9f1a865",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/couperus-psyche.nl.wikisource/v1/book.json.gz",
+    "sha256": "25ce30efbb5883a99c94b59d3f589e2db74a26490061e214387210e27239284b",
+    "sizeBytes": 69488,
+    "uncompressedSizeBytes": 206208,
+    "wordCount": 32803
+  },
+  "edition": {
+    "editionId": "couperus-psyche.nl.wikisource",
+    "kind": "original",
+    "language": "nl",
+    "title": "Psyche"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1923: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1898: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q14194757",
+      "https://www.wikidata.org/wiki/Q437798",
+      "https://nl.wikisource.org/wiki/Psyche"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Louis Couperus died in 1923 and the work was first published in 1898. Source: nl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Psyche",
+    "pages": [
+      {
+        "revision": 173182,
+        "title": "Psyche"
+      },
+      {
+        "revision": 173183,
+        "title": "Psyche/I"
+      },
+      {
+        "revision": 173184,
+        "title": "Psyche/II"
+      },
+      {
+        "revision": 173185,
+        "title": "Psyche/III"
+      },
+      {
+        "revision": 173186,
+        "title": "Psyche/IV"
+      },
+      {
+        "revision": 173187,
+        "title": "Psyche/V"
+      },
+      {
+        "revision": 173211,
+        "title": "Psyche/VI"
+      },
+      {
+        "revision": 173212,
+        "title": "Psyche/VII"
+      },
+      {
+        "revision": 173226,
+        "title": "Psyche/VIII"
+      },
+      {
+        "revision": 173228,
+        "title": "Psyche/IX"
+      },
+      {
+        "revision": 173242,
+        "title": "Psyche/X"
+      },
+      {
+        "revision": 173252,
+        "title": "Psyche/XI"
+      },
+      {
+        "revision": 173263,
+        "title": "Psyche/XII"
+      },
+      {
+        "revision": 173268,
+        "title": "Psyche/XIII"
+      },
+      {
+        "revision": 173293,
+        "title": "Psyche/XIV"
+      },
+      {
+        "revision": 173294,
+        "title": "Psyche/XV"
+      },
+      {
+        "revision": 173295,
+        "title": "Psyche/XVI"
+      },
+      {
+        "revision": 173317,
+        "title": "Psyche/XVII"
+      },
+      {
+        "revision": 173318,
+        "title": "Psyche/XVIII"
+      },
+      {
+        "revision": 173319,
+        "title": "Psyche/XIX"
+      },
+      {
+        "revision": 173320,
+        "title": "Psyche/XX"
+      },
+      {
+        "revision": 173342,
+        "title": "Psyche/XXI"
+      },
+      {
+        "revision": 173343,
+        "title": "Psyche/XXII"
+      },
+      {
+        "revision": 173388,
+        "title": "Psyche/XXIII"
+      },
+      {
+        "revision": 173415,
+        "title": "Psyche/XXIV"
+      },
+      {
+        "revision": 173416,
+        "title": "Psyche/XXV"
+      },
+      {
+        "revision": 173417,
+        "title": "Psyche/XXVI"
+      },
+      {
+        "revision": 178021,
+        "title": "Psyche/XXVII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:07:45.560186Z",
+    "revision": "173182",
+    "site": "nl.wikisource.org",
+    "url": "https://nl.wikisource.org/wiki/Psyche"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1863,
+      "deathYear": 1923,
+      "name": "Louis Couperus",
+      "wikidata": "Q437798"
+    },
+    "originalLanguage": "nl",
+    "originalPublicationYear": 1898,
+    "originalTitle": "Psyche",
+    "workId": "couperus-psyche"
+  }
+}

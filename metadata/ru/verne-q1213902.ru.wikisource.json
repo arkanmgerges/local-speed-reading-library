@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:48.550083Z",
+    "chapterCount": 3,
+    "contentSha256": "4053d8c5d23a7c8d620b45f8c86fb0846f6238c7d8dc8abf521dff79157da1ad",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ru/verne-q1213902.ru.wikisource/v1/book.json.gz",
+    "sha256": "d921147253f85e07f249d80d4c46cfee407c45db9c17ebaef0c474363e788ba8",
+    "sizeBytes": 541589,
+    "uncompressedSizeBytes": 2041040,
+    "wordCount": 166064
+  },
+  "edition": {
+    "editionId": "verne-q1213902.ru.wikisource",
+    "kind": "translation",
+    "language": "ru",
+    "title": "Дети капитана Гранта",
+    "translationPublicationYear": 1867,
+    "translator": {
+      "birthYear": 1860,
+      "deathYear": 1923,
+      "name": "Александра Андреевна Кублицкая-Пиоттух",
+      "wikidata": "Q15632478"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1905: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1923: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1867: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1213902",
+      "https://www.wikidata.org/wiki/Q124760194",
+      "https://www.wikidata.org/wiki/Q33977",
+      "https://www.wikidata.org/wiki/Q15632478",
+      "https://ru.wikisource.org/wiki/%D0%94%D0%B5%D1%82%D0%B8_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B0_%D0%93%D1%80%D0%B0%D0%BD%D1%82%D0%B0_(%D0%92%D0%B5%D1%80%D0%BD%3B_%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%B0)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Жюль Верн died in 1905; the translator Александра Андреевна Кублицкая-Пиоттух died in 1923 and this translation was first published in 1867. Source: ru.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Дети капитана Гранта (Верн; Бекетова)",
+    "pages": [
+      {
+        "revision": 5304880,
+        "title": "Дети капитана Гранта (Верн; Бекетова)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:55:09.260073Z",
+    "revision": "5304880",
+    "site": "ru.wikisource.org",
+    "url": "https://ru.wikisource.org/wiki/%D0%94%D0%B5%D1%82%D0%B8_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B0_%D0%93%D1%80%D0%B0%D0%BD%D1%82%D0%B0_(%D0%92%D0%B5%D1%80%D0%BD%3B_%D0%91%D0%B5%D0%BA%D0%B5%D1%82%D0%BE%D0%B2%D0%B0)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1828,
+      "deathYear": 1905,
+      "name": "Жюль Верн",
+      "wikidata": "Q33977"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1868,
+    "originalTitle": "Дети капитана Гранта",
+    "workId": "verne-q1213902"
+  }
+}

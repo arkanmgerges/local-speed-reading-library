@@ -1,0 +1,161 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:01:07.632626Z",
+    "chapterCount": 22,
+    "contentSha256": "a68d4d07254d9ada26bb8c4b80cb1f0a3bcccc98e6289a494e980f72cab4792b",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ml/menon-indulekha.ml.wikisource/v1/book.json.gz",
+    "sha256": "944c997bd889fbb42ea309472732fed06c80f5f9fe91f7f4923c0c107faae212",
+    "sizeBytes": 228373,
+    "uncompressedSizeBytes": 1491801,
+    "wordCount": 54418
+  },
+  "edition": {
+    "editionId": "menon-indulekha.ml.wikisource",
+    "kind": "original",
+    "language": "ml",
+    "title": "ഇന്ദുലേഖ"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1899: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1889: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q3595070",
+      "https://www.wikidata.org/wiki/Q7116396",
+      "https://ml.wikisource.org/wiki/%E0%B4%87%E0%B4%A8%E0%B5%8D%E0%B4%A6%E0%B5%81%E0%B4%B2%E0%B5%87%E0%B4%96"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ഒ. ചന്തുമേനോൻ died in 1899 and the work was first published in 1889. Source: ml.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "ഇന്ദുലേഖ",
+    "pages": [
+      {
+        "revision": 134417,
+        "title": "ഇന്ദുലേഖ"
+      },
+      {
+        "revision": 51770,
+        "title": "ഇന്ദുലേഖ/ഒന്നാം അച്ചടിപ്പിന്റെ അവതാരിക"
+      },
+      {
+        "revision": 51772,
+        "title": "ഇന്ദുലേഖ/രണ്ടാം അച്ചടിപ്പിന്റെ അവതാരിക"
+      },
+      {
+        "revision": 52019,
+        "title": "ഇന്ദുലേഖ/പ്രാരംഭം"
+      },
+      {
+        "revision": 52020,
+        "title": "ഇന്ദുലേഖ/ഇന്ദുലേഖ"
+      },
+      {
+        "revision": 237139,
+        "title": "ഇന്ദുലേഖ/ഒരു കോപിഷ്ഠന്റെ ശപഥം"
+      },
+      {
+        "revision": 53764,
+        "title": "ഇന്ദുലേഖ/ഒരു വിയോഗം"
+      },
+      {
+        "revision": 134360,
+        "title": "ഇന്ദുലേഖ/പഞ്ചുമേനോന്റെ ക്രോധം"
+      },
+      {
+        "revision": 60469,
+        "title": "ഇന്ദുലേഖ/പഞ്ചുമേനവന്റെ കുണ്ഠിതം"
+      },
+      {
+        "revision": 60470,
+        "title": "ഇന്ദുലേഖ/കണ്ണഴി മൂർക്കില്ലാത്തമനയ്ക്കൽ സൂരിനമ്പൂതിരിപ്പാടു്"
+      },
+      {
+        "revision": 53768,
+        "title": "ഇന്ദുലേഖ/മദിരാശിയിൽനിന്നു് ഒരു ആഗമനം"
+      },
+      {
+        "revision": 53769,
+        "title": "ഇന്ദുലേഖ/നമ്പൂതിരിപ്പാട്ടിലെ ആഗമനവും മറ്റും"
+      },
+      {
+        "revision": 135362,
+        "title": "ഇന്ദുലേഖ/മദിരാശിയിൽനിന്നു് ഒരു കത്തു്"
+      },
+      {
+        "revision": 53771,
+        "title": "ഇന്ദുലേഖ/നമ്പൂരിപ്പാട്ടിലെപറ്റി ജനങ്ങൾ സംസാരിച്ചതു്"
+      },
+      {
+        "revision": 60475,
+        "title": "ഇന്ദുലേഖ/നമ്പൂതിരിപ്പാടും ഇന്ദുലേഖയുമായി ഒന്നാമതു് ഉണ്ടായ സംഭാഷണം"
+      },
+      {
+        "revision": 60481,
+        "title": "ഇന്ദുലേഖ/നമ്പൂതിരിപ്പാട്ടും ഇന്ദുലേഖയുമായുണ്ടായ രണ്ടാമത്തെ സംഭാഷണം"
+      },
+      {
+        "revision": 60482,
+        "title": "ഇന്ദുലേഖ/നമ്പൂതിരിപ്പാട്ടിലെ പരിണയം"
+      },
+      {
+        "revision": 60483,
+        "title": "ഇന്ദുലേഖ/ഒരു ആപത്തു്"
+      },
+      {
+        "revision": 52014,
+        "title": "ഇന്ദുലേഖ/മാധവന്റെ രാജ്യസഞ്ചാരം"
+      },
+      {
+        "revision": 52013,
+        "title": "ഇന്ദുലേഖ/മാധവനെ കണ്ടെത്തിയതു്"
+      },
+      {
+        "revision": 52012,
+        "title": "ഇന്ദുലേഖ/ഒരു സംഭാഷണം"
+      },
+      {
+        "revision": 51783,
+        "title": "ഇന്ദുലേഖ/മാധവന്റെ സഞ്ചാരകാലത്തു് വീട്ടിൽ നടന്ന വാസ്തവങ്ങൾ"
+      },
+      {
+        "revision": 143352,
+        "title": "ഇന്ദുലേഖ/കഥയുടെ സമാപ്തി"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:00:05.077978Z",
+    "revision": "134417",
+    "site": "ml.wikisource.org",
+    "url": "https://ml.wikisource.org/wiki/%E0%B4%87%E0%B4%A8%E0%B5%8D%E0%B4%A6%E0%B5%81%E0%B4%B2%E0%B5%87%E0%B4%96"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1847,
+      "deathYear": 1899,
+      "name": "ഒ. ചന്തുമേനോൻ",
+      "wikidata": "Q7116396"
+    },
+    "originalLanguage": "ml",
+    "originalPublicationYear": 1889,
+    "originalTitle": "ഇന്ദുലേഖ",
+    "workId": "menon-indulekha"
+  }
+}

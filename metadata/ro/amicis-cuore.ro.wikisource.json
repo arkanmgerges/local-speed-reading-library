@@ -1,0 +1,135 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:01.180923Z",
+    "chapterCount": 14,
+    "contentSha256": "d6a0b8f88902cd14f8f3e365367a0aadaab8a30be35d024c7891057d3c7f7aed",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/amicis-cuore.ro.wikisource/v1/book.json.gz",
+    "sha256": "6befa12c75bb38b045b0b5529ed57c14711ad8b1c66e2f2847e048072b95d8fa",
+    "sizeBytes": 191986,
+    "uncompressedSizeBytes": 516296,
+    "wordCount": 82359
+  },
+  "edition": {
+    "editionId": "amicis-cuore.ro.wikisource",
+    "kind": "translation",
+    "language": "ro",
+    "title": "Cuore - Inimă de copil",
+    "translationPublicationYear": 1893,
+    "translator": {
+      "birthYear": 1836,
+      "deathYear": 1903,
+      "name": "Clelia Bruzzesi",
+      "wikidata": "Q59768623"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1908: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1903: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1893: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q11336",
+      "https://www.wikidata.org/wiki/Q59768542",
+      "https://www.wikidata.org/wiki/Q240576",
+      "https://www.wikidata.org/wiki/Q59768623",
+      "https://ro.wikisource.org/wiki/Cuore_-_Inim%C4%83_de_copil"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Edmondo De Amicis died in 1908; the translator Clelia Bruzzesi died in 1903 and this translation was first published in 1893. Source: ro.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Cuore - Inimă de copil",
+    "pages": [
+      {
+        "revision": 129158,
+        "title": "Cuore - Inimă de copil"
+      },
+      {
+        "revision": 65937,
+        "title": "Cuore - Inimă de copil/Nota traducătoarei"
+      },
+      {
+        "revision": 65928,
+        "title": "Cuore - Inimă de copil/Cuvânt înainte"
+      },
+      {
+        "revision": 65939,
+        "title": "Cuore - Inimă de copil/Prefața autorului"
+      },
+      {
+        "revision": 150875,
+        "title": "Cuore - Inimă de copil/Octombrie"
+      },
+      {
+        "revision": 65936,
+        "title": "Cuore - Inimă de copil/Noiembrie"
+      },
+      {
+        "revision": 65929,
+        "title": "Cuore - Inimă de copil/Decembrie"
+      },
+      {
+        "revision": 65931,
+        "title": "Cuore - Inimă de copil/Ianuarie"
+      },
+      {
+        "revision": 65930,
+        "title": "Cuore - Inimă de copil/Februarie"
+      },
+      {
+        "revision": 107740,
+        "title": "Cuore - Inimă de copil/Martie"
+      },
+      {
+        "revision": 65927,
+        "title": "Cuore - Inimă de copil/Aprilie"
+      },
+      {
+        "revision": 65934,
+        "title": "Cuore - Inimă de copil/Mai"
+      },
+      {
+        "revision": 65933,
+        "title": "Cuore - Inimă de copil/Iunie"
+      },
+      {
+        "revision": 65932,
+        "title": "Cuore - Inimă de copil/Iulie"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:50:51.985778Z",
+    "revision": "129158",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/Cuore_-_Inim%C4%83_de_copil"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1846,
+      "deathYear": 1908,
+      "name": "Edmondo De Amicis",
+      "wikidata": "Q240576"
+    },
+    "originalLanguage": "it",
+    "originalPublicationYear": 1886,
+    "originalTitle": "Cuore",
+    "workId": "amicis-cuore"
+  }
+}

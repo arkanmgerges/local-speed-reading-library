@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:16.599244Z",
+    "chapterCount": 38,
+    "contentSha256": "ef8514b44025583f054c87ec134136c6fc77bee118e418cb5e34e501e5fc5578",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/unamuno-niebla-nivola.es.gutenberg/v1/book.json.gz",
+    "sha256": "5cfa4b468b908c68fcc84491780ab12a4e799481aabe934aeeb7205e34514e21",
+    "sizeBytes": 125168,
+    "uncompressedSizeBytes": 358886,
+    "wordCount": 56779
+  },
+  "edition": {
+    "editionId": "unamuno-niebla-nivola.es.gutenberg",
+    "kind": "original",
+    "language": "es",
+    "title": "Niebla (Nivola)"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1936: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1914: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/49836",
+      "https://en.wikipedia.org/wiki/Miguel_de_Unamuno",
+      "https://www.wikidata.org/wiki/Q2604439"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Miguel de Unamuno died in 1936 and the work was first published in 1914. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "49836",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:48:51.216803Z",
+    "revision": "Sun, 20 Sep 2026 09:17:07 GMT",
+    "url": "https://www.gutenberg.org/ebooks/49836"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1864,
+      "deathYear": 1936,
+      "name": "Miguel de Unamuno",
+      "wikidata": "Q185085"
+    },
+    "originalLanguage": "es",
+    "originalPublicationYear": 1914,
+    "originalTitle": "Niebla (Nivola)",
+    "workId": "unamuno-niebla-nivola"
+  }
+}

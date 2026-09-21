@@ -1,0 +1,111 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:15.324309Z",
+    "chapterCount": 12,
+    "contentSha256": "820f24ca5bb20a88d9855d573ce4b8f9c1f5b4c9a4854f51e50071c2e507ce26",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/dickens-a-christmas-carol.pl.wikisource/v1/book.json.gz",
+    "sha256": "b6c57cabb0d5ffc814eec4a01eb9b4782a7e3f1973702bab340f79e16828cee4",
+    "sizeBytes": 96526,
+    "uncompressedSizeBytes": 262056,
+    "wordCount": 36222
+  },
+  "edition": {
+    "editionId": "dickens-a-christmas-carol.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Wigilja Bożego Narodzenia",
+    "translationPublicationYear": 1909,
+    "translator": {
+      "birthYear": 1855,
+      "deathYear": 1925,
+      "name": "Cecylia Niewiadomska",
+      "wikidata": "Q3593982"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1870: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1925: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1909: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q62879",
+      "https://www.wikidata.org/wiki/Q62709847",
+      "https://www.wikidata.org/wiki/Q5686",
+      "https://www.wikidata.org/wiki/Q3593982",
+      "https://pl.wikisource.org/wiki/Wigilja_Bo%C5%BCego_Narodzenia_(Dickens%2C_1909)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Cecylia Niewiadomska died in 1925 and this translation was first published in 1909. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Wigilja Bożego Narodzenia (Dickens, 1909)",
+    "pages": [
+      {
+        "revision": 3294977,
+        "title": "Wigilja Bożego Narodzenia (Dickens, 1909)"
+      },
+      {
+        "revision": 3915719,
+        "title": "Wigilja Bożego Narodzenia (Dickens, 1909)/1. W kantorze"
+      },
+      {
+        "revision": 3913794,
+        "title": "Wigilja Bożego Narodzenia (Dickens, 1909)/całość"
+      },
+      {
+        "revision": 3915720,
+        "title": "Wigilja Bożego Narodzenia (Dickens, 1909)/2. W domu"
+      },
+      {
+        "revision": 3915721,
+        "title": "Wigilja Bożego Narodzenia (Dickens, 1909)/3. Pierwszy z trzech duchów"
+      },
+      {
+        "revision": 3915722,
+        "title": "Wigilja Bożego Narodzenia (Dickens, 1909)/4. Drugi z trzech duchów"
+      },
+      {
+        "revision": 3920612,
+        "title": "Wigilja Bożego Narodzenia (Dickens, 1909)/5. Duch ostatni"
+      },
+      {
+        "revision": 3915723,
+        "title": "Wigilja Bożego Narodzenia (Dickens, 1909)/6. Przebudzenie"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:22:08.600731Z",
+    "revision": "3294977",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Wigilja_Bo%C5%BCego_Narodzenia_(Dickens%2C_1909)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1812,
+      "deathYear": 1870,
+      "name": "Charles Dickens",
+      "wikidata": "Q5686"
+    },
+    "originalLanguage": "en-gb",
+    "originalPublicationYear": 1843,
+    "originalTitle": "A Christmas Carol",
+    "workId": "dickens-a-christmas-carol"
+  }
+}

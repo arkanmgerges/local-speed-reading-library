@@ -1,0 +1,231 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:02:47.599480Z",
+    "chapterCount": 75,
+    "contentSha256": "e096e76324d3fdd45635600bbfd6696c5a3dbce8fba1cf78a606e46a04260ebb",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/france-min-vens-bok.no.wikisource/v1/book.json.gz",
+    "sha256": "d73b6e73c799a35468e2e7182c4e2a06ef3f9debe381da07a7ed1515bbdaa34e",
+    "sizeBytes": 113739,
+    "uncompressedSizeBytes": 305026,
+    "wordCount": 49498
+  },
+  "edition": {
+    "editionId": "france-min-vens-bok.no.wikisource",
+    "kind": "translation",
+    "language": "no",
+    "title": "Min vens bok",
+    "translationPublicationYear": 1922,
+    "translator": {
+      "birthYear": 1891,
+      "deathYear": 1945,
+      "name": "Peter Hjalmar Rokseth",
+      "wikidata": "Q15304713"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1924: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1945: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1922: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q3224010",
+      "https://www.wikidata.org/wiki/Q132817809",
+      "https://www.wikidata.org/wiki/Q42443",
+      "https://www.wikidata.org/wiki/Q15304713",
+      "https://no.wikisource.org/wiki/Min_vens_bok"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Anatole France died in 1924; the translator Peter Hjalmar Rokseth died in 1945 and this translation was first published in 1922. Source: no.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Min vens bok",
+    "pages": [
+      {
+        "revision": 319979,
+        "title": "Min vens bok"
+      },
+      {
+        "revision": 230621,
+        "title": "Min vens bok/PIERRE'S BOK"
+      },
+      {
+        "revision": 230541,
+        "title": "Min vens bok/Tilegnelse"
+      },
+      {
+        "revision": 230976,
+        "title": "Min vens bok/FØRSTE LANDEVINDINGER"
+      },
+      {
+        "revision": 230543,
+        "title": "Min vens bok/Spøkelserne"
+      },
+      {
+        "revision": 230554,
+        "title": "Min vens bok/Damen i hvitt"
+      },
+      {
+        "revision": 230980,
+        "title": "Min vens bok/Jeg gir dig denne rose"
+      },
+      {
+        "revision": 230893,
+        "title": "Min vens bok/Kong Edvards barn"
+      },
+      {
+        "revision": 230946,
+        "title": "Min vens bok/Drueklasen"
+      },
+      {
+        "revision": 230948,
+        "title": "Min vens bok/Marcelle med guldøinene"
+      },
+      {
+        "revision": 230949,
+        "title": "Min vens bok/Note skrevet ved daggry"
+      },
+      {
+        "revision": 230978,
+        "title": "Min vens bok/NY KJÆRLIGHET"
+      },
+      {
+        "revision": 230952,
+        "title": "Min vens bok/Eremitboligen i Dyrehaven"
+      },
+      {
+        "revision": 230954,
+        "title": "Min vens bok/Gamle Le Beau"
+      },
+      {
+        "revision": 230957,
+        "title": "Min vens bok/Bestemor Nozière"
+      },
+      {
+        "revision": 230958,
+        "title": "Min vens bok/Tanden"
+      },
+      {
+        "revision": 230960,
+        "title": "Min vens bok/Poesiens aabenbaring"
+      },
+      {
+        "revision": 230962,
+        "title": "Min vens bok/Teutobochus"
+      },
+      {
+        "revision": 230963,
+        "title": "Min vens bok/Abbed Jubal's autoritet"
+      },
+      {
+        "revision": 230965,
+        "title": "Min vens bok/Fontanet's lue"
+      },
+      {
+        "revision": 230968,
+        "title": "Min vens bok/Decius Mus' siste ord"
+      },
+      {
+        "revision": 230970,
+        "title": "Min vens bok/Humaniora"
+      },
+      {
+        "revision": 230973,
+        "title": "Min vens bok/Myrteskogen"
+      },
+      {
+        "revision": 230974,
+        "title": "Min vens bok/Skyggen"
+      },
+      {
+        "revision": 230838,
+        "title": "Min vens bok/SUSANNAS BOK"
+      },
+      {
+        "revision": 230842,
+        "title": "Min vens bok/Til læseren"
+      },
+      {
+        "revision": 230999,
+        "title": "Min vens bok/SUSANNA"
+      },
+      {
+        "revision": 231000,
+        "title": "Min vens bok/Hanen"
+      },
+      {
+        "revision": 231004,
+        "title": "Min vens bok/Dunkle sjæle"
+      },
+      {
+        "revision": 231031,
+        "title": "Min vens bok/Stjernen"
+      },
+      {
+        "revision": 231059,
+        "title": "Min vens bok/Marionetteatret"
+      },
+      {
+        "revision": 231076,
+        "title": "Min vens bok/SUSANNAS VENNER"
+      },
+      {
+        "revision": 231077,
+        "title": "Min vens bok/André"
+      },
+      {
+        "revision": 231092,
+        "title": "Min vens bok/Pierre"
+      },
+      {
+        "revision": 231093,
+        "title": "Min vens bok/Jessy"
+      },
+      {
+        "revision": 231103,
+        "title": "Min vens bok/SUSANNAS BIBLIOTEK"
+      },
+      {
+        "revision": 231104,
+        "title": "Min vens bok/Til Fru D***"
+      },
+      {
+        "revision": 231106,
+        "title": "Min vens bok/Dialog om eventyrene"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:16:03.207168Z",
+    "revision": "319979",
+    "site": "no.wikisource.org",
+    "url": "https://no.wikisource.org/wiki/Min_vens_bok"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1844,
+      "deathYear": 1924,
+      "name": "Anatole France",
+      "wikidata": "Q42443"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1885,
+    "originalTitle": "Min vens bok",
+    "workId": "france-min-vens-bok"
+  }
+}

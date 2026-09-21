@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:07:26.066001Z",
+    "chapterCount": 30,
+    "contentSha256": "61a9783fc21e108fa2a0d5eb0dfe46f21ec4fb9868b18817ccbd3e39819cf1d2",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/lagerlof-bannlyst.sv.gutenberg/v1/book.json.gz",
+    "sha256": "8a7443ed00ba710584463321d315c5fdd0a7c72e47aca5647e11a312a37ea60a",
+    "sizeBytes": 157300,
+    "uncompressedSizeBytes": 466599,
+    "wordCount": 76143
+  },
+  "edition": {
+    "editionId": "lagerlof-bannlyst.sv.gutenberg",
+    "kind": "original",
+    "language": "sv",
+    "title": "Bannlyst"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1940: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1918: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/39147",
+      "https://en.wikipedia.org/wiki/Selma_Lagerlöf",
+      "https://www.wikidata.org/wiki/Q1171354"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Selma Lagerlöf died in 1940 and the work was first published in 1918. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "39147",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T05:07:14.980701Z",
+    "revision": "Wed, 16 Sep 2026 08:08:38 GMT",
+    "url": "https://www.gutenberg.org/ebooks/39147"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1858,
+      "deathYear": 1940,
+      "name": "Selma Lagerlöf",
+      "wikidata": "Q44519"
+    },
+    "originalLanguage": "sv",
+    "originalPublicationYear": 1918,
+    "originalTitle": "Bannlyst",
+    "workId": "lagerlof-bannlyst"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:00:19.027933Z",
+    "chapterCount": 111,
+    "contentSha256": "6b5f7853260191ab7d6ca3aa0d555676453078c4aea4ebcd97c7ecff8f16ffc2",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ja/soseki-kokoro.ja.wikisource/v1/book.json.gz",
+    "sha256": "ae9acd4d66fb7e5f4197aa7c362616f283d91deab568b7d69c81118b446e5147",
+    "sizeBytes": 172161,
+    "uncompressedSizeBytes": 570469,
+    "wordCount": 1229
+  },
+  "edition": {
+    "editionId": "soseki-kokoro.ja.wikisource",
+    "kind": "original",
+    "language": "ja",
+    "title": "こころ"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1916: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1914: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q2623003",
+      "https://www.wikidata.org/wiki/Q180903",
+      "https://ja.wikisource.org/wiki/%E3%81%93%E3%81%93%E3%82%8D"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 夏目漱石 died in 1916 and the work was first published in 1914. Source: ja.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "こころ",
+    "pages": [
+      {
+        "revision": 144000,
+        "title": "こころ"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:50:50.812716Z",
+    "revision": "144000",
+    "site": "ja.wikisource.org",
+    "url": "https://ja.wikisource.org/wiki/%E3%81%93%E3%81%93%E3%82%8D"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1867,
+      "deathYear": 1916,
+      "name": "夏目漱石",
+      "wikidata": "Q180903"
+    },
+    "originalLanguage": "ja",
+    "originalPublicationYear": 1914,
+    "originalTitle": "こころ",
+    "workId": "soseki-kokoro"
+  }
+}

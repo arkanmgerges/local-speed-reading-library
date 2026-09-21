@@ -1,0 +1,870 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 19,
+        "contentSha256": "819a9e4bcac6fc5566ec9c2cbb746a4f630431b9a36239e2b9716020b750725e",
+        "encoding": "gzip",
+        "path": "books/no/andersen-i-cancelliraadens-dage.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "cbfe48a717ec072f64ccd917f62b4a47ffa894677c2a97eb5dce85deb33867a0",
+        "sizeBytes": 144927,
+        "uncompressedSizeBytes": 382450,
+        "wordCount": 61508
+      },
+      "author": "Tryggve Andersen",
+      "authorDeathYear": 1920,
+      "editionId": "andersen-i-cancelliraadens-dage.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "no",
+      "originalLanguage": "no",
+      "originalPublicationYear": 1897,
+      "originalTitle": "I cancelliraadens dage",
+      "rights": {
+        "statement": "Public domain worldwide. Tryggve Andersen died in 1920 and the work was first published in 1897. Source: no.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "I cancelliraadens dage",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:12:05.482201Z",
+        "revision": "18554",
+        "url": "https://no.wikisource.org/wiki/I_cancelliraadens_dage"
+      },
+      "title": "I cancelliraadens dage",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "andersen-i-cancelliraadens-dage"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 9,
+        "contentSha256": "89f8b640a505d567b001b79ea6fe2acd442545dfdd46c95461c02c7ac61ebc82",
+        "encoding": "gzip",
+        "path": "books/no/bjornson-synnove-solbakken.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8e1bfac08bb7c910aa8b80db2555d9532baee09b0b3f3d9cb738f7af4a61be51",
+        "sizeBytes": 66766,
+        "uncompressedSizeBytes": 185353,
+        "wordCount": 32571
+      },
+      "author": "Bjørnstjerne Bjørnson",
+      "authorDeathYear": 1910,
+      "editionId": "bjornson-synnove-solbakken.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "no",
+      "originalLanguage": "no",
+      "originalPublicationYear": 1857,
+      "originalTitle": "Synnøve Solbakken",
+      "rights": {
+        "statement": "Public domain worldwide. Bjørnstjerne Bjørnson died in 1910 and the work was first published in 1857. Source: no.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Synnøve Solbakken",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:13:46.099051Z",
+        "revision": "102225",
+        "url": "https://no.wikisource.org/wiki/Synn%C3%B8ve_Solbakken"
+      },
+      "title": "Synnøve Solbakken",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bjornson-synnove-solbakken"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "97a12deca68698f9aac1a2ca51eb2030ca227ce0ca31db037e59343f1000d871",
+        "encoding": "gzip",
+        "path": "books/no/conrad-taifun.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5aa519713cb050115a2f3eddf953b81d5dddbe13120094f11a5f6d30b034b3a6",
+        "sizeBytes": 62605,
+        "uncompressedSizeBytes": 167194,
+        "wordCount": 27739
+      },
+      "author": "Joseph Conrad",
+      "authorDeathYear": 1924,
+      "editionId": "conrad-taifun.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "no",
+      "originalLanguage": "en-gb",
+      "originalPublicationYear": 1902,
+      "originalTitle": "Taifun",
+      "rights": {
+        "statement": "Public domain worldwide. Joseph Conrad died in 1924; the translator Nordahl Grieg died in 1943 and this translation was first published in 1930. Source: no.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Taifun",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:13:56.547006Z",
+        "revision": "319946",
+        "url": "https://no.wikisource.org/wiki/Taifun"
+      },
+      "title": "Taifun",
+      "translationPublicationYear": 1930,
+      "translator": "Nordahl Grieg",
+      "translatorDeathYear": 1943,
+      "workId": "conrad-taifun"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "bf62d953505d3cba27fa515920628bc5e4b38a0abcd9820829ca4cf128fa0480",
+        "encoding": "gzip",
+        "path": "books/no/constant-adolphe.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "358bb5ac8ae8a00de03f66f61200babc854ecc046db14d85d681c6cbf7619c2e",
+        "sizeBytes": 70811,
+        "uncompressedSizeBytes": 200186,
+        "wordCount": 32775
+      },
+      "author": "Benjamin Constant",
+      "authorDeathYear": 1830,
+      "editionId": "constant-adolphe.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "no",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1816,
+      "originalTitle": "Adolphe",
+      "rights": {
+        "statement": "Public domain worldwide. Benjamin Constant died in 1830; the translator Hjalmar Christensen died in 1925 and this translation was first published in 1894. Source: no.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Adolphe",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:14:19.166658Z",
+        "revision": "319950",
+        "url": "https://no.wikisource.org/wiki/Adolphe"
+      },
+      "title": "Adolphe",
+      "translationPublicationYear": 1894,
+      "translator": "Hjalmar Christensen",
+      "translatorDeathYear": 1925,
+      "workId": "constant-adolphe"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 22,
+        "contentSha256": "c2a23857cccf8dbbbd16532bd41b5cd9716ccac688da4f1a0a33df30e1b7a1fe",
+        "encoding": "gzip",
+        "path": "books/no/doyle-den-forsvundne-verden.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d7f2bfe9417c5f23684597b3e0359837b5e4e9cdf9fd9af7615fc0e2e5744d44",
+        "sizeBytes": 153817,
+        "uncompressedSizeBytes": 424128,
+        "wordCount": 70223
+      },
+      "author": "Arthur Conan Doyle",
+      "authorDeathYear": 1930,
+      "editionId": "doyle-den-forsvundne-verden.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "no",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1912,
+      "originalTitle": "Den forsvundne verden",
+      "rights": {
+        "statement": "Public domain worldwide. Arthur Conan Doyle died in 1930; the translator Elisabeth Brochmann died in 1915 and this translation was first published in 1913. Source: no.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Den forsvundne verden",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:14:42.829846Z",
+        "revision": "329878",
+        "url": "https://no.wikisource.org/wiki/Den_forsvundne_verden"
+      },
+      "title": "Den forsvundne verden",
+      "translationPublicationYear": 1913,
+      "translator": "Elisabeth Brochmann",
+      "translatorDeathYear": 1915,
+      "workId": "doyle-den-forsvundne-verden"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "e9349e64924afc0965bcf75debc4e6e7d8c9c800edfba1b53e88364b7ffc5ea6",
+        "encoding": "gzip",
+        "path": "books/no/doyle-hunden-fra-baskerville.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c0c8e45600af18d5cc752b4a791f590d5d0425dae97bb2bd41d842e9fd610943",
+        "sizeBytes": 122444,
+        "uncompressedSizeBytes": 355173,
+        "wordCount": 57441
+      },
+      "author": "Arthur Conan Doyle",
+      "authorDeathYear": 1930,
+      "editionId": "doyle-hunden-fra-baskerville.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "no",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1902,
+      "originalTitle": "Hunden fra Baskerville : en ny fortælling om Sherlock Holmes",
+      "rights": {
+        "statement": "Public domain worldwide. Arthur Conan Doyle died in 1930; the translator Elisabeth Brochmann died in 1915 and this translation was first published in 1911. Source: no.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Hunden fra Baskerville",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:15:08.012179Z",
+        "revision": "319955",
+        "url": "https://no.wikisource.org/wiki/Hunden_fra_Baskerville"
+      },
+      "title": "Hunden fra Baskerville",
+      "translationPublicationYear": 1911,
+      "translator": "Elisabeth Brochmann",
+      "translatorDeathYear": 1915,
+      "workId": "doyle-hunden-fra-baskerville"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "eb059b6a46e3135c089f42d9bff7d75fc7fc81a3bb152b42e496bf332971cae4",
+        "encoding": "gzip",
+        "path": "books/no/engels-det-kommunistiske-manifest.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8b8a07c274277182f57a56789e66bbc83492aae16554f8d461e5b35c0c688318",
+        "sizeBytes": 34900,
+        "uncompressedSizeBytes": 101035,
+        "wordCount": 13988
+      },
+      "author": "Friedrich Engels",
+      "authorDeathYear": 1895,
+      "editionId": "engels-det-kommunistiske-manifest.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "no",
+      "originalLanguage": "de",
+      "originalPublicationYear": 1848,
+      "originalTitle": "Det kommunistiske manifest",
+      "rights": {
+        "statement": "Public domain worldwide. Friedrich Engels died in 1895; the translator Valborg Sønstevold died in 1941 and this translation was first published in 1919. Source: no.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Det kommunistiske manifest (1919)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:15:10.576326Z",
+        "revision": "283573",
+        "url": "https://no.wikisource.org/wiki/Det_kommunistiske_manifest_(1919)"
+      },
+      "title": "Det kommunistiske manifest",
+      "translationPublicationYear": 1919,
+      "translator": "Valborg Sønstevold",
+      "translatorDeathYear": 1941,
+      "workId": "engels-det-kommunistiske-manifest"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 75,
+        "contentSha256": "e096e76324d3fdd45635600bbfd6696c5a3dbce8fba1cf78a606e46a04260ebb",
+        "encoding": "gzip",
+        "path": "books/no/france-min-vens-bok.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d73b6e73c799a35468e2e7182c4e2a06ef3f9debe381da07a7ed1515bbdaa34e",
+        "sizeBytes": 113739,
+        "uncompressedSizeBytes": 305026,
+        "wordCount": 49498
+      },
+      "author": "Anatole France",
+      "authorDeathYear": 1924,
+      "editionId": "france-min-vens-bok.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "no",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1885,
+      "originalTitle": "Min vens bok",
+      "rights": {
+        "statement": "Public domain worldwide. Anatole France died in 1924; the translator Peter Hjalmar Rokseth died in 1945 and this translation was first published in 1922. Source: no.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Min vens bok",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:16:03.207168Z",
+        "revision": "319979",
+        "url": "https://no.wikisource.org/wiki/Min_vens_bok"
+      },
+      "title": "Min vens bok",
+      "translationPublicationYear": 1922,
+      "translator": "Peter Hjalmar Rokseth",
+      "translatorDeathYear": 1945,
+      "workId": "france-min-vens-bok"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "ff87225740c9fc0fc17abf111a96cd36f119c9706020701ff5575a367d80638e",
+        "encoding": "gzip",
+        "path": "books/no/france-thais.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b36ab6bb372287239e967ec4a37c85a7e2c910610d7546a4600f51a439b4dfac",
+        "sizeBytes": 99332,
+        "uncompressedSizeBytes": 267304,
+        "wordCount": 44701
+      },
+      "author": "Anatole France",
+      "authorDeathYear": 1924,
+      "editionId": "france-thais.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "no",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1890,
+      "originalTitle": "Thaïs",
+      "rights": {
+        "statement": "Public domain worldwide. Anatole France died in 1924; the translator Peter Hjalmar Rokseth died in 1945 and this translation was first published in 1915. Source: no.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Thaïs",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:16:09.924799Z",
+        "revision": "319986",
+        "url": "https://no.wikisource.org/wiki/Tha%C3%AFs"
+      },
+      "title": "Thaïs",
+      "translationPublicationYear": 1915,
+      "translator": "Peter Hjalmar Rokseth",
+      "translatorDeathYear": 1945,
+      "workId": "france-thais"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "69ef2d55f33405ae75420c7a841e3de0fa2f855a746fd346e799d6fe99b58656",
+        "encoding": "gzip",
+        "path": "books/no/hamsun-markens-grode-anden-del.no.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "206a06682839a8be00fd40a7a40049f88a580b009dba21a34201239ec4e7a84a",
+        "sizeBytes": 112903,
+        "uncompressedSizeBytes": 308861,
+        "wordCount": 55376
+      },
+      "author": "Knut Hamsun",
+      "authorDeathYear": 1952,
+      "editionId": "hamsun-markens-grode-anden-del.no.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "no",
+      "originalLanguage": "no",
+      "originalPublicationYear": 1917,
+      "originalTitle": "Markens grøde, Anden del",
+      "rights": {
+        "statement": "Public domain worldwide. Knut Hamsun died in 1952 and the work was first published in 1917. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "43725",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:16:14.542234Z",
+        "revision": "Thu, 17 Sep 2026 17:59:09 GMT",
+        "url": "https://www.gutenberg.org/ebooks/43725"
+      },
+      "title": "Markens grøde, Anden del",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "hamsun-markens-grode-anden-del"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 22,
+        "contentSha256": "65ca46fabd01b0d94f968f945d4da3db55b935cb76a2ccc0f9af22b3a8ae9377",
+        "encoding": "gzip",
+        "path": "books/no/hamsun-markens-grode-forste-del.no.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "eefba7e74d98bf894c1632035cf94265016172485d9df5410661d8f21b7c2b1d",
+        "sizeBytes": 134757,
+        "uncompressedSizeBytes": 368495,
+        "wordCount": 66790
+      },
+      "author": "Knut Hamsun",
+      "authorDeathYear": 1952,
+      "editionId": "hamsun-markens-grode-forste-del.no.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "no",
+      "originalLanguage": "no",
+      "originalPublicationYear": 1917,
+      "originalTitle": "Markens grøde, Første del",
+      "rights": {
+        "statement": "Public domain worldwide. Knut Hamsun died in 1952 and the work was first published in 1917. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "43724",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:16:17.682334Z",
+        "revision": "Thu, 17 Sep 2026 17:58:56 GMT",
+        "url": "https://www.gutenberg.org/ebooks/43724"
+      },
+      "title": "Markens grøde, Første del",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "hamsun-markens-grode-forste-del"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 31,
+        "contentSha256": "6988468229e18936099a82c33a0cd95546274aeb1bb982a68f8903249eb85b6a",
+        "encoding": "gzip",
+        "path": "books/no/hamsun-markens-grode.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9d1679a4e0dc76ebfb840391ae7381b800354245f14d0d3908e69da0a9ca98b3",
+        "sizeBytes": 244822,
+        "uncompressedSizeBytes": 676016,
+        "wordCount": 121700
+      },
+      "author": "Knut Hamsun",
+      "authorDeathYear": 1952,
+      "editionId": "hamsun-markens-grode.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "no",
+      "originalLanguage": "no",
+      "originalPublicationYear": 1917,
+      "originalTitle": "Markens Grøde",
+      "rights": {
+        "statement": "Public domain worldwide. Knut Hamsun died in 1952 and the work was first published in 1917. Source: no.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Markens Grøde",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:17:06.822720Z",
+        "revision": "330717",
+        "url": "https://no.wikisource.org/wiki/Markens_Gr%C3%B8de"
+      },
+      "title": "Markens Grøde",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "hamsun-markens-grode"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "0cfc0f13aa28eae7f0b60a4a797bfcda670badd4dcb8150438aae2140d44370e",
+        "encoding": "gzip",
+        "path": "books/no/hamsun-sult.no.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d6eaf2b1723e5e02ccc16ef29bbbbf17f40dcc26415490a11515c42e7387c376",
+        "sizeBytes": 128229,
+        "uncompressedSizeBytes": 354059,
+        "wordCount": 61303
+      },
+      "author": "Knut Hamsun",
+      "authorDeathYear": 1952,
+      "editionId": "hamsun-sult.no.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "no",
+      "originalLanguage": "no",
+      "originalPublicationYear": 1890,
+      "originalTitle": "Sult",
+      "rights": {
+        "statement": "Public domain worldwide. Knut Hamsun died in 1952 and the work was first published in 1890. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "30027",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:17:10.975841Z",
+        "revision": "Sat, 12 Sep 2026 18:23:57 GMT",
+        "url": "https://www.gutenberg.org/ebooks/30027"
+      },
+      "title": "Sult",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "hamsun-sult"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 9,
+        "contentSha256": "88732dc5ccb47e1710fbedfd6a19c4cb4d6891f7f1e3428d89596e169c1b1ad2",
+        "encoding": "gzip",
+        "path": "books/no/kielland-else.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "63c3abbb2c026f6795c2ea8a2eabf9930c3b329134d93e26483bc7041c07da84",
+        "sizeBytes": 49618,
+        "uncompressedSizeBytes": 135011,
+        "wordCount": 22037
+      },
+      "author": "Alexander Kielland",
+      "authorDeathYear": 1906,
+      "editionId": "kielland-else.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "no",
+      "originalLanguage": "no",
+      "originalPublicationYear": 1881,
+      "originalTitle": "Else",
+      "rights": {
+        "statement": "Public domain worldwide. Alexander Kielland died in 1906 and the work was first published in 1881. Source: no.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Else",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:17:25.127289Z",
+        "revision": "319892",
+        "url": "https://no.wikisource.org/wiki/Else"
+      },
+      "title": "Else",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kielland-else"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "ebfc6fb50f404226160b68ac00a21e08b6a0035e607a4113865dcd07c972fbcf",
+        "encoding": "gzip",
+        "path": "books/no/kielland-fortuna.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2ffe31b7a1c52e667437f409d90183a7f7818e83326cc8cd70ff1b1806f22e81",
+        "sizeBytes": 114268,
+        "uncompressedSizeBytes": 317548,
+        "wordCount": 50584
+      },
+      "author": "Alexander Kielland",
+      "authorDeathYear": 1906,
+      "editionId": "kielland-fortuna.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "no",
+      "originalLanguage": "no",
+      "originalPublicationYear": 1884,
+      "originalTitle": "Fortuna",
+      "rights": {
+        "statement": "Public domain worldwide. Alexander Kielland died in 1906 and the work was first published in 1884. Source: no.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Fortuna",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:17:47.248833Z",
+        "revision": "65578",
+        "url": "https://no.wikisource.org/wiki/Fortuna"
+      },
+      "title": "Fortuna",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kielland-fortuna"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 26,
+        "contentSha256": "dad1c1366715a19f008831bcad401af51ffb2c2e6c413668b38c3551624c7a0d",
+        "encoding": "gzip",
+        "path": "books/no/kielland-garman-og-worse.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "baca3d744423775b3d8f0917b4ed190c6938c2332bace20e5cec3479ed626137",
+        "sizeBytes": 150228,
+        "uncompressedSizeBytes": 414112,
+        "wordCount": 66900
+      },
+      "author": "Alexander Kielland",
+      "authorDeathYear": 1906,
+      "editionId": "kielland-garman-og-worse.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "no",
+      "originalLanguage": "no",
+      "originalPublicationYear": 1880,
+      "originalTitle": "Garman og Worse",
+      "rights": {
+        "statement": "Public domain worldwide. Alexander Kielland died in 1906 and the work was first published in 1880. Source: no.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Garman og Worse",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:18:27.630417Z",
+        "revision": "319889",
+        "url": "https://no.wikisource.org/wiki/Garman_og_Worse"
+      },
+      "title": "Garman og Worse",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kielland-garman-og-worse"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "bde5d59382e7763625cdb646569a36646901bfc25d59a1f0d73e656bdb06dbca",
+        "encoding": "gzip",
+        "path": "books/no/kielland-skipper-worse.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "299ac651d649c5a4b2e9456a1e0e56c9dddcc8086d50d1b2b5d91a68b6db23b9",
+        "sizeBytes": 119993,
+        "uncompressedSizeBytes": 323975,
+        "wordCount": 53100
+      },
+      "author": "Alexander Kielland",
+      "authorDeathYear": 1906,
+      "editionId": "kielland-skipper-worse.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "no",
+      "originalLanguage": "no",
+      "originalPublicationYear": 1882,
+      "originalTitle": "Skipper Worse",
+      "rights": {
+        "statement": "Public domain worldwide. Alexander Kielland died in 1906 and the work was first published in 1882. Source: no.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Skipper Worse",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:18:51.357045Z",
+        "revision": "67577",
+        "url": "https://no.wikisource.org/wiki/Skipper_Worse"
+      },
+      "title": "Skipper Worse",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kielland-skipper-worse"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 11,
+        "contentSha256": "5ecefe4bc6f6fe46de210aa97ca721a9541cc44da7da5e2f101a722222e34e4c",
+        "encoding": "gzip",
+        "path": "books/no/kielland-sne.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "bc5c69b98d27e636a60938f1199813adbb72f5faa3bc475df23650246b17315b",
+        "sizeBytes": 80828,
+        "uncompressedSizeBytes": 221819,
+        "wordCount": 36957
+      },
+      "author": "Alexander Kielland",
+      "authorDeathYear": 1906,
+      "editionId": "kielland-sne.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "no",
+      "originalLanguage": "no",
+      "originalPublicationYear": 1886,
+      "originalTitle": "Sne",
+      "rights": {
+        "statement": "Public domain worldwide. Alexander Kielland died in 1906 and the work was first published in 1886. Source: no.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Sne",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:19:07.923022Z",
+        "revision": "76940",
+        "url": "https://no.wikisource.org/wiki/Sne"
+      },
+      "title": "Sne",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kielland-sne"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 18,
+        "contentSha256": "b4bb0213dbd7d993d3ece92cb683e88720ad14ce1dfc892a96ef11be4e83a8b6",
+        "encoding": "gzip",
+        "path": "books/no/nansen-eskimoliv.no.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "75c5f3fd869c19930732d2974a65f7eb35159bdc909b75dd7eb14dec7fa9a84d",
+        "sizeBytes": 161656,
+        "uncompressedSizeBytes": 440945,
+        "wordCount": 72699
+      },
+      "author": "Fridtjof Nansen",
+      "authorDeathYear": 1930,
+      "editionId": "nansen-eskimoliv.no.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "no",
+      "originalLanguage": "no",
+      "originalPublicationYear": 1891,
+      "originalTitle": "Eskimoliv",
+      "rights": {
+        "statement": "Public domain worldwide. Fridtjof Nansen died in 1930 and the work was first published in 1891. Source: no.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Eskimoliv",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:19:38.203044Z",
+        "revision": "74116",
+        "url": "https://no.wikisource.org/wiki/Eskimoliv"
+      },
+      "title": "Eskimoliv",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "nansen-eskimoliv"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 35,
+        "contentSha256": "92f5b3eb4e0b5dbf93c46ce20836d2a236075127c6ceb7032b1590c5d8d4cde1",
+        "encoding": "gzip",
+        "path": "books/no/undset-jenny.no.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2591c2eabb76648ed84bd1e93483d6b006c34e8ee50e17b5646290d0de23be5c",
+        "sizeBytes": 209318,
+        "uncompressedSizeBytes": 590232,
+        "wordCount": 102231
+      },
+      "author": "Sigrid Undset",
+      "authorDeathYear": 1949,
+      "editionId": "undset-jenny.no.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "no",
+      "originalLanguage": "no",
+      "originalPublicationYear": 1911,
+      "originalTitle": "Jenny: Roman",
+      "rights": {
+        "statement": "Public domain worldwide. Sigrid Undset died in 1949 and the work was first published in 1911. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "32245",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:19:42.227441Z",
+        "revision": "Sun, 13 Sep 2026 13:59:24 GMT",
+        "url": "https://www.gutenberg.org/ebooks/32245"
+      },
+      "title": "Jenny: Roman",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "undset-jenny"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Norwegian",
+  "language": "no",
+  "manifestVersion": "c651905e42683f56",
+  "nativeName": "Norsk",
+  "schemaVersion": 1
+}

@@ -1,0 +1,242 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:54:39.983422Z",
+    "chapterCount": 48,
+    "contentSha256": "8f76b54ac8df88620495f9ff22fd1008e9751cf940cde47a984980f80b2fded3",
+    "normalizerVersion": "0.2.0",
+    "path": "books/en/sturluson-the-younger-edda.en.wikisource/v1/book.json.gz",
+    "sha256": "e023f3f038d23a7c105255223dd4618c909dd25520a838255c4d115e86f25047",
+    "sizeBytes": 107448,
+    "uncompressedSizeBytes": 299686,
+    "wordCount": 51968
+  },
+  "edition": {
+    "editionId": "sturluson-the-younger-edda.en.wikisource",
+    "kind": "translation",
+    "language": "en",
+    "title": "The Younger Edda",
+    "translationPublicationYear": 1880,
+    "translator": {
+      "birthYear": 1846,
+      "deathYear": 1936,
+      "name": "Rasmus Bjørn Anderson",
+      "wikidata": "Q3436547"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1241: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1936: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1880: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q205882",
+      "https://www.wikidata.org/wiki/Q22690910",
+      "https://www.wikidata.org/wiki/Q102323",
+      "https://www.wikidata.org/wiki/Q3436547",
+      "https://en.wikisource.org/wiki/The_Younger_Edda_(tr._Anderson)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Snorri Sturluson died in 1241; the translator Rasmus Bjørn Anderson died in 1936 and this translation was first published in 1880. Source: en.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "The Younger Edda (tr. Anderson)",
+    "pages": [
+      {
+        "revision": 14123641,
+        "title": "The Younger Edda (tr. Anderson)"
+      },
+      {
+        "revision": 14148354,
+        "title": "The Younger Edda (tr. Anderson)/Preface"
+      },
+      {
+        "revision": 14148657,
+        "title": "The Younger Edda (tr. Anderson)/Introduction"
+      },
+      {
+        "revision": 14148659,
+        "title": "The Younger Edda (tr. Anderson)/Foreword"
+      },
+      {
+        "revision": 14148669,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe"
+      },
+      {
+        "revision": 14154644,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 1"
+      },
+      {
+        "revision": 14148672,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 2"
+      },
+      {
+        "revision": 14148675,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 3"
+      },
+      {
+        "revision": 14148677,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 4"
+      },
+      {
+        "revision": 14148679,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 5"
+      },
+      {
+        "revision": 14148680,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 6"
+      },
+      {
+        "revision": 14148681,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 7"
+      },
+      {
+        "revision": 14148682,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 8"
+      },
+      {
+        "revision": 14148683,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 9"
+      },
+      {
+        "revision": 14148685,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 10"
+      },
+      {
+        "revision": 14148688,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 11"
+      },
+      {
+        "revision": 14148689,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 12"
+      },
+      {
+        "revision": 14148692,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 13"
+      },
+      {
+        "revision": 14148696,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 14"
+      },
+      {
+        "revision": 14148698,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 15"
+      },
+      {
+        "revision": 14148702,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 16"
+      },
+      {
+        "revision": 14148704,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Chapter 17"
+      },
+      {
+        "revision": 14148707,
+        "title": "The Younger Edda (tr. Anderson)/The Fooling of Gylfe/Afterword"
+      },
+      {
+        "revision": 14147974,
+        "title": "The Younger Edda (tr. Anderson)/Brage's Talk"
+      },
+      {
+        "revision": 14154649,
+        "title": "The Younger Edda (tr. Anderson)/Brage's Talk/Chapter 1"
+      },
+      {
+        "revision": 14154272,
+        "title": "The Younger Edda (tr. Anderson)/Brage's Talk/Chapter 2"
+      },
+      {
+        "revision": 14154267,
+        "title": "The Younger Edda (tr. Anderson)/Brage's Talk/Chapter 3"
+      },
+      {
+        "revision": 14154259,
+        "title": "The Younger Edda (tr. Anderson)/Brage's Talk/Chapter 4"
+      },
+      {
+        "revision": 14154287,
+        "title": "The Younger Edda (tr. Anderson)/Brage's Talk/Afterword"
+      },
+      {
+        "revision": 14154332,
+        "title": "The Younger Edda (tr. Anderson)/Extracts from the Poetical Diction"
+      },
+      {
+        "revision": 14154639,
+        "title": "The Younger Edda (tr. Anderson)/Extracts from the Poetical Diction/Thor and Hrungner"
+      },
+      {
+        "revision": 14154687,
+        "title": "The Younger Edda (tr. Anderson)/Extracts from the Poetical Diction/Thor's Journey to Geirrod's"
+      },
+      {
+        "revision": 14154703,
+        "title": "The Younger Edda (tr. Anderson)/Extracts from the Poetical Diction/Idun"
+      },
+      {
+        "revision": 14154709,
+        "title": "The Younger Edda (tr. Anderson)/Extracts from the Poetical Diction/Æger's Feast"
+      },
+      {
+        "revision": 14154710,
+        "title": "The Younger Edda (tr. Anderson)/Extracts from the Poetical Diction/Loke's Wager with the Dwarfs"
+      },
+      {
+        "revision": 14154711,
+        "title": "The Younger Edda (tr. Anderson)/Extracts from the Poetical Diction/The Niflungs and Gjukungs"
+      },
+      {
+        "revision": 14154731,
+        "title": "The Younger Edda (tr. Anderson)/Extracts from the Poetical Diction/Menja and Fenja"
+      },
+      {
+        "revision": 14154903,
+        "title": "The Younger Edda (tr. Anderson)/Extracts from the Poetical Diction/The Grottesong"
+      },
+      {
+        "revision": 14154907,
+        "title": "The Younger Edda (tr. Anderson)/Extracts from the Poetical Diction/Rolf Krake"
+      },
+      {
+        "revision": 14154911,
+        "title": "The Younger Edda (tr. Anderson)/Extracts from the Poetical Diction/Hogne and Hild"
+      },
+      {
+        "revision": 14156836,
+        "title": "The Younger Edda (tr. Anderson)/Notes"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:38:14.403197Z",
+    "revision": "14123641",
+    "site": "en.wikisource.org",
+    "url": "https://en.wikisource.org/wiki/The_Younger_Edda_(tr._Anderson)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1179,
+      "deathYear": 1241,
+      "name": "Snorri Sturluson",
+      "wikidata": "Q102323"
+    },
+    "originalLanguage": "non",
+    "originalTitle": "The Younger Edda",
+    "workId": "sturluson-the-younger-edda"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:27:36.075635Z",
+    "chapterCount": 17,
+    "contentSha256": "041736fd3dc1a81fb24ba80768860c1f99f202edbb06b30b230cbddcd845af72",
+    "normalizerVersion": "0.2.0",
+    "path": "books/gu/mehta-karan-ghelo.gu.wikisource/v1/book.json.gz",
+    "sha256": "31c8c5ca5623a5d88ba97538a29186ceeeeb58297eb13e3dea8693014e9a03e7",
+    "sizeBytes": 292331,
+    "uncompressedSizeBytes": 1466935,
+    "wordCount": 103028
+  },
+  "edition": {
+    "editionId": "mehta-karan-ghelo.gu.wikisource",
+    "kind": "original",
+    "language": "gu",
+    "title": "કરણ ઘેલો"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1905: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1926: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q136386656",
+      "https://www.wikidata.org/wiki/Q23006215",
+      "https://gu.wikisource.org/wiki/%E0%AA%95%E0%AA%B0%E0%AA%A3_%E0%AA%98%E0%AB%87%E0%AA%B2%E0%AB%8B"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. નંદશંકર મહેતા died in 1905 and the work was first published in 1926. Source: gu.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "કરણ ઘેલો",
+    "pages": [
+      {
+        "revision": 164923,
+        "title": "કરણ ઘેલો"
+      },
+      {
+        "revision": 119610,
+        "title": "કરણ ઘેલો/પ્રકરણ-૧"
+      },
+      {
+        "revision": 119611,
+        "title": "કરણ ઘેલો/પ્રકરણ-૨"
+      },
+      {
+        "revision": 119612,
+        "title": "કરણ ઘેલો/પ્રકરણ-૩"
+      },
+      {
+        "revision": 119613,
+        "title": "કરણ ઘેલો/પ્રકરણ-૪"
+      },
+      {
+        "revision": 119614,
+        "title": "કરણ ઘેલો/પ્રકરણ-૫"
+      },
+      {
+        "revision": 119615,
+        "title": "કરણ ઘેલો/પ્રકરણ-૬"
+      },
+      {
+        "revision": 119616,
+        "title": "કરણ ઘેલો/પ્રકરણ-૭"
+      },
+      {
+        "revision": 119617,
+        "title": "કરણ ઘેલો/પ્રકરણ-૮"
+      },
+      {
+        "revision": 119619,
+        "title": "કરણ ઘેલો/પ્રકરણ-૯"
+      },
+      {
+        "revision": 119620,
+        "title": "કરણ ઘેલો/પ્રકરણ-૧૦"
+      },
+      {
+        "revision": 119621,
+        "title": "કરણ ઘેલો/પ્રકરણ-૧૧"
+      },
+      {
+        "revision": 119622,
+        "title": "કરણ ઘેલો/પ્રકરણ-૧૨"
+      },
+      {
+        "revision": 119623,
+        "title": "કરણ ઘેલો/પ્રકરણ-૧૩"
+      },
+      {
+        "revision": 119624,
+        "title": "કરણ ઘેલો/પ્રકરણ-૧૪"
+      },
+      {
+        "revision": 119625,
+        "title": "કરણ ઘેલો/પ્રકરણ-૧૫"
+      },
+      {
+        "revision": 119626,
+        "title": "કરણ ઘેલો/પ્રકરણ-૧૬"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:26:12.606027Z",
+    "revision": "164923",
+    "site": "gu.wikisource.org",
+    "url": "https://gu.wikisource.org/wiki/%E0%AA%95%E0%AA%B0%E0%AA%A3_%E0%AA%98%E0%AB%87%E0%AA%B2%E0%AB%8B"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1905,
+      "name": "નંદશંકર મહેતા",
+      "wikidata": "Q23006215"
+    },
+    "originalLanguage": "gu",
+    "originalPublicationYear": 1926,
+    "originalTitle": "કરણ ઘેલો",
+    "workId": "mehta-karan-ghelo"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:37:30.302738Z",
+    "chapterCount": 1,
+    "contentSha256": "ed11150551e1e1aa1ab8c700c50ee0746976a3ce5e3db265eec040d9494c19d7",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/pu-pg51828.zh-hant.gutenberg/v1/book.json.gz",
+    "sha256": "43df6ef970947244236441b0898696b6ce51988f93174b230bd102327d5acc87",
+    "sizeBytes": 726239,
+    "uncompressedSizeBytes": 1463243,
+    "wordCount": 2299
+  },
+  "edition": {
+    "editionId": "pu-pg51828.zh-hant.gutenberg",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "聊齋志異"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1715: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1740: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/51828",
+      "https://en.wikipedia.org/wiki/Pu_Songling",
+      "https://www.wikidata.org/wiki/Q83755"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Songling Pu died in 1715 and the work was first published in 1740. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "51828",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T05:45:41.355118Z",
+    "revision": "Sun, 20 Sep 2026 18:38:56 GMT",
+    "url": "https://www.gutenberg.org/ebooks/51828"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1640,
+      "deathYear": 1715,
+      "name": "Songling Pu",
+      "wikidata": "Q318406"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": 1740,
+    "originalTitle": "聊齋志異",
+    "workId": "pu-pg51828"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:05.296887Z",
+    "chapterCount": 52,
+    "contentSha256": "3c615d55270c5a842330eea42462790f08701a0793a8c6bfe7d5a7af6f45de30",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/fogazzaro-il-mistero-del-poeta.it.gutenberg/v1/book.json.gz",
+    "sha256": "9443b56f7720450f868945bd51dcdcde7fe2f325f27175c75ab3223d8471df1c",
+    "sizeBytes": 142317,
+    "uncompressedSizeBytes": 384096,
+    "wordCount": 59899
+  },
+  "edition": {
+    "editionId": "fogazzaro-il-mistero-del-poeta.it.gutenberg",
+    "kind": "original",
+    "language": "it",
+    "title": "Il mistero del poeta"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1911: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1888: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/22504",
+      "https://en.wikipedia.org/wiki/Antonio_Fogazzaro",
+      "https://www.wikidata.org/wiki/Q16963587"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Antonio Fogazzaro died in 1911 and the work was first published in 1888. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "22504",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:45:28.313536Z",
+    "revision": "Wed, 09 Sep 2026 14:13:31 GMT",
+    "url": "https://www.gutenberg.org/ebooks/22504"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1842,
+      "deathYear": 1911,
+      "name": "Antonio Fogazzaro",
+      "wikidata": "Q470067"
+    },
+    "originalLanguage": "it",
+    "originalPublicationYear": 1888,
+    "originalTitle": "Il mistero del poeta",
+    "workId": "fogazzaro-il-mistero-del-poeta"
+  }
+}

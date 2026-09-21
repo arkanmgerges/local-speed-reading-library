@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:45.799164Z",
+    "chapterCount": 1,
+    "contentSha256": "bc253095f6113f44eb5907e3bf5f52d5c9923c6ea5d548428e2bfca5b6a412c4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cs/andersen-vodni-panna.cs.wikisource/v1/book.json.gz",
+    "sha256": "0e76a17f84e402ed42c4b2040379b80c39a99d2f857ec7601ad9b670738bad34",
+    "sizeBytes": 20574,
+    "uncompressedSizeBytes": 50727,
+    "wordCount": 7264
+  },
+  "edition": {
+    "editionId": "andersen-vodni-panna.cs.wikisource",
+    "kind": "translation",
+    "language": "cs",
+    "title": "Vodní panna",
+    "translationPublicationYear": 1863,
+    "translator": {
+      "birthYear": 1829,
+      "deathYear": 1892,
+      "name": "Josef Mikuláš Boleslavský",
+      "wikidata": "Q12026401"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1875: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1892: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1863: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q11859",
+      "https://www.wikidata.org/wiki/Q111481576",
+      "https://www.wikidata.org/wiki/Q5673",
+      "https://www.wikidata.org/wiki/Q12026401",
+      "https://cs.wikisource.org/wiki/H._C._Andersena_Pov%C3%ADdky_a_b%C3%A1chorky%2FVodn%C3%AD_panna"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Hans Christian Andersen died in 1875; the translator Josef Mikuláš Boleslavský died in 1892 and this translation was first published in 1863. Source: cs.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "H. C. Andersena Povídky a báchorky/Vodní panna",
+    "pages": [
+      {
+        "revision": 257524,
+        "title": "H. C. Andersena Povídky a báchorky/Vodní panna"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:07:37.449768Z",
+    "revision": "257524",
+    "site": "cs.wikisource.org",
+    "url": "https://cs.wikisource.org/wiki/H._C._Andersena_Pov%C3%ADdky_a_b%C3%A1chorky/Vodn%C3%AD_panna"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1805,
+      "deathYear": 1875,
+      "name": "Hans Christian Andersen",
+      "wikidata": "Q5673"
+    },
+    "originalLanguage": "da",
+    "originalPublicationYear": 1837,
+    "originalTitle": "Vodní panna",
+    "workId": "andersen-vodni-panna"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 27,
+        "contentSha256": "2a7bd2d2388163415da57a74c90439346dd6c63042f520be8dd7616b148334a0",
+        "encoding": "gzip",
+        "path": "books/ms/shellabear-malay-english-vocabulary.ms.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e8fdc9814256d55fc7000732dc6536abe39ff7525c6fd80e173f4c6c4dca380f",
+        "sizeBytes": 143019,
+        "uncompressedSizeBytes": 409001,
+        "wordCount": 51523
+      },
+      "author": "William Shellabear",
+      "authorDeathYear": 1948,
+      "editionId": "shellabear-malay-english-vocabulary.ms.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ms",
+      "originalLanguage": "ms",
+      "originalPublicationYear": 1912,
+      "originalTitle": "Malay-English Vocabulary",
+      "rights": {
+        "statement": "Public domain worldwide. William Shellabear died in 1948 and the work was first published in 1912. Source: ms.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Malay-English Vocabulary",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:05:23.563677Z",
+        "revision": "10089",
+        "url": "https://ms.wikisource.org/wiki/Malay-English_Vocabulary"
+      },
+      "title": "Malay-English Vocabulary",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "shellabear-malay-english-vocabulary"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Malay",
+  "language": "ms",
+  "manifestVersion": "f1388e873d935956",
+  "nativeName": "Melayu",
+  "schemaVersion": 1
+}

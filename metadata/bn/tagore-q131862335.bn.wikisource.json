@@ -1,0 +1,89 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:23.533827Z",
+    "chapterCount": 4,
+    "contentSha256": "52676a402d60a69464d62c4fa66643fa1ffd3749bc2c85bd57e5dfe16bcf0450",
+    "normalizerVersion": "0.2.0",
+    "path": "books/bn/tagore-q131862335.bn.wikisource/v1/book.json.gz",
+    "sha256": "91d019fb46d8ffdf6148a0c3a4cb03ab54db4ed0533638959436df1aca145595",
+    "sizeBytes": 53089,
+    "uncompressedSizeBytes": 289236,
+    "wordCount": 16908
+  },
+  "edition": {
+    "editionId": "tagore-q131862335.bn.wikisource",
+    "kind": "original",
+    "language": "bn",
+    "title": "রাজকাহিনী"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1951: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1914: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q131862335",
+      "https://www.wikidata.org/wiki/Q691796",
+      "https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%95%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. অবনীন্দ্রনাথ ঠাকুর died in 1951 and the work was first published in 1914. Source: bn.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "রাজকাহিনী",
+    "pages": [
+      {
+        "revision": 1972187,
+        "title": "রাজকাহিনী"
+      },
+      {
+        "revision": 1857715,
+        "title": "রাজকাহিনী/শিলাদিত্য"
+      },
+      {
+        "revision": 1857620,
+        "title": "রাজকাহিনী/গোহ"
+      },
+      {
+        "revision": 1857857,
+        "title": "রাজকাহিনী/বাপ্পাদিত্য"
+      },
+      {
+        "revision": 1857858,
+        "title": "রাজকাহিনী/পদ্মিনী"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:03:12.725687Z",
+    "revision": "1972187",
+    "site": "bn.wikisource.org",
+    "url": "https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%95%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1871,
+      "deathYear": 1951,
+      "name": "অবনীন্দ্রনাথ ঠাকুর",
+      "wikidata": "Q691796"
+    },
+    "originalLanguage": "bn",
+    "originalPublicationYear": 1914,
+    "originalTitle": "রাজকাহিনী",
+    "workId": "tagore-q131862335"
+  }
+}

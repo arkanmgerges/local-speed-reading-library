@@ -1,0 +1,117 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:21.334225Z",
+    "chapterCount": 11,
+    "contentSha256": "154b088b23922e3edbbac057261533a351ed220e92a6417ac28cb88b7def629e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ta/pillai-1917.ta.wikisource/v1/book.json.gz",
+    "sha256": "9e67832e9661a0dc36640ef8b29e485a381f124d50cad09d1aa1f885237ddb06",
+    "sizeBytes": 37087,
+    "uncompressedSizeBytes": 189396,
+    "wordCount": 9341
+  },
+  "edition": {
+    "editionId": "pillai-1917.ta.wikisource",
+    "kind": "original",
+    "language": "ta",
+    "title": "மெய்யறம் (1917)"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1936: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1917: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q136342566",
+      "https://www.wikidata.org/wiki/Q492527",
+      "https://ta.wikisource.org/wiki/%E0%AE%AE%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%AF%E0%AE%B1%E0%AE%AE%E0%AF%8D_(1917)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. வ. உ. சிதம்பரம்பிள்ளை died in 1936 and the work was first published in 1917. Source: ta.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "மெய்யறம் (1917)",
+    "pages": [
+      {
+        "revision": 1870455,
+        "title": "மெய்யறம் (1917)"
+      },
+      {
+        "revision": 1471378,
+        "title": "மெய்யறம் (1917)/முன்னுரை"
+      },
+      {
+        "revision": 1403718,
+        "title": "மெய்யறம் (1917)/சமர்ப்பணம்"
+      },
+      {
+        "revision": 1403719,
+        "title": "மெய்யறம் (1917)/இயலதிகாரவகராதி"
+      },
+      {
+        "revision": 1403720,
+        "title": "மெய்யறம் (1917)/சிறப்புப் பாயிரம்"
+      },
+      {
+        "revision": 1403721,
+        "title": "மெய்யறம் (1917)/பாயிரம்"
+      },
+      {
+        "revision": 1403722,
+        "title": "மெய்யறம் (1917)/மாணவரியல்"
+      },
+      {
+        "revision": 1403725,
+        "title": "மெய்யறம் (1917)/இல்வாழ்வியல்"
+      },
+      {
+        "revision": 1403726,
+        "title": "மெய்யறம் (1917)/அரசியல்"
+      },
+      {
+        "revision": 1403727,
+        "title": "மெய்யறம் (1917)/அந்தணரியல்"
+      },
+      {
+        "revision": 1403728,
+        "title": "மெய்யறம் (1917)/மெய்யியல்"
+      },
+      {
+        "revision": 1403729,
+        "title": "மெய்யறம் (1917)/அரும்பதவுரை"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:12:07.339593Z",
+    "revision": "1870455",
+    "site": "ta.wikisource.org",
+    "url": "https://ta.wikisource.org/wiki/%E0%AE%AE%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%AF%E0%AE%B1%E0%AE%AE%E0%AF%8D_(1917)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1872,
+      "deathYear": 1936,
+      "name": "வ. உ. சிதம்பரம்பிள்ளை",
+      "wikidata": "Q492527"
+    },
+    "originalLanguage": "ta",
+    "originalPublicationYear": 1917,
+    "originalTitle": "மெய்யறம் (1917)",
+    "workId": "pillai-1917"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:39.857386Z",
+    "chapterCount": 15,
+    "contentSha256": "f0769d5eb4e5124e78accd30b837945bda5f2c1330afc48b7dd44046f782840c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/jarnefelt-huligaani.fi.gutenberg/v1/book.json.gz",
+    "sha256": "43c02a1575cf8314ff6370da3a9dc86bff56b607f42f5da523f2f0c93d00081e",
+    "sizeBytes": 73602,
+    "uncompressedSizeBytes": 197977,
+    "wordCount": 22915
+  },
+  "edition": {
+    "editionId": "jarnefelt-huligaani.fi.gutenberg",
+    "editionPublicationYear": 1926,
+    "kind": "original",
+    "language": "fi",
+    "title": "Huligaani : $b ynnä muita kertoelmia"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1932: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1926 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/78081",
+      "https://en.wikipedia.org/wiki/Arvid_J%C3%A4rnefelt"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Arvid Järnefelt died in 1932 and the edition digitised by Project Gutenberg was printed in 1926. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "78081",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:04:30.039681Z",
+    "revision": "Mon, 31 Aug 2026 08:02:38 GMT",
+    "url": "https://www.gutenberg.org/ebooks/78081"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1861,
+      "deathYear": 1932,
+      "name": "Arvid Järnefelt",
+      "wikidata": "Q717186"
+    },
+    "originalLanguage": "fi",
+    "originalTitle": "Huligaani : $b ynnä muita kertoelmia",
+    "workId": "jarnefelt-huligaani"
+  }
+}

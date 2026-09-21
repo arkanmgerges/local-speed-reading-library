@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:57:30.725598Z",
+    "chapterCount": 12,
+    "contentSha256": "34a80d169554cff6d1d7050150698db05738ecab78a5f77725d3294bea38c902",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/leblanc-arsene-lupin-gentleman-cambrioleur.fr.gutenberg/v1/book.json.gz",
+    "sha256": "590996bdd687f4e43a2c23258526fdb83ddacec0062ca2da3496f573c301c6e8",
+    "sizeBytes": 133060,
+    "uncompressedSizeBytes": 370227,
+    "wordCount": 54446
+  },
+  "edition": {
+    "editionId": "leblanc-arsene-lupin-gentleman-cambrioleur.fr.gutenberg",
+    "kind": "original",
+    "language": "fr",
+    "title": "Arsène Lupin, gentleman-cambrioleur"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1941: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1907: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/32854",
+      "https://en.wikipedia.org/wiki/Maurice_Leblanc",
+      "https://fr.wikipedia.org/wiki/Maurice_Leblanc",
+      "https://www.wikidata.org/wiki/Q82442"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Maurice Leblanc died in 1941 and the work was first published in 1907. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "32854",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:10:40.482428Z",
+    "revision": "Sun, 13 Sep 2026 16:04:04 GMT",
+    "url": "https://www.gutenberg.org/ebooks/32854"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1864,
+      "deathYear": 1941,
+      "name": "Maurice Leblanc",
+      "wikidata": "Q314993"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1907,
+    "originalTitle": "Arsène Lupin, gentleman-cambrioleur",
+    "workId": "leblanc-arsene-lupin-gentleman-cambrioleur"
+  }
+}

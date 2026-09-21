@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:23.552199Z",
+    "chapterCount": 46,
+    "contentSha256": "df7c55cc5d58f8c4e2db2aa65f993084104ef2f59d607c0a71ae10199266b08a",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ru/london-q1317839.ru.wikisource/v1/book.json.gz",
+    "sha256": "8a2dee4613c745beaf66664e92fc413d4f55ebbcde1d8d32610d5b055092fff6",
+    "sizeBytes": 360955,
+    "uncompressedSizeBytes": 1334389,
+    "wordCount": 115413
+  },
+  "edition": {
+    "editionId": "london-q1317839.ru.wikisource",
+    "kind": "translation",
+    "language": "ru",
+    "title": "Мартин Иден",
+    "translationPublicationYear": 1929,
+    "translator": {
+      "birthYear": 1893,
+      "deathYear": 1930,
+      "name": "Сергей Сергеевич Заяицкий",
+      "wikidata": "Q4189135"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1916: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1929: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1317839",
+      "https://www.wikidata.org/wiki/Q114444364",
+      "https://www.wikidata.org/wiki/Q45765",
+      "https://www.wikidata.org/wiki/Q4189135",
+      "https://ru.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD_%D0%98%D0%B4%D0%B5%D0%BD_(%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%3B_%D0%97%D0%B0%D1%8F%D0%B8%D1%86%D0%BA%D0%B8%D0%B9)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Джек Лондон died in 1916; the translator Сергей Сергеевич Заяицкий died in 1930 and this translation was first published in 1929. Source: ru.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Мартин Иден (Лондон; Заяицкий)",
+    "pages": [
+      {
+        "revision": 5334179,
+        "title": "Мартин Иден (Лондон; Заяицкий)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:52:34.088109Z",
+    "revision": "5334179",
+    "site": "ru.wikisource.org",
+    "url": "https://ru.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD_%D0%98%D0%B4%D0%B5%D0%BD_(%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%3B_%D0%97%D0%B0%D1%8F%D0%B8%D1%86%D0%BA%D0%B8%D0%B9)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1876,
+      "deathYear": 1916,
+      "name": "Джек Лондон",
+      "wikidata": "Q45765"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1909,
+    "originalTitle": "Мартин Иден",
+    "workId": "london-q1317839"
+  }
+}

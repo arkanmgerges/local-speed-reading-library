@@ -1,0 +1,229 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:17.673998Z",
+    "chapterCount": 38,
+    "contentSha256": "2278f83e1b79abf0308ba97ad3eba82329e2ba1ab24919449cf10d17c839e02b",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fa/astarabadi-ma-ayeb-al-rejal.fa.wikisource/v1/book.json.gz",
+    "sha256": "2520980bd1abd4a347ac5edc7159a42826eb01e0f639a7808b6bd24fb4afb355",
+    "sizeBytes": 36971,
+    "uncompressedSizeBytes": 129060,
+    "wordCount": 13665
+  },
+  "edition": {
+    "editionId": "astarabadi-ma-ayeb-al-rejal.fa.wikisource",
+    "kind": "original",
+    "language": "fa",
+    "title": "معایب الرجال"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1921: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1894: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q16047559",
+      "https://www.wikidata.org/wiki/Q4903029",
+      "https://fa.wikisource.org/wiki/%D9%85%D8%B9%D8%A7%DB%8C%D8%A8_%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D9%84"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. بیبیخانم استرآبادی died in 1921 and the work was first published in 1894. Source: fa.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "معایب الرجال",
+    "pages": [
+      {
+        "revision": 276302,
+        "title": "معایب الرجال"
+      },
+      {
+        "revision": 117462,
+        "title": "معایب الرجال/بخش یک/صفحه ۱"
+      },
+      {
+        "revision": 172058,
+        "title": "معایب الرجال/بخش یک/صفحه ۲"
+      },
+      {
+        "revision": 172059,
+        "title": "معایب الرجال/بخش یک/صفحه ۳"
+      },
+      {
+        "revision": 172060,
+        "title": "معایب الرجال/بخش یک/صفحه ۴"
+      },
+      {
+        "revision": 172061,
+        "title": "معایب الرجال/بخش یک/صفحه ۵"
+      },
+      {
+        "revision": 172062,
+        "title": "معایب الرجال/بخش یک/صفحه ۶"
+      },
+      {
+        "revision": 172063,
+        "title": "معایب الرجال/بخش یک/صفحه ۷"
+      },
+      {
+        "revision": 172064,
+        "title": "معایب الرجال/بخش یک/صفحه ۸"
+      },
+      {
+        "revision": 172048,
+        "title": "معایب الرجال/بخش دو/صفحه ۹"
+      },
+      {
+        "revision": 172045,
+        "title": "معایب الرجال/بخش دو/صفحه ۱۰"
+      },
+      {
+        "revision": 172046,
+        "title": "معایب الرجال/بخش دو/صفحه ۱۱"
+      },
+      {
+        "revision": 117473,
+        "title": "معایب الرجال/بخش دو/صفحه ۱۲"
+      },
+      {
+        "revision": 117475,
+        "title": "معایب الرجال/بخش دو/صفحه ۱۳"
+      },
+      {
+        "revision": 117477,
+        "title": "معایب الرجال/بخش دو/صفحه ۱۴"
+      },
+      {
+        "revision": 117481,
+        "title": "معایب الرجال/بخش دو/صفحه ۱۵"
+      },
+      {
+        "revision": 117482,
+        "title": "معایب الرجال/بخش دو/صفحه ۱۶"
+      },
+      {
+        "revision": 117484,
+        "title": "معایب الرجال/بخش دو/صفحه ۱۷"
+      },
+      {
+        "revision": 117486,
+        "title": "معایب الرجال/بخش دو/صفحه ۱۸"
+      },
+      {
+        "revision": 172047,
+        "title": "معایب الرجال/بخش دو/صفحه ۱۹"
+      },
+      {
+        "revision": 117488,
+        "title": "معایب الرجال/بخش دو/صفحه ۲۰"
+      },
+      {
+        "revision": 117489,
+        "title": "معایب الرجال/بخش دو/صفحه ۲۱"
+      },
+      {
+        "revision": 117491,
+        "title": "معایب الرجال/بخش دو/صفحه ۲۲"
+      },
+      {
+        "revision": 117492,
+        "title": "معایب الرجال/بخش دو/صفحه ۲۳"
+      },
+      {
+        "revision": 117493,
+        "title": "معایب الرجال/بخش دو/صفحه ۲۴"
+      },
+      {
+        "revision": 117494,
+        "title": "معایب الرجال/بخش دو/صفحه ۲۵"
+      },
+      {
+        "revision": 117495,
+        "title": "معایب الرجال/بخش دو/صفحه ۲۶"
+      },
+      {
+        "revision": 117496,
+        "title": "معایب الرجال/بخش دو/صفحه ۲۷"
+      },
+      {
+        "revision": 117497,
+        "title": "معایب الرجال/بخش دو/صفحه ۲۸"
+      },
+      {
+        "revision": 117498,
+        "title": "معایب الرجال/بخش دو/صفحه ۲۹"
+      },
+      {
+        "revision": 172050,
+        "title": "معایب الرجال/بخش سه/صفحه ۳۰"
+      },
+      {
+        "revision": 172051,
+        "title": "معایب الرجال/بخش سه/صفحه ۳۱"
+      },
+      {
+        "revision": 172052,
+        "title": "معایب الرجال/بخش سه/صفحه ۳۲"
+      },
+      {
+        "revision": 172053,
+        "title": "معایب الرجال/بخش سه/صفحه ۳۳"
+      },
+      {
+        "revision": 172054,
+        "title": "معایب الرجال/بخش سه/صفحه ۳۴"
+      },
+      {
+        "revision": 172055,
+        "title": "معایب الرجال/بخش سه/صفحه ۳۵"
+      },
+      {
+        "revision": 117485,
+        "title": "معایب الرجال/بخش سه/صفحه ۷۸"
+      },
+      {
+        "revision": 172057,
+        "title": "معایب الرجال/بخش یک"
+      },
+      {
+        "revision": 172044,
+        "title": "معایب الرجال/بخش دو"
+      },
+      {
+        "revision": 172049,
+        "title": "معایب الرجال/بخش سه"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:01:24.192047Z",
+    "revision": "276302",
+    "site": "fa.wikisource.org",
+    "url": "https://fa.wikisource.org/wiki/%D9%85%D8%B9%D8%A7%DB%8C%D8%A8_%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D9%84"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1858,
+      "deathYear": 1921,
+      "name": "بیبیخانم استرآبادی",
+      "wikidata": "Q4903029"
+    },
+    "originalLanguage": "fa",
+    "originalPublicationYear": 1894,
+    "originalTitle": "معایب الرجال",
+    "workId": "astarabadi-ma-ayeb-al-rejal"
+  }
+}

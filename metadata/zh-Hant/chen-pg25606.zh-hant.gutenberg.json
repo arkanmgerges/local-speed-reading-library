@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:37:14.255029Z",
+    "chapterCount": 1,
+    "contentSha256": "4ff140e580d84fbf52f04057766da0ef7b633d80f480fc877fd0ead533ad8c6b",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/chen-pg25606.zh-hant.gutenberg/v1/book.json.gz",
+    "sha256": "4edd6728a19f06925932b930879e62d903e88b60fde76b97fc36314405d20fe7",
+    "sizeBytes": 596227,
+    "uncompressedSizeBytes": 1222185,
+    "wordCount": 1255
+  },
+  "edition": {
+    "editionId": "chen-pg25606.zh-hant.gutenberg",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "三國志"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 297: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 280: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/25606",
+      "https://zh.wikipedia.org/wiki/%E9%99%B3%E5%A3%BD",
+      "https://www.wikidata.org/wiki/Q247318"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Shou Chen died in 297 and the work was first published in 280. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "25606",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T05:28:17.314869Z",
+    "revision": "Thu, 10 Sep 2026 18:08:00 GMT",
+    "url": "https://www.gutenberg.org/ebooks/25606"
+  },
+  "work": {
+    "author": {
+      "birthYear": 233,
+      "deathYear": 297,
+      "name": "Shou Chen"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": 280,
+    "originalTitle": "三國志",
+    "workId": "chen-pg25606"
+  }
+}

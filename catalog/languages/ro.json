@@ -3,15 +3,101 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 5,
-        "contentSha256": "e6d425e2805f3f00b158bcce30d5caaeb498721b2e5cd9865147a5ff5b8a4ede",
+        "chapterCount": 14,
+        "contentSha256": "d6a0b8f88902cd14f8f3e365367a0aadaab8a30be35d024c7891057d3c7f7aed",
         "encoding": "gzip",
-        "path": "books/ro/creanga-amintiri-din-copilarie.ro.wikisource/v1/book.json.gz",
+        "path": "books/ro/amicis-cuore.ro.wikisource/v1/book.json.gz",
         "schemaVersion": 1,
-        "sha256": "0d5a4f6a2ec31576a2d0dc3b201701d7097da8b8664d36e3ec7c6785101d117e",
-        "sizeBytes": 60846,
-        "uncompressedSizeBytes": 159274,
-        "wordCount": 25203
+        "sha256": "6befa12c75bb38b045b0b5529ed57c14711ad8b1c66e2f2847e048072b95d8fa",
+        "sizeBytes": 191986,
+        "uncompressedSizeBytes": 516296,
+        "wordCount": 82359
+      },
+      "author": "Edmondo De Amicis",
+      "authorDeathYear": 1908,
+      "editionId": "amicis-cuore.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "ro",
+      "originalLanguage": "it",
+      "originalPublicationYear": 1886,
+      "originalTitle": "Cuore",
+      "rights": {
+        "statement": "Public domain worldwide. Edmondo De Amicis died in 1908; the translator Clelia Bruzzesi died in 1903 and this translation was first published in 1893. Source: ro.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Cuore - Inimă de copil",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:50:51.985778Z",
+        "revision": "129158",
+        "url": "https://ro.wikisource.org/wiki/Cuore_-_Inim%C4%83_de_copil"
+      },
+      "title": "Cuore - Inimă de copil",
+      "translationPublicationYear": 1893,
+      "translator": "Clelia Bruzzesi",
+      "translatorDeathYear": 1903,
+      "workId": "amicis-cuore"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "4d30706230c779656f6b3347d63813c85f107fe84d2367a7c40cc7d45d0859ce",
+        "encoding": "gzip",
+        "path": "books/ro/caragiale-pacat-caragiale.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8a338a484f5df6d403b856d120964b5bf696a41e170c4f2af777a7272e6c2c26",
+        "sizeBytes": 27474,
+        "uncompressedSizeBytes": 68241,
+        "wordCount": 10092
+      },
+      "author": "Ion Luca Caragiale",
+      "authorDeathYear": 1912,
+      "editionId": "caragiale-pacat-caragiale.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1892,
+      "originalTitle": "Păcat... (Caragiale)",
+      "rights": {
+        "statement": "Public domain worldwide. Ion Luca Caragiale died in 1912 and the work was first published in 1892. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Păcat... (Caragiale)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:51:04.585012Z",
+        "revision": "93914",
+        "url": "https://ro.wikisource.org/wiki/P%C4%83cat..._(Caragiale)"
+      },
+      "title": "Păcat... (Caragiale)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "caragiale-pacat-caragiale"
+    },
+    {
+      "asset": {
+        "assetVersion": 2,
+        "chapterCount": 4,
+        "contentSha256": "1bb83608ef09305c50545976ac6cebbb36d9e2dbce80c585aa92d4c2caf34cee",
+        "encoding": "gzip",
+        "path": "books/ro/creanga-amintiri-din-copilarie.ro.wikisource/v2/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6e26f01e1756153963fb808cc6e34b207a62f5fb1f0aab5152c4b98ddc6d521e",
+        "sizeBytes": 60798,
+        "uncompressedSizeBytes": 159156,
+        "wordCount": 25200
       },
       "author": "Ion Creangă",
       "authorDeathYear": 1889,
@@ -48,11 +134,54 @@
       "asset": {
         "assetVersion": 1,
         "chapterCount": 1,
-        "contentSha256": "a5ef09c4dad38d971cbced1bf2c3daa8139c55119bc24fbe295ecfbe742b7d07",
+        "contentSha256": "9ae91f3b6a020075529a6942f7e5444c80d33ebc4488ecbc886245828dd2e608",
         "encoding": "gzip",
-        "path": "books/ro/eminescu-sarmanul-dionis.ro.wikisource/v1/book.json.gz",
+        "path": "books/ro/creanga-harap-alb.ro.wikisource/v1/book.json.gz",
         "schemaVersion": 1,
-        "sha256": "61660fb0d8cca68665d7450f08355ed9491e19595c7c34f4f7b9a0ac7fcb23fd",
+        "sha256": "e968bd5a4dda9bf90fc2d216448237aa843931c0bc8ed85745a91dbd9957cb8a",
+        "sizeBytes": 39389,
+        "uncompressedSizeBytes": 112659,
+        "wordCount": 18004
+      },
+      "author": "Ion Creangă",
+      "authorDeathYear": 1889,
+      "editionId": "creanga-harap-alb.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1877,
+      "originalTitle": "Harap-Alb",
+      "rights": {
+        "statement": "Public domain worldwide. Ion Creangă died in 1889 and the work was first published in 1877. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Povestea lui Harap-Alb",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:51:19.976313Z",
+        "revision": "129175",
+        "url": "https://ro.wikisource.org/wiki/Povestea_lui_Harap-Alb"
+      },
+      "title": "Harap-Alb",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "creanga-harap-alb"
+    },
+    {
+      "asset": {
+        "assetVersion": 2,
+        "chapterCount": 1,
+        "contentSha256": "d8919b2833a6dc456fa29bcaa654831f6b617c703ad11cbcf03a1b8cb5754d5e",
+        "encoding": "gzip",
+        "path": "books/ro/eminescu-sarmanul-dionis.ro.wikisource/v2/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d2f00fb0944e34d5eca3dc8387f1dbd02228875239816cd4c6abd28f8a53fbe0",
         "sizeBytes": 36986,
         "uncompressedSizeBytes": 94063,
         "wordCount": 14921
@@ -91,13 +220,185 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 17,
-        "contentSha256": "39caaea37c193a98618ba74153d9ec9bbbc00be6aca389162c14218a0e1a9469",
+        "chapterCount": 1,
+        "contentSha256": "2cc41e0551acc2c630e70e3201fdc57456c237933c7ba4b812205f1d2dabd899",
         "encoding": "gzip",
-        "path": "books/ro/slavici-moara-cu-noroc.ro.wikisource/v1/book.json.gz",
+        "path": "books/ro/istrati-ciulinii-baraganului.ro.wikisource/v1/book.json.gz",
         "schemaVersion": 1,
-        "sha256": "7b5eaa41784b030573d73c2f1abe294c55b91a4a616778764c5f54b0c643feb5",
-        "sizeBytes": 79514,
+        "sha256": "1f0a556b4ffcb2095a7dbaa8ab2f4b60560a8e6d45e5d1ae7facc8f3b49ebfa3",
+        "sizeBytes": 61681,
+        "uncompressedSizeBytes": 162094,
+        "wordCount": 24195
+      },
+      "author": "Panait Istrati",
+      "authorDeathYear": 1935,
+      "editionId": "istrati-ciulinii-baraganului.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1928,
+      "originalTitle": "Ciulinii Bărăganului",
+      "rights": {
+        "statement": "Public domain worldwide. Panait Istrati died in 1935 and the work was first published in 1928. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Ciulinii Bărăganului",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:51:30.270855Z",
+        "revision": "120957",
+        "url": "https://ro.wikisource.org/wiki/Ciulinii_B%C4%83r%C4%83ganului"
+      },
+      "title": "Ciulinii Bărăganului",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "istrati-ciulinii-baraganului"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 31,
+        "contentSha256": "d33d8e35339879a6cf533ce710fa86084b1f2159990f98b2173e5b51d65996ac",
+        "encoding": "gzip",
+        "path": "books/ro/rebreanu-ciuleandra.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b5d79f6abf8155e092197bdc41ce8e02cf160691d25f2b90ff6884105ab78451",
+        "sizeBytes": 93438,
+        "uncompressedSizeBytes": 252963,
+        "wordCount": 37624
+      },
+      "author": "Liviu Rebreanu",
+      "authorDeathYear": 1944,
+      "editionId": "rebreanu-ciuleandra.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1927,
+      "originalTitle": "Ciuleandra",
+      "rights": {
+        "statement": "Public domain worldwide. Liviu Rebreanu died in 1944 and the work was first published in 1927. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Ciuleandra (Rebreanu)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:51:35.354175Z",
+        "revision": "124307",
+        "url": "https://ro.wikisource.org/wiki/Ciuleandra_(Rebreanu)"
+      },
+      "title": "Ciuleandra",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "rebreanu-ciuleandra"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 13,
+        "contentSha256": "60df3ba88523acc7b521dd3f9753209c502e75fac70b49a67a32944b4b2ef728",
+        "encoding": "gzip",
+        "path": "books/ro/rebreanu-ion.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "71d2550fc400a9ec72ea6eafc8e55ae1c6ee3d26b8eaa52d732ddcb1e790c102",
+        "sizeBytes": 370415,
+        "uncompressedSizeBytes": 1001209,
+        "wordCount": 151908
+      },
+      "author": "Liviu Rebreanu",
+      "authorDeathYear": 1944,
+      "editionId": "rebreanu-ion.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1920,
+      "originalTitle": "Ion",
+      "rights": {
+        "statement": "Public domain worldwide. Liviu Rebreanu died in 1944 and the work was first published in 1920. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Ion (Rebreanu)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:51:41.940252Z",
+        "revision": "144776",
+        "url": "https://ro.wikisource.org/wiki/Ion_(Rebreanu)"
+      },
+      "title": "Ion",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "rebreanu-ion"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 41,
+        "contentSha256": "7f209a07d2d2f9d87f27805387edff0ba6b21b8657a16bdc877a82f8fe178f95",
+        "encoding": "gzip",
+        "path": "books/ro/rebreanu-padurea-spanzuratilor.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b863c6ffd63d25de1e3034bb346e5915ec418981cb1659dba0e1e7440e16d3b8",
+        "sizeBytes": 202682,
+        "uncompressedSizeBytes": 565376,
+        "wordCount": 82606
+      },
+      "author": "Liviu Rebreanu",
+      "authorDeathYear": 1944,
+      "editionId": "rebreanu-padurea-spanzuratilor.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1922,
+      "originalTitle": "Pădurea spânzuraților",
+      "rights": {
+        "statement": "Public domain worldwide. Liviu Rebreanu died in 1944 and the work was first published in 1922. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Pădurea spânzuraților",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:51:46.478969Z",
+        "revision": "123772",
+        "url": "https://ro.wikisource.org/wiki/P%C4%83durea_sp%C3%A2nzura%C8%9Bilor"
+      },
+      "title": "Pădurea spânzuraților",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "rebreanu-padurea-spanzuratilor"
+    },
+    {
+      "asset": {
+        "assetVersion": 2,
+        "chapterCount": 17,
+        "contentSha256": "c1fd58c7614690f225671cd85a50584d73bab66131e97e174c74b5e6e9197cca",
+        "encoding": "gzip",
+        "path": "books/ro/slavici-moara-cu-noroc.ro.wikisource/v2/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9b258ee2107731c38afc52aa215ff1e704e16d8f94690c0eaf2f419c0228cbaa",
+        "sizeBytes": 79515,
         "uncompressedSizeBytes": 237583,
         "wordCount": 39178
       },
@@ -130,12 +431,98 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "slavici-moara-cu-noroc"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "7f99a9433bc494481ede2530c7aef52cf3526dd49660878facc507838be7878f",
+        "encoding": "gzip",
+        "path": "books/ro/slavici-zana-zorilor.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "dd678e90010df034dca86b93f1796053dc4d00390a806ad40c97f120b37e0a50",
+        "sizeBytes": 27925,
+        "uncompressedSizeBytes": 83101,
+        "wordCount": 13456
+      },
+      "author": "Ioan Slavici",
+      "authorDeathYear": 1925,
+      "editionId": "slavici-zana-zorilor.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1872,
+      "originalTitle": "Zâna Zorilor",
+      "rights": {
+        "statement": "Public domain worldwide. Ioan Slavici died in 1925 and the work was first published in 1872. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Zâna Zorilor",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:51:50.704618Z",
+        "revision": "121516",
+        "url": "https://ro.wikisource.org/wiki/Z%C3%A2na_Zorilor"
+      },
+      "title": "Zâna Zorilor",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "slavici-zana-zorilor"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "bc779199e19205ad72e5da74fdd2dca4bda939ab2fd2ad51f839db0fc9c64567",
+        "encoding": "gzip",
+        "path": "books/ro/zamfirescu-tanase-scatiu.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "74f00b7f831ef1a3c87770a9e687c8bdc44c6741041bffc83fa32b01b4f9989d",
+        "sizeBytes": 64619,
+        "uncompressedSizeBytes": 175569,
+        "wordCount": 27431
+      },
+      "author": "Duiliu Zamfirescu",
+      "authorDeathYear": 1922,
+      "editionId": "zamfirescu-tanase-scatiu.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1907,
+      "originalTitle": "Tănase Scatiu",
+      "rights": {
+        "statement": "Public domain worldwide. Duiliu Zamfirescu died in 1922 and the work was first published in 1907. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Tănase Scatiu",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:51:52.803861Z",
+        "revision": "138461",
+        "url": "https://ro.wikisource.org/wiki/T%C4%83nase_Scatiu"
+      },
+      "title": "Tănase Scatiu",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "zamfirescu-tanase-scatiu"
     }
   ],
   "direction": "ltr",
   "englishName": "Romanian",
   "language": "ro",
-  "manifestVersion": "fc911e2cd3692db0",
+  "manifestVersion": "2f03d41c5828ab9b",
   "nativeName": "Română",
   "schemaVersion": 1
 }

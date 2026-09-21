@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:20:48.579911Z",
+    "chapterCount": 1,
+    "contentSha256": "55bccbf7ccee0d0d5dfd7cf75955356cf7ad31a4a14e51b9a2e370dba623caca",
+    "normalizerVersion": "0.2.0",
+    "path": "books/as/bezbarua-chakraddhaj-singha.as.wikisource/v1/book.json.gz",
+    "sha256": "95ca749961ad126137d881e328cfec8e87d1d9dfc5feb432475c4a666820ba81",
+    "sizeBytes": 62586,
+    "uncompressedSizeBytes": 314830,
+    "wordCount": 18684
+  },
+  "edition": {
+    "editionId": "bezbarua-chakraddhaj-singha.as.wikisource",
+    "kind": "original",
+    "language": "as",
+    "title": "চক্ৰধ্বজ সিংহ"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1938: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1915: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q25682396",
+      "https://www.wikidata.org/wiki/Q5756306",
+      "https://as.wikisource.org/wiki/%E0%A6%9A%E0%A6%95%E0%A7%8D%E0%A7%B0%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%9C_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. লক্ষ্মীনাথ বেজবৰুৱা died in 1938 and the work was first published in 1915. Source: as.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "চক্ৰধ্বজ সিংহ",
+    "pages": [
+      {
+        "revision": 235023,
+        "title": "চক্ৰধ্বজ সিংহ"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:53:50.260082Z",
+    "revision": "235023",
+    "site": "as.wikisource.org",
+    "url": "https://as.wikisource.org/wiki/%E0%A6%9A%E0%A6%95%E0%A7%8D%E0%A7%B0%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%9C_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1868,
+      "deathYear": 1938,
+      "name": "লক্ষ্মীনাথ বেজবৰুৱা",
+      "wikidata": "Q5756306"
+    },
+    "originalLanguage": "as",
+    "originalPublicationYear": 1915,
+    "originalTitle": "চক্ৰধ্বজ সিংহ",
+    "workId": "bezbarua-chakraddhaj-singha"
+  }
+}

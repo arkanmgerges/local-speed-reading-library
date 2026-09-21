@@ -1,0 +1,299 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:52:34.672594Z",
+    "chapterCount": 96,
+    "contentSha256": "f75b679eb8d4a39d0d582ac50b952111d445bed191f92da6ed9c5ef3e47fc63e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/lagerlof-nils-holgersens-forunderlige-rejse-gennem-sverige.da.wikisource/v1/book.json.gz",
+    "sha256": "5e79afa10e38ee9552012cb3bced5caa36f2fd5907f105ab78d4975e36522475",
+    "sizeBytes": 400687,
+    "uncompressedSizeBytes": 1155299,
+    "wordCount": 200051
+  },
+  "edition": {
+    "editionId": "lagerlof-nils-holgersens-forunderlige-rejse-gennem-sverige.da.wikisource",
+    "kind": "translation",
+    "language": "da",
+    "title": "Niels Holgersens vidunderlige Rejse gennem Sverige",
+    "translationPublicationYear": 1910,
+    "translator": {
+      "birthYear": 1849,
+      "deathYear": 1922,
+      "name": "Ida Falbe-Hansen",
+      "wikidata": "Q4947484"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1940: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1922: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1910: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q726254",
+      "https://www.wikidata.org/wiki/Q20160722",
+      "https://www.wikidata.org/wiki/Q44519",
+      "https://www.wikidata.org/wiki/Q4947484",
+      "https://da.wikisource.org/wiki/Niels_Holgersens_vidunderlige_Rejse_gennem_Sverige"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Selma Lagerlöf died in 1940; the translator Ida Falbe-Hansen died in 1922 and this translation was first published in 1910. Source: da.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Niels Holgersens vidunderlige Rejse gennem Sverige",
+    "pages": [
+      {
+        "revision": 76991,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige"
+      },
+      {
+        "revision": 28651,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/1"
+      },
+      {
+        "revision": 28667,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/2"
+      },
+      {
+        "revision": 28692,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/3"
+      },
+      {
+        "revision": 28779,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/4"
+      },
+      {
+        "revision": 28831,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/5"
+      },
+      {
+        "revision": 28858,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/6"
+      },
+      {
+        "revision": 28864,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/7"
+      },
+      {
+        "revision": 28882,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/8"
+      },
+      {
+        "revision": 28916,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/9"
+      },
+      {
+        "revision": 28926,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/10"
+      },
+      {
+        "revision": 28936,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/11"
+      },
+      {
+        "revision": 28955,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/12"
+      },
+      {
+        "revision": 28968,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/13"
+      },
+      {
+        "revision": 28986,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/14"
+      },
+      {
+        "revision": 29013,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/15"
+      },
+      {
+        "revision": 29026,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/16"
+      },
+      {
+        "revision": 29035,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/17"
+      },
+      {
+        "revision": 29054,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/18"
+      },
+      {
+        "revision": 29076,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/19"
+      },
+      {
+        "revision": 29081,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/20"
+      },
+      {
+        "revision": 29131,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/21"
+      },
+      {
+        "revision": 29144,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/22"
+      },
+      {
+        "revision": 29164,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/23"
+      },
+      {
+        "revision": 29169,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/24"
+      },
+      {
+        "revision": 29175,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/25"
+      },
+      {
+        "revision": 29182,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/26"
+      },
+      {
+        "revision": 29207,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/27"
+      },
+      {
+        "revision": 29217,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/28"
+      },
+      {
+        "revision": 29265,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/29"
+      },
+      {
+        "revision": 29301,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/30"
+      },
+      {
+        "revision": 29307,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/31"
+      },
+      {
+        "revision": 29325,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/32"
+      },
+      {
+        "revision": 29331,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/33"
+      },
+      {
+        "revision": 29347,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/34"
+      },
+      {
+        "revision": 29359,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/35"
+      },
+      {
+        "revision": 29375,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/36"
+      },
+      {
+        "revision": 29386,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/37"
+      },
+      {
+        "revision": 29398,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/38"
+      },
+      {
+        "revision": 29412,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/39"
+      },
+      {
+        "revision": 29425,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/40"
+      },
+      {
+        "revision": 29435,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/41"
+      },
+      {
+        "revision": 29668,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/42"
+      },
+      {
+        "revision": 29699,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/43"
+      },
+      {
+        "revision": 29712,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/44"
+      },
+      {
+        "revision": 29731,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/45"
+      },
+      {
+        "revision": 29742,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/46"
+      },
+      {
+        "revision": 29750,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/47"
+      },
+      {
+        "revision": 29762,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/48"
+      },
+      {
+        "revision": 29772,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/49"
+      },
+      {
+        "revision": 29780,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/50"
+      },
+      {
+        "revision": 29803,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/51"
+      },
+      {
+        "revision": 29808,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/52"
+      },
+      {
+        "revision": 29819,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/53"
+      },
+      {
+        "revision": 29823,
+        "title": "Niels Holgersens vidunderlige Rejse gennem Sverige/54"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:22:43.152215Z",
+    "revision": "76991",
+    "site": "da.wikisource.org",
+    "url": "https://da.wikisource.org/wiki/Niels_Holgersens_vidunderlige_Rejse_gennem_Sverige"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1858,
+      "deathYear": 1940,
+      "name": "Selma Lagerlöf",
+      "wikidata": "Q44519"
+    },
+    "originalLanguage": "sv",
+    "originalPublicationYear": 1906,
+    "originalTitle": "Nils Holgersens forunderlige rejse gennem Sverige",
+    "workId": "lagerlof-nils-holgersens-forunderlige-rejse-gennem-sverige"
+  }
+}

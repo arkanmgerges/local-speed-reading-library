@@ -1,0 +1,147 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:51:57.054084Z",
+    "chapterCount": 20,
+    "contentSha256": "0d1fe5b5d9233d1c95227c4d373c946c1fcb6c2891b247e36362ef0d87229769",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cs/doyle-ztracenu-svet.cs.wikisource/v1/book.json.gz",
+    "sha256": "22ea8abee3c5232f1cb83a45dbc27bb7caf1a462f513cc9c2394cc9f18cb95ea",
+    "sizeBytes": 195922,
+    "uncompressedSizeBytes": 506767,
+    "wordCount": 71052
+  },
+  "edition": {
+    "editionId": "doyle-ztracenu-svet.cs.wikisource",
+    "kind": "translation",
+    "language": "cs",
+    "title": "Ztracený svět",
+    "translationPublicationYear": 1925,
+    "translator": {
+      "birthYear": 1876,
+      "deathYear": 1942,
+      "name": "Karel Weinfurter",
+      "wikidata": "Q12028614"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1942: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1925: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q785255",
+      "https://www.wikidata.org/wiki/Q58803634",
+      "https://www.wikidata.org/wiki/Q35610",
+      "https://www.wikidata.org/wiki/Q12028614",
+      "https://cs.wikisource.org/wiki/Ztracen%C3%BD_sv%C4%9Bt"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Arthur Conan Doyle died in 1930; the translator Karel Weinfurter died in 1942 and this translation was first published in 1925. Source: cs.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Ztracený svět",
+    "pages": [
+      {
+        "revision": 336520,
+        "title": "Ztracený svět"
+      },
+      {
+        "revision": 284035,
+        "title": "Ztracený svět/Všude kolem nás je plno hrdinství"
+      },
+      {
+        "revision": 284027,
+        "title": "Ztracený svět/Pokuste se o štěstí u profesora Challengera"
+      },
+      {
+        "revision": 284022,
+        "title": "Ztracený svět/Jest osobou naprosto nemožnou"
+      },
+      {
+        "revision": 284021,
+        "title": "Ztracený svět/Je to nejvelkolepější věcí na světě"
+      },
+      {
+        "revision": 284025,
+        "title": "Ztracený svět/Otázku!"
+      },
+      {
+        "revision": 284019,
+        "title": "Ztracený svět/Byl jsem cepem Páně"
+      },
+      {
+        "revision": 284037,
+        "title": "Ztracený svět/Zítra zmizíme v Neznámu"
+      },
+      {
+        "revision": 284032,
+        "title": "Ztracený svět/Přední stráže nového světa"
+      },
+      {
+        "revision": 284023,
+        "title": "Ztracený svět/Kdo by to mohl předvídati"
+      },
+      {
+        "revision": 284033,
+        "title": "Ztracený svět/Udály se nejpodivnější věci"
+      },
+      {
+        "revision": 284024,
+        "title": "Ztracený svět/Náhle jsem se stal hrdinou"
+      },
+      {
+        "revision": 284020,
+        "title": "Ztracený svět/Hrůza v lese"
+      },
+      {
+        "revision": 284026,
+        "title": "Ztracený svět/Pohled, který nikdy nezapomenu"
+      },
+      {
+        "revision": 284036,
+        "title": "Ztracený svět/Zde byli skuteční vítězové"
+      },
+      {
+        "revision": 284034,
+        "title": "Ztracený svět/Viděli jsme veliké divy"
+      },
+      {
+        "revision": 284028,
+        "title": "Ztracený svět/Průvod! Průvod!"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:08:28.616410Z",
+    "revision": "336520",
+    "site": "cs.wikisource.org",
+    "url": "https://cs.wikisource.org/wiki/Ztracen%C3%BD_sv%C4%9Bt"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1859,
+      "deathYear": 1930,
+      "name": "Arthur Conan Doyle",
+      "wikidata": "Q35610"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1912,
+    "originalTitle": "Ztracený svět",
+    "workId": "doyle-ztracenu-svet"
+  }
+}

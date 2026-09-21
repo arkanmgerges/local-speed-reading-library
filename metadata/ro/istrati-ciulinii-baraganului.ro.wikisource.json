@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:04.912035Z",
+    "chapterCount": 1,
+    "contentSha256": "2cc41e0551acc2c630e70e3201fdc57456c237933c7ba4b812205f1d2dabd899",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/istrati-ciulinii-baraganului.ro.wikisource/v1/book.json.gz",
+    "sha256": "1f0a556b4ffcb2095a7dbaa8ab2f4b60560a8e6d45e5d1ae7facc8f3b49ebfa3",
+    "sizeBytes": 61681,
+    "uncompressedSizeBytes": 162094,
+    "wordCount": 24195
+  },
+  "edition": {
+    "editionId": "istrati-ciulinii-baraganului.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "title": "Ciulinii Bărăganului"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1935: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1928: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q21706021",
+      "https://www.wikidata.org/wiki/Q344179",
+      "https://ro.wikisource.org/wiki/Ciulinii_B%C4%83r%C4%83ganului"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Panait Istrati died in 1935 and the work was first published in 1928. Source: ro.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Ciulinii Bărăganului",
+    "pages": [
+      {
+        "revision": 120957,
+        "title": "Ciulinii Bărăganului"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:51:30.270855Z",
+    "revision": "120957",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/Ciulinii_B%C4%83r%C4%83ganului"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1884,
+      "deathYear": 1935,
+      "name": "Panait Istrati",
+      "wikidata": "Q344179"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1928,
+    "originalTitle": "Ciulinii Bărăganului",
+    "workId": "istrati-ciulinii-baraganului"
+  }
+}

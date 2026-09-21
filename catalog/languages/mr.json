@@ -1,0 +1,741 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "5d44446ca46be42cab767e2941c4e87118aff8f060532c5c89c4e1feb2a959f6",
+        "encoding": "gzip",
+        "path": "books/mr/apte-marathi-vangmayacha-abhyas.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "78992f596d843f47ae3c87d0eb5b309f16acb1519a78cce10fe75ce3a11bb71e",
+        "sizeBytes": 45859,
+        "uncompressedSizeBytes": 230048,
+        "wordCount": 12871
+      },
+      "author": "हरी नारायण आपटे",
+      "authorDeathYear": 1919,
+      "editionId": "apte-marathi-vangmayacha-abhyas.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1903,
+      "originalTitle": "मराठी वाड्मयाचा अभ्यास",
+      "rights": {
+        "statement": "Public domain worldwide. हरी नारायण आपटे died in 1919 and the work was first published in 1903. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "मराठी वाड्मयाचा अभ्यास",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:01:58.995149Z",
+        "revision": "224555",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%AE%E0%A4%B0%E0%A4%BE%E0%A4%A0%E0%A5%80_%E0%A4%B5%E0%A4%BE%E0%A4%A1%E0%A5%8D%E0%A4%AE%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE_%E0%A4%85%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8"
+      },
+      "title": "मराठी वाड्मयाचा अभ्यास",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "apte-marathi-vangmayacha-abhyas"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "dd99eddf75acac9b470efc09f15238fe59e003d16f6b75552c1ebd10dd7d7d23",
+        "encoding": "gzip",
+        "path": "books/mr/apte-sfuta-goshti-bhag-4.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4b6a28849186d7f49532234393d50d75a17cfa2a0da59aa0fe28fca2501675ba",
+        "sizeBytes": 123117,
+        "uncompressedSizeBytes": 648961,
+        "wordCount": 38286
+      },
+      "author": "हरी नारायण आपटे",
+      "authorDeathYear": 1919,
+      "editionId": "apte-sfuta-goshti-bhag-4.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1915,
+      "originalTitle": "स्फुट गोष्टी भाग ४ था",
+      "rights": {
+        "statement": "Public domain worldwide. हरी नारायण आपटे died in 1919 and the work was first published in 1915. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "स्फुट गोष्टी भाग ४ था",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:02:09.785889Z",
+        "revision": "234112",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%AB%E0%A5%81%E0%A4%9F_%E0%A4%97%E0%A5%8B%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%80_%E0%A4%AD%E0%A4%BE%E0%A4%97_%E0%A5%AA_%E0%A4%A5%E0%A4%BE"
+      },
+      "title": "स्फुट गोष्टी भाग ४ था",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "apte-sfuta-goshti-bhag-4"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 16,
+        "contentSha256": "6be996756454f93c41ffea90010ba2d391b106e5266c252ba452e84d0ffe94cc",
+        "encoding": "gzip",
+        "path": "books/mr/apte-sfuta-goshti-bhag-tisara.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "37c705315f3dae6b6f04e46723829b2d6b43bf11957d96a8b0718191118cc4ca",
+        "sizeBytes": 145306,
+        "uncompressedSizeBytes": 759885,
+        "wordCount": 42708
+      },
+      "author": "हरी नारायण आपटे",
+      "authorDeathYear": 1919,
+      "editionId": "apte-sfuta-goshti-bhag-tisara.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1928,
+      "originalTitle": "स्फुट गोष्टी भाग तिसरा",
+      "rights": {
+        "statement": "Public domain worldwide. हरी नारायण आपटे died in 1919 and the work was first published in 1928. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "स्फुट गोष्टी भाग तिसरा",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:02:35.133140Z",
+        "revision": "234713",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%AB%E0%A5%81%E0%A4%9F_%E0%A4%97%E0%A5%8B%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%80_%E0%A4%AD%E0%A4%BE%E0%A4%97_%E0%A4%A4%E0%A4%BF%E0%A4%B8%E0%A4%B0%E0%A4%BE"
+      },
+      "title": "स्फुट गोष्टी भाग तिसरा",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "apte-sfuta-goshti-bhag-tisara"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 7,
+        "contentSha256": "1629f221b45f416273f292aa9e7c16fef3464f62851134b5a85cee5d69a4b786",
+        "encoding": "gzip",
+        "path": "books/mr/bhat-arya-stree-ratne.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5b37eb5d4f7e6dbfbd7117325e85fbb0f2282ffdaf3cf3e58c33eb6f04c196b7",
+        "sizeBytes": 76457,
+        "uncompressedSizeBytes": 375017,
+        "wordCount": 21798
+      },
+      "author": "यशोदाबाई भट",
+      "authorDeathYear": 1946,
+      "editionId": "bhat-arya-stree-ratne.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1917,
+      "originalTitle": "आर्य-स्त्री-रत्ने",
+      "rights": {
+        "statement": "Public domain worldwide. यशोदाबाई भट died in 1946 and the work was first published in 1917. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "आर्य-स्त्री-रत्ने",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:02:46.397913Z",
+        "revision": "234078",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%AF-%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A5%87"
+      },
+      "title": "आर्य-स्त्री-रत्ने",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bhat-arya-stree-ratne"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 7,
+        "contentSha256": "29a587ae51e4205b46923dd64cc590833b89e8075039306674acc7b1c73067b0",
+        "encoding": "gzip",
+        "path": "books/mr/bhate-majha-uttarhindustanacha-pravas.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "12f62ab878f4a6fb08b7fe26e87bd6a679b80178cb7928e4888498753965e4d6",
+        "sizeBytes": 93332,
+        "uncompressedSizeBytes": 494553,
+        "wordCount": 26989
+      },
+      "author": "गोविंद चिमणाजी भाटे",
+      "authorDeathYear": 1946,
+      "editionId": "bhate-majha-uttarhindustanacha-pravas.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1920,
+      "originalTitle": "माझा उत्तरहिंदुस्तानचा प्रवास",
+      "rights": {
+        "statement": "Public domain worldwide. गोविंद चिमणाजी भाटे died in 1946 and the work was first published in 1920. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "माझा उत्तरहिंदुस्तानचा प्रवास",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:02:57.465952Z",
+        "revision": "234035",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%9D%E0%A4%BE_%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%9A%E0%A4%BE_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B8"
+      },
+      "title": "माझा उत्तरहिंदुस्तानचा प्रवास",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bhate-majha-uttarhindustanacha-pravas"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "2db19c065d06b032d54e9919744b201e16fcd404b6470197b804762852701a60",
+        "encoding": "gzip",
+        "path": "books/mr/bhate-sajjangad-va-samarth-ramdas.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4275b6cab67cc677d485f8a751089ee21573f40d67733663b2cd8b7f81d75f5e",
+        "sizeBytes": 97542,
+        "uncompressedSizeBytes": 524104,
+        "wordCount": 29847
+      },
+      "author": "गोविंद चिमणाजी भाटे",
+      "authorDeathYear": 1946,
+      "editionId": "bhate-sajjangad-va-samarth-ramdas.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1918,
+      "originalTitle": "सज्जनगड व समर्थ रामदास",
+      "rights": {
+        "statement": "Public domain worldwide. गोविंद चिमणाजी भाटे died in 1946 and the work was first published in 1918. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "सज्जनगड व समर्थ रामदास",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:03:00.302466Z",
+        "revision": "233887",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%B8%E0%A4%9C%E0%A5%8D%E0%A4%9C%E0%A4%A8%E0%A4%97%E0%A4%A1_%E0%A4%B5_%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5_%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A6%E0%A4%BE%E0%A4%B8"
+      },
+      "title": "सज्जनगड व समर्थ रामदास",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bhate-sajjangad-va-samarth-ramdas"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "aa611fcc40eb3d7da5ca914b5d19387088b51cc3bc019afecf0ff2d3f660b4d8",
+        "encoding": "gzip",
+        "path": "books/mr/bhate-samajshastravril-vyakhyane.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "df73761d4c628657c8c29fda6ef3b9e474bdd60405b8a7b61f0d638ff922df09",
+        "sizeBytes": 89115,
+        "uncompressedSizeBytes": 521491,
+        "wordCount": 27058
+      },
+      "author": "गोविंद चिमणाजी भाटे",
+      "authorDeathYear": 1946,
+      "editionId": "bhate-samajshastravril-vyakhyane.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1914,
+      "originalTitle": "समाजशास्त्रावरील व्याख्याने",
+      "rights": {
+        "statement": "Public domain worldwide. गोविंद चिमणाजी भाटे died in 1946 and the work was first published in 1914. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "समाजशास्त्रावरील व्याख्याने",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:03:05.276835Z",
+        "revision": "233906",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A5%80%E0%A4%B2_%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%87"
+      },
+      "title": "समाजशास्त्रावरील व्याख्याने",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bhate-samajshastravril-vyakhyane"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 4,
+        "contentSha256": "de223e336208114ed24dc3b759993d874e915a40187955ddb89e0c6f43e9669c",
+        "encoding": "gzip",
+        "path": "books/mr/bhate-teen-tatvadnyani.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c49e0561a73b6ab5585493edafb911b04a92d652bba82348a4e59f9a9032a203",
+        "sizeBytes": 90338,
+        "uncompressedSizeBytes": 502297,
+        "wordCount": 27612
+      },
+      "author": "गोविंद चिमणाजी भाटे",
+      "authorDeathYear": 1946,
+      "editionId": "bhate-teen-tatvadnyani.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1921,
+      "originalTitle": "तीन तत्त्वज्ञानी",
+      "rights": {
+        "statement": "Public domain worldwide. गोविंद चिमणाजी भाटे died in 1946 and the work was first published in 1921. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "तीन तत्त्वज्ञानी",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:03:12.177749Z",
+        "revision": "233901",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%A4%E0%A5%80%E0%A4%A8_%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8%E0%A5%80"
+      },
+      "title": "तीन तत्त्वज्ञानी",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bhate-teen-tatvadnyani"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "0a28ddfaaa29f2bb2f7b54ae85dcc9d12d0a628e23b27673a14513679678d50e",
+        "encoding": "gzip",
+        "path": "books/mr/khare-ichalkaranji-sansthanacha-itihas.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e67de2c84edcdcf785ebafa5aed20fca045e2334627838afc1779f7b5a966715",
+        "sizeBytes": 127047,
+        "uncompressedSizeBytes": 709430,
+        "wordCount": 37307
+      },
+      "author": "वासुदेव वामन खरे",
+      "authorDeathYear": 1924,
+      "editionId": "khare-ichalkaranji-sansthanacha-itihas.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1913,
+      "originalTitle": "इचलकरंजी संस्थानाचा इतिहास",
+      "rights": {
+        "statement": "Public domain worldwide. वासुदेव वामन खरे died in 1924 and the work was first published in 1913. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "इचलकरंजी संस्थानाचा इतिहास",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:03:15.157847Z",
+        "revision": "222347",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%87%E0%A4%9A%E0%A4%B2%E0%A4%95%E0%A4%B0%E0%A4%82%E0%A4%9C%E0%A5%80_%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%9A%E0%A4%BE_%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8"
+      },
+      "title": "इचलकरंजी संस्थानाचा इतिहास",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "khare-ichalkaranji-sansthanacha-itihas"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "88410d4936003aab9cfb8ce646b9d98883d4b8b8cc207be1476b91cc5421b537",
+        "encoding": "gzip",
+        "path": "books/mr/kosambi-buddha-dharma-ani-sangha.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "3394b69b3da6b906cf205b6590ea31f3396e60de6d25072d4518294b664a9661",
+        "sizeBytes": 71204,
+        "uncompressedSizeBytes": 378159,
+        "wordCount": 20429
+      },
+      "author": "धर्मानंद दामोदर कोसंबी",
+      "authorDeathYear": 1947,
+      "editionId": "kosambi-buddha-dharma-ani-sangha.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1910,
+      "originalTitle": "बुद्ध, धर्म आणि संघ",
+      "rights": {
+        "statement": "Public domain worldwide. धर्मानंद दामोदर कोसंबी died in 1947 and the work was first published in 1910. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "बुद्ध, धर्म आणि संघ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:03:25.058230Z",
+        "revision": "234098",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%2C_%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE_%E0%A4%86%E0%A4%A3%E0%A4%BF_%E0%A4%B8%E0%A4%82%E0%A4%98"
+      },
+      "title": "बुद्ध, धर्म आणि संघ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kosambi-buddha-dharma-ani-sangha"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "dc804fb9a666edff0263f1da5e2f7566f5a587f78a85c76a45d18b4aa7ede4d4",
+        "encoding": "gzip",
+        "path": "books/mr/kosambi-nivedan.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "23b08f5699a1f3f18b652aeb123fee91b237bdb853ffecf34ef7bf8c9a643dbd",
+        "sizeBytes": 190689,
+        "uncompressedSizeBytes": 1013506,
+        "wordCount": 57012
+      },
+      "author": "धर्मानंद दामोदर कोसंबी",
+      "authorDeathYear": 1947,
+      "editionId": "kosambi-nivedan.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1924,
+      "originalTitle": "निवेदन",
+      "rights": {
+        "statement": "Public domain worldwide. धर्मानंद दामोदर कोसंबी died in 1947 and the work was first published in 1924. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "निवेदन",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:03:28.090589Z",
+        "revision": "226130",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%A8"
+      },
+      "title": "निवेदन",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kosambi-nivedan"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 11,
+        "contentSha256": "e10006857cb05991fa900bc3dccdcf5a2a2c5ccfb960693b58f7a37370200050",
+        "encoding": "gzip",
+        "path": "books/mr/parasnis-baijabai-shinde-hyanche-charitra.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "35ae04ea6787b0efcaa62d29268b66560721b9b93bc73915db0d66714cdf7d3c",
+        "sizeBytes": 103915,
+        "uncompressedSizeBytes": 588437,
+        "wordCount": 29920
+      },
+      "author": "दत्तात्रय बळवंत पारसनीस",
+      "authorDeathYear": 1926,
+      "editionId": "parasnis-baijabai-shinde-hyanche-charitra.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1902,
+      "originalTitle": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र",
+      "rights": {
+        "statement": "Public domain worldwide. दत्तात्रय बळवंत पारसनीस died in 1926 and the work was first published in 1902. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:03:47.366674Z",
+        "revision": "214217",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%AC%E0%A4%BE%E0%A4%AF%E0%A4%9C%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%88%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A5%87%E0%A4%AC_%E0%A4%B6%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%87_%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%9A%E0%A5%87_%E0%A4%9A%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0"
+      },
+      "title": "बायजाबाईसाहेब शिंदे ह्यांचे चरित्र",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "parasnis-baijabai-shinde-hyanche-charitra"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 19,
+        "contentSha256": "1716a19dc8fbae77429e9ecf3d268070404635d9600fa466cacf477d38d37cb4",
+        "encoding": "gzip",
+        "path": "books/mr/phule-shetkaryacha-asud.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6b6c9bd55f5b96c07531e585e2cc3c15aa6d001b840a2537df640f4d30d10646",
+        "sizeBytes": 87511,
+        "uncompressedSizeBytes": 485611,
+        "wordCount": 23982
+      },
+      "author": "ज्योतिराव फुले",
+      "authorDeathYear": 1890,
+      "editionId": "phule-shetkaryacha-asud.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1881,
+      "originalTitle": "शेतकर्याचा असूड",
+      "rights": {
+        "statement": "Public domain worldwide. ज्योतिराव फुले died in 1890 and the work was first published in 1881. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "शेतकऱ्याचा असूड",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:04:14.867936Z",
+        "revision": "150596",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%B6%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%B1%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE_%E0%A4%85%E0%A4%B8%E0%A5%82%E0%A4%A1"
+      },
+      "title": "शेतकर्याचा असूड",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "phule-shetkaryacha-asud"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "aaeb8729ca2e8a2ed3170797af537286e2c30f36156a3b6876f94bb63cee1dda",
+        "encoding": "gzip",
+        "path": "books/mr/sane-na-gokhale-charitra.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4661f919f5acbdbb6ed6d8a27863e801e62094ed950a5f9262582df023eb8cf0",
+        "sizeBytes": 290724,
+        "uncompressedSizeBytes": 1305465,
+        "wordCount": 81016
+      },
+      "author": "पांडुरंग सदाशिव साने",
+      "authorDeathYear": 1950,
+      "editionId": "sane-na-gokhale-charitra.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1925,
+      "originalTitle": "ना. गोखले चरित्र",
+      "rights": {
+        "statement": "Public domain worldwide. पांडुरंग सदाशिव साने died in 1950 and the work was first published in 1925. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "ना. गोखले चरित्र",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:04:18.452532Z",
+        "revision": "234263",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE._%E0%A4%97%E0%A5%8B%E0%A4%96%E0%A4%B2%E0%A5%87_%E0%A4%9A%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0"
+      },
+      "title": "ना. गोखले चरित्र",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "sane-na-gokhale-charitra"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "c37b1330c9cc8281a873bfbbbb2c1df16d1799ebde459f2f04bbbd20365db9b6",
+        "encoding": "gzip",
+        "path": "books/mr/sane-puratatvabhushan-kai-itihasacharya-rajwade-yanche-charitra.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a7f4cd0af47f84e1abdd0137fcb3455acf2ab747898f530ffe022917d3b709c8",
+        "sizeBytes": 83205,
+        "uncompressedSizeBytes": 419305,
+        "wordCount": 22924
+      },
+      "author": "पांडुरंग सदाशिव साने",
+      "authorDeathYear": 1950,
+      "editionId": "sane-puratatvabhushan-kai-itihasacharya-rajwade-yanche-charitra.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1928,
+      "originalTitle": "पुरातत्वभूषण कै. इतिहासाचार्य राजवाडे यांचे चरित्र",
+      "rights": {
+        "statement": "Public domain worldwide. पांडुरंग सदाशिव साने died in 1950 and the work was first published in 1928. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "पुरातत्वभूषण कै. इतिहासाचार्य राजवाडे यांचे चरित्र",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:04:22.078306Z",
+        "revision": "209040",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%AD%E0%A5%82%E0%A4%B7%E0%A4%A3_%E0%A4%95%E0%A5%88._%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF_%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%B5%E0%A4%BE%E0%A4%A1%E0%A5%87_%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%9A%E0%A5%87_%E0%A4%9A%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0"
+      },
+      "title": "पुरातत्वभूषण कै. इतिहासाचार्य राजवाडे यांचे चरित्र",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "sane-puratatvabhushan-kai-itihasacharya-rajwade-yanche-charitra"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "548b69830f775ded4a8fa8739c8d800b32d1ae9d23e73ea4488562c3e7cb6763",
+        "encoding": "gzip",
+        "path": "books/mr/vivekananda-swami-vivekanand-yanche-samagra-granth-navam-khand.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "52f8a05d342ede688ff0344c3eef5df0969ba4c87a7bec2e517c46e15adbace0",
+        "sizeBytes": 262847,
+        "uncompressedSizeBytes": 1464646,
+        "wordCount": 83444
+      },
+      "author": "स्वामी विवेकानंद",
+      "authorDeathYear": 1902,
+      "editionId": "vivekananda-swami-vivekanand-yanche-samagra-granth-navam-khand.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1922,
+      "originalTitle": "स्वामी विवेकानंद यांचे समग्र ग्रंथ नवम खंड",
+      "rights": {
+        "statement": "Public domain worldwide. स्वामी विवेकानंद died in 1902 and the work was first published in 1922. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "स्वामी विवेकानंद यांचे समग्र ग्रंथ नवम खंड",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:04:25.647343Z",
+        "revision": "233886",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A5%80_%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%95%E0%A4%BE%E0%A4%A8%E0%A4%82%E0%A4%A6_%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%9A%E0%A5%87_%E0%A4%B8%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%82%E0%A4%A5_%E0%A4%A8%E0%A4%B5%E0%A4%AE_%E0%A4%96%E0%A4%82%E0%A4%A1"
+      },
+      "title": "स्वामी विवेकानंद यांचे समग्र ग्रंथ नवम खंड",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vivekananda-swami-vivekanand-yanche-samagra-granth-navam-khand"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 9,
+        "contentSha256": "2030570731b189bb6caf972c026842bd3a1a2b704357478cf38f861e23d9b232",
+        "encoding": "gzip",
+        "path": "books/mr/vivekananda-swami-vivekananda-yanche-samgra-granth-pratham-khand.mr.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "becc9fa1c6cb664231e464b88c7ea638e151d29939002608c6a64ac7dc3d7402",
+        "sizeBytes": 270204,
+        "uncompressedSizeBytes": 1489551,
+        "wordCount": 83687
+      },
+      "author": "स्वामी विवेकानंद",
+      "authorDeathYear": 1902,
+      "editionId": "vivekananda-swami-vivekananda-yanche-samgra-granth-pratham-khand.mr.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "mr",
+      "originalLanguage": "mr",
+      "originalPublicationYear": 1912,
+      "originalTitle": "स्वामी विवेकानंद यांचे समग्र ग्रंथ (प्रथम खंड)",
+      "rights": {
+        "statement": "Public domain worldwide. स्वामी विवेकानंद died in 1902 and the work was first published in 1912. Source: mr.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "स्वामी विवेकानंद यांचे समग्र ग्रंथ (प्रथम खंड)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:04:42.442150Z",
+        "revision": "234055",
+        "url": "https://mr.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A5%80_%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%95%E0%A4%BE%E0%A4%A8%E0%A4%82%E0%A4%A6_%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%9A%E0%A5%87_%E0%A4%B8%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%82%E0%A4%A5_(%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE_%E0%A4%96%E0%A4%82%E0%A4%A1)"
+      },
+      "title": "स्वामी विवेकानंद यांचे समग्र ग्रंथ (प्रथम खंड)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vivekananda-swami-vivekananda-yanche-samgra-granth-pratham-khand"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Marathi",
+  "language": "mr",
+  "manifestVersion": "63e29c2be17eb8a9",
+  "nativeName": "मराठी",
+  "schemaVersion": 1
+}

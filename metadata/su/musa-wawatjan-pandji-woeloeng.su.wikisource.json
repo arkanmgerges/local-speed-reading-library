@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:26.191678Z",
+    "chapterCount": 3,
+    "contentSha256": "34f6281d030eb75c2065a0bc534f62ca447a626c371f5758ce1f17f542ef1cb6",
+    "normalizerVersion": "0.2.0",
+    "path": "books/su/musa-wawatjan-pandji-woeloeng.su.wikisource/v1/book.json.gz",
+    "sha256": "416a593da9a3eeca5a7e77c96bd6ae492831c01c017bb9a269e35e67be6c9f42",
+    "sizeBytes": 72389,
+    "uncompressedSizeBytes": 222406,
+    "wordCount": 27788
+  },
+  "edition": {
+    "editionId": "musa-wawatjan-pandji-woeloeng.su.wikisource",
+    "kind": "original",
+    "language": "su",
+    "title": "Wawatjan Pandji Woeloeng"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1886: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1876: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q132543344",
+      "https://www.wikidata.org/wiki/Q7414542",
+      "https://su.wikisource.org/wiki/Wawatjan_Pandji_Woeloeng"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Muhamad Musa died in 1886 and the work was first published in 1876. Source: su.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Wawatjan Pandji Woeloeng",
+    "pages": [
+      {
+        "revision": 20160,
+        "title": "Wawatjan Pandji Woeloeng"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:58:21.242029Z",
+    "revision": "20160",
+    "site": "su.wikisource.org",
+    "url": "https://su.wikisource.org/wiki/Wawatjan_Pandji_Woeloeng"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1822,
+      "deathYear": 1886,
+      "name": "Muhamad Musa",
+      "wikidata": "Q7414542"
+    },
+    "originalLanguage": "su",
+    "originalPublicationYear": 1876,
+    "originalTitle": "Wawatjan Pandji Woeloeng",
+    "workId": "musa-wawatjan-pandji-woeloeng"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:04.950520Z",
+    "chapterCount": 42,
+    "contentSha256": "6aab543113713935a2f5a3e2b9713db0af374b592bbf0aa687daaf95f2ba24bc",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/rizal-el-filibusterismo-continuacion-del-noli-me-tangere.es.gutenberg/v1/book.json.gz",
+    "sha256": "1704d18b8d6ad601309820209301f1fbae72b12e25142fd863459c2ea0c1c616",
+    "sizeBytes": 248299,
+    "uncompressedSizeBytes": 681354,
+    "wordCount": 107373
+  },
+  "edition": {
+    "editionId": "rizal-el-filibusterismo-continuacion-del-noli-me-tangere.es.gutenberg",
+    "kind": "original",
+    "language": "es",
+    "title": "El Filibusterismo (Continuación del Noli me tángere)"
+  },
+  "genres": [
+    "Fiction",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1896: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1891: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/30903",
+      "https://en.wikipedia.org/wiki/José_Rizal",
+      "https://tl.wikipedia.org/wiki/José_Rizal",
+      "https://www.wikidata.org/wiki/Q1249199"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. José Rizal died in 1896 and the work was first published in 1891. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "30903",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:46:13.167217Z",
+    "revision": "Sun, 13 Sep 2026 00:16:44 GMT",
+    "url": "https://www.gutenberg.org/ebooks/30903"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1861,
+      "deathYear": 1896,
+      "name": "José Rizal",
+      "wikidata": "Q1500"
+    },
+    "originalLanguage": "es",
+    "originalPublicationYear": 1891,
+    "originalTitle": "El Filibusterismo (Continuación del Noli me tángere)",
+    "workId": "rizal-el-filibusterismo-continuacion-del-noli-me-tangere"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:25.724808Z",
+    "chapterCount": 13,
+    "contentSha256": "5a06200f7f385e9d39e7af81e10f97be9df974f50513af0cc5405fe3456b1fcc",
+    "normalizerVersion": "0.2.0",
+    "path": "books/et/tammsaare-noored-hinged.et.wikisource/v1/book.json.gz",
+    "sha256": "b922a68350c35f301f6fbe838010a3f1e558d162d7894d2338a2296ed9089610",
+    "sizeBytes": 87091,
+    "uncompressedSizeBytes": 253250,
+    "wordCount": 35012
+  },
+  "edition": {
+    "editionId": "tammsaare-noored-hinged.et.wikisource",
+    "kind": "original",
+    "language": "et",
+    "title": "Noored hinged"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1940: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1909: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q16405054",
+      "https://www.wikidata.org/wiki/Q353637",
+      "https://et.wikisource.org/wiki/Noored_hinged"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. A. H. Tammsaare died in 1940 and the work was first published in 1909. Source: et.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Noored hinged",
+    "pages": [
+      {
+        "revision": 42834,
+        "title": "Noored hinged"
+      },
+      {
+        "revision": 42314,
+        "title": "Noored hinged/1"
+      },
+      {
+        "revision": 42319,
+        "title": "Noored hinged/2"
+      },
+      {
+        "revision": 42323,
+        "title": "Noored hinged/3"
+      },
+      {
+        "revision": 42327,
+        "title": "Noored hinged/4"
+      },
+      {
+        "revision": 42330,
+        "title": "Noored hinged/5"
+      },
+      {
+        "revision": 42356,
+        "title": "Noored hinged/6"
+      },
+      {
+        "revision": 42374,
+        "title": "Noored hinged/7"
+      },
+      {
+        "revision": 42402,
+        "title": "Noored hinged/8"
+      },
+      {
+        "revision": 42410,
+        "title": "Noored hinged/9"
+      },
+      {
+        "revision": 42422,
+        "title": "Noored hinged/10"
+      },
+      {
+        "revision": 42448,
+        "title": "Noored hinged/11"
+      },
+      {
+        "revision": 42460,
+        "title": "Noored hinged/12"
+      },
+      {
+        "revision": 42472,
+        "title": "Noored hinged/13"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:53:13.692853Z",
+    "revision": "42834",
+    "site": "et.wikisource.org",
+    "url": "https://et.wikisource.org/wiki/Noored_hinged"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1878,
+      "deathYear": 1940,
+      "name": "A. H. Tammsaare",
+      "wikidata": "Q353637"
+    },
+    "originalLanguage": "et",
+    "originalPublicationYear": 1909,
+    "originalTitle": "Noored hinged",
+    "workId": "tammsaare-noored-hinged"
+  }
+}

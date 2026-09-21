@@ -1,0 +1,109 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:37.147310Z",
+    "chapterCount": 9,
+    "contentSha256": "edd658963b05ad52f475b3f19a1c32fd02e396df6bfa500240f6e38ea64c29f9",
+    "normalizerVersion": "0.2.0",
+    "path": "books/te/srinatha-kasikhandamu.te.wikisource/v1/book.json.gz",
+    "sha256": "8834348de226787cd1489e3aff7ec92e7ae0c5cf09836527a3b707e98c9f783e",
+    "sizeBytes": 261989,
+    "uncompressedSizeBytes": 1208790,
+    "wordCount": 42060
+  },
+  "edition": {
+    "editionId": "srinatha-kasikhandamu.te.wikisource",
+    "kind": "original",
+    "language": "te",
+    "title": "కాశీఖండము"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1440: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1917: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q15692472",
+      "https://www.wikidata.org/wiki/Q5278576",
+      "https://te.wikisource.org/wiki/%E0%B0%95%E0%B0%BE%E0%B0%B6%E0%B1%80%E0%B0%96%E0%B0%82%E0%B0%A1%E0%B0%AE%E0%B1%81"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. శ్రీనాథుడు died in 1440 and the work was first published in 1917. Source: te.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "కాశీఖండము",
+    "pages": [
+      {
+        "revision": 580397,
+        "title": "కాశీఖండము"
+      },
+      {
+        "revision": 299817,
+        "title": "కాశీఖండము/ప్రకాశకవిజ్ఞప్తి"
+      },
+      {
+        "revision": 299815,
+        "title": "కాశీఖండము/పీఠిక"
+      },
+      {
+        "revision": 299814,
+        "title": "కాశీఖండము/ప్రథమాశ్వాసము"
+      },
+      {
+        "revision": 302118,
+        "title": "కాశీఖండము/ద్వితీయాశ్వాసము"
+      },
+      {
+        "revision": 303784,
+        "title": "కాశీఖండము/తృతీయాశ్వాసము"
+      },
+      {
+        "revision": 303785,
+        "title": "కాశీఖండము/చతుర్థాశ్వాసము"
+      },
+      {
+        "revision": 303786,
+        "title": "కాశీఖండము/పంచమాశ్వాసము"
+      },
+      {
+        "revision": 308442,
+        "title": "కాశీఖండము/షష్ఠాశ్వాసము"
+      },
+      {
+        "revision": 308887,
+        "title": "కాశీఖండము/సప్తమాశ్వాసము"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:16:58.407687Z",
+    "revision": "580397",
+    "site": "te.wikisource.org",
+    "url": "https://te.wikisource.org/wiki/%E0%B0%95%E0%B0%BE%E0%B0%B6%E0%B1%80%E0%B0%96%E0%B0%82%E0%B0%A1%E0%B0%AE%E0%B1%81"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1365,
+      "deathYear": 1440,
+      "name": "శ్రీనాథుడు",
+      "wikidata": "Q5278576"
+    },
+    "originalLanguage": "te",
+    "originalPublicationYear": 1917,
+    "originalTitle": "కాశీఖండము",
+    "workId": "srinatha-kasikhandamu"
+  }
+}

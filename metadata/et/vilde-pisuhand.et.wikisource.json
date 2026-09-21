@@ -1,0 +1,85 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:05.583710Z",
+    "chapterCount": 126,
+    "contentSha256": "e532c1054217a190a44c22cd991f3bb3f873cb9b75cbf3375fca280130ba4e3d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/et/vilde-pisuhand.et.wikisource/v1/book.json.gz",
+    "sha256": "bd0f99c1ec7f99d5de34b0d907bbaba1c2a99b03cc43627158d0ee12c1ff496e",
+    "sizeBytes": 33702,
+    "uncompressedSizeBytes": 101806,
+    "wordCount": 11662
+  },
+  "edition": {
+    "editionId": "vilde-pisuhand.et.wikisource",
+    "kind": "original",
+    "language": "et",
+    "title": "Pisuhänd"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1933: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1913: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12372548",
+      "https://www.wikidata.org/wiki/Q464207",
+      "https://et.wikisource.org/wiki/Pisuh%C3%A4nd"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Eduard Vilde died in 1933 and the work was first published in 1913. Source: et.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Pisuhänd",
+    "pages": [
+      {
+        "revision": 59628,
+        "title": "Pisuhänd"
+      },
+      {
+        "revision": 7445,
+        "title": "Pisuhänd/I"
+      },
+      {
+        "revision": 7509,
+        "title": "Pisuhänd/II"
+      },
+      {
+        "revision": 7575,
+        "title": "Pisuhänd/III"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:56:06.772649Z",
+    "revision": "59628",
+    "site": "et.wikisource.org",
+    "url": "https://et.wikisource.org/wiki/Pisuh%C3%A4nd"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1865,
+      "deathYear": 1933,
+      "name": "Eduard Vilde",
+      "wikidata": "Q464207"
+    },
+    "originalLanguage": "et",
+    "originalPublicationYear": 1913,
+    "originalTitle": "Pisuhänd",
+    "workId": "vilde-pisuhand"
+  }
+}

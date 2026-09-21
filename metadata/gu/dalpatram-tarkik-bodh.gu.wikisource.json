@@ -1,0 +1,133 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:57:55.961137Z",
+    "chapterCount": 15,
+    "contentSha256": "30627003ecc7666dfbf23b842aabc46dba8f6f784f0700ac29bda8ed0cb7ba15",
+    "normalizerVersion": "0.2.0",
+    "path": "books/gu/dalpatram-tarkik-bodh.gu.wikisource/v1/book.json.gz",
+    "sha256": "391cb55b34f64ea4d9a0d1de4fcbc9f8d9805f309b509e371874bdee0a983633",
+    "sizeBytes": 52850,
+    "uncompressedSizeBytes": 270080,
+    "wordCount": 18340
+  },
+  "edition": {
+    "editionId": "dalpatram-tarkik-bodh.gu.wikisource",
+    "kind": "original",
+    "language": "gu",
+    "title": "તાર્કિક બોધ"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1898: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1870: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q18003025",
+      "https://www.wikidata.org/wiki/Q2724159",
+      "https://gu.wikisource.org/wiki/%E0%AA%A4%E0%AA%BE%E0%AA%B0%E0%AB%8D%E0%AA%95%E0%AA%BF%E0%AA%95_%E0%AA%AC%E0%AB%8B%E0%AA%A7"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. દલપતરામ died in 1898 and the work was first published in 1870. Source: gu.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "તાર્કિક બોધ",
+    "pages": [
+      {
+        "revision": 187849,
+        "title": "તાર્કિક બોધ"
+      },
+      {
+        "revision": 187834,
+        "title": "તાર્કિક બોધ/૧. ક્રૂરચંદ અને સુરચંદનો સંવાદ"
+      },
+      {
+        "revision": 187835,
+        "title": "તાર્કિક બોધ/૨. વિશ્વાનુભવસ્વપ્ન"
+      },
+      {
+        "revision": 187836,
+        "title": "તાર્કિક બોધ/૩. લોકોને સુધારવાનું દૃષ્ટાંત"
+      },
+      {
+        "revision": 187837,
+        "title": "તાર્કિક બોધ/૪. ઈશ્વરી ચોપડી વિષે"
+      },
+      {
+        "revision": 187838,
+        "title": "તાર્કિક બોધ/૫. લખેલી વાત માનવા વિષે"
+      },
+      {
+        "revision": 187839,
+        "title": "તાર્કિક બોધ/૬. શાસ્ત્રીઓની સભા"
+      },
+      {
+        "revision": 187840,
+        "title": "તાર્કિક બોધ/૭. લાલા અને કીકાનું સ્વપ્ન"
+      },
+      {
+        "revision": 187841,
+        "title": "તાર્કિક બોધ/૮. વંશપાળ અને યમરાજ"
+      },
+      {
+        "revision": 187842,
+        "title": "તાર્કિક બોધ/૯. બાલકના અભ્યાસની ચાલતી રીત"
+      },
+      {
+        "revision": 187843,
+        "title": "તાર્કિક બોધ/૧૦. અદબ વિષે"
+      },
+      {
+        "revision": 187844,
+        "title": "તાર્કિક બોધ/૧૧. ઠગસાચાની વાત"
+      },
+      {
+        "revision": 187845,
+        "title": "તાર્કિક બોધ/૧૨. જુના તથા હાલના નઠારા ચાલ વિષે"
+      },
+      {
+        "revision": 187846,
+        "title": "તાર્કિક બોધ/૧૩. દેશી રાજાઓ વિષે"
+      },
+      {
+        "revision": 187847,
+        "title": "તાર્કિક બોધ/૧૪. રૂધિર પ્રવાહ વિષે"
+      },
+      {
+        "revision": 187848,
+        "title": "તાર્કિક બોધ/૧૫. મોટી ઘોડાઘાડી વિષે"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:19:01.292505Z",
+    "revision": "187849",
+    "site": "gu.wikisource.org",
+    "url": "https://gu.wikisource.org/wiki/%E0%AA%A4%E0%AA%BE%E0%AA%B0%E0%AB%8D%E0%AA%95%E0%AA%BF%E0%AA%95_%E0%AA%AC%E0%AB%8B%E0%AA%A7"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1820,
+      "deathYear": 1898,
+      "name": "દલપતરામ",
+      "wikidata": "Q2724159"
+    },
+    "originalLanguage": "gu",
+    "originalPublicationYear": 1870,
+    "originalTitle": "તાર્કિક બોધ",
+    "workId": "dalpatram-tarkik-bodh"
+  }
+}

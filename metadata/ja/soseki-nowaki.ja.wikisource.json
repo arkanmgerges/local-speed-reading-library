@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:35.432923Z",
+    "chapterCount": 13,
+    "contentSha256": "cdccf9af238d96f5cb1b543b4fb4bd43c5cf3a9b2a8de7821cdfdc06596de943",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ja/soseki-nowaki.ja.wikisource/v1/book.json.gz",
+    "sha256": "cabcd8166bdabcc9a8656fcf3f6f1941106c0d276f891ec3c56dbc60bf51e091",
+    "sizeBytes": 112681,
+    "uncompressedSizeBytes": 343772,
+    "wordCount": 1567
+  },
+  "edition": {
+    "editionId": "soseki-nowaki.ja.wikisource",
+    "kind": "original",
+    "language": "ja",
+    "title": "野分"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1916: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1907: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q7066346",
+      "https://www.wikidata.org/wiki/Q180903",
+      "https://ja.wikisource.org/wiki/%E9%87%8E%E5%88%86"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 夏目漱石 died in 1916 and the work was first published in 1907. Source: ja.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "野分",
+    "pages": [
+      {
+        "revision": 212635,
+        "title": "野分"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:50:58.121855Z",
+    "revision": "212635",
+    "site": "ja.wikisource.org",
+    "url": "https://ja.wikisource.org/wiki/%E9%87%8E%E5%88%86"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1867,
+      "deathYear": 1916,
+      "name": "夏目漱石",
+      "wikidata": "Q180903"
+    },
+    "originalLanguage": "ja",
+    "originalPublicationYear": 1907,
+    "originalTitle": "野分",
+    "workId": "soseki-nowaki"
+  }
+}

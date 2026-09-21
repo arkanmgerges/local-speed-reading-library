@@ -1,0 +1,121 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:35.496076Z",
+    "chapterCount": 12,
+    "contentSha256": "87bb337203fad0eba1165dbcc56c1fca8ea57ba69e2d1e09f83e082565cd92fe",
+    "normalizerVersion": "0.2.0",
+    "path": "books/et/tammsaare-ule-piiri.et.wikisource/v1/book.json.gz",
+    "sha256": "e12db09c8dc2ac96bd5521a05faac0095fedd0d78d1f7b337cc68e631b3564a9",
+    "sizeBytes": 63288,
+    "uncompressedSizeBytes": 177568,
+    "wordCount": 24341
+  },
+  "edition": {
+    "editionId": "tammsaare-ule-piiri.et.wikisource",
+    "kind": "original",
+    "language": "et",
+    "title": "Üle piiri"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1940: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1910: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q20529011",
+      "https://www.wikidata.org/wiki/Q353637",
+      "https://et.wikisource.org/wiki/%C3%9Cle_piiri"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. A. H. Tammsaare died in 1940 and the work was first published in 1910. Source: et.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Üle piiri",
+    "pages": [
+      {
+        "revision": 42658,
+        "title": "Üle piiri"
+      },
+      {
+        "revision": 42692,
+        "title": "Üle piiri/1"
+      },
+      {
+        "revision": 42698,
+        "title": "Üle piiri/2"
+      },
+      {
+        "revision": 42726,
+        "title": "Üle piiri/3"
+      },
+      {
+        "revision": 42730,
+        "title": "Üle piiri/4"
+      },
+      {
+        "revision": 42734,
+        "title": "Üle piiri/5"
+      },
+      {
+        "revision": 42774,
+        "title": "Üle piiri/6"
+      },
+      {
+        "revision": 42784,
+        "title": "Üle piiri/7"
+      },
+      {
+        "revision": 42803,
+        "title": "Üle piiri/8"
+      },
+      {
+        "revision": 42812,
+        "title": "Üle piiri/9"
+      },
+      {
+        "revision": 42814,
+        "title": "Üle piiri/10"
+      },
+      {
+        "revision": 42816,
+        "title": "Üle piiri/11"
+      },
+      {
+        "revision": 42819,
+        "title": "Üle piiri/12"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:55:41.458113Z",
+    "revision": "42658",
+    "site": "et.wikisource.org",
+    "url": "https://et.wikisource.org/wiki/%C3%9Cle_piiri"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1878,
+      "deathYear": 1940,
+      "name": "A. H. Tammsaare",
+      "wikidata": "Q353637"
+    },
+    "originalLanguage": "et",
+    "originalPublicationYear": 1910,
+    "originalTitle": "Üle piiri",
+    "workId": "tammsaare-ule-piiri"
+  }
+}

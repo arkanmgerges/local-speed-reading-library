@@ -1,0 +1,223 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:03.766098Z",
+    "chapterCount": 35,
+    "contentSha256": "286af301cdd773d2a8cd35a5c1de00682bfcde70e31ed8bf565f1ee8a81b350c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/flaubert-madame-bovary.sv.wikisource/v1/book.json.gz",
+    "sha256": "d08ea6986b6c2970b016e087e8a19f5a903bbd98cc9412556cba3bc45ae17e0d",
+    "sizeBytes": 250256,
+    "uncompressedSizeBytes": 675451,
+    "wordCount": 104221
+  },
+  "edition": {
+    "editionId": "flaubert-madame-bovary.sv.wikisource",
+    "kind": "translation",
+    "language": "sv",
+    "title": "Madame Bovary",
+    "translationPublicationYear": 1921,
+    "translator": {
+      "birthYear": 1851,
+      "deathYear": 1938,
+      "name": "Ernst Lundquist",
+      "wikidata": "Q5967373"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1880: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1938: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1921: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q193417",
+      "https://www.wikidata.org/wiki/Q111839821",
+      "https://www.wikidata.org/wiki/Q43444",
+      "https://www.wikidata.org/wiki/Q5967373",
+      "https://sv.wikisource.org/wiki/Madame_Bovary"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Gustave Flaubert died in 1880; the translator Ernst Lundquist died in 1938 and this translation was first published in 1921. Source: sv.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Madame Bovary",
+    "pages": [
+      {
+        "revision": 634764,
+        "title": "Madame Bovary"
+      },
+      {
+        "revision": 265231,
+        "title": "Madame Bovary/1"
+      },
+      {
+        "revision": 265232,
+        "title": "Madame Bovary/2"
+      },
+      {
+        "revision": 265233,
+        "title": "Madame Bovary/3"
+      },
+      {
+        "revision": 265234,
+        "title": "Madame Bovary/4"
+      },
+      {
+        "revision": 265235,
+        "title": "Madame Bovary/5"
+      },
+      {
+        "revision": 265236,
+        "title": "Madame Bovary/6"
+      },
+      {
+        "revision": 265238,
+        "title": "Madame Bovary/7"
+      },
+      {
+        "revision": 265239,
+        "title": "Madame Bovary/8"
+      },
+      {
+        "revision": 265240,
+        "title": "Madame Bovary/9"
+      },
+      {
+        "revision": 264987,
+        "title": "Madame Bovary/10"
+      },
+      {
+        "revision": 264988,
+        "title": "Madame Bovary/11"
+      },
+      {
+        "revision": 264989,
+        "title": "Madame Bovary/12"
+      },
+      {
+        "revision": 264990,
+        "title": "Madame Bovary/13"
+      },
+      {
+        "revision": 265027,
+        "title": "Madame Bovary/14"
+      },
+      {
+        "revision": 265028,
+        "title": "Madame Bovary/15"
+      },
+      {
+        "revision": 265029,
+        "title": "Madame Bovary/16"
+      },
+      {
+        "revision": 265030,
+        "title": "Madame Bovary/17"
+      },
+      {
+        "revision": 265031,
+        "title": "Madame Bovary/18"
+      },
+      {
+        "revision": 265032,
+        "title": "Madame Bovary/19"
+      },
+      {
+        "revision": 265033,
+        "title": "Madame Bovary/20"
+      },
+      {
+        "revision": 265034,
+        "title": "Madame Bovary/21"
+      },
+      {
+        "revision": 265035,
+        "title": "Madame Bovary/22"
+      },
+      {
+        "revision": 265036,
+        "title": "Madame Bovary/23"
+      },
+      {
+        "revision": 265038,
+        "title": "Madame Bovary/24"
+      },
+      {
+        "revision": 265170,
+        "title": "Madame Bovary/25"
+      },
+      {
+        "revision": 265156,
+        "title": "Madame Bovary/26"
+      },
+      {
+        "revision": 265157,
+        "title": "Madame Bovary/27"
+      },
+      {
+        "revision": 265158,
+        "title": "Madame Bovary/28"
+      },
+      {
+        "revision": 265160,
+        "title": "Madame Bovary/29"
+      },
+      {
+        "revision": 265213,
+        "title": "Madame Bovary/30"
+      },
+      {
+        "revision": 265214,
+        "title": "Madame Bovary/31"
+      },
+      {
+        "revision": 265215,
+        "title": "Madame Bovary/32"
+      },
+      {
+        "revision": 265218,
+        "title": "Madame Bovary/33"
+      },
+      {
+        "revision": 265219,
+        "title": "Madame Bovary/34"
+      },
+      {
+        "revision": 265222,
+        "title": "Madame Bovary/35"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:06:41.668244Z",
+    "revision": "634764",
+    "site": "sv.wikisource.org",
+    "url": "https://sv.wikisource.org/wiki/Madame_Bovary"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1821,
+      "deathYear": 1880,
+      "name": "Gustave Flaubert",
+      "wikidata": "Q43444"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1857,
+    "originalTitle": "Madame Bovary",
+    "workId": "flaubert-madame-bovary"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:20:35.177407Z",
+    "chapterCount": 5,
+    "contentSha256": "bf5e05223fc1f8c53e71b970db4b13ffb3ee3bad0436e566cca7cfda05550984",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/fadlan-mission-to-the-volga.ar.wikisource/v1/book.json.gz",
+    "sha256": "f5e2934c07bee0eab17e754c4316e0291ebfe42e37bdc22c4bfc362bc99878af",
+    "sizeBytes": 26678,
+    "uncompressedSizeBytes": 91559,
+    "wordCount": 9272
+  },
+  "edition": {
+    "editionId": "fadlan-mission-to-the-volga.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "رسالة ابن فضلان"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 922: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 920: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q5964245",
+      "https://www.wikidata.org/wiki/Q200947",
+      "https://ar.wikisource.org/wiki/%D8%B1%D8%AD%D9%84%D8%A9_%D8%A7%D8%A8%D9%86_%D9%81%D8%B6%D9%84%D8%A7%D9%86"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. أحمد بن فضلان died in 922 and the work was first published in 920. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "رحلة ابن فضلان",
+    "pages": [
+      {
+        "revision": 257547,
+        "title": "رحلة ابن فضلان"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:52:59.818912Z",
+    "revision": "257547",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%B1%D8%AD%D9%84%D8%A9_%D8%A7%D8%A8%D9%86_%D9%81%D8%B6%D9%84%D8%A7%D9%86"
+  },
+  "work": {
+    "author": {
+      "birthYear": 879,
+      "deathYear": 922,
+      "name": "أحمد بن فضلان",
+      "wikidata": "Q200947"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 920,
+    "originalTitle": "رسالة ابن فضلان",
+    "workId": "fadlan-mission-to-the-volga"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 4,
+        "contentSha256": "43ef8b17df69702e5358746ea37ba098108e363517eb7b19be926e346fabef7a",
+        "encoding": "gzip",
+        "path": "books/th/bradley-dictionary-of-the-siamese-language.th.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6c7e5648427fe1c8d1c1c7b823f75f2a8b8b935b92642135d836a67e4c0bc1e6",
+        "sizeBytes": 7397,
+        "uncompressedSizeBytes": 36054,
+        "wordCount": 650
+      },
+      "author": "แดน บีช บรัดเลย์",
+      "authorDeathYear": 1873,
+      "editionId": "bradley-dictionary-of-the-siamese-language.th.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "th",
+      "originalLanguage": "th",
+      "originalPublicationYear": 1873,
+      "originalTitle": "อักขราภิธานศรับท์",
+      "rights": {
+        "statement": "Public domain worldwide. แดน บีช บรัดเลย์ died in 1873 and the work was first published in 1873. Source: th.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "อักขราภิธานศรับท์",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:18:07.777605Z",
+        "revision": "211357",
+        "url": "https://th.wikisource.org/wiki/%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%B4%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B9%8C"
+      },
+      "title": "อักขราภิธานศรับท์",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bradley-dictionary-of-the-siamese-language"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "8ebda6bef34cf2cc6c32abfcf17dd3bd539d36202013b8d4ba7d3934b97a2931",
+        "encoding": "gzip",
+        "path": "books/th/rajanubhab-tamnan-nangsue-sam-kok.th.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8bc3e24e4c6ad77804a02724407d02e5dc64d2b0deb165414dade69e0735ad47",
+        "sizeBytes": 41127,
+        "uncompressedSizeBytes": 278712,
+        "wordCount": 5443
+      },
+      "author": "สมเด็จพระเจ้าบรมวงศ์เธอ กรมพระยาดำรงราชานุภาพ",
+      "authorDeathYear": 1943,
+      "editionId": "rajanubhab-tamnan-nangsue-sam-kok.th.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "th",
+      "originalLanguage": "th",
+      "originalPublicationYear": 1928,
+      "originalTitle": "ตำนานหนังสือสามก๊ก",
+      "rights": {
+        "statement": "Public domain worldwide. สมเด็จพระเจ้าบรมวงศ์เธอ กรมพระยาดำรงราชานุภาพ died in 1943 and the work was first published in 1928. Source: th.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "ตำนานหนังสือสามก๊ก",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:18:12.722202Z",
+        "revision": "266048",
+        "url": "https://th.wikisource.org/wiki/%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B9%8A%E0%B8%81"
+      },
+      "title": "ตำนานหนังสือสามก๊ก",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "rajanubhab-tamnan-nangsue-sam-kok"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Thai",
+  "language": "th",
+  "manifestVersion": "467bc530e9c53dea",
+  "nativeName": "ไทย",
+  "schemaVersion": 1
+}

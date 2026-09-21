@@ -1,0 +1,68 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:55.898461Z",
+    "chapterCount": 326,
+    "contentSha256": "d09cbdf1014f6fc4b5e4ad45a63ecc0126be4d825623d63393cec26aaa0052b5",
+    "normalizerVersion": "0.2.0",
+    "path": "books/la/newton-philosophiae-naturalis-principia-mathematica.la.gutenberg/v1/book.json.gz",
+    "sha256": "56f0ec74204999dd1d63496a427068a88b90053d758db93e12b6ef50ee8a8dbb",
+    "sizeBytes": 257255,
+    "uncompressedSizeBytes": 840539,
+    "wordCount": 124453
+  },
+  "edition": {
+    "editionId": "newton-philosophiae-naturalis-principia-mathematica.la.gutenberg",
+    "kind": "original",
+    "language": "la",
+    "title": "Philosophiae Naturalis Principia Mathematica"
+  },
+  "genres": [
+    "Science",
+    "Philosophy",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1727: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1687: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/28233",
+      "https://en.wikipedia.org/wiki/Isaac_Newton",
+      "https://www.wikidata.org/wiki/Q205921"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Isaac Newton died in 1727 and the work was first published in 1687. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "28233",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:55:51.337885Z",
+    "revision": "Fri, 11 Sep 2026 16:39:43 GMT",
+    "url": "https://www.gutenberg.org/ebooks/28233"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1642,
+      "deathYear": 1727,
+      "name": "Isaac Newton",
+      "wikidata": "Q935"
+    },
+    "originalLanguage": "la",
+    "originalPublicationYear": 1687,
+    "originalTitle": "Philosophiae Naturalis Principia Mathematica",
+    "workId": "newton-philosophiae-naturalis-principia-mathematica"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:26:47.849681Z",
+    "chapterCount": 53,
+    "contentSha256": "1dc6f43249e90335c88f951b2358707277bcd1694d82d0e9e982d0a975febae6",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/dickens-olivier-twist.fr.wikisource/v1/book.json.gz",
+    "sha256": "431d1a715064938a8cb76afff631fbc2582f77733278a38d7eccb9b81cf1d9c4",
+    "sizeBytes": 344321,
+    "uncompressedSizeBytes": 1020709,
+    "wordCount": 164714
+  },
+  "edition": {
+    "editionId": "dickens-olivier-twist.fr.wikisource",
+    "kind": "translation",
+    "language": "fr",
+    "title": "Olivier Twist",
+    "translationPublicationYear": 1893,
+    "translator": {
+      "birthYear": 1825,
+      "deathYear": 1881,
+      "name": "Alfred Gérardin",
+      "wikidata": "Q18115025"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1870: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1881: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1893: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q164974",
+      "https://www.wikidata.org/wiki/Q32836680",
+      "https://www.wikidata.org/wiki/Q5686",
+      "https://www.wikidata.org/wiki/Q18115025",
+      "https://fr.wikisource.org/wiki/Olivier_Twist"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Alfred Gérardin died in 1881 and this translation was first published in 1893. Source: fr.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Olivier Twist",
+    "pages": [
+      {
+        "revision": 14084067,
+        "title": "Olivier Twist"
+      },
+      {
+        "revision": 9777776,
+        "title": "Olivier Twist/Texte entier"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:09:00.990195Z",
+    "revision": "14084067",
+    "site": "fr.wikisource.org",
+    "url": "https://fr.wikisource.org/wiki/Olivier_Twist"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1812,
+      "deathYear": 1870,
+      "name": "Charles Dickens",
+      "wikidata": "Q5686"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1838,
+    "originalTitle": "Olivier Twist",
+    "workId": "dickens-olivier-twist"
+  }
+}

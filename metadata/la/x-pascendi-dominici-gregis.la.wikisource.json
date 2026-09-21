@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:58.318509Z",
+    "chapterCount": 3,
+    "contentSha256": "b49e9e76d4ca2399a7c5e5215d0dc5f55aadd1f08aeb3f1d6432eb902ce386f9",
+    "normalizerVersion": "0.2.0",
+    "path": "books/la/x-pascendi-dominici-gregis.la.wikisource/v1/book.json.gz",
+    "sha256": "e0d0588bf9427178d070b1fa3df86f14ffa39bb48772320b34a9fecdb5e67005",
+    "sizeBytes": 39300,
+    "uncompressedSizeBytes": 101830,
+    "wordCount": 13489
+  },
+  "edition": {
+    "editionId": "x-pascendi-dominici-gregis.la.wikisource",
+    "kind": "original",
+    "language": "la",
+    "title": "Pascendi Dominici gregis"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1914: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1907: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1235047",
+      "https://www.wikidata.org/wiki/Q43739",
+      "https://la.wikisource.org/wiki/Pascendi_Dominici_gregis"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Pius X died in 1914 and the work was first published in 1907. Source: la.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Pascendi Dominici gregis",
+    "pages": [
+      {
+        "revision": 152968,
+        "title": "Pascendi Dominici gregis"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:56:15.778265Z",
+    "revision": "152968",
+    "site": "la.wikisource.org",
+    "url": "https://la.wikisource.org/wiki/Pascendi_Dominici_gregis"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1914,
+      "name": "Pius X",
+      "wikidata": "Q43739"
+    },
+    "originalLanguage": "la",
+    "originalPublicationYear": 1907,
+    "originalTitle": "Pascendi Dominici gregis",
+    "workId": "x-pascendi-dominici-gregis"
+  }
+}

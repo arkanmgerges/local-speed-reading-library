@@ -1,0 +1,129 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:59:27.181092Z",
+    "chapterCount": 14,
+    "contentSha256": "9a95e368cdf9daf19d2aba1934ca8819800b51e8203cf5ea06a1a03b290ed172",
+    "normalizerVersion": "0.2.0",
+    "path": "books/id/malaka-aksi-massa.id.wikisource/v1/book.json.gz",
+    "sha256": "2bd6d792e67f980dcd0062a4599f20ca3c95fc6529f6573a2647793806d335fd",
+    "sizeBytes": 72819,
+    "uncompressedSizeBytes": 228069,
+    "wordCount": 27781
+  },
+  "edition": {
+    "editionId": "malaka-aksi-massa.id.wikisource",
+    "kind": "original",
+    "language": "id",
+    "title": "Aksi Massa"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1949: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1926: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q110962058",
+      "https://www.wikidata.org/wiki/Q561682",
+      "https://id.wikisource.org/wiki/Massa_Actie"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Tan Malaka died in 1949 and the work was first published in 1926. Source: id.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Massa Actie",
+    "pages": [
+      {
+        "revision": 110439,
+        "title": "Massa Actie"
+      },
+      {
+        "revision": 110417,
+        "title": "Massa Actie/Kata Pengantar"
+      },
+      {
+        "revision": 110421,
+        "title": "Massa Actie/Bab 1"
+      },
+      {
+        "revision": 110422,
+        "title": "Massa Actie/Bab 2"
+      },
+      {
+        "revision": 110423,
+        "title": "Massa Actie/Bab 3"
+      },
+      {
+        "revision": 110424,
+        "title": "Massa Actie/Bab 4"
+      },
+      {
+        "revision": 110425,
+        "title": "Massa Actie/Bab 5"
+      },
+      {
+        "revision": 110426,
+        "title": "Massa Actie/Bab 6"
+      },
+      {
+        "revision": 110427,
+        "title": "Massa Actie/Bab 7"
+      },
+      {
+        "revision": 110428,
+        "title": "Massa Actie/Bab 8"
+      },
+      {
+        "revision": 110429,
+        "title": "Massa Actie/Bab 9"
+      },
+      {
+        "revision": 110430,
+        "title": "Massa Actie/Bab 10"
+      },
+      {
+        "revision": 110431,
+        "title": "Massa Actie/Bab 11"
+      },
+      {
+        "revision": 110432,
+        "title": "Massa Actie/Bab 12"
+      },
+      {
+        "revision": 110419,
+        "title": "Massa Actie/Tambahan"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:40:52.368795Z",
+    "revision": "110439",
+    "site": "id.wikisource.org",
+    "url": "https://id.wikisource.org/wiki/Massa_Actie"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1897,
+      "deathYear": 1949,
+      "name": "Tan Malaka",
+      "wikidata": "Q561682"
+    },
+    "originalLanguage": "id",
+    "originalPublicationYear": 1926,
+    "originalTitle": "Aksi Massa",
+    "workId": "malaka-aksi-massa"
+  }
+}

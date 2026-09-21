@@ -1,0 +1,141 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:03:02.999226Z",
+    "chapterCount": 18,
+    "contentSha256": "b4bb0213dbd7d993d3ece92cb683e88720ad14ce1dfc892a96ef11be4e83a8b6",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/nansen-eskimoliv.no.wikisource/v1/book.json.gz",
+    "sha256": "75c5f3fd869c19930732d2974a65f7eb35159bdc909b75dd7eb14dec7fa9a84d",
+    "sizeBytes": 161656,
+    "uncompressedSizeBytes": 440945,
+    "wordCount": 72699
+  },
+  "edition": {
+    "editionId": "nansen-eskimoliv.no.wikisource",
+    "kind": "original",
+    "language": "no",
+    "title": "Eskimoliv"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1891: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q60998145",
+      "https://www.wikidata.org/wiki/Q72292",
+      "https://no.wikisource.org/wiki/Eskimoliv"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Fridtjof Nansen died in 1930 and the work was first published in 1891. Source: no.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Eskimoliv",
+    "pages": [
+      {
+        "revision": 74116,
+        "title": "Eskimoliv"
+      },
+      {
+        "revision": 58590,
+        "title": "Eskimoliv/Forord"
+      },
+      {
+        "revision": 58591,
+        "title": "Eskimoliv/1"
+      },
+      {
+        "revision": 44373,
+        "title": "Eskimoliv/2"
+      },
+      {
+        "revision": 82461,
+        "title": "Eskimoliv/3"
+      },
+      {
+        "revision": 44371,
+        "title": "Eskimoliv/4"
+      },
+      {
+        "revision": 44370,
+        "title": "Eskimoliv/5"
+      },
+      {
+        "revision": 44369,
+        "title": "Eskimoliv/6"
+      },
+      {
+        "revision": 44398,
+        "title": "Eskimoliv/7"
+      },
+      {
+        "revision": 44412,
+        "title": "Eskimoliv/8"
+      },
+      {
+        "revision": 44564,
+        "title": "Eskimoliv/9"
+      },
+      {
+        "revision": 71711,
+        "title": "Eskimoliv/10"
+      },
+      {
+        "revision": 71712,
+        "title": "Eskimoliv/11"
+      },
+      {
+        "revision": 71915,
+        "title": "Eskimoliv/12"
+      },
+      {
+        "revision": 74272,
+        "title": "Eskimoliv/13"
+      },
+      {
+        "revision": 44367,
+        "title": "Eskimoliv/14"
+      },
+      {
+        "revision": 44366,
+        "title": "Eskimoliv/15"
+      },
+      {
+        "revision": 44365,
+        "title": "Eskimoliv/Slutning"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:19:38.203044Z",
+    "revision": "74116",
+    "site": "no.wikisource.org",
+    "url": "https://no.wikisource.org/wiki/Eskimoliv"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1861,
+      "deathYear": 1930,
+      "name": "Fridtjof Nansen",
+      "wikidata": "Q72292"
+    },
+    "originalLanguage": "no",
+    "originalPublicationYear": 1891,
+    "originalTitle": "Eskimoliv",
+    "workId": "nansen-eskimoliv"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:36.868517Z",
+    "chapterCount": 19,
+    "contentSha256": "b87ecc4a05462eeb5fe07a60a70e5564903c4fe0e312eeb416ff98786fa372d5",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/kipling-ksi-ga-dzungli.pl.wikisource/v1/book.json.gz",
+    "sha256": "2e4da54eecb2f3d3d3e47ca79bc06f6637b1fa1192b3fce0c73880337034ab43",
+    "sizeBytes": 252064,
+    "uncompressedSizeBytes": 642997,
+    "wordCount": 91837
+  },
+  "edition": {
+    "editionId": "kipling-ksi-ga-dzungli.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Księga Dżungli",
+    "translationPublicationYear": 1923,
+    "translator": {
+      "birthYear": 1871,
+      "deathYear": 1930,
+      "name": "Franciszek Mirandola",
+      "wikidata": "Q9262740"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1936: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1923: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q189509",
+      "https://www.wikidata.org/wiki/Q131427572",
+      "https://www.wikidata.org/wiki/Q34743",
+      "https://www.wikidata.org/wiki/Q9262740",
+      "https://pl.wikisource.org/wiki/Ksi%C4%99ga_d%C5%BCungli_(Mirandola)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Rudyard Kipling died in 1936; the translator Franciszek Mirandola died in 1930 and this translation was first published in 1923. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Księga dżungli (Mirandola)",
+    "pages": [
+      {
+        "revision": 3263546,
+        "title": "Księga dżungli (Mirandola)"
+      },
+      {
+        "revision": 3263553,
+        "title": "Księga dżungli (Mirandola)/Przedmowa"
+      },
+      {
+        "revision": 3263559,
+        "title": "Księga dżungli (Mirandola)/całość"
+      },
+      {
+        "revision": 3263548,
+        "title": "Księga dżungli (Mirandola)/Bracia małego Mauli"
+      },
+      {
+        "revision": 3263552,
+        "title": "Księga dżungli (Mirandola)/Piosenka łowiecka wilków seeoneeńskich"
+      },
+      {
+        "revision": 3263560,
+        "title": "Księga dżungli (Mirandola)/Łowy węża Kaa"
+      },
+      {
+        "revision": 3263561,
+        "title": "Księga dżungli (Mirandola)/Śpiew Bandar-logów wędrujących"
+      },
+      {
+        "revision": 3263551,
+        "title": "Księga dżungli (Mirandola)/Na tygrysa"
+      },
+      {
+        "revision": 3263550,
+        "title": "Księga dżungli (Mirandola)/Mauli śpiewa"
+      },
+      {
+        "revision": 3263547,
+        "title": "Księga dżungli (Mirandola)/Biała foka"
+      },
+      {
+        "revision": 3263549,
+        "title": "Księga dżungli (Mirandola)/Lukannon"
+      },
+      {
+        "revision": 3263554,
+        "title": "Księga dżungli (Mirandola)/Riki-Tiki-Tavi"
+      },
+      {
+        "revision": 3263556,
+        "title": "Księga dżungli (Mirandola)/Tak śpiewał krawiec Darci"
+      },
+      {
+        "revision": 3263557,
+        "title": "Księga dżungli (Mirandola)/Tumai, przyjaciel słoni"
+      },
+      {
+        "revision": 3263555,
+        "title": "Księga dżungli (Mirandola)/Sziwa i konik polny"
+      },
+      {
+        "revision": 3263558,
+        "title": "Księga dżungli (Mirandola)/W służbie królowej"
+      },
+      {
+        "revision": 3263562,
+        "title": "Księga dżungli (Mirandola)/Śpiewka zwierząt obozowych podczas rewji"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:25:05.064418Z",
+    "revision": "3263546",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Ksi%C4%99ga_d%C5%BCungli_(Mirandola)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1865,
+      "deathYear": 1936,
+      "name": "Rudyard Kipling",
+      "wikidata": "Q34743"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1894,
+    "originalTitle": "Księga Dżungli",
+    "workId": "kipling-ksi-ga-dzungli"
+  }
+}

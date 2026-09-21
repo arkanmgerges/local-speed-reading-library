@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:58.580051Z",
+    "chapterCount": 5,
+    "contentSha256": "3eb7575d54b3883f60cf322e021d4972ed526f8477decdd4f45afe1c92e1df50",
+    "normalizerVersion": "0.2.0",
+    "path": "books/la/xiii-rerum-novarum.la.wikisource/v1/book.json.gz",
+    "sha256": "c9b8880c45b69db670b41d193939284c7c02f30472ac9ce523bf4873938ddb1b",
+    "sizeBytes": 27708,
+    "uncompressedSizeBytes": 70931,
+    "wordCount": 9615
+  },
+  "edition": {
+    "editionId": "xiii-rerum-novarum.la.wikisource",
+    "kind": "original",
+    "language": "la",
+    "title": "Rerum Novarum"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1903: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1891: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q335987",
+      "https://www.wikidata.org/wiki/Q43922",
+      "https://la.wikisource.org/wiki/Rerum_Novarum"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Leo XIII died in 1903 and the work was first published in 1891. Source: la.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Rerum Novarum",
+    "pages": [
+      {
+        "revision": 178300,
+        "title": "Rerum Novarum"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:56:19.106027Z",
+    "revision": "178300",
+    "site": "la.wikisource.org",
+    "url": "https://la.wikisource.org/wiki/Rerum_Novarum"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1810,
+      "deathYear": 1903,
+      "name": "Leo XIII",
+      "wikidata": "Q43922"
+    },
+    "originalLanguage": "la",
+    "originalPublicationYear": 1891,
+    "originalTitle": "Rerum Novarum",
+    "workId": "xiii-rerum-novarum"
+  }
+}

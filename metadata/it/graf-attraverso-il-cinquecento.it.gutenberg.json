@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:59:57.351641Z",
+    "chapterCount": 19,
+    "contentSha256": "c4f0b042b1a2b96e1ed3f67df059c538250b2d220892062eacbcfcf996da7bfd",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/graf-attraverso-il-cinquecento.it.gutenberg/v1/book.json.gz",
+    "sha256": "7f4aa1a95a29b34a30541e6964d6542fbcf12990b7c9e79c0bb6fced19efcea8",
+    "sizeBytes": 219539,
+    "uncompressedSizeBytes": 576029,
+    "wordCount": 90022
+  },
+  "edition": {
+    "editionId": "graf-attraverso-il-cinquecento.it.gutenberg",
+    "editionPublicationYear": 1916,
+    "kind": "original",
+    "language": "it",
+    "title": "Attraverso il Cinquecento"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1913: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1916 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/67595",
+      "https://en.wikipedia.org/wiki/Arturo_Graf",
+      "https://it.wikipedia.org/wiki/Arturo_Graf"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Arturo Graf died in 1913 and the edition digitised by Project Gutenberg was printed in 1916. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "67595",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:45:57.966483Z",
+    "revision": "Wed, 26 Aug 2026 18:04:10 GMT",
+    "url": "https://www.gutenberg.org/ebooks/67595"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1848,
+      "deathYear": 1913,
+      "name": "Arturo Graf",
+      "wikidata": "Q715306"
+    },
+    "originalLanguage": "it",
+    "originalTitle": "Attraverso il Cinquecento",
+    "workId": "graf-attraverso-il-cinquecento"
+  }
+}

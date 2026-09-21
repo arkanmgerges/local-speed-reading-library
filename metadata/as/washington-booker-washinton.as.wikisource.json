@@ -1,0 +1,77 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:51:04.037040Z",
+    "chapterCount": 2,
+    "contentSha256": "6166e70648e89c9e9c3421c1d66f21c34d1da487202d918fa7a719e5b967d4ac",
+    "normalizerVersion": "0.2.0",
+    "path": "books/as/washington-booker-washinton.as.wikisource/v1/book.json.gz",
+    "sha256": "e970ddbd1859a538daf0008f4f2ae8c52d5cf1086fd08c6ad7eb7fa7cdae2013",
+    "sizeBytes": 107433,
+    "uncompressedSizeBytes": 566515,
+    "wordCount": 33882
+  },
+  "edition": {
+    "editionId": "washington-booker-washinton.as.wikisource",
+    "kind": "original",
+    "language": "as",
+    "title": "বুকাৰ ৱাচিংটন"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1915: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1926: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q139967009",
+      "https://www.wikidata.org/wiki/Q319871",
+      "https://as.wikisource.org/wiki/%E0%A6%AC%E0%A7%81%E0%A6%95%E0%A6%BE%E0%A7%B0_%E0%A7%B1%E0%A6%BE%E0%A6%9A%E0%A6%BF%E0%A6%82%E0%A6%9F%E0%A6%A8"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. বুকাৰ টি ৱাচিংটন died in 1915 and the work was first published in 1926. Source: as.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "বুকাৰ ৱাচিংটন",
+    "pages": [
+      {
+        "revision": 251421,
+        "title": "বুকাৰ ৱাচিংটন"
+      },
+      {
+        "revision": 251432,
+        "title": "বুকাৰ ৱাচিংটন/প্ৰথম অধ্যায়"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:55:41.668119Z",
+    "revision": "251421",
+    "site": "as.wikisource.org",
+    "url": "https://as.wikisource.org/wiki/%E0%A6%AC%E0%A7%81%E0%A6%95%E0%A6%BE%E0%A7%B0_%E0%A7%B1%E0%A6%BE%E0%A6%9A%E0%A6%BF%E0%A6%82%E0%A6%9F%E0%A6%A8"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1856,
+      "deathYear": 1915,
+      "name": "বুকাৰ টি ৱাচিংটন",
+      "wikidata": "Q319871"
+    },
+    "originalLanguage": "as",
+    "originalPublicationYear": 1926,
+    "originalTitle": "বুকাৰ ৱাচিংটন",
+    "workId": "washington-booker-washinton"
+  }
+}

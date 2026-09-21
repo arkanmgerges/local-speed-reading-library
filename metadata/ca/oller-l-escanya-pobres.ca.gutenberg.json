@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:36.953461Z",
+    "chapterCount": 10,
+    "contentSha256": "1a8125037047b031a4e2a3a5c9d61d3449a319c7388a3099bd3f85c63c6f92cc",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/oller-l-escanya-pobres.ca.gutenberg/v1/book.json.gz",
+    "sha256": "65578fd1c92530db99a6ec5123f2cadf26db9f5ab239019ce6d5cee663e0e602",
+    "sizeBytes": 53099,
+    "uncompressedSizeBytes": 132860,
+    "wordCount": 20714
+  },
+  "edition": {
+    "editionId": "oller-l-escanya-pobres.ca.gutenberg",
+    "kind": "original",
+    "language": "ca",
+    "title": "L'escanya-pobres"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1884: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/72856",
+      "https://en.wikipedia.org/wiki/Narc%C3%ADs_Oller",
+      "https://ca.wikipedia.org/wiki/Narc%C3%ADs_Oller_i_de_Moragas",
+      "https://www.wikidata.org/wiki/Q11930097"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Narcís Oller died in 1930 and the work was first published in 1884. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "72856",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:05:48.555694Z",
+    "revision": "Sat, 29 Aug 2026 07:43:44 GMT",
+    "url": "https://www.gutenberg.org/ebooks/72856"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1846,
+      "deathYear": 1930,
+      "name": "Narcís Oller",
+      "wikidata": "Q999904"
+    },
+    "originalLanguage": "ca",
+    "originalPublicationYear": 1884,
+    "originalTitle": "L'escanya-pobres",
+    "workId": "oller-l-escanya-pobres"
+  }
+}

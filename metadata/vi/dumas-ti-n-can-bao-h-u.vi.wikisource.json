@@ -1,0 +1,227 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:57.600233Z",
+    "chapterCount": 37,
+    "contentSha256": "0e1494003a7bcca94b57c7946eaa47f91b13ad77909795b37d549c3bdc7283ea",
+    "normalizerVersion": "0.2.0",
+    "path": "books/vi/dumas-ti-n-can-bao-h-u.vi.wikisource/v1/book.json.gz",
+    "sha256": "1b52a3ddf99bd14b5d88d8092cad65e67f34e5fde40d1aff00160a581505bd47",
+    "sizeBytes": 219749,
+    "uncompressedSizeBytes": 726346,
+    "wordCount": 112593
+  },
+  "edition": {
+    "editionId": "dumas-ti-n-can-bao-h-u.vi.wikisource",
+    "kind": "translation",
+    "language": "vi",
+    "title": "Tiền căn báo hậu",
+    "translationPublicationYear": 1914,
+    "translator": {
+      "birthYear": 1868,
+      "deathYear": 1919,
+      "name": "Gilbert Trần Chánh Chiếu",
+      "wikidata": "Q10761579"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1870: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1919: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1914: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q191838",
+      "https://www.wikidata.org/wiki/Q135257499",
+      "https://www.wikidata.org/wiki/Q38337",
+      "https://www.wikidata.org/wiki/Q10761579",
+      "https://vi.wikisource.org/wiki/Ti%E1%BB%81n_c%C4%83n_b%C3%A1o_h%E1%BA%ADu"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Alexandre Dumas died in 1870; the translator Gilbert Trần Chánh Chiếu died in 1919 and this translation was first published in 1914. Source: vi.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Tiền căn báo hậu",
+    "pages": [
+      {
+        "revision": 200454,
+        "title": "Tiền căn báo hậu"
+      },
+      {
+        "revision": 197113,
+        "title": "Tiền căn báo hậu/Tựa"
+      },
+      {
+        "revision": 197126,
+        "title": "Tiền căn báo hậu/I"
+      },
+      {
+        "revision": 197178,
+        "title": "Tiền căn báo hậu/II"
+      },
+      {
+        "revision": 197202,
+        "title": "Tiền căn báo hậu/III"
+      },
+      {
+        "revision": 197230,
+        "title": "Tiền căn báo hậu/IV"
+      },
+      {
+        "revision": 197298,
+        "title": "Tiền căn báo hậu/V"
+      },
+      {
+        "revision": 197409,
+        "title": "Tiền căn báo hậu/VI"
+      },
+      {
+        "revision": 197350,
+        "title": "Tiền căn báo hậu/VII"
+      },
+      {
+        "revision": 197359,
+        "title": "Tiền căn báo hậu/VIII"
+      },
+      {
+        "revision": 197455,
+        "title": "Tiền căn báo hậu/IX"
+      },
+      {
+        "revision": 197469,
+        "title": "Tiền căn báo hậu/X"
+      },
+      {
+        "revision": 197681,
+        "title": "Tiền căn báo hậu/XI"
+      },
+      {
+        "revision": 197693,
+        "title": "Tiền căn báo hậu/XII"
+      },
+      {
+        "revision": 197759,
+        "title": "Tiền căn báo hậu/XIII"
+      },
+      {
+        "revision": 197775,
+        "title": "Tiền căn báo hậu/XIV"
+      },
+      {
+        "revision": 197912,
+        "title": "Tiền căn báo hậu/XV"
+      },
+      {
+        "revision": 197954,
+        "title": "Tiền căn báo hậu/XVI"
+      },
+      {
+        "revision": 197955,
+        "title": "Tiền căn báo hậu/XVII"
+      },
+      {
+        "revision": 198171,
+        "title": "Tiền căn báo hậu/XVIII"
+      },
+      {
+        "revision": 198068,
+        "title": "Tiền căn báo hậu/XIX"
+      },
+      {
+        "revision": 198087,
+        "title": "Tiền căn báo hậu/XX"
+      },
+      {
+        "revision": 198137,
+        "title": "Tiền căn báo hậu/XXI"
+      },
+      {
+        "revision": 198146,
+        "title": "Tiền căn báo hậu/XXII"
+      },
+      {
+        "revision": 198154,
+        "title": "Tiền căn báo hậu/XXIII"
+      },
+      {
+        "revision": 198228,
+        "title": "Tiền căn báo hậu/XXIV"
+      },
+      {
+        "revision": 198235,
+        "title": "Tiền căn báo hậu/XXV"
+      },
+      {
+        "revision": 198250,
+        "title": "Tiền căn báo hậu/XXVI"
+      },
+      {
+        "revision": 198273,
+        "title": "Tiền căn báo hậu/XXVII"
+      },
+      {
+        "revision": 198284,
+        "title": "Tiền căn báo hậu/XXVIII"
+      },
+      {
+        "revision": 200276,
+        "title": "Tiền căn báo hậu/XXIX"
+      },
+      {
+        "revision": 200298,
+        "title": "Tiền căn báo hậu/XXX"
+      },
+      {
+        "revision": 200342,
+        "title": "Tiền căn báo hậu/XXXI"
+      },
+      {
+        "revision": 200397,
+        "title": "Tiền căn báo hậu/XXXII"
+      },
+      {
+        "revision": 200427,
+        "title": "Tiền căn báo hậu/XXXIII"
+      },
+      {
+        "revision": 200449,
+        "title": "Tiền căn báo hậu/XXXIV"
+      },
+      {
+        "revision": 200453,
+        "title": "Tiền căn báo hậu/XXXV"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:23:12.669347Z",
+    "revision": "200454",
+    "site": "vi.wikisource.org",
+    "url": "https://vi.wikisource.org/wiki/Ti%E1%BB%81n_c%C4%83n_b%C3%A1o_h%E1%BA%ADu"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1802,
+      "deathYear": 1870,
+      "name": "Alexandre Dumas",
+      "wikidata": "Q38337"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1844,
+    "originalTitle": "Tiền căn báo hậu",
+    "workId": "dumas-ti-n-can-bao-h-u"
+  }
+}

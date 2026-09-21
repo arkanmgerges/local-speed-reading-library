@@ -1,0 +1,95 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:31:51.057379Z",
+    "chapterCount": 3,
+    "contentSha256": "ff87225740c9fc0fc17abf111a96cd36f119c9706020701ff5575a367d80638e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/france-thais.no.wikisource/v1/book.json.gz",
+    "sha256": "b36ab6bb372287239e967ec4a37c85a7e2c910610d7546a4600f51a439b4dfac",
+    "sizeBytes": 99332,
+    "uncompressedSizeBytes": 267304,
+    "wordCount": 44701
+  },
+  "edition": {
+    "editionId": "france-thais.no.wikisource",
+    "kind": "translation",
+    "language": "no",
+    "title": "Thaïs",
+    "translationPublicationYear": 1915,
+    "translator": {
+      "birthYear": 1891,
+      "deathYear": 1945,
+      "name": "Peter Hjalmar Rokseth",
+      "wikidata": "Q15304713"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1924: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1945: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1915: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q2756710",
+      "https://www.wikidata.org/wiki/Q133273266",
+      "https://www.wikidata.org/wiki/Q42443",
+      "https://www.wikidata.org/wiki/Q15304713",
+      "https://no.wikisource.org/wiki/Tha%C3%AFs"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Anatole France died in 1924; the translator Peter Hjalmar Rokseth died in 1945 and this translation was first published in 1915. Source: no.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Thaïs",
+    "pages": [
+      {
+        "revision": 319986,
+        "title": "Thaïs"
+      },
+      {
+        "revision": 243611,
+        "title": "Thaïs/1"
+      },
+      {
+        "revision": 243752,
+        "title": "Thaïs/2"
+      },
+      {
+        "revision": 243944,
+        "title": "Thaïs/3"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:16:09.924799Z",
+    "revision": "319986",
+    "site": "no.wikisource.org",
+    "url": "https://no.wikisource.org/wiki/Tha%C3%AFs"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1844,
+      "deathYear": 1924,
+      "name": "Anatole France",
+      "wikidata": "Q42443"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1890,
+    "originalTitle": "Thaïs",
+    "workId": "france-thais"
+  }
+}

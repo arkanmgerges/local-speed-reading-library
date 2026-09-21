@@ -1,0 +1,197 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:17.895359Z",
+    "chapterCount": 32,
+    "contentSha256": "721b2c16cf86e94e281487adb1b3e2b7ef3c6d941a4c9271194628d62b0485ef",
+    "normalizerVersion": "0.2.0",
+    "path": "books/bn/carey-dialogues-intended-to-facilitate-the-acquiring-of-the-bengali-language.bn.wikisource/v1/book.json.gz",
+    "sha256": "eeb36447130e53eb96c3c276aa97618785b23ef3a6d5d7725b177a5b06ed6002",
+    "sizeBytes": 61847,
+    "uncompressedSizeBytes": 235084,
+    "wordCount": 23355
+  },
+  "edition": {
+    "editionId": "carey-dialogues-intended-to-facilitate-the-acquiring-of-the-bengali-language.bn.wikisource",
+    "kind": "original",
+    "language": "bn",
+    "title": "কথোপকথন"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1834: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1801: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q25858561",
+      "https://www.wikidata.org/wiki/Q312948",
+      "https://bn.wikisource.org/wiki/%E0%A6%95%E0%A6%A5%E0%A7%8B%E0%A6%AA%E0%A6%95%E0%A6%A5%E0%A6%A8"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. উইলিয়াম কেরি died in 1834 and the work was first published in 1801. Source: bn.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "কথোপকথন",
+    "pages": [
+      {
+        "revision": 1971730,
+        "title": "কথোপকথন"
+      },
+      {
+        "revision": 1972109,
+        "title": "কথোপকথন/চাকর ভাড়াকরণ"
+      },
+      {
+        "revision": 1972142,
+        "title": "কথোপকথন/সাহেবের হুকুম"
+      },
+      {
+        "revision": 1972139,
+        "title": "কথোপকথন/সাহেব ও মুনসি"
+      },
+      {
+        "revision": 1972115,
+        "title": "কথোপকথন/পরামর্শ"
+      },
+      {
+        "revision": 1972124,
+        "title": "কথোপকথন/ভোজনের কথা"
+      },
+      {
+        "revision": 1972134,
+        "title": "কথোপকথন/যাত্রা"
+      },
+      {
+        "revision": 1972116,
+        "title": "কথোপকথন/পরিচয়"
+      },
+      {
+        "revision": 1972123,
+        "title": "কথোপকথন/ভূমির কথা"
+      },
+      {
+        "revision": 1972127,
+        "title": "কথোপকথন/মহাজন আসামি"
+      },
+      {
+        "revision": 1972118,
+        "title": "কথোপকথন/বাগান করিবার হুকুম"
+      },
+      {
+        "revision": 1972119,
+        "title": "কথোপকথন/ভদ্রলাক২ প্রাচীনে২"
+      },
+      {
+        "revision": 1972136,
+        "title": "কথোপকথন/শুপারিস"
+      },
+      {
+        "revision": 1972125,
+        "title": "কথোপকথন/মজুরের কথা বার্ত্তা"
+      },
+      {
+        "revision": 1972105,
+        "title": "কথোপকথন/খাতক মহাজনি"
+      },
+      {
+        "revision": 1972138,
+        "title": "কথোপকথন/সাধু খাতকি"
+      },
+      {
+        "revision": 1972108,
+        "title": "কথোপকথন/ঘটকালি"
+      },
+      {
+        "revision": 1972150,
+        "title": "কথোপকথন/হাটের বিষয়ে"
+      },
+      {
+        "revision": 1972148,
+        "title": "কথোপকথন/স্ত্রীলোকের হাট করা"
+      },
+      {
+        "revision": 1972145,
+        "title": "কথোপকথন/স্ত্রীলোকের কথোপকথন"
+      },
+      {
+        "revision": 1972113,
+        "title": "কথোপকথন/তিয়ারিয়া কথা"
+      },
+      {
+        "revision": 1972100,
+        "title": "কথোপকথন/ইজারার পরামর্শ"
+      },
+      {
+        "revision": 1972121,
+        "title": "কথোপকথন/ভিক্ষুকের কথা"
+      },
+      {
+        "revision": 1972104,
+        "title": "কথোপকথন/কার্য্য চেষ্টার কথা"
+      },
+      {
+        "revision": 1972102,
+        "title": "কথোপকথন/কন্দল"
+      },
+      {
+        "revision": 1972147,
+        "title": "কথোপকথন/স্ত্রীলোকের হাট করণ"
+      },
+      {
+        "revision": 1972132,
+        "title": "কথোপকথন/যাজক ও যজমান"
+      },
+      {
+        "revision": 1972143,
+        "title": "কথোপকথন/স্ত্রীলোক২ কথাবার্ত্তা"
+      },
+      {
+        "revision": 1972128,
+        "title": "কথোপকথন/মাইয়া কন্দল"
+      },
+      {
+        "revision": 1972131,
+        "title": "কথোপকথন/যজমান যাজকের কথা"
+      },
+      {
+        "revision": 1972112,
+        "title": "কথোপকথন/জমিদার রাইয়ত"
+      },
+      {
+        "revision": 1972101,
+        "title": "কথোপকথন/কথোপকথন"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:00:22.013099Z",
+    "revision": "1971730",
+    "site": "bn.wikisource.org",
+    "url": "https://bn.wikisource.org/wiki/%E0%A6%95%E0%A6%A5%E0%A7%8B%E0%A6%AA%E0%A6%95%E0%A6%A5%E0%A6%A8"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1761,
+      "deathYear": 1834,
+      "name": "উইলিয়াম কেরি",
+      "wikidata": "Q312948"
+    },
+    "originalLanguage": "bn",
+    "originalPublicationYear": 1801,
+    "originalTitle": "কথোপকথন",
+    "workId": "carey-dialogues-intended-to-facilitate-the-acquiring-of-the-bengali-language"
+  }
+}

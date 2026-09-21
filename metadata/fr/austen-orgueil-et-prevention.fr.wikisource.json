@@ -1,0 +1,331 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:26:25.194827Z",
+    "chapterCount": 122,
+    "contentSha256": "6c2525aee4a3af64c9befcc0ffb331a363e4e548078d3894938545bd0cdbd356",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/austen-orgueil-et-prevention.fr.wikisource/v1/book.json.gz",
+    "sha256": "5c12fa4d6b0ce93ca89a1c003e7e38facdbd4ee9485f57b7f60b567f18784afb",
+    "sizeBytes": 495768,
+    "uncompressedSizeBytes": 1531957,
+    "wordCount": 242382
+  },
+  "edition": {
+    "editionId": "austen-orgueil-et-prevention.fr.wikisource",
+    "kind": "translation",
+    "language": "fr",
+    "title": "Orgueil et Prévention",
+    "translationPublicationYear": 1822,
+    "translator": {
+      "birthYear": 1790,
+      "deathYear": 1850,
+      "name": "Eloïse Perks",
+      "wikidata": "Q18115683"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1817: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1850: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1822: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q170583",
+      "https://www.wikidata.org/wiki/Q44524224",
+      "https://www.wikidata.org/wiki/Q36322",
+      "https://www.wikidata.org/wiki/Q18115683",
+      "https://fr.wikisource.org/wiki/Orgueil_et_Pr%C3%A9vention"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jane Austen died in 1817; the translator Eloïse Perks died in 1850 and this translation was first published in 1822. Source: fr.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Orgueil et Prévention",
+    "pages": [
+      {
+        "revision": 14215144,
+        "title": "Orgueil et Prévention"
+      },
+      {
+        "revision": 15966843,
+        "title": "Orgueil et Prévention/Texte entier"
+      },
+      {
+        "revision": 4037548,
+        "title": "Orgueil et Prévention/1"
+      },
+      {
+        "revision": 3979266,
+        "title": "Orgueil et Prévention/2"
+      },
+      {
+        "revision": 3979288,
+        "title": "Orgueil et Prévention/3"
+      },
+      {
+        "revision": 3979299,
+        "title": "Orgueil et Prévention/4"
+      },
+      {
+        "revision": 3979306,
+        "title": "Orgueil et Prévention/5"
+      },
+      {
+        "revision": 3979451,
+        "title": "Orgueil et Prévention/6"
+      },
+      {
+        "revision": 3979454,
+        "title": "Orgueil et Prévention/7"
+      },
+      {
+        "revision": 3984672,
+        "title": "Orgueil et Prévention/8"
+      },
+      {
+        "revision": 6873361,
+        "title": "Orgueil et Prévention/9"
+      },
+      {
+        "revision": 3979463,
+        "title": "Orgueil et Prévention/10"
+      },
+      {
+        "revision": 3984813,
+        "title": "Orgueil et Prévention/11"
+      },
+      {
+        "revision": 3979469,
+        "title": "Orgueil et Prévention/12"
+      },
+      {
+        "revision": 3979472,
+        "title": "Orgueil et Prévention/13"
+      },
+      {
+        "revision": 3979475,
+        "title": "Orgueil et Prévention/14"
+      },
+      {
+        "revision": 3979478,
+        "title": "Orgueil et Prévention/15"
+      },
+      {
+        "revision": 3979533,
+        "title": "Orgueil et Prévention/16"
+      },
+      {
+        "revision": 3979537,
+        "title": "Orgueil et Prévention/17"
+      },
+      {
+        "revision": 3980356,
+        "title": "Orgueil et Prévention/18"
+      },
+      {
+        "revision": 3980357,
+        "title": "Orgueil et Prévention/19"
+      },
+      {
+        "revision": 3980358,
+        "title": "Orgueil et Prévention/20"
+      },
+      {
+        "revision": 3980359,
+        "title": "Orgueil et Prévention/21"
+      },
+      {
+        "revision": 3986997,
+        "title": "Orgueil et Prévention/22"
+      },
+      {
+        "revision": 3980361,
+        "title": "Orgueil et Prévention/23"
+      },
+      {
+        "revision": 3980362,
+        "title": "Orgueil et Prévention/24"
+      },
+      {
+        "revision": 3980364,
+        "title": "Orgueil et Prévention/25"
+      },
+      {
+        "revision": 3980365,
+        "title": "Orgueil et Prévention/26"
+      },
+      {
+        "revision": 3980366,
+        "title": "Orgueil et Prévention/27"
+      },
+      {
+        "revision": 3980367,
+        "title": "Orgueil et Prévention/28"
+      },
+      {
+        "revision": 3980368,
+        "title": "Orgueil et Prévention/29"
+      },
+      {
+        "revision": 3980369,
+        "title": "Orgueil et Prévention/30"
+      },
+      {
+        "revision": 3980370,
+        "title": "Orgueil et Prévention/31"
+      },
+      {
+        "revision": 3980371,
+        "title": "Orgueil et Prévention/32"
+      },
+      {
+        "revision": 3980372,
+        "title": "Orgueil et Prévention/33"
+      },
+      {
+        "revision": 3980373,
+        "title": "Orgueil et Prévention/34"
+      },
+      {
+        "revision": 3979934,
+        "title": "Orgueil et Prévention/35"
+      },
+      {
+        "revision": 3980374,
+        "title": "Orgueil et Prévention/36"
+      },
+      {
+        "revision": 3980375,
+        "title": "Orgueil et Prévention/37"
+      },
+      {
+        "revision": 3980376,
+        "title": "Orgueil et Prévention/38"
+      },
+      {
+        "revision": 3980377,
+        "title": "Orgueil et Prévention/39"
+      },
+      {
+        "revision": 3980378,
+        "title": "Orgueil et Prévention/40"
+      },
+      {
+        "revision": 3980379,
+        "title": "Orgueil et Prévention/41"
+      },
+      {
+        "revision": 3980380,
+        "title": "Orgueil et Prévention/42"
+      },
+      {
+        "revision": 3980381,
+        "title": "Orgueil et Prévention/43"
+      },
+      {
+        "revision": 3980382,
+        "title": "Orgueil et Prévention/44"
+      },
+      {
+        "revision": 3980383,
+        "title": "Orgueil et Prévention/45"
+      },
+      {
+        "revision": 3980384,
+        "title": "Orgueil et Prévention/46"
+      },
+      {
+        "revision": 12790738,
+        "title": "Orgueil et Prévention/47"
+      },
+      {
+        "revision": 3980386,
+        "title": "Orgueil et Prévention/48"
+      },
+      {
+        "revision": 3980387,
+        "title": "Orgueil et Prévention/49"
+      },
+      {
+        "revision": 3980389,
+        "title": "Orgueil et Prévention/50"
+      },
+      {
+        "revision": 3980390,
+        "title": "Orgueil et Prévention/51"
+      },
+      {
+        "revision": 3980392,
+        "title": "Orgueil et Prévention/52"
+      },
+      {
+        "revision": 3980394,
+        "title": "Orgueil et Prévention/53"
+      },
+      {
+        "revision": 3980395,
+        "title": "Orgueil et Prévention/54"
+      },
+      {
+        "revision": 3980396,
+        "title": "Orgueil et Prévention/55"
+      },
+      {
+        "revision": 3980397,
+        "title": "Orgueil et Prévention/56"
+      },
+      {
+        "revision": 3980399,
+        "title": "Orgueil et Prévention/57"
+      },
+      {
+        "revision": 3980401,
+        "title": "Orgueil et Prévention/58"
+      },
+      {
+        "revision": 3980403,
+        "title": "Orgueil et Prévention/59"
+      },
+      {
+        "revision": 3980405,
+        "title": "Orgueil et Prévention/60"
+      },
+      {
+        "revision": 3982678,
+        "title": "Orgueil et Prévention/61"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:06:36.939926Z",
+    "revision": "14215144",
+    "site": "fr.wikisource.org",
+    "url": "https://fr.wikisource.org/wiki/Orgueil_et_Pr%C3%A9vention"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1775,
+      "deathYear": 1817,
+      "name": "Jane Austen",
+      "wikidata": "Q36322"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1813,
+    "originalTitle": "Orgueil et Prévention",
+    "workId": "austen-orgueil-et-prevention"
+  }
+}

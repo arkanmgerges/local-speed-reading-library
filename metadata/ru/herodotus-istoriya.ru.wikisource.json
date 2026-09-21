@@ -1,0 +1,118 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:19.666340Z",
+    "chapterCount": 9,
+    "contentSha256": "1a7bda5366c135c2a5e59ea825f0f282f1c40ff1fe6b954fa839fc45ea936a5a",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ru/herodotus-istoriya.ru.wikisource/v1/book.json.gz",
+    "sha256": "35742756c1d94a07d8de4c02aa0c5da9381a684511c9b6b6eb9e067ccd1ee670",
+    "sizeBytes": 580161,
+    "uncompressedSizeBytes": 2252134,
+    "wordCount": 190240
+  },
+  "edition": {
+    "editionId": "herodotus-istoriya.ru.wikisource",
+    "kind": "translation",
+    "language": "ru",
+    "title": "История",
+    "translationPublicationYear": 1885,
+    "translator": {
+      "birthYear": 1848,
+      "deathYear": 1906,
+      "name": "Фёдор Герасимович Мищенко",
+      "wikidata": "Q4298556"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -424: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1906: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1885: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q746583",
+      "https://www.wikidata.org/wiki/Q51270129",
+      "https://www.wikidata.org/wiki/Q26825",
+      "https://www.wikidata.org/wiki/Q4298556",
+      "https://ru.wikisource.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_(%D0%93%D0%B5%D1%80%D0%BE%D0%B4%D0%BE%D1%82%3B_%D0%9C%D0%B8%D1%89%D0%B5%D0%BD%D0%BA%D0%BE)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Геродот died in -424; the translator Фёдор Герасимович Мищенко died in 1906 and this translation was first published in 1885. Source: ru.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "История (Геродот; Мищенко)",
+    "pages": [
+      {
+        "revision": 4072563,
+        "title": "История (Геродот; Мищенко)"
+      },
+      {
+        "revision": 5162729,
+        "title": "История (Геродот; Мищенко)/1"
+      },
+      {
+        "revision": 4072560,
+        "title": "История (Геродот; Мищенко)/2"
+      },
+      {
+        "revision": 4072558,
+        "title": "История (Геродот; Мищенко)/3"
+      },
+      {
+        "revision": 4072544,
+        "title": "История (Геродот; Мищенко)/4"
+      },
+      {
+        "revision": 4072550,
+        "title": "История (Геродот; Мищенко)/5"
+      },
+      {
+        "revision": 4190505,
+        "title": "История (Геродот; Мищенко)/6"
+      },
+      {
+        "revision": 4072554,
+        "title": "История (Геродот; Мищенко)/7"
+      },
+      {
+        "revision": 5704937,
+        "title": "История (Геродот; Мищенко)/8"
+      },
+      {
+        "revision": 4072546,
+        "title": "История (Геродот; Мищенко)/9"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:52:27.349266Z",
+    "revision": "4072563",
+    "site": "ru.wikisource.org",
+    "url": "https://ru.wikisource.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_(%D0%93%D0%B5%D1%80%D0%BE%D0%B4%D0%BE%D1%82%3B_%D0%9C%D0%B8%D1%89%D0%B5%D0%BD%D0%BA%D0%BE)"
+  },
+  "work": {
+    "author": {
+      "birthYear": -483,
+      "deathYear": -424,
+      "name": "Геродот",
+      "wikidata": "Q26825"
+    },
+    "originalLanguage": "grc",
+    "originalTitle": "Istoriya",
+    "workId": "herodotus-istoriya"
+  }
+}

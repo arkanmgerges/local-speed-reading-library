@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:33.241289Z",
+    "chapterCount": 33,
+    "contentSha256": "9f40f5f3b2f04f56582d2c2560ad0d1e1a9d8fe9ae16129765d89e7bbea3e2aa",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/careta-y-vidal-narracions-estranyes.ca.gutenberg/v1/book.json.gz",
+    "sha256": "2281f7dbd289e4dd7908117b4d8f55985eaaf800f6db8ffb72db90e197fa5e1f",
+    "sizeBytes": 68316,
+    "uncompressedSizeBytes": 179751,
+    "wordCount": 27470
+  },
+  "edition": {
+    "editionId": "careta-y-vidal-narracions-estranyes.ca.gutenberg",
+    "editionPublicationYear": 1905,
+    "kind": "original",
+    "language": "ca",
+    "title": "Narracions estranyes : $b ¡Oydà! - L'ull acusador - L'embaixada de la mort"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1924: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1905 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/77135",
+      "https://ca.wikipedia.org/wiki/Antoni_Careta_i_Vidal"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Antoni Careta y Vidal died in 1924 and the edition digitised by Project Gutenberg was printed in 1905. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "77135",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:05:25.039702Z",
+    "revision": "Sun, 30 Aug 2026 19:07:33 GMT",
+    "url": "https://www.gutenberg.org/ebooks/77135"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1843,
+      "deathYear": 1924,
+      "name": "Antoni Careta y Vidal",
+      "wikidata": "Q11905813"
+    },
+    "originalLanguage": "ca",
+    "originalTitle": "Narracions estranyes : $b ¡Oydà! - L'ull acusador - L'embaixada de la mort",
+    "workId": "careta-y-vidal-narracions-estranyes"
+  }
+}

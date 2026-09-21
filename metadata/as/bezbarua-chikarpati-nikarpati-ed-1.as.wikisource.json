@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:20:48.993261Z",
+    "chapterCount": 1,
+    "contentSha256": "1456b623ca0b7e8c082e1f810e725f285601e1f8a675d33a480348a7366c65da",
+    "normalizerVersion": "0.2.0",
+    "path": "books/as/bezbarua-chikarpati-nikarpati-ed-1.as.wikisource/v1/book.json.gz",
+    "sha256": "2b619d7c905614d77399ee0582a1de325928fd21055bd3198bfac3083c15ba04",
+    "sizeBytes": 23508,
+    "uncompressedSizeBytes": 111373,
+    "wordCount": 7008
+  },
+  "edition": {
+    "editionId": "bezbarua-chikarpati-nikarpati-ed-1.as.wikisource",
+    "kind": "original",
+    "language": "as",
+    "title": "চিকৰপতি নিকৰপতি"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1938: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1913: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q131828649",
+      "https://www.wikidata.org/wiki/Q5756306",
+      "https://as.wikisource.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A7%B0%E0%A6%AA%E0%A6%A4%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%B0%E0%A6%AA%E0%A6%A4%E0%A6%BF"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. লক্ষ্মীনাথ বেজবৰুৱা died in 1938 and the work was first published in 1913. Source: as.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "চিকৰপতি নিকৰপতি",
+    "pages": [
+      {
+        "revision": 119970,
+        "title": "চিকৰপতি নিকৰপতি"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:53:53.096264Z",
+    "revision": "119970",
+    "site": "as.wikisource.org",
+    "url": "https://as.wikisource.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A7%B0%E0%A6%AA%E0%A6%A4%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%B0%E0%A6%AA%E0%A6%A4%E0%A6%BF"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1868,
+      "deathYear": 1938,
+      "name": "লক্ষ্মীনাথ বেজবৰুৱা",
+      "wikidata": "Q5756306"
+    },
+    "originalLanguage": "as",
+    "originalPublicationYear": 1913,
+    "originalTitle": "চিকৰপতি নিকৰপতি",
+    "workId": "bezbarua-chikarpati-nikarpati-ed-1"
+  }
+}

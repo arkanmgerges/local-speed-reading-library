@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:19.666226Z",
+    "chapterCount": 17,
+    "contentSha256": "5dad6adfeed7a540b57079adb0f573a2df8a0145c2474b57468571813041ede7",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/wrangel-fran-washingtons-salonger-och-hvardagslif-m-m.sv.gutenberg/v1/book.json.gz",
+    "sha256": "1ec4b5a09e6a02c6739f80a4643f81e10dae305d0b01345c7e87ae07ad3042d4",
+    "sizeBytes": 115434,
+    "uncompressedSizeBytes": 317687,
+    "wordCount": 46519
+  },
+  "edition": {
+    "editionId": "wrangel-fran-washingtons-salonger-och-hvardagslif-m-m.sv.gutenberg",
+    "editionPublicationYear": 1908,
+    "kind": "original",
+    "language": "sv",
+    "title": "Från Washingtons salonger och hvardagslif m. m. : $b Skildringar i bref till en väninna"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1929: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1908 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/77645",
+      "https://sv.wikipedia.org/wiki/Fredrik_Ulrik_Wrangel"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. F. U. Wrangel died in 1929 and the edition digitised by Project Gutenberg was printed in 1908. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "77645",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T05:11:21.119515Z",
+    "revision": "Sun, 30 Aug 2026 21:33:28 GMT",
+    "url": "https://www.gutenberg.org/ebooks/77645"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1853,
+      "deathYear": 1929,
+      "name": "F. U. Wrangel",
+      "wikidata": "Q6247077"
+    },
+    "originalLanguage": "sv",
+    "originalTitle": "Från Washingtons salonger och hvardagslif m. m. : $b Skildringar i bref till en väninna",
+    "workId": "wrangel-fran-washingtons-salonger-och-hvardagslif-m-m"
+  }
+}

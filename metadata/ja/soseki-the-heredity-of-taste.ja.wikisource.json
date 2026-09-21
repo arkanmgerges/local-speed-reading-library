@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:38.714449Z",
+    "chapterCount": 1,
+    "contentSha256": "00e61cfef515356445905aeea35d6b8a7ea899aa9bfe88fa8dbaeb76e640b20e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ja/soseki-the-heredity-of-taste.ja.wikisource/v1/book.json.gz",
+    "sha256": "2781c96ff43eab903e46ad7d973cec24456e26cab0488c7876d3d2f923de6975",
+    "sizeBytes": 49888,
+    "uncompressedSizeBytes": 137364,
+    "wordCount": 160
+  },
+  "edition": {
+    "editionId": "soseki-the-heredity-of-taste.ja.wikisource",
+    "kind": "original",
+    "language": "ja",
+    "title": "趣味の遺伝"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1916: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1906: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q7739441",
+      "https://www.wikidata.org/wiki/Q180903",
+      "https://ja.wikisource.org/wiki/%E8%B6%A3%E5%91%B3%E3%81%AE%E9%81%BA%E4%BC%9D"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 夏目漱石 died in 1916 and the work was first published in 1906. Source: ja.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "趣味の遺伝",
+    "pages": [
+      {
+        "revision": 212630,
+        "title": "趣味の遺伝"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:51:08.937377Z",
+    "revision": "212630",
+    "site": "ja.wikisource.org",
+    "url": "https://ja.wikisource.org/wiki/%E8%B6%A3%E5%91%B3%E3%81%AE%E9%81%BA%E4%BC%9D"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1867,
+      "deathYear": 1916,
+      "name": "夏目漱石",
+      "wikidata": "Q180903"
+    },
+    "originalLanguage": "ja",
+    "originalPublicationYear": 1906,
+    "originalTitle": "趣味の遺伝",
+    "workId": "soseki-the-heredity-of-taste"
+  }
+}

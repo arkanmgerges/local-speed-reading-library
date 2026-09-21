@@ -1,0 +1,64 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:04:44.439841Z",
+    "chapterCount": 11,
+    "contentSha256": "badd17b30ef585116d5cf35c9ae5c1f988883bff81fc46cdaf2a2fb4fe4f94fb",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt/malheiro-indice-chronologico-dos-factos-mais-notaveis-da.pt.gutenberg/v1/book.json.gz",
+    "sha256": "7dc794e2b0226edd5dab47d5aaca1c17bff8d500dff5a7b00ee5409ed71ea362",
+    "sizeBytes": 69038,
+    "uncompressedSizeBytes": 199039,
+    "wordCount": 30515
+  },
+  "edition": {
+    "editionId": "malheiro-indice-chronologico-dos-factos-mais-notaveis-da.pt.gutenberg",
+    "editionPublicationYear": 1850,
+    "kind": "original",
+    "language": "pt",
+    "title": "Indice chronologico dos factos mais notaveis da Historia do Brasil desde seu descobrimento em 1500 até 1849"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1881: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1850 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/22044"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Agostinho Marques Perdigão Malheiro died in 1881 and the edition digitised by Project Gutenberg was printed in 1850. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "22044",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:48:03.615147Z",
+    "revision": "Wed, 09 Sep 2026 12:18:07 GMT",
+    "url": "https://www.gutenberg.org/ebooks/22044"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1824,
+      "deathYear": 1881,
+      "name": "Agostinho Marques Perdigão Malheiro"
+    },
+    "originalLanguage": "pt",
+    "originalTitle": "Indice chronologico dos factos mais notaveis da Historia do Brasil desde seu descobrimento em 1500 até 1849",
+    "workId": "malheiro-indice-chronologico-dos-factos-mais-notaveis-da"
+  }
+}

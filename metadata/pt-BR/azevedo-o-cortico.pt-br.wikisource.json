@@ -1,0 +1,165 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:33:12.261479Z",
+    "chapterCount": 23,
+    "contentSha256": "8ef17fc624954838fcb0223cfb471ee1c68f259594e5784c2c7aa947ebbd0282",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt-br/azevedo-o-cortico.pt-br.wikisource/v1/book.json.gz",
+    "sha256": "5fc026f77de44ab6bfa3bedb1b157159a9bee772ea777fd27c8681471a5cb4c5",
+    "sizeBytes": 190802,
+    "uncompressedSizeBytes": 506462,
+    "wordCount": 80573
+  },
+  "edition": {
+    "editionId": "azevedo-o-cortico.pt-br.wikisource",
+    "kind": "original",
+    "language": "pt-BR",
+    "title": "O Cortiço"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1913: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1890: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q3285425",
+      "https://www.wikidata.org/wiki/Q2840554",
+      "https://pt.wikisource.org/wiki/O_Corti%C3%A7o"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Aluísio Azevedo died in 1913 and the work was first published in 1890. Source: pt.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "O Cortiço",
+    "pages": [
+      {
+        "revision": 533933,
+        "title": "O Cortiço"
+      },
+      {
+        "revision": 533930,
+        "title": "O Cortiço/I"
+      },
+      {
+        "revision": 533931,
+        "title": "O Cortiço/II"
+      },
+      {
+        "revision": 548208,
+        "title": "O Cortiço/III"
+      },
+      {
+        "revision": 562150,
+        "title": "O Cortiço/IV"
+      },
+      {
+        "revision": 439368,
+        "title": "O Cortiço/V"
+      },
+      {
+        "revision": 439369,
+        "title": "O Cortiço/VI"
+      },
+      {
+        "revision": 545865,
+        "title": "O Cortiço/VII"
+      },
+      {
+        "revision": 439372,
+        "title": "O Cortiço/VIII"
+      },
+      {
+        "revision": 439373,
+        "title": "O Cortiço/IX"
+      },
+      {
+        "revision": 439374,
+        "title": "O Cortiço/X"
+      },
+      {
+        "revision": 439376,
+        "title": "O Cortiço/XI"
+      },
+      {
+        "revision": 439377,
+        "title": "O Cortiço/XII"
+      },
+      {
+        "revision": 439378,
+        "title": "O Cortiço/XIII"
+      },
+      {
+        "revision": 439379,
+        "title": "O Cortiço/XIV"
+      },
+      {
+        "revision": 439380,
+        "title": "O Cortiço/XV"
+      },
+      {
+        "revision": 439381,
+        "title": "O Cortiço/XVI"
+      },
+      {
+        "revision": 439382,
+        "title": "O Cortiço/XVII"
+      },
+      {
+        "revision": 439383,
+        "title": "O Cortiço/XVIII"
+      },
+      {
+        "revision": 439384,
+        "title": "O Cortiço/XIX"
+      },
+      {
+        "revision": 439385,
+        "title": "O Cortiço/XX"
+      },
+      {
+        "revision": 439386,
+        "title": "O Cortiço/XXI"
+      },
+      {
+        "revision": 439387,
+        "title": "O Cortiço/XXII"
+      },
+      {
+        "revision": 439388,
+        "title": "O Cortiço/XXIII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:43:08.572385Z",
+    "revision": "533933",
+    "site": "pt.wikisource.org",
+    "url": "https://pt.wikisource.org/wiki/O_Corti%C3%A7o"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1857,
+      "deathYear": 1913,
+      "name": "Aluísio Azevedo",
+      "wikidata": "Q2840554"
+    },
+    "originalLanguage": "pt-BR",
+    "originalPublicationYear": 1890,
+    "originalTitle": "O Cortiço",
+    "workId": "azevedo-o-cortico"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:58:47.001327Z",
+    "chapterCount": 12,
+    "contentSha256": "a2d1428d90a2af2c4c7b9a7b8464f15c0523c24ee714ff9acb41eca75b31c65a",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hu/janos-toldi.hu.wikisource/v1/book.json.gz",
+    "sha256": "d3e2e6d207ee55031e8baab59e7ab0719d9f1da18417ec32a5150481c12e1ff9",
+    "sizeBytes": 33496,
+    "uncompressedSizeBytes": 81080,
+    "wordCount": 10417
+  },
+  "edition": {
+    "editionId": "janos-toldi.hu.wikisource",
+    "kind": "original",
+    "language": "hu",
+    "title": "Toldi"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1882: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1847: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1322159",
+      "https://www.wikidata.org/wiki/Q316556",
+      "https://hu.wikisource.org/wiki/Toldi"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Arany János died in 1882 and the work was first published in 1847. Source: hu.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Toldi",
+    "pages": [
+      {
+        "revision": 94459,
+        "title": "Toldi"
+      },
+      {
+        "revision": 95057,
+        "title": "Toldi/Első ének"
+      },
+      {
+        "revision": 91370,
+        "title": "Toldi/Második ének"
+      },
+      {
+        "revision": 91371,
+        "title": "Toldi/Harmadik ének"
+      },
+      {
+        "revision": 47205,
+        "title": "Toldi/Negyedik ének"
+      },
+      {
+        "revision": 47206,
+        "title": "Toldi/Ötödik ének"
+      },
+      {
+        "revision": 47208,
+        "title": "Toldi/Hatodik ének"
+      },
+      {
+        "revision": 47210,
+        "title": "Toldi/Hetedik ének"
+      },
+      {
+        "revision": 47212,
+        "title": "Toldi/Nyolcadik ének"
+      },
+      {
+        "revision": 47214,
+        "title": "Toldi/Kilencedik ének"
+      },
+      {
+        "revision": 47216,
+        "title": "Toldi/Tizedik ének"
+      },
+      {
+        "revision": 47218,
+        "title": "Toldi/Tizenegyedik ének"
+      },
+      {
+        "revision": 47221,
+        "title": "Toldi/Tizenkettedik ének"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:35:43.271728Z",
+    "revision": "94459",
+    "site": "hu.wikisource.org",
+    "url": "https://hu.wikisource.org/wiki/Toldi"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1817,
+      "deathYear": 1882,
+      "name": "Arany János",
+      "wikidata": "Q316556"
+    },
+    "originalLanguage": "hu",
+    "originalPublicationYear": 1847,
+    "originalTitle": "Toldi",
+    "workId": "janos-toldi"
+  }
+}

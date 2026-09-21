@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:58.768897Z",
+    "chapterCount": 9,
+    "contentSha256": "9dbc0fafec3461b034dcecdf6111f2f65e4efbcce300418288e4a8f999ec4737",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/cankar-na-klancu.sl.wikisource/v1/book.json.gz",
+    "sha256": "c359d44a88d4f51b0ea5ffb4b9d95cdf14634966b9378729b2965e83fbb3993e",
+    "sizeBytes": 123956,
+    "uncompressedSizeBytes": 344027,
+    "wordCount": 59730
+  },
+  "edition": {
+    "editionId": "cankar-na-klancu.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Na klancu"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1918: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1902: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q3869763",
+      "https://www.wikidata.org/wiki/Q15809",
+      "https://sl.wikisource.org/wiki/Na_klancu"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ivan Cankar died in 1918 and the work was first published in 1902. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Na klancu",
+    "pages": [
+      {
+        "revision": 221375,
+        "title": "Na klancu"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:55:40.579038Z",
+    "revision": "221375",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Na_klancu"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1876,
+      "deathYear": 1918,
+      "name": "Ivan Cankar",
+      "wikidata": "Q15809"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1902,
+    "originalTitle": "Na klancu",
+    "workId": "cankar-na-klancu"
+  }
+}

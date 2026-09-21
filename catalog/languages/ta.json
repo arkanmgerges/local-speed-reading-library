@@ -1,0 +1,139 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 9,
+        "contentSha256": "f6fcb5358ea2a85578f68931a3c18cb23927fc8672e33f97b0178387a2d47510",
+        "encoding": "gzip",
+        "path": "books/ta/bharathi-q131360439.ta.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "878f829c0be97dac47bd13bafb0ad94d2034fbe3553bdf722de189e80bc271ac",
+        "sizeBytes": 68418,
+        "uncompressedSizeBytes": 420362,
+        "wordCount": 15852
+      },
+      "author": "சுப்பிரமணிய பாரதி",
+      "authorDeathYear": 1921,
+      "editionId": "bharathi-q131360439.ta.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ta",
+      "originalLanguage": "ta",
+      "originalPublicationYear": 1925,
+      "originalTitle": "சந்திரிகையின் கதை",
+      "rights": {
+        "statement": "Public domain worldwide. சுப்பிரமணிய பாரதி died in 1921 and the work was first published in 1925. Source: ta.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "சந்திரிகையின் கதை",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:11:39.654748Z",
+        "revision": "1769925",
+        "url": "https://ta.wikisource.org/wiki/%E0%AE%9A%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%95%E0%AE%A4%E0%AF%88"
+      },
+      "title": "சந்திரிகையின் கதை",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bharathi-q131360439"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 11,
+        "contentSha256": "154b088b23922e3edbbac057261533a351ed220e92a6417ac28cb88b7def629e",
+        "encoding": "gzip",
+        "path": "books/ta/pillai-1917.ta.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9e67832e9661a0dc36640ef8b29e485a381f124d50cad09d1aa1f885237ddb06",
+        "sizeBytes": 37087,
+        "uncompressedSizeBytes": 189396,
+        "wordCount": 9341
+      },
+      "author": "வ. உ. சிதம்பரம்பிள்ளை",
+      "authorDeathYear": 1936,
+      "editionId": "pillai-1917.ta.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ta",
+      "originalLanguage": "ta",
+      "originalPublicationYear": 1917,
+      "originalTitle": "மெய்யறம் (1917)",
+      "rights": {
+        "statement": "Public domain worldwide. வ. உ. சிதம்பரம்பிள்ளை died in 1936 and the work was first published in 1917. Source: ta.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "மெய்யறம் (1917)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:12:07.339593Z",
+        "revision": "1870455",
+        "url": "https://ta.wikisource.org/wiki/%E0%AE%AE%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%AF%E0%AE%B1%E0%AE%AE%E0%AF%8D_(1917)"
+      },
+      "title": "மெய்யறம் (1917)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "pillai-1917"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 81,
+        "contentSha256": "308d06f515c009c82be2f13fe15eeb59e688d27450fffcc287421131c31aa8fb",
+        "encoding": "gzip",
+        "path": "books/ta/pillai-q16314721.ta.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "16229d840a0360928760fc1ec70fdb93214e35cd409561e36e27d0ba3b9bf8b9",
+        "sizeBytes": 148145,
+        "uncompressedSizeBytes": 805656,
+        "wordCount": 30752
+      },
+      "author": "பெ. சுந்தரம் பிள்ளை",
+      "authorDeathYear": 1897,
+      "editionId": "pillai-q16314721.ta.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ta",
+      "originalLanguage": "ta",
+      "originalPublicationYear": 1891,
+      "originalTitle": "மனோன்மணீயம்",
+      "rights": {
+        "statement": "Public domain worldwide. பெ. சுந்தரம் பிள்ளை died in 1897 and the work was first published in 1891. Source: ta.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "மனோன்மணீயம்",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:12:42.703095Z",
+        "revision": "1526502",
+        "url": "https://ta.wikisource.org/wiki/%E0%AE%AE%E0%AE%A9%E0%AF%8B%E0%AE%A9%E0%AF%8D%E0%AE%AE%E0%AE%A3%E0%AF%80%E0%AE%AF%E0%AE%AE%E0%AF%8D"
+      },
+      "title": "மனோன்மணீயம்",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "pillai-q16314721"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Tamil",
+  "language": "ta",
+  "manifestVersion": "b375223d6f0f9364",
+  "nativeName": "தமிழ்",
+  "schemaVersion": 1
+}

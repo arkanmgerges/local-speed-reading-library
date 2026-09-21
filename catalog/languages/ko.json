@@ -1,0 +1,96 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "0dab84080aa6f79f2e7138693e01dc4877d69105caf1869257154b5790a1273b",
+        "encoding": "gzip",
+        "path": "books/ko/dong-in-the-sorrows-of-the-weak.ko.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9bb26a6fc8edeefa6d1f8c6edb80dd8ce096ec328624c2ddd49ef46774e3ef94",
+        "sizeBytes": 38467,
+        "uncompressedSizeBytes": 124897,
+        "wordCount": 11427
+      },
+      "author": "김동인",
+      "authorDeathYear": 1951,
+      "editionId": "dong-in-the-sorrows-of-the-weak.ko.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ko",
+      "originalLanguage": "ko",
+      "originalPublicationYear": 1919,
+      "originalTitle": "약한 자의 슬픔",
+      "rights": {
+        "statement": "Public domain worldwide. 김동인 died in 1951 and the work was first published in 1919. Source: ko.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "약한 자의 슬픔",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:51:28.692691Z",
+        "revision": "120284",
+        "url": "https://ko.wikisource.org/wiki/%EC%95%BD%ED%95%9C_%EC%9E%90%EC%9D%98_%EC%8A%AC%ED%94%94"
+      },
+      "title": "약한 자의 슬픔",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "dong-in-the-sorrows-of-the-weak"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "296c4974e3ffd059dffcbad178cf32e471968735771dd29369741becd96a305a",
+        "encoding": "gzip",
+        "path": "books/ko/dong-in-the-young-ones.ko.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6b5c64c6900e392318f2cbe2e10bdf75d9b92b9dd58983400241c7d5d6c0d7b3",
+        "sizeBytes": 218908,
+        "uncompressedSizeBytes": 701076,
+        "wordCount": 67575
+      },
+      "author": "김동인",
+      "authorDeathYear": 1951,
+      "editionId": "dong-in-the-young-ones.ko.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ko",
+      "originalLanguage": "ko",
+      "originalPublicationYear": 1930,
+      "originalTitle": "젊은 그들",
+      "rights": {
+        "statement": "Public domain worldwide. 김동인 died in 1951 and the work was first published in 1930. Source: ko.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "젊은 그들",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:51:31.448699Z",
+        "revision": "120281",
+        "url": "https://ko.wikisource.org/wiki/%EC%A0%8A%EC%9D%80_%EA%B7%B8%EB%93%A4"
+      },
+      "title": "젊은 그들",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "dong-in-the-young-ones"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Korean",
+  "language": "ko",
+  "manifestVersion": "32db23dec7e03609",
+  "nativeName": "한국어",
+  "schemaVersion": 1
+}

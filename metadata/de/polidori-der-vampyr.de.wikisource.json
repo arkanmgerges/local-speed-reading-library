@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:53:13.763078Z",
+    "chapterCount": 1,
+    "contentSha256": "ca1485ea5e44801217021409b56866c3a6f637dec81dcb74a7ff83fa667fd6fb",
+    "normalizerVersion": "0.2.0",
+    "path": "books/de/polidori-der-vampyr.de.wikisource/v1/book.json.gz",
+    "sha256": "83863257b253c619d1a817efff48c2d1fa3d610cbc241e3083d9d641ad8024d0",
+    "sizeBytes": 25663,
+    "uncompressedSizeBytes": 66239,
+    "wordCount": 9807
+  },
+  "edition": {
+    "editionId": "polidori-der-vampyr.de.wikisource",
+    "kind": "translation",
+    "language": "de",
+    "title": "Der Vampyr",
+    "translationPublicationYear": 1819,
+    "translator": {
+      "birthYear": 1793,
+      "deathYear": 1868,
+      "name": "Leopold Voß",
+      "wikidata": "Q35820684"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1821: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1868: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1819: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q509070",
+      "https://www.wikidata.org/wiki/Q58881886",
+      "https://www.wikidata.org/wiki/Q364264",
+      "https://www.wikidata.org/wiki/Q35820684",
+      "https://de.wikisource.org/wiki/Der_Vampyr"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. John Polidori died in 1821; the translator Leopold Voß died in 1868 and this translation was first published in 1819. Source: de.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Der Vampyr",
+    "pages": [
+      {
+        "revision": 4424380,
+        "title": "Der Vampyr"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:26:15.993171Z",
+    "revision": "4424380",
+    "site": "de.wikisource.org",
+    "url": "https://de.wikisource.org/wiki/Der_Vampyr"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1795,
+      "deathYear": 1821,
+      "name": "John Polidori",
+      "wikidata": "Q364264"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1819,
+    "originalTitle": "Der Vampyr",
+    "workId": "polidori-der-vampyr"
+  }
+}

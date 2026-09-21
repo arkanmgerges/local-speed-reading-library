@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:51:47.551763Z",
+    "chapterCount": 1,
+    "contentSha256": "50541cdbef73b0b226c377241ccf49b7d87779a7cd1e2c62ae1fe626286a83e7",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/plato-eutifron.ca.wikisource/v1/book.json.gz",
+    "sha256": "d937499c6781969fce19a33b44a1ff7d2ba4775db501606d685b81f945016b0d",
+    "sizeBytes": 13259,
+    "uncompressedSizeBytes": 37900,
+    "wordCount": 6579
+  },
+  "edition": {
+    "editionId": "plato-eutifron.ca.wikisource",
+    "kind": "translation",
+    "language": "ca",
+    "title": "Diàlegs I - Eutífron",
+    "translationPublicationYear": 1924,
+    "translator": {
+      "birthYear": 1896,
+      "deathYear": 1926,
+      "name": "Joan Crexells i Vallhonrat",
+      "wikidata": "Q11033020"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -348: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1926: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1924: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q648889",
+      "https://www.wikidata.org/wiki/Q19524804",
+      "https://www.wikidata.org/wiki/Q859",
+      "https://www.wikidata.org/wiki/Q11033020",
+      "https://ca.wikisource.org/wiki/Di%C3%A0legs_I_-_Eut%C3%ADfron"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Plató died in -348; the translator Joan Crexells i Vallhonrat died in 1926 and this translation was first published in 1924. Source: ca.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Diàlegs I - Eutífron",
+    "pages": [
+      {
+        "revision": 134998,
+        "title": "Diàlegs I - Eutífron"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:05:57.681288Z",
+    "revision": "134998",
+    "site": "ca.wikisource.org",
+    "url": "https://ca.wikisource.org/wiki/Di%C3%A0legs_I_-_Eut%C3%ADfron"
+  },
+  "work": {
+    "author": {
+      "birthYear": -428,
+      "deathYear": -348,
+      "name": "Plató",
+      "wikidata": "Q859"
+    },
+    "originalLanguage": "grc",
+    "originalPublicationYear": -400,
+    "originalTitle": "Eutífron",
+    "workId": "plato-eutifron"
+  }
+}

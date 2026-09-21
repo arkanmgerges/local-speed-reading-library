@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:23:44.437266Z",
+    "chapterCount": 63,
+    "contentSha256": "fe6f42cf5c1751f682928d7d14a75fc867d7b7174011ac45b3127830cd5c1fc6",
+    "normalizerVersion": "0.2.0",
+    "path": "books/en/austen-pride-and-prejudice.en.gutenberg/v1/book.json.gz",
+    "sha256": "a2686a773aa3cdf4024f032506354cd702cd51f7d45b29bfe3a2d46bf8abcdd8",
+    "sizeBytes": 254175,
+    "uncompressedSizeBytes": 746125,
+    "wordCount": 125905
+  },
+  "edition": {
+    "editionId": "austen-pride-and-prejudice.en.gutenberg",
+    "kind": "original",
+    "language": "en",
+    "title": "Pride and Prejudice"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1817: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1813: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/1342",
+      "https://en.wikipedia.org/wiki/Jane_Austen",
+      "https://www.wikidata.org/wiki/Q170583"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jane Austen died in 1817 and the work was first published in 1813. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "1342",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:33:25.959060Z",
+    "revision": "Wed, 02 Sep 2026 00:00:23 GMT",
+    "url": "https://www.gutenberg.org/ebooks/1342"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1775,
+      "deathYear": 1817,
+      "name": "Jane Austen",
+      "wikidata": "Q36322"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1813,
+    "originalTitle": "Pride and Prejudice",
+    "workId": "austen-pride-and-prejudice"
+  }
+}

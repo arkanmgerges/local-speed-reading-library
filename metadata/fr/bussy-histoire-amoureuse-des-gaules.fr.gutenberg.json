@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:26:30.476822Z",
+    "chapterCount": 15,
+    "contentSha256": "44d4b3270a3e486c8b7c4b8eed3799649c487aad807cb4a4fb6f3fe465a8f377",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/bussy-histoire-amoureuse-des-gaules.fr.gutenberg/v1/book.json.gz",
+    "sha256": "532beded14df79b90611eaca3d7e048895915b391987f657c70dba881e3fb2f1",
+    "sizeBytes": 127466,
+    "uncompressedSizeBytes": 380397,
+    "wordCount": 62577
+  },
+  "edition": {
+    "editionId": "bussy-histoire-amoureuse-des-gaules.fr.gutenberg",
+    "kind": "original",
+    "language": "fr",
+    "title": "Histoire amoureuse des Gaules; suivie des Romans historico-satiriques du XVIIe siècle, Tome I"
+  },
+  "genres": [
+    "Fiction",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1693: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1665: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/29049",
+      "https://en.wikipedia.org/wiki/Roger_de_Rabutin,_comte_de_Bussy",
+      "https://www.wikidata.org/wiki/Q16641901"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Roger de Rabutin Bussy died in 1693 and the work was first published in 1665. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "29049",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:07:37.551440Z",
+    "revision": "Sat, 12 Sep 2026 09:22:58 GMT",
+    "url": "https://www.gutenberg.org/ebooks/29049"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1618,
+      "deathYear": 1693,
+      "name": "Roger de Rabutin Bussy",
+      "wikidata": "Q733246"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1665,
+    "originalTitle": "Histoire amoureuse des Gaules; suivie des Romans historico-satiriques du XVIIe siècle, Tome I",
+    "workId": "bussy-histoire-amoureuse-des-gaules"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:20:33.666675Z",
+    "chapterCount": 131,
+    "contentSha256": "b3f31e28a80a81285458e46fa80b6ab2f28f30219c02c27d81bb3132d941aafd",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/al-suyuti-history-of-the-caliphs.ar.wikisource/v1/book.json.gz",
+    "sha256": "49481c6539a10d0e7fbf0658a4b970c487bd97e3730c474dcd780d018c12799a",
+    "sizeBytes": 323749,
+    "uncompressedSizeBytes": 1258457,
+    "wordCount": 130354
+  },
+  "edition": {
+    "editionId": "al-suyuti-history-of-the-caliphs.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "تاريخ الخلفاء"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1505: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1881: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q5869196",
+      "https://www.wikidata.org/wiki/Q468432",
+      "https://ar.wikisource.org/wiki/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. جلال الدين السيوطي died in 1505 and the work was first published in 1881. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "تاريخ الخلفاء",
+    "pages": [
+      {
+        "revision": 218458,
+        "title": "تاريخ الخلفاء"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:51:44.807255Z",
+    "revision": "218458",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1445,
+      "deathYear": 1505,
+      "name": "جلال الدين السيوطي",
+      "wikidata": "Q468432"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 1881,
+    "originalTitle": "تاريخ الخلفاء",
+    "workId": "al-suyuti-history-of-the-caliphs"
+  }
+}

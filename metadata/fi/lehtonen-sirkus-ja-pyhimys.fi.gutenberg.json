@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:42.756994Z",
+    "chapterCount": 7,
+    "contentSha256": "f2bb190f8528f160ceb393e510dff023115593ea7ff26ea7082e98f203affb1f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/lehtonen-sirkus-ja-pyhimys.fi.gutenberg/v1/book.json.gz",
+    "sha256": "0097549315d7013aed51b6a7fdb3957b728f81e26f0f7f7ddf2e541f40b366a0",
+    "sizeBytes": 147155,
+    "uncompressedSizeBytes": 388194,
+    "wordCount": 45139
+  },
+  "edition": {
+    "editionId": "lehtonen-sirkus-ja-pyhimys.fi.gutenberg",
+    "editionPublicationYear": 1927,
+    "kind": "original",
+    "language": "fi",
+    "title": "Sirkus ja pyhimys : $b Romaani vanhaan tyyliin"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1934: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1927 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/79289",
+      "https://en.wikipedia.org/wiki/Joel_Lehtonen"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Joel Lehtonen died in 1934 and the edition digitised by Project Gutenberg was printed in 1927. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "79289",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:04:40.842574Z",
+    "revision": "Mon, 31 Aug 2026 13:03:49 GMT",
+    "url": "https://www.gutenberg.org/ebooks/79289"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1881,
+      "deathYear": 1934,
+      "name": "Joel Lehtonen",
+      "wikidata": "Q560921"
+    },
+    "originalLanguage": "fi",
+    "originalTitle": "Sirkus ja pyhimys : $b Romaani vanhaan tyyliin",
+    "workId": "lehtonen-sirkus-ja-pyhimys"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:37:09.999031Z",
+    "chapterCount": 23,
+    "contentSha256": "9e61c46fe2fa6dc1cc07b9f3306751b1643bd41ed6c09aa430f351194aa07887",
+    "normalizerVersion": "0.2.0",
+    "path": "books/vi/t-n-ti-u-lam-an-nam-quy-n.vi.wikisource/v1/book.json.gz",
+    "sha256": "757f3954a30ae546f6a7976eb3b0f7d4321cee287c3e4f32d829e0a121dd2358",
+    "sizeBytes": 11759,
+    "uncompressedSizeBytes": 55613,
+    "wordCount": 14167
+  },
+  "edition": {
+    "editionId": "t-n-ti-u-lam-an-nam-quy-n.vi.wikisource",
+    "kind": "original",
+    "language": "vi",
+    "title": "Tiếu lâm An Nam, quyển thứ nhất"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1924: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1924: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q107493085",
+      "https://www.wikidata.org/wiki/Q3954724",
+      "https://vi.wikisource.org/wiki/Ti%E1%BA%BFu_l%C3%A2m_An_Nam%2FQuy%E1%BB%83n_th%E1%BB%A9_nh%E1%BA%A5t"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Phạm Duy Tốn died in 1924 and the work was first published in 1924. Source: vi.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Tiếu lâm An Nam/Quyển thứ nhất",
+    "pages": [
+      {
+        "revision": 96828,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất"
+      },
+      {
+        "revision": 96791,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/Tựa"
+      },
+      {
+        "revision": 96727,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/1"
+      },
+      {
+        "revision": 96749,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/2"
+      },
+      {
+        "revision": 96771,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/3"
+      },
+      {
+        "revision": 96777,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/4"
+      },
+      {
+        "revision": 96779,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/5"
+      },
+      {
+        "revision": 96781,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/6"
+      },
+      {
+        "revision": 96783,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/7"
+      },
+      {
+        "revision": 96785,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/8"
+      },
+      {
+        "revision": 96787,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/9"
+      },
+      {
+        "revision": 96729,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/10"
+      },
+      {
+        "revision": 96731,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/11"
+      },
+      {
+        "revision": 96733,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/12"
+      },
+      {
+        "revision": 96735,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/13"
+      },
+      {
+        "revision": 96737,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/14"
+      },
+      {
+        "revision": 96739,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/15"
+      },
+      {
+        "revision": 96741,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/16"
+      },
+      {
+        "revision": 96743,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/17"
+      },
+      {
+        "revision": 96745,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/18"
+      },
+      {
+        "revision": 96747,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/19"
+      },
+      {
+        "revision": 96751,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/20"
+      },
+      {
+        "revision": 96753,
+        "title": "Tiếu lâm An Nam/Quyển thứ nhất/21"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:27:54.859445Z",
+    "revision": "96828",
+    "site": "vi.wikisource.org",
+    "url": "https://vi.wikisource.org/wiki/Ti%E1%BA%BFu_l%C3%A2m_An_Nam/Quy%E1%BB%83n_th%E1%BB%A9_nh%E1%BA%A5t"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1881,
+      "deathYear": 1924,
+      "name": "Phạm Duy Tốn",
+      "wikidata": "Q3954724"
+    },
+    "originalLanguage": "vi",
+    "originalPublicationYear": 1924,
+    "originalTitle": "Tiếu lâm An Nam, quyển thứ nhất",
+    "workId": "t-n-ti-u-lam-an-nam-quy-n"
+  }
+}

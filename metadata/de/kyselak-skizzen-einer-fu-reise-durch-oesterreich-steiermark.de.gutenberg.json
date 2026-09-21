@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:53:11.252465Z",
+    "chapterCount": 132,
+    "contentSha256": "5c3b923453c1ccc93aba06c1f82d62b3318ba3b98c67e8f3c5a984e07b99f1e7",
+    "normalizerVersion": "0.2.0",
+    "path": "books/de/kyselak-skizzen-einer-fu-reise-durch-oesterreich-steiermark.de.gutenberg/v1/book.json.gz",
+    "sha256": "4b0633679bc86bd5c882f69bd1c357402f182636dcbf388a499e9669c4835a5c",
+    "sizeBytes": 167158,
+    "uncompressedSizeBytes": 425745,
+    "wordCount": 58003
+  },
+  "edition": {
+    "editionId": "kyselak-skizzen-einer-fu-reise-durch-oesterreich-steiermark.de.gutenberg",
+    "editionPublicationYear": 1829,
+    "kind": "original",
+    "language": "de",
+    "title": "Skizzen einer Fußreise durch Oesterreich, Steiermark, Kärnthen, Salzburg, Berchtesgaden, Tirol und Baiern nach Wien, : $b nebst einer romantisch pittoresken Darstellung mehrerer Ritterburgen und ihrer Volkssagen, Gebirgsgegenden und Eisglätscher auf dieser Wanderung, unternommen im Jahre 1825 von Joseph Kyselak. (2/2)"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1831: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1829 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/78026",
+      "https://en.wikipedia.org/wiki/Joseph_Kyselak"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Josef Kyselak died in 1831 and the edition digitised by Project Gutenberg was printed in 1829. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "78026",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:25:48.301232Z",
+    "revision": "Mon, 31 Aug 2026 07:38:15 GMT",
+    "url": "https://www.gutenberg.org/ebooks/78026"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1799,
+      "deathYear": 1831,
+      "name": "Josef Kyselak",
+      "wikidata": "Q89722"
+    },
+    "originalLanguage": "de",
+    "originalTitle": "Skizzen einer Fußreise durch Oesterreich, Steiermark, Kärnthen, Salzburg, Berchtesgaden, Tirol und Baiern nach Wien, : $b nebst einer romantisch pittoresken Darstellung mehrerer Ritterburgen und ihrer Volkssagen, Gebirgsgegenden und Eisglätscher auf dieser Wanderung, unternommen im Jahre 1825 von Joseph Kyselak. (2/2)",
+    "workId": "kyselak-skizzen-einer-fu-reise-durch-oesterreich-steiermark"
+  }
+}

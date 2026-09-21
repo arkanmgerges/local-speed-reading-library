@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:33:34.556480Z",
+    "chapterCount": 15,
+    "contentSha256": "7558dd53329db64144cbed40bc6c42762a67cab648536ddefcab077aab7aab28",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt/grave-a-morte-vence.pt.gutenberg/v1/book.json.gz",
+    "sha256": "f8693cc00d5eb20f94399531baafbe86a205e40bbaacdae505fcbc98a7ad2cb5",
+    "sizeBytes": 156823,
+    "uncompressedSizeBytes": 411892,
+    "wordCount": 60762
+  },
+  "edition": {
+    "editionId": "grave-a-morte-vence.pt.gutenberg",
+    "editionPublicationYear": 1922,
+    "kind": "original",
+    "language": "pt",
+    "title": "A Morte Vence"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1934: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1922 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/23687",
+      "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Grave"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. João José Grave died in 1934 and the edition digitised by Project Gutenberg was printed in 1922. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "23687",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:47:24.156627Z",
+    "revision": "Thu, 10 Sep 2026 08:35:03 GMT",
+    "url": "https://www.gutenberg.org/ebooks/23687"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1872,
+      "deathYear": 1934,
+      "name": "João José Grave",
+      "wikidata": "Q5769261"
+    },
+    "originalLanguage": "pt",
+    "originalTitle": "A Morte Vence",
+    "workId": "grave-a-morte-vence"
+  }
+}

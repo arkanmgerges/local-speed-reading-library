@@ -1,0 +1,331 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:06:45.974173Z",
+    "chapterCount": 62,
+    "contentSha256": "a1cef8b6f5668c90764d8e89ebb1c67bde21eb28fbef0d72ab33639c5655c5e6",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/austen-stolthet-och-fordom.sv.wikisource/v1/book.json.gz",
+    "sha256": "d5119f5323e63912d4285ab5c4f5170688ad5b97139e8988dfbb4d5a839cba64",
+    "sizeBytes": 264676,
+    "uncompressedSizeBytes": 793444,
+    "wordCount": 126789
+  },
+  "edition": {
+    "editionId": "austen-stolthet-och-fordom.sv.wikisource",
+    "kind": "translation",
+    "language": "sv",
+    "title": "Stolthet och fördom",
+    "translationPublicationYear": 1920,
+    "translator": {
+      "birthYear": 1854,
+      "deathYear": 1925,
+      "name": "Carl Axel Ringenson",
+      "wikidata": "Q16548305"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1817: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1925: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1920: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q170583",
+      "https://www.wikidata.org/wiki/Q65522855",
+      "https://www.wikidata.org/wiki/Q36322",
+      "https://www.wikidata.org/wiki/Q16548305",
+      "https://sv.wikisource.org/wiki/Stolthet_och_f%C3%B6rdom"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jane Austen died in 1817; the translator Carl Axel Ringenson died in 1925 and this translation was first published in 1920. Source: sv.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Stolthet och fördom",
+    "pages": [
+      {
+        "revision": 403034,
+        "title": "Stolthet och fördom"
+      },
+      {
+        "revision": 152789,
+        "title": "Stolthet och fördom/Förord"
+      },
+      {
+        "revision": 237421,
+        "title": "Stolthet och fördom/1"
+      },
+      {
+        "revision": 152238,
+        "title": "Stolthet och fördom/2"
+      },
+      {
+        "revision": 152239,
+        "title": "Stolthet och fördom/3"
+      },
+      {
+        "revision": 152510,
+        "title": "Stolthet och fördom/4"
+      },
+      {
+        "revision": 152378,
+        "title": "Stolthet och fördom/5"
+      },
+      {
+        "revision": 152379,
+        "title": "Stolthet och fördom/6"
+      },
+      {
+        "revision": 152481,
+        "title": "Stolthet och fördom/7"
+      },
+      {
+        "revision": 152482,
+        "title": "Stolthet och fördom/8"
+      },
+      {
+        "revision": 152623,
+        "title": "Stolthet och fördom/9"
+      },
+      {
+        "revision": 152680,
+        "title": "Stolthet och fördom/10"
+      },
+      {
+        "revision": 152772,
+        "title": "Stolthet och fördom/11"
+      },
+      {
+        "revision": 152773,
+        "title": "Stolthet och fördom/12"
+      },
+      {
+        "revision": 152869,
+        "title": "Stolthet och fördom/13"
+      },
+      {
+        "revision": 152871,
+        "title": "Stolthet och fördom/14"
+      },
+      {
+        "revision": 152872,
+        "title": "Stolthet och fördom/15"
+      },
+      {
+        "revision": 153114,
+        "title": "Stolthet och fördom/16"
+      },
+      {
+        "revision": 153115,
+        "title": "Stolthet och fördom/17"
+      },
+      {
+        "revision": 153258,
+        "title": "Stolthet och fördom/18"
+      },
+      {
+        "revision": 153259,
+        "title": "Stolthet och fördom/19"
+      },
+      {
+        "revision": 153339,
+        "title": "Stolthet och fördom/20"
+      },
+      {
+        "revision": 153341,
+        "title": "Stolthet och fördom/21"
+      },
+      {
+        "revision": 153342,
+        "title": "Stolthet och fördom/22"
+      },
+      {
+        "revision": 153406,
+        "title": "Stolthet och fördom/23"
+      },
+      {
+        "revision": 153643,
+        "title": "Stolthet och fördom/24"
+      },
+      {
+        "revision": 153644,
+        "title": "Stolthet och fördom/25"
+      },
+      {
+        "revision": 153730,
+        "title": "Stolthet och fördom/26"
+      },
+      {
+        "revision": 153732,
+        "title": "Stolthet och fördom/27"
+      },
+      {
+        "revision": 153733,
+        "title": "Stolthet och fördom/28"
+      },
+      {
+        "revision": 153996,
+        "title": "Stolthet och fördom/29"
+      },
+      {
+        "revision": 153997,
+        "title": "Stolthet och fördom/30"
+      },
+      {
+        "revision": 154068,
+        "title": "Stolthet och fördom/31"
+      },
+      {
+        "revision": 154069,
+        "title": "Stolthet och fördom/32"
+      },
+      {
+        "revision": 154070,
+        "title": "Stolthet och fördom/33"
+      },
+      {
+        "revision": 154141,
+        "title": "Stolthet och fördom/34"
+      },
+      {
+        "revision": 154569,
+        "title": "Stolthet och fördom/35"
+      },
+      {
+        "revision": 154570,
+        "title": "Stolthet och fördom/36"
+      },
+      {
+        "revision": 160472,
+        "title": "Stolthet och fördom/37"
+      },
+      {
+        "revision": 160473,
+        "title": "Stolthet och fördom/38"
+      },
+      {
+        "revision": 160474,
+        "title": "Stolthet och fördom/39"
+      },
+      {
+        "revision": 160801,
+        "title": "Stolthet och fördom/40"
+      },
+      {
+        "revision": 160802,
+        "title": "Stolthet och fördom/41"
+      },
+      {
+        "revision": 160803,
+        "title": "Stolthet och fördom/42"
+      },
+      {
+        "revision": 161156,
+        "title": "Stolthet och fördom/43"
+      },
+      {
+        "revision": 161157,
+        "title": "Stolthet och fördom/44"
+      },
+      {
+        "revision": 161158,
+        "title": "Stolthet och fördom/45"
+      },
+      {
+        "revision": 161217,
+        "title": "Stolthet och fördom/46"
+      },
+      {
+        "revision": 161937,
+        "title": "Stolthet och fördom/47"
+      },
+      {
+        "revision": 161938,
+        "title": "Stolthet och fördom/48"
+      },
+      {
+        "revision": 162049,
+        "title": "Stolthet och fördom/49"
+      },
+      {
+        "revision": 162932,
+        "title": "Stolthet och fördom/50"
+      },
+      {
+        "revision": 162933,
+        "title": "Stolthet och fördom/51"
+      },
+      {
+        "revision": 162934,
+        "title": "Stolthet och fördom/52"
+      },
+      {
+        "revision": 162935,
+        "title": "Stolthet och fördom/53"
+      },
+      {
+        "revision": 162936,
+        "title": "Stolthet och fördom/54"
+      },
+      {
+        "revision": 163066,
+        "title": "Stolthet och fördom/55"
+      },
+      {
+        "revision": 163067,
+        "title": "Stolthet och fördom/56"
+      },
+      {
+        "revision": 163283,
+        "title": "Stolthet och fördom/57"
+      },
+      {
+        "revision": 163284,
+        "title": "Stolthet och fördom/58"
+      },
+      {
+        "revision": 163345,
+        "title": "Stolthet och fördom/59"
+      },
+      {
+        "revision": 163346,
+        "title": "Stolthet och fördom/60"
+      },
+      {
+        "revision": 163347,
+        "title": "Stolthet och fördom/61"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:59:53.212051Z",
+    "revision": "403034",
+    "site": "sv.wikisource.org",
+    "url": "https://sv.wikisource.org/wiki/Stolthet_och_f%C3%B6rdom"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1775,
+      "deathYear": 1817,
+      "name": "Jane Austen",
+      "wikidata": "Q36322"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1813,
+    "originalTitle": "Stolthet och fördom",
+    "workId": "austen-stolthet-och-fordom"
+  }
+}

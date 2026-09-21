@@ -1,0 +1,64 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:32.252075Z",
+    "chapterCount": 50,
+    "contentSha256": "a51e568d6567bf712727ea2bbddf0ccd8ee41d55562baffc9c5d38785ab2fbfa",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/bofarull-la-orfaneta-de-menargues.ca.gutenberg/v1/book.json.gz",
+    "sha256": "d8dde5bd23e2c122ae8807b463b0196befac36ac2a89d443ed819006497e25ef",
+    "sizeBytes": 434183,
+    "uncompressedSizeBytes": 1215220,
+    "wordCount": 201491
+  },
+  "edition": {
+    "editionId": "bofarull-la-orfaneta-de-menargues.ca.gutenberg",
+    "kind": "original",
+    "language": "ca",
+    "title": "La orfaneta de Menargues; o, Catalunya agonisant : $b Novela histórica"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1892: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1862: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/75136",
+      "https://www.wikidata.org/wiki/Q52174843"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Antoni de Bofarull died in 1892 and the work was first published in 1862. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "75136",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:05:19.725432Z",
+    "revision": "Sat, 29 Aug 2026 18:08:32 GMT",
+    "url": "https://www.gutenberg.org/ebooks/75136"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1821,
+      "deathYear": 1892,
+      "name": "Antoni de Bofarull"
+    },
+    "originalLanguage": "ca",
+    "originalPublicationYear": 1862,
+    "originalTitle": "La orfaneta de Menargues; o, Catalunya agonisant : $b Novela histórica",
+    "workId": "bofarull-la-orfaneta-de-menargues"
+  }
+}

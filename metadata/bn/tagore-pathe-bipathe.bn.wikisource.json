@@ -1,0 +1,137 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:22.765110Z",
+    "chapterCount": 16,
+    "contentSha256": "681dbfeefb3376086806286c6f4278a7117a18a1a6cb3e3e4dc123acb3aaecfe",
+    "normalizerVersion": "0.2.0",
+    "path": "books/bn/tagore-pathe-bipathe.bn.wikisource/v1/book.json.gz",
+    "sha256": "73ff7bb65188553748438aa4079712ebc9ec206ede2ffdd2abc2bd8e579d72b3",
+    "sizeBytes": 83199,
+    "uncompressedSizeBytes": 400347,
+    "wordCount": 22775
+  },
+  "edition": {
+    "editionId": "tagore-pathe-bipathe.bn.wikisource",
+    "kind": "original",
+    "language": "bn",
+    "title": "পথে-বিপথে"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1951: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1918: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q131861763",
+      "https://www.wikidata.org/wiki/Q691796",
+      "https://bn.wikisource.org/wiki/%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%A5%E0%A7%87_(%E0%A7%A7%E0%A7%AF%E0%A7%A7%E0%A7%AE)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. অবনীন্দ্রনাথ ঠাকুর died in 1951 and the work was first published in 1918. Source: bn.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "পথে-বিপথে (১৯১৮)",
+    "pages": [
+      {
+        "revision": 1971926,
+        "title": "পথে-বিপথে (১৯১৮)"
+      },
+      {
+        "revision": 1860754,
+        "title": "পথে-বিপথে (১৯১৮)/মোহিনী"
+      },
+      {
+        "revision": 1860742,
+        "title": "পথে-বিপথে (১৯১৮)/অস্থি"
+      },
+      {
+        "revision": 1860746,
+        "title": "পথে-বিপথে (১৯১৮)/গুরুজী"
+      },
+      {
+        "revision": 1860748,
+        "title": "পথে-বিপথে (১৯১৮)/টুপি"
+      },
+      {
+        "revision": 1860749,
+        "title": "পথে-বিপথে (১৯১৮)/দোশালা"
+      },
+      {
+        "revision": 1860753,
+        "title": "পথে-বিপথে (১৯১৮)/মাতু"
+      },
+      {
+        "revision": 1860756,
+        "title": "পথে-বিপথে (১৯১৮)/শেমুষী"
+      },
+      {
+        "revision": 1860744,
+        "title": "পথে-বিপথে (১৯১৮)/ইন্দু"
+      },
+      {
+        "revision": 1860741,
+        "title": "পথে-বিপথে (১৯১৮)/অরোরা"
+      },
+      {
+        "revision": 1860751,
+        "title": "পথে-বিপথে (১৯১৮)/পর্-ঈ-তাউস্"
+      },
+      {
+        "revision": 1860747,
+        "title": "পথে-বিপথে (১৯১৮)/ছাই-ভস্ম"
+      },
+      {
+        "revision": 1860755,
+        "title": "পথে-বিপথে (১৯১৮)/লুকি-বিদ্যে"
+      },
+      {
+        "revision": 1860745,
+        "title": "পথে-বিপথে (১৯১৮)/গমনাগমন"
+      },
+      {
+        "revision": 1860750,
+        "title": "পথে-বিপথে (১৯১৮)/নিষ্ক্রমণ"
+      },
+      {
+        "revision": 1860743,
+        "title": "পথে-বিপথে (১৯১৮)/আরোহণ"
+      },
+      {
+        "revision": 1860752,
+        "title": "পথে-বিপথে (১৯১৮)/বিচরণ"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:03:04.614221Z",
+    "revision": "1971926",
+    "site": "bn.wikisource.org",
+    "url": "https://bn.wikisource.org/wiki/%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%A5%E0%A7%87_(%E0%A7%A7%E0%A7%AF%E0%A7%A7%E0%A7%AE)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1871,
+      "deathYear": 1951,
+      "name": "অবনীন্দ্রনাথ ঠাকুর",
+      "wikidata": "Q691796"
+    },
+    "originalLanguage": "bn",
+    "originalPublicationYear": 1918,
+    "originalTitle": "পথে-বিপথে",
+    "workId": "tagore-pathe-bipathe"
+  }
+}

@@ -1,0 +1,830 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "7532abdab52d356611d2a0a59d4b8dcbcd584a370e6d41dc3ac9f5b1302eea14",
+        "encoding": "gzip",
+        "path": "books/zh-hant/cao-pg24264.zh-hant.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "15b49ef4995aa5d1797b92713e6f9169a5f018ab9c362c613b144783d9e54f2b",
+        "sizeBytes": 1014315,
+        "uncompressedSizeBytes": 2339178,
+        "wordCount": 30625
+      },
+      "author": "Xueqin Cao",
+      "authorDeathYear": 1763,
+      "editionId": "cao-pg24264.zh-hant.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 1792,
+      "originalTitle": "紅樓夢",
+      "rights": {
+        "statement": "Public domain worldwide. Xueqin Cao died in 1763 and the work was first published in 1792. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "24264",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T05:28:12.496796Z",
+        "revision": "Thu, 10 Sep 2026 10:32:11 GMT",
+        "url": "https://www.gutenberg.org/ebooks/24264"
+      },
+      "title": "紅樓夢",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "cao-pg24264"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "4ff140e580d84fbf52f04057766da0ef7b633d80f480fc877fd0ead533ad8c6b",
+        "encoding": "gzip",
+        "path": "books/zh-hant/chen-pg25606.zh-hant.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4edd6728a19f06925932b930879e62d903e88b60fde76b97fc36314405d20fe7",
+        "sizeBytes": 596227,
+        "uncompressedSizeBytes": 1222185,
+        "wordCount": 1255
+      },
+      "author": "Shou Chen",
+      "authorDeathYear": 297,
+      "editionId": "chen-pg25606.zh-hant.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 280,
+      "originalTitle": "三國志",
+      "rights": {
+        "statement": "Public domain worldwide. Shou Chen died in 297 and the work was first published in 280. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "25606",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T05:28:17.314869Z",
+        "revision": "Thu, 10 Sep 2026 18:08:00 GMT",
+        "url": "https://www.gutenberg.org/ebooks/25606"
+      },
+      "title": "三國志",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "chen-pg25606"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 101,
+        "contentSha256": "1081bfa8169a87da09c57d104e45110904805dcdd8cd1f59fe19a265d9fc13f0",
+        "encoding": "gzip",
+        "path": "books/zh-hant/cheng-en-journey-to-the-west.zh-hant.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "446336153e7e17607d1f7c5b99155a294d415c4f79c7d555a65f8d2dac245a9a",
+        "sizeBytes": 976761,
+        "uncompressedSizeBytes": 2275227,
+        "wordCount": 7197
+      },
+      "author": "吳承恩",
+      "authorDeathYear": 1582,
+      "editionId": "cheng-en-journey-to-the-west.zh-hant.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 1592,
+      "originalTitle": "西遊記",
+      "rights": {
+        "statement": "Public domain worldwide. 吳承恩 died in 1582 and the work was first published in 1592. Source: zh.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "西遊記",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:30:38.180292Z",
+        "revision": "7905272",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "title": "西遊記",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "cheng-en-journey-to-the-west"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "e19ef0a3ad5a65b065077c508fb75c72fc303adb1654c2585b881161240cf844",
+        "encoding": "gzip",
+        "path": "books/zh-hant/dumas-q140527.zh-hant.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0ece5f5e1c270c2ac351ac0d4c080085a15f1a05340d7b69cf07dee3daf06881",
+        "sizeBytes": 70013,
+        "uncompressedSizeBytes": 186640,
+        "wordCount": 233
+      },
+      "author": "大仲马",
+      "authorDeathYear": 1870,
+      "editionId": "dumas-q140527.zh-hant.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "zh-Hant",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1844,
+      "originalTitle": "俠隱記",
+      "rights": {
+        "statement": "Public domain worldwide. 大仲马 died in 1870; the translator 伍光建 died in 1943 and this translation was first published in 1907. Source: zh.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "俠隱記",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:31:01.109881Z",
+        "revision": "2391514",
+        "url": "https://zh.wikisource.org/wiki/%E4%BF%A0%E9%9A%B1%E8%A8%98"
+      },
+      "title": "俠隱記",
+      "translationPublicationYear": 1907,
+      "translator": "伍光建",
+      "translatorDeathYear": 1943,
+      "workId": "dumas-q140527"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 91,
+        "contentSha256": "395af21f655b955fad1bfa6ea42a23f01612418cace348540599134ec560763f",
+        "encoding": "gzip",
+        "path": "books/zh-hant/dumas-q1639633.zh-hant.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c85c8145fe7b569235bb7268ffff6061f0bdc03862f0312661cea46b180694f6",
+        "sizeBytes": 364804,
+        "uncompressedSizeBytes": 1071335,
+        "wordCount": 1548
+      },
+      "author": "大仲马",
+      "authorDeathYear": 1870,
+      "editionId": "dumas-q1639633.zh-hant.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "zh-Hant",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1845,
+      "originalTitle": "續俠隱記",
+      "rights": {
+        "statement": "Public domain worldwide. 大仲马 died in 1870; the translator 伍光建 died in 1943 and this translation was first published in 1907. Source: zh.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "續俠隱記",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:33:06.897709Z",
+        "revision": "2635314",
+        "url": "https://zh.wikisource.org/wiki/%E7%BA%8C%E4%BF%A0%E9%9A%B1%E8%A8%98"
+      },
+      "title": "續俠隱記",
+      "translationPublicationYear": 1907,
+      "translator": "伍光建",
+      "translatorDeathYear": 1943,
+      "workId": "dumas-q1639633"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "d03cba2d876ffaeb0caba86c8c4e8bfbb0d66e8ba5e8ad095a903b7ed8354eec",
+        "encoding": "gzip",
+        "path": "books/zh-hant/feng-pg24141.zh-hant.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6445379945b29abd6b01750022694197e1149604550bfe125c1248c4d3bbb02e",
+        "sizeBytes": 529475,
+        "uncompressedSizeBytes": 1146531,
+        "wordCount": 2599
+      },
+      "author": "Menglong Feng",
+      "authorDeathYear": 1646,
+      "editionId": "feng-pg24141.zh-hant.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 1624,
+      "originalTitle": "警世通言",
+      "rights": {
+        "statement": "Public domain worldwide. Menglong Feng died in 1646 and the work was first published in 1624. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "24141",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T05:33:10.980584Z",
+        "revision": "Thu, 10 Sep 2026 10:03:33 GMT",
+        "url": "https://www.gutenberg.org/ebooks/24141"
+      },
+      "title": "警世通言",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "feng-pg24141"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "63187f2172f78d61fcc397553fb7b8cc06970a09697c6fbe54de444cde29c2b2",
+        "encoding": "gzip",
+        "path": "books/zh-hant/feng-pg24239.zh-hant.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c9906a2a3d83f7b5b6d3a5fde69b680f48dc6fbf9ac9145c5ba1d1f784888600",
+        "sizeBytes": 737270,
+        "uncompressedSizeBytes": 1611004,
+        "wordCount": 3365
+      },
+      "author": "Menglong Feng",
+      "authorDeathYear": 1646,
+      "editionId": "feng-pg24239.zh-hant.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 1627,
+      "originalTitle": "醒世恆言",
+      "rights": {
+        "statement": "Public domain worldwide. Menglong Feng died in 1646 and the work was first published in 1627. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "24239",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T05:33:14.837619Z",
+        "revision": "Thu, 10 Sep 2026 10:24:24 GMT",
+        "url": "https://www.gutenberg.org/ebooks/24239"
+      },
+      "title": "醒世恆言",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "feng-pg24239"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "80b55f11a0fb7ab4a811aa63220286a8f8de2083a930dbbb2c3593001d7abf82",
+        "encoding": "gzip",
+        "path": "books/zh-hant/feng-pg27582.zh-hant.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a36a89e5670915b2318ba8697f05a54a9bdc0183c26f1781d1ddb53c9a4fd75f",
+        "sizeBytes": 514093,
+        "uncompressedSizeBytes": 1086264,
+        "wordCount": 13220
+      },
+      "author": "Menglong Feng",
+      "authorDeathYear": 1646,
+      "editionId": "feng-pg27582.zh-hant.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 1620,
+      "originalTitle": "喻世明言",
+      "rights": {
+        "statement": "Public domain worldwide. Menglong Feng died in 1646 and the work was first published in 1620. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "27582",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T05:33:18.819266Z",
+        "revision": "Fri, 11 Sep 2026 13:36:19 GMT",
+        "url": "https://www.gutenberg.org/ebooks/27582"
+      },
+      "title": "喻世明言",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "feng-pg27582"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "d86cc76dc223693952df594c92ad3f539ef15261f54510640fa7d8b86ac019a5",
+        "encoding": "gzip",
+        "path": "books/zh-hant/han-pg24049.zh-hant.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a35973fbeddb8b12f004e97e9e3685eaa51f17c60e1ebdf83467350eeaa5f160",
+        "sizeBytes": 171437,
+        "uncompressedSizeBytes": 408237,
+        "wordCount": 5326
+      },
+      "author": "Fei Han",
+      "authorDeathYear": -233,
+      "editionId": "han-pg24049.zh-hant.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Philosophy",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": -300,
+      "originalTitle": "韩非子",
+      "rights": {
+        "statement": "Public domain worldwide. Fei Han died in -233 and the work was first published in -300. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "24049",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T05:36:03.082624Z",
+        "revision": "Thu, 10 Sep 2026 09:47:49 GMT",
+        "url": "https://www.gutenberg.org/ebooks/24049"
+      },
+      "title": "韩非子",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "han-pg24049"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 112,
+        "contentSha256": "e0d47a1d96207d403a40ac356f57a8988d75de6cb9c31ba4c9af78a17b99d9a8",
+        "encoding": "gzip",
+        "path": "books/zh-hant/il-yeon-samguk-yusa.zh-hant.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "07f57663fe4b70d5a66fa3a551fc6712edabf205f0baa7000bb7e10de72cb089",
+        "sizeBytes": 156995,
+        "uncompressedSizeBytes": 335118,
+        "wordCount": 1712
+      },
+      "author": "一然",
+      "authorDeathYear": 1289,
+      "editionId": "il-yeon-samguk-yusa.zh-hant.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 1279,
+      "originalTitle": "三國遺事",
+      "rights": {
+        "statement": "Public domain worldwide. 一然 died in 1289 and the work was first published in 1279. Source: zh.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "三國遺事",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:36:15.841446Z",
+        "revision": "2531688",
+        "url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E9%81%BA%E4%BA%8B"
+      },
+      "title": "三國遺事",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "il-yeon-samguk-yusa"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "876cbdb3be5ec296689ce5277220800dda1697c75e6eb9624ae14f56cdf8784b",
+        "encoding": "gzip",
+        "path": "books/zh-hant/ling-pg26729.zh-hant.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ba162c0f1627f1f3a05a870239d9489356a7b47a1a0e43cbc998280b81679424",
+        "sizeBytes": 584925,
+        "uncompressedSizeBytes": 1274811,
+        "wordCount": 14045
+      },
+      "author": "Mengchu Ling",
+      "authorDeathYear": 1644,
+      "editionId": "ling-pg26729.zh-hant.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 1628,
+      "originalTitle": "二刻拍案驚奇",
+      "rights": {
+        "statement": "Public domain worldwide. Mengchu Ling died in 1644 and the work was first published in 1628. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "26729",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T05:45:29.439197Z",
+        "revision": "Fri, 11 Sep 2026 10:07:24 GMT",
+        "url": "https://www.gutenberg.org/ebooks/26729"
+      },
+      "title": "二刻拍案驚奇",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "ling-pg26729"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "3a043bca3ccfce646badf65bf09c424866969d303ae12bb6975811288718b2e1",
+        "encoding": "gzip",
+        "path": "books/zh-hant/ling-pg57248.zh-hant.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "62323ea7ebf3d1e25455a44cfb2028f0586496ddcb1fd8d3ac0a6486ae8d7bbb",
+        "sizeBytes": 541327,
+        "uncompressedSizeBytes": 1188006,
+        "wordCount": 2492
+      },
+      "author": "Mengchu Ling",
+      "authorDeathYear": 1644,
+      "editionId": "ling-pg57248.zh-hant.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 1628,
+      "originalTitle": "初刻拍案驚奇",
+      "rights": {
+        "statement": "Public domain worldwide. Mengchu Ling died in 1644 and the work was first published in 1628. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "57248",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T05:45:33.215078Z",
+        "revision": "Sun, 23 Aug 2026 07:40:58 GMT",
+        "url": "https://www.gutenberg.org/ebooks/57248"
+      },
+      "title": "初刻拍案驚奇",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "ling-pg57248"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "ed11150551e1e1aa1ab8c700c50ee0746976a3ce5e3db265eec040d9494c19d7",
+        "encoding": "gzip",
+        "path": "books/zh-hant/pu-pg51828.zh-hant.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "43df6ef970947244236441b0898696b6ce51988f93174b230bd102327d5acc87",
+        "sizeBytes": 726239,
+        "uncompressedSizeBytes": 1463243,
+        "wordCount": 2299
+      },
+      "author": "Songling Pu",
+      "authorDeathYear": 1715,
+      "editionId": "pu-pg51828.zh-hant.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 1740,
+      "originalTitle": "聊齋志異",
+      "rights": {
+        "statement": "Public domain worldwide. Songling Pu died in 1715 and the work was first published in 1740. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "51828",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T05:45:41.355118Z",
+        "revision": "Sun, 20 Sep 2026 18:38:56 GMT",
+        "url": "https://www.gutenberg.org/ebooks/51828"
+      },
+      "title": "聊齋志異",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "pu-pg51828"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 11,
+        "contentSha256": "1f6967f79cd42c786a04808656cd0cb7de71ef3109be3421df3d577f74dd7969",
+        "encoding": "gzip",
+        "path": "books/zh-hant/pusik-samguk-sagi.zh-hant.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1c557b50eced3c3e54a7281b7299136a2b7b327c95997ebe745c44939ef8fd32",
+        "sizeBytes": 39500,
+        "uncompressedSizeBytes": 193556,
+        "wordCount": 5482
+      },
+      "author": "金富軾",
+      "authorDeathYear": 1151,
+      "editionId": "pusik-samguk-sagi.zh-hant.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 1145,
+      "originalTitle": "三国史记",
+      "rights": {
+        "statement": "Public domain worldwide. 金富軾 died in 1151 and the work was first published in 1145. Source: zh.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "三國史記",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:46:55.327466Z",
+        "revision": "2613719",
+        "url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E5%8F%B2%E8%A8%98"
+      },
+      "title": "三国史记",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "pusik-samguk-sagi"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 26,
+        "contentSha256": "930c389c6146eb200d7fa67900371488f682a8cdc3bd94d253be7c760af4bff4",
+        "encoding": "gzip",
+        "path": "books/zh-hant/shifu-the-story-of-the-western-wing.zh-hant.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4e936fe435c083693efb763b503ee208dd033255581c2cb245e1a546a28794ed",
+        "sizeBytes": 65274,
+        "uncompressedSizeBytes": 141216,
+        "wordCount": 505
+      },
+      "author": "玉實甫",
+      "authorDeathYear": 1307,
+      "editionId": "shifu-the-story-of-the-western-wing.zh-hant.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 1300,
+      "originalTitle": "西厢记",
+      "rights": {
+        "statement": "Public domain worldwide. 玉實甫 died in 1307 and the work was first published in 1300. Source: zh.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "西廂記",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:50:05.471130Z",
+        "revision": "1645642",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E5%BB%82%E8%A8%98"
+      },
+      "title": "西厢记",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "shifu-the-story-of-the-western-wing"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 260,
+        "contentSha256": "c8ab62d17c5a9ef3d17acd1afd87bf9456cc059a90d2a424d06483ed48b6af80",
+        "encoding": "gzip",
+        "path": "books/zh-hant/silian-book-of-chen.zh-hant.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "003f2b312bdfa8ea4a19f996c7647f433d2e5b6bbdb97db5954c9c46ca6a1704",
+        "sizeBytes": 280745,
+        "uncompressedSizeBytes": 655797,
+        "wordCount": 1746
+      },
+      "author": "姚思廉",
+      "authorDeathYear": 637,
+      "editionId": "silian-book-of-chen.zh-hant.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 636,
+      "originalTitle": "陳書",
+      "rights": {
+        "statement": "Public domain worldwide. 姚思廉 died in 637 and the work was first published in 636. Source: zh.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "陳書",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:52:45.460391Z",
+        "revision": "2138415",
+        "url": "https://zh.wikisource.org/wiki/%E9%99%B3%E6%9B%B8"
+      },
+      "title": "陳書",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "silian-book-of-chen"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 55,
+        "contentSha256": "9f65450712920586e10965f0ddb89c6364d910f2dfd7191fed8056b43ba45b70",
+        "encoding": "gzip",
+        "path": "books/zh-hant/xianzu-the-peony-pavilion.zh-hant.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7159392edda34e28fe6ed60b8f96269a1f76179e7d5046c15ef078a63446fee1",
+        "sizeBytes": 131316,
+        "uncompressedSizeBytes": 278639,
+        "wordCount": 1469
+      },
+      "author": "汤显祖",
+      "authorDeathYear": 1616,
+      "editionId": "xianzu-the-peony-pavilion.zh-hant.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 1598,
+      "originalTitle": "牡丹亭",
+      "rights": {
+        "statement": "Public domain worldwide. 汤显祖 died in 1616 and the work was first published in 1598. Source: zh.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "牡丹亭",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:54:23.239705Z",
+        "revision": "8056228",
+        "url": "https://zh.wikisource.org/wiki/%E7%89%A1%E4%B8%B9%E4%BA%AD"
+      },
+      "title": "牡丹亭",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "xianzu-the-peony-pavilion"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 10,
+        "contentSha256": "a83d4cd1b454fec1ee9e8e280f871610da25763d890579de6f0331bb44cf7498",
+        "encoding": "gzip",
+        "path": "books/zh-hant/xun-q.zh-hant.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "3eef5eb638f756b19e74d9d8998f8cc162502aa54fbc69f0b7e0ef84e36bc876",
+        "sizeBytes": 29506,
+        "uncompressedSizeBytes": 69092,
+        "wordCount": 324
+      },
+      "author": "魯迅",
+      "authorDeathYear": 1936,
+      "editionId": "xun-q.zh-hant.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 1921,
+      "originalTitle": "阿Q正傳",
+      "rights": {
+        "statement": "Public domain worldwide. 魯迅 died in 1936 and the work was first published in 1921. Source: zh.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "阿Q正傳",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:54:25.537501Z",
+        "revision": "2633268",
+        "url": "https://zh.wikisource.org/wiki/%E9%98%BFQ%E6%AD%A3%E5%82%B3"
+      },
+      "title": "阿Q正傳",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "xun-q"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "2836ef2bc5f72da7b71c4d9cf439c3a5629ea716ad27419086662cc6bb938a38",
+        "encoding": "gzip",
+        "path": "books/zh-hant/yuan-pg25245.zh-hant.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "424e7e54085b196ba6436cb98f550b86c0370f8721f322a2dd73275522ec672a",
+        "sizeBytes": 405083,
+        "uncompressedSizeBytes": 809547,
+        "wordCount": 2424
+      },
+      "author": "Mei Yuan",
+      "authorDeathYear": 1798,
+      "editionId": "yuan-pg25245.zh-hant.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 1788,
+      "originalTitle": "子不語",
+      "rights": {
+        "statement": "Public domain worldwide. Mei Yuan died in 1798 and the work was first published in 1788. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "25245",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T05:54:28.321512Z",
+        "revision": "Thu, 10 Sep 2026 16:45:38 GMT",
+        "url": "https://www.gutenberg.org/ebooks/25245"
+      },
+      "title": "子不語",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "yuan-pg25245"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Chinese Traditional",
+  "language": "zh-Hant",
+  "manifestVersion": "86df2b5a8d76800e",
+  "nativeName": "繁體中文",
+  "schemaVersion": 1
+}

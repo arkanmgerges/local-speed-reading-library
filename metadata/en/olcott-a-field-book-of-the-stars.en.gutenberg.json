@@ -1,13 +1,13 @@
 {
   "asset": {
-    "assetVersion": 1,
-    "builtAt": "2026-09-20T19:09:30.243180Z",
+    "assetVersion": 2,
+    "builtAt": "2026-09-21T06:24:05.874046Z",
     "chapterCount": 76,
-    "contentSha256": "94a36f163c0a29965f4b89920cfd79a028b7f3b690ba8f833e684de859050037",
-    "normalizerVersion": "0.1.0",
-    "path": "books/en/olcott-a-field-book-of-the-stars.en.gutenberg/v1/book.json.gz",
-    "sha256": "af3c5e348748768b5a06a74f8b8bc1154c96eb798ad3f5b64346e458d6fd425d",
-    "sizeBytes": 43724,
+    "contentSha256": "311949f6481324ff8f5f4574580e396bf5305833f63f44ea5807aaa34fbeb332",
+    "normalizerVersion": "0.2.0",
+    "path": "books/en/olcott-a-field-book-of-the-stars.en.gutenberg/v2/book.json.gz",
+    "sha256": "021aa56d2f3891f1eca41570d86db3a5c35dc1e589ec2e488806c9a51128daf7",
+    "sizeBytes": 43723,
     "uncompressedSizeBytes": 139314,
     "wordCount": 20489
   },
@@ -22,7 +22,7 @@
     "Non-fiction"
   ],
   "publish": {
-    "assetVersion": 1
+    "assetVersion": 2
   },
   "rights": {
     "basis": [

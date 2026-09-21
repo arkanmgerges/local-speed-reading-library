@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:55:25.560910Z",
+    "chapterCount": 201,
+    "contentSha256": "437f3203e53977f1581af16ba7393228487ad0fc6e2adbc74675970636a9bc96",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/perez-galdos-fortunata-y-jacinta.es.gutenberg/v1/book.json.gz",
+    "sha256": "5df8164c16ef05b654823a9b00c3776f1993dfda9d03980cef3de45654a0c992",
+    "sizeBytes": 899579,
+    "uncompressedSizeBytes": 2378017,
+    "wordCount": 392631
+  },
+  "edition": {
+    "editionId": "perez-galdos-fortunata-y-jacinta.es.gutenberg",
+    "kind": "original",
+    "language": "es",
+    "title": "Fortunata y Jacinta: dos historias de casadas"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1920: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1887: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/17013",
+      "https://en.wikipedia.org/wiki/Benito_Pérez_Galdós",
+      "https://www.wikidata.org/wiki/Q3815979"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Benito Pérez Galdós died in 1920 and the work was first published in 1887. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "17013",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:45:53.869757Z",
+    "revision": "Mon, 07 Sep 2026 15:30:29 GMT",
+    "url": "https://www.gutenberg.org/ebooks/17013"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1843,
+      "deathYear": 1920,
+      "name": "Benito Pérez Galdós",
+      "wikidata": "Q189869"
+    },
+    "originalLanguage": "es",
+    "originalPublicationYear": 1887,
+    "originalTitle": "Fortunata y Jacinta: dos historias de casadas",
+    "workId": "perez-galdos-fortunata-y-jacinta"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:08:59.541978Z",
+    "chapterCount": 26,
+    "contentSha256": "930c389c6146eb200d7fa67900371488f682a8cdc3bd94d253be7c760af4bff4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/shifu-the-story-of-the-western-wing.zh-hant.wikisource/v1/book.json.gz",
+    "sha256": "4e936fe435c083693efb763b503ee208dd033255581c2cb245e1a546a28794ed",
+    "sizeBytes": 65274,
+    "uncompressedSizeBytes": 141216,
+    "wordCount": 505
+  },
+  "edition": {
+    "editionId": "shifu-the-story-of-the-western-wing.zh-hant.wikisource",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "西厢记"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1307: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1300: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q58765",
+      "https://www.wikidata.org/wiki/Q627017",
+      "https://zh.wikisource.org/wiki/%E8%A5%BF%E5%BB%82%E8%A8%98"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 玉實甫 died in 1307 and the work was first published in 1300. Source: zh.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "西廂記",
+    "pages": [
+      {
+        "revision": 1645642,
+        "title": "西廂記"
+      },
+      {
+        "revision": 2117999,
+        "title": "西廂記/第1本"
+      },
+      {
+        "revision": 2530759,
+        "title": "西廂記/第2本"
+      },
+      {
+        "revision": 1536874,
+        "title": "西廂記/第3本"
+      },
+      {
+        "revision": 1536876,
+        "title": "西廂記/第4本"
+      },
+      {
+        "revision": 1536877,
+        "title": "西廂記/第5本"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:50:05.471130Z",
+    "revision": "1645642",
+    "site": "zh.wikisource.org",
+    "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E5%BB%82%E8%A8%98"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1250,
+      "deathYear": 1307,
+      "name": "玉實甫",
+      "wikidata": "Q627017"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": 1300,
+    "originalTitle": "西厢记",
+    "workId": "shifu-the-story-of-the-western-wing"
+  }
+}

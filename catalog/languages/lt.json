@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "51ea5128c345b5c6bc9ddc756230d1858d50726ad09f22b61a1aa771c1ea8d91",
+        "encoding": "gzip",
+        "path": "books/lt/krasevskis-kunigas.lt.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a4d88efb59a3844f83aa635f27f878385ab7883c1b6f0f5c564f1b419234b6a3",
+        "sizeBytes": 117465,
+        "uncompressedSizeBytes": 329047,
+        "wordCount": 43514
+      },
+      "author": "Juozapas Ignotas Kraševskis",
+      "authorDeathYear": 1887,
+      "editionId": "krasevskis-kunigas.lt.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "lt",
+      "originalLanguage": "pl",
+      "originalPublicationYear": 1882,
+      "originalTitle": "Kunigas",
+      "rights": {
+        "statement": "Public domain worldwide. Juozapas Ignotas Kraševskis died in 1887; the translator Augustinas Zeicas died in 1914 and this translation was first published in 1887. Source: lt.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Kunigas",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:56:21.610034Z",
+        "revision": "8567",
+        "url": "https://lt.wikisource.org/wiki/Kunigas"
+      },
+      "title": "Kunigas",
+      "translationPublicationYear": 1887,
+      "translator": "Augustinas Zeicas",
+      "translatorDeathYear": 1914,
+      "workId": "krasevskis-kunigas"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Lithuanian",
+  "language": "lt",
+  "manifestVersion": "ed73d576e92e29cc",
+  "nativeName": "Lietuvių",
+  "schemaVersion": 1
+}

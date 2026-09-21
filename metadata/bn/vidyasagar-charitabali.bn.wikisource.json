@@ -1,0 +1,153 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:51:32.454077Z",
+    "chapterCount": 20,
+    "contentSha256": "94f329f00883696095151cba31a8e58680ea6f72c927e84466318c85e92fe333",
+    "normalizerVersion": "0.2.0",
+    "path": "books/bn/vidyasagar-charitabali.bn.wikisource/v1/book.json.gz",
+    "sha256": "c59894279fce4ea5d097da2ae16569eecb71487f64166fe70523e44acb27803c",
+    "sizeBytes": 35331,
+    "uncompressedSizeBytes": 227576,
+    "wordCount": 12611
+  },
+  "edition": {
+    "editionId": "vidyasagar-charitabali.bn.wikisource",
+    "kind": "original",
+    "language": "bn",
+    "title": "চরিতাবলী"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1891: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1869: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q106687582",
+      "https://www.wikidata.org/wiki/Q964111",
+      "https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A6%B2%E0%A7%80"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ঈশ্বরচন্দ্র বিদ্যাসাগর died in 1891 and the work was first published in 1869. Source: bn.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "চরিতাবলী",
+    "pages": [
+      {
+        "revision": 1971795,
+        "title": "চরিতাবলী"
+      },
+      {
+        "revision": 1625444,
+        "title": "চরিতাবলী/ডুবাল"
+      },
+      {
+        "revision": 1625438,
+        "title": "চরিতাবলী/উইলিয়ম রস্কো"
+      },
+      {
+        "revision": 1625453,
+        "title": "চরিতাবলী/হীন"
+      },
+      {
+        "revision": 1625441,
+        "title": "চরিতাবলী/জিরোম ষ্টোন"
+      },
+      {
+        "revision": 1625452,
+        "title": "চরিতাবলী/হণ্টর"
+      },
+      {
+        "revision": 1625451,
+        "title": "চরিতাবলী/সিমসন"
+      },
+      {
+        "revision": 1553715,
+        "title": "চরিতাবলী/উইলিয়ম হটন"
+      },
+      {
+        "revision": 1625440,
+        "title": "চরিতাবলী/ওগিলবি"
+      },
+      {
+        "revision": 1625450,
+        "title": "চরিতাবলী/লীডন"
+      },
+      {
+        "revision": 1625442,
+        "title": "চরিতাবলী/জেঙ্কিন্স"
+      },
+      {
+        "revision": 1625436,
+        "title": "চরিতাবলী/উইলিয়ম গিফোর্ড"
+      },
+      {
+        "revision": 1625435,
+        "title": "চরিতাবলী/উইঙ্কিলমন"
+      },
+      {
+        "revision": 1625437,
+        "title": "চরিতাবলী/উইলিয়ম পষ্টেলস"
+      },
+      {
+        "revision": 1625439,
+        "title": "চরিতাবলী/এড্রিয়ন"
+      },
+      {
+        "revision": 1625445,
+        "title": "চরিতাবলী/প্রিডো"
+      },
+      {
+        "revision": 1625443,
+        "title": "চরিতাবলী/ডাক্তর এডাম"
+      },
+      {
+        "revision": 1625449,
+        "title": "চরিতাবলী/লমনসফ"
+      },
+      {
+        "revision": 1625446,
+        "title": "চরিতাবলী/মেডক্‌স"
+      },
+      {
+        "revision": 1625448,
+        "title": "চরিতাবলী/লঙ্গোমণ্টেনস"
+      },
+      {
+        "revision": 1625447,
+        "title": "চরিতাবলী/রেমস"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:04:32.698084Z",
+    "revision": "1971795",
+    "site": "bn.wikisource.org",
+    "url": "https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A6%B2%E0%A7%80"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1820,
+      "deathYear": 1891,
+      "name": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "wikidata": "Q964111"
+    },
+    "originalLanguage": "bn",
+    "originalPublicationYear": 1869,
+    "originalTitle": "চরিতাবলী",
+    "workId": "vidyasagar-charitabali"
+  }
+}

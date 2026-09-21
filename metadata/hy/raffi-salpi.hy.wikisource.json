@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:28:34.801623Z",
+    "chapterCount": 44,
+    "contentSha256": "6da5e65963f97a260b9637e21abc49e6676dd349ca909b1d13e1e2429c8cb388",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hy/raffi-salpi.hy.wikisource/v1/book.json.gz",
+    "sha256": "b815f0fc7384362b07d9b1c8b74ee6338cbd38872715e73e046e01264905ad13",
+    "sizeBytes": 286491,
+    "uncompressedSizeBytes": 1121433,
+    "wordCount": 90495
+  },
+  "edition": {
+    "editionId": "raffi-salpi.hy.wikisource",
+    "kind": "original",
+    "language": "hy",
+    "title": "Սալբի"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1888: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1874: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q21212669",
+      "https://www.wikidata.org/wiki/Q2610362",
+      "https://hy.wikisource.org/wiki/%D5%8D%D5%A1%D5%AC%D5%A2%D5%AB"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Րաֆֆի died in 1888 and the work was first published in 1874. Source: hy.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Սալբի",
+    "pages": [
+      {
+        "revision": 363255,
+        "title": "Սալբի"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:37:34.285736Z",
+    "revision": "363255",
+    "site": "hy.wikisource.org",
+    "url": "https://hy.wikisource.org/wiki/%D5%8D%D5%A1%D5%AC%D5%A2%D5%AB"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1888,
+      "name": "Րաֆֆի",
+      "wikidata": "Q2610362"
+    },
+    "originalLanguage": "hy",
+    "originalPublicationYear": 1874,
+    "originalTitle": "Սալբի",
+    "workId": "raffi-salpi"
+  }
+}

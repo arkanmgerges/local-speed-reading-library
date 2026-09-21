@@ -1,0 +1,119 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:53:09.305792Z",
+    "chapterCount": 10,
+    "contentSha256": "0c976a17aeb6095f955d41fff486cc18106334a2565b989986d7232dd7e86d51",
+    "normalizerVersion": "0.2.0",
+    "path": "books/de/kopernikus-nicolaus-coppernicus-aus-thorn-uber-die-kreisbewegungen.de.wikisource/v1/book.json.gz",
+    "sha256": "08b3495ec8d59527b6740161ba34cf4b5746fa7b0e055e53dab22c30cccda106",
+    "sizeBytes": 299183,
+    "uncompressedSizeBytes": 1033322,
+    "wordCount": 179186
+  },
+  "edition": {
+    "editionId": "kopernikus-nicolaus-coppernicus-aus-thorn-uber-die-kreisbewegungen.de.wikisource",
+    "kind": "translation",
+    "language": "de",
+    "title": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper",
+    "translationPublicationYear": 1879,
+    "translator": {
+      "birthYear": 1816,
+      "deathYear": 1893,
+      "name": "Karl Ludolf Menzzer",
+      "wikidata": "Q1732196"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1543: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1893: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1879: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q845981",
+      "https://www.wikidata.org/wiki/Q20950833",
+      "https://www.wikidata.org/wiki/Q619",
+      "https://www.wikidata.org/wiki/Q1732196",
+      "https://de.wikisource.org/wiki/Nicolaus_Coppernicus_aus_Thorn_%C3%BCber_die_Kreisbewegungen_der_Weltk%C3%B6rper"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Nikolaus Kopernikus died in 1543; the translator Karl Ludolf Menzzer died in 1893 and this translation was first published in 1879. Source: de.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper",
+    "pages": [
+      {
+        "revision": 3502885,
+        "title": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper"
+      },
+      {
+        "revision": 2569338,
+        "title": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper/Vorwort"
+      },
+      {
+        "revision": 2569339,
+        "title": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper/Vorwort Coppernicus"
+      },
+      {
+        "revision": 2989830,
+        "title": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper/Erstes Buch"
+      },
+      {
+        "revision": 2989827,
+        "title": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper/Zweites Buch Teil A"
+      },
+      {
+        "revision": 2997910,
+        "title": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper/Drittes Buch Teil A"
+      },
+      {
+        "revision": 2997908,
+        "title": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper/Viertes Buch"
+      },
+      {
+        "revision": 2997012,
+        "title": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper/Fünftes Buch Teil A"
+      },
+      {
+        "revision": 2997170,
+        "title": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper/Sechstes Buch"
+      },
+      {
+        "revision": 2801013,
+        "title": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper/Anmerkungen"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:25:43.155538Z",
+    "revision": "3502885",
+    "site": "de.wikisource.org",
+    "url": "https://de.wikisource.org/wiki/Nicolaus_Coppernicus_aus_Thorn_%C3%BCber_die_Kreisbewegungen_der_Weltk%C3%B6rper"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1473,
+      "deathYear": 1543,
+      "name": "Nikolaus Kopernikus",
+      "wikidata": "Q619"
+    },
+    "originalLanguage": "la",
+    "originalPublicationYear": 1543,
+    "originalTitle": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper",
+    "workId": "kopernikus-nicolaus-coppernicus-aus-thorn-uber-die-kreisbewegungen"
+  }
+}

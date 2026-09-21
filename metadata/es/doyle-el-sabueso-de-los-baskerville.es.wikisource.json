@@ -1,0 +1,147 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:55:16.102726Z",
+    "chapterCount": 28,
+    "contentSha256": "7363bca5620ebce7c67da665283a34284c82e96dd3b217a9da186dc929ede568",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/doyle-el-sabueso-de-los-baskerville.es.wikisource/v1/book.json.gz",
+    "sha256": "7160734b004d8b1006ea0bdb218179ee4f71cc5101c1cee9982bbd277855315e",
+    "sizeBytes": 144002,
+    "uncompressedSizeBytes": 403426,
+    "wordCount": 63371
+  },
+  "edition": {
+    "editionId": "doyle-el-sabueso-de-los-baskerville.es.wikisource",
+    "kind": "translation",
+    "language": "es",
+    "title": "El sabueso de los Baskerville",
+    "translationPublicationYear": 1909,
+    "translator": {
+      "birthYear": 1870,
+      "deathYear": 1929,
+      "name": "Arturo Costa Álvarez",
+      "wikidata": "Q5707185"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1929: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1909: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q45192",
+      "https://www.wikidata.org/wiki/Q113933559",
+      "https://www.wikidata.org/wiki/Q35610",
+      "https://www.wikidata.org/wiki/Q5707185",
+      "https://es.wikisource.org/wiki/El_sabueso_de_los_Baskerville_(Costa_%C3%81lvarez_tr.)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Arthur Conan Doyle died in 1930; the translator Arturo Costa Álvarez died in 1929 and this translation was first published in 1909. Source: es.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "El sabueso de los Baskerville (Costa Álvarez tr.)",
+    "pages": [
+      {
+        "revision": 1336041,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)"
+      },
+      {
+        "revision": 1336255,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/Prefacio"
+      },
+      {
+        "revision": 1336015,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/I"
+      },
+      {
+        "revision": 1336176,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/II"
+      },
+      {
+        "revision": 1336221,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/III"
+      },
+      {
+        "revision": 1336241,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/IV"
+      },
+      {
+        "revision": 1336242,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/V"
+      },
+      {
+        "revision": 1336243,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/VI"
+      },
+      {
+        "revision": 1336244,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/VII"
+      },
+      {
+        "revision": 1336247,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/VIII"
+      },
+      {
+        "revision": 1336248,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/IX"
+      },
+      {
+        "revision": 1336249,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/X"
+      },
+      {
+        "revision": 1336250,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/XI"
+      },
+      {
+        "revision": 1336251,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/XII"
+      },
+      {
+        "revision": 1336252,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/XIII"
+      },
+      {
+        "revision": 1336253,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/XIV"
+      },
+      {
+        "revision": 1336254,
+        "title": "El sabueso de los Baskerville (Costa Álvarez tr.)/XV"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:45:29.541099Z",
+    "revision": "1336041",
+    "site": "es.wikisource.org",
+    "url": "https://es.wikisource.org/wiki/El_sabueso_de_los_Baskerville_(Costa_%C3%81lvarez_tr.)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1859,
+      "deathYear": 1930,
+      "name": "Arthur Conan Doyle",
+      "wikidata": "Q35610"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1902,
+    "originalTitle": "El sabueso de los Baskerville",
+    "workId": "doyle-el-sabueso-de-los-baskerville"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:47.343960Z",
+    "chapterCount": 4,
+    "contentSha256": "ff496868cd1d962b8982792d2a0b2eb6fd5ec572a492bafcf42f4fcfa7af3258",
+    "normalizerVersion": "0.2.0",
+    "path": "books/la/galilaei-sidereus-nuncius.la.wikisource/v1/book.json.gz",
+    "sha256": "27c0ce014a0183fdc68396de486f0afc4d339e7eb1253ba42a16cc2bed6a3711",
+    "sizeBytes": 26781,
+    "uncompressedSizeBytes": 75252,
+    "wordCount": 9991
+  },
+  "edition": {
+    "editionId": "galilaei-sidereus-nuncius.la.wikisource",
+    "kind": "original",
+    "language": "la",
+    "title": "Sidereus nuncius"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1642: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1610: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1457297",
+      "https://www.wikidata.org/wiki/Q307",
+      "https://la.wikisource.org/wiki/Sidereus_nuncius"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Galilaeus Galilaei died in 1642 and the work was first published in 1610. Source: la.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Sidereus nuncius",
+    "pages": [
+      {
+        "revision": 130373,
+        "title": "Sidereus nuncius"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:54:44.654922Z",
+    "revision": "130373",
+    "site": "la.wikisource.org",
+    "url": "https://la.wikisource.org/wiki/Sidereus_nuncius"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1564,
+      "deathYear": 1642,
+      "name": "Galilaeus Galilaei",
+      "wikidata": "Q307"
+    },
+    "originalLanguage": "la",
+    "originalPublicationYear": 1610,
+    "originalTitle": "Sidereus nuncius",
+    "workId": "galilaei-sidereus-nuncius"
+  }
+}

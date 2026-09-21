@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:34.080407Z",
+    "chapterCount": 14,
+    "contentSha256": "51085dc42a1e6edea1f2f55e2907d961951eef6f83197226316671b548eabe3f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ja/soseki-kusamakura.ja.wikisource/v1/book.json.gz",
+    "sha256": "71cbebebd892bee0c0543339c32d45682d4bed13df8148e8d03fb5dabf87dbf6",
+    "sizeBytes": 114155,
+    "uncompressedSizeBytes": 328506,
+    "wordCount": 1176
+  },
+  "edition": {
+    "editionId": "soseki-kusamakura.ja.wikisource",
+    "kind": "original",
+    "language": "ja",
+    "title": "草枕"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1916: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1906: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q3778177",
+      "https://www.wikidata.org/wiki/Q180903",
+      "https://ja.wikisource.org/wiki/%E8%8D%89%E6%9E%95"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 夏目漱石 died in 1916 and the work was first published in 1906. Source: ja.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "草枕",
+    "pages": [
+      {
+        "revision": 212623,
+        "title": "草枕"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:50:54.803713Z",
+    "revision": "212623",
+    "site": "ja.wikisource.org",
+    "url": "https://ja.wikisource.org/wiki/%E8%8D%89%E6%9E%95"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1867,
+      "deathYear": 1916,
+      "name": "夏目漱石",
+      "wikidata": "Q180903"
+    },
+    "originalLanguage": "ja",
+    "originalPublicationYear": 1906,
+    "originalTitle": "草枕",
+    "workId": "soseki-kusamakura"
+  }
+}

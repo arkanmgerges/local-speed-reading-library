@@ -1,0 +1,103 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:03.650844Z",
+    "chapterCount": 5,
+    "contentSha256": "b844fa03af006878eb5d86f246440a10f041857f2516e8b64612e2ef76793a9d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/dickens-cantico-di-natale.it.wikisource/v1/book.json.gz",
+    "sha256": "33fd43de6cd29bac683b36f3df095c45e89aa643a00a9897a0b62fc3a48891bf",
+    "sizeBytes": 63475,
+    "uncompressedSizeBytes": 170776,
+    "wordCount": 27395
+  },
+  "edition": {
+    "editionId": "dickens-cantico-di-natale.it.wikisource",
+    "kind": "translation",
+    "language": "it",
+    "title": "Cantico di Natale",
+    "translationPublicationYear": 1888,
+    "translator": {
+      "birthYear": 1844,
+      "deathYear": 1927,
+      "name": "Federigo Verdinois",
+      "wikidata": "Q3741979"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1870: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1927: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1888: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q62879",
+      "https://www.wikidata.org/wiki/Q65038615",
+      "https://www.wikidata.org/wiki/Q5686",
+      "https://www.wikidata.org/wiki/Q3741979",
+      "https://it.wikisource.org/wiki/Cantico_di_Natale"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Federigo Verdinois died in 1927 and this translation was first published in 1888. Source: it.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Cantico di Natale",
+    "pages": [
+      {
+        "revision": 3676437,
+        "title": "Cantico di Natale"
+      },
+      {
+        "revision": 3676438,
+        "title": "Cantico di Natale/Strofa Prima"
+      },
+      {
+        "revision": 3676441,
+        "title": "Cantico di Natale/Strofa Seconda"
+      },
+      {
+        "revision": 3676442,
+        "title": "Cantico di Natale/Strofa Terza"
+      },
+      {
+        "revision": 3676439,
+        "title": "Cantico di Natale/Strofa Quarta"
+      },
+      {
+        "revision": 3676440,
+        "title": "Cantico di Natale/Strofa Quinta"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:45:11.803359Z",
+    "revision": "3676437",
+    "site": "it.wikisource.org",
+    "url": "https://it.wikisource.org/wiki/Cantico_di_Natale"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1812,
+      "deathYear": 1870,
+      "name": "Charles Dickens",
+      "wikidata": "Q5686"
+    },
+    "originalLanguage": "en-gb",
+    "originalPublicationYear": 1843,
+    "originalTitle": "Cantico di Natale",
+    "workId": "dickens-cantico-di-natale"
+  }
+}

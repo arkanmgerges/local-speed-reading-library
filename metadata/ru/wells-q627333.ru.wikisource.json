@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:54.634258Z",
+    "chapterCount": 17,
+    "contentSha256": "7002e0a860f9ede4dd8cab7a3310e8c2d319e3d6a93858080aee155ffba0e646",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ru/wells-q627333.ru.wikisource/v1/book.json.gz",
+    "sha256": "1fca5ab43755f91cafea901b8cde71e58ed9f9b8084e24169d90a6d3c937ad17",
+    "sizeBytes": 95641,
+    "uncompressedSizeBytes": 361586,
+    "wordCount": 29566
+  },
+  "edition": {
+    "editionId": "wells-q627333.ru.wikisource",
+    "kind": "translation",
+    "language": "ru",
+    "title": "Машина времени (Уэллс; Морозов)",
+    "translationPublicationYear": 1909,
+    "translator": {
+      "birthYear": 1854,
+      "deathYear": 1946,
+      "name": "Николай Александрович Морозов",
+      "wikidata": "Q211551"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1909: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q627333",
+      "https://www.wikidata.org/wiki/Q114300676",
+      "https://www.wikidata.org/wiki/Q42511",
+      "https://www.wikidata.org/wiki/Q211551",
+      "https://ru.wikisource.org/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%B0_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_(%D0%A3%D1%8D%D0%BB%D0%BB%D1%81%3B_%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Герберт Уэллс died in 1946; the translator Николай Александрович Морозов died in 1946 and this translation was first published in 1909. Source: ru.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Машина времени (Уэллс; Морозов)",
+    "pages": [
+      {
+        "revision": 5267906,
+        "title": "Машина времени (Уэллс; Морозов)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:55:26.435024Z",
+    "revision": "5267906",
+    "site": "ru.wikisource.org",
+    "url": "https://ru.wikisource.org/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%B0_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_(%D0%A3%D1%8D%D0%BB%D0%BB%D1%81%3B_%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1866,
+      "deathYear": 1946,
+      "name": "Герберт Уэллс",
+      "wikidata": "Q42511"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1895,
+    "originalTitle": "Машина времени (Уэллс; Морозов)",
+    "workId": "wells-q627333"
+  }
+}

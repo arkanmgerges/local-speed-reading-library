@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:11.650186Z",
+    "chapterCount": 36,
+    "contentSha256": "25af044e580eb3e0a415e1f3313bc9b7d785f5d4452048f117c9a38c906464bc",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/stiernstedt-froken-liwin.sv.gutenberg/v1/book.json.gz",
+    "sha256": "a575cffefe1a4d878fd53e15f32d903d1388c48d72d4dba62e895c5126f5d0fc",
+    "sizeBytes": 167165,
+    "uncompressedSizeBytes": 451934,
+    "wordCount": 70265
+  },
+  "edition": {
+    "editionId": "stiernstedt-froken-liwin.sv.gutenberg",
+    "kind": "original",
+    "language": "sv",
+    "title": "Fröken Liwin"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1954: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1927: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/74639",
+      "https://en.wikipedia.org/wiki/Marika_Stiernstedt",
+      "https://sv.wikipedia.org/wiki/Marika_Stiernstedt",
+      "https://www.wikidata.org/wiki/Q10499724"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Marika Stiernstedt died in 1954 and the work was first published in 1927. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "74639",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T05:07:33.080511Z",
+    "revision": "Sat, 29 Aug 2026 15:24:39 GMT",
+    "url": "https://www.gutenberg.org/ebooks/74639"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1875,
+      "deathYear": 1954,
+      "name": "Marika Stiernstedt",
+      "wikidata": "Q4980514"
+    },
+    "originalLanguage": "sv",
+    "originalPublicationYear": 1927,
+    "originalTitle": "Fröken Liwin",
+    "workId": "stiernstedt-froken-liwin"
+  }
+}

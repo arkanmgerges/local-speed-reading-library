@@ -1,0 +1,82 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:53:17.562713Z",
+    "chapterCount": 1,
+    "contentSha256": "3889b590eaf74e7227bb87ba7dd4ce1aba0e8cdf6b7bbc7cf928cb238c906e2d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/de/samosata-todtengesprache.de.wikisource/v1/book.json.gz",
+    "sha256": "e0ccf62402e06f8e1d7ba387a011ac92eb1a24cdac3062f4a30a1b9bf3b2d3cc",
+    "sizeBytes": 40587,
+    "uncompressedSizeBytes": 108216,
+    "wordCount": 15899
+  },
+  "edition": {
+    "editionId": "samosata-todtengesprache.de.wikisource",
+    "kind": "translation",
+    "language": "de",
+    "title": "Todtengespräche",
+    "translationPublicationYear": 1827,
+    "translator": {
+      "birthYear": 1796,
+      "deathYear": 1845,
+      "name": "August Friedrich Pauly",
+      "wikidata": "Q70497"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 180: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1845: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1827: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1975147",
+      "https://www.wikidata.org/wiki/Q51847485",
+      "https://www.wikidata.org/wiki/Q177847",
+      "https://www.wikidata.org/wiki/Q70497",
+      "https://de.wikisource.org/wiki/Todtengespr%C3%A4che"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Lukian von Samosata died in 180; the translator August Friedrich Pauly died in 1845 and this translation was first published in 1827. Source: de.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Todtengespräche",
+    "pages": [
+      {
+        "revision": 1756392,
+        "title": "Todtengespräche"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:26:31.059960Z",
+    "revision": "1756392",
+    "site": "de.wikisource.org",
+    "url": "https://de.wikisource.org/wiki/Todtengespr%C3%A4che"
+  },
+  "work": {
+    "author": {
+      "birthYear": 120,
+      "deathYear": 180,
+      "name": "Lukian von Samosata",
+      "wikidata": "Q177847"
+    },
+    "originalLanguage": "grc",
+    "originalTitle": "Todtengespräche",
+    "workId": "samosata-todtengesprache"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:35.883555Z",
+    "chapterCount": 27,
+    "contentSha256": "6d05703d23069354a047de5246056b3e6ffbd154fb3e64719d1846a6a229902c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/maspons-i-labros-lo-rondallayre.ca.gutenberg/v1/book.json.gz",
+    "sha256": "c22a542221e10eb969f6363eb32fa9a42d9b5035d1549fd970fb1e29cf15d4d6",
+    "sizeBytes": 55961,
+    "uncompressedSizeBytes": 168841,
+    "wordCount": 29452
+  },
+  "edition": {
+    "editionId": "maspons-i-labros-lo-rondallayre.ca.gutenberg",
+    "editionPublicationYear": 1871,
+    "kind": "original",
+    "language": "ca",
+    "title": "Lo rondallayre : $b Quentos populars catalans"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1901: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1871 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/75409",
+      "https://en.wikipedia.org/wiki/Francisco_Maspons_y_Labr%C3%B3s",
+      "https://ca.wikipedia.org/wiki/Francesc_de_Sales_Maspons_i_Labr%C3%B3s"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Francesc Maspons i Labrós died in 1901 and the edition digitised by Project Gutenberg was printed in 1871. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "75409",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:05:42.487852Z",
+    "revision": "Sun, 30 Aug 2026 07:31:47 GMT",
+    "url": "https://www.gutenberg.org/ebooks/75409"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1840,
+      "deathYear": 1901,
+      "name": "Francesc Maspons i Labrós",
+      "wikidata": "Q5483684"
+    },
+    "originalLanguage": "ca",
+    "originalTitle": "Lo rondallayre : $b Quentos populars catalans",
+    "workId": "maspons-i-labros-lo-rondallayre"
+  }
+}

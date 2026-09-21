@@ -1,0 +1,311 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "b1c92dbc01fd5fb26b6af378f2b7ab90ceb35c58c58dfa8cfcb1971880dfe0f5",
+        "encoding": "gzip",
+        "path": "books/hy/baronian-medzabadiv-muratsganer.hy.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b350cc004811a4dffc9ee71fc2bb9f34e25480d2ebefab8f4e5c4d9f217aaa2a",
+        "sizeBytes": 59459,
+        "uncompressedSizeBytes": 250642,
+        "wordCount": 21265
+      },
+      "author": "Հակոբ Պարոնյան",
+      "authorDeathYear": 1891,
+      "editionId": "baronian-medzabadiv-muratsganer.hy.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "hy",
+      "originalLanguage": "hy",
+      "originalPublicationYear": 1887,
+      "originalTitle": "Մեծապատիվ մուրացկաններ",
+      "rights": {
+        "statement": "Public domain worldwide. Հակոբ Պարոնյան died in 1891 and the work was first published in 1887. Source: hy.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Մեծապատիվ մուրացկանները",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:36:39.837302Z",
+        "revision": "353174",
+        "url": "https://hy.wikisource.org/wiki/%D5%84%D5%A5%D5%AE%D5%A1%D5%BA%D5%A1%D5%BF%D5%AB%D5%BE_%D5%B4%D5%B8%D6%82%D6%80%D5%A1%D6%81%D5%AF%D5%A1%D5%B6%D5%B6%D5%A5%D6%80%D5%A8"
+      },
+      "title": "Մեծապատիվ մուրացկաններ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "baronian-medzabadiv-muratsganer"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 93,
+        "contentSha256": "6addfcfaaed2ebc3ea1266bc71c7ac077d04140b12d38f46bea685ea244863e3",
+        "encoding": "gzip",
+        "path": "books/hy/muratsan-gevorg-marzpetuni.hy.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "74dcfc89f425ce82f8b91b923f9aba9d600671ab50655f2de39a39e3e9954cf0",
+        "sizeBytes": 373369,
+        "uncompressedSizeBytes": 1550032,
+        "wordCount": 121932
+      },
+      "author": "Մուրացան",
+      "authorDeathYear": 1908,
+      "editionId": "muratsan-gevorg-marzpetuni.hy.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "hy",
+      "originalLanguage": "hy",
+      "originalPublicationYear": 1896,
+      "originalTitle": "Գևորգ Մարզպետունի",
+      "rights": {
+        "statement": "Public domain worldwide. Մուրացան died in 1908 and the work was first published in 1896. Source: hy.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Գևորգ Մարզպետունի",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:37:26.854240Z",
+        "revision": "391941",
+        "url": "https://hy.wikisource.org/wiki/%D4%B3%D6%87%D5%B8%D6%80%D5%A3_%D5%84%D5%A1%D6%80%D5%A6%D5%BA%D5%A5%D5%BF%D5%B8%D6%82%D5%B6%D5%AB"
+      },
+      "title": "Գևորգ Մարզպետունի",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "muratsan-gevorg-marzpetuni"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "53fdc14c343dea43ab63c097b9dca030b612622202ce91c35bf0e780b7435426",
+        "encoding": "gzip",
+        "path": "books/hy/muratsan-q101242311.hy.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b713e8f8977e4eac9a15ada63614759259de33aee561ae90e2e809709b4e7591",
+        "sizeBytes": 42746,
+        "uncompressedSizeBytes": 171299,
+        "wordCount": 14084
+      },
+      "author": "Մուրացան",
+      "authorDeathYear": 1908,
+      "editionId": "muratsan-q101242311.hy.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "hy",
+      "originalLanguage": "hy",
+      "originalPublicationYear": 1884,
+      "originalTitle": "Հասարակաց որդեգիրը",
+      "rights": {
+        "statement": "Public domain worldwide. Մուրացան died in 1908 and the work was first published in 1884. Source: hy.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Հասարակաց որդեգիրը",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:37:31.073068Z",
+        "revision": "352380",
+        "url": "https://hy.wikisource.org/wiki/%D5%80%D5%A1%D5%BD%D5%A1%D6%80%D5%A1%D5%AF%D5%A1%D6%81_%D5%B8%D6%80%D5%A4%D5%A5%D5%A3%D5%AB%D6%80%D5%A8"
+      },
+      "title": "Հասարակաց որդեգիրը",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "muratsan-q101242311"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 44,
+        "contentSha256": "6da5e65963f97a260b9637e21abc49e6676dd349ca909b1d13e1e2429c8cb388",
+        "encoding": "gzip",
+        "path": "books/hy/raffi-salpi.hy.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b815f0fc7384362b07d9b1c8b74ee6338cbd38872715e73e046e01264905ad13",
+        "sizeBytes": 286491,
+        "uncompressedSizeBytes": 1121433,
+        "wordCount": 90495
+      },
+      "author": "Րաֆֆի",
+      "authorDeathYear": 1888,
+      "editionId": "raffi-salpi.hy.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "hy",
+      "originalLanguage": "hy",
+      "originalPublicationYear": 1874,
+      "originalTitle": "Սալբի",
+      "rights": {
+        "statement": "Public domain worldwide. Րաֆֆի died in 1888 and the work was first published in 1874. Source: hy.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Սալբի",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:37:34.285736Z",
+        "revision": "363255",
+        "url": "https://hy.wikisource.org/wiki/%D5%8D%D5%A1%D5%AC%D5%A2%D5%AB"
+      },
+      "title": "Սալբի",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "raffi-salpi"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 41,
+        "contentSha256": "3079ca74e363a034e8fc05366a36749f8014d4ebdfb250654b6f86ddf4a2c594",
+        "encoding": "gzip",
+        "path": "books/hy/raffi-samuel.hy.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f0cf47092f8c3bd2fb809aecd5ac0f2bade3f5c1662b3cb3941f8c1ff94fc7b1",
+        "sizeBytes": 433213,
+        "uncompressedSizeBytes": 1786317,
+        "wordCount": 144108
+      },
+      "author": "Րաֆֆի",
+      "authorDeathYear": 1888,
+      "editionId": "raffi-samuel.hy.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "hy",
+      "originalLanguage": "hy",
+      "originalPublicationYear": 1886,
+      "originalTitle": "Սամուէլ",
+      "rights": {
+        "statement": "Public domain worldwide. Րաֆֆի died in 1888 and the work was first published in 1886. Source: hy.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Սամվել",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:38:34.923900Z",
+        "revision": "392753",
+        "url": "https://hy.wikisource.org/wiki/%D5%8D%D5%A1%D5%B4%D5%BE%D5%A5%D5%AC"
+      },
+      "title": "Սամուէլ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "raffi-samuel"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 68,
+        "contentSha256": "7a26f13e33018d2b83d1c97134f63927b45bde4f53e6cbefdf8a1f29af4eca79",
+        "encoding": "gzip",
+        "path": "books/hy/raffi-the-diary-of-a-cross-stealer.hy.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "75235fcf9ea68488d499620c2504d3f1419741c11f58735445e64fab89c0c66c",
+        "sizeBytes": 272742,
+        "uncompressedSizeBytes": 1124752,
+        "wordCount": 93832
+      },
+      "author": "Րաֆֆի",
+      "authorDeathYear": 1888,
+      "editionId": "raffi-the-diary-of-a-cross-stealer.hy.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "hy",
+      "originalLanguage": "hy",
+      "originalPublicationYear": 1883,
+      "originalTitle": "Խաչագողի հիշատարականը",
+      "rights": {
+        "statement": "Public domain worldwide. Րաֆֆի died in 1888 and the work was first published in 1883. Source: hy.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Խաչագողի հիշատակարանը",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:39:32.939789Z",
+        "revision": "363253",
+        "url": "https://hy.wikisource.org/wiki/%D4%BD%D5%A1%D5%B9%D5%A1%D5%A3%D5%B8%D5%B2%D5%AB_%D5%B0%D5%AB%D5%B7%D5%A1%D5%BF%D5%A1%D5%AF%D5%A1%D6%80%D5%A1%D5%B6%D5%A8"
+      },
+      "title": "Խաչագողի հիշատարականը",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "raffi-the-diary-of-a-cross-stealer"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "56790b7544f520c83e0477237b069342f954e79eba0785062fb6882c47dbff48",
+        "encoding": "gzip",
+        "path": "books/hy/shirvanzade-q132860715.hy.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "82cf49093f46bf615293bca47b5b414e180fd42105906577cc1f5cdb83de0fff",
+        "sizeBytes": 42660,
+        "uncompressedSizeBytes": 171382,
+        "wordCount": 14405
+      },
+      "author": "Ալեքսանդր Շիրվանզադե",
+      "authorDeathYear": 1935,
+      "editionId": "shirvanzade-q132860715.hy.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "hy",
+      "originalLanguage": "hy",
+      "originalPublicationYear": 1884,
+      "originalTitle": "Գործակատարի հիշատակարանից",
+      "rights": {
+        "statement": "Public domain worldwide. Ալեքսանդր Շիրվանզադե died in 1935 and the work was first published in 1884. Source: hy.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Գործակատարի հիշատակարանից",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:39:52.074221Z",
+        "revision": "145319",
+        "url": "https://hy.wikisource.org/wiki/%D4%B3%D5%B8%D6%80%D5%AE%D5%A1%D5%AF%D5%A1%D5%BF%D5%A1%D6%80%D5%AB_%D5%B0%D5%AB%D5%B7%D5%A1%D5%BF%D5%A1%D5%AF%D5%A1%D6%80%D5%A1%D5%B6%D5%AB%D6%81"
+      },
+      "title": "Գործակատարի հիշատակարանից",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "shirvanzade-q132860715"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Armenian",
+  "language": "hy",
+  "manifestVersion": "a8e4e30ce12421f2",
+  "nativeName": "Հայերեն",
+  "schemaVersion": 1
+}

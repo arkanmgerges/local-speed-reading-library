@@ -1,0 +1,227 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:27:15.993523Z",
+    "chapterCount": 36,
+    "contentSha256": "f6f04dd954bd05c707cf6140e61aa437179c665249916a3faba6b19482121fc0",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/twain-les-aventures-de-tom-sawyer.fr.wikisource/v1/book.json.gz",
+    "sha256": "27d3a5d237de4e1562fed6302a8e8b6b3f9d3fa82261041ac1db5aabe8185dca",
+    "sizeBytes": 136901,
+    "uncompressedSizeBytes": 389402,
+    "wordCount": 61085
+  },
+  "edition": {
+    "editionId": "twain-les-aventures-de-tom-sawyer.fr.wikisource",
+    "kind": "translation",
+    "language": "fr",
+    "title": "Les Aventures de Tom Sawyer",
+    "translationPublicationYear": 1884,
+    "translator": {
+      "birthYear": 1821,
+      "deathYear": 1887,
+      "name": "William Little Hughes",
+      "wikidata": "Q18115292"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1910: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1887: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1884: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q326914",
+      "https://www.wikidata.org/wiki/Q119576331",
+      "https://www.wikidata.org/wiki/Q7245",
+      "https://www.wikidata.org/wiki/Q18115292",
+      "https://fr.wikisource.org/wiki/Les_Aventures_de_Tom_Sawyer%2FTraduction_Hughes%2C_1884"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Mark Twain died in 1910; the translator William Little Hughes died in 1887 and this translation was first published in 1884. Source: fr.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884",
+    "pages": [
+      {
+        "revision": 13360941,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884"
+      },
+      {
+        "revision": 6499359,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/Dédicace"
+      },
+      {
+        "revision": 6499362,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/Préface"
+      },
+      {
+        "revision": 6499386,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/1"
+      },
+      {
+        "revision": 6499402,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/2"
+      },
+      {
+        "revision": 6499418,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/3"
+      },
+      {
+        "revision": 6499428,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/4"
+      },
+      {
+        "revision": 6499433,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/5"
+      },
+      {
+        "revision": 6499442,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/6"
+      },
+      {
+        "revision": 6499450,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/7"
+      },
+      {
+        "revision": 6499635,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/8"
+      },
+      {
+        "revision": 6499650,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/9"
+      },
+      {
+        "revision": 6499661,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/10"
+      },
+      {
+        "revision": 6499674,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/11"
+      },
+      {
+        "revision": 6499685,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/12"
+      },
+      {
+        "revision": 6499696,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/13"
+      },
+      {
+        "revision": 6499703,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/14"
+      },
+      {
+        "revision": 6499716,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/15"
+      },
+      {
+        "revision": 6499723,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/16"
+      },
+      {
+        "revision": 6499742,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/17"
+      },
+      {
+        "revision": 6499748,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/18"
+      },
+      {
+        "revision": 6499759,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/19"
+      },
+      {
+        "revision": 6499768,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/20"
+      },
+      {
+        "revision": 6499779,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/21"
+      },
+      {
+        "revision": 6499789,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/22"
+      },
+      {
+        "revision": 6499796,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/23"
+      },
+      {
+        "revision": 6499810,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/24"
+      },
+      {
+        "revision": 13847406,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/25"
+      },
+      {
+        "revision": 13643371,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/26"
+      },
+      {
+        "revision": 13643372,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/27"
+      },
+      {
+        "revision": 13643373,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/28"
+      },
+      {
+        "revision": 13643374,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/29"
+      },
+      {
+        "revision": 13643375,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/30"
+      },
+      {
+        "revision": 13643376,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/31"
+      },
+      {
+        "revision": 13643377,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/32"
+      },
+      {
+        "revision": 13643378,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/33"
+      },
+      {
+        "revision": 5112473,
+        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/Conclusion"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:15:57.511625Z",
+    "revision": "13360941",
+    "site": "fr.wikisource.org",
+    "url": "https://fr.wikisource.org/wiki/Les_Aventures_de_Tom_Sawyer/Traduction_Hughes%2C_1884"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1910,
+      "name": "Mark Twain",
+      "wikidata": "Q7245"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1876,
+    "originalTitle": "Les Aventures de Tom Sawyer",
+    "workId": "twain-les-aventures-de-tom-sawyer"
+  }
+}

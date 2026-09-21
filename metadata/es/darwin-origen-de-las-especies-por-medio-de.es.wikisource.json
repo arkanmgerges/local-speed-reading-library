@@ -1,0 +1,155 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:55:12.281536Z",
+    "chapterCount": 51,
+    "contentSha256": "3d176373ce43aaf15a670143447bdc240ca79e4f56e7a93722411ec019bca756",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/darwin-origen-de-las-especies-por-medio-de.es.wikisource/v1/book.json.gz",
+    "sha256": "9b17d5a75b2e239a5edd084bafdbea47c502ff7b195bbcf1d20723074bace8c1",
+    "sizeBytes": 418040,
+    "uncompressedSizeBytes": 1326255,
+    "wordCount": 209698
+  },
+  "edition": {
+    "editionId": "darwin-origen-de-las-especies-por-medio-de.es.wikisource",
+    "kind": "translation",
+    "language": "es",
+    "title": "Origen de las especies por medio de la selección natural",
+    "translationPublicationYear": 1877,
+    "translator": {
+      "birthYear": 1845,
+      "deathYear": 1894,
+      "name": "Enrique Godínez y Esteban",
+      "wikidata": "Q5833345"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1882: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1894: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1877: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q20124",
+      "https://www.wikidata.org/wiki/Q98226826",
+      "https://www.wikidata.org/wiki/Q1035",
+      "https://www.wikidata.org/wiki/Q5833345",
+      "https://es.wikisource.org/wiki/Origen_de_las_especies_por_medio_de_la_selecci%C3%B3n_natural"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charles Darwin died in 1882; the translator Enrique Godínez y Esteban died in 1894 and this translation was first published in 1877. Source: es.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Origen de las especies por medio de la selección natural",
+    "pages": [
+      {
+        "revision": 1668965,
+        "title": "Origen de las especies por medio de la selección natural"
+      },
+      {
+        "revision": 1114442,
+        "title": "Origen de las especies por medio de la selección natural/Bosquejo histórico"
+      },
+      {
+        "revision": 1114498,
+        "title": "Origen de las especies por medio de la selección natural/Introducción"
+      },
+      {
+        "revision": 1114530,
+        "title": "Origen de las especies por medio de la selección natural/I"
+      },
+      {
+        "revision": 1114787,
+        "title": "Origen de las especies por medio de la selección natural/II"
+      },
+      {
+        "revision": 1207476,
+        "title": "Origen de las especies por medio de la selección natural/III"
+      },
+      {
+        "revision": 1247735,
+        "title": "Origen de las especies por medio de la selección natural/IV"
+      },
+      {
+        "revision": 1668709,
+        "title": "Origen de las especies por medio de la selección natural/V"
+      },
+      {
+        "revision": 1668710,
+        "title": "Origen de las especies por medio de la selección natural/VI"
+      },
+      {
+        "revision": 1668711,
+        "title": "Origen de las especies por medio de la selección natural/VII"
+      },
+      {
+        "revision": 1668712,
+        "title": "Origen de las especies por medio de la selección natural/VIII"
+      },
+      {
+        "revision": 1668713,
+        "title": "Origen de las especies por medio de la selección natural/IX"
+      },
+      {
+        "revision": 1668714,
+        "title": "Origen de las especies por medio de la selección natural/X"
+      },
+      {
+        "revision": 1668715,
+        "title": "Origen de las especies por medio de la selección natural/XI"
+      },
+      {
+        "revision": 1668716,
+        "title": "Origen de las especies por medio de la selección natural/XII"
+      },
+      {
+        "revision": 1668717,
+        "title": "Origen de las especies por medio de la selección natural/XIII"
+      },
+      {
+        "revision": 1668718,
+        "title": "Origen de las especies por medio de la selección natural/XIV"
+      },
+      {
+        "revision": 1668721,
+        "title": "Origen de las especies por medio de la selección natural/XV"
+      },
+      {
+        "revision": 1668720,
+        "title": "Origen de las especies por medio de la selección natural/Glosario"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:44:41.764856Z",
+    "revision": "1668965",
+    "site": "es.wikisource.org",
+    "url": "https://es.wikisource.org/wiki/Origen_de_las_especies_por_medio_de_la_selecci%C3%B3n_natural"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1809,
+      "deathYear": 1882,
+      "name": "Charles Darwin",
+      "wikidata": "Q1035"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1859,
+    "originalTitle": "Origen de las especies por medio de la selección natural",
+    "workId": "darwin-origen-de-las-especies-por-medio-de"
+  }
+}

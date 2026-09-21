@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:26.066584Z",
+    "chapterCount": 1,
+    "contentSha256": "5d44446ca46be42cab767e2941c4e87118aff8f060532c5c89c4e1feb2a959f6",
+    "normalizerVersion": "0.2.0",
+    "path": "books/mr/apte-marathi-vangmayacha-abhyas.mr.wikisource/v1/book.json.gz",
+    "sha256": "78992f596d843f47ae3c87d0eb5b309f16acb1519a78cce10fe75ce3a11bb71e",
+    "sizeBytes": 45859,
+    "uncompressedSizeBytes": 230048,
+    "wordCount": 12871
+  },
+  "edition": {
+    "editionId": "apte-marathi-vangmayacha-abhyas.mr.wikisource",
+    "kind": "original",
+    "language": "mr",
+    "title": "मराठी वाड्मयाचा अभ्यास"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1919: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1903: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q135933397",
+      "https://www.wikidata.org/wiki/Q55687",
+      "https://mr.wikisource.org/wiki/%E0%A4%AE%E0%A4%B0%E0%A4%BE%E0%A4%A0%E0%A5%80_%E0%A4%B5%E0%A4%BE%E0%A4%A1%E0%A5%8D%E0%A4%AE%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE_%E0%A4%85%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. हरी नारायण आपटे died in 1919 and the work was first published in 1903. Source: mr.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "मराठी वाड्मयाचा अभ्यास",
+    "pages": [
+      {
+        "revision": 224555,
+        "title": "मराठी वाड्मयाचा अभ्यास"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:01:58.995149Z",
+    "revision": "224555",
+    "site": "mr.wikisource.org",
+    "url": "https://mr.wikisource.org/wiki/%E0%A4%AE%E0%A4%B0%E0%A4%BE%E0%A4%A0%E0%A5%80_%E0%A4%B5%E0%A4%BE%E0%A4%A1%E0%A5%8D%E0%A4%AE%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE_%E0%A4%85%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1864,
+      "deathYear": 1919,
+      "name": "हरी नारायण आपटे",
+      "wikidata": "Q55687"
+    },
+    "originalLanguage": "mr",
+    "originalPublicationYear": 1903,
+    "originalTitle": "मराठी वाड्मयाचा अभ्यास",
+    "workId": "apte-marathi-vangmayacha-abhyas"
+  }
+}

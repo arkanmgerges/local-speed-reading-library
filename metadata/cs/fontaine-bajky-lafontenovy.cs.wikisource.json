@@ -1,0 +1,383 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:51:58.103192Z",
+    "chapterCount": 75,
+    "contentSha256": "63ec43f5a702d17b8834f0ebe1c89b0cdc8c6426970b2660cb48282db4d05fe3",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cs/fontaine-bajky-lafontenovy.cs.wikisource/v1/book.json.gz",
+    "sha256": "b055bcd2e3cf69d980e38d81e63847e57092bac6822895f8087cd3892499626c",
+    "sizeBytes": 47995,
+    "uncompressedSizeBytes": 145054,
+    "wordCount": 18162
+  },
+  "edition": {
+    "editionId": "fontaine-bajky-lafontenovy.cs.wikisource",
+    "kind": "translation",
+    "language": "cs",
+    "title": "Bajky Lafonténovy",
+    "translationPublicationYear": 1875,
+    "translator": {
+      "birthYear": 1841,
+      "deathYear": 1892,
+      "name": "Emil Herrmann",
+      "wikidata": "Q11878571"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1695: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1892: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1875: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q2748292",
+      "https://www.wikidata.org/wiki/Q55120507",
+      "https://www.wikidata.org/wiki/Q49496",
+      "https://www.wikidata.org/wiki/Q11878571",
+      "https://cs.wikisource.org/wiki/Bajky_Lafont%C3%A9novy"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jean de La Fontaine died in 1695; the translator Emil Herrmann died in 1892 and this translation was first published in 1875. Source: cs.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Bajky Lafonténovy",
+    "pages": [
+      {
+        "revision": 306604,
+        "title": "Bajky Lafonténovy"
+      },
+      {
+        "revision": 220577,
+        "title": "Bajky Lafonténovy/Žába"
+      },
+      {
+        "revision": 306605,
+        "title": "Bajky Lafonténovy/Dva mezci"
+      },
+      {
+        "revision": 220531,
+        "title": "Bajky Lafonténovy/Lví podíl"
+      },
+      {
+        "revision": 265591,
+        "title": "Bajky Lafonténovy/Perun a zvířata"
+      },
+      {
+        "revision": 220564,
+        "title": "Bajky Lafonténovy/Vlk a pes"
+      },
+      {
+        "revision": 220561,
+        "title": "Bajky Lafonténovy/Vlaštovka a ptáčata"
+      },
+      {
+        "revision": 284001,
+        "title": "Bajky Lafonténovy/Vlk a jehně"
+      },
+      {
+        "revision": 220529,
+        "title": "Bajky Lafonténovy/Liška a čáp"
+      },
+      {
+        "revision": 220503,
+        "title": "Bajky Lafonténovy/Chlapec a učitel"
+      },
+      {
+        "revision": 265545,
+        "title": "Bajky Lafonténovy/Dub a rákos"
+      },
+      {
+        "revision": 220557,
+        "title": "Bajky Lafonténovy/Sněm myší"
+      },
+      {
+        "revision": 220558,
+        "title": "Bajky Lafonténovy/Spor vlka s liškou před opicí"
+      },
+      {
+        "revision": 220575,
+        "title": "Bajky Lafonténovy/Zápas býků a žáby"
+      },
+      {
+        "revision": 220541,
+        "title": "Bajky Lafonténovy/Netopýr a kolčavy"
+      },
+      {
+        "revision": 220576,
+        "title": "Bajky Lafonténovy/Čubka a její sousedka"
+      },
+      {
+        "revision": 281108,
+        "title": "Bajky Lafonténovy/Lev a komár"
+      },
+      {
+        "revision": 220548,
+        "title": "Bajky Lafonténovy/Oslové s náklady"
+      },
+      {
+        "revision": 220524,
+        "title": "Bajky Lafonténovy/Lev a myš"
+      },
+      {
+        "revision": 220509,
+        "title": "Bajky Lafonténovy/Holub a mravenec"
+      },
+      {
+        "revision": 220573,
+        "title": "Bajky Lafonténovy/Zajíc a žáby"
+      },
+      {
+        "revision": 220528,
+        "title": "Bajky Lafonténovy/Liška a kohout"
+      },
+      {
+        "revision": 220515,
+        "title": "Bajky Lafonténovy/Krkavec hrající si na orla"
+      },
+      {
+        "revision": 220525,
+        "title": "Bajky Lafonténovy/Lev a osel"
+      },
+      {
+        "revision": 220534,
+        "title": "Bajky Lafonténovy/Mlynář a jeho syn"
+      },
+      {
+        "revision": 220566,
+        "title": "Bajky Lafonténovy/Vlk pastýřem"
+      },
+      {
+        "revision": 220544,
+        "title": "Bajky Lafonténovy/Orel, svině a kočka"
+      },
+      {
+        "revision": 220565,
+        "title": "Bajky Lafonténovy/Vlk a čáp"
+      },
+      {
+        "revision": 253430,
+        "title": "Bajky Lafonténovy/Vlci a ovce"
+      },
+      {
+        "revision": 220559,
+        "title": "Bajky Lafonténovy/Starý lev"
+      },
+      {
+        "revision": 220560,
+        "title": "Bajky Lafonténovy/Utonulá žena"
+      },
+      {
+        "revision": 220512,
+        "title": "Bajky Lafonténovy/Kocour a stará krysa"
+      },
+      {
+        "revision": 220537,
+        "title": "Bajky Lafonténovy/Moucha a mravenec"
+      },
+      {
+        "revision": 220547,
+        "title": "Bajky Lafonténovy/Osel a psík"
+      },
+      {
+        "revision": 220516,
+        "title": "Bajky Lafonténovy/Krysy a kolčavy"
+      },
+      {
+        "revision": 220538,
+        "title": "Bajky Lafonténovy/Myš a žába"
+      },
+      {
+        "revision": 220543,
+        "title": "Bajky Lafonténovy/Opice a plískavice"
+      },
+      {
+        "revision": 220517,
+        "title": "Bajky Lafonténovy/Král Alexandr a zvířata"
+      },
+      {
+        "revision": 220518,
+        "title": "Bajky Lafonténovy/Kůň a jelen"
+      },
+      {
+        "revision": 220574,
+        "title": "Bajky Lafonténovy/Ztracený poklad"
+      },
+      {
+        "revision": 220556,
+        "title": "Bajky Lafonténovy/Skřivan a jeho mláďata"
+      },
+      {
+        "revision": 220505,
+        "title": "Bajky Lafonténovy/Drvoštěp a Merkur"
+      },
+      {
+        "revision": 265831,
+        "title": "Bajky Lafonténovy/Rybička a rybář"
+      },
+      {
+        "revision": 220530,
+        "title": "Bajky Lafonténovy/Liška bez chvostu"
+      },
+      {
+        "revision": 220504,
+        "title": "Bajky Lafonténovy/Chytré služky"
+      },
+      {
+        "revision": 220520,
+        "title": "Bajky Lafonténovy/Kůň a vlk"
+      },
+      {
+        "revision": 220554,
+        "title": "Bajky Lafonténovy/Rolník a jeho děti"
+      },
+      {
+        "revision": 220510,
+        "title": "Bajky Lafonténovy/Jelen a vinná réva"
+      },
+      {
+        "revision": 220545,
+        "title": "Bajky Lafonténovy/Orel a sova"
+      },
+      {
+        "revision": 220526,
+        "title": "Bajky Lafonténovy/Lev chystající se k válce"
+      },
+      {
+        "revision": 220533,
+        "title": "Bajky Lafonténovy/Medvěd a dva soudruzi"
+      },
+      {
+        "revision": 220549,
+        "title": "Bajky Lafonténovy/Pastýř a lev"
+      },
+      {
+        "revision": 220523,
+        "title": "Bajky Lafonténovy/Lev a myslivec"
+      },
+      {
+        "revision": 220568,
+        "title": "Bajky Lafonténovy/Vítr a slunce"
+      },
+      {
+        "revision": 220513,
+        "title": "Bajky Lafonténovy/Kohout, kočka a myška"
+      },
+      {
+        "revision": 220527,
+        "title": "Bajky Lafonténovy/Liška, opice a zvířata"
+      },
+      {
+        "revision": 220546,
+        "title": "Bajky Lafonténovy/Osel a jeho pán"
+      },
+      {
+        "revision": 220511,
+        "title": "Bajky Lafonténovy/Jelen zhlížející se ve vodě"
+      },
+      {
+        "revision": 249399,
+        "title": "Bajky Lafonténovy/Zajíc a želva"
+      },
+      {
+        "revision": 220540,
+        "title": "Bajky Lafonténovy/Nemocný lev a liška"
+      },
+      {
+        "revision": 220519,
+        "title": "Bajky Lafonténovy/Kůň a osel"
+      },
+      {
+        "revision": 220552,
+        "title": "Bajky Lafonténovy/Pes a jeho stín"
+      },
+      {
+        "revision": 220536,
+        "title": "Bajky Lafonténovy/Mor mezi zvířaty"
+      },
+      {
+        "revision": 220539,
+        "title": "Bajky Lafonténovy/Myš v poustevně"
+      },
+      {
+        "revision": 220532,
+        "title": "Bajky Lafonténovy/Lví sídlo"
+      },
+      {
+        "revision": 220507,
+        "title": "Bajky Lafonténovy/Dva kohouti"
+      },
+      {
+        "revision": 306606,
+        "title": "Bajky Lafonténovy/Volavka"
+      },
+      {
+        "revision": 220542,
+        "title": "Bajky Lafonténovy/Nevděk lidí"
+      },
+      {
+        "revision": 220571,
+        "title": "Bajky Lafonténovy/Věštkyně"
+      },
+      {
+        "revision": 220514,
+        "title": "Bajky Lafonténovy/Kočka, lasice a králík"
+      },
+      {
+        "revision": 220521,
+        "title": "Bajky Lafonténovy/Lev, vlk a liška"
+      },
+      {
+        "revision": 220535,
+        "title": "Bajky Lafonténovy/Moc bajky"
+      },
+      {
+        "revision": 220553,
+        "title": "Bajky Lafonténovy/Pohřeb lvice"
+      },
+      {
+        "revision": 220550,
+        "title": "Bajky Lafonténovy/Paša a kupec"
+      },
+      {
+        "revision": 220569,
+        "title": "Bajky Lafonténovy/Výhody vědomostí"
+      },
+      {
+        "revision": 220570,
+        "title": "Bajky Lafonténovy/Věštba osudu"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:10:07.868452Z",
+    "revision": "306604",
+    "site": "cs.wikisource.org",
+    "url": "https://cs.wikisource.org/wiki/Bajky_Lafont%C3%A9novy"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1621,
+      "deathYear": 1695,
+      "name": "Jean de La Fontaine",
+      "wikidata": "Q49496"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1668,
+    "originalTitle": "Bajky Lafonténovy",
+    "workId": "fontaine-bajky-lafontenovy"
+  }
+}

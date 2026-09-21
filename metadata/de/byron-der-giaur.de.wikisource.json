@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:52:49.678915Z",
+    "chapterCount": 1,
+    "contentSha256": "d08cd73bb43c531547d834327561d781d9d78ca6cb99b53ff25560a3f6b0a7c2",
+    "normalizerVersion": "0.2.0",
+    "path": "books/de/byron-der-giaur.de.wikisource/v1/book.json.gz",
+    "sha256": "8f0b566122841215dd412d83a62d19ca1a2fb2534257994f0fe8b1507bed966d",
+    "sizeBytes": 23920,
+    "uncompressedSizeBytes": 60102,
+    "wordCount": 8515
+  },
+  "edition": {
+    "editionId": "byron-der-giaur.de.wikisource",
+    "kind": "translation",
+    "language": "de",
+    "title": "Der Giaur",
+    "translationPublicationYear": 1863,
+    "translator": {
+      "birthYear": 1806,
+      "deathYear": 1837,
+      "name": "Joseph Emanuel Hilscher",
+      "wikidata": "Q89833"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1824: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1837: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1863: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q3223100",
+      "https://www.wikidata.org/wiki/Q33056716",
+      "https://www.wikidata.org/wiki/Q5679",
+      "https://www.wikidata.org/wiki/Q89833",
+      "https://de.wikisource.org/wiki/Der_Giaur"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. George Gordon Byron died in 1824; the translator Joseph Emanuel Hilscher died in 1837 and this translation was first published in 1863. Source: de.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Der Giaur",
+    "pages": [
+      {
+        "revision": 3762256,
+        "title": "Der Giaur"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:24:25.203659Z",
+    "revision": "3762256",
+    "site": "de.wikisource.org",
+    "url": "https://de.wikisource.org/wiki/Der_Giaur"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1788,
+      "deathYear": 1824,
+      "name": "George Gordon Byron",
+      "wikidata": "Q5679"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1813,
+    "originalTitle": "Der Giaur",
+    "workId": "byron-der-giaur"
+  }
+}

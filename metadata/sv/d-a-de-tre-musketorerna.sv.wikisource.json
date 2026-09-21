@@ -1,0 +1,359 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:06:59.773635Z",
+    "chapterCount": 69,
+    "contentSha256": "e44e6be681ff8bd6bdfb8ccc467432dc1d6ff7c8fd3acc5280ce0128a2e56555",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/d-a-de-tre-musketorerna.sv.wikisource/v1/book.json.gz",
+    "sha256": "502c8b147f6b990e93d55c7d4f89da0a1b3ea2f0934e3848062c1b578d89f545",
+    "sizeBytes": 503672,
+    "uncompressedSizeBytes": 1492493,
+    "wordCount": 224154
+  },
+  "edition": {
+    "editionId": "d-a-de-tre-musketorerna.sv.wikisource",
+    "kind": "translation",
+    "language": "sv",
+    "title": "De tre musketörerna",
+    "translationPublicationYear": 1911,
+    "translator": {
+      "birthYear": 1849,
+      "deathYear": 1923,
+      "name": "Tom Edgar Wilson",
+      "wikidata": "Q5627104"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1870: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1923: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1911: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q140527",
+      "https://www.wikidata.org/wiki/Q120797972",
+      "https://www.wikidata.org/wiki/Q38337",
+      "https://www.wikidata.org/wiki/Q5627104",
+      "https://sv.wikisource.org/wiki/De_tre_musket%C3%B6rerna"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Alexandre Dumas d.ä. died in 1870; the translator Tom Edgar Wilson died in 1923 and this translation was first published in 1911. Source: sv.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "De tre musketörerna",
+    "pages": [
+      {
+        "revision": 428354,
+        "title": "De tre musketörerna"
+      },
+      {
+        "revision": 428271,
+        "title": "De tre musketörerna/Företal"
+      },
+      {
+        "revision": 492274,
+        "title": "De tre musketörerna/Kapitel 01"
+      },
+      {
+        "revision": 424117,
+        "title": "De tre musketörerna/Kapitel 02"
+      },
+      {
+        "revision": 424178,
+        "title": "De tre musketörerna/Kapitel 03"
+      },
+      {
+        "revision": 424179,
+        "title": "De tre musketörerna/Kapitel 04"
+      },
+      {
+        "revision": 424258,
+        "title": "De tre musketörerna/Kapitel 05"
+      },
+      {
+        "revision": 492275,
+        "title": "De tre musketörerna/Kapitel 06"
+      },
+      {
+        "revision": 492286,
+        "title": "De tre musketörerna/Kapitel 07"
+      },
+      {
+        "revision": 424516,
+        "title": "De tre musketörerna/Kapitel 08"
+      },
+      {
+        "revision": 424537,
+        "title": "De tre musketörerna/Kapitel 09"
+      },
+      {
+        "revision": 424628,
+        "title": "De tre musketörerna/Kapitel 10"
+      },
+      {
+        "revision": 424707,
+        "title": "De tre musketörerna/Kapitel 11"
+      },
+      {
+        "revision": 424740,
+        "title": "De tre musketörerna/Kapitel 12"
+      },
+      {
+        "revision": 424785,
+        "title": "De tre musketörerna/Kapitel 13"
+      },
+      {
+        "revision": 424879,
+        "title": "De tre musketörerna/Kapitel 14"
+      },
+      {
+        "revision": 424959,
+        "title": "De tre musketörerna/Kapitel 15"
+      },
+      {
+        "revision": 425005,
+        "title": "De tre musketörerna/Kapitel 16"
+      },
+      {
+        "revision": 425033,
+        "title": "De tre musketörerna/Kapitel 17"
+      },
+      {
+        "revision": 425063,
+        "title": "De tre musketörerna/Kapitel 18"
+      },
+      {
+        "revision": 425097,
+        "title": "De tre musketörerna/Kapitel 19"
+      },
+      {
+        "revision": 425146,
+        "title": "De tre musketörerna/Kapitel 20"
+      },
+      {
+        "revision": 425211,
+        "title": "De tre musketörerna/Kapitel 21"
+      },
+      {
+        "revision": 425239,
+        "title": "De tre musketörerna/Kapitel 22"
+      },
+      {
+        "revision": 425307,
+        "title": "De tre musketörerna/Kapitel 23"
+      },
+      {
+        "revision": 425341,
+        "title": "De tre musketörerna/Kapitel 24"
+      },
+      {
+        "revision": 425384,
+        "title": "De tre musketörerna/Kapitel 25"
+      },
+      {
+        "revision": 425433,
+        "title": "De tre musketörerna/Kapitel 26"
+      },
+      {
+        "revision": 425473,
+        "title": "De tre musketörerna/Kapitel 27"
+      },
+      {
+        "revision": 425526,
+        "title": "De tre musketörerna/Kapitel 28"
+      },
+      {
+        "revision": 425565,
+        "title": "De tre musketörerna/Kapitel 29"
+      },
+      {
+        "revision": 425596,
+        "title": "De tre musketörerna/Kapitel 30"
+      },
+      {
+        "revision": 425699,
+        "title": "De tre musketörerna/Kapitel 31"
+      },
+      {
+        "revision": 425710,
+        "title": "De tre musketörerna/Kapitel 32"
+      },
+      {
+        "revision": 425721,
+        "title": "De tre musketörerna/Kapitel 33"
+      },
+      {
+        "revision": 425731,
+        "title": "De tre musketörerna/Kapitel 34"
+      },
+      {
+        "revision": 425740,
+        "title": "De tre musketörerna/Kapitel 35"
+      },
+      {
+        "revision": 425762,
+        "title": "De tre musketörerna/Kapitel 36"
+      },
+      {
+        "revision": 425803,
+        "title": "De tre musketörerna/Kapitel 37"
+      },
+      {
+        "revision": 425899,
+        "title": "De tre musketörerna/Kapitel 38"
+      },
+      {
+        "revision": 425944,
+        "title": "De tre musketörerna/Kapitel 39"
+      },
+      {
+        "revision": 425983,
+        "title": "De tre musketörerna/Kapitel 40"
+      },
+      {
+        "revision": 426115,
+        "title": "De tre musketörerna/Kapitel 41"
+      },
+      {
+        "revision": 426195,
+        "title": "De tre musketörerna/Kapitel 42"
+      },
+      {
+        "revision": 426218,
+        "title": "De tre musketörerna/Kapitel 43"
+      },
+      {
+        "revision": 426227,
+        "title": "De tre musketörerna/Kapitel 44"
+      },
+      {
+        "revision": 426239,
+        "title": "De tre musketörerna/Kapitel 45"
+      },
+      {
+        "revision": 426246,
+        "title": "De tre musketörerna/Kapitel 46"
+      },
+      {
+        "revision": 426274,
+        "title": "De tre musketörerna/Kapitel 47"
+      },
+      {
+        "revision": 426292,
+        "title": "De tre musketörerna/Kapitel 48"
+      },
+      {
+        "revision": 426333,
+        "title": "De tre musketörerna/Kapitel 49"
+      },
+      {
+        "revision": 426516,
+        "title": "De tre musketörerna/Kapitel 50"
+      },
+      {
+        "revision": 427535,
+        "title": "De tre musketörerna/Kapitel 51"
+      },
+      {
+        "revision": 427566,
+        "title": "De tre musketörerna/Kapitel 52"
+      },
+      {
+        "revision": 427574,
+        "title": "De tre musketörerna/Kapitel 53"
+      },
+      {
+        "revision": 427601,
+        "title": "De tre musketörerna/Kapitel 54"
+      },
+      {
+        "revision": 427611,
+        "title": "De tre musketörerna/Kapitel 55"
+      },
+      {
+        "revision": 427653,
+        "title": "De tre musketörerna/Kapitel 56"
+      },
+      {
+        "revision": 427661,
+        "title": "De tre musketörerna/Kapitel 57"
+      },
+      {
+        "revision": 427920,
+        "title": "De tre musketörerna/Kapitel 58"
+      },
+      {
+        "revision": 427931,
+        "title": "De tre musketörerna/Kapitel 59"
+      },
+      {
+        "revision": 428013,
+        "title": "De tre musketörerna/Kapitel 60"
+      },
+      {
+        "revision": 428027,
+        "title": "De tre musketörerna/Kapitel 61"
+      },
+      {
+        "revision": 428084,
+        "title": "De tre musketörerna/Kapitel 62"
+      },
+      {
+        "revision": 428098,
+        "title": "De tre musketörerna/Kapitel 63"
+      },
+      {
+        "revision": 428234,
+        "title": "De tre musketörerna/Kapitel 64"
+      },
+      {
+        "revision": 428244,
+        "title": "De tre musketörerna/Kapitel 65"
+      },
+      {
+        "revision": 428337,
+        "title": "De tre musketörerna/Kapitel 66"
+      },
+      {
+        "revision": 428346,
+        "title": "De tre musketörerna/Kapitel 67"
+      },
+      {
+        "revision": 428348,
+        "title": "De tre musketörerna/Epilog"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:03:19.660273Z",
+    "revision": "428354",
+    "site": "sv.wikisource.org",
+    "url": "https://sv.wikisource.org/wiki/De_tre_musket%C3%B6rerna"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1802,
+      "deathYear": 1870,
+      "name": "Alexandre Dumas d.ä.",
+      "wikidata": "Q38337"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1844,
+    "originalTitle": "De tre musketörerna",
+    "workId": "d-a-de-tre-musketorerna"
+  }
+}

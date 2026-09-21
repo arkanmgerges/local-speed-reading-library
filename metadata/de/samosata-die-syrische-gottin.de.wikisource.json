@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:53:17.134008Z",
+    "chapterCount": 1,
+    "contentSha256": "1b86907bac92dce92c02a376d5ea75194e9ec42f894709fac8cff6e7ed66bd5f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/de/samosata-die-syrische-gottin.de.wikisource/v1/book.json.gz",
+    "sha256": "7e7ed07c25ba7cb701533d7379d89600cda1647595a881e665795dd1dbce29ea",
+    "sizeBytes": 20775,
+    "uncompressedSizeBytes": 53735,
+    "wordCount": 8219
+  },
+  "edition": {
+    "editionId": "samosata-die-syrische-gottin.de.wikisource",
+    "kind": "translation",
+    "language": "de",
+    "title": "Die Syrische Göttin",
+    "translationPublicationYear": 1831,
+    "translator": {
+      "birthYear": 1796,
+      "deathYear": 1845,
+      "name": "August Friedrich Pauly",
+      "wikidata": "Q70497"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 180: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1845: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1831: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q3438430",
+      "https://www.wikidata.org/wiki/Q19180254",
+      "https://www.wikidata.org/wiki/Q177847",
+      "https://www.wikidata.org/wiki/Q70497",
+      "https://de.wikisource.org/wiki/Die_Syrische_G%C3%B6ttin"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Lukian von Samosata died in 180; the translator August Friedrich Pauly died in 1845 and this translation was first published in 1831. Source: de.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Die Syrische Göttin",
+    "pages": [
+      {
+        "revision": 3569203,
+        "title": "Die Syrische Göttin"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:26:27.741558Z",
+    "revision": "3569203",
+    "site": "de.wikisource.org",
+    "url": "https://de.wikisource.org/wiki/Die_Syrische_G%C3%B6ttin"
+  },
+  "work": {
+    "author": {
+      "birthYear": 120,
+      "deathYear": 180,
+      "name": "Lukian von Samosata",
+      "wikidata": "Q177847"
+    },
+    "originalLanguage": "grc",
+    "originalPublicationYear": 200,
+    "originalTitle": "Die Syrische Göttin",
+    "workId": "samosata-die-syrische-gottin"
+  }
+}

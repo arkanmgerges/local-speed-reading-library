@@ -1,0 +1,181 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:23.304161Z",
+    "chapterCount": 27,
+    "contentSha256": "8ee7ec4389d8bd20f21f72fa435bbca5fdb70db8a7a9d43a70184ce55aa396f2",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ml/pillai-marthandavarma.ml.wikisource/v1/book.json.gz",
+    "sha256": "a27a6b4f4fc87eb0da5e23d1b23834bd563b0b5b4db14d1a5962dffdb426733c",
+    "sizeBytes": 274124,
+    "uncompressedSizeBytes": 1556691,
+    "wordCount": 52810
+  },
+  "edition": {
+    "editionId": "pillai-marthandavarma.ml.wikisource",
+    "kind": "original",
+    "language": "ml",
+    "title": "മാർത്താണ്ഡവർമ്മ"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1922: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1891: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q3536481",
+      "https://www.wikidata.org/wiki/Q5006916",
+      "https://ml.wikisource.org/wiki/%E0%B4%AE%E0%B4%BE%E0%B5%BC%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%BE%E0%B4%A3%E0%B5%8D%E0%B4%A1%E0%B4%B5%E0%B5%BC%E0%B4%AE%E0%B5%8D%E0%B4%AE"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. സി. വി. രാമൻപിള്ള died in 1922 and the work was first published in 1891. Source: ml.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "മാർത്താണ്ഡവർമ്മ",
+    "pages": [
+      {
+        "revision": 146224,
+        "title": "മാർത്താണ്ഡവർമ്മ"
+      },
+      {
+        "revision": 146194,
+        "title": "മാർത്താണ്ഡവർമ്മ/പീഠിക"
+      },
+      {
+        "revision": 146198,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം ഒന്ന്"
+      },
+      {
+        "revision": 146212,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം രണ്ട്"
+      },
+      {
+        "revision": 146221,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം മൂന്ന്"
+      },
+      {
+        "revision": 146073,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം നാല്"
+      },
+      {
+        "revision": 146252,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം അഞ്ച്"
+      },
+      {
+        "revision": 146077,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം ആറ്"
+      },
+      {
+        "revision": 146079,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം ഏഴ്"
+      },
+      {
+        "revision": 146081,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം എട്ട്"
+      },
+      {
+        "revision": 147054,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം ഒമ്പത്"
+      },
+      {
+        "revision": 147060,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം പത്ത്"
+      },
+      {
+        "revision": 147068,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം പതിനൊന്ന്"
+      },
+      {
+        "revision": 146193,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം പന്ത്രണ്ട്"
+      },
+      {
+        "revision": 146175,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം പതിമൂന്ന്"
+      },
+      {
+        "revision": 147076,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം പതിനാല്"
+      },
+      {
+        "revision": 146179,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം പതിനഞ്ച്"
+      },
+      {
+        "revision": 146180,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം പതിനാറ്"
+      },
+      {
+        "revision": 146181,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം പതിനേഴ്"
+      },
+      {
+        "revision": 146182,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം പതിനെട്ട്"
+      },
+      {
+        "revision": 146183,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം പത്തൊൻപത്"
+      },
+      {
+        "revision": 146184,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം ഇരുപത്"
+      },
+      {
+        "revision": 147087,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം ഇരുപത്തിയൊന്ന്"
+      },
+      {
+        "revision": 146188,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം ഇരുപത്തിരണ്ട്"
+      },
+      {
+        "revision": 147088,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം ഇരുപത്തിമൂന്ന്"
+      },
+      {
+        "revision": 147089,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം ഇരുപത്തിനാല്‌"
+      },
+      {
+        "revision": 147090,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം ഇരുപത്തിയഞ്ച്"
+      },
+      {
+        "revision": 147091,
+        "title": "മാർത്താണ്ഡവർമ്മ/അദ്ധ്യായം ഇരുപത്തിയാറ്"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:01:32.119600Z",
+    "revision": "146224",
+    "site": "ml.wikisource.org",
+    "url": "https://ml.wikisource.org/wiki/%E0%B4%AE%E0%B4%BE%E0%B5%BC%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%BE%E0%B4%A3%E0%B5%8D%E0%B4%A1%E0%B4%B5%E0%B5%BC%E0%B4%AE%E0%B5%8D%E0%B4%AE"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1858,
+      "deathYear": 1922,
+      "name": "സി. വി. രാമൻപിള്ള",
+      "wikidata": "Q5006916"
+    },
+    "originalLanguage": "ml",
+    "originalPublicationYear": 1891,
+    "originalTitle": "മാർത്താണ്ഡവർമ്മ",
+    "workId": "pillai-marthandavarma"
+  }
+}

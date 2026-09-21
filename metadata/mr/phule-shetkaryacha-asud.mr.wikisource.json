@@ -1,0 +1,149 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:01:33.153781Z",
+    "chapterCount": 19,
+    "contentSha256": "1716a19dc8fbae77429e9ecf3d268070404635d9600fa466cacf477d38d37cb4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/mr/phule-shetkaryacha-asud.mr.wikisource/v1/book.json.gz",
+    "sha256": "6b6c9bd55f5b96c07531e585e2cc3c15aa6d001b840a2537df640f4d30d10646",
+    "sizeBytes": 87511,
+    "uncompressedSizeBytes": 485611,
+    "wordCount": 23982
+  },
+  "edition": {
+    "editionId": "phule-shetkaryacha-asud.mr.wikisource",
+    "kind": "original",
+    "language": "mr",
+    "title": "शेतकर्याचा असूड"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1890: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1881: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q7495653",
+      "https://www.wikidata.org/wiki/Q314394",
+      "https://mr.wikisource.org/wiki/%E0%A4%B6%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%B1%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE_%E0%A4%85%E0%A4%B8%E0%A5%82%E0%A4%A1"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ज्योतिराव फुले died in 1890 and the work was first published in 1881. Source: mr.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "शेतकऱ्याचा असूड",
+    "pages": [
+      {
+        "revision": 150596,
+        "title": "शेतकऱ्याचा असूड"
+      },
+      {
+        "revision": 149470,
+        "title": "शेतकऱ्याचा असूड/पान १"
+      },
+      {
+        "revision": 149471,
+        "title": "शेतकऱ्याचा असूड/पान २"
+      },
+      {
+        "revision": 149454,
+        "title": "शेतकऱ्याचा असूड/पान ३"
+      },
+      {
+        "revision": 149459,
+        "title": "शेतकऱ्याचा असूड/पान ४"
+      },
+      {
+        "revision": 149457,
+        "title": "शेतकऱ्याचा असूड/पान ५"
+      },
+      {
+        "revision": 149449,
+        "title": "शेतकऱ्याचा असूड/पान ६"
+      },
+      {
+        "revision": 149461,
+        "title": "शेतकऱ्याचा असूड/पान ७"
+      },
+      {
+        "revision": 149458,
+        "title": "शेतकऱ्याचा असूड/पान ८"
+      },
+      {
+        "revision": 149456,
+        "title": "शेतकऱ्याचा असूड/पान ९"
+      },
+      {
+        "revision": 149446,
+        "title": "शेतकऱ्याचा असूड/पान १०"
+      },
+      {
+        "revision": 149448,
+        "title": "शेतकऱ्याचा असूड/पान ११"
+      },
+      {
+        "revision": 149451,
+        "title": "शेतकऱ्याचा असूड/पान १२"
+      },
+      {
+        "revision": 149455,
+        "title": "शेतकऱ्याचा असूड/पान १३"
+      },
+      {
+        "revision": 149460,
+        "title": "शेतकऱ्याचा असूड/पान १४"
+      },
+      {
+        "revision": 149462,
+        "title": "शेतकऱ्याचा असूड/पान १५"
+      },
+      {
+        "revision": 149447,
+        "title": "शेतकऱ्याचा असूड/पान १६"
+      },
+      {
+        "revision": 149452,
+        "title": "शेतकऱ्याचा असूड/पान १७"
+      },
+      {
+        "revision": 149453,
+        "title": "शेतकऱ्याचा असूड/पान १८"
+      },
+      {
+        "revision": 149450,
+        "title": "शेतकऱ्याचा असूड/पान १९"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:04:14.867936Z",
+    "revision": "150596",
+    "site": "mr.wikisource.org",
+    "url": "https://mr.wikisource.org/wiki/%E0%A4%B6%E0%A5%87%E0%A4%A4%E0%A4%95%E0%A4%B1%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9A%E0%A4%BE_%E0%A4%85%E0%A4%B8%E0%A5%82%E0%A4%A1"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1827,
+      "deathYear": 1890,
+      "name": "ज्योतिराव फुले",
+      "wikidata": "Q314394"
+    },
+    "originalLanguage": "mr",
+    "originalPublicationYear": 1881,
+    "originalTitle": "शेतकर्याचा असूड",
+    "workId": "phule-shetkaryacha-asud"
+  }
+}

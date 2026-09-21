@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:01.669741Z",
+    "chapterCount": 26,
+    "contentSha256": "e6387421ad18528b52486e83018d7f9692cd7936c987b3ee9b270089397165b2",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/jurcic-deseti-brat.sl.wikisource/v1/book.json.gz",
+    "sha256": "e98521b5ae8a2a8fe9290d4848fe44fe72b383ce28e27847e8af3129e550fd8b",
+    "sizeBytes": 154547,
+    "uncompressedSizeBytes": 401453,
+    "wordCount": 66841
+  },
+  "edition": {
+    "editionId": "jurcic-deseti-brat.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Deseti brat"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1881: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1866: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q3491756",
+      "https://www.wikidata.org/wiki/Q3491574",
+      "https://sl.wikisource.org/wiki/Deseti_brat_(Josip_Jur%C4%8Di%C4%8D)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Josip Jurčič died in 1881 and the work was first published in 1866. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Deseti brat (Josip Jurčič)",
+    "pages": [
+      {
+        "revision": 220583,
+        "title": "Deseti brat (Josip Jurčič)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:55:46.599059Z",
+    "revision": "220583",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Deseti_brat_(Josip_Jur%C4%8Di%C4%8D)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1844,
+      "deathYear": 1881,
+      "name": "Josip Jurčič",
+      "wikidata": "Q3491574"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1866,
+    "originalTitle": "Deseti brat",
+    "workId": "jurcic-deseti-brat"
+  }
+}

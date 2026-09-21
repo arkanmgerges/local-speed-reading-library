@@ -1,0 +1,113 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:59:54.710061Z",
+    "chapterCount": 12,
+    "contentSha256": "4ef2614bb52f6ac6e1d09afead989d21925c4c8e844b14147f406e5b03139101",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/galilei-dialogo-sopra-i-due-massimi-sistemi-del.it.wikisource/v1/book.json.gz",
+    "sha256": "a3b28ac9437606881c8d8ef92d97a2078b5cdb2b42d65d9e1a6dda87730c8aef",
+    "sizeBytes": 388016,
+    "uncompressedSizeBytes": 1215988,
+    "wordCount": 191457
+  },
+  "edition": {
+    "editionId": "galilei-dialogo-sopra-i-due-massimi-sistemi-del.it.wikisource",
+    "kind": "original",
+    "language": "it",
+    "title": "Dialogo sopra i due massimi sistemi del mondo"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1642: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1632: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1768303",
+      "https://www.wikidata.org/wiki/Q307",
+      "https://it.wikisource.org/wiki/Dialogo_sopra_i_due_massimi_sistemi_del_mondo_tolemaico_e_copernicano"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Galileo Galilei died in 1642 and the work was first published in 1632. Source: it.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Dialogo sopra i due massimi sistemi del mondo tolemaico e copernicano",
+    "pages": [
+      {
+        "revision": 3799889,
+        "title": "Dialogo sopra i due massimi sistemi del mondo tolemaico e copernicano"
+      },
+      {
+        "revision": 3799891,
+        "title": "Dialogo sopra i due massimi sistemi del mondo tolemaico e copernicano/Dedica"
+      },
+      {
+        "revision": 3799890,
+        "title": "Dialogo sopra i due massimi sistemi del mondo tolemaico e copernicano/Al discreto lettore"
+      },
+      {
+        "revision": 3799892,
+        "title": "Dialogo sopra i due massimi sistemi del mondo tolemaico e copernicano/Giornata prima"
+      },
+      {
+        "revision": 3799894,
+        "title": "Dialogo sopra i due massimi sistemi del mondo tolemaico e copernicano/Giornata seconda"
+      },
+      {
+        "revision": 3799895,
+        "title": "Dialogo sopra i due massimi sistemi del mondo tolemaico e copernicano/Giornata terza"
+      },
+      {
+        "revision": 3799893,
+        "title": "Dialogo sopra i due massimi sistemi del mondo tolemaico e copernicano/Giornata quarta"
+      },
+      {
+        "revision": 3799896,
+        "title": "Dialogo sopra i due massimi sistemi del mondo tolemaico e copernicano/Indice degli argomenti"
+      },
+      {
+        "revision": 3799897,
+        "title": "Dialogo sopra i due massimi sistemi del mondo tolemaico e copernicano/Indice degli argomenti/I"
+      },
+      {
+        "revision": 3799898,
+        "title": "Dialogo sopra i due massimi sistemi del mondo tolemaico e copernicano/Indice degli argomenti/II"
+      },
+      {
+        "revision": 3799899,
+        "title": "Dialogo sopra i due massimi sistemi del mondo tolemaico e copernicano/Indice degli argomenti/III"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:45:51.983549Z",
+    "revision": "3799889",
+    "site": "it.wikisource.org",
+    "url": "https://it.wikisource.org/wiki/Dialogo_sopra_i_due_massimi_sistemi_del_mondo_tolemaico_e_copernicano"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1564,
+      "deathYear": 1642,
+      "name": "Galileo Galilei",
+      "wikidata": "Q307"
+    },
+    "originalLanguage": "it",
+    "originalPublicationYear": 1632,
+    "originalTitle": "Dialogo sopra i due massimi sistemi del mondo",
+    "workId": "galilei-dialogo-sopra-i-due-massimi-sistemi-del"
+  }
+}

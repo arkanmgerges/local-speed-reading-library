@@ -1,0 +1,89 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:12.780888Z",
+    "chapterCount": 214,
+    "contentSha256": "2751c1d223f9a46e7f83523fd2652a53b42e51cdf703bd70c9744a42a9552be7",
+    "normalizerVersion": "0.2.0",
+    "path": "books/et/vilde-tabamata-ime.et.wikisource/v1/book.json.gz",
+    "sha256": "16a69aa8e75acbc14b48df9af215592cd2b2282d476b4c380d59faab99bce8a5",
+    "sizeBytes": 63030,
+    "uncompressedSizeBytes": 179957,
+    "wordCount": 21394
+  },
+  "edition": {
+    "editionId": "vilde-tabamata-ime.et.wikisource",
+    "kind": "original",
+    "language": "et",
+    "title": "Tabamata ime"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1933: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1912: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q20528651",
+      "https://www.wikidata.org/wiki/Q464207",
+      "https://et.wikisource.org/wiki/Tabamata_ime"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Eduard Vilde died in 1933 and the work was first published in 1912. Source: et.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Tabamata ime",
+    "pages": [
+      {
+        "revision": 59629,
+        "title": "Tabamata ime"
+      },
+      {
+        "revision": 36270,
+        "title": "Tabamata ime/Esimene waatus"
+      },
+      {
+        "revision": 36334,
+        "title": "Tabamata ime/Teine waatus"
+      },
+      {
+        "revision": 36417,
+        "title": "Tabamata ime/Kolmas waatus"
+      },
+      {
+        "revision": 36436,
+        "title": "Tabamata ime/Neljas waatus"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:57:25.138369Z",
+    "revision": "59629",
+    "site": "et.wikisource.org",
+    "url": "https://et.wikisource.org/wiki/Tabamata_ime"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1865,
+      "deathYear": 1933,
+      "name": "Eduard Vilde",
+      "wikidata": "Q464207"
+    },
+    "originalLanguage": "et",
+    "originalPublicationYear": 1912,
+    "originalTitle": "Tabamata ime",
+    "workId": "vilde-tabamata-ime"
+  }
+}

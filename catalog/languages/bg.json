@@ -1,0 +1,225 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 11,
+        "contentSha256": "c959b0dea422731529e15705a1e02b47bd094a21e3cd80b832d1dc8b44bf7709",
+        "encoding": "gzip",
+        "path": "books/bg/konstantinov-to-chicago-and-back.bg.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f8e711b7099952705de91537980c77f7b16446dc1285d54f8a85cc2b041cc811",
+        "sizeBytes": 95908,
+        "uncompressedSizeBytes": 341494,
+        "wordCount": 31135
+      },
+      "author": "Алеко Константинов",
+      "authorDeathYear": 1897,
+      "editionId": "konstantinov-to-chicago-and-back.bg.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "bg",
+      "originalLanguage": "bg",
+      "originalPublicationYear": 1893,
+      "originalTitle": "До Чикаго и назад",
+      "rights": {
+        "statement": "Public domain worldwide. Алеко Константинов died in 1897 and the work was first published in 1893. Source: bg.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "До Чикаго и назад",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:58:40.339373Z",
+        "revision": "12524",
+        "url": "https://bg.wikisource.org/wiki/%D0%94%D0%BE_%D0%A7%D0%B8%D0%BA%D0%B0%D0%B3%D0%BE_%D0%B8_%D0%BD%D0%B0%D0%B7%D0%B0%D0%B4"
+      },
+      "title": "До Чикаго и назад",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "konstantinov-to-chicago-and-back"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 38,
+        "contentSha256": "2a9df719c046228c2655089326ba108c5fbdc6b6aaa18669078708dfed706a53",
+        "encoding": "gzip",
+        "path": "books/bg/parlichev-autobiography-of-grigor-parlichev.bg.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "3186e6ff15e04e3cb04f7575b703b60414f812c04522e0020aa4018391817285",
+        "sizeBytes": 72038,
+        "uncompressedSizeBytes": 254351,
+        "wordCount": 24078
+      },
+      "author": "Григор Пърличев",
+      "authorDeathYear": 1893,
+      "editionId": "parlichev-autobiography-of-grigor-parlichev.bg.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Biography"
+      ],
+      "kind": "original",
+      "language": "bg",
+      "originalLanguage": "bg",
+      "originalPublicationYear": 1894,
+      "originalTitle": "Автобиография на Григор Пърличев",
+      "rights": {
+        "statement": "Public domain worldwide. Григор Пърличев died in 1893 and the work was first published in 1894. Source: bg.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Автобиография на Григор Пърличев",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:58:45.484699Z",
+        "revision": "11372",
+        "url": "https://bg.wikisource.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80_%D0%9F%D1%8A%D1%80%D0%BB%D0%B8%D1%87%D0%B5%D0%B2"
+      },
+      "title": "Автобиография на Григор Пърличев",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "parlichev-autobiography-of-grigor-parlichev"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 8,
+        "contentSha256": "667376da638c83b86e3fb9b7e7d6dad63c2b1f2b505ec8d8101433f740020079",
+        "encoding": "gzip",
+        "path": "books/bg/vazov-q12297843.bg.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d7d82708093a740e53c86d6ab8b69925d57cf674c00a59c4f5c2381db9dc4017",
+        "sizeBytes": 30154,
+        "uncompressedSizeBytes": 105085,
+        "wordCount": 9254
+      },
+      "author": "Иван Вазов",
+      "authorDeathYear": 1921,
+      "editionId": "vazov-q12297843.bg.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "bg",
+      "originalLanguage": "bg",
+      "originalPublicationYear": 1882,
+      "originalTitle": "Хаджи Ахил",
+      "rights": {
+        "statement": "Public domain worldwide. Иван Вазов died in 1921 and the work was first published in 1882. Source: bg.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Хаджи Ахил",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:59:00.800154Z",
+        "revision": "18780",
+        "url": "https://bg.wikisource.org/wiki/%D0%A5%D0%B0%D0%B4%D0%B6%D0%B8_%D0%90%D1%85%D0%B8%D0%BB"
+      },
+      "title": "Хаджи Ахил",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vazov-q12297843"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 40,
+        "contentSha256": "c2786a7b8e1f85eb9300c4229aff7c873da65e8c08cf4eebe1989519a71332d4",
+        "encoding": "gzip",
+        "path": "books/bg/vazov-q131085333.bg.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e4e2f1276f79a9a586cae68c0e22835f7e99166cbb06296002ec9fddc36c95c3",
+        "sizeBytes": 122987,
+        "uncompressedSizeBytes": 453545,
+        "wordCount": 40266
+      },
+      "author": "Иван Вазов",
+      "authorDeathYear": 1921,
+      "editionId": "vazov-q131085333.bg.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "bg",
+      "originalLanguage": "bg",
+      "originalPublicationYear": 1896,
+      "originalTitle": "Нова земя",
+      "rights": {
+        "statement": "Public domain worldwide. Иван Вазов died in 1921 and the work was first published in 1896. Source: bg.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Нова земя",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:59:03.047569Z",
+        "revision": "18747",
+        "url": "https://bg.wikisource.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0_%D0%B7%D0%B5%D0%BC%D1%8F"
+      },
+      "title": "Нова земя",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vazov-q131085333"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 17,
+        "contentSha256": "4cebd7fcb1fb5149beb70d1b17ac29c402f0676e96079d236dc294470cf23e47",
+        "encoding": "gzip",
+        "path": "books/bg/vazov-q741336.bg.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "91248da8d3d2164d060d6a710efc11dc4b0e7f6800d3d593366a9bc66d68335a",
+        "sizeBytes": 79112,
+        "uncompressedSizeBytes": 296773,
+        "wordCount": 26124
+      },
+      "author": "Иван Вазов",
+      "authorDeathYear": 1921,
+      "editionId": "vazov-q741336.bg.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "bg",
+      "originalLanguage": "bg",
+      "originalPublicationYear": 1883,
+      "originalTitle": "Немили-недраги",
+      "rights": {
+        "statement": "Public domain worldwide. Иван Вазов died in 1921 and the work was first published in 1883. Source: bg.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Немили-недраги",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:59:32.634549Z",
+        "revision": "17648",
+        "url": "https://bg.wikisource.org/wiki/%D0%9D%D0%B5%D0%BC%D0%B8%D0%BB%D0%B8-%D0%BD%D0%B5%D0%B4%D1%80%D0%B0%D0%B3%D0%B8"
+      },
+      "title": "Немили-недраги",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vazov-q741336"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Bulgarian",
+  "language": "bg",
+  "manifestVersion": "4a54a0c5ea78e47f",
+  "nativeName": "Български",
+  "schemaVersion": 1
+}

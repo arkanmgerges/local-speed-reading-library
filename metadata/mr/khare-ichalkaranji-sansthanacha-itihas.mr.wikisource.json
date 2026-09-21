@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:35.254022Z",
+    "chapterCount": 1,
+    "contentSha256": "0a28ddfaaa29f2bb2f7b54ae85dcc9d12d0a628e23b27673a14513679678d50e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/mr/khare-ichalkaranji-sansthanacha-itihas.mr.wikisource/v1/book.json.gz",
+    "sha256": "e67de2c84edcdcf785ebafa5aed20fca045e2334627838afc1779f7b5a966715",
+    "sizeBytes": 127047,
+    "uncompressedSizeBytes": 709430,
+    "wordCount": 37307
+  },
+  "edition": {
+    "editionId": "khare-ichalkaranji-sansthanacha-itihas.mr.wikisource",
+    "kind": "original",
+    "language": "mr",
+    "title": "इचलकरंजी संस्थानाचा इतिहास"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1924: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1913: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q135188591",
+      "https://www.wikidata.org/wiki/Q12452519",
+      "https://mr.wikisource.org/wiki/%E0%A4%87%E0%A4%9A%E0%A4%B2%E0%A4%95%E0%A4%B0%E0%A4%82%E0%A4%9C%E0%A5%80_%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%9A%E0%A4%BE_%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. वासुदेव वामन खरे died in 1924 and the work was first published in 1913. Source: mr.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "इचलकरंजी संस्थानाचा इतिहास",
+    "pages": [
+      {
+        "revision": 222347,
+        "title": "इचलकरंजी संस्थानाचा इतिहास"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:03:15.157847Z",
+    "revision": "222347",
+    "site": "mr.wikisource.org",
+    "url": "https://mr.wikisource.org/wiki/%E0%A4%87%E0%A4%9A%E0%A4%B2%E0%A4%95%E0%A4%B0%E0%A4%82%E0%A4%9C%E0%A5%80_%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%9A%E0%A4%BE_%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1858,
+      "deathYear": 1924,
+      "name": "वासुदेव वामन खरे",
+      "wikidata": "Q12452519"
+    },
+    "originalLanguage": "mr",
+    "originalPublicationYear": 1913,
+    "originalTitle": "इचलकरंजी संस्थानाचा इतिहास",
+    "workId": "khare-ichalkaranji-sansthanacha-itihas"
+  }
+}

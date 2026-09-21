@@ -1,0 +1,125 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:19.046103Z",
+    "chapterCount": 13,
+    "contentSha256": "e1ac0f9386c9b30b83ce62d7e9ed19353d6cb45f72aa667a117fe34341a5b4f4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/et/bornhohe-villu-voitlused.et.wikisource/v1/book.json.gz",
+    "sha256": "14c35430976579feb7d3e597a81f6037d609fc1be8472d275c2b87ba9b8aad6b",
+    "sizeBytes": 61564,
+    "uncompressedSizeBytes": 166190,
+    "wordCount": 23135
+  },
+  "edition": {
+    "editionId": "bornhohe-villu-voitlused.et.wikisource",
+    "kind": "original",
+    "language": "et",
+    "title": "Villu võitlused"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1923: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1890: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q131845217",
+      "https://www.wikidata.org/wiki/Q717712",
+      "https://et.wikisource.org/wiki/Villu_v%C3%B5itlused"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Eduard Bornhöhe died in 1923 and the work was first published in 1890. Source: et.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Villu võitlused",
+    "pages": [
+      {
+        "revision": 59623,
+        "title": "Villu võitlused"
+      },
+      {
+        "revision": 16699,
+        "title": "Villu võitlused/1"
+      },
+      {
+        "revision": 16701,
+        "title": "Villu võitlused/2"
+      },
+      {
+        "revision": 16705,
+        "title": "Villu võitlused/3"
+      },
+      {
+        "revision": 16706,
+        "title": "Villu võitlused/4"
+      },
+      {
+        "revision": 16707,
+        "title": "Villu võitlused/5"
+      },
+      {
+        "revision": 16708,
+        "title": "Villu võitlused/6"
+      },
+      {
+        "revision": 16709,
+        "title": "Villu võitlused/7"
+      },
+      {
+        "revision": 16710,
+        "title": "Villu võitlused/8"
+      },
+      {
+        "revision": 16711,
+        "title": "Villu võitlused/9"
+      },
+      {
+        "revision": 16712,
+        "title": "Villu võitlused/10"
+      },
+      {
+        "revision": 16713,
+        "title": "Villu võitlused/11"
+      },
+      {
+        "revision": 16714,
+        "title": "Villu võitlused/12"
+      },
+      {
+        "revision": 16715,
+        "title": "Villu võitlused/13"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:50:07.971134Z",
+    "revision": "59623",
+    "site": "et.wikisource.org",
+    "url": "https://et.wikisource.org/wiki/Villu_v%C3%B5itlused"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1862,
+      "deathYear": 1923,
+      "name": "Eduard Bornhöhe",
+      "wikidata": "Q717712"
+    },
+    "originalLanguage": "et",
+    "originalPublicationYear": 1890,
+    "originalTitle": "Villu võitlused",
+    "workId": "bornhohe-villu-voitlused"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:42.639482Z",
+    "chapterCount": 4,
+    "contentSha256": "9bba4a6c225cd8f1b85e3904503d857b6cecd87098146e31e24d7c59a35275aa",
+    "normalizerVersion": "0.2.0",
+    "path": "books/la/caesar-c-iuli-caesaris-de-bello-gallico-i.la.gutenberg/v1/book.json.gz",
+    "sha256": "f27441de526dbb69d61d30d2583c56f3dd46b251020a523383875e849019a191",
+    "sizeBytes": 53830,
+    "uncompressedSizeBytes": 150627,
+    "wordCount": 20483
+  },
+  "edition": {
+    "editionId": "caesar-c-iuli-caesaris-de-bello-gallico-i.la.gutenberg",
+    "kind": "original",
+    "language": "la",
+    "title": "C. Iuli Caesaris De Bello Gallico, I-IV"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -43: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published -58: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/218",
+      "https://en.wikipedia.org/wiki/Julius_Caesar",
+      "https://www.wikidata.org/wiki/Q106199"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Julius Caesar died in -43 and the work was first published in -58. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "218",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:54:08.981824Z",
+    "revision": "Tue, 01 Sep 2026 08:42:58 GMT",
+    "url": "https://www.gutenberg.org/ebooks/218"
+  },
+  "work": {
+    "author": {
+      "birthYear": -99,
+      "deathYear": -43,
+      "name": "Julius Caesar",
+      "wikidata": "Q1048"
+    },
+    "originalLanguage": "la",
+    "originalPublicationYear": -58,
+    "originalTitle": "C. Iuli Caesaris De Bello Gallico, I-IV",
+    "workId": "caesar-c-iuli-caesaris-de-bello-gallico-i"
+  }
+}

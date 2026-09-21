@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:02.317275Z",
+    "chapterCount": 21,
+    "contentSha256": "8162c50b47932b9b14a37302bc3d7dfed0faa8fb8f214fe80f1ed2fd78dc86af",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/jurcic-ivan-erazem-tatenbah.sl.wikisource/v1/book.json.gz",
+    "sha256": "346c61a44a74980a674cbe776ce1fb10f75f18108d49203684b17e808f1367a0",
+    "sizeBytes": 57406,
+    "uncompressedSizeBytes": 145034,
+    "wordCount": 22617
+  },
+  "edition": {
+    "editionId": "jurcic-ivan-erazem-tatenbah.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Ivan Erazem Tatenbah"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1881: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1873: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q11109450",
+      "https://www.wikidata.org/wiki/Q3491574",
+      "https://sl.wikisource.org/wiki/Ivan_Erazem_Tatenbah"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Josip Jurčič died in 1881 and the work was first published in 1873. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Ivan Erazem Tatenbah",
+    "pages": [
+      {
+        "revision": 142982,
+        "title": "Ivan Erazem Tatenbah"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:55:51.214421Z",
+    "revision": "142982",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Ivan_Erazem_Tatenbah"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1844,
+      "deathYear": 1881,
+      "name": "Josip Jurčič",
+      "wikidata": "Q3491574"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1873,
+    "originalTitle": "Ivan Erazem Tatenbah",
+    "workId": "jurcic-ivan-erazem-tatenbah"
+  }
+}

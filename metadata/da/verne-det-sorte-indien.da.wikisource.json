@@ -1,0 +1,171 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:52:43.904022Z",
+    "chapterCount": 22,
+    "contentSha256": "9df1fae11b5c3d2070b79e5e3b5f256afd75721eeb004e14940fb08610eb5d2f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/verne-det-sorte-indien.da.wikisource/v1/book.json.gz",
+    "sha256": "105e99c96cdb7fe0fe85a9046453120eab4e1bb4988877e81b10a71f77dce3a3",
+    "sizeBytes": 109878,
+    "uncompressedSizeBytes": 307180,
+    "wordCount": 47749
+  },
+  "edition": {
+    "editionId": "verne-det-sorte-indien.da.wikisource",
+    "kind": "translation",
+    "language": "da",
+    "title": "Det sorte Indien",
+    "translationPublicationYear": 1897,
+    "translator": {
+      "birthYear": 1863,
+      "deathYear": 1927,
+      "name": "Otto Høpfner",
+      "wikidata": "Q23009999"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1905: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1927: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1897: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q143707",
+      "https://www.wikidata.org/wiki/Q59812459",
+      "https://www.wikidata.org/wiki/Q33977",
+      "https://www.wikidata.org/wiki/Q23009999",
+      "https://da.wikisource.org/wiki/Det_sorte_Indien"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jules Verne died in 1905; the translator Otto Høpfner died in 1927 and this translation was first published in 1897. Source: da.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Det sorte Indien",
+    "pages": [
+      {
+        "revision": 22970,
+        "title": "Det sorte Indien"
+      },
+      {
+        "revision": 22971,
+        "title": "Det sorte Indien/1"
+      },
+      {
+        "revision": 22972,
+        "title": "Det sorte Indien/2"
+      },
+      {
+        "revision": 22973,
+        "title": "Det sorte Indien/3"
+      },
+      {
+        "revision": 22988,
+        "title": "Det sorte Indien/4"
+      },
+      {
+        "revision": 23000,
+        "title": "Det sorte Indien/5"
+      },
+      {
+        "revision": 23007,
+        "title": "Det sorte Indien/6"
+      },
+      {
+        "revision": 23021,
+        "title": "Det sorte Indien/7"
+      },
+      {
+        "revision": 23028,
+        "title": "Det sorte Indien/8"
+      },
+      {
+        "revision": 23038,
+        "title": "Det sorte Indien/9"
+      },
+      {
+        "revision": 23048,
+        "title": "Det sorte Indien/10"
+      },
+      {
+        "revision": 23061,
+        "title": "Det sorte Indien/11"
+      },
+      {
+        "revision": 23080,
+        "title": "Det sorte Indien/12"
+      },
+      {
+        "revision": 23096,
+        "title": "Det sorte Indien/13"
+      },
+      {
+        "revision": 23111,
+        "title": "Det sorte Indien/14"
+      },
+      {
+        "revision": 23142,
+        "title": "Det sorte Indien/15"
+      },
+      {
+        "revision": 23287,
+        "title": "Det sorte Indien/16"
+      },
+      {
+        "revision": 23304,
+        "title": "Det sorte Indien/17"
+      },
+      {
+        "revision": 23329,
+        "title": "Det sorte Indien/18"
+      },
+      {
+        "revision": 23346,
+        "title": "Det sorte Indien/19"
+      },
+      {
+        "revision": 23358,
+        "title": "Det sorte Indien/20"
+      },
+      {
+        "revision": 23369,
+        "title": "Det sorte Indien/21"
+      },
+      {
+        "revision": 23372,
+        "title": "Det sorte Indien/22"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:23:40.663976Z",
+    "revision": "22970",
+    "site": "da.wikisource.org",
+    "url": "https://da.wikisource.org/wiki/Det_sorte_Indien"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1828,
+      "deathYear": 1905,
+      "name": "Jules Verne",
+      "wikidata": "Q33977"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1877,
+    "originalTitle": "Det sorte Indien",
+    "workId": "verne-det-sorte-indien"
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:54:57.937408Z",
+    "chapterCount": 61,
+    "contentSha256": "d75b8263d512546aad41942d05d7058959308e4cd9199160f9ad0dfab4a240ce",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/austen-orgullo-y-prejuicio.es.wikisource/v1/book.json.gz",
+    "sha256": "8040eddc4ab2f473ad673590019ff219dae21ecc017c901b9fad8d8e0d020e58",
+    "sizeBytes": 253229,
+    "uncompressedSizeBytes": 733487,
+    "wordCount": 117316
+  },
+  "edition": {
+    "editionId": "austen-orgullo-y-prejuicio.es.wikisource",
+    "kind": "translation",
+    "language": "es",
+    "title": "Orgullo y prejuicio",
+    "translationPublicationYear": 1924,
+    "translator": {
+      "birthYear": 1868,
+      "deathYear": 1932,
+      "name": "José Jordán de Urriés Azara",
+      "wikidata": "Q55229187"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1817: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1932: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1924: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q170583",
+      "https://www.wikidata.org/wiki/Q124332322",
+      "https://www.wikidata.org/wiki/Q36322",
+      "https://www.wikidata.org/wiki/Q55229187",
+      "https://es.wikisource.org/wiki/Orgullo_y_prejuicio"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jane Austen died in 1817; the translator José Jordán de Urriés Azara died in 1932 and this translation was first published in 1924. Source: es.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Orgullo y prejuicio",
+    "pages": [
+      {
+        "revision": 1422492,
+        "title": "Orgullo y prejuicio"
+      },
+      {
+        "revision": 1419146,
+        "title": "Orgullo y prejuicio/Capítulo I"
+      },
+      {
+        "revision": 1419150,
+        "title": "Orgullo y prejuicio/Capítulo II"
+      },
+      {
+        "revision": 1419218,
+        "title": "Orgullo y prejuicio/Capítulo III"
+      },
+      {
+        "revision": 1419219,
+        "title": "Orgullo y prejuicio/Capítulo IV"
+      },
+      {
+        "revision": 1419220,
+        "title": "Orgullo y prejuicio/Capítulo V"
+      },
+      {
+        "revision": 1419221,
+        "title": "Orgullo y prejuicio/Capítulo VI"
+      },
+      {
+        "revision": 1419222,
+        "title": "Orgullo y prejuicio/Capítulo VII"
+      },
+      {
+        "revision": 1419298,
+        "title": "Orgullo y prejuicio/Capítulo VIII"
+      },
+      {
+        "revision": 1419375,
+        "title": "Orgullo y prejuicio/Capítulo IX"
+      },
+      {
+        "revision": 1419377,
+        "title": "Orgullo y prejuicio/Capítulo X"
+      },
+      {
+        "revision": 1419379,
+        "title": "Orgullo y prejuicio/Capítulo XI"
+      },
+      {
+        "revision": 1419380,
+        "title": "Orgullo y prejuicio/Capítulo XII"
+      },
+      {
+        "revision": 1419382,
+        "title": "Orgullo y prejuicio/Capítulo XIII"
+      },
+      {
+        "revision": 1419386,
+        "title": "Orgullo y prejuicio/Capítulo XIV"
+      },
+      {
+        "revision": 1419390,
+        "title": "Orgullo y prejuicio/Capítulo XV"
+      },
+      {
+        "revision": 1419395,
+        "title": "Orgullo y prejuicio/Capítulo XVI"
+      },
+      {
+        "revision": 1419433,
+        "title": "Orgullo y prejuicio/Capítulo XVII"
+      },
+      {
+        "revision": 1421001,
+        "title": "Orgullo y prejuicio/Capítulo XVIII"
+      },
+      {
+        "revision": 1421003,
+        "title": "Orgullo y prejuicio/Capítulo XIX"
+      },
+      {
+        "revision": 1421004,
+        "title": "Orgullo y prejuicio/Capítulo XX"
+      },
+      {
+        "revision": 1421005,
+        "title": "Orgullo y prejuicio/Capítulo XXI"
+      },
+      {
+        "revision": 1420994,
+        "title": "Orgullo y prejuicio/Capítulo XXII"
+      },
+      {
+        "revision": 1421009,
+        "title": "Orgullo y prejuicio/Capítulo XXIII"
+      },
+      {
+        "revision": 1421011,
+        "title": "Orgullo y prejuicio/Capítulo XXIV"
+      },
+      {
+        "revision": 1421012,
+        "title": "Orgullo y prejuicio/Capítulo XXV"
+      },
+      {
+        "revision": 1421017,
+        "title": "Orgullo y prejuicio/Capítulo XXVI"
+      },
+      {
+        "revision": 1421021,
+        "title": "Orgullo y prejuicio/Capítulo XXVII"
+      },
+      {
+        "revision": 1421020,
+        "title": "Orgullo y prejuicio/Capítulo XXVIII"
+      },
+      {
+        "revision": 1421022,
+        "title": "Orgullo y prejuicio/Capítulo XXIX"
+      },
+      {
+        "revision": 1421023,
+        "title": "Orgullo y prejuicio/Capítulo XXX"
+      },
+      {
+        "revision": 1421024,
+        "title": "Orgullo y prejuicio/Capítulo XXXI"
+      },
+      {
+        "revision": 1421025,
+        "title": "Orgullo y prejuicio/Capítulo XXXII"
+      },
+      {
+        "revision": 1421026,
+        "title": "Orgullo y prejuicio/Capítulo XXXIII"
+      },
+      {
+        "revision": 1421027,
+        "title": "Orgullo y prejuicio/Capítulo XXXIV"
+      },
+      {
+        "revision": 1423578,
+        "title": "Orgullo y prejuicio/Capítulo XXXV"
+      },
+      {
+        "revision": 1424055,
+        "title": "Orgullo y prejuicio/Capítulo XXXVI"
+      },
+      {
+        "revision": 1428081,
+        "title": "Orgullo y prejuicio/Capítulo XXXVII"
+      },
+      {
+        "revision": 1428082,
+        "title": "Orgullo y prejuicio/Capítulo XXXVIII"
+      },
+      {
+        "revision": 1428083,
+        "title": "Orgullo y prejuicio/Capítulo XXXIX"
+      },
+      {
+        "revision": 1429686,
+        "title": "Orgullo y prejuicio/Capítulo XL"
+      },
+      {
+        "revision": 1429707,
+        "title": "Orgullo y prejuicio/Capítulo XLI"
+      },
+      {
+        "revision": 1429714,
+        "title": "Orgullo y prejuicio/Capítulo XLII"
+      },
+      {
+        "revision": 1430460,
+        "title": "Orgullo y prejuicio/Capítulo XLIII"
+      },
+      {
+        "revision": 1430484,
+        "title": "Orgullo y prejuicio/Capítulo XLIV"
+      },
+      {
+        "revision": 1430668,
+        "title": "Orgullo y prejuicio/Capítulo XLV"
+      },
+      {
+        "revision": 1432291,
+        "title": "Orgullo y prejuicio/Capítulo XLVI"
+      },
+      {
+        "revision": 1444251,
+        "title": "Orgullo y prejuicio/Capítulo XLVII"
+      },
+      {
+        "revision": 1444263,
+        "title": "Orgullo y prejuicio/Capítulo XLVIII"
+      },
+      {
+        "revision": 1444484,
+        "title": "Orgullo y prejuicio/Capítulo XLIX"
+      },
+      {
+        "revision": 1445210,
+        "title": "Orgullo y prejuicio/Capítulo L"
+      },
+      {
+        "revision": 1445212,
+        "title": "Orgullo y prejuicio/Capítulo LI"
+      },
+      {
+        "revision": 1445213,
+        "title": "Orgullo y prejuicio/Capítulo LII"
+      },
+      {
+        "revision": 1445214,
+        "title": "Orgullo y prejuicio/Capítulo LIII"
+      },
+      {
+        "revision": 1445215,
+        "title": "Orgullo y prejuicio/Capítulo LIV"
+      },
+      {
+        "revision": 1445216,
+        "title": "Orgullo y prejuicio/Capítulo LV"
+      },
+      {
+        "revision": 1424038,
+        "title": "Orgullo y prejuicio/Capítulo LVI"
+      },
+      {
+        "revision": 1430591,
+        "title": "Orgullo y prejuicio/Capítulo LVII"
+      },
+      {
+        "revision": 1430607,
+        "title": "Orgullo y prejuicio/Capítulo LVIII"
+      },
+      {
+        "revision": 1430637,
+        "title": "Orgullo y prejuicio/Capítulo LIX"
+      },
+      {
+        "revision": 1430687,
+        "title": "Orgullo y prejuicio/Capítulo LX"
+      },
+      {
+        "revision": 1490414,
+        "title": "Orgullo y prejuicio/Capítulo LXI"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:43:34.873618Z",
+    "revision": "1422492",
+    "site": "es.wikisource.org",
+    "url": "https://es.wikisource.org/wiki/Orgullo_y_prejuicio"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1775,
+      "deathYear": 1817,
+      "name": "Jane Austen",
+      "wikidata": "Q36322"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1813,
+    "originalTitle": "Orgullo y prejuicio",
+    "workId": "austen-orgullo-y-prejuicio"
+  }
+}

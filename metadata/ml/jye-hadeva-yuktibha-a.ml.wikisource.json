@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:14.981750Z",
+    "chapterCount": 2,
+    "contentSha256": "34afdd33600613151dd0d7824c835320985e0123049738d9473c4b5951dde540",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ml/jye-hadeva-yuktibha-a.ml.wikisource/v1/book.json.gz",
+    "sha256": "661020fccb9e4c566e9fe2feef6145b895f54eef9e0e52644998647dff4e52d8",
+    "sizeBytes": 24124,
+    "uncompressedSizeBytes": 164110,
+    "wordCount": 6470
+  },
+  "edition": {
+    "editionId": "jye-hadeva-yuktibha-a.ml.wikisource",
+    "kind": "original",
+    "language": "ml",
+    "title": "യുക്തിഭാഷ"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1575: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1530: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q3573180",
+      "https://www.wikidata.org/wiki/Q3595755",
+      "https://ml.wikisource.org/wiki/%E0%B4%AF%E0%B5%81%E0%B4%95%E0%B5%8D%E0%B4%A4%E0%B4%BF%E0%B4%AD%E0%B4%BE%E0%B4%B7"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ജ്യേഷ്ഠദേവൻ died in 1575 and the work was first published in 1530. Source: ml.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "യുക്തിഭാഷ",
+    "pages": [
+      {
+        "revision": 139307,
+        "title": "യുക്തിഭാഷ"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:59:24.573556Z",
+    "revision": "139307",
+    "site": "ml.wikisource.org",
+    "url": "https://ml.wikisource.org/wiki/%E0%B4%AF%E0%B5%81%E0%B4%95%E0%B5%8D%E0%B4%A4%E0%B4%BF%E0%B4%AD%E0%B4%BE%E0%B4%B7"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1500,
+      "deathYear": 1575,
+      "name": "ജ്യേഷ്ഠദേവൻ",
+      "wikidata": "Q3595755"
+    },
+    "originalLanguage": "ml",
+    "originalPublicationYear": 1530,
+    "originalTitle": "യുക്തിഭാഷ",
+    "workId": "jye-hadeva-yuktibha-a"
+  }
+}

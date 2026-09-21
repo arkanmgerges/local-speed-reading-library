@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:36.467369Z",
+    "chapterCount": 6,
+    "contentSha256": "88410d4936003aab9cfb8ce646b9d98883d4b8b8cc207be1476b91cc5421b537",
+    "normalizerVersion": "0.2.0",
+    "path": "books/mr/kosambi-buddha-dharma-ani-sangha.mr.wikisource/v1/book.json.gz",
+    "sha256": "3394b69b3da6b906cf205b6590ea31f3396e60de6d25072d4518294b664a9661",
+    "sizeBytes": 71204,
+    "uncompressedSizeBytes": 378159,
+    "wordCount": 20429
+  },
+  "edition": {
+    "editionId": "kosambi-buddha-dharma-ani-sangha.mr.wikisource",
+    "kind": "original",
+    "language": "mr",
+    "title": "बुद्ध, धर्म आणि संघ"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1947: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1910: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q136450145",
+      "https://www.wikidata.org/wiki/Q2085380",
+      "https://mr.wikisource.org/wiki/%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%2C_%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE_%E0%A4%86%E0%A4%A3%E0%A4%BF_%E0%A4%B8%E0%A4%82%E0%A4%98"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. धर्मानंद दामोदर कोसंबी died in 1947 and the work was first published in 1910. Source: mr.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "बुद्ध, धर्म आणि संघ",
+    "pages": [
+      {
+        "revision": 234098,
+        "title": "बुद्ध, धर्म आणि संघ"
+      },
+      {
+        "revision": 234101,
+        "title": "बुद्ध, धर्म आणि संघ/बुद्ध"
+      },
+      {
+        "revision": 234099,
+        "title": "बुद्ध, धर्म आणि संघ/धर्म"
+      },
+      {
+        "revision": 234102,
+        "title": "बुद्ध, धर्म आणि संघ/संघ"
+      },
+      {
+        "revision": 234103,
+        "title": "बुद्ध, धर्म आणि संघ/संघ (भाग २ रा)"
+      },
+      {
+        "revision": 234100,
+        "title": "बुद्ध, धर्म आणि संघ/परिशिष्टें"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:03:25.058230Z",
+    "revision": "234098",
+    "site": "mr.wikisource.org",
+    "url": "https://mr.wikisource.org/wiki/%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%2C_%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE_%E0%A4%86%E0%A4%A3%E0%A4%BF_%E0%A4%B8%E0%A4%82%E0%A4%98"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1876,
+      "deathYear": 1947,
+      "name": "धर्मानंद दामोदर कोसंबी",
+      "wikidata": "Q2085380"
+    },
+    "originalLanguage": "mr",
+    "originalPublicationYear": 1910,
+    "originalTitle": "बुद्ध, धर्म आणि संघ",
+    "workId": "kosambi-buddha-dharma-ani-sangha"
+  }
+}

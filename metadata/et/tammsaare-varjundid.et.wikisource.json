@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:36.103128Z",
+    "chapterCount": 1,
+    "contentSha256": "2901d5e6593f5fc7c7f06777d67002564692ccb0c574ce323dee219aae980cfa",
+    "normalizerVersion": "0.2.0",
+    "path": "books/et/tammsaare-varjundid.et.wikisource/v1/book.json.gz",
+    "sha256": "a115697124fe38ec48466e3bf4abd6dba3254ccad022fa6c0d8ece5a13aca353",
+    "sizeBytes": 65903,
+    "uncompressedSizeBytes": 170317,
+    "wordCount": 22444
+  },
+  "edition": {
+    "editionId": "tammsaare-varjundid.et.wikisource",
+    "kind": "original",
+    "language": "et",
+    "title": "Varjundid"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1940: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1917: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q18670085",
+      "https://www.wikidata.org/wiki/Q353637",
+      "https://et.wikisource.org/wiki/Varjundid"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. A. H. Tammsaare died in 1940 and the work was first published in 1917. Source: et.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Varjundid",
+    "pages": [
+      {
+        "revision": 57693,
+        "title": "Varjundid"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:55:43.706994Z",
+    "revision": "57693",
+    "site": "et.wikisource.org",
+    "url": "https://et.wikisource.org/wiki/Varjundid"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1878,
+      "deathYear": 1940,
+      "name": "A. H. Tammsaare",
+      "wikidata": "Q353637"
+    },
+    "originalLanguage": "et",
+    "originalPublicationYear": 1917,
+    "originalTitle": "Varjundid",
+    "workId": "tammsaare-varjundid"
+  }
+}

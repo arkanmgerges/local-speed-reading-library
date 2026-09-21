@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:30.619359Z",
+    "chapterCount": 1,
+    "contentSha256": "4d1d99298a6172bdd16dc35e33e7169848221edd7aab65d6c7b04c14de505983",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ja/soseki-kairo-ko.ja.wikisource/v1/book.json.gz",
+    "sha256": "00acf2433e6cccd93f4dad5337da3be484b8c98a9b017c41b24471ba018e0deb",
+    "sizeBytes": 28098,
+    "uncompressedSizeBytes": 76539,
+    "wordCount": 184
+  },
+  "edition": {
+    "editionId": "soseki-kairo-ko.ja.wikisource",
+    "kind": "original",
+    "language": "ja",
+    "title": "薤露行"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1916: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1905: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q16158655",
+      "https://www.wikidata.org/wiki/Q180903",
+      "https://ja.wikisource.org/wiki/%E8%96%A4%E9%9C%B2%E8%A1%8C"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 夏目漱石 died in 1916 and the work was first published in 1905. Source: ja.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "薤露行",
+    "pages": [
+      {
+        "revision": 212624,
+        "title": "薤露行"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:50:47.588015Z",
+    "revision": "212624",
+    "site": "ja.wikisource.org",
+    "url": "https://ja.wikisource.org/wiki/%E8%96%A4%E9%9C%B2%E8%A1%8C"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1867,
+      "deathYear": 1916,
+      "name": "夏目漱石",
+      "wikidata": "Q180903"
+    },
+    "originalLanguage": "ja",
+    "originalPublicationYear": 1905,
+    "originalTitle": "薤露行",
+    "workId": "soseki-kairo-ko"
+  }
+}

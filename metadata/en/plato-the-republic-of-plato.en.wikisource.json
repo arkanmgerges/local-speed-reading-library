@@ -1,0 +1,127 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:24:09.231215Z",
+    "chapterCount": 15,
+    "contentSha256": "1f4d810bfb967682c693e6a903eb12b837c40cae0386c16cfd5dae7bce9c2c78",
+    "normalizerVersion": "0.2.0",
+    "path": "books/en/plato-the-republic-of-plato.en.wikisource/v1/book.json.gz",
+    "sha256": "861b15a3e6d8e11e6bdb213a1d24a37607240483cf918bcf932c6b4d65ccf37b",
+    "sizeBytes": 297329,
+    "uncompressedSizeBytes": 896193,
+    "wordCount": 153662
+  },
+  "edition": {
+    "editionId": "plato-the-republic-of-plato.en.wikisource",
+    "kind": "translation",
+    "language": "en",
+    "title": "The Republic of Plato",
+    "translationPublicationYear": 1901,
+    "translator": {
+      "birthYear": 1817,
+      "deathYear": 1893,
+      "name": "Benjamin Jowett",
+      "wikidata": "Q817565"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -348: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1893: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1901: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q123397",
+      "https://www.wikidata.org/wiki/Q20867055",
+      "https://www.wikidata.org/wiki/Q859",
+      "https://www.wikidata.org/wiki/Q817565",
+      "https://en.wikisource.org/wiki/The_Republic_of_Plato"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Plato died in -348; the translator Benjamin Jowett died in 1893 and this translation was first published in 1901. Source: en.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "The Republic of Plato",
+    "pages": [
+      {
+        "revision": 13342062,
+        "title": "The Republic of Plato"
+      },
+      {
+        "revision": 15035205,
+        "title": "The Republic of Plato/Introduction"
+      },
+      {
+        "revision": 10050435,
+        "title": "The Republic of Plato/Book 1"
+      },
+      {
+        "revision": 10050449,
+        "title": "The Republic of Plato/Book 2"
+      },
+      {
+        "revision": 10050452,
+        "title": "The Republic of Plato/Book 3"
+      },
+      {
+        "revision": 10050454,
+        "title": "The Republic of Plato/Book 4"
+      },
+      {
+        "revision": 10050424,
+        "title": "The Republic of Plato/Book 5"
+      },
+      {
+        "revision": 10074709,
+        "title": "The Republic of Plato/Book 6"
+      },
+      {
+        "revision": 11985126,
+        "title": "The Republic of Plato/Book 7"
+      },
+      {
+        "revision": 10368554,
+        "title": "The Republic of Plato/Book 8"
+      },
+      {
+        "revision": 12283625,
+        "title": "The Republic of Plato/Book 9"
+      },
+      {
+        "revision": 12283635,
+        "title": "The Republic of Plato/Book 10"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:36:32.750994Z",
+    "revision": "13342062",
+    "site": "en.wikisource.org",
+    "url": "https://en.wikisource.org/wiki/The_Republic_of_Plato"
+  },
+  "work": {
+    "author": {
+      "birthYear": -428,
+      "deathYear": -348,
+      "name": "Plato",
+      "wikidata": "Q859"
+    },
+    "originalLanguage": "grc",
+    "originalPublicationYear": 1963,
+    "originalTitle": "The Republic of Plato",
+    "workId": "plato-the-republic-of-plato"
+  }
+}

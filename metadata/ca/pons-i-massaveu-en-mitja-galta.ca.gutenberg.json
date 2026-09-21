@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:39.805888Z",
+    "chapterCount": 16,
+    "contentSha256": "1280227c93e09574525a8f037bffb6a93aa2f26ff1615301eaff53caac9bf00b",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/pons-i-massaveu-en-mitja-galta.ca.gutenberg/v1/book.json.gz",
+    "sha256": "9dbecad26311d944ab45779210dacd4827c2b8f1c9fbfed21e55da697b82b010",
+    "sizeBytes": 40223,
+    "uncompressedSizeBytes": 103927,
+    "wordCount": 15941
+  },
+  "edition": {
+    "editionId": "pons-i-massaveu-en-mitja-galta.ca.gutenberg",
+    "editionPublicationYear": 1905,
+    "kind": "original",
+    "language": "ca",
+    "title": "En Mitja-galta : $b Noveleta barcelonina"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1918: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1905 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/78990",
+      "https://ca.wikipedia.org/wiki/Joan_Pons_i_Massaveu"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Joan Pons i Massaveu died in 1918 and the edition digitised by Project Gutenberg was printed in 1905. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "78990",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:06:01.801610Z",
+    "revision": "Mon, 31 Aug 2026 11:56:09 GMT",
+    "url": "https://www.gutenberg.org/ebooks/78990"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1850,
+      "deathYear": 1918,
+      "name": "Joan Pons i Massaveu",
+      "wikidata": "Q11927897"
+    },
+    "originalLanguage": "ca",
+    "originalTitle": "En Mitja-galta : $b Noveleta barcelonina",
+    "workId": "pons-i-massaveu-en-mitja-galta"
+  }
+}

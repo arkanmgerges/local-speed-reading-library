@@ -1,0 +1,177 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:00.573820Z",
+    "chapterCount": 26,
+    "contentSha256": "dad1c1366715a19f008831bcad401af51ffb2c2e6c413668b38c3551624c7a0d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/kielland-garman-og-worse.no.wikisource/v1/book.json.gz",
+    "sha256": "baca3d744423775b3d8f0917b4ed190c6938c2332bace20e5cec3479ed626137",
+    "sizeBytes": 150228,
+    "uncompressedSizeBytes": 414112,
+    "wordCount": 66900
+  },
+  "edition": {
+    "editionId": "kielland-garman-og-worse.no.wikisource",
+    "kind": "original",
+    "language": "no",
+    "title": "Garman og Worse"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1906: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1880: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q21473314",
+      "https://www.wikidata.org/wiki/Q318358",
+      "https://no.wikisource.org/wiki/Garman_og_Worse"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Alexander Kielland died in 1906 and the work was first published in 1880. Source: no.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Garman og Worse",
+    "pages": [
+      {
+        "revision": 319889,
+        "title": "Garman og Worse"
+      },
+      {
+        "revision": 222925,
+        "title": "Garman og Worse/1"
+      },
+      {
+        "revision": 222926,
+        "title": "Garman og Worse/2"
+      },
+      {
+        "revision": 222930,
+        "title": "Garman og Worse/3"
+      },
+      {
+        "revision": 222928,
+        "title": "Garman og Worse/4"
+      },
+      {
+        "revision": 222931,
+        "title": "Garman og Worse/5"
+      },
+      {
+        "revision": 222932,
+        "title": "Garman og Worse/6"
+      },
+      {
+        "revision": 222933,
+        "title": "Garman og Worse/7"
+      },
+      {
+        "revision": 222934,
+        "title": "Garman og Worse/8"
+      },
+      {
+        "revision": 222935,
+        "title": "Garman og Worse/9"
+      },
+      {
+        "revision": 222936,
+        "title": "Garman og Worse/10"
+      },
+      {
+        "revision": 222937,
+        "title": "Garman og Worse/11"
+      },
+      {
+        "revision": 222938,
+        "title": "Garman og Worse/12"
+      },
+      {
+        "revision": 222939,
+        "title": "Garman og Worse/13"
+      },
+      {
+        "revision": 222940,
+        "title": "Garman og Worse/14"
+      },
+      {
+        "revision": 222941,
+        "title": "Garman og Worse/15"
+      },
+      {
+        "revision": 222942,
+        "title": "Garman og Worse/16"
+      },
+      {
+        "revision": 222943,
+        "title": "Garman og Worse/17"
+      },
+      {
+        "revision": 222944,
+        "title": "Garman og Worse/18"
+      },
+      {
+        "revision": 222945,
+        "title": "Garman og Worse/19"
+      },
+      {
+        "revision": 222946,
+        "title": "Garman og Worse/20"
+      },
+      {
+        "revision": 81462,
+        "title": "Garman og Worse/21"
+      },
+      {
+        "revision": 81470,
+        "title": "Garman og Worse/22"
+      },
+      {
+        "revision": 81481,
+        "title": "Garman og Worse/23"
+      },
+      {
+        "revision": 81495,
+        "title": "Garman og Worse/24"
+      },
+      {
+        "revision": 81503,
+        "title": "Garman og Worse/25"
+      },
+      {
+        "revision": 81510,
+        "title": "Garman og Worse/26"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:18:27.630417Z",
+    "revision": "319889",
+    "site": "no.wikisource.org",
+    "url": "https://no.wikisource.org/wiki/Garman_og_Worse"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1849,
+      "deathYear": 1906,
+      "name": "Alexander Kielland",
+      "wikidata": "Q318358"
+    },
+    "originalLanguage": "no",
+    "originalPublicationYear": 1880,
+    "originalTitle": "Garman og Worse",
+    "workId": "kielland-garman-og-worse"
+  }
+}

@@ -20,8 +20,11 @@ class WikisourceClient {
   /// Current revision ids of [titles]; missing pages are absent from the map.
   Future<Map<String, int>> latestRevisions(List<String> titles) async {
     final Map<String, int> out = <String, int>{};
-    for (int i = 0; i < titles.length; i += 50) {
-      final List<String> batch = titles.sublist(i, i + 50 > titles.length ? titles.length : i + 50);
+    // Ten titles per request: non-Latin titles percent-encode to long URLs
+    // and fifty of them exceed the API's URL limit (HTTP 414).
+    const int per = 10;
+    for (int i = 0; i < titles.length; i += per) {
+      final List<String> batch = titles.sublist(i, i + per > titles.length ? titles.length : i + per);
       final Map<String, Object?> json = await _get(<String, String>{
         'action': 'query',
         'prop': 'info',

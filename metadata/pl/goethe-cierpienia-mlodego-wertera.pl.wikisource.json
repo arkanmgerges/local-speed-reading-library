@@ -1,0 +1,103 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:33.948885Z",
+    "chapterCount": 12,
+    "contentSha256": "75e50aeeef1702f5e41065f043ba455b602576007a5d20cecfc92c2da47a8147",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/goethe-cierpienia-mlodego-wertera.pl.wikisource/v1/book.json.gz",
+    "sha256": "5ab4e6d1cf33f5c1691831819c448ec546a77230cf99fb5f03dee3a3037f13a8",
+    "sizeBytes": 258382,
+    "uncompressedSizeBytes": 655468,
+    "wordCount": 91935
+  },
+  "edition": {
+    "editionId": "goethe-cierpienia-mlodego-wertera.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Cierpienia młodego Wertera",
+    "translationPublicationYear": 1922,
+    "translator": {
+      "birthYear": 1871,
+      "deathYear": 1930,
+      "name": "Franciszek Mirandola",
+      "wikidata": "Q9262740"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1832: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1922: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q151883",
+      "https://www.wikidata.org/wiki/Q110007615",
+      "https://www.wikidata.org/wiki/Q5879",
+      "https://www.wikidata.org/wiki/Q9262740",
+      "https://pl.wikisource.org/wiki/Cierpienia_m%C5%82odego_Wertera"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Johann Wolfgang von Goethe died in 1832; the translator Franciszek Mirandola died in 1930 and this translation was first published in 1922. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Cierpienia młodego Wertera",
+    "pages": [
+      {
+        "revision": 3877055,
+        "title": "Cierpienia młodego Wertera"
+      },
+      {
+        "revision": 3249885,
+        "title": "Cierpienia młodego Wertera/Wstęp"
+      },
+      {
+        "revision": 3249887,
+        "title": "Cierpienia młodego Wertera/całość"
+      },
+      {
+        "revision": 3249883,
+        "title": "Cierpienia młodego Wertera/Część I"
+      },
+      {
+        "revision": 3249884,
+        "title": "Cierpienia młodego Wertera/Część II"
+      },
+      {
+        "revision": 3249886,
+        "title": "Cierpienia młodego Wertera/Wydawca do czytelnika"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:24:10.803967Z",
+    "revision": "3877055",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Cierpienia_m%C5%82odego_Wertera"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1749,
+      "deathYear": 1832,
+      "name": "Johann Wolfgang von Goethe",
+      "wikidata": "Q5879"
+    },
+    "originalLanguage": "de",
+    "originalPublicationYear": 1774,
+    "originalTitle": "Cierpienia młodego Wertera",
+    "workId": "goethe-cierpienia-mlodego-wertera"
+  }
+}

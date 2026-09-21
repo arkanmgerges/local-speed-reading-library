@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:47.020772Z",
+    "chapterCount": 4,
+    "contentSha256": "38365353283605f650b67dcb1ae348bdeaad241f8a99fc8b39c87b9dd26ff0b8",
+    "normalizerVersion": "0.2.0",
+    "path": "books/de/kafka-die-verwandlung.de.gutenberg/v1/book.json.gz",
+    "sha256": "46584ea0fa4762fcc5238fffd1fd0ab5bb7a1dd8c2a5a320ea8f0c8b35fbddf3",
+    "sizeBytes": 45857,
+    "uncompressedSizeBytes": 126046,
+    "wordCount": 19267
+  },
+  "edition": {
+    "editionId": "kafka-die-verwandlung.de.gutenberg",
+    "kind": "original",
+    "language": "de",
+    "title": "Die Verwandlung"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1924: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1915: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/22367",
+      "https://en.wikipedia.org/wiki/Franz_Kafka",
+      "https://de.wikipedia.org/wiki/Franz_Kafka",
+      "https://www.wikidata.org/wiki/Q184222"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Franz Kafka died in 1924 and the work was first published in 1915. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "22367",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:25:19.244198Z",
+    "revision": "Wed, 09 Sep 2026 13:36:52 GMT",
+    "url": "https://www.gutenberg.org/ebooks/22367"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1883,
+      "deathYear": 1924,
+      "name": "Franz Kafka",
+      "wikidata": "Q905"
+    },
+    "originalLanguage": "de",
+    "originalPublicationYear": 1915,
+    "originalTitle": "Die Verwandlung",
+    "workId": "kafka-die-verwandlung"
+  }
+}

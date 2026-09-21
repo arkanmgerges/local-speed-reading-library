@@ -1,0 +1,96 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "9a95e368cdf9daf19d2aba1934ca8819800b51e8203cf5ea06a1a03b290ed172",
+        "encoding": "gzip",
+        "path": "books/id/malaka-aksi-massa.id.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2bd6d792e67f980dcd0062a4599f20ca3c95fc6529f6573a2647793806d335fd",
+        "sizeBytes": 72819,
+        "uncompressedSizeBytes": 228069,
+        "wordCount": 27781
+      },
+      "author": "Tan Malaka",
+      "authorDeathYear": 1949,
+      "editionId": "malaka-aksi-massa.id.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "id",
+      "originalLanguage": "id",
+      "originalPublicationYear": 1926,
+      "originalTitle": "Aksi Massa",
+      "rights": {
+        "statement": "Public domain worldwide. Tan Malaka died in 1949 and the work was first published in 1926. Source: id.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Massa Actie",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:40:52.368795Z",
+        "revision": "110439",
+        "url": "https://id.wikisource.org/wiki/Massa_Actie"
+      },
+      "title": "Aksi Massa",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "malaka-aksi-massa"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 9,
+        "contentSha256": "956c80460aea917c2222a264e8febe53eae56e2e923d32b4429c539b26a8c377",
+        "encoding": "gzip",
+        "path": "books/id/siregar-azab-dan-sengsara.id.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "35f8ef4fb6eb506954800c7ca9c7b1619aa96fab41fa6ad79792480c7085aeb7",
+        "sizeBytes": 91707,
+        "uncompressedSizeBytes": 292058,
+        "wordCount": 40399
+      },
+      "author": "Merari Siregar",
+      "authorDeathYear": 1941,
+      "editionId": "siregar-azab-dan-sengsara.id.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "id",
+      "originalLanguage": "id",
+      "originalPublicationYear": 1920,
+      "originalTitle": "Azab dan Sengsara",
+      "rights": {
+        "statement": "Public domain worldwide. Merari Siregar died in 1941 and the work was first published in 1920. Source: id.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Azab dan Sengsara",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:41:07.963252Z",
+        "revision": "244209",
+        "url": "https://id.wikisource.org/wiki/Azab_dan_Sengsara"
+      },
+      "title": "Azab dan Sengsara",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "siregar-azab-dan-sengsara"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Indonesian",
+  "language": "id",
+  "manifestVersion": "abc512acca7ff070",
+  "nativeName": "Indonesia",
+  "schemaVersion": 1
+}

@@ -1,0 +1,145 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:27:27.446124Z",
+    "chapterCount": 19,
+    "contentSha256": "bb040db3b2cc374e173fb577e48e6f11b7229ce1a3410e13a5ddec0024865d12",
+    "normalizerVersion": "0.2.0",
+    "path": "books/gu/kavi-chitradarshano.gu.wikisource/v1/book.json.gz",
+    "sha256": "6ef38ec58dc83082c47269cd0ea452b7508b255c72748e4b2ad2f931e37b0745",
+    "sizeBytes": 61680,
+    "uncompressedSizeBytes": 273988,
+    "wordCount": 15505
+  },
+  "edition": {
+    "editionId": "kavi-chitradarshano.gu.wikisource",
+    "kind": "original",
+    "language": "gu",
+    "title": "ચિત્રદર્શનો"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1921: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q18003056",
+      "https://www.wikidata.org/wiki/Q1088881",
+      "https://gu.wikisource.org/wiki/%E0%AA%9A%E0%AA%BF%E0%AA%A4%E0%AB%8D%E0%AA%B0%E0%AA%A6%E0%AA%B0%E0%AB%8D%E0%AA%B6%E0%AA%A8%E0%AB%8B"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ન્હાનાલાલ died in 1946 and the work was first published in 1921. Source: gu.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "ચિત્રદર્શનો",
+    "pages": [
+      {
+        "revision": 217866,
+        "title": "ચિત્રદર્શનો"
+      },
+      {
+        "revision": 173446,
+        "title": "ચિત્રદર્શનો/ગુજરાત"
+      },
+      {
+        "revision": 173448,
+        "title": "ચિત્રદર્શનો/શરદ પુનમ"
+      },
+      {
+        "revision": 173449,
+        "title": "ચિત્રદર્શનો/કુલયોગિની"
+      },
+      {
+        "revision": 173451,
+        "title": "ચિત્રદર્શનો/સૌભાગ્યવતી"
+      },
+      {
+        "revision": 173452,
+        "title": "ચિત્રદર્શનો/નવયૌવના"
+      },
+      {
+        "revision": 173460,
+        "title": "ચિત્રદર્શનો/કાઠિયાણીનું ગીત"
+      },
+      {
+        "revision": 198545,
+        "title": "ચિત્રદર્શનો/રાજવીર"
+      },
+      {
+        "revision": 174230,
+        "title": "ચિત્રદર્શનો/શ્રીમન્ત મહારાજ સયાજીરાવ ગાયકવાડ"
+      },
+      {
+        "revision": 174232,
+        "title": "ચિત્રદર્શનો/તાજમહેલ"
+      },
+      {
+        "revision": 174235,
+        "title": "ચિત્રદર્શનો/ચારુ વાટિકા"
+      },
+      {
+        "revision": 174236,
+        "title": "ચિત્રદર્શનો/શ્રાવણી અમાસ"
+      },
+      {
+        "revision": 174238,
+        "title": "ચિત્રદર્શનો/બ્રહ્મદીક્ષા"
+      },
+      {
+        "revision": 174266,
+        "title": "ચિત્રદર્શનો/ગુરુદેવ"
+      },
+      {
+        "revision": 174241,
+        "title": "ચિત્રદર્શનો/સૌરાષ્ટ્રનો સાધુ"
+      },
+      {
+        "revision": 174243,
+        "title": "ચિત્રદર્શનો/પિતૃતર્પણ"
+      },
+      {
+        "revision": 174277,
+        "title": "ચિત્રદર્શનો/મહર્ષિ દયાનંદ સરસ્વતી"
+      },
+      {
+        "revision": 174279,
+        "title": "ચિત્રદર્શનો/ગુજરાતનો તપસ્વી"
+      },
+      {
+        "revision": 174251,
+        "title": "ચિત્રદર્શનો/ગુર્જરી કુંજો"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:21:33.386730Z",
+    "revision": "217866",
+    "site": "gu.wikisource.org",
+    "url": "https://gu.wikisource.org/wiki/%E0%AA%9A%E0%AA%BF%E0%AA%A4%E0%AB%8D%E0%AA%B0%E0%AA%A6%E0%AA%B0%E0%AB%8D%E0%AA%B6%E0%AA%A8%E0%AB%8B"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1877,
+      "deathYear": 1946,
+      "name": "ન્હાનાલાલ",
+      "wikidata": "Q1088881"
+    },
+    "originalLanguage": "gu",
+    "originalPublicationYear": 1921,
+    "originalTitle": "ચિત્રદર્શનો",
+    "workId": "kavi-chitradarshano"
+  }
+}

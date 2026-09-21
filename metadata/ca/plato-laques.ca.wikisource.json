@@ -1,0 +1,82 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:51:47.851625Z",
+    "chapterCount": 4,
+    "contentSha256": "44f42a121e3d96309b5a5f33971256bbfbd77c82578fa03204e3903e635533a8",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/plato-laques.ca.wikisource/v1/book.json.gz",
+    "sha256": "4472935da00b0ad78c47871657a0f93d0f35216f3dbc49b8145b5d96be4fd8a4",
+    "sizeBytes": 19499,
+    "uncompressedSizeBytes": 55694,
+    "wordCount": 9492
+  },
+  "edition": {
+    "editionId": "plato-laques.ca.wikisource",
+    "kind": "translation",
+    "language": "ca",
+    "title": "Diàlegs I - Laques",
+    "translationPublicationYear": 1924,
+    "translator": {
+      "birthYear": 1896,
+      "deathYear": 1926,
+      "name": "Joan Crexells i Vallhonrat",
+      "wikidata": "Q11033020"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -348: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1926: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1924: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1243625",
+      "https://www.wikidata.org/wiki/Q19524815",
+      "https://www.wikidata.org/wiki/Q859",
+      "https://www.wikidata.org/wiki/Q11033020",
+      "https://ca.wikisource.org/wiki/Di%C3%A0legs_I_-_Laques"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Plató died in -348; the translator Joan Crexells i Vallhonrat died in 1926 and this translation was first published in 1924. Source: ca.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Diàlegs I - Laques",
+    "pages": [
+      {
+        "revision": 25447,
+        "title": "Diàlegs I - Laques"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:05:59.380657Z",
+    "revision": "25447",
+    "site": "ca.wikisource.org",
+    "url": "https://ca.wikisource.org/wiki/Di%C3%A0legs_I_-_Laques"
+  },
+  "work": {
+    "author": {
+      "birthYear": -428,
+      "deathYear": -348,
+      "name": "Plató",
+      "wikidata": "Q859"
+    },
+    "originalLanguage": "grc",
+    "originalTitle": "Laques",
+    "workId": "plato-laques"
+  }
+}

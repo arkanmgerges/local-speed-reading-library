@@ -1,0 +1,109 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:20.438912Z",
+    "chapterCount": 9,
+    "contentSha256": "f6fcb5358ea2a85578f68931a3c18cb23927fc8672e33f97b0178387a2d47510",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ta/bharathi-q131360439.ta.wikisource/v1/book.json.gz",
+    "sha256": "878f829c0be97dac47bd13bafb0ad94d2034fbe3553bdf722de189e80bc271ac",
+    "sizeBytes": 68418,
+    "uncompressedSizeBytes": 420362,
+    "wordCount": 15852
+  },
+  "edition": {
+    "editionId": "bharathi-q131360439.ta.wikisource",
+    "kind": "original",
+    "language": "ta",
+    "title": "சந்திரிகையின் கதை"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1921: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1925: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q131360439",
+      "https://www.wikidata.org/wiki/Q256286",
+      "https://ta.wikisource.org/wiki/%E0%AE%9A%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%95%E0%AE%A4%E0%AF%88"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. சுப்பிரமணிய பாரதி died in 1921 and the work was first published in 1925. Source: ta.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "சந்திரிகையின் கதை",
+    "pages": [
+      {
+        "revision": 1769925,
+        "title": "சந்திரிகையின் கதை"
+      },
+      {
+        "revision": 1756671,
+        "title": "சந்திரிகையின் கதை/பூகம்பம்"
+      },
+      {
+        "revision": 1756672,
+        "title": "சந்திரிகையின் கதை/விசாலாட்சிக்கு ஜீ.சுப்பிரமணிய அய்யர் செய்த உதவி"
+      },
+      {
+        "revision": 1756673,
+        "title": "சந்திரிகையின் கதை/விசாலாட்சியின் ஏமாற்றம்"
+      },
+      {
+        "revision": 1756952,
+        "title": "சந்திரிகையின் கதை/வீரேசலிங்கம் பந்துலு வீட்டில் விருந்து"
+      },
+      {
+        "revision": 1757063,
+        "title": "சந்திரிகையின் கதை/கோபாலய்யங்காருக்கு விவாகம்"
+      },
+      {
+        "revision": 1757329,
+        "title": "சந்திரிகையின் கதை/விசாலாட்சிக்கு நேர்ந்த சங்கடங்கள்"
+      },
+      {
+        "revision": 1757873,
+        "title": "சந்திரிகையின் கதை/விடுதலை"
+      },
+      {
+        "revision": 1758415,
+        "title": "சந்திரிகையின் கதை/சோமநாதய்யர் ஞானம் பெற்ற வரலாறு"
+      },
+      {
+        "revision": 1758417,
+        "title": "சந்திரிகையின் கதை/பெண்டாட்டிக்கு ஜயம்"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:11:39.654748Z",
+    "revision": "1769925",
+    "site": "ta.wikisource.org",
+    "url": "https://ta.wikisource.org/wiki/%E0%AE%9A%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%95%E0%AE%A4%E0%AF%88"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1882,
+      "deathYear": 1921,
+      "name": "சுப்பிரமணிய பாரதி",
+      "wikidata": "Q256286"
+    },
+    "originalLanguage": "ta",
+    "originalPublicationYear": 1925,
+    "originalTitle": "சந்திரிகையின் கதை",
+    "workId": "bharathi-q131360439"
+  }
+}

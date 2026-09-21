@@ -1,0 +1,77 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:27:50.103857Z",
+    "chapterCount": 2,
+    "contentSha256": "d8cfa2f68dd41919b9e2161e40246586468757c99e3a52114303b052e7ff836f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hi/premchand-karbala.hi.wikisource/v1/book.json.gz",
+    "sha256": "d504750dd492c8b0ad8cfaae1d55e3b3231322be3ca19471922138eeec6cc5ec",
+    "sizeBytes": 20132,
+    "uncompressedSizeBytes": 93783,
+    "wordCount": 7354
+  },
+  "edition": {
+    "editionId": "premchand-karbala.hi.wikisource",
+    "kind": "original",
+    "language": "hi",
+    "title": "कर्बला"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1936: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1924: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q31345993",
+      "https://www.wikidata.org/wiki/Q174152",
+      "https://hi.wikisource.org/wiki/%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%B2%E0%A4%BE"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. प्रेमचंद died in 1936 and the work was first published in 1924. Source: hi.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "कर्बला",
+    "pages": [
+      {
+        "revision": 654076,
+        "title": "कर्बला"
+      },
+      {
+        "revision": 654078,
+        "title": "कर्बला/नाटक का कथानक"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:33:43.173231Z",
+    "revision": "654076",
+    "site": "hi.wikisource.org",
+    "url": "https://hi.wikisource.org/wiki/%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%B2%E0%A4%BE"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1880,
+      "deathYear": 1936,
+      "name": "प्रेमचंद",
+      "wikidata": "Q174152"
+    },
+    "originalLanguage": "hi",
+    "originalPublicationYear": 1924,
+    "originalTitle": "कर्बला",
+    "workId": "premchand-karbala"
+  }
+}

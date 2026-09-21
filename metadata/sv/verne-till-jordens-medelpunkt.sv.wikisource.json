@@ -1,0 +1,215 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:07:38.603660Z",
+    "chapterCount": 33,
+    "contentSha256": "a192605ca8e2ea6d4b327a24a7661ec8ba2b51f1097c8814993d5d942ed12c06",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/verne-till-jordens-medelpunkt.sv.wikisource/v1/book.json.gz",
+    "sha256": "dd1729eff8aff69dc30bb62381a20dd67507d01eb615bebb8a4543743ae35891",
+    "sizeBytes": 103101,
+    "uncompressedSizeBytes": 291267,
+    "wordCount": 41922
+  },
+  "edition": {
+    "editionId": "verne-till-jordens-medelpunkt.sv.wikisource",
+    "kind": "translation",
+    "language": "sv",
+    "title": "Till jordens medelpunkt",
+    "translationPublicationYear": 1911,
+    "translator": {
+      "birthYear": 1870,
+      "deathYear": 1947,
+      "name": "Hugo Hultenberg",
+      "wikidata": "Q5816517"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1905: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1947: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1911: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q219457",
+      "https://www.wikidata.org/wiki/Q123529297",
+      "https://www.wikidata.org/wiki/Q33977",
+      "https://www.wikidata.org/wiki/Q5816517",
+      "https://sv.wikisource.org/wiki/Till_jordens_medelpunkt"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jules Verne died in 1905; the translator Hugo Hultenberg died in 1947 and this translation was first published in 1911. Source: sv.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Till jordens medelpunkt",
+    "pages": [
+      {
+        "revision": 543950,
+        "title": "Till jordens medelpunkt"
+      },
+      {
+        "revision": 542162,
+        "title": "Till jordens medelpunkt/Kapitel 01"
+      },
+      {
+        "revision": 542152,
+        "title": "Till jordens medelpunkt/Kapitel 02"
+      },
+      {
+        "revision": 542161,
+        "title": "Till jordens medelpunkt/Kapitel 03"
+      },
+      {
+        "revision": 542355,
+        "title": "Till jordens medelpunkt/Kapitel 04"
+      },
+      {
+        "revision": 542452,
+        "title": "Till jordens medelpunkt/Kapitel 05"
+      },
+      {
+        "revision": 542599,
+        "title": "Till jordens medelpunkt/Kapitel 06"
+      },
+      {
+        "revision": 542611,
+        "title": "Till jordens medelpunkt/Kapitel 07"
+      },
+      {
+        "revision": 542780,
+        "title": "Till jordens medelpunkt/Kapitel 08"
+      },
+      {
+        "revision": 542789,
+        "title": "Till jordens medelpunkt/Kapitel 09"
+      },
+      {
+        "revision": 542830,
+        "title": "Till jordens medelpunkt/Kapitel 10"
+      },
+      {
+        "revision": 543076,
+        "title": "Till jordens medelpunkt/Kapitel 11"
+      },
+      {
+        "revision": 543155,
+        "title": "Till jordens medelpunkt/Kapitel 12"
+      },
+      {
+        "revision": 543159,
+        "title": "Till jordens medelpunkt/Kapitel 13"
+      },
+      {
+        "revision": 543171,
+        "title": "Till jordens medelpunkt/Kapitel 14"
+      },
+      {
+        "revision": 543348,
+        "title": "Till jordens medelpunkt/Kapitel 15"
+      },
+      {
+        "revision": 543362,
+        "title": "Till jordens medelpunkt/Kapitel 16"
+      },
+      {
+        "revision": 543508,
+        "title": "Till jordens medelpunkt/Kapitel 17"
+      },
+      {
+        "revision": 543547,
+        "title": "Till jordens medelpunkt/Kapitel 18"
+      },
+      {
+        "revision": 543584,
+        "title": "Till jordens medelpunkt/Kapitel 19"
+      },
+      {
+        "revision": 543676,
+        "title": "Till jordens medelpunkt/Kapitel 20"
+      },
+      {
+        "revision": 543710,
+        "title": "Till jordens medelpunkt/Kapitel 21"
+      },
+      {
+        "revision": 543714,
+        "title": "Till jordens medelpunkt/Kapitel 22"
+      },
+      {
+        "revision": 543747,
+        "title": "Till jordens medelpunkt/Kapitel 23"
+      },
+      {
+        "revision": 543752,
+        "title": "Till jordens medelpunkt/Kapitel 24"
+      },
+      {
+        "revision": 543803,
+        "title": "Till jordens medelpunkt/Kapitel 25"
+      },
+      {
+        "revision": 543809,
+        "title": "Till jordens medelpunkt/Kapitel 26"
+      },
+      {
+        "revision": 543848,
+        "title": "Till jordens medelpunkt/Kapitel 27"
+      },
+      {
+        "revision": 543852,
+        "title": "Till jordens medelpunkt/Kapitel 28"
+      },
+      {
+        "revision": 543893,
+        "title": "Till jordens medelpunkt/Kapitel 29"
+      },
+      {
+        "revision": 543904,
+        "title": "Till jordens medelpunkt/Kapitel 30"
+      },
+      {
+        "revision": 543930,
+        "title": "Till jordens medelpunkt/Kapitel 31"
+      },
+      {
+        "revision": 543934,
+        "title": "Till jordens medelpunkt/Kapitel 32"
+      },
+      {
+        "revision": 543944,
+        "title": "Till jordens medelpunkt/Förlagsreklam"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:11:17.730743Z",
+    "revision": "543950",
+    "site": "sv.wikisource.org",
+    "url": "https://sv.wikisource.org/wiki/Till_jordens_medelpunkt"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1828,
+      "deathYear": 1905,
+      "name": "Jules Verne",
+      "wikidata": "Q33977"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1864,
+    "originalTitle": "Till jordens medelpunkt",
+    "workId": "verne-till-jordens-medelpunkt"
+  }
+}

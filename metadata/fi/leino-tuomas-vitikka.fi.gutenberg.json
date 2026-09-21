@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:26:15.363903Z",
+    "chapterCount": 2,
+    "contentSha256": "913131864351f00e1bf3589c6aab3cd9d2f7420524bcab6ff7100c0f6a5d15fc",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/leino-tuomas-vitikka.fi.gutenberg/v1/book.json.gz",
+    "sha256": "e73e542e646dd66314325b3ec4fd54f7106a0870c84f5847a7a3946e57bc7301",
+    "sizeBytes": 111567,
+    "uncompressedSizeBytes": 306884,
+    "wordCount": 33989
+  },
+  "edition": {
+    "editionId": "leino-tuomas-vitikka.fi.gutenberg",
+    "editionPublicationYear": 1906,
+    "kind": "original",
+    "language": "fi",
+    "title": "Tuomas Vitikka : $b Romaani"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1926: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1906 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/78667",
+      "https://en.wikipedia.org/wiki/Eino_Leino",
+      "https://fi.wikipedia.org/wiki/Eino_Leino"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Eino Leino died in 1926 and the edition digitised by Project Gutenberg was printed in 1906. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "78667",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:04:48.041936Z",
+    "revision": "Mon, 31 Aug 2026 10:43:15 GMT",
+    "url": "https://www.gutenberg.org/ebooks/78667"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1878,
+      "deathYear": 1926,
+      "name": "Eino Leino",
+      "wikidata": "Q360079"
+    },
+    "originalLanguage": "fi",
+    "originalTitle": "Tuomas Vitikka : $b Romaani",
+    "workId": "leino-tuomas-vitikka"
+  }
+}

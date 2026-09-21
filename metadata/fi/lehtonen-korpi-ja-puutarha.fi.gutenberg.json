@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:40.607658Z",
+    "chapterCount": 14,
+    "contentSha256": "bb35e2514ecf50d2904854c744269b22043b9b16aaf8a0b8778aeddb6c067593",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/lehtonen-korpi-ja-puutarha.fi.gutenberg/v1/book.json.gz",
+    "sha256": "a84d25cefa9152748dd4049ed997408e2571f92c62d1e60ce38fe8b64ddeb9bb",
+    "sizeBytes": 88214,
+    "uncompressedSizeBytes": 228167,
+    "wordCount": 26848
+  },
+  "edition": {
+    "editionId": "lehtonen-korpi-ja-puutarha.fi.gutenberg",
+    "editionPublicationYear": 1923,
+    "kind": "original",
+    "language": "fi",
+    "title": "Korpi ja puutarha"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1934: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1923 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/79287",
+      "https://en.wikipedia.org/wiki/Joel_Lehtonen"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Joel Lehtonen died in 1934 and the edition digitised by Project Gutenberg was printed in 1923. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "79287",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:04:35.130136Z",
+    "revision": "Mon, 31 Aug 2026 13:03:28 GMT",
+    "url": "https://www.gutenberg.org/ebooks/79287"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1881,
+      "deathYear": 1934,
+      "name": "Joel Lehtonen",
+      "wikidata": "Q560921"
+    },
+    "originalLanguage": "fi",
+    "originalTitle": "Korpi ja puutarha",
+    "workId": "lehtonen-korpi-ja-puutarha"
+  }
+}

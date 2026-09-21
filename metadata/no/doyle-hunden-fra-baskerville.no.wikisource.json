@@ -1,0 +1,143 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:31:48.467356Z",
+    "chapterCount": 15,
+    "contentSha256": "e9349e64924afc0965bcf75debc4e6e7d8c9c800edfba1b53e88364b7ffc5ea6",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/doyle-hunden-fra-baskerville.no.wikisource/v1/book.json.gz",
+    "sha256": "c0c8e45600af18d5cc752b4a791f590d5d0425dae97bb2bd41d842e9fd610943",
+    "sizeBytes": 122444,
+    "uncompressedSizeBytes": 355173,
+    "wordCount": 57441
+  },
+  "edition": {
+    "editionId": "doyle-hunden-fra-baskerville.no.wikisource",
+    "kind": "translation",
+    "language": "no",
+    "title": "Hunden fra Baskerville",
+    "translationPublicationYear": 1911,
+    "translator": {
+      "birthYear": 1855,
+      "deathYear": 1915,
+      "name": "Elisabeth Brochmann",
+      "wikidata": "Q71406581"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1915: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1911: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q45192",
+      "https://www.wikidata.org/wiki/Q65527222",
+      "https://www.wikidata.org/wiki/Q35610",
+      "https://www.wikidata.org/wiki/Q71406581",
+      "https://no.wikisource.org/wiki/Hunden_fra_Baskerville"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Arthur Conan Doyle died in 1930; the translator Elisabeth Brochmann died in 1915 and this translation was first published in 1911. Source: no.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Hunden fra Baskerville",
+    "pages": [
+      {
+        "revision": 319955,
+        "title": "Hunden fra Baskerville"
+      },
+      {
+        "revision": 273901,
+        "title": "Hunden fra Baskerville/01"
+      },
+      {
+        "revision": 288286,
+        "title": "Hunden fra Baskerville/02"
+      },
+      {
+        "revision": 273905,
+        "title": "Hunden fra Baskerville/03"
+      },
+      {
+        "revision": 288287,
+        "title": "Hunden fra Baskerville/04"
+      },
+      {
+        "revision": 288288,
+        "title": "Hunden fra Baskerville/05"
+      },
+      {
+        "revision": 288289,
+        "title": "Hunden fra Baskerville/06"
+      },
+      {
+        "revision": 273913,
+        "title": "Hunden fra Baskerville/07"
+      },
+      {
+        "revision": 288290,
+        "title": "Hunden fra Baskerville/08"
+      },
+      {
+        "revision": 288292,
+        "title": "Hunden fra Baskerville/09"
+      },
+      {
+        "revision": 274147,
+        "title": "Hunden fra Baskerville/10"
+      },
+      {
+        "revision": 274157,
+        "title": "Hunden fra Baskerville/11"
+      },
+      {
+        "revision": 288293,
+        "title": "Hunden fra Baskerville/12"
+      },
+      {
+        "revision": 288294,
+        "title": "Hunden fra Baskerville/13"
+      },
+      {
+        "revision": 288295,
+        "title": "Hunden fra Baskerville/14"
+      },
+      {
+        "revision": 288296,
+        "title": "Hunden fra Baskerville/15"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:15:08.012179Z",
+    "revision": "319955",
+    "site": "no.wikisource.org",
+    "url": "https://no.wikisource.org/wiki/Hunden_fra_Baskerville"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1859,
+      "deathYear": 1930,
+      "name": "Arthur Conan Doyle",
+      "wikidata": "Q35610"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1902,
+    "originalTitle": "Hunden fra Baskerville : en ny fortælling om Sherlock Holmes",
+    "workId": "doyle-hunden-fra-baskerville"
+  }
+}

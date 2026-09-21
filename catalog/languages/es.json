@@ -1,0 +1,831 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 36,
+        "contentSha256": "c0d80a762f0d386ff62b199b7bf78c52273dacd5d6e6a5ebfea87801dc5df4f3",
+        "encoding": "gzip",
+        "path": "books/es/alas-la-regenta.es.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e8a4b7fdb57d4d6c9452a56e8c31d64b0c5204e52e28493e51d1b1537e0bfc06",
+        "sizeBytes": 704888,
+        "uncompressedSizeBytes": 1898768,
+        "wordCount": 306414
+      },
+      "author": "Leopoldo Alas",
+      "authorDeathYear": 1901,
+      "editionId": "alas-la-regenta.es.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "es",
+      "originalLanguage": "es",
+      "originalPublicationYear": 1884,
+      "originalTitle": "La Regenta",
+      "rights": {
+        "statement": "Public domain worldwide. Leopoldo Alas died in 1901 and the work was first published in 1884. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "17073",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:41:54.034855Z",
+        "revision": "Mon, 07 Sep 2026 15:43:01 GMT",
+        "url": "https://www.gutenberg.org/ebooks/17073"
+      },
+      "title": "La Regenta",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "alas-la-regenta"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 8,
+        "contentSha256": "09e83ac70ab43239b980f4fb6cb648938e5f6ab62807e9e19b0099a178f9b788",
+        "encoding": "gzip",
+        "path": "books/es/aristoteles-el-arte-poetica-de-aristoteles-en-castellano.es.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7a083e89b93b3d10ed875c5fe0931671a0d96d238931a5da1904a32721cb1783",
+        "sizeBytes": 34560,
+        "uncompressedSizeBytes": 93278,
+        "wordCount": 15582
+      },
+      "author": "Aristóteles",
+      "authorDeathYear": -321,
+      "editionId": "aristoteles-el-arte-poetica-de-aristoteles-en-castellano.es.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "es",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "El arte poética de Aristóteles en castellano",
+      "rights": {
+        "statement": "Public domain worldwide. Aristóteles died in -321; the translator José Goya y Muniain died in 1807 and this translation was first published in 1798. Source: es.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Poética (traducción de José Goya y Muniain)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:42:10.911008Z",
+        "revision": "1316021",
+        "url": "https://es.wikisource.org/wiki/Po%C3%A9tica_(traducci%C3%B3n_de_Jos%C3%A9_Goya_y_Muniain)"
+      },
+      "title": "El arte poética de Aristóteles en castellano",
+      "translationPublicationYear": 1798,
+      "translator": "José Goya y Muniain",
+      "translatorDeathYear": 1807,
+      "workId": "aristoteles-el-arte-poetica-de-aristoteles-en-castellano"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 61,
+        "contentSha256": "d75b8263d512546aad41942d05d7058959308e4cd9199160f9ad0dfab4a240ce",
+        "encoding": "gzip",
+        "path": "books/es/austen-orgullo-y-prejuicio.es.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8040eddc4ab2f473ad673590019ff219dae21ecc017c901b9fad8d8e0d020e58",
+        "sizeBytes": 253229,
+        "uncompressedSizeBytes": 733487,
+        "wordCount": 117316
+      },
+      "author": "Jane Austen",
+      "authorDeathYear": 1817,
+      "editionId": "austen-orgullo-y-prejuicio.es.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "es",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1813,
+      "originalTitle": "Orgullo y prejuicio",
+      "rights": {
+        "statement": "Public domain worldwide. Jane Austen died in 1817; the translator José Jordán de Urriés Azara died in 1932 and this translation was first published in 1924. Source: es.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Orgullo y prejuicio",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:43:34.873618Z",
+        "revision": "1422492",
+        "url": "https://es.wikisource.org/wiki/Orgullo_y_prejuicio"
+      },
+      "title": "Orgullo y prejuicio",
+      "translationPublicationYear": 1924,
+      "translator": "José Jordán de Urriés Azara",
+      "translatorDeathYear": 1932,
+      "workId": "austen-orgullo-y-prejuicio"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 137,
+        "contentSha256": "4388bcfdd01e7ff1964971786e39bc3af4612794a1bf82020747bdf0d49b336e",
+        "encoding": "gzip",
+        "path": "books/es/cervantes-saavedra-don-quijote.es.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a69bb6f67dda6b658c1e07f8a03cf4f957bee591aa7ca73c4b583e24a607a972",
+        "sizeBytes": 778430,
+        "uncompressedSizeBytes": 2218243,
+        "wordCount": 381731
+      },
+      "author": "Miguel de Cervantes Saavedra",
+      "authorDeathYear": 1616,
+      "editionId": "cervantes-saavedra-don-quijote.es.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "es",
+      "originalLanguage": "es",
+      "originalPublicationYear": 1605,
+      "originalTitle": "Don Quijote",
+      "rights": {
+        "statement": "Public domain worldwide. Miguel de Cervantes Saavedra died in 1616 and the work was first published in 1605. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "2000",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:43:50.578821Z",
+        "revision": "Tue, 01 Sep 2026 15:37:56 GMT",
+        "url": "https://www.gutenberg.org/ebooks/2000"
+      },
+      "title": "Don Quijote",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "cervantes-saavedra-don-quijote"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 51,
+        "contentSha256": "3d176373ce43aaf15a670143447bdc240ca79e4f56e7a93722411ec019bca756",
+        "encoding": "gzip",
+        "path": "books/es/darwin-origen-de-las-especies-por-medio-de.es.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9b17d5a75b2e239a5edd084bafdbea47c502ff7b195bbcf1d20723074bace8c1",
+        "sizeBytes": 418040,
+        "uncompressedSizeBytes": 1326255,
+        "wordCount": 209698
+      },
+      "author": "Charles Darwin",
+      "authorDeathYear": 1882,
+      "editionId": "darwin-origen-de-las-especies-por-medio-de.es.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "es",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1859,
+      "originalTitle": "Origen de las especies por medio de la selección natural",
+      "rights": {
+        "statement": "Public domain worldwide. Charles Darwin died in 1882; the translator Enrique Godínez y Esteban died in 1894 and this translation was first published in 1877. Source: es.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Origen de las especies por medio de la selección natural",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:44:41.764856Z",
+        "revision": "1668965",
+        "url": "https://es.wikisource.org/wiki/Origen_de_las_especies_por_medio_de_la_selecci%C3%B3n_natural"
+      },
+      "title": "Origen de las especies por medio de la selección natural",
+      "translationPublicationYear": 1877,
+      "translator": "Enrique Godínez y Esteban",
+      "translatorDeathYear": 1894,
+      "workId": "darwin-origen-de-las-especies-por-medio-de"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "9e5f85e2d6e73c9b2c680207af8382929fb2a12d54ae426e27b801cc77b5d330",
+        "encoding": "gzip",
+        "path": "books/es/dickens-david-copperfield-o-el-sobrino-de-mi.es.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7ba110af5ca4c3cd32eacec2f91c27974be9c4889d46c91e49c483be5ad989ad",
+        "sizeBytes": 142054,
+        "uncompressedSizeBytes": 398113,
+        "wordCount": 65272
+      },
+      "author": "Charles Dickens",
+      "authorDeathYear": 1870,
+      "editionId": "dickens-david-copperfield-o-el-sobrino-de-mi.es.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "es",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1850,
+      "originalTitle": "David Copperfield o El sobrino de mi tía",
+      "rights": {
+        "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Mariano Urrabieta died in 1895 and this translation was first published in 1871. Source: es.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "David Copperfield (1871)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:45:03.259137Z",
+        "revision": "1209450",
+        "url": "https://es.wikisource.org/wiki/David_Copperfield_(1871)"
+      },
+      "title": "David Copperfield o El sobrino de mi tía",
+      "translationPublicationYear": 1871,
+      "translator": "Mariano Urrabieta",
+      "translatorDeathYear": 1895,
+      "workId": "dickens-david-copperfield-o-el-sobrino-de-mi"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 28,
+        "contentSha256": "7363bca5620ebce7c67da665283a34284c82e96dd3b217a9da186dc929ede568",
+        "encoding": "gzip",
+        "path": "books/es/doyle-el-sabueso-de-los-baskerville.es.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7160734b004d8b1006ea0bdb218179ee4f71cc5101c1cee9982bbd277855315e",
+        "sizeBytes": 144002,
+        "uncompressedSizeBytes": 403426,
+        "wordCount": 63371
+      },
+      "author": "Arthur Conan Doyle",
+      "authorDeathYear": 1930,
+      "editionId": "doyle-el-sabueso-de-los-baskerville.es.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "es",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1902,
+      "originalTitle": "El sabueso de los Baskerville",
+      "rights": {
+        "statement": "Public domain worldwide. Arthur Conan Doyle died in 1930; the translator Arturo Costa Álvarez died in 1929 and this translation was first published in 1909. Source: es.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "El sabueso de los Baskerville (Costa Álvarez tr.)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:45:29.541099Z",
+        "revision": "1336041",
+        "url": "https://es.wikisource.org/wiki/El_sabueso_de_los_Baskerville_(Costa_%C3%81lvarez_tr.)"
+      },
+      "title": "El sabueso de los Baskerville",
+      "translationPublicationYear": 1909,
+      "translator": "Arturo Costa Álvarez",
+      "translatorDeathYear": 1929,
+      "workId": "doyle-el-sabueso-de-los-baskerville"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 53,
+        "contentSha256": "6804a6d427724b18795a85ff1f8335458c14b4d298f55f7deb0293b8ff0b032f",
+        "encoding": "gzip",
+        "path": "books/es/ingenieros-el-hombre-mediocre.es.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b7681027f50386c972639f1fb64b04ac2252e3c71cb621d83c6539e9b60eaa30",
+        "sizeBytes": 183980,
+        "uncompressedSizeBytes": 490438,
+        "wordCount": 74458
+      },
+      "author": "José Ingenieros",
+      "authorDeathYear": 1925,
+      "editionId": "ingenieros-el-hombre-mediocre.es.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Philosophy",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "es",
+      "originalLanguage": "es",
+      "originalPublicationYear": 1913,
+      "originalTitle": "El Hombre Mediocre: Ensayo de psicologia y moral",
+      "rights": {
+        "statement": "Public domain worldwide. José Ingenieros died in 1925 and the work was first published in 1913. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "64974",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:45:41.050192Z",
+        "revision": "Tue, 25 Aug 2026 17:33:23 GMT",
+        "url": "https://www.gutenberg.org/ebooks/64974"
+      },
+      "title": "El Hombre Mediocre: Ensayo de psicologia y moral",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "ingenieros-el-hombre-mediocre"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 201,
+        "contentSha256": "437f3203e53977f1581af16ba7393228487ad0fc6e2adbc74675970636a9bc96",
+        "encoding": "gzip",
+        "path": "books/es/perez-galdos-fortunata-y-jacinta.es.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5df8164c16ef05b654823a9b00c3776f1993dfda9d03980cef3de45654a0c992",
+        "sizeBytes": 899579,
+        "uncompressedSizeBytes": 2378017,
+        "wordCount": 392631
+      },
+      "author": "Benito Pérez Galdós",
+      "authorDeathYear": 1920,
+      "editionId": "perez-galdos-fortunata-y-jacinta.es.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "es",
+      "originalLanguage": "es",
+      "originalPublicationYear": 1887,
+      "originalTitle": "Fortunata y Jacinta: dos historias de casadas",
+      "rights": {
+        "statement": "Public domain worldwide. Benito Pérez Galdós died in 1920 and the work was first published in 1887. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "17013",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:45:53.869757Z",
+        "revision": "Mon, 07 Sep 2026 15:30:29 GMT",
+        "url": "https://www.gutenberg.org/ebooks/17013"
+      },
+      "title": "Fortunata y Jacinta: dos historias de casadas",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "perez-galdos-fortunata-y-jacinta"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "d0584f7ae0cd49a51c8b0c4fbc42ea10509ada933301d56bc03b0f445f65d8b9",
+        "encoding": "gzip",
+        "path": "books/es/platon-apologia-de-socrates.es.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "098564300e0b4a4201a9c31f8eacb46c4fdc3528fe0d693a374ab23f720a2b4e",
+        "sizeBytes": 28082,
+        "uncompressedSizeBytes": 78032,
+        "wordCount": 13055
+      },
+      "author": "Platón",
+      "authorDeathYear": -348,
+      "editionId": "platon-apologia-de-socrates.es.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "es",
+      "originalLanguage": "grc",
+      "originalPublicationYear": -395,
+      "originalTitle": "Apología de Sócrates",
+      "rights": {
+        "statement": "Public domain worldwide. Platón died in -348; the translator Patricio de Azcárate Corral died in 1886 and this translation was first published in 1871. Source: es.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Apología de Sócrates (de Azcárate tr.)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:46:05.108243Z",
+        "revision": "1275524",
+        "url": "https://es.wikisource.org/wiki/Apolog%C3%ADa_de_S%C3%B3crates_(de_Azc%C3%A1rate_tr.)"
+      },
+      "title": "Apología de Sócrates",
+      "translationPublicationYear": 1871,
+      "translator": "Patricio de Azcárate Corral",
+      "translatorDeathYear": 1886,
+      "workId": "platon-apologia-de-socrates"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 21,
+        "contentSha256": "ed226ba9e14b96f86c2128bda1ac56a3787ded304fb3828c6d10e70e3290fd82",
+        "encoding": "gzip",
+        "path": "books/es/quiroga-cuentos-de-amor-de-locura-y-de.es.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5f6122d68ec49722d2f41217cd7f2aec4fae5c47b8d121f3d02741676dac1fed",
+        "sizeBytes": 117467,
+        "uncompressedSizeBytes": 321526,
+        "wordCount": 49313
+      },
+      "author": "Horacio Quiroga",
+      "authorDeathYear": 1937,
+      "editionId": "quiroga-cuentos-de-amor-de-locura-y-de.es.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "es",
+      "originalLanguage": "es",
+      "originalPublicationYear": 1917,
+      "originalTitle": "Cuentos de Amor de Locura y de Muerte",
+      "rights": {
+        "statement": "Public domain worldwide. Horacio Quiroga died in 1937 and the work was first published in 1917. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "13507",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:46:09.403716Z",
+        "revision": "Sun, 06 Sep 2026 09:32:57 GMT",
+        "url": "https://www.gutenberg.org/ebooks/13507"
+      },
+      "title": "Cuentos de Amor de Locura y de Muerte",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "quiroga-cuentos-de-amor-de-locura-y-de"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 42,
+        "contentSha256": "6aab543113713935a2f5a3e2b9713db0af374b592bbf0aa687daaf95f2ba24bc",
+        "encoding": "gzip",
+        "path": "books/es/rizal-el-filibusterismo-continuacion-del-noli-me-tangere.es.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1704d18b8d6ad601309820209301f1fbae72b12e25142fd863459c2ea0c1c616",
+        "sizeBytes": 248299,
+        "uncompressedSizeBytes": 681354,
+        "wordCount": 107373
+      },
+      "author": "José Rizal",
+      "authorDeathYear": 1896,
+      "editionId": "rizal-el-filibusterismo-continuacion-del-noli-me-tangere.es.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "es",
+      "originalLanguage": "es",
+      "originalPublicationYear": 1891,
+      "originalTitle": "El Filibusterismo (Continuación del Noli me tángere)",
+      "rights": {
+        "statement": "Public domain worldwide. José Rizal died in 1896 and the work was first published in 1891. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "30903",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:46:13.167217Z",
+        "revision": "Sun, 13 Sep 2026 00:16:44 GMT",
+        "url": "https://www.gutenberg.org/ebooks/30903"
+      },
+      "title": "El Filibusterismo (Continuación del Noli me tángere)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "rizal-el-filibusterismo-continuacion-del-noli-me-tangere"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 69,
+        "contentSha256": "bfdb7edec299c10a96fede2bc4181ce0ef8207b1b4ddeb15437f6493c0a30f42",
+        "encoding": "gzip",
+        "path": "books/es/rizal-noli-me-tangere-novela-tagala-edicion-completa.es.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0a7afd602c4d9002da00c38a8e7ece50d9548738ef51049633a8994432928f6b",
+        "sizeBytes": 330877,
+        "uncompressedSizeBytes": 898188,
+        "wordCount": 137627
+      },
+      "author": "José Rizal",
+      "authorDeathYear": 1896,
+      "editionId": "rizal-noli-me-tangere-novela-tagala-edicion-completa.es.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "es",
+      "originalLanguage": "es",
+      "originalPublicationYear": 1887,
+      "originalTitle": "Noli me tángere Novela Tagala, Edición completa con notas de R. Sempau",
+      "rights": {
+        "statement": "Public domain worldwide. José Rizal died in 1896 and the work was first published in 1887. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "47584",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:46:18.168590Z",
+        "revision": "Sat, 19 Sep 2026 11:17:57 GMT",
+        "url": "https://www.gutenberg.org/ebooks/47584"
+      },
+      "title": "Noli me tángere Novela Tagala, Edición completa con notas de R. Sempau",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "rizal-noli-me-tangere-novela-tagala-edicion-completa"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 10,
+        "contentSha256": "8df7fb3d715d0d23b335118fe49696d59aa9a93aaeedd1fb5b8487bd139580da",
+        "encoding": "gzip",
+        "path": "books/es/stevenson-el-caso-extrano-del-doctor-jekyll.es.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5a868ca6c6ce2ba6125bd1be2713b6bffcf9cc877ee72a97dddc2e73aff4aa2e",
+        "sizeBytes": 59956,
+        "uncompressedSizeBytes": 165061,
+        "wordCount": 25634
+      },
+      "author": "Robert Louis Stevenson",
+      "authorDeathYear": 1894,
+      "editionId": "stevenson-el-caso-extrano-del-doctor-jekyll.es.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "es",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1886,
+      "originalTitle": "El caso extraño del doctor Jekyll",
+      "rights": {
+        "statement": "Public domain worldwide. Robert Louis Stevenson died in 1894; the translator Emilio Soulère died in 1915 and this translation was first published in 1891. Source: es.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "El caso extraño del doctor Jekyll",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:46:46.610528Z",
+        "revision": "1002757",
+        "url": "https://es.wikisource.org/wiki/El_caso_extra%C3%B1o_del_doctor_Jekyll"
+      },
+      "title": "El caso extraño del doctor Jekyll",
+      "translationPublicationYear": 1891,
+      "translator": "Emilio Soulère",
+      "translatorDeathYear": 1915,
+      "workId": "stevenson-el-caso-extrano-del-doctor-jekyll"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 35,
+        "contentSha256": "a358c12e5ad089e6078379d355c1250769ed3f19f07c97d05e705bebc631ca16",
+        "encoding": "gzip",
+        "path": "books/es/stevenson-la-isla-del-tesoro-manuel-caballero.es.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d3e97460a7ad5fcf5ac29dc370f6902f14a407c01276a441a1463645e615162f",
+        "sizeBytes": 194316,
+        "uncompressedSizeBytes": 534993,
+        "wordCount": 87830
+      },
+      "author": "Robert Louis Stevenson",
+      "authorDeathYear": 1894,
+      "editionId": "stevenson-la-isla-del-tesoro-manuel-caballero.es.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "es",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1883,
+      "originalTitle": "La isla del tesoro (Manuel Caballero)",
+      "rights": {
+        "statement": "Public domain worldwide. Robert Louis Stevenson died in 1894; the translator Manuel Caballero died in 1926 and this translation was first published in 1901. Source: es.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "La isla del tesoro (Manuel Caballero)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:47:34.415306Z",
+        "revision": "1344882",
+        "url": "https://es.wikisource.org/wiki/La_isla_del_tesoro_(Manuel_Caballero)"
+      },
+      "title": "La isla del tesoro (Manuel Caballero)",
+      "translationPublicationYear": 1901,
+      "translator": "Manuel Caballero",
+      "translatorDeathYear": 1926,
+      "workId": "stevenson-la-isla-del-tesoro-manuel-caballero"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 48,
+        "contentSha256": "c818ef54ab9e74b3b12be7c268c2ba7ded08f7aea50c55f34a0e9440032512d9",
+        "encoding": "gzip",
+        "path": "books/es/swift-viajes-de-gulliver.es.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "025a918ae9a70f5f08678476e421dc867528f1f4edd703f446cd5207ab4a149c",
+        "sizeBytes": 255036,
+        "uncompressedSizeBytes": 691856,
+        "wordCount": 112857
+      },
+      "author": "Jonathan Swift",
+      "authorDeathYear": 1745,
+      "editionId": "swift-viajes-de-gulliver.es.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "es",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1726,
+      "originalTitle": "Viajes de Gulliver",
+      "rights": {
+        "statement": "Public domain worldwide. Jonathan Swift died in 1745; the translator Ramón Máximo Spartal died in 1900 and this translation was first published in 1914. Source: es.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Viajes de Gulliver",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:48:43.049192Z",
+        "revision": "1328866",
+        "url": "https://es.wikisource.org/wiki/Viajes_de_Gulliver"
+      },
+      "title": "Viajes de Gulliver",
+      "translationPublicationYear": 1914,
+      "translator": "Ramón Máximo Spartal",
+      "translatorDeathYear": 1900,
+      "workId": "swift-viajes-de-gulliver"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 48,
+        "contentSha256": "042ab8bc7a23ee70b3457c4b0691c5bb164695de8c58161d57e509f9cb15c5e3",
+        "encoding": "gzip",
+        "path": "books/es/unamuno-andanzas-y-visiones-espanolas.es.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d1ab30df337d5896021c71bb3f536f52167e675e9e3db2d7ebc718fc1cc01942",
+        "sizeBytes": 174687,
+        "uncompressedSizeBytes": 459814,
+        "wordCount": 76760
+      },
+      "author": "Miguel de Unamuno",
+      "authorDeathYear": 1936,
+      "editionId": "unamuno-andanzas-y-visiones-espanolas.es.gutenberg",
+      "editionPublicationYear": 1922,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "es",
+      "originalLanguage": "es",
+      "originalPublicationYear": null,
+      "originalTitle": "Andanzas y visiones españolas",
+      "rights": {
+        "statement": "Public domain worldwide. Miguel de Unamuno died in 1936 and the edition digitised by Project Gutenberg was printed in 1922. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "78052",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:48:47.648731Z",
+        "revision": "Mon, 31 Aug 2026 07:55:08 GMT",
+        "url": "https://www.gutenberg.org/ebooks/78052"
+      },
+      "title": "Andanzas y visiones españolas",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "unamuno-andanzas-y-visiones-espanolas"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 38,
+        "contentSha256": "ef8514b44025583f054c87ec134136c6fc77bee118e418cb5e34e501e5fc5578",
+        "encoding": "gzip",
+        "path": "books/es/unamuno-niebla-nivola.es.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5cfa4b468b908c68fcc84491780ab12a4e799481aabe934aeeb7205e34514e21",
+        "sizeBytes": 125168,
+        "uncompressedSizeBytes": 358886,
+        "wordCount": 56779
+      },
+      "author": "Miguel de Unamuno",
+      "authorDeathYear": 1936,
+      "editionId": "unamuno-niebla-nivola.es.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "es",
+      "originalLanguage": "es",
+      "originalPublicationYear": 1914,
+      "originalTitle": "Niebla (Nivola)",
+      "rights": {
+        "statement": "Public domain worldwide. Miguel de Unamuno died in 1936 and the work was first published in 1914. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "49836",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:48:51.216803Z",
+        "revision": "Sun, 20 Sep 2026 09:17:07 GMT",
+        "url": "https://www.gutenberg.org/ebooks/49836"
+      },
+      "title": "Niebla (Nivola)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "unamuno-niebla-nivola"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 38,
+        "contentSha256": "8a99a3e8516a3735a03609bbce853ec7d9004a95fd98b80eecd2bc0d3e784e28",
+        "encoding": "gzip",
+        "path": "books/es/verne-la-vuelta-al-mundo-en-80-dias.es.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "fa98dd15bca39d010ef492828b854dced6fce285b826db306c8941fe3e815cef",
+        "sizeBytes": 149437,
+        "uncompressedSizeBytes": 430586,
+        "wordCount": 65190
+      },
+      "author": "Julio Verne",
+      "authorDeathYear": 1905,
+      "editionId": "verne-la-vuelta-al-mundo-en-80-dias.es.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "es",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1872,
+      "originalTitle": "La vuelta al mundo en 80 días",
+      "rights": {
+        "statement": "Public domain worldwide. Julio Verne died in 1905; the translator Vicente Guimerá died in 1902 and this translation was first published in 1885. Source: es.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "La vuelta al mundo en ochenta días",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:49:41.315160Z",
+        "revision": "1291170",
+        "url": "https://es.wikisource.org/wiki/La_vuelta_al_mundo_en_ochenta_d%C3%ADas"
+      },
+      "title": "La vuelta al mundo en 80 días",
+      "translationPublicationYear": 1885,
+      "translator": "Vicente Guimerá",
+      "translatorDeathYear": 1902,
+      "workId": "verne-la-vuelta-al-mundo-en-80-dias"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Spanish",
+  "language": "es",
+  "manifestVersion": "6a563aa7472c6ca7",
+  "nativeName": "Español",
+  "schemaVersion": 1
+}

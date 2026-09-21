@@ -1,0 +1,149 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:27:28.347758Z",
+    "chapterCount": 20,
+    "contentSha256": "715117f2bd1a8a645ef0ed9ad04ccc722fac0b77dac466ae15a0d8feb2f52c56",
+    "normalizerVersion": "0.2.0",
+    "path": "books/gu/kavi-pankhadio.gu.wikisource/v1/book.json.gz",
+    "sha256": "69032db5df1f34f56739bf2d8a8b03130b6fbd1c42bdef83a04849b6203244da",
+    "sizeBytes": 75947,
+    "uncompressedSizeBytes": 368019,
+    "wordCount": 22281
+  },
+  "edition": {
+    "editionId": "kavi-pankhadio.gu.wikisource",
+    "kind": "original",
+    "language": "gu",
+    "title": "પાંખડીઓ"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1930: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q18003054",
+      "https://www.wikidata.org/wiki/Q1088881",
+      "https://gu.wikisource.org/wiki/%E0%AA%AA%E0%AA%BE%E0%AA%82%E0%AA%96%E0%AA%A1%E0%AB%80%E0%AA%93"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ન્હાનાલાલ died in 1946 and the work was first published in 1930. Source: gu.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "પાંખડીઓ",
+    "pages": [
+      {
+        "revision": 191307,
+        "title": "પાંખડીઓ"
+      },
+      {
+        "revision": 192961,
+        "title": "પાંખડીઓ/અર્પણ"
+      },
+      {
+        "revision": 192962,
+        "title": "પાંખડીઓ/પ્રસ્તાવના"
+      },
+      {
+        "revision": 192963,
+        "title": "પાંખડીઓ/બોરસળીનો પંખો"
+      },
+      {
+        "revision": 192964,
+        "title": "પાંખડીઓ/સમર્પણ"
+      },
+      {
+        "revision": 192965,
+        "title": "પાંખડીઓ/ઇતિહાસના અક્ષરો"
+      },
+      {
+        "revision": 192966,
+        "title": "પાંખડીઓ/વીજળીની વેલ"
+      },
+      {
+        "revision": 192967,
+        "title": "પાંખડીઓ/એનું પ્હેલ્લું પુષ્પ"
+      },
+      {
+        "revision": 192968,
+        "title": "પાંખડીઓ/કુંવારો કે બ્રહ્મચારી?"
+      },
+      {
+        "revision": 192969,
+        "title": "પાંખડીઓ/વટેમાર્ગુ"
+      },
+      {
+        "revision": 192970,
+        "title": "પાંખડીઓ/વીણાના તાર"
+      },
+      {
+        "revision": 192971,
+        "title": "પાંખડીઓ/અંજનશલાકા: અથવા સતી કે સુન્દરી?"
+      },
+      {
+        "revision": 192972,
+        "title": "પાંખડીઓ/હું તો નિરાશ થઇ"
+      },
+      {
+        "revision": 192973,
+        "title": "પાંખડીઓ/બ્રહ્મચારી"
+      },
+      {
+        "revision": 192974,
+        "title": "પાંખડીઓ/સતીનાં ચિતાલગ્ન"
+      },
+      {
+        "revision": 192975,
+        "title": "પાંખડીઓ/ફૂલની ફોરમ"
+      },
+      {
+        "revision": 192976,
+        "title": "પાંખડીઓ/વ્રત વિહારીણી"
+      },
+      {
+        "revision": 192977,
+        "title": "પાંખડીઓ/સાગરની સારસી"
+      },
+      {
+        "revision": 192978,
+        "title": "પાંખડીઓ/સર્વમેઘ યજ્ઞ"
+      },
+      {
+        "revision": 192979,
+        "title": "પાંખડીઓ/પૂરવણી:ગુજરાતણ"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:22:00.793491Z",
+    "revision": "191307",
+    "site": "gu.wikisource.org",
+    "url": "https://gu.wikisource.org/wiki/%E0%AA%AA%E0%AA%BE%E0%AA%82%E0%AA%96%E0%AA%A1%E0%AB%80%E0%AA%93"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1877,
+      "deathYear": 1946,
+      "name": "ન્હાનાલાલ",
+      "wikidata": "Q1088881"
+    },
+    "originalLanguage": "gu",
+    "originalPublicationYear": 1930,
+    "originalTitle": "પાંખડીઓ",
+    "workId": "kavi-pankhadio"
+  }
+}

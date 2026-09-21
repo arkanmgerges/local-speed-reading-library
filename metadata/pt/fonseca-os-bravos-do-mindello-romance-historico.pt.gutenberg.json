@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:33:33.265234Z",
+    "chapterCount": 15,
+    "contentSha256": "6575d535e95a91c186aa39d61f999ffd7b88b2ae4acb2d86db6831278d493a43",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt/fonseca-os-bravos-do-mindello-romance-historico.pt.gutenberg/v1/book.json.gz",
+    "sha256": "c21b388c08d3d57f4f88bd380a640541689772dc8fd83489df8c035e58d8acaa",
+    "sizeBytes": 121098,
+    "uncompressedSizeBytes": 320467,
+    "wordCount": 48141
+  },
+  "edition": {
+    "editionId": "fonseca-os-bravos-do-mindello-romance-historico.pt.gutenberg",
+    "editionPublicationYear": 1906,
+    "kind": "original",
+    "language": "pt",
+    "title": "Os Bravos do Mindello Romance Historico"
+  },
+  "genres": [
+    "Fiction",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1918: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1906 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/21290",
+      "https://pt.wikipedia.org/wiki/Faustino_Fonseca"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Faustino da Fonseca died in 1918 and the edition digitised by Project Gutenberg was printed in 1906. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "21290",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:47:20.866596Z",
+    "revision": "Wed, 09 Sep 2026 09:18:24 GMT",
+    "url": "https://www.gutenberg.org/ebooks/21290"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1871,
+      "deathYear": 1918,
+      "name": "Faustino da Fonseca"
+    },
+    "originalLanguage": "pt",
+    "originalTitle": "Os Bravos do Mindello Romance Historico",
+    "workId": "fonseca-os-bravos-do-mindello-romance-historico"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:55:51.720752Z",
+    "chapterCount": 23,
+    "contentSha256": "5553e8d81cef133da349479c745e9232144ca308d014427e1d73c75cdb4a6c89",
+    "normalizerVersion": "0.2.0",
+    "path": "books/et/tammsaare-korboja-peremees.et.wikisource/v1/book.json.gz",
+    "sha256": "84a86640bb45ca4868300f8b212515d2a2e88aad849a89c75ef1f299af2e2332",
+    "sizeBytes": 101867,
+    "uncompressedSizeBytes": 294474,
+    "wordCount": 41820
+  },
+  "edition": {
+    "editionId": "tammsaare-korboja-peremees.et.wikisource",
+    "kind": "original",
+    "language": "et",
+    "title": "Kõrboja peremees"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1940: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1922: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q6453790",
+      "https://www.wikidata.org/wiki/Q353637",
+      "https://et.wikisource.org/wiki/K%C3%B5rboja_peremees"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. A. H. Tammsaare died in 1940 and the work was first published in 1922. Source: et.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Kõrboja peremees",
+    "pages": [
+      {
+        "revision": 38163,
+        "title": "Kõrboja peremees"
+      },
+      {
+        "revision": 39467,
+        "title": "Kõrboja peremees/1"
+      },
+      {
+        "revision": 12032,
+        "title": "Kõrboja peremees/2"
+      },
+      {
+        "revision": 12033,
+        "title": "Kõrboja peremees/3"
+      },
+      {
+        "revision": 12034,
+        "title": "Kõrboja peremees/4"
+      },
+      {
+        "revision": 12035,
+        "title": "Kõrboja peremees/5"
+      },
+      {
+        "revision": 12036,
+        "title": "Kõrboja peremees/6"
+      },
+      {
+        "revision": 12037,
+        "title": "Kõrboja peremees/7"
+      },
+      {
+        "revision": 12038,
+        "title": "Kõrboja peremees/8"
+      },
+      {
+        "revision": 12039,
+        "title": "Kõrboja peremees/9"
+      },
+      {
+        "revision": 12040,
+        "title": "Kõrboja peremees/10"
+      },
+      {
+        "revision": 12041,
+        "title": "Kõrboja peremees/11"
+      },
+      {
+        "revision": 12042,
+        "title": "Kõrboja peremees/12"
+      },
+      {
+        "revision": 12043,
+        "title": "Kõrboja peremees/13"
+      },
+      {
+        "revision": 12044,
+        "title": "Kõrboja peremees/14"
+      },
+      {
+        "revision": 12045,
+        "title": "Kõrboja peremees/15"
+      },
+      {
+        "revision": 12046,
+        "title": "Kõrboja peremees/16"
+      },
+      {
+        "revision": 12047,
+        "title": "Kõrboja peremees/17"
+      },
+      {
+        "revision": 12048,
+        "title": "Kõrboja peremees/18"
+      },
+      {
+        "revision": 12049,
+        "title": "Kõrboja peremees/19"
+      },
+      {
+        "revision": 12050,
+        "title": "Kõrboja peremees/20"
+      },
+      {
+        "revision": 12051,
+        "title": "Kõrboja peremees/21"
+      },
+      {
+        "revision": 12052,
+        "title": "Kõrboja peremees/22"
+      },
+      {
+        "revision": 12053,
+        "title": "Kõrboja peremees/23"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:52:54.185552Z",
+    "revision": "38163",
+    "site": "et.wikisource.org",
+    "url": "https://et.wikisource.org/wiki/K%C3%B5rboja_peremees"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1878,
+      "deathYear": 1940,
+      "name": "A. H. Tammsaare",
+      "wikidata": "Q353637"
+    },
+    "originalLanguage": "et",
+    "originalPublicationYear": 1922,
+    "originalTitle": "Kõrboja peremees",
+    "workId": "tammsaare-korboja-peremees"
+  }
+}

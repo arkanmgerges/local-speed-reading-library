@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:02.891908Z",
+    "chapterCount": 32,
+    "contentSha256": "1882b12da1ab3b9d94cae2c00c424086d67033a44284bb7e6ccf2dadba4e3adc",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/jurcic-med-dvema-stoloma.sl.wikisource/v1/book.json.gz",
+    "sha256": "b98f3f448f12ff39d05d34f8873f7e42553bf95379314e45b7946f020c818c86",
+    "sizeBytes": 52722,
+    "uncompressedSizeBytes": 135956,
+    "wordCount": 21634
+  },
+  "edition": {
+    "editionId": "jurcic-med-dvema-stoloma.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Med dvema stoloma"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1881: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1876: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q6804957",
+      "https://www.wikidata.org/wiki/Q3491574",
+      "https://sl.wikisource.org/wiki/Med_dvema_stoloma"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Josip Jurčič died in 1881 and the work was first published in 1876. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Med dvema stoloma",
+    "pages": [
+      {
+        "revision": 170623,
+        "title": "Med dvema stoloma"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:55:55.523008Z",
+    "revision": "170623",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Med_dvema_stoloma"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1844,
+      "deathYear": 1881,
+      "name": "Josip Jurčič",
+      "wikidata": "Q3491574"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1876,
+    "originalTitle": "Med dvema stoloma",
+    "workId": "jurcic-med-dvema-stoloma"
+  }
+}

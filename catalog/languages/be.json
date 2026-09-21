@@ -1,0 +1,139 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "d79204079beaa5fee9195111609c7f193d557eaa8b2fb564fa2647adc91ba7dc",
+        "encoding": "gzip",
+        "path": "books/be/dunin-marcinkiewicz-sielanka.be.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "57882d8c298c7ebe4438a5c70bebb8acc9baec60740726126924bca1b1fb91c8",
+        "sizeBytes": 37113,
+        "uncompressedSizeBytes": 125973,
+        "wordCount": 11206
+      },
+      "author": "Вінцэнт Дунін-Марцінкевіч",
+      "authorDeathYear": 1884,
+      "editionId": "dunin-marcinkiewicz-sielanka.be.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "be",
+      "originalLanguage": "be",
+      "originalPublicationYear": 1846,
+      "originalTitle": "Сялянка",
+      "rights": {
+        "statement": "Public domain worldwide. Вінцэнт Дунін-Марцінкевіч died in 1884 and the work was first published in 1846. Source: be.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Ідылія (Дунін-Марцінкевіч)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:56:59.442975Z",
+        "revision": "158956",
+        "url": "https://be.wikisource.org/wiki/%D0%86%D0%B4%D1%8B%D0%BB%D1%96%D1%8F_(%D0%94%D1%83%D0%BD%D1%96%D0%BD-%D0%9C%D0%B0%D1%80%D1%86%D1%96%D0%BD%D0%BA%D0%B5%D0%B2%D1%96%D1%87)"
+      },
+      "title": "Сялянка",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "dunin-marcinkiewicz-sielanka"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 7,
+        "contentSha256": "28cc4c4b46b1d3299f9d531c4603f33a280c592941eea2bc429bf47c4cac5231",
+        "encoding": "gzip",
+        "path": "books/be/gogol-q1250822.be.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "076a68a51bddb0c90e006980fb45edad149f72628ca14025e1a462c8e47a86ee",
+        "sizeBytes": 120385,
+        "uncompressedSizeBytes": 430731,
+        "wordCount": 37657
+      },
+      "author": "Nikolai Gogol",
+      "authorDeathYear": 1852,
+      "editionId": "gogol-q1250822.be.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "be",
+      "originalLanguage": "ru",
+      "originalPublicationYear": 1835,
+      "originalTitle": "Тарас Бульба",
+      "rights": {
+        "statement": "Public domain worldwide. Мікалай Васільевіч Гогаль died in 1852; the translator Краўцоў Макар died in 1939 and this translation was first published in 1929. Source: be.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Тарас Бульба (1929)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:57:01.716319Z",
+        "revision": "248378",
+        "url": "https://be.wikisource.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D1%81_%D0%91%D1%83%D0%BB%D1%8C%D0%B1%D0%B0_(1929)"
+      },
+      "title": "Тарас Бульба",
+      "translationPublicationYear": 1929,
+      "translator": "Краўцоў Макар",
+      "translatorDeathYear": 1939,
+      "workId": "gogol-q1250822"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "955d5b7ffebb6babf5fda96977c655a3a0ec418533ee7b0a5cb1e9ec716c4c69",
+        "encoding": "gzip",
+        "path": "books/be/lastouski-q28152914.be.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c8a6e7128f42bc64df32eac9efd7aa2bb7cb2ba27984644bac516e637179c83a",
+        "sizeBytes": 840112,
+        "uncompressedSizeBytes": 2997081,
+        "wordCount": 250968
+      },
+      "author": "Вацлаў Юстынавіч Ластоўскі",
+      "authorDeathYear": 1938,
+      "editionId": "lastouski-q28152914.be.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "be",
+      "originalLanguage": "be",
+      "originalPublicationYear": 1926,
+      "originalTitle": "Гісторыя беларускай (крыўскай) кнігі",
+      "rights": {
+        "statement": "Public domain worldwide. Вацлаў Юстынавіч Ластоўскі died in 1938 and the work was first published in 1926. Source: be.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Гісторыя беларускай (крыўскай) кнігі (1926)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:58:03.328034Z",
+        "revision": "286957",
+        "url": "https://be.wikisource.org/wiki/%D0%93%D1%96%D1%81%D1%82%D0%BE%D1%80%D1%8B%D1%8F_%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%BA%D0%B0%D0%B9_(%D0%BA%D1%80%D1%8B%D1%9E%D1%81%D0%BA%D0%B0%D0%B9)_%D0%BA%D0%BD%D1%96%D0%B3%D1%96_(1926)"
+      },
+      "title": "Гісторыя беларускай (крыўскай) кнігі",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "lastouski-q28152914"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Belarusian",
+  "language": "be",
+  "manifestVersion": "325a5c954cc6b910",
+  "nativeName": "Беларуская",
+  "schemaVersion": 1
+}

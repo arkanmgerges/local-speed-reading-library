@@ -1,0 +1,114 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:24:31.724697Z",
+    "chapterCount": 8,
+    "contentSha256": "09e83ac70ab43239b980f4fb6cb648938e5f6ab62807e9e19b0099a178f9b788",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/aristoteles-el-arte-poetica-de-aristoteles-en-castellano.es.wikisource/v1/book.json.gz",
+    "sha256": "7a083e89b93b3d10ed875c5fe0931671a0d96d238931a5da1904a32721cb1783",
+    "sizeBytes": 34560,
+    "uncompressedSizeBytes": 93278,
+    "wordCount": 15582
+  },
+  "edition": {
+    "editionId": "aristoteles-el-arte-poetica-de-aristoteles-en-castellano.es.wikisource",
+    "kind": "translation",
+    "language": "es",
+    "title": "El arte poética de Aristóteles en castellano",
+    "translationPublicationYear": 1798,
+    "translator": {
+      "birthYear": 1756,
+      "deathYear": 1807,
+      "name": "José Goya y Muniain",
+      "wikidata": "Q12176879"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -321: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1807: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1798: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q264714",
+      "https://www.wikidata.org/wiki/Q60486969",
+      "https://www.wikidata.org/wiki/Q868",
+      "https://www.wikidata.org/wiki/Q12176879",
+      "https://es.wikisource.org/wiki/Po%C3%A9tica_(traducci%C3%B3n_de_Jos%C3%A9_Goya_y_Muniain)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Aristóteles died in -321; the translator José Goya y Muniain died in 1807 and this translation was first published in 1798. Source: es.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Poética (traducción de José Goya y Muniain)",
+    "pages": [
+      {
+        "revision": 1316021,
+        "title": "Poética (traducción de José Goya y Muniain)"
+      },
+      {
+        "revision": 982892,
+        "title": "Poética (traducción de José Goya y Muniain)/Al excelentísimo señor don Gaspar Melchor de Jovellanos"
+      },
+      {
+        "revision": 982894,
+        "title": "Poética (traducción de José Goya y Muniain)/Al que leyere"
+      },
+      {
+        "revision": 1651803,
+        "title": "Poética (traducción de José Goya y Muniain)/Capítulo I"
+      },
+      {
+        "revision": 1653841,
+        "title": "Poética (traducción de José Goya y Muniain)/Capítulo II"
+      },
+      {
+        "revision": 1653842,
+        "title": "Poética (traducción de José Goya y Muniain)/Capítulo III"
+      },
+      {
+        "revision": 1653843,
+        "title": "Poética (traducción de José Goya y Muniain)/Capítulo IV"
+      },
+      {
+        "revision": 1653844,
+        "title": "Poética (traducción de José Goya y Muniain)/Capítulo V"
+      },
+      {
+        "revision": 1653845,
+        "title": "Poética (traducción de José Goya y Muniain)/Capítulo VI"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:42:10.911008Z",
+    "revision": "1316021",
+    "site": "es.wikisource.org",
+    "url": "https://es.wikisource.org/wiki/Po%C3%A9tica_(traducci%C3%B3n_de_Jos%C3%A9_Goya_y_Muniain)"
+  },
+  "work": {
+    "author": {
+      "birthYear": -383,
+      "deathYear": -321,
+      "name": "Aristóteles",
+      "wikidata": "Q868"
+    },
+    "originalLanguage": "grc",
+    "originalTitle": "El arte poética de Aristóteles en castellano",
+    "workId": "aristoteles-el-arte-poetica-de-aristoteles-en-castellano"
+  }
+}

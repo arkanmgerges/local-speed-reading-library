@@ -1,0 +1,64 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:52:55.945626Z",
+    "chapterCount": 11,
+    "contentSha256": "d9595a5467e1cc3c1e8c6a7c0d9d9d26ae064bb30d3dca8e94bbab9928bcd894",
+    "normalizerVersion": "0.2.0",
+    "path": "books/de/france-urwald.de.gutenberg/v1/book.json.gz",
+    "sha256": "891acea1246872bb14a8e8ef932f8102743371a924cc5d28e6c6619e319d9136",
+    "sizeBytes": 63487,
+    "uncompressedSizeBytes": 163061,
+    "wordCount": 21809
+  },
+  "edition": {
+    "editionId": "france-urwald.de.gutenberg",
+    "editionPublicationYear": 1928,
+    "kind": "original",
+    "language": "de",
+    "title": "Urwald"
+  },
+  "genres": [
+    "Science",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1943: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1928 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/78056"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. R. H. Francé died in 1943 and the edition digitised by Project Gutenberg was printed in 1928. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "78056",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:25:01.106805Z",
+    "revision": "Mon, 31 Aug 2026 07:56:06 GMT",
+    "url": "https://www.gutenberg.org/ebooks/78056"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1874,
+      "deathYear": 1943,
+      "name": "R. H. Francé"
+    },
+    "originalLanguage": "de",
+    "originalTitle": "Urwald",
+    "workId": "france-urwald"
+  }
+}

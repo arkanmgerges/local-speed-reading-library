@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:48.649004Z",
+    "chapterCount": 1,
+    "contentSha256": "175171a4238e41ba0ddeaa84537ce6f73a57f071710cd66c29c0153b7b170cc4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fa/baha-u-llah-kitab-i-iqan.fa.wikisource/v1/book.json.gz",
+    "sha256": "a4a9b66c178af667559d43821f3bdea9ad1bb06685991ab6f5406c490cadd931",
+    "sizeBytes": 82582,
+    "uncompressedSizeBytes": 305671,
+    "wordCount": 35842
+  },
+  "edition": {
+    "editionId": "baha-u-llah-kitab-i-iqan.fa.wikisource",
+    "kind": "original",
+    "language": "fa",
+    "title": "کتاب ایقان"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1892: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1861: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q428122",
+      "https://www.wikidata.org/wiki/Q101054",
+      "https://fa.wikisource.org/wiki/%DA%A9%D8%AA%D8%A7%D8%A8_%D9%85%D8%B3%D8%AA%D8%B7%D8%A7%D8%A8_%D8%A7%DB%8C%D9%82%D8%A7%D9%86"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. بهاءالله died in 1892 and the work was first published in 1861. Source: fa.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "کتاب مستطاب ایقان",
+    "pages": [
+      {
+        "revision": 278487,
+        "title": "کتاب مستطاب ایقان"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:01:26.365043Z",
+    "revision": "278487",
+    "site": "fa.wikisource.org",
+    "url": "https://fa.wikisource.org/wiki/%DA%A9%D8%AA%D8%A7%D8%A8_%D9%85%D8%B3%D8%AA%D8%B7%D8%A7%D8%A8_%D8%A7%DB%8C%D9%82%D8%A7%D9%86"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1817,
+      "deathYear": 1892,
+      "name": "بهاءالله",
+      "wikidata": "Q101054"
+    },
+    "originalLanguage": "fa",
+    "originalPublicationYear": 1861,
+    "originalTitle": "کتاب ایقان",
+    "workId": "baha-u-llah-kitab-i-iqan"
+  }
+}

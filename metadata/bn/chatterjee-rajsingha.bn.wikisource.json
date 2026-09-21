@@ -1,0 +1,149 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:51:27.854289Z",
+    "chapterCount": 19,
+    "contentSha256": "2596e2b9653799e5ae7aca31a18d320428a702adb3ee76064962351d3752905e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/bn/chatterjee-rajsingha.bn.wikisource/v1/book.json.gz",
+    "sha256": "31c886e1b33e1b50f1e0982e19775455aa090d409b390fda2101d0e8f56c5885",
+    "sizeBytes": 46209,
+    "uncompressedSizeBytes": 258174,
+    "wordCount": 13621
+  },
+  "edition": {
+    "editionId": "chatterjee-rajsingha.bn.wikisource",
+    "kind": "original",
+    "language": "bn",
+    "title": "রাজসিংহ"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1894: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1885: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q110137699",
+      "https://www.wikidata.org/wiki/Q377881",
+      "https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_(%E0%A7%A7%E0%A7%AE%E0%A7%AE%E0%A7%AB)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. বঙ্কিমচন্দ্র চট্টোপাধ্যায় died in 1894 and the work was first published in 1885. Source: bn.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "রাজসিংহ (১৮৮৫)",
+    "pages": [
+      {
+        "revision": 1972194,
+        "title": "রাজসিংহ (১৮৮৫)"
+      },
+      {
+        "revision": 1817186,
+        "title": "রাজসিংহ (১৮৮৫)/প্রথম পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817182,
+        "title": "রাজসিংহ (১৮৮৫)/দ্বিতীয় পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817178,
+        "title": "রাজসিংহ (১৮৮৫)/তৃতীয় পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817176,
+        "title": "রাজসিংহ (১৮৮৫)/চতুর্থ পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817185,
+        "title": "রাজসিংহ (১৮৮৫)/পঞ্চম পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817187,
+        "title": "রাজসিংহ (১৮৮৫)/ষষ্ঠ পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817190,
+        "title": "রাজসিংহ (১৮৮৫)/সপ্তম পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817172,
+        "title": "রাজসিংহ (১৮৮৫)/অষ্টম পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817183,
+        "title": "রাজসিংহ (১৮৮৫)/নবম পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817180,
+        "title": "রাজসিংহ (১৮৮৫)/দশম পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817175,
+        "title": "রাজসিংহ (১৮৮৫)/একাদশ পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817181,
+        "title": "রাজসিংহ (১৮৮৫)/দ্বাদশ পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817179,
+        "title": "রাজসিংহ (১৮৮৫)/ত্রয়োদশ পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817177,
+        "title": "রাজসিংহ (১৮৮৫)/চতুর্দ্দশ পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817184,
+        "title": "রাজসিংহ (১৮৮৫)/পঞ্চদশ পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817188,
+        "title": "রাজসিংহ (১৮৮৫)/ষোড়শ পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817189,
+        "title": "রাজসিংহ (১৮৮৫)/সপ্তদশ পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817173,
+        "title": "রাজসিংহ (১৮৮৫)/অষ্টাদশ পরিচ্ছেদ"
+      },
+      {
+        "revision": 1817174,
+        "title": "রাজসিংহ (১৮৮৫)/ঊনবিংশ পরিচ্ছেদ"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:02:21.106195Z",
+    "revision": "1972194",
+    "site": "bn.wikisource.org",
+    "url": "https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9_(%E0%A7%A7%E0%A7%AE%E0%A7%AE%E0%A7%AB)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1838,
+      "deathYear": 1894,
+      "name": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+      "wikidata": "Q377881"
+    },
+    "originalLanguage": "bn",
+    "originalPublicationYear": 1885,
+    "originalTitle": "রাজসিংহ",
+    "workId": "chatterjee-rajsingha"
+  }
+}

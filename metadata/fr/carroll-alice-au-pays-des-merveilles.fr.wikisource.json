@@ -1,0 +1,139 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:26:32.043468Z",
+    "chapterCount": 26,
+    "contentSha256": "b41d5170e241af88684cf0863620e405d1907371aba7407c7abf715eb593abf5",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/carroll-alice-au-pays-des-merveilles.fr.wikisource/v1/book.json.gz",
+    "sha256": "5d53cb443a56b3685726838605bdb2c0a8af0a2edc98a160b2e6779408986c1d",
+    "sizeBytes": 112684,
+    "uncompressedSizeBytes": 351440,
+    "wordCount": 58896
+  },
+  "edition": {
+    "editionId": "carroll-alice-au-pays-des-merveilles.fr.wikisource",
+    "kind": "translation",
+    "language": "fr",
+    "title": "Alice au pays des merveilles",
+    "translationPublicationYear": 1869,
+    "translator": {
+      "birthYear": 1843,
+      "deathYear": 1929,
+      "name": "Henri Bué",
+      "wikidata": "Q18011997"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1898: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1929: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1869: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q92640",
+      "https://www.wikidata.org/wiki/Q40580209",
+      "https://www.wikidata.org/wiki/Q38082",
+      "https://www.wikidata.org/wiki/Q18011997",
+      "https://fr.wikisource.org/wiki/Alice_au_pays_des_merveilles"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Lewis Carroll died in 1898; the translator Henri Bué died in 1929 and this translation was first published in 1869. Source: fr.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Alice au pays des merveilles",
+    "pages": [
+      {
+        "revision": 15537836,
+        "title": "Alice au pays des merveilles"
+      },
+      {
+        "revision": 11053663,
+        "title": "Alice au pays des merveilles/Texte entier"
+      },
+      {
+        "revision": 3377154,
+        "title": "Alice au pays des merveilles/D"
+      },
+      {
+        "revision": 12284581,
+        "title": "Alice au pays des merveilles/1"
+      },
+      {
+        "revision": 9967379,
+        "title": "Alice au pays des merveilles/2"
+      },
+      {
+        "revision": 3972920,
+        "title": "Alice au pays des merveilles/3"
+      },
+      {
+        "revision": 3982661,
+        "title": "Alice au pays des merveilles/4"
+      },
+      {
+        "revision": 4015879,
+        "title": "Alice au pays des merveilles/5"
+      },
+      {
+        "revision": 5508474,
+        "title": "Alice au pays des merveilles/6"
+      },
+      {
+        "revision": 4865298,
+        "title": "Alice au pays des merveilles/7"
+      },
+      {
+        "revision": 3856890,
+        "title": "Alice au pays des merveilles/8"
+      },
+      {
+        "revision": 3977681,
+        "title": "Alice au pays des merveilles/9"
+      },
+      {
+        "revision": 3977680,
+        "title": "Alice au pays des merveilles/10"
+      },
+      {
+        "revision": 12835955,
+        "title": "Alice au pays des merveilles/11"
+      },
+      {
+        "revision": 11010247,
+        "title": "Alice au pays des merveilles/12"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:08:00.035110Z",
+    "revision": "15537836",
+    "site": "fr.wikisource.org",
+    "url": "https://fr.wikisource.org/wiki/Alice_au_pays_des_merveilles"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1832,
+      "deathYear": 1898,
+      "name": "Lewis Carroll",
+      "wikidata": "Q38082"
+    },
+    "originalLanguage": "en-gb",
+    "originalPublicationYear": 1865,
+    "originalTitle": "Alice au pays des merveilles",
+    "workId": "carroll-alice-au-pays-des-merveilles"
+  }
+}

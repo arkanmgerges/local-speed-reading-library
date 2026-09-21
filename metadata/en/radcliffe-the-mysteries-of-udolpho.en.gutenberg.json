@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:24:14.390492Z",
+    "chapterCount": 57,
+    "contentSha256": "55632567170b174360f478d7156deab6cb81a895d2da0093fcba44cb30de536f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/en/radcliffe-the-mysteries-of-udolpho.en.gutenberg/v1/book.json.gz",
+    "sha256": "1343f06559dd06e0e483d9061f52683007056104cdc6de72533cdc7cd705195a",
+    "sizeBytes": 591704,
+    "uncompressedSizeBytes": 1736803,
+    "wordCount": 290034
+  },
+  "edition": {
+    "editionId": "radcliffe-the-mysteries-of-udolpho.en.gutenberg",
+    "kind": "original",
+    "language": "en",
+    "title": "The Mysteries of Udolpho"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1823: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1794: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/3268",
+      "https://en.wikipedia.org/wiki/Ann_Radcliffe",
+      "https://www.wikidata.org/wiki/Q2600909"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ann Ward Radcliffe died in 1823 and the work was first published in 1794. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "3268",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:36:40.867799Z",
+    "revision": "Wed, 02 Sep 2026 10:41:14 GMT",
+    "url": "https://www.gutenberg.org/ebooks/3268"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1764,
+      "deathYear": 1823,
+      "name": "Ann Ward Radcliffe",
+      "wikidata": "Q231944"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1794,
+    "originalTitle": "The Mysteries of Udolpho",
+    "workId": "radcliffe-the-mysteries-of-udolpho"
+  }
+}

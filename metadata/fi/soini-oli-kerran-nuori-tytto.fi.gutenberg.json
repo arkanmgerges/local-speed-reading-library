@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:26:18.605075Z",
+    "chapterCount": 22,
+    "contentSha256": "5c025187b84b220ff626dd891098c53d1d9c93fae13cf02e25dbeb30e5512af1",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/soini-oli-kerran-nuori-tytto.fi.gutenberg/v1/book.json.gz",
+    "sha256": "409e8e4ec1ce7dd5352aefa4c7935de6ccce8a680bf057e5f721fb51bf7ba9f5",
+    "sizeBytes": 134327,
+    "uncompressedSizeBytes": 364827,
+    "wordCount": 42255
+  },
+  "edition": {
+    "editionId": "soini-oli-kerran-nuori-tytto.fi.gutenberg",
+    "editionPublicationYear": 1923,
+    "kind": "original",
+    "language": "fi",
+    "title": "Oli kerran nuori tyttö : $b Romaan 1910-luvun Helsingistä"
+  },
+  "genres": [
+    "Fiction",
+    "Children",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1952: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1923 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/79458",
+      "https://fi.wikipedia.org/wiki/Elsa_Soini"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Elsa Soini died in 1952 and the edition digitised by Project Gutenberg was printed in 1923. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "79458",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:05:02.111251Z",
+    "revision": "Mon, 31 Aug 2026 13:41:35 GMT",
+    "url": "https://www.gutenberg.org/ebooks/79458"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1893,
+      "deathYear": 1952,
+      "name": "Elsa Soini",
+      "wikidata": "Q17383883"
+    },
+    "originalLanguage": "fi",
+    "originalTitle": "Oli kerran nuori tyttö : $b Romaan 1910-luvun Helsingistä",
+    "workId": "soini-oli-kerran-nuori-tytto"
+  }
+}

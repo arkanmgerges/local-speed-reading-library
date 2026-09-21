@@ -1,0 +1,149 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:31:43.420315Z",
+    "chapterCount": 19,
+    "contentSha256": "819a9e4bcac6fc5566ec9c2cbb746a4f630431b9a36239e2b9716020b750725e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/andersen-i-cancelliraadens-dage.no.wikisource/v1/book.json.gz",
+    "sha256": "cbfe48a717ec072f64ccd917f62b4a47ffa894677c2a97eb5dce85deb33867a0",
+    "sizeBytes": 144927,
+    "uncompressedSizeBytes": 382450,
+    "wordCount": 61508
+  },
+  "edition": {
+    "editionId": "andersen-i-cancelliraadens-dage.no.wikisource",
+    "kind": "original",
+    "language": "no",
+    "title": "I cancelliraadens dage"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1920: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1897: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q11976713",
+      "https://www.wikidata.org/wiki/Q721693",
+      "https://no.wikisource.org/wiki/I_cancelliraadens_dage"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Tryggve Andersen died in 1920 and the work was first published in 1897. Source: no.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "I cancelliraadens dage",
+    "pages": [
+      {
+        "revision": 18554,
+        "title": "I cancelliraadens dage"
+      },
+      {
+        "revision": 18049,
+        "title": "I cancelliraadens dage/Fru cancelliraadinden I"
+      },
+      {
+        "revision": 18064,
+        "title": "I cancelliraadens dage/Fru cancelliraadinden II"
+      },
+      {
+        "revision": 18078,
+        "title": "I cancelliraadens dage/Fru cancelliraadinden III"
+      },
+      {
+        "revision": 18084,
+        "title": "I cancelliraadens dage/Fru cancelliraadinden IV"
+      },
+      {
+        "revision": 18098,
+        "title": "I cancelliraadens dage/Paa præstegaarden og hos landkræmmeren I"
+      },
+      {
+        "revision": 18110,
+        "title": "I cancelliraadens dage/Paa præstegaarden og hos landkræmmeren II"
+      },
+      {
+        "revision": 18127,
+        "title": "I cancelliraadens dage/Paa præstegaarden og hos landkræmmeren III"
+      },
+      {
+        "revision": 18140,
+        "title": "I cancelliraadens dage/Paa præstegaarden og hos landkræmmeren IV"
+      },
+      {
+        "revision": 18166,
+        "title": "I cancelliraadens dage/Mened"
+      },
+      {
+        "revision": 18254,
+        "title": "I cancelliraadens dage/Kaptein Tebetmanns datter I"
+      },
+      {
+        "revision": 18279,
+        "title": "I cancelliraadens dage/Kaptein Tebetmanns datter II"
+      },
+      {
+        "revision": 18324,
+        "title": "I cancelliraadens dage/Høsttinget"
+      },
+      {
+        "revision": 18380,
+        "title": "I cancelliraadens dage/Anne Cathrine Bühring"
+      },
+      {
+        "revision": 18397,
+        "title": "I cancelliraadens dage/Mens skydsen venter"
+      },
+      {
+        "revision": 18436,
+        "title": "I cancelliraadens dage/Gudstjeneste"
+      },
+      {
+        "revision": 18444,
+        "title": "I cancelliraadens dage/Jomfru Nannestad"
+      },
+      {
+        "revision": 18458,
+        "title": "I cancelliraadens dage/Den store nød I"
+      },
+      {
+        "revision": 70755,
+        "title": "I cancelliraadens dage/Den store nød II"
+      },
+      {
+        "revision": 18478,
+        "title": "I cancelliraadens dage/Den store nød III"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:12:05.482201Z",
+    "revision": "18554",
+    "site": "no.wikisource.org",
+    "url": "https://no.wikisource.org/wiki/I_cancelliraadens_dage"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1866,
+      "deathYear": 1920,
+      "name": "Tryggve Andersen",
+      "wikidata": "Q721693"
+    },
+    "originalLanguage": "no",
+    "originalPublicationYear": 1897,
+    "originalTitle": "I cancelliraadens dage",
+    "workId": "andersen-i-cancelliraadens-dage"
+  }
+}

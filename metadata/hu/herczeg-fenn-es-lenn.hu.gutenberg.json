@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:28:05.042774Z",
+    "chapterCount": 37,
+    "contentSha256": "eac1fd4a077302ea21dad549cb4e79a7375c418d0dfe8921a2167d4c25838cee",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hu/herczeg-fenn-es-lenn.hu.gutenberg/v1/book.json.gz",
+    "sha256": "1234a97bb2f8532bac3eba6ea6e769b616e637542a9a0d51d58a2d3d7e3bcaa5",
+    "sizeBytes": 143126,
+    "uncompressedSizeBytes": 384726,
+    "wordCount": 48135
+  },
+  "edition": {
+    "editionId": "herczeg-fenn-es-lenn.hu.gutenberg",
+    "editionPublicationYear": 1908,
+    "kind": "original",
+    "language": "hu",
+    "title": "Fenn és lenn : $b regény"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1954: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1908 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/77615",
+      "https://en.wikipedia.org/wiki/Ferenc_Herczeg"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ferenc Herczeg died in 1954 and the edition digitised by Project Gutenberg was printed in 1908. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "77615",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:35:17.238790Z",
+    "revision": "Sun, 30 Aug 2026 21:27:09 GMT",
+    "url": "https://www.gutenberg.org/ebooks/77615"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1863,
+      "deathYear": 1954,
+      "name": "Ferenc Herczeg",
+      "wikidata": "Q701640"
+    },
+    "originalLanguage": "hu",
+    "originalTitle": "Fenn és lenn : $b regény",
+    "workId": "herczeg-fenn-es-lenn"
+  }
+}

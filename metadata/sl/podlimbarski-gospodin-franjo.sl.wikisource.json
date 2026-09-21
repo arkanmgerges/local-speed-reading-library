@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:16.278243Z",
+    "chapterCount": 52,
+    "contentSha256": "6e207afada846e210e16716466e943ef5e6b9c5712d1813548b96b2a98d7c570",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/podlimbarski-gospodin-franjo.sl.wikisource/v1/book.json.gz",
+    "sha256": "5218c4b11ce159c93690c5916333b71d896a5251ec66c4f9119dfb8da8a9901f",
+    "sizeBytes": 432776,
+    "uncompressedSizeBytes": 1082070,
+    "wordCount": 174004
+  },
+  "edition": {
+    "editionId": "podlimbarski-gospodin-franjo.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Gospodin Franjo"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1917: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1913: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q5587428",
+      "https://www.wikidata.org/wiki/Q4283778",
+      "https://sl.wikisource.org/wiki/Gospodin_Franjo"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Fran Maselj - Podlimbarski died in 1917 and the work was first published in 1913. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Gospodin Franjo",
+    "pages": [
+      {
+        "revision": 171004,
+        "title": "Gospodin Franjo"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:56:28.596236Z",
+    "revision": "171004",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Gospodin_Franjo"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1852,
+      "deathYear": 1917,
+      "name": "Fran Maselj - Podlimbarski",
+      "wikidata": "Q4283778"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1913,
+    "originalTitle": "Gospodin Franjo",
+    "workId": "podlimbarski-gospodin-franjo"
+  }
+}

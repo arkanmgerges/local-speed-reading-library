@@ -1,0 +1,115 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:57:15.808002Z",
+    "chapterCount": 8,
+    "contentSha256": "468961f9b72ca073ab489a05b207f953c1889295659da1eb7d791788e6988e19",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/defoe-robinson-crusoe-saint-hyacinthe.fr.wikisource/v1/book.json.gz",
+    "sha256": "348649b6713e226f7c4e5ef7a6b481ea617497b16bb38f2764ec12d1a452879a",
+    "sizeBytes": 460847,
+    "uncompressedSizeBytes": 1397265,
+    "wordCount": 228105
+  },
+  "edition": {
+    "editionId": "defoe-robinson-crusoe-saint-hyacinthe.fr.wikisource",
+    "kind": "translation",
+    "language": "fr",
+    "title": "Robinson Crusoé (Saint-Hyacinthe)",
+    "translationPublicationYear": 1787,
+    "translator": {
+      "birthYear": 1684,
+      "deathYear": 1746,
+      "name": "Thémiseul de Saint-Hyacinthe",
+      "wikidata": "Q3526294"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1731: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1746: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1787: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q483034",
+      "https://www.wikidata.org/wiki/Q78637128",
+      "https://www.wikidata.org/wiki/Q40946",
+      "https://www.wikidata.org/wiki/Q3526294",
+      "https://fr.wikisource.org/wiki/Robinson_Cruso%C3%A9_(Saint-Hyacinthe)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Daniel Defoe died in 1731; the translator Thémiseul de Saint-Hyacinthe died in 1746 and this translation was first published in 1787. Source: fr.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Robinson Crusoé (Saint-Hyacinthe)",
+    "pages": [
+      {
+        "revision": 15142129,
+        "title": "Robinson Crusoé (Saint-Hyacinthe)"
+      },
+      {
+        "revision": 5769664,
+        "title": "Robinson Crusoé (Saint-Hyacinthe)/Avertissement de l’éditeur"
+      },
+      {
+        "revision": 5769665,
+        "title": "Robinson Crusoé (Saint-Hyacinthe)/Préface du traducteur (1)"
+      },
+      {
+        "revision": 5769666,
+        "title": "Robinson Crusoé (Saint-Hyacinthe)/Préface de Robinson Crusoé"
+      },
+      {
+        "revision": 5769667,
+        "title": "Robinson Crusoé (Saint-Hyacinthe)/Première partie"
+      },
+      {
+        "revision": 5791512,
+        "title": "Robinson Crusoé (Saint-Hyacinthe)/Seconde partie"
+      },
+      {
+        "revision": 5791511,
+        "title": "Robinson Crusoé (Saint-Hyacinthe)/Préface du traducteur (2)"
+      },
+      {
+        "revision": 5769671,
+        "title": "Robinson Crusoé (Saint-Hyacinthe)/Troisième partie"
+      },
+      {
+        "revision": 5769672,
+        "title": "Robinson Crusoé (Saint-Hyacinthe)/Quatrième partie"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:08:50.866984Z",
+    "revision": "15142129",
+    "site": "fr.wikisource.org",
+    "url": "https://fr.wikisource.org/wiki/Robinson_Cruso%C3%A9_(Saint-Hyacinthe)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1660,
+      "deathYear": 1731,
+      "name": "Daniel Defoe",
+      "wikidata": "Q40946"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1719,
+    "originalTitle": "Robinson Crusoé (Saint-Hyacinthe)",
+    "workId": "defoe-robinson-crusoe-saint-hyacinthe"
+  }
+}

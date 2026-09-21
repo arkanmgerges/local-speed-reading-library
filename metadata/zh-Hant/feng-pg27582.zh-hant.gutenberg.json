@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:37:24.474187Z",
+    "chapterCount": 2,
+    "contentSha256": "80b55f11a0fb7ab4a811aa63220286a8f8de2083a930dbbb2c3593001d7abf82",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/feng-pg27582.zh-hant.gutenberg/v1/book.json.gz",
+    "sha256": "a36a89e5670915b2318ba8697f05a54a9bdc0183c26f1781d1ddb53c9a4fd75f",
+    "sizeBytes": 514093,
+    "uncompressedSizeBytes": 1086264,
+    "wordCount": 13220
+  },
+  "edition": {
+    "editionId": "feng-pg27582.zh-hant.gutenberg",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "喻世明言"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1646: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1620: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/27582",
+      "https://en.wikipedia.org/wiki/Feng_Menglong",
+      "https://zh.wikipedia.org/wiki/%E5%86%AF%E6%A2%A6%E9%BE%99",
+      "https://www.wikidata.org/wiki/Q10923868"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Menglong Feng died in 1646 and the work was first published in 1620. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "27582",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T05:33:18.819266Z",
+    "revision": "Fri, 11 Sep 2026 13:36:19 GMT",
+    "url": "https://www.gutenberg.org/ebooks/27582"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1574,
+      "deathYear": 1646,
+      "name": "Menglong Feng",
+      "wikidata": "Q371966"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": 1620,
+    "originalTitle": "喻世明言",
+    "workId": "feng-pg27582"
+  }
+}

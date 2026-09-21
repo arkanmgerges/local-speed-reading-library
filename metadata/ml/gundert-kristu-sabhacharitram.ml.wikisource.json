@@ -1,0 +1,97 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:11.348560Z",
+    "chapterCount": 6,
+    "contentSha256": "ceafd3e01f842c1fa8aebfed7d4d0d2e1be0c0df12657a5ad77b9daa99cbfa5d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ml/gundert-kristu-sabhacharitram.ml.wikisource/v1/book.json.gz",
+    "sha256": "832d156e069406a944651ac79f6bb96f5fe22f484faddb11bae50ec628ac94de",
+    "sizeBytes": 288548,
+    "uncompressedSizeBytes": 1542486,
+    "wordCount": 19243
+  },
+  "edition": {
+    "editionId": "gundert-kristu-sabhacharitram.ml.wikisource",
+    "kind": "original",
+    "language": "ml",
+    "title": "ക്രിസ്ത സഭാചരിത്രം"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1893: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1847: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q108203884",
+      "https://www.wikidata.org/wiki/Q76578",
+      "https://ml.wikisource.org/wiki/%E0%B4%95%E0%B5%8D%E0%B4%B0%E0%B4%BF%E0%B4%B8%E0%B5%8D%E0%B4%A4_%E0%B4%B8%E0%B4%AD%E0%B4%BE%E0%B4%9A%E0%B4%B0%E0%B4%BF%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ഹെർമൻ ഗുണ്ടർട്ട് died in 1893 and the work was first published in 1847. Source: ml.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "ക്രിസ്ത സഭാചരിത്രം",
+    "pages": [
+      {
+        "revision": 211002,
+        "title": "ക്രിസ്ത സഭാചരിത്രം"
+      },
+      {
+        "revision": 210996,
+        "title": "ക്രിസ്ത സഭാചരിത്രം/ഒന്നാമതുകാലം"
+      },
+      {
+        "revision": 210997,
+        "title": "ക്രിസ്ത സഭാചരിത്രം/രണ്ടാമത്കാലം"
+      },
+      {
+        "revision": 210998,
+        "title": "ക്രിസ്ത സഭാചരിത്രം/മൂന്നാമത്കാലം"
+      },
+      {
+        "revision": 210999,
+        "title": "ക്രിസ്ത സഭാചരിത്രം/നാലാമത്കാലം"
+      },
+      {
+        "revision": 211000,
+        "title": "ക്രിസ്ത സഭാചരിത്രം/അഞ്ചാമത്കാലം"
+      },
+      {
+        "revision": 211001,
+        "title": "ക്രിസ്ത സഭാചരിത്രം/സഭാചരിത്രാനുക്രമണിക"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:59:13.186880Z",
+    "revision": "211002",
+    "site": "ml.wikisource.org",
+    "url": "https://ml.wikisource.org/wiki/%E0%B4%95%E0%B5%8D%E0%B4%B0%E0%B4%BF%E0%B4%B8%E0%B5%8D%E0%B4%A4_%E0%B4%B8%E0%B4%AD%E0%B4%BE%E0%B4%9A%E0%B4%B0%E0%B4%BF%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1814,
+      "deathYear": 1893,
+      "name": "ഹെർമൻ ഗുണ്ടർട്ട്",
+      "wikidata": "Q76578"
+    },
+    "originalLanguage": "ml",
+    "originalPublicationYear": 1847,
+    "originalTitle": "ക്രിസ്ത സഭാചരിത്രം",
+    "workId": "gundert-kristu-sabhacharitram"
+  }
+}

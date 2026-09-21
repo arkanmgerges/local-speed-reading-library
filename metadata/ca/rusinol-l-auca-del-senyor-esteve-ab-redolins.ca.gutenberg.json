@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:40.826614Z",
+    "chapterCount": 34,
+    "contentSha256": "a328db76da65f2d1365c0690bd6eab0a8c07c1265c3447387e8d7ca27f812be0",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/rusinol-l-auca-del-senyor-esteve-ab-redolins.ca.gutenberg/v1/book.json.gz",
+    "sha256": "fae8718112ca29f01eff381abd75c98207bbf2f15b1564d78cbd533ca7b02b6b",
+    "sizeBytes": 112485,
+    "uncompressedSizeBytes": 309141,
+    "wordCount": 52115
+  },
+  "edition": {
+    "editionId": "rusinol-l-auca-del-senyor-esteve-ab-redolins.ca.gutenberg",
+    "kind": "original",
+    "language": "ca",
+    "title": "L'auca del senyor Esteve ab redolins dibuixats per en Ramón Casas; escrits per en Gabriel Alomar"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1931: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1907: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/56856",
+      "https://ca.wikipedia.org/wiki/Santiago_Rusi%C3%B1ol_i_Prats",
+      "https://www.wikidata.org/wiki/Q6455906"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Santiago Rusiñol died in 1931 and the work was first published in 1907. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "56856",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:06:07.111373Z",
+    "revision": "Sat, 22 Aug 2026 17:50:31 GMT",
+    "url": "https://www.gutenberg.org/ebooks/56856"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1861,
+      "deathYear": 1931,
+      "name": "Santiago Rusiñol",
+      "wikidata": "Q366930"
+    },
+    "originalLanguage": "ca",
+    "originalPublicationYear": 1907,
+    "originalTitle": "L'auca del senyor Esteve ab redolins dibuixats per en Ramón Casas; escrits per en Gabriel Alomar",
+    "workId": "rusinol-l-auca-del-senyor-esteve-ab-redolins"
+  }
+}

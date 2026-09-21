@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:00:13.830743Z",
+    "chapterCount": 8,
+    "contentSha256": "64f51601386bb2ba8a07542f4b0caa763a72032adce496faf31de5fb7079ac39",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ja/kita-kokutairon-and-pure-socialism.ja.wikisource/v1/book.json.gz",
+    "sha256": "afd72b605ad2dfedca199c0aefcb259668a323d97957bb911d1542a419985872",
+    "sizeBytes": 11260,
+    "uncompressedSizeBytes": 102522,
+    "wordCount": 2570
+  },
+  "edition": {
+    "editionId": "kita-kokutairon-and-pure-socialism.ja.wikisource",
+    "kind": "original",
+    "language": "ja",
+    "title": "国体論及び純正社会主義"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1937: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1906: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q11420465",
+      "https://www.wikidata.org/wiki/Q721416",
+      "https://ja.wikisource.org/wiki/%E5%9B%BD%E4%BD%93%E8%AB%96%E5%8F%8A%E3%81%B3%E7%B4%94%E6%AD%A3%E7%A4%BE%E4%BC%9A%E4%B8%BB%E7%BE%A9"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 北一輝 died in 1937 and the work was first published in 1906. Source: ja.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "国体論及び純正社会主義",
+    "pages": [
+      {
+        "revision": 207947,
+        "title": "国体論及び純正社会主義"
+      },
+      {
+        "revision": 209714,
+        "title": "国体論及び純正社会主義/第壱編"
+      },
+      {
+        "revision": 209715,
+        "title": "国体論及び純正社会主義/第弐編"
+      },
+      {
+        "revision": 209712,
+        "title": "国体論及び純正社会主義/第参編"
+      },
+      {
+        "revision": 209713,
+        "title": "国体論及び純正社会主義/第四編"
+      },
+      {
+        "revision": 209711,
+        "title": "国体論及び純正社会主義/第五編"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:50:28.246117Z",
+    "revision": "207947",
+    "site": "ja.wikisource.org",
+    "url": "https://ja.wikisource.org/wiki/%E5%9B%BD%E4%BD%93%E8%AB%96%E5%8F%8A%E3%81%B3%E7%B4%94%E6%AD%A3%E7%A4%BE%E4%BC%9A%E4%B8%BB%E7%BE%A9"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1883,
+      "deathYear": 1937,
+      "name": "北一輝",
+      "wikidata": "Q721416"
+    },
+    "originalLanguage": "ja",
+    "originalPublicationYear": 1906,
+    "originalTitle": "国体論及び純正社会主義",
+    "workId": "kita-kokutairon-and-pure-socialism"
+  }
+}

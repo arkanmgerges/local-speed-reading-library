@@ -1,0 +1,131 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:27:02.436010Z",
+    "chapterCount": 10,
+    "contentSha256": "c21278d5af58c201a06354a8f9bbc16dba077236de11c11335ac2e6b65d1d498",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/platon-la-republique.fr.wikisource/v1/book.json.gz",
+    "sha256": "1b78c2eb3cbcde269acb761dab23b102a0885a020f230fcae7a4c6c4ab5fbf09",
+    "sizeBytes": 238643,
+    "uncompressedSizeBytes": 759881,
+    "wordCount": 118203
+  },
+  "edition": {
+    "editionId": "platon-la-republique.fr.wikisource",
+    "kind": "translation",
+    "language": "fr",
+    "title": "La République",
+    "translationPublicationYear": 1833,
+    "translator": {
+      "birthYear": 1792,
+      "deathYear": 1867,
+      "name": "Victor Cousin",
+      "wikidata": "Q434346"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -348: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1867: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1833: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q123397",
+      "https://www.wikidata.org/wiki/Q47088678",
+      "https://www.wikidata.org/wiki/Q859",
+      "https://www.wikidata.org/wiki/Q434346",
+      "https://fr.wikisource.org/wiki/La_R%C3%A9publique_(trad._Cousin)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Platon died in -348; the translator Victor Cousin died in 1867 and this translation was first published in 1833. Source: fr.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "La République (trad. Cousin)",
+    "pages": [
+      {
+        "revision": 13029410,
+        "title": "La République (trad. Cousin)"
+      },
+      {
+        "revision": 1641484,
+        "title": "La République (trad. Cousin)/Livre premier"
+      },
+      {
+        "revision": 1641490,
+        "title": "La République (trad. Cousin)/Livre deuxième"
+      },
+      {
+        "revision": 1641491,
+        "title": "La République (trad. Cousin)/Livre troisième"
+      },
+      {
+        "revision": 1641492,
+        "title": "La République (trad. Cousin)/Livre quatrième"
+      },
+      {
+        "revision": 1641494,
+        "title": "La République (trad. Cousin)/Livre cinquième"
+      },
+      {
+        "revision": 1641495,
+        "title": "La République (trad. Cousin)/Livre sixième"
+      },
+      {
+        "revision": 1641496,
+        "title": "La République (trad. Cousin)/Livre septième"
+      },
+      {
+        "revision": 1641497,
+        "title": "La République (trad. Cousin)/Livre huitième"
+      },
+      {
+        "revision": 1641498,
+        "title": "La République (trad. Cousin)/Livre neuvième"
+      },
+      {
+        "revision": 1641499,
+        "title": "La République (trad. Cousin)/Livre dixième"
+      },
+      {
+        "revision": 1641419,
+        "title": "La République (trad. Cousin)/Notes"
+      },
+      {
+        "revision": 1641422,
+        "title": "La République (trad. Cousin)/tome X notes"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:11:34.598641Z",
+    "revision": "13029410",
+    "site": "fr.wikisource.org",
+    "url": "https://fr.wikisource.org/wiki/La_R%C3%A9publique_(trad._Cousin)"
+  },
+  "work": {
+    "author": {
+      "birthYear": -428,
+      "deathYear": -348,
+      "name": "Platon",
+      "wikidata": "Q859"
+    },
+    "originalLanguage": "grc",
+    "originalPublicationYear": 1963,
+    "originalTitle": "La République",
+    "workId": "platon-la-republique"
+  }
+}

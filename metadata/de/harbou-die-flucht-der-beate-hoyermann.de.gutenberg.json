@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:44.083058Z",
+    "chapterCount": 13,
+    "contentSha256": "17c655469e367828fba1873556796ece2a25a9b5ee5296d068a6bac8399f1bb6",
+    "normalizerVersion": "0.2.0",
+    "path": "books/de/harbou-die-flucht-der-beate-hoyermann.de.gutenberg/v1/book.json.gz",
+    "sha256": "ca61fb6f5867f1725c7967049decb7a234939e8f47f16f08177599c604e188f6",
+    "sizeBytes": 178524,
+    "uncompressedSizeBytes": 511401,
+    "wordCount": 76835
+  },
+  "edition": {
+    "editionId": "harbou-die-flucht-der-beate-hoyermann.de.gutenberg",
+    "editionPublicationYear": 1916,
+    "kind": "original",
+    "language": "de",
+    "title": "Die Flucht der Beate Hoyermann : $b Roman"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1954: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1916 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/77073",
+      "https://en.wikipedia.org/wiki/Thea_von_Harbou"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Thea von Harbou died in 1954 and the edition digitised by Project Gutenberg was printed in 1916. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "77073",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:25:11.581605Z",
+    "revision": "Sun, 30 Aug 2026 18:54:12 GMT",
+    "url": "https://www.gutenberg.org/ebooks/77073"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1888,
+      "deathYear": 1954,
+      "name": "Thea von Harbou",
+      "wikidata": "Q58866"
+    },
+    "originalLanguage": "de",
+    "originalTitle": "Die Flucht der Beate Hoyermann : $b Roman",
+    "workId": "harbou-die-flucht-der-beate-hoyermann"
+  }
+}

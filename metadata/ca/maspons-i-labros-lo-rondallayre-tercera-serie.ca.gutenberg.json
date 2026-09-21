@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:35.346905Z",
+    "chapterCount": 28,
+    "contentSha256": "2e05afc2839c154b2ed83a1c430a4bbe9965ef472abd4d0977ec9f69843556b9",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/maspons-i-labros-lo-rondallayre-tercera-serie.ca.gutenberg/v1/book.json.gz",
+    "sha256": "ad9546127a8edb1d7b68714833467070700d391e9665586b92e95e561733f595",
+    "sizeBytes": 75957,
+    "uncompressedSizeBytes": 230242,
+    "wordCount": 38574
+  },
+  "edition": {
+    "editionId": "maspons-i-labros-lo-rondallayre-tercera-serie.ca.gutenberg",
+    "editionPublicationYear": 1875,
+    "kind": "original",
+    "language": "ca",
+    "title": "Lo rondallayre, Tercera série : $b Quentos populars catalans"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1901: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1875 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/76026",
+      "https://en.wikipedia.org/wiki/Francisco_Maspons_y_Labr%C3%B3s",
+      "https://ca.wikipedia.org/wiki/Francesc_de_Sales_Maspons_i_Labr%C3%B3s"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Francesc Maspons i Labrós died in 1901 and the edition digitised by Project Gutenberg was printed in 1875. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "76026",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:05:39.889378Z",
+    "revision": "Sun, 30 Aug 2026 10:07:48 GMT",
+    "url": "https://www.gutenberg.org/ebooks/76026"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1840,
+      "deathYear": 1901,
+      "name": "Francesc Maspons i Labrós",
+      "wikidata": "Q5483684"
+    },
+    "originalLanguage": "ca",
+    "originalTitle": "Lo rondallayre, Tercera série : $b Quentos populars catalans",
+    "workId": "maspons-i-labros-lo-rondallayre-tercera-serie"
+  }
+}

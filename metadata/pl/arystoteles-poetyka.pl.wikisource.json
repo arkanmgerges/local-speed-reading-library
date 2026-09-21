@@ -1,0 +1,98 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:08.001541Z",
+    "chapterCount": 4,
+    "contentSha256": "f3b231127c66c332b2669c9e11e4dfb33a868477319c5ad172a1de426a627574",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/arystoteles-poetyka.pl.wikisource/v1/book.json.gz",
+    "sha256": "96fa289665d66f8bd1a6c18a145e8424367a46affaa17fa39126a448e3af8aa9",
+    "sizeBytes": 72721,
+    "uncompressedSizeBytes": 207158,
+    "wordCount": 28448
+  },
+  "edition": {
+    "editionId": "arystoteles-poetyka.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Poetyka",
+    "translationPublicationYear": 1887,
+    "translator": {
+      "birthYear": 1840,
+      "deathYear": 1920,
+      "name": "Stanisław Siedlecki",
+      "wikidata": "Q53673213"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -321: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1920: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1887: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q264714",
+      "https://www.wikidata.org/wiki/Q64453120",
+      "https://www.wikidata.org/wiki/Q868",
+      "https://www.wikidata.org/wiki/Q53673213",
+      "https://pl.wikisource.org/wiki/Poetyka"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Arystoteles died in -321; the translator Stanisław Siedlecki died in 1920 and this translation was first published in 1887. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Poetyka",
+    "pages": [
+      {
+        "revision": 3654999,
+        "title": "Poetyka"
+      },
+      {
+        "revision": 3655002,
+        "title": "Poetyka/Kilka uwag wstępnych"
+      },
+      {
+        "revision": 3655000,
+        "title": "Poetyka/całość"
+      },
+      {
+        "revision": 3655003,
+        "title": "Poetyka/Treść Poetyki"
+      },
+      {
+        "revision": 3655001,
+        "title": "Poetyka/Arystotelesa Poetyka"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:20:40.796785Z",
+    "revision": "3654999",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Poetyka"
+  },
+  "work": {
+    "author": {
+      "birthYear": -383,
+      "deathYear": -321,
+      "name": "Arystoteles",
+      "wikidata": "Q868"
+    },
+    "originalLanguage": "grc",
+    "originalTitle": "Poetyka",
+    "workId": "arystoteles-poetyka"
+  }
+}

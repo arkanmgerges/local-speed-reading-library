@@ -1,0 +1,397 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 17,
+        "contentSha256": "f16509f8a8cf06b4cb9aa1031979d1932d842ab821ff335d1f6f38293b11a579",
+        "encoding": "gzip",
+        "path": "books/uk/bahalii-q16692171.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7e6d5188aab3e558712f51136da87fec2e3cace1a9e0363686d8886699dbc01d",
+        "sizeBytes": 333862,
+        "uncompressedSizeBytes": 1289182,
+        "wordCount": 109467
+      },
+      "author": "Багалій Дмитро Іванович",
+      "authorDeathYear": 1932,
+      "editionId": "bahalii-q16692171.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "uk",
+      "originalLanguage": "uk",
+      "originalPublicationYear": 1918,
+      "originalTitle": "Багалій Д.І. Історія Слобідської України",
+      "rights": {
+        "statement": "Public domain worldwide. Багалій Дмитро Іванович died in 1932 and the work was first published in 1918. Source: uk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Історія Слободської України",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:18:45.634915Z",
+        "revision": "443419",
+        "url": "https://uk.wikisource.org/wiki/%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F_%D0%A1%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8"
+      },
+      "title": "Багалій Д.І. Історія Слобідської України",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bahalii-q16692171"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 45,
+        "contentSha256": "2dc6e62da121ca06e3d08d08be5fcb1804689a8f5e64c429ef3230d5eda6f877",
+        "encoding": "gzip",
+        "path": "books/uk/defoe-q483034.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "680bd53f6233be4470cfc8bc1e4708eb70b603147adac356761f7512b491aa68",
+        "sizeBytes": 212092,
+        "uncompressedSizeBytes": 754993,
+        "wordCount": 69471
+      },
+      "author": "Даніель Дефо",
+      "authorDeathYear": 1731,
+      "editionId": "defoe-q483034.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "uk",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1719,
+      "originalTitle": "Робінзон Крузо з образками",
+      "rights": {
+        "statement": "Public domain worldwide. Даніель Дефо died in 1731; the translator Малицька Костянтина Іванівна died in 1947 and this translation was first published in 1919. Source: uk.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Робінзон Крузо (1919)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:19:49.204109Z",
+        "revision": "1026020",
+        "url": "https://uk.wikisource.org/wiki/%D0%A0%D0%BE%D0%B1%D1%96%D0%BD%D0%B7%D0%BE%D0%BD_%D0%9A%D1%80%D1%83%D0%B7%D0%BE_(1919)"
+      },
+      "title": "Робінзон Крузо з образками",
+      "translationPublicationYear": 1919,
+      "translator": "Малицька Костянтина Іванівна",
+      "translatorDeathYear": 1947,
+      "workId": "defoe-q483034"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "999938041ceadabb76184b61b011fe76e9390b1aaca3ea74e184e13365cff22a",
+        "encoding": "gzip",
+        "path": "books/uk/goethe-q151883.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b47a73b809561451b97b713c0d7cbcde7de8d0dcb4af613043a3a59bc0bf888d",
+        "sizeBytes": 107126,
+        "uncompressedSizeBytes": 376778,
+        "wordCount": 36154
+      },
+      "author": "Йоганн Вольфганг фон Гете",
+      "authorDeathYear": 1832,
+      "editionId": "goethe-q151883.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "uk",
+      "originalLanguage": "de",
+      "originalPublicationYear": 1774,
+      "originalTitle": "Страждання молодого Вертера",
+      "rights": {
+        "statement": "Public domain worldwide. Йоганн Вольфганг фон Гете died in 1832; the translator Грушевська Марія-Іванна Сильвестрівна died in 1948 and this translation was first published in 1912. Source: uk.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Страждання молодого Вертера",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:20:00.589493Z",
+        "revision": "641898",
+        "url": "https://uk.wikisource.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F_%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B3%D0%BE_%D0%92%D0%B5%D1%80%D1%82%D0%B5%D1%80%D0%B0"
+      },
+      "title": "Страждання молодого Вертера",
+      "translationPublicationYear": 1912,
+      "translator": "Грушевська Марія-Іванна Сильвестрівна",
+      "translatorDeathYear": 1948,
+      "workId": "goethe-q151883"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "846fbcb870bb73d6c2c5e705803d0e286e4934ac9b29e93159e24ed1e7abadd1",
+        "encoding": "gzip",
+        "path": "books/uk/gogol-q1250822.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "bda3b8b8606c839a46cf5d3711042cd53f1213d7c81128f821358bb59ffe8f31",
+        "sizeBytes": 115239,
+        "uncompressedSizeBytes": 408700,
+        "wordCount": 37682
+      },
+      "author": "Nikolai Gogol",
+      "authorDeathYear": 1852,
+      "editionId": "gogol-q1250822.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "uk",
+      "originalLanguage": "ru",
+      "originalPublicationYear": 1835,
+      "originalTitle": "Тарас Бульба",
+      "rights": {
+        "statement": "Public domain worldwide. Гоголь Микола Васильович died in 1852; the translator Гринюк Лесь died in 1911 and this translation was first published in 1918. Source: uk.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Тарас Бульба (1918)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:20:21.162104Z",
+        "revision": "697940",
+        "url": "https://uk.wikisource.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D1%81_%D0%91%D1%83%D0%BB%D1%8C%D0%B1%D0%B0_(1918)"
+      },
+      "title": "Тарас Бульба",
+      "translationPublicationYear": 1918,
+      "translator": "Гринюк Лесь",
+      "translatorDeathYear": 1911,
+      "workId": "gogol-q1250822"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "3f2ff016c938c94e9102374d80f27c328b73800558d1a8c2d3d101fa8f130fc3",
+        "encoding": "gzip",
+        "path": "books/uk/lypynsky-q29169675.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "414a5e748acc88c50e5c539eb86dd2ee146bc2649cdc7c9799041a345f7471d5",
+        "sizeBytes": 23908,
+        "uncompressedSizeBytes": 83862,
+        "wordCount": 6929
+      },
+      "author": "Липинський В'ячеслав Казимирович",
+      "authorDeathYear": 1931,
+      "editionId": "lypynsky-q29169675.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "uk",
+      "originalLanguage": "uk",
+      "originalPublicationYear": 1928,
+      "originalTitle": "Хам і Яфет",
+      "rights": {
+        "statement": "Public domain worldwide. Липинський В'ячеслав Казимирович died in 1931 and the work was first published in 1928. Source: uk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Хам і Яфет",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:20:33.149338Z",
+        "revision": "689634",
+        "url": "https://uk.wikisource.org/wiki/%D0%A5%D0%B0%D0%BC_%D1%96_%D0%AF%D1%84%D0%B5%D1%82"
+      },
+      "title": "Хам і Яфет",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "lypynsky-q29169675"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 28,
+        "contentSha256": "2b4244d145ad4f6d5ead39b25c9742f734624a572021adcd1afaa09bf4c781d0",
+        "encoding": "gzip",
+        "path": "books/uk/pidmohylny-misto.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "74a4f65e9358a5736f6a4584876ac1ef3ced8b4c26552410cde91ef098618e21",
+        "sizeBytes": 269782,
+        "uncompressedSizeBytes": 938667,
+        "wordCount": 79508
+      },
+      "author": "Підмогильний Валер'ян Петрович",
+      "authorDeathYear": 1937,
+      "editionId": "pidmohylny-misto.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "uk",
+      "originalLanguage": "uk",
+      "originalPublicationYear": 1928,
+      "originalTitle": "Місто",
+      "rights": {
+        "statement": "Public domain worldwide. Підмогильний Валер'ян Петрович died in 1937 and the work was first published in 1928. Source: uk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Місто",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:21:17.590325Z",
+        "revision": "518690",
+        "url": "https://uk.wikisource.org/wiki/%D0%9C%D1%96%D1%81%D1%82%D0%BE"
+      },
+      "title": "Місто",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "pidmohylny-misto"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "8332cb27c9439f41ec85e4dba3a85daeeb23016d1cdff309e05b37eda4e4292a",
+        "encoding": "gzip",
+        "path": "books/uk/q1214716.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f5d94fa730c26acb6dc5d5d95c3539a15a3af7fbf13cb3b6d293b6eba2b9ffd1",
+        "sizeBytes": 46297,
+        "uncompressedSizeBytes": 164507,
+        "wordCount": 14982
+      },
+      "author": "Генріх фон Клейст",
+      "authorDeathYear": 1811,
+      "editionId": "q1214716.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "uk",
+      "originalLanguage": "de",
+      "originalPublicationYear": 1808,
+      "originalTitle": "Маркіза О…",
+      "rights": {
+        "statement": "Public domain worldwide. Генріх фон Клейст died in 1811; the translator Іван Франко died in 1916 and this translation was first published in 1903. Source: uk.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Маркіза О… (1903)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:21:24.537444Z",
+        "revision": "367199",
+        "url": "https://uk.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D1%96%D0%B7%D0%B0_%D0%9E%E2%80%A6_(1903)"
+      },
+      "title": "Маркіза О…",
+      "translationPublicationYear": 1903,
+      "translator": "Іван Франко",
+      "translatorDeathYear": 1916,
+      "workId": "q1214716"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 28,
+        "contentSha256": "4825f1b2da4149700b8e820b1ba5e18de15d3020a3b3bffb1a0ebacaf503c2df",
+        "encoding": "gzip",
+        "path": "books/uk/q21979418.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c26e7c1b69379ee877ed2a8bf6956784fcc846a2e6c7146caa7e4bbe184a8e91",
+        "sizeBytes": 56311,
+        "uncompressedSizeBytes": 198615,
+        "wordCount": 18790
+      },
+      "author": "Ількевич Григорій Степанович",
+      "authorDeathYear": 1841,
+      "editionId": "q21979418.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "uk",
+      "originalLanguage": "uk",
+      "originalPublicationYear": 1841,
+      "originalTitle": "Галицькі приповідки і загадки",
+      "rights": {
+        "statement": "Public domain worldwide. Ількевич Григорій Степанович died in 1841 and the work was first published in 1841. Source: uk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Галицкіи приповѣдки и загадки",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:22:04.964341Z",
+        "revision": "459358",
+        "url": "https://uk.wikisource.org/wiki/%D0%93%D0%B0%D0%BB%D0%B8%D1%86%D0%BA%D1%96%D0%B8_%D0%BF%D1%80%D0%B8%D0%BF%D0%BE%D0%B2%D1%A3%D0%B4%D0%BA%D0%B8_%D0%B8_%D0%B7%D0%B0%D0%B3%D0%B0%D0%B4%D0%BA%D0%B8"
+      },
+      "title": "Галицькі приповідки і загадки",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "q21979418"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "25c2a2833339a684e8aa7f43d357c323d2f459d1154d9f3eccf4398044019af8",
+        "encoding": "gzip",
+        "path": "books/uk/ukrainka-the-forest-song.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9f69ae9c27b1aa3dc197f1c7ba1cee67efcca7146bea28563c7902bf328bc176",
+        "sizeBytes": 46594,
+        "uncompressedSizeBytes": 153038,
+        "wordCount": 16987
+      },
+      "author": "Леся Українка",
+      "authorDeathYear": 1913,
+      "editionId": "ukrainka-the-forest-song.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "uk",
+      "originalLanguage": "uk",
+      "originalPublicationYear": 1912,
+      "originalTitle": "Лісова пісня",
+      "rights": {
+        "statement": "Public domain worldwide. Леся Українка died in 1913 and the work was first published in 1912. Source: uk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Лісова пісня",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:22:13.704007Z",
+        "revision": "86220",
+        "url": "https://uk.wikisource.org/wiki/%D0%9B%D1%96%D1%81%D0%BE%D0%B2%D0%B0_%D0%BF%D1%96%D1%81%D0%BD%D1%8F"
+      },
+      "title": "Лісова пісня",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "ukrainka-the-forest-song"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Ukrainian",
+  "language": "uk",
+  "manifestVersion": "fa49713f9995068c",
+  "nativeName": "Українська",
+  "schemaVersion": 1
+}

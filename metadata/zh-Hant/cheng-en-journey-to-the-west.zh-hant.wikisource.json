@@ -1,0 +1,477 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:08:42.772618Z",
+    "chapterCount": 101,
+    "contentSha256": "1081bfa8169a87da09c57d104e45110904805dcdd8cd1f59fe19a265d9fc13f0",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/cheng-en-journey-to-the-west.zh-hant.wikisource/v1/book.json.gz",
+    "sha256": "446336153e7e17607d1f7c5b99155a294d415c4f79c7d555a65f8d2dac245a9a",
+    "sizeBytes": 976761,
+    "uncompressedSizeBytes": 2275227,
+    "wordCount": 7197
+  },
+  "edition": {
+    "editionId": "cheng-en-journey-to-the-west.zh-hant.wikisource",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "西遊記"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1582: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1592: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q70784",
+      "https://www.wikidata.org/wiki/Q228889",
+      "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 吳承恩 died in 1582 and the work was first published in 1592. Source: zh.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "西遊記",
+    "pages": [
+      {
+        "revision": 7905272,
+        "title": "西遊記"
+      },
+      {
+        "revision": 2562136,
+        "title": "西遊記/第001回"
+      },
+      {
+        "revision": 2449088,
+        "title": "西遊記/第002回"
+      },
+      {
+        "revision": 2610943,
+        "title": "西遊記/第003回"
+      },
+      {
+        "revision": 2449093,
+        "title": "西遊記/第004回"
+      },
+      {
+        "revision": 1455554,
+        "title": "西遊記/第005回"
+      },
+      {
+        "revision": 2634386,
+        "title": "西遊記/第006回"
+      },
+      {
+        "revision": 2646669,
+        "title": "西遊記/第007回"
+      },
+      {
+        "revision": 1807472,
+        "title": "西遊記/第008回"
+      },
+      {
+        "revision": 1962034,
+        "title": "西遊記/第009回"
+      },
+      {
+        "revision": 2194739,
+        "title": "西遊記/第010回"
+      },
+      {
+        "revision": 1500624,
+        "title": "西遊記/第011回"
+      },
+      {
+        "revision": 1500623,
+        "title": "西遊記/第012回"
+      },
+      {
+        "revision": 1500625,
+        "title": "西遊記/第013回"
+      },
+      {
+        "revision": 1455563,
+        "title": "西遊記/第014回"
+      },
+      {
+        "revision": 1455564,
+        "title": "西遊記/第015回"
+      },
+      {
+        "revision": 1455565,
+        "title": "西遊記/第016回"
+      },
+      {
+        "revision": 2597258,
+        "title": "西遊記/第017回"
+      },
+      {
+        "revision": 1455567,
+        "title": "西遊記/第018回"
+      },
+      {
+        "revision": 1455568,
+        "title": "西遊記/第019回"
+      },
+      {
+        "revision": 1455569,
+        "title": "西遊記/第020回"
+      },
+      {
+        "revision": 2609807,
+        "title": "西遊記/第021回"
+      },
+      {
+        "revision": 7910914,
+        "title": "西遊記/第022回"
+      },
+      {
+        "revision": 1512800,
+        "title": "西遊記/第023回"
+      },
+      {
+        "revision": 1455573,
+        "title": "西遊記/第024回"
+      },
+      {
+        "revision": 1455574,
+        "title": "西遊記/第025回"
+      },
+      {
+        "revision": 1808230,
+        "title": "西遊記/第026回"
+      },
+      {
+        "revision": 1455576,
+        "title": "西遊記/第027回"
+      },
+      {
+        "revision": 1455577,
+        "title": "西遊記/第028回"
+      },
+      {
+        "revision": 1455578,
+        "title": "西遊記/第029回"
+      },
+      {
+        "revision": 1455579,
+        "title": "西遊記/第030回"
+      },
+      {
+        "revision": 1455580,
+        "title": "西遊記/第031回"
+      },
+      {
+        "revision": 1808364,
+        "title": "西遊記/第032回"
+      },
+      {
+        "revision": 1500615,
+        "title": "西遊記/第033回"
+      },
+      {
+        "revision": 1500614,
+        "title": "西遊記/第034回"
+      },
+      {
+        "revision": 1500616,
+        "title": "西遊記/第035回"
+      },
+      {
+        "revision": 1455585,
+        "title": "西遊記/第036回"
+      },
+      {
+        "revision": 1808441,
+        "title": "西遊記/第037回"
+      },
+      {
+        "revision": 1455587,
+        "title": "西遊記/第038回"
+      },
+      {
+        "revision": 1500596,
+        "title": "西遊記/第039回"
+      },
+      {
+        "revision": 1808481,
+        "title": "西遊記/第040回"
+      },
+      {
+        "revision": 1500598,
+        "title": "西遊記/第041回"
+      },
+      {
+        "revision": 1808580,
+        "title": "西遊記/第042回"
+      },
+      {
+        "revision": 1455592,
+        "title": "西遊記/第043回"
+      },
+      {
+        "revision": 1455593,
+        "title": "西遊記/第044回"
+      },
+      {
+        "revision": 1455594,
+        "title": "西遊記/第045回"
+      },
+      {
+        "revision": 1557967,
+        "title": "西遊記/第046回"
+      },
+      {
+        "revision": 2598626,
+        "title": "西遊記/第047回"
+      },
+      {
+        "revision": 1808610,
+        "title": "西遊記/第048回"
+      },
+      {
+        "revision": 1808612,
+        "title": "西遊記/第049回"
+      },
+      {
+        "revision": 1498134,
+        "title": "西遊記/第050回"
+      },
+      {
+        "revision": 1498138,
+        "title": "西遊記/第051回"
+      },
+      {
+        "revision": 1498137,
+        "title": "西遊記/第052回"
+      },
+      {
+        "revision": 1498139,
+        "title": "西遊記/第053回"
+      },
+      {
+        "revision": 1455603,
+        "title": "西遊記/第054回"
+      },
+      {
+        "revision": 2316520,
+        "title": "西遊記/第055回"
+      },
+      {
+        "revision": 1455605,
+        "title": "西遊記/第056回"
+      },
+      {
+        "revision": 2031415,
+        "title": "西遊記/第057回"
+      },
+      {
+        "revision": 1455607,
+        "title": "西遊記/第058回"
+      },
+      {
+        "revision": 1455608,
+        "title": "西遊記/第059回"
+      },
+      {
+        "revision": 1500612,
+        "title": "西遊記/第060回"
+      },
+      {
+        "revision": 1500610,
+        "title": "西遊記/第061回"
+      },
+      {
+        "revision": 1500611,
+        "title": "西遊記/第062回"
+      },
+      {
+        "revision": 1808654,
+        "title": "西遊記/第063回"
+      },
+      {
+        "revision": 1455613,
+        "title": "西遊記/第064回"
+      },
+      {
+        "revision": 1455614,
+        "title": "西遊記/第065回"
+      },
+      {
+        "revision": 1455615,
+        "title": "西遊記/第066回"
+      },
+      {
+        "revision": 1455616,
+        "title": "西遊記/第067回"
+      },
+      {
+        "revision": 1455617,
+        "title": "西遊記/第068回"
+      },
+      {
+        "revision": 1455618,
+        "title": "西遊記/第069回"
+      },
+      {
+        "revision": 1455619,
+        "title": "西遊記/第070回"
+      },
+      {
+        "revision": 1455620,
+        "title": "西遊記/第071回"
+      },
+      {
+        "revision": 2557105,
+        "title": "西遊記/第072回"
+      },
+      {
+        "revision": 1500620,
+        "title": "西遊記/第073回"
+      },
+      {
+        "revision": 1500622,
+        "title": "西遊記/第074回"
+      },
+      {
+        "revision": 2093000,
+        "title": "西遊記/第075回"
+      },
+      {
+        "revision": 1557754,
+        "title": "西遊記/第076回"
+      },
+      {
+        "revision": 1455626,
+        "title": "西遊記/第077回"
+      },
+      {
+        "revision": 1455627,
+        "title": "西遊記/第078回"
+      },
+      {
+        "revision": 1455628,
+        "title": "西遊記/第079回"
+      },
+      {
+        "revision": 1808715,
+        "title": "西遊記/第080回"
+      },
+      {
+        "revision": 1455630,
+        "title": "西遊記/第081回"
+      },
+      {
+        "revision": 1455631,
+        "title": "西遊記/第082回"
+      },
+      {
+        "revision": 1455632,
+        "title": "西遊記/第083回"
+      },
+      {
+        "revision": 2597328,
+        "title": "西遊記/第084回"
+      },
+      {
+        "revision": 1455634,
+        "title": "西遊記/第085回"
+      },
+      {
+        "revision": 1500525,
+        "title": "西遊記/第086回"
+      },
+      {
+        "revision": 1500526,
+        "title": "西遊記/第087回"
+      },
+      {
+        "revision": 1500527,
+        "title": "西遊記/第088回"
+      },
+      {
+        "revision": 1500528,
+        "title": "西遊記/第089回"
+      },
+      {
+        "revision": 1455639,
+        "title": "西遊記/第090回"
+      },
+      {
+        "revision": 1455640,
+        "title": "西遊記/第091回"
+      },
+      {
+        "revision": 1455641,
+        "title": "西遊記/第092回"
+      },
+      {
+        "revision": 1455642,
+        "title": "西遊記/第093回"
+      },
+      {
+        "revision": 1500607,
+        "title": "西遊記/第094回"
+      },
+      {
+        "revision": 1500606,
+        "title": "西遊記/第095回"
+      },
+      {
+        "revision": 1500608,
+        "title": "西遊記/第096回"
+      },
+      {
+        "revision": 1455646,
+        "title": "西遊記/第097回"
+      },
+      {
+        "revision": 1500530,
+        "title": "西遊記/第098回"
+      },
+      {
+        "revision": 1558059,
+        "title": "西遊記/第099回"
+      },
+      {
+        "revision": 1500545,
+        "title": "西遊記/第100回"
+      },
+      {
+        "revision": 168354,
+        "title": "西遊記/附錄"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:30:38.180292Z",
+    "revision": "7905272",
+    "site": "zh.wikisource.org",
+    "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1500,
+      "deathYear": 1582,
+      "name": "吳承恩",
+      "wikidata": "Q228889"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": 1592,
+    "originalTitle": "西遊記",
+    "workId": "cheng-en-journey-to-the-west"
+  }
+}

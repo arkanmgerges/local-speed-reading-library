@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:07.768006Z",
+    "chapterCount": 7,
+    "contentSha256": "66c0b1c673c0ad3921de56708e14a07276e36de336834f81e0e453af6a38d882",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/kocevar-mlinarjev-janez.sl.wikisource/v1/book.json.gz",
+    "sha256": "381522ec04c3e6ae907e0591ee64e13b4e0ea7dc29f367bc7516a6b203b82f4f",
+    "sizeBytes": 73282,
+    "uncompressedSizeBytes": 183587,
+    "wordCount": 29990
+  },
+  "edition": {
+    "editionId": "kocevar-mlinarjev-janez.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Mlinarjev Janez: Slovenski junak ali uplemenitba Teharčanov"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1878: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1859: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q6885733",
+      "https://www.wikidata.org/wiki/Q12788832",
+      "https://sl.wikisource.org/wiki/Mlinarjev_Janez"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ferdo Kočevar died in 1878 and the work was first published in 1859. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Mlinarjev Janez",
+    "pages": [
+      {
+        "revision": 161894,
+        "title": "Mlinarjev Janez"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:56:13.215395Z",
+    "revision": "161894",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Mlinarjev_Janez"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1833,
+      "deathYear": 1878,
+      "name": "Ferdo Kočevar",
+      "wikidata": "Q12788832"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1859,
+    "originalTitle": "Mlinarjev Janez: Slovenski junak ali uplemenitba Teharčanov",
+    "workId": "kocevar-mlinarjev-janez"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:25.199194Z",
+    "chapterCount": 1,
+    "contentSha256": "c4d45813a37c30948a6567211b49eb4d30997bdca276ef68c237de58e38bb7fa",
+    "normalizerVersion": "0.2.0",
+    "path": "books/su/musa-dongeng-dongeng-pieunteungeun.su.wikisource/v1/book.json.gz",
+    "sha256": "b33e2319da42acdf9071b5ba0bfba9495273dcce8abec2d884a5e5878fb4132f",
+    "sizeBytes": 50113,
+    "uncompressedSizeBytes": 149548,
+    "wordCount": 19798
+  },
+  "edition": {
+    "editionId": "musa-dongeng-dongeng-pieunteungeun.su.wikisource",
+    "kind": "original",
+    "language": "su",
+    "title": "Dongeng-dongeng Pieunteungeun"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1886: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1888: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q65337627",
+      "https://www.wikidata.org/wiki/Q7414542",
+      "https://su.wikisource.org/wiki/Dong%C3%A9ng-dong%C3%A9ng_Pieunteungeun_(1888)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Muhamad Musa died in 1886 and the work was first published in 1888. Source: su.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Dongéng-dongéng Pieunteungeun (1888)",
+    "pages": [
+      {
+        "revision": 20920,
+        "title": "Dongéng-dongéng Pieunteungeun (1888)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:58:01.643836Z",
+    "revision": "20920",
+    "site": "su.wikisource.org",
+    "url": "https://su.wikisource.org/wiki/Dong%C3%A9ng-dong%C3%A9ng_Pieunteungeun_(1888)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1822,
+      "deathYear": 1886,
+      "name": "Muhamad Musa",
+      "wikidata": "Q7414542"
+    },
+    "originalLanguage": "su",
+    "originalPublicationYear": 1888,
+    "originalTitle": "Dongeng-dongeng Pieunteungeun",
+    "workId": "musa-dongeng-dongeng-pieunteungeun"
+  }
+}

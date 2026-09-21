@@ -1,0 +1,89 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:08:02.575955Z",
+    "chapterCount": 4,
+    "contentSha256": "43ef8b17df69702e5358746ea37ba098108e363517eb7b19be926e346fabef7a",
+    "normalizerVersion": "0.2.0",
+    "path": "books/th/bradley-dictionary-of-the-siamese-language.th.wikisource/v1/book.json.gz",
+    "sha256": "6c7e5648427fe1c8d1c1c7b823f75f2a8b8b935b92642135d836a67e4c0bc1e6",
+    "sizeBytes": 7397,
+    "uncompressedSizeBytes": 36054,
+    "wordCount": 650
+  },
+  "edition": {
+    "editionId": "bradley-dictionary-of-the-siamese-language.th.wikisource",
+    "kind": "original",
+    "language": "th",
+    "title": "อักขราภิธานศรับท์"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1873: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1873: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q61366080",
+      "https://www.wikidata.org/wiki/Q1158990",
+      "https://th.wikisource.org/wiki/%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%B4%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B9%8C"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. แดน บีช บรัดเลย์ died in 1873 and the work was first published in 1873. Source: th.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "อักขราภิธานศรับท์",
+    "pages": [
+      {
+        "revision": 211357,
+        "title": "อักขราภิธานศรับท์"
+      },
+      {
+        "revision": 262297,
+        "title": "อักขราภิธานศรับท์/บทที่ 4"
+      },
+      {
+        "revision": 237230,
+        "title": "อักขราภิธานศรับท์/บทที่ 34"
+      },
+      {
+        "revision": 237227,
+        "title": "อักขราภิธานศรับท์/บทที่ 35"
+      },
+      {
+        "revision": 237228,
+        "title": "อักขราภิธานศรับท์/บทที่ 36"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:18:07.777605Z",
+    "revision": "211357",
+    "site": "th.wikisource.org",
+    "url": "https://th.wikisource.org/wiki/%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%B4%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B9%8C"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1804,
+      "deathYear": 1873,
+      "name": "แดน บีช บรัดเลย์",
+      "wikidata": "Q1158990"
+    },
+    "originalLanguage": "th",
+    "originalPublicationYear": 1873,
+    "originalTitle": "อักขราภิธานศรับท์",
+    "workId": "bradley-dictionary-of-the-siamese-language"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:08:14.119119Z",
+    "chapterCount": 28,
+    "contentSha256": "2b4244d145ad4f6d5ead39b25c9742f734624a572021adcd1afaa09bf4c781d0",
+    "normalizerVersion": "0.2.0",
+    "path": "books/uk/pidmohylny-misto.uk.wikisource/v1/book.json.gz",
+    "sha256": "74a4f65e9358a5736f6a4584876ac1ef3ced8b4c26552410cde91ef098618e21",
+    "sizeBytes": 269782,
+    "uncompressedSizeBytes": 938667,
+    "wordCount": 79508
+  },
+  "edition": {
+    "editionId": "pidmohylny-misto.uk.wikisource",
+    "kind": "original",
+    "language": "uk",
+    "title": "Місто"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1937: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1928: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12131636",
+      "https://www.wikidata.org/wiki/Q1375599",
+      "https://uk.wikisource.org/wiki/%D0%9C%D1%96%D1%81%D1%82%D0%BE"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Підмогильний Валер'ян Петрович died in 1937 and the work was first published in 1928. Source: uk.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Місто",
+    "pages": [
+      {
+        "revision": 518690,
+        "title": "Місто"
+      },
+      {
+        "revision": 518616,
+        "title": "Місто/1/I"
+      },
+      {
+        "revision": 518625,
+        "title": "Місто/1/II"
+      },
+      {
+        "revision": 518626,
+        "title": "Місто/1/III"
+      },
+      {
+        "revision": 518627,
+        "title": "Місто/1/IV"
+      },
+      {
+        "revision": 518628,
+        "title": "Місто/1/V"
+      },
+      {
+        "revision": 518629,
+        "title": "Місто/1/VI"
+      },
+      {
+        "revision": 518630,
+        "title": "Місто/1/VII"
+      },
+      {
+        "revision": 518631,
+        "title": "Місто/1/VIII"
+      },
+      {
+        "revision": 518632,
+        "title": "Місто/1/IX"
+      },
+      {
+        "revision": 518633,
+        "title": "Місто/1/X"
+      },
+      {
+        "revision": 518634,
+        "title": "Місто/1/XI"
+      },
+      {
+        "revision": 518635,
+        "title": "Місто/1/XII"
+      },
+      {
+        "revision": 518636,
+        "title": "Місто/1/XIII"
+      },
+      {
+        "revision": 518638,
+        "title": "Місто/1/XIV"
+      },
+      {
+        "revision": 518689,
+        "title": "Місто/2/I"
+      },
+      {
+        "revision": 518676,
+        "title": "Місто/2/II"
+      },
+      {
+        "revision": 518677,
+        "title": "Місто/2/III"
+      },
+      {
+        "revision": 518678,
+        "title": "Місто/2/IV"
+      },
+      {
+        "revision": 518679,
+        "title": "Місто/2/V"
+      },
+      {
+        "revision": 518680,
+        "title": "Місто/2/VI"
+      },
+      {
+        "revision": 518681,
+        "title": "Місто/2/VII"
+      },
+      {
+        "revision": 518682,
+        "title": "Місто/2/VIII"
+      },
+      {
+        "revision": 518683,
+        "title": "Місто/2/IX"
+      },
+      {
+        "revision": 518684,
+        "title": "Місто/2/X"
+      },
+      {
+        "revision": 518685,
+        "title": "Місто/2/XI"
+      },
+      {
+        "revision": 518686,
+        "title": "Місто/2/XII"
+      },
+      {
+        "revision": 518687,
+        "title": "Місто/2/XIII"
+      },
+      {
+        "revision": 518691,
+        "title": "Місто/2/XIV"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:21:17.590325Z",
+    "revision": "518690",
+    "site": "uk.wikisource.org",
+    "url": "https://uk.wikisource.org/wiki/%D0%9C%D1%96%D1%81%D1%82%D0%BE"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1901,
+      "deathYear": 1937,
+      "name": "Підмогильний Валер'ян Петрович",
+      "wikidata": "Q1375599"
+    },
+    "originalLanguage": "uk",
+    "originalPublicationYear": 1928,
+    "originalTitle": "Місто",
+    "workId": "pidmohylny-misto"
+  }
+}

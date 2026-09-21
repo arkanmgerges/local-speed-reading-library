@@ -1,0 +1,68 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:01:55.013775Z",
+    "chapterCount": 53,
+    "contentSha256": "d0ee96a220879c3c277203dd3dc0dabd413ef286e41863acc321f7e7371f52d4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/conscience-de-leeuw-van-vlaanderen-of-de-slag.nl.gutenberg/v1/book.json.gz",
+    "sha256": "b569d22c8ee91b0a37e6d296a280037971b35bb552c2465e718c473bee711d51",
+    "sizeBytes": 292715,
+    "uncompressedSizeBytes": 839360,
+    "wordCount": 133660
+  },
+  "edition": {
+    "editionId": "conscience-de-leeuw-van-vlaanderen-of-de-slag.nl.gutenberg",
+    "kind": "original",
+    "language": "nl",
+    "title": "De Leeuw van Vlaanderen Of de Slag der Gulden Sporen"
+  },
+  "genres": [
+    "Fiction",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1883: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1838: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/15682",
+      "https://nl.wikipedia.org/wiki/Hendrik_Conscience",
+      "https://en.wikipedia.org/wiki/Hendrik_Conscience",
+      "https://www.wikidata.org/wiki/Q977727"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Hendrik Conscience died in 1883 and the work was first published in 1838. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "15682",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:07:07.728040Z",
+    "revision": "Mon, 07 Sep 2026 07:49:29 GMT",
+    "url": "https://www.gutenberg.org/ebooks/15682"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1812,
+      "deathYear": 1883,
+      "name": "Hendrik Conscience",
+      "wikidata": "Q378133"
+    },
+    "originalLanguage": "nl",
+    "originalPublicationYear": 1838,
+    "originalTitle": "De Leeuw van Vlaanderen Of de Slag der Gulden Sporen",
+    "workId": "conscience-de-leeuw-van-vlaanderen-of-de-slag"
+  }
+}

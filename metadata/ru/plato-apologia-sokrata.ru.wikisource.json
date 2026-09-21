@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:25.326028Z",
+    "chapterCount": 1,
+    "contentSha256": "8c79c80e9b9dd27a003ea4d75eedf37c7b156520296049e56cb9798d8c802328",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ru/plato-apologia-sokrata.ru.wikisource/v1/book.json.gz",
+    "sha256": "8b10daa1c52ed3c278051d02602cf9ed9dc0a00b5d955eaac1f1129836eb00dc",
+    "sizeBytes": 27788,
+    "uncompressedSizeBytes": 103440,
+    "wordCount": 9380
+  },
+  "edition": {
+    "editionId": "plato-apologia-sokrata.ru.wikisource",
+    "kind": "translation",
+    "language": "ru",
+    "title": "Апология Сократа",
+    "translationPublicationYear": 1863,
+    "translator": {
+      "birthYear": 1798,
+      "deathYear": 1867,
+      "name": "Василий Николаевич Карпов",
+      "wikidata": "Q4215786"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -348: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1867: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1863: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q273668",
+      "https://www.wikidata.org/wiki/Q28137293",
+      "https://www.wikidata.org/wiki/Q859",
+      "https://www.wikidata.org/wiki/Q4215786",
+      "https://ru.wikisource.org/wiki/%D0%90%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%A1%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B0_(%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%3B_%D0%9A%D0%B0%D1%80%D0%BF%D0%BE%D0%B2)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Платон died in -348; the translator Василий Николаевич Карпов died in 1867 and this translation was first published in 1863. Source: ru.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Апология Сократа (Платон; Карпов)",
+    "pages": [
+      {
+        "revision": 3714605,
+        "title": "Апология Сократа (Платон; Карпов)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:52:42.072641Z",
+    "revision": "3714605",
+    "site": "ru.wikisource.org",
+    "url": "https://ru.wikisource.org/wiki/%D0%90%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%A1%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B0_(%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%3B_%D0%9A%D0%B0%D1%80%D0%BF%D0%BE%D0%B2)"
+  },
+  "work": {
+    "author": {
+      "birthYear": -428,
+      "deathYear": -348,
+      "name": "Платон",
+      "wikidata": "Q859"
+    },
+    "originalLanguage": "grc",
+    "originalPublicationYear": -395,
+    "originalTitle": "Apologiâ Sokrata",
+    "workId": "plato-apologia-sokrata"
+  }
+}

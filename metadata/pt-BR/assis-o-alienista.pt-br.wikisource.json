@@ -1,0 +1,125 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:33:07.431628Z",
+    "chapterCount": 13,
+    "contentSha256": "7b83ae46caa9464b2a5939f37467b629607e284c906c705b4c60bac602fb6af9",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt-br/assis-o-alienista.pt-br.wikisource/v1/book.json.gz",
+    "sha256": "d3080b9c34024659d4ec3c0245a22b8fef3ec696f47593660850dfb5de016b01",
+    "sizeBytes": 40531,
+    "uncompressedSizeBytes": 107763,
+    "wordCount": 16489
+  },
+  "edition": {
+    "editionId": "assis-o-alienista.pt-br.wikisource",
+    "kind": "original",
+    "language": "pt-BR",
+    "title": "O Alienista"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1908: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1882: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q31137",
+      "https://www.wikidata.org/wiki/Q311145",
+      "https://pt.wikisource.org/wiki/O_Alienista"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1882. Source: pt.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "O Alienista",
+    "pages": [
+      {
+        "revision": 515634,
+        "title": "O Alienista"
+      },
+      {
+        "revision": 515296,
+        "title": "O Alienista/I"
+      },
+      {
+        "revision": 515300,
+        "title": "O Alienista/II"
+      },
+      {
+        "revision": 515301,
+        "title": "O Alienista/III"
+      },
+      {
+        "revision": 515302,
+        "title": "O Alienista/IV"
+      },
+      {
+        "revision": 515303,
+        "title": "O Alienista/V"
+      },
+      {
+        "revision": 515304,
+        "title": "O Alienista/VI"
+      },
+      {
+        "revision": 515305,
+        "title": "O Alienista/VII"
+      },
+      {
+        "revision": 515306,
+        "title": "O Alienista/VIII"
+      },
+      {
+        "revision": 515307,
+        "title": "O Alienista/IX"
+      },
+      {
+        "revision": 515308,
+        "title": "O Alienista/X"
+      },
+      {
+        "revision": 515309,
+        "title": "O Alienista/XI"
+      },
+      {
+        "revision": 515310,
+        "title": "O Alienista/XII"
+      },
+      {
+        "revision": 515311,
+        "title": "O Alienista/XIII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:37:42.647132Z",
+    "revision": "515634",
+    "site": "pt.wikisource.org",
+    "url": "https://pt.wikisource.org/wiki/O_Alienista"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1839,
+      "deathYear": 1908,
+      "name": "Machado de Assis",
+      "wikidata": "Q311145"
+    },
+    "originalLanguage": "pt-BR",
+    "originalPublicationYear": 1882,
+    "originalTitle": "O Alienista",
+    "workId": "assis-o-alienista"
+  }
+}

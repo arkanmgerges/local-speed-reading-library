@@ -1,0 +1,133 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:58:00.004797Z",
+    "chapterCount": 15,
+    "contentSha256": "d94a1bcae4bce5451177274ac3d007cae45f561f89d97bc09ce3e65cc1a6b5cb",
+    "normalizerVersion": "0.2.0",
+    "path": "books/gu/desai-savita-sundari.gu.wikisource/v1/book.json.gz",
+    "sha256": "f077a0fd5b9abf9e55c9ee738517fa9d8dce6dacbb440238046d434c71bb919f",
+    "sizeBytes": 46045,
+    "uncompressedSizeBytes": 225639,
+    "wordCount": 15198
+  },
+  "edition": {
+    "editionId": "desai-savita-sundari.gu.wikisource",
+    "kind": "original",
+    "language": "gu",
+    "title": "સવિતા-સુંદરી"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1912: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1891: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q27968361",
+      "https://www.wikidata.org/wiki/Q2724598",
+      "https://gu.wikisource.org/wiki/%E0%AA%B8%E0%AA%B5%E0%AA%BF%E0%AA%A4%E0%AA%BE-%E0%AA%B8%E0%AB%81%E0%AA%82%E0%AA%A6%E0%AA%B0%E0%AB%80"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ઇચ્છારામ દેસાઈ died in 1912 and the work was first published in 1891. Source: gu.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "સવિતા-સુંદરી",
+    "pages": [
+      {
+        "revision": 204854,
+        "title": "સવિતા-સુંદરી"
+      },
+      {
+        "revision": 62070,
+        "title": "સવિતા-સુંદરી/આમૂખ"
+      },
+      {
+        "revision": 62071,
+        "title": "સવિતા-સુંદરી/આશાદાન"
+      },
+      {
+        "revision": 62072,
+        "title": "સવિતા-સુંદરી/કુળ"
+      },
+      {
+        "revision": 62073,
+        "title": "સવિતા-સુંદરી/આશા ને નિરાશા"
+      },
+      {
+        "revision": 62074,
+        "title": "સવિતા-સુંદરી/નિશ્ચય"
+      },
+      {
+        "revision": 62075,
+        "title": "સવિતા-સુંદરી/કુલીન જમાઈ"
+      },
+      {
+        "revision": 62076,
+        "title": "સવિતા-સુંદરી/સોચના"
+      },
+      {
+        "revision": 62077,
+        "title": "સવિતા-સુંદરી/સ્વપત્નિ સંભાષણ"
+      },
+      {
+        "revision": 62078,
+        "title": "સવિતા-સુંદરી/હઠ"
+      },
+      {
+        "revision": 62079,
+        "title": "સવિતા-સુંદરી/પ્રતિજ્ઞા"
+      },
+      {
+        "revision": 62080,
+        "title": "સવિતા-સુંદરી/સંદેહ"
+      },
+      {
+        "revision": 62081,
+        "title": "સવિતા-સુંદરી/શયન મંદિરમાં"
+      },
+      {
+        "revision": 62082,
+        "title": "સવિતા-સુંદરી/લગ્ન"
+      },
+      {
+        "revision": 62084,
+        "title": "સવિતા-સુંદરી/ખુલાસો"
+      },
+      {
+        "revision": 62085,
+        "title": "સવિતા-સુંદરી/ઉપસંહાર"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:19:54.499222Z",
+    "revision": "204854",
+    "site": "gu.wikisource.org",
+    "url": "https://gu.wikisource.org/wiki/%E0%AA%B8%E0%AA%B5%E0%AA%BF%E0%AA%A4%E0%AA%BE-%E0%AA%B8%E0%AB%81%E0%AA%82%E0%AA%A6%E0%AA%B0%E0%AB%80"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1853,
+      "deathYear": 1912,
+      "name": "ઇચ્છારામ દેસાઈ",
+      "wikidata": "Q2724598"
+    },
+    "originalLanguage": "gu",
+    "originalPublicationYear": 1891,
+    "originalTitle": "સવિતા-સુંદરી",
+    "workId": "desai-savita-sundari"
+  }
+}

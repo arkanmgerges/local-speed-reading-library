@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:26:19.549388Z",
+    "chapterCount": 1,
+    "contentSha256": "8a52f468cc05efc8c5f737ab9a747e5fa27aa80d752461d60de5d38cd4c3647a",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/andersen-la-petite-sirene.fr.wikisource/v1/book.json.gz",
+    "sha256": "142111a9636426861423b231f68040c81b3057d5d79e6eb9184ea88a4faef82c",
+    "sizeBytes": 16864,
+    "uncompressedSizeBytes": 46540,
+    "wordCount": 7412
+  },
+  "edition": {
+    "editionId": "andersen-la-petite-sirene.fr.wikisource",
+    "kind": "translation",
+    "language": "fr",
+    "title": "La Petite Sirène",
+    "translationPublicationYear": 1876,
+    "translator": {
+      "birthYear": 1819,
+      "deathYear": 1884,
+      "name": "David Soldi",
+      "wikidata": "Q16546390"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1875: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1884: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1876: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q11859",
+      "https://www.wikidata.org/wiki/Q42308953",
+      "https://www.wikidata.org/wiki/Q5673",
+      "https://www.wikidata.org/wiki/Q16546390",
+      "https://fr.wikisource.org/wiki/Contes_d%E2%80%99Andersen%2FLa_Petite_Sir%C3%A8ne"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Hans Christian Andersen died in 1875; the translator David Soldi died in 1884 and this translation was first published in 1876. Source: fr.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Contes d’Andersen/La Petite Sirène",
+    "pages": [
+      {
+        "revision": 12245708,
+        "title": "Contes d’Andersen/La Petite Sirène"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:05:08.252340Z",
+    "revision": "12245708",
+    "site": "fr.wikisource.org",
+    "url": "https://fr.wikisource.org/wiki/Contes_d%E2%80%99Andersen/La_Petite_Sir%C3%A8ne"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1805,
+      "deathYear": 1875,
+      "name": "Hans Christian Andersen",
+      "wikidata": "Q5673"
+    },
+    "originalLanguage": "da",
+    "originalPublicationYear": 1837,
+    "originalTitle": "La Petite Sirène",
+    "workId": "andersen-la-petite-sirene"
+  }
+}

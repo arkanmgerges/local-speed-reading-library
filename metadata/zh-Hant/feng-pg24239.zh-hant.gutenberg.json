@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:37:23.047246Z",
+    "chapterCount": 1,
+    "contentSha256": "63187f2172f78d61fcc397553fb7b8cc06970a09697c6fbe54de444cde29c2b2",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/feng-pg24239.zh-hant.gutenberg/v1/book.json.gz",
+    "sha256": "c9906a2a3d83f7b5b6d3a5fde69b680f48dc6fbf9ac9145c5ba1d1f784888600",
+    "sizeBytes": 737270,
+    "uncompressedSizeBytes": 1611004,
+    "wordCount": 3365
+  },
+  "edition": {
+    "editionId": "feng-pg24239.zh-hant.gutenberg",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "醒世恆言"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1646: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1627: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/24239",
+      "https://en.wikipedia.org/wiki/Feng_Menglong",
+      "https://zh.wikipedia.org/wiki/%E5%86%AF%E6%A2%A6%E9%BE%99",
+      "https://www.wikidata.org/wiki/Q15911643"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Menglong Feng died in 1646 and the work was first published in 1627. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "24239",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T05:33:14.837619Z",
+    "revision": "Thu, 10 Sep 2026 10:24:24 GMT",
+    "url": "https://www.gutenberg.org/ebooks/24239"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1574,
+      "deathYear": 1646,
+      "name": "Menglong Feng",
+      "wikidata": "Q371966"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": 1627,
+    "originalTitle": "醒世恆言",
+    "workId": "feng-pg24239"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:24.842152Z",
+    "chapterCount": 9,
+    "contentSha256": "c0d7fbff37799154a8cd1ba8e49912ae4f0f4efb58577fc4a1bdc9dec4131f23",
+    "normalizerVersion": "0.2.0",
+    "path": "books/bn/vidyasagar-bangalar-itihas.bn.wikisource/v1/book.json.gz",
+    "sha256": "df0140a48deeba8df30f7df5976b83f534cb0e7afd6c77d0b234248c3bc6dbe6",
+    "sizeBytes": 76671,
+    "uncompressedSizeBytes": 463519,
+    "wordCount": 24422
+  },
+  "edition": {
+    "editionId": "vidyasagar-bangalar-itihas.bn.wikisource",
+    "kind": "original",
+    "language": "bn",
+    "title": "বাঙ্গালার ইতিহাস"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1891: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1853: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q25990593",
+      "https://www.wikidata.org/wiki/Q964111",
+      "https://bn.wikisource.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8_(%E0%A6%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%2C_%E0%A7%A7%E0%A7%AE%E0%A7%AB%E0%A7%A9)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ঈশ্বরচন্দ্র বিদ্যাসাগর died in 1891 and the work was first published in 1853. Source: bn.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "বাঙ্গালার ইতিহাস (ঈশ্বরচন্দ্র বিদ্যাসাগর, ১৮৫৩)",
+    "pages": [
+      {
+        "revision": 1975943,
+        "title": "বাঙ্গালার ইতিহাস (ঈশ্বরচন্দ্র বিদ্যাসাগর, ১৮৫৩)"
+      },
+      {
+        "revision": 1975940,
+        "title": "বাঙ্গালার ইতিহাস (ঈশ্বরচন্দ্র বিদ্যাসাগর, ১৮৫৩)/প্রথম অধ্যায়"
+      },
+      {
+        "revision": 1975937,
+        "title": "বাঙ্গালার ইতিহাস (ঈশ্বরচন্দ্র বিদ্যাসাগর, ১৮৫৩)/দ্বিতীয় অধ্যায়"
+      },
+      {
+        "revision": 1975936,
+        "title": "বাঙ্গালার ইতিহাস (ঈশ্বরচন্দ্র বিদ্যাসাগর, ১৮৫৩)/তৃতীয় অধ্যায়"
+      },
+      {
+        "revision": 1975935,
+        "title": "বাঙ্গালার ইতিহাস (ঈশ্বরচন্দ্র বিদ্যাসাগর, ১৮৫৩)/চতুর্থ অধ্যায়"
+      },
+      {
+        "revision": 1975939,
+        "title": "বাঙ্গালার ইতিহাস (ঈশ্বরচন্দ্র বিদ্যাসাগর, ১৮৫৩)/পঞ্চম অধ্যায়"
+      },
+      {
+        "revision": 1975941,
+        "title": "বাঙ্গালার ইতিহাস (ঈশ্বরচন্দ্র বিদ্যাসাগর, ১৮৫৩)/ষষ্ঠ অধ্যায়"
+      },
+      {
+        "revision": 1975942,
+        "title": "বাঙ্গালার ইতিহাস (ঈশ্বরচন্দ্র বিদ্যাসাগর, ১৮৫৩)/সপ্তম অধ্যায়"
+      },
+      {
+        "revision": 1975934,
+        "title": "বাঙ্গালার ইতিহাস (ঈশ্বরচন্দ্র বিদ্যাসাগর, ১৮৫৩)/অষ্টম অধ্যায়"
+      },
+      {
+        "revision": 1975938,
+        "title": "বাঙ্গালার ইতিহাস (ঈশ্বরচন্দ্র বিদ্যাসাগর, ১৮৫৩)/নবম অধ্যায়"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:03:39.966316Z",
+    "revision": "1975943",
+    "site": "bn.wikisource.org",
+    "url": "https://bn.wikisource.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8_(%E0%A6%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%2C_%E0%A7%A7%E0%A7%AE%E0%A7%AB%E0%A7%A9)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1820,
+      "deathYear": 1891,
+      "name": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "wikidata": "Q964111"
+    },
+    "originalLanguage": "bn",
+    "originalPublicationYear": 1853,
+    "originalTitle": "বাঙ্গালার ইতিহাস",
+    "workId": "vidyasagar-bangalar-itihas"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:04:22.188797Z",
+    "chapterCount": 25,
+    "contentSha256": "43657925c0a44a178b8cb88ab87647e8661e1ac84a9dbec9e530eba6da6a7052",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt-br/lobato-o-presidente-negro.pt-br.wikisource/v1/book.json.gz",
+    "sha256": "f2a82325fa49dc6e2225ef817ff3dd127bd34897beabf4eba3d75edd618e9db2",
+    "sizeBytes": 114326,
+    "uncompressedSizeBytes": 308761,
+    "wordCount": 47914
+  },
+  "edition": {
+    "editionId": "lobato-o-presidente-negro.pt-br.wikisource",
+    "kind": "original",
+    "language": "pt-BR",
+    "title": "O Presidente Negro"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1948: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1926: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q3283511",
+      "https://www.wikidata.org/wiki/Q606389",
+      "https://pt.wikisource.org/wiki/O_Choque_das_Ra%C3%A7as"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Monteiro Lobato died in 1948 and the work was first published in 1926. Source: pt.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "O Choque das Raças",
+    "pages": [
+      {
+        "revision": 521421,
+        "title": "O Choque das Raças"
+      },
+      {
+        "revision": 524522,
+        "title": "O Choque das Raças/Capítulo 1"
+      },
+      {
+        "revision": 524523,
+        "title": "O Choque das Raças/Capítulo 2"
+      },
+      {
+        "revision": 524524,
+        "title": "O Choque das Raças/Capítulo 3"
+      },
+      {
+        "revision": 524525,
+        "title": "O Choque das Raças/Capítulo 4"
+      },
+      {
+        "revision": 524526,
+        "title": "O Choque das Raças/Capítulo 5"
+      },
+      {
+        "revision": 524527,
+        "title": "O Choque das Raças/Capítulo 6"
+      },
+      {
+        "revision": 524528,
+        "title": "O Choque das Raças/Capítulo 7"
+      },
+      {
+        "revision": 524529,
+        "title": "O Choque das Raças/Capítulo 8"
+      },
+      {
+        "revision": 524530,
+        "title": "O Choque das Raças/Capítulo 9"
+      },
+      {
+        "revision": 524531,
+        "title": "O Choque das Raças/Capítulo 10"
+      },
+      {
+        "revision": 524532,
+        "title": "O Choque das Raças/Capítulo 11"
+      },
+      {
+        "revision": 524533,
+        "title": "O Choque das Raças/Capítulo 12"
+      },
+      {
+        "revision": 524534,
+        "title": "O Choque das Raças/Capítulo 13"
+      },
+      {
+        "revision": 491304,
+        "title": "O Choque das Raças/Capítulo 14"
+      },
+      {
+        "revision": 524535,
+        "title": "O Choque das Raças/Capítulo 15"
+      },
+      {
+        "revision": 524536,
+        "title": "O Choque das Raças/Capítulo 16"
+      },
+      {
+        "revision": 524537,
+        "title": "O Choque das Raças/Capítulo 17"
+      },
+      {
+        "revision": 524538,
+        "title": "O Choque das Raças/Capítulo 18"
+      },
+      {
+        "revision": 524539,
+        "title": "O Choque das Raças/Capítulo 19"
+      },
+      {
+        "revision": 524540,
+        "title": "O Choque das Raças/Capítulo 20"
+      },
+      {
+        "revision": 524541,
+        "title": "O Choque das Raças/Capítulo 21"
+      },
+      {
+        "revision": 524542,
+        "title": "O Choque das Raças/Capítulo 22"
+      },
+      {
+        "revision": 524543,
+        "title": "O Choque das Raças/Capítulo 23"
+      },
+      {
+        "revision": 524544,
+        "title": "O Choque das Raças/Capítulo 24"
+      },
+      {
+        "revision": 524545,
+        "title": "O Choque das Raças/Capítulo 25"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:44:55.076831Z",
+    "revision": "521421",
+    "site": "pt.wikisource.org",
+    "url": "https://pt.wikisource.org/wiki/O_Choque_das_Ra%C3%A7as"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1882,
+      "deathYear": 1948,
+      "name": "Monteiro Lobato",
+      "wikidata": "Q606389"
+    },
+    "originalLanguage": "pt-BR",
+    "originalPublicationYear": 1926,
+    "originalTitle": "O Presidente Negro",
+    "workId": "lobato-o-presidente-negro"
+  }
+}

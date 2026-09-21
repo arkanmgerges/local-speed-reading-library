@@ -1,0 +1,161 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:07:51.657817Z",
+    "chapterCount": 21,
+    "contentSha256": "73de26f587ef68694b99d6cd6ad030c0edfb72ddddc7faf4e15a9f8e60a70c2d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/te/narasimham-hemalatha.te.wikisource/v1/book.json.gz",
+    "sha256": "09a3657ea80932a7351a4de3aa136a47e9991d95caf66ee0d59abe87fee072d7",
+    "sizeBytes": 91014,
+    "uncompressedSizeBytes": 473938,
+    "wordCount": 18372
+  },
+  "edition": {
+    "editionId": "narasimham-hemalatha.te.wikisource",
+    "kind": "original",
+    "language": "te",
+    "title": "హేమలత"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1896: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q97254765",
+      "https://www.wikidata.org/wiki/Q5097576",
+      "https://te.wikisource.org/wiki/%E0%B0%B9%E0%B1%87%E0%B0%AE%E0%B0%B2%E0%B0%A4"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. చిలకమర్తి లక్ష్మీనరసింహం died in 1946 and the work was first published in 1896. Source: te.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "హేమలత",
+    "pages": [
+      {
+        "revision": 412711,
+        "title": "హేమలత"
+      },
+      {
+        "revision": 286570,
+        "title": "హేమలత/మొదటి ప్రకరణము"
+      },
+      {
+        "revision": 412725,
+        "title": "హేమలత/విషయసూచిక"
+      },
+      {
+        "revision": 297428,
+        "title": "హేమలత/రెండవ ప్రకరణము"
+      },
+      {
+        "revision": 304414,
+        "title": "హేమలత/మూడవ ప్రకరణము"
+      },
+      {
+        "revision": 304423,
+        "title": "హేమలత/నాల్గవ ప్రకరణము"
+      },
+      {
+        "revision": 304425,
+        "title": "హేమలత/అయిదవ ప్రకరణము"
+      },
+      {
+        "revision": 304521,
+        "title": "హేమలత/ఏడవ ప్రకరణము"
+      },
+      {
+        "revision": 304519,
+        "title": "హేమలత/ఆఱవ ప్రకరణము"
+      },
+      {
+        "revision": 304523,
+        "title": "హేమలత/ఎనిమిదవ ప్రకరణము"
+      },
+      {
+        "revision": 304525,
+        "title": "హేమలత/తొమ్మిదవ ప్రకరణము"
+      },
+      {
+        "revision": 304527,
+        "title": "హేమలత/పదవ ప్రకరణము"
+      },
+      {
+        "revision": 304529,
+        "title": "హేమలత/పదునొకండవ ప్రకరణము"
+      },
+      {
+        "revision": 304531,
+        "title": "హేమలత/పండ్రెండవ ప్రకరణము"
+      },
+      {
+        "revision": 304636,
+        "title": "హేమలత/పదమూడవ ప్రకరణము"
+      },
+      {
+        "revision": 304638,
+        "title": "హేమలత/పదునాలుగవ ప్రకరణము"
+      },
+      {
+        "revision": 304640,
+        "title": "హేమలత/పదునేనవ ప్రకరణము"
+      },
+      {
+        "revision": 304661,
+        "title": "హేమలత/పదియారవ ప్రకరణము"
+      },
+      {
+        "revision": 304663,
+        "title": "హేమలత/పదియేడవ ప్రకరణము"
+      },
+      {
+        "revision": 304666,
+        "title": "హేమలత/పదునెనిమిదవ ప్రకరణము"
+      },
+      {
+        "revision": 304668,
+        "title": "హేమలత/పందొమ్మిదవ ప్రకరణము"
+      },
+      {
+        "revision": 304961,
+        "title": "హేమలత/ఇరువదవ ప్రకరణము"
+      },
+      {
+        "revision": 304962,
+        "title": "హేమలత/రచయిత"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:15:05.508662Z",
+    "revision": "412711",
+    "site": "te.wikisource.org",
+    "url": "https://te.wikisource.org/wiki/%E0%B0%B9%E0%B1%87%E0%B0%AE%E0%B0%B2%E0%B0%A4"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1867,
+      "deathYear": 1946,
+      "name": "చిలకమర్తి లక్ష్మీనరసింహం",
+      "wikidata": "Q5097576"
+    },
+    "originalLanguage": "te",
+    "originalPublicationYear": 1896,
+    "originalTitle": "హేమలత",
+    "workId": "narasimham-hemalatha"
+  }
+}

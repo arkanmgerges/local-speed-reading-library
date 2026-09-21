@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:58:33.867115Z",
+    "chapterCount": 26,
+    "contentSha256": "913b03203387aa7ae497ee3b7b6ea67fdf1b6b50059a370dfeb6f985480f606d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hu/eotvos-a-bakony-2-kotet.hu.gutenberg/v1/book.json.gz",
+    "sha256": "6f1388501ed64f6279cce1102cd88fc250f37a4378ee385a180fa22a771a2381",
+    "sizeBytes": 174006,
+    "uncompressedSizeBytes": 463685,
+    "wordCount": 61587
+  },
+  "edition": {
+    "editionId": "eotvos-a-bakony-2-kotet.hu.gutenberg",
+    "editionPublicationYear": 1909,
+    "kind": "original",
+    "language": "hu",
+    "title": "A Bakony (2. kötet)"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1916: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1909 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/69034",
+      "https://hu.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_K%C3%A1roly"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Károly Eötvös died in 1916 and the edition digitised by Project Gutenberg was printed in 1909. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "69034",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:34:47.088002Z",
+    "revision": "Thu, 27 Aug 2026 13:29:46 GMT",
+    "url": "https://www.gutenberg.org/ebooks/69034"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1842,
+      "deathYear": 1916,
+      "name": "Károly Eötvös",
+      "wikidata": "Q994550"
+    },
+    "originalLanguage": "hu",
+    "originalTitle": "A Bakony (2. kötet)",
+    "workId": "eotvos-a-bakony-2-kotet"
+  }
+}

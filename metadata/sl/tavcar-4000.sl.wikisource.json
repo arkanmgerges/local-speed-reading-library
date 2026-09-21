@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:17.418798Z",
+    "chapterCount": 13,
+    "contentSha256": "cfbc3fffb2f06ca1495f230f84b8951fb96b41b2d575c16668065a9322f446dd",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/tavcar-4000.sl.wikisource/v1/book.json.gz",
+    "sha256": "f44c2ac431a94588e2103cc111d0789e463893fa9d7a209d9b8e4a92b3c7d956",
+    "sizeBytes": 85603,
+    "uncompressedSizeBytes": 226051,
+    "wordCount": 34293
+  },
+  "edition": {
+    "editionId": "tavcar-4000.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "4000"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1923: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1891: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q17391350",
+      "https://www.wikidata.org/wiki/Q700898",
+      "https://sl.wikisource.org/wiki/4000"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ivan Tavčar died in 1923 and the work was first published in 1891. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "4000",
+    "pages": [
+      {
+        "revision": 161612,
+        "title": "4000"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:56:38.196356Z",
+    "revision": "161612",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/4000"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1851,
+      "deathYear": 1923,
+      "name": "Ivan Tavčar",
+      "wikidata": "Q700898"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1891,
+    "originalTitle": "4000",
+    "workId": "tavcar-4000"
+  }
+}

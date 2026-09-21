@@ -1,0 +1,85 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:33:15.941974Z",
+    "chapterCount": 18,
+    "contentSha256": "635400d3cba45667d2b42347ab57cfcf0471a9547dfdf83539bca12e0bda2d75",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt-br/leme-genealogia-paulistana.pt-br.wikisource/v1/book.json.gz",
+    "sha256": "6b3b9355d11bcba3c449ef049b9c5aa1f8e031146c2affa1d80d3a93d88f590b",
+    "sizeBytes": 79912,
+    "uncompressedSizeBytes": 312307,
+    "wordCount": 52421
+  },
+  "edition": {
+    "editionId": "leme-genealogia-paulistana.pt-br.wikisource",
+    "kind": "original",
+    "language": "pt-BR",
+    "title": "Genealogia Paulistana"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1919: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1903: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q3759452",
+      "https://www.wikidata.org/wiki/Q10321469",
+      "https://pt.wikisource.org/wiki/Genealogia_Paulistana"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Luís Gonzaga da Silva Leme died in 1919 and the work was first published in 1903. Source: pt.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Genealogia Paulistana",
+    "pages": [
+      {
+        "revision": 465636,
+        "title": "Genealogia Paulistana"
+      },
+      {
+        "revision": 288447,
+        "title": "Genealogia Paulistana/I/Ao Leitor"
+      },
+      {
+        "revision": 288444,
+        "title": "Genealogia Paulistana/I/Introdução"
+      },
+      {
+        "revision": 288396,
+        "title": "Genealogia Paulistana/I/Carvoeiros"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:44:19.403751Z",
+    "revision": "465636",
+    "site": "pt.wikisource.org",
+    "url": "https://pt.wikisource.org/wiki/Genealogia_Paulistana"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1852,
+      "deathYear": 1919,
+      "name": "Luís Gonzaga da Silva Leme",
+      "wikidata": "Q10321469"
+    },
+    "originalLanguage": "pt-BR",
+    "originalPublicationYear": 1903,
+    "originalTitle": "Genealogia Paulistana",
+    "workId": "leme-genealogia-paulistana"
+  }
+}

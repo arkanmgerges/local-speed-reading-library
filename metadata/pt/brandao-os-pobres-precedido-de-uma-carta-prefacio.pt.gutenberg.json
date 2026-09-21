@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:04:33.390562Z",
+    "chapterCount": 30,
+    "contentSha256": "ad72c07c6d99b10c3fa5525303f380cf148d5a29a67d83c289d598242d012536",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt/brandao-os-pobres-precedido-de-uma-carta-prefacio.pt.gutenberg/v1/book.json.gz",
+    "sha256": "3903dfdb9cf8652c167a235a8e0f1318421abc6a400a1762de8dbfc62d26ced2",
+    "sizeBytes": 103419,
+    "uncompressedSizeBytes": 276710,
+    "wordCount": 43643
+  },
+  "edition": {
+    "editionId": "brandao-os-pobres-precedido-de-uma-carta-prefacio.pt.gutenberg",
+    "editionPublicationYear": 1906,
+    "kind": "original",
+    "language": "pt",
+    "title": "Os Pobres Precedido de uma Carta-Prefacio de Guerra Junqueiro"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1906 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/20841",
+      "https://en.wikipedia.org/wiki/Raul_Brand%C3%A3o",
+      "https://pt.wikipedia.org/wiki/Raul_Brand%C3%A3o"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Raul Brandão died in 1930 and the edition digitised by Project Gutenberg was printed in 1906. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "20841",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:46:41.273293Z",
+    "revision": "Wed, 09 Sep 2026 07:39:40 GMT",
+    "url": "https://www.gutenberg.org/ebooks/20841"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1867,
+      "deathYear": 1930,
+      "name": "Raul Brandão",
+      "wikidata": "Q2035991"
+    },
+    "originalLanguage": "pt",
+    "originalTitle": "Os Pobres Precedido de uma Carta-Prefacio de Guerra Junqueiro",
+    "workId": "brandao-os-pobres-precedido-de-uma-carta-prefacio"
+  }
+}

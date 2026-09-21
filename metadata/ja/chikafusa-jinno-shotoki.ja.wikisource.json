@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:24.932941Z",
+    "chapterCount": 7,
+    "contentSha256": "701fefba7651e93e8b2afb8ed01c1ba0ed50c205048e3c05a8f39f6277131088",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ja/chikafusa-jinno-shotoki.ja.wikisource/v1/book.json.gz",
+    "sha256": "6009a59b0c9bde5d4dc14993ad59fb64dfccd6f9e6508c3e9b2881e18b7c8308",
+    "sizeBytes": 121659,
+    "uncompressedSizeBytes": 377641,
+    "wordCount": 131
+  },
+  "edition": {
+    "editionId": "chikafusa-jinno-shotoki.ja.wikisource",
+    "kind": "original",
+    "language": "ja",
+    "title": "神皇正統記"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1354: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1339: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1049788",
+      "https://www.wikidata.org/wiki/Q683792",
+      "https://ja.wikisource.org/wiki/%E7%A5%9E%E7%9A%87%E6%AD%A3%E7%B5%B1%E8%A8%98"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 北畠親房 died in 1354 and the work was first published in 1339. Source: ja.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "神皇正統記",
+    "pages": [
+      {
+        "revision": 233290,
+        "title": "神皇正統記"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:49:51.382255Z",
+    "revision": "233290",
+    "site": "ja.wikisource.org",
+    "url": "https://ja.wikisource.org/wiki/%E7%A5%9E%E7%9A%87%E6%AD%A3%E7%B5%B1%E8%A8%98"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1293,
+      "deathYear": 1354,
+      "name": "北畠親房",
+      "wikidata": "Q683792"
+    },
+    "originalLanguage": "ja",
+    "originalPublicationYear": 1339,
+    "originalTitle": "神皇正統記",
+    "workId": "chikafusa-jinno-shotoki"
+  }
+}

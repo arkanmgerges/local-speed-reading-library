@@ -1,0 +1,193 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:37:06.847262Z",
+    "chapterCount": 30,
+    "contentSha256": "45a45cb15d25944884f6e182f446fee965e82b22d3fb370fe7cf6113f7711ca3",
+    "normalizerVersion": "0.2.0",
+    "path": "books/vi/t-gi-t-mau-chung-tinh.vi.wikisource/v1/book.json.gz",
+    "sha256": "00277e74b0566000828fe9044931e0d3319cccdc4085cfdb12dfd70bab1872b9",
+    "sizeBytes": 112265,
+    "uncompressedSizeBytes": 360113,
+    "wordCount": 55402
+  },
+  "edition": {
+    "editionId": "t-gi-t-mau-chung-tinh.vi.wikisource",
+    "kind": "original",
+    "language": "vi",
+    "title": "Giọt máu chung tình"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1955: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1926: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q24957961",
+      "https://www.wikidata.org/wiki/Q16480522",
+      "https://vi.wikisource.org/wiki/Gi%E1%BB%8Dt_m%C3%A1u_chung_t%C3%ACnh"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Tân Dân Tử died in 1955 and the work was first published in 1926. Source: vi.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Giọt máu chung tình",
+    "pages": [
+      {
+        "revision": 95766,
+        "title": "Giọt máu chung tình"
+      },
+      {
+        "revision": 95776,
+        "title": "Giọt máu chung tình/Lời phụ thuyết"
+      },
+      {
+        "revision": 95777,
+        "title": "Giọt máu chung tình/Lời tự"
+      },
+      {
+        "revision": 95955,
+        "title": "Giọt máu chung tình/Hồi thứ nhứt"
+      },
+      {
+        "revision": 96648,
+        "title": "Giọt máu chung tình/Hồi thứ hai"
+      },
+      {
+        "revision": 96653,
+        "title": "Giọt máu chung tình/Hồi thứ ba"
+      },
+      {
+        "revision": 96662,
+        "title": "Giọt máu chung tình/Hồi thứ tư"
+      },
+      {
+        "revision": 96677,
+        "title": "Giọt máu chung tình/Hồi thứ năm"
+      },
+      {
+        "revision": 96684,
+        "title": "Giọt máu chung tình/Hồi thứ sáu"
+      },
+      {
+        "revision": 96693,
+        "title": "Giọt máu chung tình/Hồi thứ bảy"
+      },
+      {
+        "revision": 96705,
+        "title": "Giọt máu chung tình/Hồi thứ tám"
+      },
+      {
+        "revision": 96722,
+        "title": "Giọt máu chung tình/Hồi thứ chín"
+      },
+      {
+        "revision": 97252,
+        "title": "Giọt máu chung tình/Hồi thứ mười"
+      },
+      {
+        "revision": 97270,
+        "title": "Giọt máu chung tình/Hồi thứ mười một"
+      },
+      {
+        "revision": 97271,
+        "title": "Giọt máu chung tình/Hồi thứ mười hai"
+      },
+      {
+        "revision": 97293,
+        "title": "Giọt máu chung tình/Hồi thứ mười ba"
+      },
+      {
+        "revision": 97292,
+        "title": "Giọt máu chung tình/Hồi thứ mười bốn"
+      },
+      {
+        "revision": 97299,
+        "title": "Giọt máu chung tình/Hồi thứ mười lăm"
+      },
+      {
+        "revision": 98489,
+        "title": "Giọt máu chung tình/Hồi thứ mười sáu"
+      },
+      {
+        "revision": 98496,
+        "title": "Giọt máu chung tình/Hồi thứ mười bảy"
+      },
+      {
+        "revision": 98520,
+        "title": "Giọt máu chung tình/Hồi thứ mười tám"
+      },
+      {
+        "revision": 98538,
+        "title": "Giọt máu chung tình/Hồi thứ mười chín"
+      },
+      {
+        "revision": 98544,
+        "title": "Giọt máu chung tình/Hồi thứ hai mươi"
+      },
+      {
+        "revision": 98551,
+        "title": "Giọt máu chung tình/Hồi thứ hai mươi mốt"
+      },
+      {
+        "revision": 98554,
+        "title": "Giọt máu chung tình/Hồi thứ hai mươi hai"
+      },
+      {
+        "revision": 98557,
+        "title": "Giọt máu chung tình/Hồi thứ hai mươi ba"
+      },
+      {
+        "revision": 98657,
+        "title": "Giọt máu chung tình/Hồi thứ hai mươi bốn"
+      },
+      {
+        "revision": 98690,
+        "title": "Giọt máu chung tình/Hồi thứ hai mươi lăm"
+      },
+      {
+        "revision": 98691,
+        "title": "Giọt máu chung tình/Hồi thứ hai mươi sáu"
+      },
+      {
+        "revision": 98702,
+        "title": "Giọt máu chung tình/Hồi thứ hai mươi bảy"
+      },
+      {
+        "revision": 98709,
+        "title": "Giọt máu chung tình/Hồi thứ hai mươi tám"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:26:41.004949Z",
+    "revision": "95766",
+    "site": "vi.wikisource.org",
+    "url": "https://vi.wikisource.org/wiki/Gi%E1%BB%8Dt_m%C3%A1u_chung_t%C3%ACnh"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1875,
+      "deathYear": 1955,
+      "name": "Tân Dân Tử",
+      "wikidata": "Q16480522"
+    },
+    "originalLanguage": "vi",
+    "originalPublicationYear": 1926,
+    "originalTitle": "Giọt máu chung tình",
+    "workId": "t-gi-t-mau-chung-tinh"
+  }
+}

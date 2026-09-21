@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:05.033453Z",
+    "chapterCount": 39,
+    "contentSha256": "bc13f6603ac2429f6f55522f7c4871afb4a65a1023a11113f1407490070fc80e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/andersen-nexo-pelle-erobreren-3.da.gutenberg/v1/book.json.gz",
+    "sha256": "ddef3ca24de7e7d1e53bdf876e322b945c6956d0332c887f937c0f0955d9841f",
+    "sizeBytes": 258954,
+    "uncompressedSizeBytes": 693539,
+    "wordCount": 118750
+  },
+  "edition": {
+    "editionId": "andersen-nexo-pelle-erobreren-3.da.gutenberg",
+    "kind": "original",
+    "language": "da",
+    "title": "Pelle Erobreren 3: Den store Kamp"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1954: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1900: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/76883",
+      "https://en.wikipedia.org/wiki/Martin_Andersen_Nex%C3%B8",
+      "https://www.wikidata.org/wiki/Q1642629"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Martin Andersen Nexø died in 1954 and the work was first published in 1900. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "76883",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:19:16.281458Z",
+    "revision": "Sun, 30 Aug 2026 18:07:14 GMT",
+    "url": "https://www.gutenberg.org/ebooks/76883"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1869,
+      "deathYear": 1954,
+      "name": "Martin Andersen Nexø",
+      "wikidata": "Q168569"
+    },
+    "originalLanguage": "da",
+    "originalPublicationYear": 1900,
+    "originalTitle": "Pelle Erobreren 3: Den store Kamp",
+    "workId": "andersen-nexo-pelle-erobreren-3"
+  }
+}

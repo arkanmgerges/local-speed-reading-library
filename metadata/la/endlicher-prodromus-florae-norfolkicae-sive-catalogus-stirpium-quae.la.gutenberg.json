@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:46.996453Z",
+    "chapterCount": 6,
+    "contentSha256": "dde7c8bb27323cff544f6aa0f04f79e364311759bc161a9649151799a001f156",
+    "normalizerVersion": "0.2.0",
+    "path": "books/la/endlicher-prodromus-florae-norfolkicae-sive-catalogus-stirpium-quae.la.gutenberg/v1/book.json.gz",
+    "sha256": "b32227cef0a3018f193452eb33447a797c8b0726976d5806b2b3447f3791c48e",
+    "sizeBytes": 87085,
+    "uncompressedSizeBytes": 284003,
+    "wordCount": 32159
+  },
+  "edition": {
+    "editionId": "endlicher-prodromus-florae-norfolkicae-sive-catalogus-stirpium-quae.la.gutenberg",
+    "kind": "original",
+    "language": "la",
+    "title": "Prodromus Florae Norfolkicae Sive, Catalogus stirpium quae in insula Norfolk annis 1804 et 1805 a Ferdinando Bauer collectae et depictae, nunc in Museo caesareo palatino rerum naturalium Vindobonae servantur"
+  },
+  "genres": [
+    "Science",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1849: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1833: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/41255",
+      "https://en.wikipedia.org/wiki/Stephan_Endlicher",
+      "https://www.wikidata.org/wiki/Q6087340"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Stephan Endlicher died in 1849 and the work was first published in 1833. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "41255",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:54:42.403661Z",
+    "revision": "Wed, 16 Sep 2026 21:12:54 GMT",
+    "url": "https://www.gutenberg.org/ebooks/41255"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1804,
+      "deathYear": 1849,
+      "name": "Stephan Endlicher",
+      "wikidata": "Q78605"
+    },
+    "originalLanguage": "la",
+    "originalPublicationYear": 1833,
+    "originalTitle": "Prodromus Florae Norfolkicae Sive, Catalogus stirpium quae in insula Norfolk annis 1804 et 1805 a Ferdinando Bauer collectae et depictae, nunc in Museo caesareo palatino rerum naturalium Vindobonae servantur",
+    "workId": "endlicher-prodromus-florae-norfolkicae-sive-catalogus-stirpium-quae"
+  }
+}

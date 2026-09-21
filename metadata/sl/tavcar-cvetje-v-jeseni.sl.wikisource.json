@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:18.144711Z",
+    "chapterCount": 11,
+    "contentSha256": "f8c50f3d38c23901a162ca187862aaf31864e1a496658ed57bf24e55a7eba0a1",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/tavcar-cvetje-v-jeseni.sl.wikisource/v1/book.json.gz",
+    "sha256": "2eb6e5784b6cc1401fdcdd402441b90b760b9944da2df3bc04981e24c52f5494",
+    "sizeBytes": 64288,
+    "uncompressedSizeBytes": 163936,
+    "wordCount": 26559
+  },
+  "edition": {
+    "editionId": "tavcar-cvetje-v-jeseni.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Cvetje v jeseni"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1923: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1917: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12787178",
+      "https://www.wikidata.org/wiki/Q700898",
+      "https://sl.wikisource.org/wiki/Cvetje_v_jeseni_(Ljubljanski_zvon)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ivan Tavčar died in 1923 and the work was first published in 1917. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Cvetje v jeseni (Ljubljanski zvon)",
+    "pages": [
+      {
+        "revision": 218942,
+        "title": "Cvetje v jeseni (Ljubljanski zvon)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:56:40.483578Z",
+    "revision": "218942",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Cvetje_v_jeseni_(Ljubljanski_zvon)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1851,
+      "deathYear": 1923,
+      "name": "Ivan Tavčar",
+      "wikidata": "Q700898"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1917,
+    "originalTitle": "Cvetje v jeseni",
+    "workId": "tavcar-cvetje-v-jeseni"
+  }
+}

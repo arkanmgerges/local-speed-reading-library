@@ -1,0 +1,139 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "1812eb5fb227cc06dd3541e5d710f7679145199418d5b2bb836f0a0b045d94b3",
+        "encoding": "gzip",
+        "path": "books/az/axundov-aldanm-s-k-vakib.az.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a15c5d0b34518c73b247219900a7a362ad95845cd801f9a1a84f07ad0ad7e487",
+        "sizeBytes": 20803,
+        "uncompressedSizeBytes": 56670,
+        "wordCount": 6630
+      },
+      "author": "Mirzə Fətəli Axundov",
+      "authorDeathYear": 1878,
+      "editionId": "axundov-aldanm-s-k-vakib.az.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "az",
+      "originalLanguage": "az",
+      "originalPublicationYear": 1857,
+      "originalTitle": "Aldanmış kəvakib",
+      "rights": {
+        "statement": "Public domain worldwide. Mirzə Fətəli Axundov died in 1878 and the work was first published in 1857. Source: az.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Aldanmış kəvakib",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:55:44.078552Z",
+        "revision": "42247",
+        "url": "https://az.wikisource.org/wiki/Aldanm%C4%B1%C5%9F_k%C9%99vakib"
+      },
+      "title": "Aldanmış kəvakib",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "axundov-aldanm-s-k-vakib"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 22,
+        "contentSha256": "f1191092d8edeaa19f8e7abe269f0df9715c0449c30ca8f80540c551c2520039",
+        "encoding": "gzip",
+        "path": "books/az/fuzuli-h-diq-tus-su-da.az.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "65c6269a284bffc99c42f91ae3abb80558e04aa1d7df0f17b408d73ac50cb0a3",
+        "sizeBytes": 266806,
+        "uncompressedSizeBytes": 776093,
+        "wordCount": 78540
+      },
+      "author": "Füzuli",
+      "authorDeathYear": 1556,
+      "editionId": "fuzuli-h-diq-tus-su-da.az.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "az",
+      "originalLanguage": "az",
+      "originalPublicationYear": 1854,
+      "originalTitle": "Hədiqətüs-süəda",
+      "rights": {
+        "statement": "Public domain worldwide. Füzuli died in 1556 and the work was first published in 1854. Source: az.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Hədiqətüs-süəda",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:56:34.759106Z",
+        "revision": "91528",
+        "url": "https://az.wikisource.org/wiki/H%C9%99diq%C9%99t%C3%BCs-s%C3%BC%C9%99da"
+      },
+      "title": "Hədiqətüs-süəda",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "fuzuli-h-diq-tus-su-da"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 13,
+        "contentSha256": "86bcb9798e4b75f63e77a29b51d1f61af227ebf9d27df9ccba187b2330171003",
+        "encoding": "gzip",
+        "path": "books/az/mirc-f-rzad-k-sful-h-qayiq.az.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f4d6f70655decd4f02f689f2235b65801ba9590885124faac95bebc44960bfc4",
+        "sizeBytes": 34960,
+        "uncompressedSizeBytes": 110673,
+        "wordCount": 11696
+      },
+      "author": "Mirməhəmmədkərim Mircəfərzadə",
+      "authorDeathYear": 1938,
+      "editionId": "mirc-f-rzad-k-sful-h-qayiq.az.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "az",
+      "originalLanguage": "az",
+      "originalPublicationYear": 1904,
+      "originalTitle": "Kəşfül-Həqayiq",
+      "rights": {
+        "statement": "Public domain worldwide. Mirməhəmmədkərim Mircəfərzadə died in 1938 and the work was first published in 1904. Source: az.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Kəşfül-Həqayiq",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:56:53.148755Z",
+        "revision": "85105",
+        "url": "https://az.wikisource.org/wiki/K%C9%99%C5%9Ff%C3%BCl-H%C9%99qayiq"
+      },
+      "title": "Kəşfül-Həqayiq",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "mirc-f-rzad-k-sful-h-qayiq"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Azerbaijani",
+  "language": "az",
+  "manifestVersion": "2e20286b3d9d4ca0",
+  "nativeName": "Azərbaycanca",
+  "schemaVersion": 1
+}

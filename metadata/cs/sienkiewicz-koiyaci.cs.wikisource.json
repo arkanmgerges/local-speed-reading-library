@@ -1,0 +1,175 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:52:02.931844Z",
+    "chapterCount": 23,
+    "contentSha256": "4f23d93731045178bad2793e40397978b6d420fc696f5da86dbe1bdf7bf657bd",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cs/sienkiewicz-koiyaci.cs.wikisource/v1/book.json.gz",
+    "sha256": "39f1d4dd94c06ce73c55186029d9c238f8d379ac68c0efde351313f7fc401b0d",
+    "sizeBytes": 267893,
+    "uncompressedSizeBytes": 706196,
+    "wordCount": 98148
+  },
+  "edition": {
+    "editionId": "sienkiewicz-koiyaci.cs.wikisource",
+    "kind": "translation",
+    "language": "cs",
+    "title": "Křižáci",
+    "translationPublicationYear": 1926,
+    "translator": {
+      "birthYear": 1871,
+      "deathYear": 1929,
+      "name": "Augustin Spáčil",
+      "wikidata": "Q56745153"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1916: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1929: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1926: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1214098",
+      "https://www.wikidata.org/wiki/Q55120752",
+      "https://www.wikidata.org/wiki/Q41502",
+      "https://www.wikidata.org/wiki/Q56745153",
+      "https://cs.wikisource.org/wiki/K%C5%99i%C5%BE%C3%A1ci"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Henryk Sienkiewicz died in 1916; the translator Augustin Spáčil died in 1929 and this translation was first published in 1926. Source: cs.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Křižáci",
+    "pages": [
+      {
+        "revision": 227872,
+        "title": "Křižáci"
+      },
+      {
+        "revision": 227873,
+        "title": "Křižáci/I."
+      },
+      {
+        "revision": 296621,
+        "title": "Křižáci/II."
+      },
+      {
+        "revision": 227875,
+        "title": "Křižáci/III."
+      },
+      {
+        "revision": 296622,
+        "title": "Křižáci/IV."
+      },
+      {
+        "revision": 296623,
+        "title": "Křižáci/V."
+      },
+      {
+        "revision": 296624,
+        "title": "Křižáci/VI."
+      },
+      {
+        "revision": 227879,
+        "title": "Křižáci/VII."
+      },
+      {
+        "revision": 227880,
+        "title": "Křižáci/VIII."
+      },
+      {
+        "revision": 227876,
+        "title": "Křižáci/IX."
+      },
+      {
+        "revision": 227881,
+        "title": "Křižáci/X."
+      },
+      {
+        "revision": 227882,
+        "title": "Křižáci/XI."
+      },
+      {
+        "revision": 227883,
+        "title": "Křižáci/XII."
+      },
+      {
+        "revision": 227884,
+        "title": "Křižáci/XIII."
+      },
+      {
+        "revision": 227885,
+        "title": "Křižáci/XIV."
+      },
+      {
+        "revision": 296625,
+        "title": "Křižáci/XV."
+      },
+      {
+        "revision": 296626,
+        "title": "Křižáci/XVI."
+      },
+      {
+        "revision": 227889,
+        "title": "Křižáci/XVII."
+      },
+      {
+        "revision": 227890,
+        "title": "Křižáci/XVIII."
+      },
+      {
+        "revision": 227886,
+        "title": "Křižáci/XIX."
+      },
+      {
+        "revision": 227891,
+        "title": "Křižáci/XX."
+      },
+      {
+        "revision": 227892,
+        "title": "Křižáci/XXI."
+      },
+      {
+        "revision": 227893,
+        "title": "Křižáci/XXII."
+      },
+      {
+        "revision": 296627,
+        "title": "Křižáci/XXIII."
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:11:25.319489Z",
+    "revision": "227872",
+    "site": "cs.wikisource.org",
+    "url": "https://cs.wikisource.org/wiki/K%C5%99i%C5%BE%C3%A1ci"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1846,
+      "deathYear": 1916,
+      "name": "Henryk Sienkiewicz",
+      "wikidata": "Q41502"
+    },
+    "originalLanguage": "pl",
+    "originalPublicationYear": 1900,
+    "originalTitle": "Křižáci",
+    "workId": "sienkiewicz-koiyaci"
+  }
+}

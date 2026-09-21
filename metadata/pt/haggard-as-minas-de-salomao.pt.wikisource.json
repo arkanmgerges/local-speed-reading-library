@@ -1,0 +1,155 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:04:42.288382Z",
+    "chapterCount": 18,
+    "contentSha256": "7f1a4f6b5102fb0c4715061abd4ce311e81499f0d15435ab3a50aeb8ff075483",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt/haggard-as-minas-de-salomao.pt.wikisource/v1/book.json.gz",
+    "sha256": "4092e2cf4c667dedb6ced809b51b54244ca62f495d3c18d8b10586025920896a",
+    "sizeBytes": 135268,
+    "uncompressedSizeBytes": 364504,
+    "wordCount": 58256
+  },
+  "edition": {
+    "editionId": "haggard-as-minas-de-salomao.pt.wikisource",
+    "kind": "translation",
+    "language": "pt",
+    "title": "As Minas de Salomão",
+    "translationPublicationYear": 1891,
+    "translator": {
+      "birthYear": 1845,
+      "deathYear": 1900,
+      "name": "Eça de Queirós",
+      "wikidata": "Q316327"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1925: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1900: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1891: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1137494",
+      "https://www.wikidata.org/wiki/Q67072765",
+      "https://www.wikidata.org/wiki/Q237196",
+      "https://www.wikidata.org/wiki/Q316327",
+      "https://pt.wikisource.org/wiki/As_Minas_de_Salom%C3%A3o"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Henry Rider Haggard died in 1925; the translator Eça de Queirós died in 1900 and this translation was first published in 1891. Source: pt.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "As Minas de Salomão",
+    "pages": [
+      {
+        "revision": 545791,
+        "title": "As Minas de Salomão"
+      },
+      {
+        "revision": 542610,
+        "title": "As Minas de Salomão/Introdução"
+      },
+      {
+        "revision": 542616,
+        "title": "As Minas de Salomão/I"
+      },
+      {
+        "revision": 542618,
+        "title": "As Minas de Salomão/II"
+      },
+      {
+        "revision": 542620,
+        "title": "As Minas de Salomão/III"
+      },
+      {
+        "revision": 542670,
+        "title": "As Minas de Salomão/IV"
+      },
+      {
+        "revision": 542624,
+        "title": "As Minas de Salomão/V"
+      },
+      {
+        "revision": 542626,
+        "title": "As Minas de Salomão/VI"
+      },
+      {
+        "revision": 542628,
+        "title": "As Minas de Salomão/VII"
+      },
+      {
+        "revision": 542630,
+        "title": "As Minas de Salomão/VIII"
+      },
+      {
+        "revision": 542632,
+        "title": "As Minas de Salomão/IX"
+      },
+      {
+        "revision": 542634,
+        "title": "As Minas de Salomão/X"
+      },
+      {
+        "revision": 542636,
+        "title": "As Minas de Salomão/XI"
+      },
+      {
+        "revision": 542638,
+        "title": "As Minas de Salomão/XII"
+      },
+      {
+        "revision": 542640,
+        "title": "As Minas de Salomão/XIII"
+      },
+      {
+        "revision": 542642,
+        "title": "As Minas de Salomão/XIV"
+      },
+      {
+        "revision": 542644,
+        "title": "As Minas de Salomão/XV"
+      },
+      {
+        "revision": 542646,
+        "title": "As Minas de Salomão/XVI"
+      },
+      {
+        "revision": 542614,
+        "title": "As Minas de Salomão/XVII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:47:51.014619Z",
+    "revision": "545791",
+    "site": "pt.wikisource.org",
+    "url": "https://pt.wikisource.org/wiki/As_Minas_de_Salom%C3%A3o"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1856,
+      "deathYear": 1925,
+      "name": "Henry Rider Haggard",
+      "wikidata": "Q237196"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1885,
+    "originalTitle": "As Minas de Salomão",
+    "workId": "haggard-as-minas-de-salomao"
+  }
+}

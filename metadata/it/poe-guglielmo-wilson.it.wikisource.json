@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:20.532102Z",
+    "chapterCount": 2,
+    "contentSha256": "4b45f6134e05ccdbb02e9e7c9815c5626be9be124b563647371ee2feeed4e495",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/poe-guglielmo-wilson.it.wikisource/v1/book.json.gz",
+    "sha256": "8e266b41f5f4b6d28133107ef80a046ca1c6789ac64f32416b76b0e37bb9c0e9",
+    "sizeBytes": 22952,
+    "uncompressedSizeBytes": 57423,
+    "wordCount": 8604
+  },
+  "edition": {
+    "editionId": "poe-guglielmo-wilson.it.wikisource",
+    "kind": "translation",
+    "language": "it",
+    "title": "Guglielmo Wilson",
+    "translationPublicationYear": 1869,
+    "translator": {
+      "birthYear": 1831,
+      "deathYear": 1899,
+      "name": "Baccio Emanuele Maineri",
+      "wikidata": "Q18071573"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1849: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1899: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1869: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1275853",
+      "https://www.wikidata.org/wiki/Q85922832",
+      "https://www.wikidata.org/wiki/Q16867",
+      "https://www.wikidata.org/wiki/Q18071573",
+      "https://it.wikisource.org/wiki/Guglielmo_Wilson"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Edgar Allan Poe died in 1849; the translator Baccio Emanuele Maineri died in 1899 and this translation was first published in 1869. Source: it.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Guglielmo Wilson",
+    "pages": [
+      {
+        "revision": 3696925,
+        "title": "Guglielmo Wilson"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:48:31.537801Z",
+    "revision": "3696925",
+    "site": "it.wikisource.org",
+    "url": "https://it.wikisource.org/wiki/Guglielmo_Wilson"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1809,
+      "deathYear": 1849,
+      "name": "Edgar Allan Poe",
+      "wikidata": "Q16867"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1839,
+    "originalTitle": "Guglielmo Wilson",
+    "workId": "poe-guglielmo-wilson"
+  }
+}

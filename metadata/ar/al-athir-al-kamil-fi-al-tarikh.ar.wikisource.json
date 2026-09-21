@@ -1,0 +1,77 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:20:28.849143Z",
+    "chapterCount": 127,
+    "contentSha256": "7cda3342a88c991083dce9d1f300a08a0c3290099ace28e4ec998597e55627c4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/al-athir-al-kamil-fi-al-tarikh.ar.wikisource/v1/book.json.gz",
+    "sha256": "d0158573d94eb0c19c8ab3c967c0b864b73d1c94cf09a1e073555d36e17df74e",
+    "sizeBytes": 237256,
+    "uncompressedSizeBytes": 868428,
+    "wordCount": 86456
+  },
+  "edition": {
+    "editionId": "al-athir-al-kamil-fi-al-tarikh.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "الكامل في التاريخ"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1233: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1231: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q4116230",
+      "https://www.wikidata.org/wiki/Q334854",
+      "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84_%D9%81%D9%8A_%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ابن الأثير الجزري died in 1233 and the work was first published in 1231. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "الكامل في التاريخ",
+    "pages": [
+      {
+        "revision": 105765,
+        "title": "الكامل في التاريخ"
+      },
+      {
+        "revision": 280579,
+        "title": "الكامل في التاريخ/المجلد الأول"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:51:02.168511Z",
+    "revision": "105765",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84_%D9%81%D9%8A_%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1160,
+      "deathYear": 1233,
+      "name": "ابن الأثير الجزري",
+      "wikidata": "Q334854"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 1231,
+    "originalTitle": "الكامل في التاريخ",
+    "workId": "al-athir-al-kamil-fi-al-tarikh"
+  }
+}

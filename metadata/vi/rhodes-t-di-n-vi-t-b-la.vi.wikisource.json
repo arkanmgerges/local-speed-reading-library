@@ -1,0 +1,301 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:37:04.979740Z",
+    "chapterCount": 199,
+    "contentSha256": "8a2499a7080a2fc9f2b56287b54d3b377699e1dcb796dd1bd21c4a05d72c4a26",
+    "normalizerVersion": "0.2.0",
+    "path": "books/vi/rhodes-t-di-n-vi-t-b-la.vi.wikisource/v1/book.json.gz",
+    "sha256": "1e9fc4c538912801e7d26990b2a3164cb8b75efb402992c5caa2632f7c0df0bf",
+    "sizeBytes": 423492,
+    "uncompressedSizeBytes": 1233845,
+    "wordCount": 151740
+  },
+  "edition": {
+    "editionId": "rhodes-t-di-n-vi-t-b-la.vi.wikisource",
+    "kind": "original",
+    "language": "vi",
+    "title": "Từ điển Việt-Bồ-La"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1660: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1651: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1806577",
+      "https://www.wikidata.org/wiki/Q336653",
+      "https://vi.wikisource.org/wiki/T%E1%BB%AB_%C4%91i%E1%BB%83n_Vi%E1%BB%87t%E2%80%93B%E1%BB%93%E2%80%93La"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Alexandre de Rhodes died in 1660 and the work was first published in 1651. Source: vi.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Từ điển Việt–Bồ–La",
+    "pages": [
+      {
+        "revision": 168701,
+        "title": "Từ điển Việt–Bồ–La"
+      },
+      {
+        "revision": 46821,
+        "title": "Từ điển Việt–Bồ–La/Congregationis de Propaganda Fide Cardinales"
+      },
+      {
+        "revision": 46823,
+        "title": "Từ điển Việt–Bồ–La/Ad Lectorem"
+      },
+      {
+        "revision": 125258,
+        "title": "Từ điển Việt–Bồ–La/A"
+      },
+      {
+        "revision": 184534,
+        "title": "Từ điển Việt–Bồ–La/B"
+      },
+      {
+        "revision": 125260,
+        "title": "Từ điển Việt–Bồ–La/ꞗ"
+      },
+      {
+        "revision": 125261,
+        "title": "Từ điển Việt–Bồ–La/C"
+      },
+      {
+        "revision": 125262,
+        "title": "Từ điển Việt–Bồ–La/D"
+      },
+      {
+        "revision": 125263,
+        "title": "Từ điển Việt–Bồ–La/đ"
+      },
+      {
+        "revision": 125264,
+        "title": "Từ điển Việt–Bồ–La/E"
+      },
+      {
+        "revision": 59230,
+        "title": "Từ điển Việt–Bồ–La/F"
+      },
+      {
+        "revision": 125265,
+        "title": "Từ điển Việt–Bồ–La/G"
+      },
+      {
+        "revision": 125266,
+        "title": "Từ điển Việt–Bồ–La/H"
+      },
+      {
+        "revision": 46843,
+        "title": "Từ điển Việt–Bồ–La/I"
+      },
+      {
+        "revision": 125267,
+        "title": "Từ điển Việt–Bồ–La/K"
+      },
+      {
+        "revision": 125268,
+        "title": "Từ điển Việt–Bồ–La/L"
+      },
+      {
+        "revision": 125387,
+        "title": "Từ điển Việt–Bồ–La/M"
+      },
+      {
+        "revision": 125388,
+        "title": "Từ điển Việt–Bồ–La/N"
+      },
+      {
+        "revision": 125389,
+        "title": "Từ điển Việt–Bồ–La/O"
+      },
+      {
+        "revision": 125390,
+        "title": "Từ điển Việt–Bồ–La/P"
+      },
+      {
+        "revision": 125391,
+        "title": "Từ điển Việt–Bồ–La/Q"
+      },
+      {
+        "revision": 125392,
+        "title": "Từ điển Việt–Bồ–La/R"
+      },
+      {
+        "revision": 125393,
+        "title": "Từ điển Việt–Bồ–La/S"
+      },
+      {
+        "revision": 125394,
+        "title": "Từ điển Việt–Bồ–La/T"
+      },
+      {
+        "revision": 125395,
+        "title": "Từ điển Việt–Bồ–La/V"
+      },
+      {
+        "revision": 125396,
+        "title": "Từ điển Việt–Bồ–La/X"
+      },
+      {
+        "revision": 46825,
+        "title": "Từ điển Việt–Bồ–La/Appendix"
+      },
+      {
+        "revision": 47749,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/A"
+      },
+      {
+        "revision": 47751,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/B"
+      },
+      {
+        "revision": 47755,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/C"
+      },
+      {
+        "revision": 47757,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/D"
+      },
+      {
+        "revision": 47804,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/E"
+      },
+      {
+        "revision": 47807,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/F"
+      },
+      {
+        "revision": 47809,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/G"
+      },
+      {
+        "revision": 47811,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/H"
+      },
+      {
+        "revision": 47813,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/I"
+      },
+      {
+        "revision": 47815,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/L"
+      },
+      {
+        "revision": 47816,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/M"
+      },
+      {
+        "revision": 47818,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/N"
+      },
+      {
+        "revision": 47820,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/O"
+      },
+      {
+        "revision": 47822,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/P"
+      },
+      {
+        "revision": 47824,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/Q"
+      },
+      {
+        "revision": 47826,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/R"
+      },
+      {
+        "revision": 47828,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/S"
+      },
+      {
+        "revision": 47830,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/T"
+      },
+      {
+        "revision": 47832,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/V"
+      },
+      {
+        "revision": 47833,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/X"
+      },
+      {
+        "revision": 47834,
+        "title": "Từ điển Việt–Bồ–La/Index Latini Sermonis/Z"
+      },
+      {
+        "revision": 124988,
+        "title": "Từ điển Việt–Bồ–La/Lingue Annamiticæ seu Tunchinensis"
+      },
+      {
+        "revision": 124989,
+        "title": "Từ điển Việt–Bồ–La/De literis & ſyllabis"
+      },
+      {
+        "revision": 124990,
+        "title": "Từ điển Việt–Bồ–La/De Accentibus"
+      },
+      {
+        "revision": 124991,
+        "title": "Từ điển Việt–Bồ–La/De nominibus"
+      },
+      {
+        "revision": 124992,
+        "title": "Từ điển Việt–Bồ–La/De Pronominibus"
+      },
+      {
+        "revision": 125397,
+        "title": "Từ điển Việt–Bồ–La/De alijs Pronominibus"
+      },
+      {
+        "revision": 124993,
+        "title": "Từ điển Việt–Bồ–La/De Verbis"
+      },
+      {
+        "revision": 47845,
+        "title": "Từ điển Việt–Bồ–La/De reliquis orationis partibus indeclinabilibus"
+      },
+      {
+        "revision": 125488,
+        "title": "Từ điển Việt–Bồ–La/Præcepta quædam ad ſyntaxim pertinentia"
+      },
+      {
+        "revision": 47848,
+        "title": "Từ điển Việt–Bồ–La/Errata Corrige"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:25:57.795683Z",
+    "revision": "168701",
+    "site": "vi.wikisource.org",
+    "url": "https://vi.wikisource.org/wiki/T%E1%BB%AB_%C4%91i%E1%BB%83n_Vi%E1%BB%87t%E2%80%93B%E1%BB%93%E2%80%93La"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1591,
+      "deathYear": 1660,
+      "name": "Alexandre de Rhodes",
+      "wikidata": "Q336653"
+    },
+    "originalLanguage": "vi",
+    "originalPublicationYear": 1651,
+    "originalTitle": "Từ điển Việt-Bồ-La",
+    "workId": "rhodes-t-di-n-vi-t-b-la"
+  }
+}

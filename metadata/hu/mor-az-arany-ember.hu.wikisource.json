@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:28:23.546641Z",
+    "chapterCount": 50,
+    "contentSha256": "e1c185343c7d1f772c71fe8d7e042c88edd5cf40af63e28a73a77e36a802b865",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hu/mor-az-arany-ember.hu.wikisource/v1/book.json.gz",
+    "sha256": "b3a1d9c7699d4ee3e410fe3d1186ed16ae72b260d3bef06b5e3e334baf8c383f",
+    "sizeBytes": 419371,
+    "uncompressedSizeBytes": 1098639,
+    "wordCount": 147475
+  },
+  "edition": {
+    "editionId": "mor-az-arany-ember.hu.wikisource",
+    "kind": "original",
+    "language": "hu",
+    "title": "Az arany ember"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1904: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1872: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q784966",
+      "https://www.wikidata.org/wiki/Q379621",
+      "https://hu.wikisource.org/wiki/Az_arany_ember"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jókai Mór died in 1904 and the work was first published in 1872. Source: hu.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Az arany ember",
+    "pages": [
+      {
+        "revision": 85694,
+        "title": "Az arany ember"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:36:19.720967Z",
+    "revision": "85694",
+    "site": "hu.wikisource.org",
+    "url": "https://hu.wikisource.org/wiki/Az_arany_ember"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1825,
+      "deathYear": 1904,
+      "name": "Jókai Mór",
+      "wikidata": "Q379621"
+    },
+    "originalLanguage": "hu",
+    "originalPublicationYear": 1872,
+    "originalTitle": "Az arany ember",
+    "workId": "mor-az-arany-ember"
+  }
+}

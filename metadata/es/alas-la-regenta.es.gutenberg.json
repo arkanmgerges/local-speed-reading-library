@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:24:30.622259Z",
+    "chapterCount": 36,
+    "contentSha256": "c0d80a762f0d386ff62b199b7bf78c52273dacd5d6e6a5ebfea87801dc5df4f3",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/alas-la-regenta.es.gutenberg/v1/book.json.gz",
+    "sha256": "e8a4b7fdb57d4d6c9452a56e8c31d64b0c5204e52e28493e51d1b1537e0bfc06",
+    "sizeBytes": 704888,
+    "uncompressedSizeBytes": 1898768,
+    "wordCount": 306414
+  },
+  "edition": {
+    "editionId": "alas-la-regenta.es.gutenberg",
+    "kind": "original",
+    "language": "es",
+    "title": "La Regenta"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1901: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1884: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/17073",
+      "https://es.wikipedia.org/wiki/Leopoldo_Alas_%28%22Clar%C3%ADn%22%29",
+      "https://en.wikipedia.org/wiki/Leopoldo_Alas_y_Ure%C3%B1a",
+      "https://www.wikidata.org/wiki/Q1784466"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Leopoldo Alas died in 1901 and the work was first published in 1884. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "17073",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:41:54.034855Z",
+    "revision": "Mon, 07 Sep 2026 15:43:01 GMT",
+    "url": "https://www.gutenberg.org/ebooks/17073"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1852,
+      "deathYear": 1901,
+      "name": "Leopoldo Alas"
+    },
+    "originalLanguage": "es",
+    "originalPublicationYear": 1884,
+    "originalTitle": "La Regenta",
+    "workId": "alas-la-regenta"
+  }
+}

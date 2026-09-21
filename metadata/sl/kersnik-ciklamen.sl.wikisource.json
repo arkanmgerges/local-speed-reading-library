@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:05.991243Z",
+    "chapterCount": 17,
+    "contentSha256": "bc92e65b755c81e0de8d5f5ddfdf3b4d6de696c006f5ed363eadc056ed7541f5",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/kersnik-ciklamen.sl.wikisource/v1/book.json.gz",
+    "sha256": "bfe1a39b55abf32430d5a4f903d15e44721b2965c0bfdb147fd70ac24fce0008",
+    "sizeBytes": 90548,
+    "uncompressedSizeBytes": 239754,
+    "wordCount": 37493
+  },
+  "edition": {
+    "editionId": "kersnik-ciklamen.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Ciklamen"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1897: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1883: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q5119917",
+      "https://www.wikidata.org/wiki/Q2474110",
+      "https://sl.wikisource.org/wiki/Cyclamen"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Janko Kersnik died in 1897 and the work was first published in 1883. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Cyclamen",
+    "pages": [
+      {
+        "revision": 211650,
+        "title": "Cyclamen"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:56:08.461466Z",
+    "revision": "211650",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Cyclamen"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1852,
+      "deathYear": 1897,
+      "name": "Janko Kersnik",
+      "wikidata": "Q2474110"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1883,
+    "originalTitle": "Ciklamen",
+    "workId": "kersnik-ciklamen"
+  }
+}

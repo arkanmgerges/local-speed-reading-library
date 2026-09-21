@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:23:32.179434Z",
+    "chapterCount": 9,
+    "contentSha256": "f2dd09942d466f4b49763f81f0ed9536644221c843551c269e42a2c04158c220",
+    "normalizerVersion": "0.2.0",
+    "path": "books/el/papadiamantes-pg36205.el.gutenberg/v1/book.json.gz",
+    "sha256": "ff35666a91ef8adbf738324752df894ef15b6d8ce182df4a1536ae12fb913b45",
+    "sizeBytes": 157921,
+    "uncompressedSizeBytes": 581027,
+    "wordCount": 53146
+  },
+  "edition": {
+    "editionId": "papadiamantes-pg36205.el.gutenberg",
+    "kind": "original",
+    "language": "el",
+    "title": "Η Φόνισσα"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1911: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1903: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/36205",
+      "https://en.wikipedia.org/wiki/Alexandros_Papadiamantis",
+      "https://www.wikidata.org/wiki/Q577163"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Alexandros Papadiamantes died in 1911 and the work was first published in 1903. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "36205",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:29:48.992664Z",
+    "revision": "Tue, 15 Sep 2026 03:25:08 GMT",
+    "url": "https://www.gutenberg.org/ebooks/36205"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1851,
+      "deathYear": 1911,
+      "name": "Alexandros Papadiamantes",
+      "wikidata": "Q320984"
+    },
+    "originalLanguage": "el",
+    "originalPublicationYear": 1903,
+    "originalTitle": "Η Φόνισσα",
+    "workId": "papadiamantes-pg36205"
+  }
+}

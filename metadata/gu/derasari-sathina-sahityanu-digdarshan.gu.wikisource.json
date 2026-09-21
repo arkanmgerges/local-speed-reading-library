@@ -1,0 +1,141 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:27:22.215068Z",
+    "chapterCount": 24,
+    "contentSha256": "3b8a658fe262515ea884975443ae432767440de4e1f7fb95bb85680fe5596215",
+    "normalizerVersion": "0.2.0",
+    "path": "books/gu/derasari-sathina-sahityanu-digdarshan.gu.wikisource/v1/book.json.gz",
+    "sha256": "d84648f869d013a381c01f6150206be7155adb0ef33b364156464c8c092f967d",
+    "sizeBytes": 256133,
+    "uncompressedSizeBytes": 1273582,
+    "wordCount": 80436
+  },
+  "edition": {
+    "editionId": "derasari-sathina-sahityanu-digdarshan.gu.wikisource",
+    "kind": "original",
+    "language": "gu",
+    "title": "સાઠીના સાહિત્યનું દિગ્દર્શન"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1938: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1911: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q63147311",
+      "https://www.wikidata.org/wiki/Q2759386",
+      "https://gu.wikisource.org/wiki/%E0%AA%B8%E0%AA%BE%E0%AA%A0%E0%AB%80%E0%AA%A8%E0%AA%BE_%E0%AA%B8%E0%AA%BE%E0%AA%B9%E0%AA%BF%E0%AA%A4%E0%AB%8D%E0%AA%AF%E0%AA%A8%E0%AB%81%E0%AA%82_%E0%AA%A6%E0%AA%BF%E0%AA%97%E0%AB%8D%E0%AA%A6%E0%AA%B0%E0%AB%8D%E0%AA%B6%E0%AA%A8"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ડાહ્યાભાઇ દેરાસરી died in 1938 and the work was first published in 1911. Source: gu.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "સાઠીના સાહિત્યનું દિગ્દર્શન",
+    "pages": [
+      {
+        "revision": 222585,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન"
+      },
+      {
+        "revision": 103077,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/પ્રથમ ખંડ/પ્રકરણ ૧"
+      },
+      {
+        "revision": 102885,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/પ્રથમ ખંડ/પ્રકરણ ૨"
+      },
+      {
+        "revision": 102887,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/પ્રથમ ખંડ/પ્રકરણ ૩"
+      },
+      {
+        "revision": 103071,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/પ્રથમ ખંડ/પ્રકરણ ૪"
+      },
+      {
+        "revision": 103072,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/પ્રથમ ખંડ/પ્રકરણ ૫"
+      },
+      {
+        "revision": 103076,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/દ્વિતીય ખંડ/પ્રકરણ ૧"
+      },
+      {
+        "revision": 103079,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/દ્વિતીય ખંડ/પ્રકરણ ૨"
+      },
+      {
+        "revision": 103579,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/દ્વિતીય ખંડ/પ્રકરણ ૩"
+      },
+      {
+        "revision": 103580,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/દ્વિતીય ખંડ/પ્રકરણ ૪"
+      },
+      {
+        "revision": 103581,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/દ્વિતીય ખંડ/પ્રકરણ ૫"
+      },
+      {
+        "revision": 103582,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/દ્વિતીય ખંડ/પ્રકરણ ૬"
+      },
+      {
+        "revision": 103584,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/દ્વિતીય ખંડ/પ્રકરણ ૭"
+      },
+      {
+        "revision": 103583,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/દ્વિતીય ખંડ/પ્રકરણ ૮"
+      },
+      {
+        "revision": 103586,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/દ્વિતીય ખંડ/પ્રકરણ ૯"
+      },
+      {
+        "revision": 103588,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/દ્વિતીય ખંડ/પ્રકરણ ૧૦"
+      },
+      {
+        "revision": 103590,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/દ્વિતીય ખંડ/પૂરવણી ૧"
+      },
+      {
+        "revision": 103591,
+        "title": "સાઠીના સાહિત્યનું દિગ્દર્શન/દ્વિતીય ખંડ/પૂરવણી ૨"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:19:29.781275Z",
+    "revision": "222585",
+    "site": "gu.wikisource.org",
+    "url": "https://gu.wikisource.org/wiki/%E0%AA%B8%E0%AA%BE%E0%AA%A0%E0%AB%80%E0%AA%A8%E0%AA%BE_%E0%AA%B8%E0%AA%BE%E0%AA%B9%E0%AA%BF%E0%AA%A4%E0%AB%8D%E0%AA%AF%E0%AA%A8%E0%AB%81%E0%AA%82_%E0%AA%A6%E0%AA%BF%E0%AA%97%E0%AB%8D%E0%AA%A6%E0%AA%B0%E0%AB%8D%E0%AA%B6%E0%AA%A8"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1857,
+      "deathYear": 1938,
+      "name": "ડાહ્યાભાઇ દેરાસરી",
+      "wikidata": "Q2759386"
+    },
+    "originalLanguage": "gu",
+    "originalPublicationYear": 1911,
+    "originalTitle": "સાઠીના સાહિત્યનું દિગ્દર્શન",
+    "workId": "derasari-sathina-sahityanu-digdarshan"
+  }
+}

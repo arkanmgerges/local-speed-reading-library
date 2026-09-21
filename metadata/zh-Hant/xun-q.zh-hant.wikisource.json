@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:37:36.469546Z",
+    "chapterCount": 10,
+    "contentSha256": "a83d4cd1b454fec1ee9e8e280f871610da25763d890579de6f0331bb44cf7498",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/xun-q.zh-hant.wikisource/v1/book.json.gz",
+    "sha256": "3eef5eb638f756b19e74d9d8998f8cc162502aa54fbc69f0b7e0ef84e36bc876",
+    "sizeBytes": 29506,
+    "uncompressedSizeBytes": 69092,
+    "wordCount": 324
+  },
+  "edition": {
+    "editionId": "xun-q.zh-hant.wikisource",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "阿Q正傳"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1936: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1921: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q613121",
+      "https://www.wikidata.org/wiki/Q23114",
+      "https://zh.wikisource.org/wiki/%E9%98%BFQ%E6%AD%A3%E5%82%B3"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 魯迅 died in 1936 and the work was first published in 1921. Source: zh.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "阿Q正傳",
+    "pages": [
+      {
+        "revision": 2633268,
+        "title": "阿Q正傳"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:54:25.537501Z",
+    "revision": "2633268",
+    "site": "zh.wikisource.org",
+    "url": "https://zh.wikisource.org/wiki/%E9%98%BFQ%E6%AD%A3%E5%82%B3"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1881,
+      "deathYear": 1936,
+      "name": "魯迅",
+      "wikidata": "Q23114"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": 1921,
+    "originalTitle": "阿Q正傳",
+    "workId": "xun-q"
+  }
+}

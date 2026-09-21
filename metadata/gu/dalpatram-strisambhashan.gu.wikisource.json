@@ -1,0 +1,97 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:57:55.342632Z",
+    "chapterCount": 6,
+    "contentSha256": "7df1a428e67042da74459f120147d4b0b795c2ea2db6be841d7645f39a06f2ff",
+    "normalizerVersion": "0.2.0",
+    "path": "books/gu/dalpatram-strisambhashan.gu.wikisource/v1/book.json.gz",
+    "sha256": "24e65194d0bd796f0b3144b779f7df947a3a7fb1fca7d30ff7af0f3ba4a71c2d",
+    "sizeBytes": 20537,
+    "uncompressedSizeBytes": 105975,
+    "wordCount": 7781
+  },
+  "edition": {
+    "editionId": "dalpatram-strisambhashan.gu.wikisource",
+    "kind": "original",
+    "language": "gu",
+    "title": "સ્ત્રીસંભાષણ"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1898: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1887: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q18003022",
+      "https://www.wikidata.org/wiki/Q2724159",
+      "https://gu.wikisource.org/wiki/%E0%AA%B8%E0%AB%8D%E0%AA%A4%E0%AB%8D%E0%AA%B0%E0%AB%80%E0%AA%B8%E0%AA%82%E0%AA%AD%E0%AA%BE%E0%AA%B7%E0%AA%A3"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. દલપતરામ died in 1898 and the work was first published in 1887. Source: gu.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "સ્ત્રીસંભાષણ",
+    "pages": [
+      {
+        "revision": 207304,
+        "title": "સ્ત્રીસંભાષણ"
+      },
+      {
+        "revision": 188406,
+        "title": "સ્ત્રીસંભાષણ/પ્રસ્તાવના"
+      },
+      {
+        "revision": 188647,
+        "title": "સ્ત્રીસંભાષણ/પાત્રો"
+      },
+      {
+        "revision": 188648,
+        "title": "સ્ત્રીસંભાષણ/પ્રકરણ પહેલું"
+      },
+      {
+        "revision": 188653,
+        "title": "સ્ત્રીસંભાષણ/પ્રકરણ બીજું"
+      },
+      {
+        "revision": 188655,
+        "title": "સ્ત્રીસંભાષણ/પ્રકરણ ત્રીજું"
+      },
+      {
+        "revision": 188658,
+        "title": "સ્ત્રીસંભાષણ/પ્રકરણ ચોથું"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:18:39.797153Z",
+    "revision": "207304",
+    "site": "gu.wikisource.org",
+    "url": "https://gu.wikisource.org/wiki/%E0%AA%B8%E0%AB%8D%E0%AA%A4%E0%AB%8D%E0%AA%B0%E0%AB%80%E0%AA%B8%E0%AA%82%E0%AA%AD%E0%AA%BE%E0%AA%B7%E0%AA%A3"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1820,
+      "deathYear": 1898,
+      "name": "દલપતરામ",
+      "wikidata": "Q2724159"
+    },
+    "originalLanguage": "gu",
+    "originalPublicationYear": 1887,
+    "originalTitle": "સ્ત્રીસંભાષણ",
+    "workId": "dalpatram-strisambhashan"
+  }
+}

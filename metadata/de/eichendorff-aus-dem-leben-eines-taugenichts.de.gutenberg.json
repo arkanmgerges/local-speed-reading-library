@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:41.743884Z",
+    "chapterCount": 12,
+    "contentSha256": "436049fcf0d586ea12ce3254121806e91620fe5551da919ebdbc505b4354e153",
+    "normalizerVersion": "0.2.0",
+    "path": "books/de/eichendorff-aus-dem-leben-eines-taugenichts.de.gutenberg/v1/book.json.gz",
+    "sha256": "8ab5effb908c6d96200a5a2e01d04ceab2c61458818404708024a601274a150d",
+    "sizeBytes": 71643,
+    "uncompressedSizeBytes": 199649,
+    "wordCount": 31619
+  },
+  "edition": {
+    "editionId": "eichendorff-aus-dem-leben-eines-taugenichts.de.gutenberg",
+    "kind": "original",
+    "language": "de",
+    "title": "Aus dem Leben eines Taugenichts: Novelle"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1857: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1826: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/35312",
+      "https://en.wikipedia.org/wiki/Joseph_Freiherr_von_Eichendorff",
+      "https://www.wikidata.org/wiki/Q777658"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Joseph Eichendorff died in 1857 and the work was first published in 1826. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "35312",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:24:58.357227Z",
+    "revision": "Mon, 14 Sep 2026 18:34:48 GMT",
+    "url": "https://www.gutenberg.org/ebooks/35312"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1788,
+      "deathYear": 1857,
+      "name": "Joseph Eichendorff",
+      "wikidata": "Q77204"
+    },
+    "originalLanguage": "de",
+    "originalPublicationYear": 1826,
+    "originalTitle": "Aus dem Leben eines Taugenichts: Novelle",
+    "workId": "eichendorff-aus-dem-leben-eines-taugenichts"
+  }
+}

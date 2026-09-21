@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:50:28.441363Z",
+    "chapterCount": 16,
+    "contentSha256": "a22ec3c33240deec40ece2a500ad2c48d66767e0da437e2f98d8616b52def20e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/af/leipoldt-kampstories.af.gutenberg/v1/book.json.gz",
+    "sha256": "1d1745e4651d8b9bbb622f38315f993df4846e02c483441e5391bf4201893031",
+    "sizeBytes": 68442,
+    "uncompressedSizeBytes": 207093,
+    "wordCount": 35823
+  },
+  "edition": {
+    "editionId": "leipoldt-kampstories.af.gutenberg",
+    "editionPublicationYear": 1924,
+    "kind": "original",
+    "language": "af",
+    "title": "Kampstories"
+  },
+  "genres": [
+    "Children"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1947: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1924 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/77225",
+      "https://en.wikipedia.org/wiki/C._Louis_Leipoldt",
+      "https://af.wikipedia.org/wiki/C._Louis_Leipoldt"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. C. Louis Leipoldt died in 1947 and the edition digitised by Project Gutenberg was printed in 1924. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "77225",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T01:50:52.868001Z",
+    "revision": "Sun, 30 Aug 2026 19:41:46 GMT",
+    "url": "https://www.gutenberg.org/ebooks/77225"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1880,
+      "deathYear": 1947,
+      "name": "C. Louis Leipoldt",
+      "wikidata": "Q669293"
+    },
+    "originalLanguage": "af",
+    "originalTitle": "Kampstories",
+    "workId": "leipoldt-kampstories"
+  }
+}

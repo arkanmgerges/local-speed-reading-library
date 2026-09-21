@@ -1,0 +1,99 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:52.965413Z",
+    "chapterCount": 4,
+    "contentSha256": "2e454313e3ee2d76b6304b0ba2ebb0b0f18602cf1991954e13a68c42957e3efb",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/defoe-robinson-crusoe.sv.wikisource/v1/book.json.gz",
+    "sha256": "31f03136c570d4fdad67dacf0c8d9ca62556a715d75b8f01d49c3ce8c676b090",
+    "sizeBytes": 509946,
+    "uncompressedSizeBytes": 1463649,
+    "wordCount": 231330
+  },
+  "edition": {
+    "editionId": "defoe-robinson-crusoe.sv.wikisource",
+    "kind": "translation",
+    "language": "sv",
+    "title": "Robinson Crusoe",
+    "translationPublicationYear": 1926,
+    "translator": {
+      "birthYear": 1860,
+      "deathYear": 1919,
+      "name": "Jean Fredrik Rossander",
+      "wikidata": "Q99552610"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1731: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1919: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1926: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q483034",
+      "https://www.wikidata.org/wiki/Q101091342",
+      "https://www.wikidata.org/wiki/Q40946",
+      "https://www.wikidata.org/wiki/Q99552610",
+      "https://sv.wikisource.org/wiki/Robinson_Crusoe"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Daniel Defoe died in 1731; the translator Jean Fredrik Rossander died in 1919 and this translation was first published in 1926. Source: sv.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Robinson Crusoe",
+    "pages": [
+      {
+        "revision": 433018,
+        "title": "Robinson Crusoe"
+      },
+      {
+        "revision": 433015,
+        "title": "Robinson Crusoe/Levnadsteckning"
+      },
+      {
+        "revision": 431017,
+        "title": "Robinson Crusoe/Första avdelningen"
+      },
+      {
+        "revision": 432522,
+        "title": "Robinson Crusoe/Andra avdelningen"
+      },
+      {
+        "revision": 432994,
+        "title": "Robinson Crusoe/Lista över illustrationer"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:04:05.078955Z",
+    "revision": "433018",
+    "site": "sv.wikisource.org",
+    "url": "https://sv.wikisource.org/wiki/Robinson_Crusoe"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1660,
+      "deathYear": 1731,
+      "name": "Daniel Defoe",
+      "wikidata": "Q40946"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1719,
+    "originalTitle": "Robinson Crusoe",
+    "workId": "defoe-robinson-crusoe"
+  }
+}

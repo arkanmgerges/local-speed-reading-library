@@ -1,0 +1,161 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:33:14.513086Z",
+    "chapterCount": 22,
+    "contentSha256": "531f815b0e459853d1b4902946c9a6a3ff43c7afb2a4609d2b444b186877ec89",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt-br/guimaraes-a-escrava-isaura.pt-br.wikisource/v1/book.json.gz",
+    "sha256": "fb7629e8e8891a6d2e5a8d56c96b87d6a575d5b884f5430970836798d6fe5a90",
+    "sizeBytes": 122925,
+    "uncompressedSizeBytes": 339499,
+    "wordCount": 53557
+  },
+  "edition": {
+    "editionId": "guimaraes-a-escrava-isaura.pt-br.wikisource",
+    "kind": "original",
+    "language": "pt-BR",
+    "title": "A Escrava Isaura"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1884: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1875: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q2662079",
+      "https://www.wikidata.org/wiki/Q823003",
+      "https://pt.wikisource.org/wiki/A_escrava_Isaura"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Bernardo Guimarães died in 1884 and the work was first published in 1875. Source: pt.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "A escrava Isaura",
+    "pages": [
+      {
+        "revision": 554202,
+        "title": "A escrava Isaura"
+      },
+      {
+        "revision": 554203,
+        "title": "A escrava Isaura/I"
+      },
+      {
+        "revision": 554204,
+        "title": "A escrava Isaura/II"
+      },
+      {
+        "revision": 485149,
+        "title": "A escrava Isaura/III"
+      },
+      {
+        "revision": 485152,
+        "title": "A escrava Isaura/IV"
+      },
+      {
+        "revision": 485153,
+        "title": "A escrava Isaura/V"
+      },
+      {
+        "revision": 485154,
+        "title": "A escrava Isaura/VI"
+      },
+      {
+        "revision": 485155,
+        "title": "A escrava Isaura/VII"
+      },
+      {
+        "revision": 485157,
+        "title": "A escrava Isaura/VIII"
+      },
+      {
+        "revision": 485158,
+        "title": "A escrava Isaura/IX"
+      },
+      {
+        "revision": 485159,
+        "title": "A escrava Isaura/X"
+      },
+      {
+        "revision": 485161,
+        "title": "A escrava Isaura/XI"
+      },
+      {
+        "revision": 485162,
+        "title": "A escrava Isaura/XII"
+      },
+      {
+        "revision": 485163,
+        "title": "A escrava Isaura/XIII"
+      },
+      {
+        "revision": 485164,
+        "title": "A escrava Isaura/XIV"
+      },
+      {
+        "revision": 485166,
+        "title": "A escrava Isaura/XV"
+      },
+      {
+        "revision": 485172,
+        "title": "A escrava Isaura/XVI"
+      },
+      {
+        "revision": 485173,
+        "title": "A escrava Isaura/XVII"
+      },
+      {
+        "revision": 485174,
+        "title": "A escrava Isaura/XVIII"
+      },
+      {
+        "revision": 485175,
+        "title": "A escrava Isaura/XIX"
+      },
+      {
+        "revision": 485176,
+        "title": "A escrava Isaura/XX"
+      },
+      {
+        "revision": 485177,
+        "title": "A escrava Isaura/XXI"
+      },
+      {
+        "revision": 554205,
+        "title": "A escrava Isaura/XXII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:44:12.348128Z",
+    "revision": "554202",
+    "site": "pt.wikisource.org",
+    "url": "https://pt.wikisource.org/wiki/A_escrava_Isaura"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1825,
+      "deathYear": 1884,
+      "name": "Bernardo Guimarães",
+      "wikidata": "Q823003"
+    },
+    "originalLanguage": "pt-BR",
+    "originalPublicationYear": 1875,
+    "originalTitle": "A Escrava Isaura",
+    "workId": "guimaraes-a-escrava-isaura"
+  }
+}

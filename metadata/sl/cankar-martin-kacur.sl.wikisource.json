@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:57.300384Z",
+    "chapterCount": 10,
+    "contentSha256": "141c1092b39c7c2d889c5f1560777f97d07b25e5df05ae8b5d954ea7b70d0625",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/cankar-martin-kacur.sl.wikisource/v1/book.json.gz",
+    "sha256": "88759039dcacb3b48111341d93b7719eb25322e2969602de10509f5a756e7835",
+    "sizeBytes": 90488,
+    "uncompressedSizeBytes": 252209,
+    "wordCount": 40859
+  },
+  "edition": {
+    "editionId": "cankar-martin-kacur.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Martin Kačur"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1918: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1906: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1904221",
+      "https://www.wikidata.org/wiki/Q15809",
+      "https://sl.wikisource.org/wiki/Martin_Ka%C4%8Dur"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ivan Cankar died in 1918 and the work was first published in 1906. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Martin Kačur",
+    "pages": [
+      {
+        "revision": 219949,
+        "title": "Martin Kačur"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:55:38.069075Z",
+    "revision": "219949",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Martin_Ka%C4%8Dur"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1876,
+      "deathYear": 1918,
+      "name": "Ivan Cankar",
+      "wikidata": "Q15809"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1906,
+    "originalTitle": "Martin Kačur",
+    "workId": "cankar-martin-kacur"
+  }
+}

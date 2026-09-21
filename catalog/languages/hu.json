@@ -1,0 +1,874 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 44,
+        "contentSha256": "9b7cba90fd2a65fdbe603c9240fbac2ec20e479823c02140c995e4f6b39c5895",
+        "encoding": "gzip",
+        "path": "books/hu/benedek-kek-mesekonyv.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "be0f5fed277932ef22eecffb5d80b4ea00dd513c64f54dfb71bc4e0cb23e48c5",
+        "sizeBytes": 156360,
+        "uncompressedSizeBytes": 462144,
+        "wordCount": 64183
+      },
+      "author": "Elek Benedek",
+      "authorDeathYear": 1929,
+      "editionId": "benedek-kek-mesekonyv.hu.gutenberg",
+      "editionPublicationYear": 1921,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": null,
+      "originalTitle": "Kék mesekönyv : $b A világ legszebb meséiből",
+      "rights": {
+        "statement": "Public domain worldwide. Elek Benedek died in 1929 and the edition digitised by Project Gutenberg was printed in 1921. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "77629",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:34:40.353710Z",
+        "revision": "Sun, 30 Aug 2026 21:29:51 GMT",
+        "url": "https://www.gutenberg.org/ebooks/77629"
+      },
+      "title": "Kék mesekönyv : $b A világ legszebb meséiből",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "benedek-kek-mesekonyv"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 26,
+        "contentSha256": "913b03203387aa7ae497ee3b7b6ea67fdf1b6b50059a370dfeb6f985480f606d",
+        "encoding": "gzip",
+        "path": "books/hu/eotvos-a-bakony-2-kotet.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6f1388501ed64f6279cce1102cd88fc250f37a4378ee385a180fa22a771a2381",
+        "sizeBytes": 174006,
+        "uncompressedSizeBytes": 463685,
+        "wordCount": 61587
+      },
+      "author": "Károly Eötvös",
+      "authorDeathYear": 1916,
+      "editionId": "eotvos-a-bakony-2-kotet.hu.gutenberg",
+      "editionPublicationYear": 1909,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": null,
+      "originalTitle": "A Bakony (2. kötet)",
+      "rights": {
+        "statement": "Public domain worldwide. Károly Eötvös died in 1916 and the edition digitised by Project Gutenberg was printed in 1909. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "69034",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:34:47.088002Z",
+        "revision": "Thu, 27 Aug 2026 13:29:46 GMT",
+        "url": "https://www.gutenberg.org/ebooks/69034"
+      },
+      "title": "A Bakony (2. kötet)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "eotvos-a-bakony-2-kotet"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 71,
+        "contentSha256": "0d50346d7298c37aef0f5f112bb05ba7e3aa0dfbbd9d291234b5dd712840465f",
+        "encoding": "gzip",
+        "path": "books/hu/gardonyi-a-lathatatlan-ember.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "800b4430b58dd35dee80a0249a537f4844a7df030d951d9f6aabb7b92e5da48c",
+        "sizeBytes": 211494,
+        "uncompressedSizeBytes": 571635,
+        "wordCount": 74741
+      },
+      "author": "Géza Gárdonyi",
+      "authorDeathYear": 1922,
+      "editionId": "gardonyi-a-lathatatlan-ember.hu.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": 1901,
+      "originalTitle": "A láthatatlan ember: Regény",
+      "rights": {
+        "statement": "Public domain worldwide. Géza Gárdonyi died in 1922 and the work was first published in 1901. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "57477",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:34:50.933089Z",
+        "revision": "Sun, 23 Aug 2026 08:42:37 GMT",
+        "url": "https://www.gutenberg.org/ebooks/57477"
+      },
+      "title": "A láthatatlan ember: Regény",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "gardonyi-a-lathatatlan-ember"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 89,
+        "contentSha256": "d3918e92dfae029d5d2b0216587e474b68db4954706b848857954a1de16c90ab",
+        "encoding": "gzip",
+        "path": "books/hu/gardonyi-az-egri-csillagok-i-kotet.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6cfc736f4b3b0ff9debca3bf8dd872194a36bea672c838b4f530c62b332c1114",
+        "sizeBytes": 193274,
+        "uncompressedSizeBytes": 541548,
+        "wordCount": 71453
+      },
+      "author": "Géza Gárdonyi",
+      "authorDeathYear": 1922,
+      "editionId": "gardonyi-az-egri-csillagok-i-kotet.hu.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": 1901,
+      "originalTitle": "Az egri csillagok (I. kötet) : $b Bornemissza Gergely élete",
+      "rights": {
+        "statement": "Public domain worldwide. Géza Gárdonyi died in 1922 and the work was first published in 1901. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "76235",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:34:54.913784Z",
+        "revision": "Sun, 30 Aug 2026 13:03:51 GMT",
+        "url": "https://www.gutenberg.org/ebooks/76235"
+      },
+      "title": "Az egri csillagok (I. kötet) : $b Bornemissza Gergely élete",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "gardonyi-az-egri-csillagok-i-kotet"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 23,
+        "contentSha256": "a065f85532a71f04a1baa445aec4693061b8d1a20143c938d38512fd1d47b6a7",
+        "encoding": "gzip",
+        "path": "books/hu/geza-egri-csillagok.hu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "3d54874740d978019e1146d553c40403d6b58645c62b475bf02056bb02876883",
+        "sizeBytes": 388195,
+        "uncompressedSizeBytes": 1069364,
+        "wordCount": 142039
+      },
+      "author": "Gárdonyi Géza",
+      "authorDeathYear": 1922,
+      "editionId": "geza-egri-csillagok.hu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": 1901,
+      "originalTitle": "Egri csillagok",
+      "rights": {
+        "statement": "Public domain worldwide. Gárdonyi Géza died in 1922 and the work was first published in 1901. Source: hu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Egri csillagok",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:35:11.994843Z",
+        "revision": "54554",
+        "url": "https://hu.wikisource.org/wiki/Egri_csillagok"
+      },
+      "title": "Egri csillagok",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "geza-egri-csillagok"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 37,
+        "contentSha256": "eac1fd4a077302ea21dad549cb4e79a7375c418d0dfe8921a2167d4c25838cee",
+        "encoding": "gzip",
+        "path": "books/hu/herczeg-fenn-es-lenn.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1234a97bb2f8532bac3eba6ea6e769b616e637542a9a0d51d58a2d3d7e3bcaa5",
+        "sizeBytes": 143126,
+        "uncompressedSizeBytes": 384726,
+        "wordCount": 48135
+      },
+      "author": "Ferenc Herczeg",
+      "authorDeathYear": 1954,
+      "editionId": "herczeg-fenn-es-lenn.hu.gutenberg",
+      "editionPublicationYear": 1908,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": null,
+      "originalTitle": "Fenn és lenn : $b regény",
+      "rights": {
+        "statement": "Public domain worldwide. Ferenc Herczeg died in 1954 and the edition digitised by Project Gutenberg was printed in 1908. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "77615",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:35:17.238790Z",
+        "revision": "Sun, 30 Aug 2026 21:27:09 GMT",
+        "url": "https://www.gutenberg.org/ebooks/77615"
+      },
+      "title": "Fenn és lenn : $b regény",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "herczeg-fenn-es-lenn"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 29,
+        "contentSha256": "b01f4bd8f4fa652cb81fa9e1368cc3ee0993fdbda8992cbf8c845a06c33752c3",
+        "encoding": "gzip",
+        "path": "books/hu/herczeg-szerelmesek.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "92aa55e36c8976fe378d91a0ec968c3231059b1af1dc869501d72396d17288c1",
+        "sizeBytes": 126236,
+        "uncompressedSizeBytes": 340386,
+        "wordCount": 43286
+      },
+      "author": "Ferenc Herczeg",
+      "authorDeathYear": 1954,
+      "editionId": "herczeg-szerelmesek.hu.gutenberg",
+      "editionPublicationYear": 1909,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": null,
+      "originalTitle": "Szerelmesek",
+      "rights": {
+        "statement": "Public domain worldwide. Ferenc Herczeg died in 1954 and the edition digitised by Project Gutenberg was printed in 1909. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "75286",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:35:20.509272Z",
+        "revision": "Sat, 29 Aug 2026 18:43:37 GMT",
+        "url": "https://www.gutenberg.org/ebooks/75286"
+      },
+      "title": "Szerelmesek",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "herczeg-szerelmesek"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "9f11ba723855170b7f18d498171718a283fc85c0c3cf6a99bbcd019e56e3eb64",
+        "encoding": "gzip",
+        "path": "books/hu/imre-az-ember-tragediaja.hu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "63bf9126df7838e57f6a57caecd9872233c586e27ea79d664d6707401ee6ea1e",
+        "sizeBytes": 85746,
+        "uncompressedSizeBytes": 248284,
+        "wordCount": 26729
+      },
+      "author": "Madách Imre",
+      "authorDeathYear": 1864,
+      "editionId": "imre-az-ember-tragediaja.hu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": 1862,
+      "originalTitle": "Az ember tragédiája",
+      "rights": {
+        "statement": "Public domain worldwide. Madách Imre died in 1864 and the work was first published in 1862. Source: hu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Az ember tragédiája",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:35:23.451314Z",
+        "revision": "99774",
+        "url": "https://hu.wikisource.org/wiki/Az_ember_trag%C3%A9di%C3%A1ja"
+      },
+      "title": "Az ember tragédiája",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "imre-az-ember-tragediaja"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "a2d1428d90a2af2c4c7b9a7b8464f15c0523c24ee714ff9acb41eca75b31c65a",
+        "encoding": "gzip",
+        "path": "books/hu/janos-toldi.hu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d3e2e6d207ee55031e8baab59e7ab0719d9f1da18417ec32a5150481c12e1ff9",
+        "sizeBytes": 33496,
+        "uncompressedSizeBytes": 81080,
+        "wordCount": 10417
+      },
+      "author": "Arany János",
+      "authorDeathYear": 1882,
+      "editionId": "janos-toldi.hu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": 1847,
+      "originalTitle": "Toldi",
+      "rights": {
+        "statement": "Public domain worldwide. Arany János died in 1882 and the work was first published in 1847. Source: hu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Toldi",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:35:43.271728Z",
+        "revision": "94459",
+        "url": "https://hu.wikisource.org/wiki/Toldi"
+      },
+      "title": "Toldi",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "janos-toldi"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 97,
+        "contentSha256": "15218e662b4f36a281e704ef9c1efbbf7a096ac1818e587becfbab412945b234",
+        "encoding": "gzip",
+        "path": "books/hu/jokai-forradalom-alatt-irt-m-vek.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "89f9c32a5753060f8c57f8bf09efbc4fe8325f9763b25a330c61d374bee875f2",
+        "sizeBytes": 192030,
+        "uncompressedSizeBytes": 501579,
+        "wordCount": 62712
+      },
+      "author": "Mór Jókai",
+      "authorDeathYear": 1904,
+      "editionId": "jokai-forradalom-alatt-irt-m-vek.hu.gutenberg",
+      "editionPublicationYear": 1912,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": null,
+      "originalTitle": "Forradalom alatt irt művek",
+      "rights": {
+        "statement": "Public domain worldwide. Mór Jókai died in 1904 and the edition digitised by Project Gutenberg was printed in 1912. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "76255",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:35:46.485968Z",
+        "revision": "Sun, 30 Aug 2026 13:08:16 GMT",
+        "url": "https://www.gutenberg.org/ebooks/76255"
+      },
+      "title": "Forradalom alatt irt művek",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "jokai-forradalom-alatt-irt-m-vek"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 40,
+        "contentSha256": "326b3ea21ae00d0af6a3f3a3598a9587adb67f190bb57d1b989365ee697919a0",
+        "encoding": "gzip",
+        "path": "books/hu/josika-abafi.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "743da3a0dc7ee0636e3315936dcca8a956710dc025e04b2559c82b3e6c7346b6",
+        "sizeBytes": 160298,
+        "uncompressedSizeBytes": 422967,
+        "wordCount": 54454
+      },
+      "author": "Miklós Jósika",
+      "authorDeathYear": 1865,
+      "editionId": "josika-abafi.hu.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": 1836,
+      "originalTitle": "Abafi : $b regény",
+      "rights": {
+        "statement": "Public domain worldwide. Miklós Jósika died in 1865 and the work was first published in 1836. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "77780",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:35:50.247361Z",
+        "revision": "Sun, 30 Aug 2026 22:16:58 GMT",
+        "url": "https://www.gutenberg.org/ebooks/77780"
+      },
+      "title": "Abafi : $b regény",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "josika-abafi"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "def70c764c0525aaf877f7886e6c2743e85f31d18dc91f240af6e78af613f6eb",
+        "encoding": "gzip",
+        "path": "books/hu/krudy-mohacs-vagy-ket-arva-gyermek-verg-dese.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c8ae46de388b00b335bdb71a6ea0878e2e14418cedfc8d0174ed0c0560980584",
+        "sizeBytes": 168754,
+        "uncompressedSizeBytes": 456812,
+        "wordCount": 58142
+      },
+      "author": "Gyula Krúdy",
+      "authorDeathYear": 1933,
+      "editionId": "krudy-mohacs-vagy-ket-arva-gyermek-verg-dese.hu.gutenberg",
+      "editionPublicationYear": 1926,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": null,
+      "originalTitle": "Mohács, vagy, Két árva gyermek vergődése",
+      "rights": {
+        "statement": "Public domain worldwide. Gyula Krúdy died in 1933 and the edition digitised by Project Gutenberg was printed in 1926. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "72509",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:35:53.644425Z",
+        "revision": "Fri, 28 Aug 2026 17:46:46 GMT",
+        "url": "https://www.gutenberg.org/ebooks/72509"
+      },
+      "title": "Mohács, vagy, Két árva gyermek vergődése",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "krudy-mohacs-vagy-ket-arva-gyermek-verg-dese"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 24,
+        "contentSha256": "9e7117ae98937492bfa161ddcb5c8fc2cd322ee5f255b0d9e7c40af87f243a10",
+        "encoding": "gzip",
+        "path": "books/hu/krudy-pesti-album.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5a1eb62a165f26e788b2cfe5012f180cfdfc4961ee4aa13a2df45594b48c3ea2",
+        "sizeBytes": 85680,
+        "uncompressedSizeBytes": 212052,
+        "wordCount": 25921
+      },
+      "author": "Gyula Krúdy",
+      "authorDeathYear": 1933,
+      "editionId": "krudy-pesti-album.hu.gutenberg",
+      "editionPublicationYear": 1919,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": null,
+      "originalTitle": "Pesti album: Krúdy Gyula feljegyzései és elbeszélései",
+      "rights": {
+        "statement": "Public domain worldwide. Gyula Krúdy died in 1933 and the edition digitised by Project Gutenberg was printed in 1919. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "68945",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:35:56.846804Z",
+        "revision": "Thu, 27 Aug 2026 13:07:41 GMT",
+        "url": "https://www.gutenberg.org/ebooks/68945"
+      },
+      "title": "Pesti album: Krúdy Gyula feljegyzései és elbeszélései",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "krudy-pesti-album"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "131f4be9732d178c401f15a9b522014fdd2530a725df8365e56fa06dfaf37705",
+        "encoding": "gzip",
+        "path": "books/hu/mikszath-a-ven-gazember.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0f2cd97198b1eed242f4e4aa2a6920021f08d8d5d6f5ccbd935e45056ac9fe0a",
+        "sizeBytes": 118505,
+        "uncompressedSizeBytes": 305057,
+        "wordCount": 41051
+      },
+      "author": "Kálmán Mikszáth",
+      "authorDeathYear": 1910,
+      "editionId": "mikszath-a-ven-gazember.hu.gutenberg",
+      "editionPublicationYear": 1910,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": null,
+      "originalTitle": "A vén gazember",
+      "rights": {
+        "statement": "Public domain worldwide. Kálmán Mikszáth died in 1910 and the edition digitised by Project Gutenberg was printed in 1910. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "69738",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:36:03.771947Z",
+        "revision": "Thu, 27 Aug 2026 16:21:15 GMT",
+        "url": "https://www.gutenberg.org/ebooks/69738"
+      },
+      "title": "A vén gazember",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "mikszath-a-ven-gazember"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 18,
+        "contentSha256": "d24b3786601c5d223ab4a7cf6d9aefa90d95a892d2e94499372ec4d2397fa5b1",
+        "encoding": "gzip",
+        "path": "books/hu/mikszath-szent-peter-eserny-je.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b8f41d573c4934d615b05ebc295577ad3a7f98dc9612cfeddc7cc04149206767",
+        "sizeBytes": 156467,
+        "uncompressedSizeBytes": 402265,
+        "wordCount": 53051
+      },
+      "author": "Kálmán Mikszáth",
+      "authorDeathYear": 1910,
+      "editionId": "mikszath-szent-peter-eserny-je.hu.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": 1895,
+      "originalTitle": "Szent Péter esernyője",
+      "rights": {
+        "statement": "Public domain worldwide. Kálmán Mikszáth died in 1910 and the work was first published in 1895. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "68911",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:36:06.953180Z",
+        "revision": "Thu, 27 Aug 2026 13:00:25 GMT",
+        "url": "https://www.gutenberg.org/ebooks/68911"
+      },
+      "title": "Szent Péter esernyője",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "mikszath-szent-peter-eserny-je"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 11,
+        "contentSha256": "de39077f08a2abfcb5f4ac13ddaaca8fd94e263cce95eb90a7b8c2e044278687",
+        "encoding": "gzip",
+        "path": "books/hu/molnar-a-pal-utcai-fiuk.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "492b68fb4a0d31d575d6f9b238c2f51004ee23da2d7ef0fe949a3fed3657a6bb",
+        "sizeBytes": 112685,
+        "uncompressedSizeBytes": 321368,
+        "wordCount": 43393
+      },
+      "author": "Ferenc Molnár",
+      "authorDeathYear": 1952,
+      "editionId": "molnar-a-pal-utcai-fiuk.hu.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": 1906,
+      "originalTitle": "A Pál-utcai fiúk: Regény kis diákok számára",
+      "rights": {
+        "statement": "Public domain worldwide. Ferenc Molnár died in 1952 and the work was first published in 1906. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "69689",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:36:10.229688Z",
+        "revision": "Thu, 27 Aug 2026 16:10:50 GMT",
+        "url": "https://www.gutenberg.org/ebooks/69689"
+      },
+      "title": "A Pál-utcai fiúk: Regény kis diákok számára",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "molnar-a-pal-utcai-fiuk"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 47,
+        "contentSha256": "fe17fd6e56c7d61c2f6ae29c82fb24fe95a7041a19b5fb896ccfc5a3ec2455e5",
+        "encoding": "gzip",
+        "path": "books/hu/molnar-andor.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b0381ebc1a66a24268afb849753423bed30c3a7adf76c5d6ce5aa45903bcf5aa",
+        "sizeBytes": 364698,
+        "uncompressedSizeBytes": 988035,
+        "wordCount": 132329
+      },
+      "author": "Ferenc Molnár",
+      "authorDeathYear": 1952,
+      "editionId": "molnar-andor.hu.gutenberg",
+      "editionPublicationYear": 1918,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": null,
+      "originalTitle": "Andor: Regény",
+      "rights": {
+        "statement": "Public domain worldwide. Ferenc Molnár died in 1952 and the edition digitised by Project Gutenberg was printed in 1918. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "69853",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:36:14.154167Z",
+        "revision": "Thu, 27 Aug 2026 16:48:17 GMT",
+        "url": "https://www.gutenberg.org/ebooks/69853"
+      },
+      "title": "Andor: Regény",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "molnar-andor"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 50,
+        "contentSha256": "e1c185343c7d1f772c71fe8d7e042c88edd5cf40af63e28a73a77e36a802b865",
+        "encoding": "gzip",
+        "path": "books/hu/mor-az-arany-ember.hu.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b3a1d9c7699d4ee3e410fe3d1186ed16ae72b260d3bef06b5e3e334baf8c383f",
+        "sizeBytes": 419371,
+        "uncompressedSizeBytes": 1098639,
+        "wordCount": 147475
+      },
+      "author": "Jókai Mór",
+      "authorDeathYear": 1904,
+      "editionId": "mor-az-arany-ember.hu.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": 1872,
+      "originalTitle": "Az arany ember",
+      "rights": {
+        "statement": "Public domain worldwide. Jókai Mór died in 1904 and the work was first published in 1872. Source: hu.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Az arany ember",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:36:19.720967Z",
+        "revision": "85694",
+        "url": "https://hu.wikisource.org/wiki/Az_arany_ember"
+      },
+      "title": "Az arany ember",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "mor-az-arany-ember"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 32,
+        "contentSha256": "4a697e0247079333068f277878560c269d0324731ccbf98065a44e7d26aa8353",
+        "encoding": "gzip",
+        "path": "books/hu/tomorkeny-szegedi-parasztok-es-egyeb-urak.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "702fe1a08973730c1f9a7ed39c0d05c1bc64e0cbbbdcc48427e67d4707099a87",
+        "sizeBytes": 107899,
+        "uncompressedSizeBytes": 282136,
+        "wordCount": 38050
+      },
+      "author": "István Tömörkény",
+      "authorDeathYear": 1917,
+      "editionId": "tomorkeny-szegedi-parasztok-es-egyeb-urak.hu.gutenberg",
+      "editionPublicationYear": 1893,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": null,
+      "originalTitle": "Szegedi parasztok és egyéb urak",
+      "rights": {
+        "statement": "Public domain worldwide. István Tömörkény died in 1917 and the edition digitised by Project Gutenberg was printed in 1893. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "77654",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:36:31.243698Z",
+        "revision": "Sun, 30 Aug 2026 21:35:13 GMT",
+        "url": "https://www.gutenberg.org/ebooks/77654"
+      },
+      "title": "Szegedi parasztok és egyéb urak",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "tomorkeny-szegedi-parasztok-es-egyeb-urak"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 61,
+        "contentSha256": "b2d806c5b99ffa6faa245ca776c2a53793cd4b1e131db49d52648e64d5ad17e4",
+        "encoding": "gzip",
+        "path": "books/hu/vambery-kozep-azsiai-utazas.hu.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "df5ac11c6a2b4907063622e0ff6d2e7bd00e4ea8a1d34569d22d781850663c51",
+        "sizeBytes": 262716,
+        "uncompressedSizeBytes": 662030,
+        "wordCount": 85371
+      },
+      "author": "Ármin Vámbéry",
+      "authorDeathYear": 1913,
+      "editionId": "vambery-kozep-azsiai-utazas.hu.gutenberg",
+      "editionPublicationYear": 1865,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "hu",
+      "originalLanguage": "hu",
+      "originalPublicationYear": null,
+      "originalTitle": "Közép-ázsiai utazás",
+      "rights": {
+        "statement": "Public domain worldwide. Ármin Vámbéry died in 1913 and the edition digitised by Project Gutenberg was printed in 1865. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "69015",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:36:34.775085Z",
+        "revision": "Thu, 27 Aug 2026 13:24:08 GMT",
+        "url": "https://www.gutenberg.org/ebooks/69015"
+      },
+      "title": "Közép-ázsiai utazás",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vambery-kozep-azsiai-utazas"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Hungarian",
+  "language": "hu",
+  "manifestVersion": "dbf727a5d963aca1",
+  "nativeName": "Magyar",
+  "schemaVersion": 1
+}

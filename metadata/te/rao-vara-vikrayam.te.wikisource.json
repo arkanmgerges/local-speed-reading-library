@@ -1,0 +1,137 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:33.287653Z",
+    "chapterCount": 15,
+    "contentSha256": "1e26ba9adb993ca104b610c7666680d12e726728553a0151a21b72c9f4052a8f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/te/rao-vara-vikrayam.te.wikisource/v1/book.json.gz",
+    "sha256": "cca810e3e29ee4094c9044344bb089198a69f24442bf8308b3eaa9d1d7933535",
+    "sizeBytes": 66857,
+    "uncompressedSizeBytes": 313619,
+    "wordCount": 14098
+  },
+  "edition": {
+    "editionId": "rao-vara-vikrayam.te.wikisource",
+    "kind": "original",
+    "language": "te",
+    "title": "వరవిక్రయం"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1927: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1921: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q7915374",
+      "https://www.wikidata.org/wiki/Q15692450",
+      "https://te.wikisource.org/wiki/%E0%B0%B5%E0%B0%B0%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B1%8D%E0%B0%B0%E0%B0%AF%E0%B0%AE%E0%B1%81"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. కాళ్ళకూరి నారాయణరావు died in 1927 and the work was first published in 1921. Source: te.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "వరవిక్రయము",
+    "pages": [
+      {
+        "revision": 300376,
+        "title": "వరవిక్రయము"
+      },
+      {
+        "revision": 148777,
+        "title": "వరవిక్రయము/జీవిత సంగ్రహము"
+      },
+      {
+        "revision": 300374,
+        "title": "వరవిక్రయము/విషయసూచిక"
+      },
+      {
+        "revision": 149999,
+        "title": "వరవిక్రయము/రెండు మాటలు"
+      },
+      {
+        "revision": 150000,
+        "title": "వరవిక్రయము/కోరికల చిట్టా అగ్రిమెంటు"
+      },
+      {
+        "revision": 150001,
+        "title": "వరవిక్రయము/పాత్రలు"
+      },
+      {
+        "revision": 299819,
+        "title": "వరవిక్రయము/నాంది, ప్రస్తావన"
+      },
+      {
+        "revision": 299818,
+        "title": "వరవిక్రయము/ప్రథమాంకము"
+      },
+      {
+        "revision": 299820,
+        "title": "వరవిక్రయము/ద్వితీయాంకము"
+      },
+      {
+        "revision": 150008,
+        "title": "వరవిక్రయము/తృతీయాంకము"
+      },
+      {
+        "revision": 150011,
+        "title": "వరవిక్రయము/చతుర్ధాంకము"
+      },
+      {
+        "revision": 150013,
+        "title": "వరవిక్రయము/పంచమాంకము"
+      },
+      {
+        "revision": 150015,
+        "title": "వరవిక్రయము/షష్ఠాంకము"
+      },
+      {
+        "revision": 150016,
+        "title": "వరవిక్రయము/సప్తమాంకము"
+      },
+      {
+        "revision": 150018,
+        "title": "వరవిక్రయము/అష్టమాంకము"
+      },
+      {
+        "revision": 150020,
+        "title": "వరవిక్రయము/నవమాంకము"
+      },
+      {
+        "revision": 150022,
+        "title": "వరవిక్రయము/దశమాంకము"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:16:15.954265Z",
+    "revision": "300376",
+    "site": "te.wikisource.org",
+    "url": "https://te.wikisource.org/wiki/%E0%B0%B5%E0%B0%B0%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B1%8D%E0%B0%B0%E0%B0%AF%E0%B0%AE%E0%B1%81"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1871,
+      "deathYear": 1927,
+      "name": "కాళ్ళకూరి నారాయణరావు",
+      "wikidata": "Q15692450"
+    },
+    "originalLanguage": "te",
+    "originalPublicationYear": 1921,
+    "originalTitle": "వరవిక్రయం",
+    "workId": "rao-vara-vikrayam"
+  }
+}

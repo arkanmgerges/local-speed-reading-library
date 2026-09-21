@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:29.674189Z",
+    "chapterCount": 2,
+    "contentSha256": "8b7a07e9ad3a20c0db29f5eaa6180276873f150fd267e8e57052505af1ad2f4e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/twain-huck-finns-h-ndelser.da.wikisource/v1/book.json.gz",
+    "sha256": "009470d131120735d65d32c69558b466628f4f34ccae51bcfac7ab04ee98294f",
+    "sizeBytes": 246409,
+    "uncompressedSizeBytes": 647323,
+    "wordCount": 110679
+  },
+  "edition": {
+    "editionId": "twain-huck-finns-h-ndelser.da.wikisource",
+    "kind": "translation",
+    "language": "da",
+    "title": "Huck Finns Hændelser",
+    "translationPublicationYear": 1910,
+    "translator": {
+      "birthYear": 1866,
+      "deathYear": 1921,
+      "name": "Broder August Duurloo",
+      "wikidata": "Q72585194"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1910: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1921: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1910: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q215410",
+      "https://www.wikidata.org/wiki/Q72586449",
+      "https://www.wikidata.org/wiki/Q7245",
+      "https://www.wikidata.org/wiki/Q72585194",
+      "https://da.wikisource.org/wiki/Huck_Finns_H%C3%A6ndelser"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Mark Twain died in 1910; the translator Broder August Duurloo died in 1921 and this translation was first published in 1910. Source: da.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Huck Finns Hændelser",
+    "pages": [
+      {
+        "revision": 481851,
+        "title": "Huck Finns Hændelser"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:23:08.288221Z",
+    "revision": "481851",
+    "site": "da.wikisource.org",
+    "url": "https://da.wikisource.org/wiki/Huck_Finns_H%C3%A6ndelser"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1910,
+      "name": "Mark Twain",
+      "wikidata": "Q7245"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1884,
+    "originalTitle": "Huck Finns Hændelser",
+    "workId": "twain-huck-finns-h-ndelser"
+  }
+}

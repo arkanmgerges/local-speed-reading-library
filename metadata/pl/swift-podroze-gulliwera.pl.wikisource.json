@@ -1,0 +1,95 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:49.902574Z",
+    "chapterCount": 17,
+    "contentSha256": "92bf85e761fd5c06d0e310cda76e2c3ccb9c0d66c9a055ece5fc3e9ea428e9c9",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/swift-podroze-gulliwera.pl.wikisource/v1/book.json.gz",
+    "sha256": "73007d72b2382c7094ea62861c53ec876aecdcdb895a05a6c360f6268c8dbe8d",
+    "sizeBytes": 242523,
+    "uncompressedSizeBytes": 649241,
+    "wordCount": 87208
+  },
+  "edition": {
+    "editionId": "swift-podroze-gulliwera.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Podróże Gulliwera",
+    "translationPublicationYear": 1842,
+    "translator": {
+      "birthYear": 1805,
+      "deathYear": 1881,
+      "name": "Jan Nepomucen Bobrowicz",
+      "wikidata": "Q554209"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1745: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1881: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1842: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q181488",
+      "https://www.wikidata.org/wiki/Q66364081",
+      "https://www.wikidata.org/wiki/Q41166",
+      "https://www.wikidata.org/wiki/Q554209",
+      "https://pl.wikisource.org/wiki/Podr%C3%B3%C5%BCe_Gulliwera"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jonathan Swift died in 1745; the translator Jan Nepomucen Bobrowicz died in 1881 and this translation was first published in 1842. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Podróże Gulliwera",
+    "pages": [
+      {
+        "revision": 3279101,
+        "title": "Podróże Gulliwera"
+      },
+      {
+        "revision": 3909416,
+        "title": "Podróże Gulliwera/Tom I"
+      },
+      {
+        "revision": 3909417,
+        "title": "Podróże Gulliwera/całość"
+      },
+      {
+        "revision": 3912498,
+        "title": "Podróże Gulliwera/Tom II"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:29:04.050333Z",
+    "revision": "3279101",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Podr%C3%B3%C5%BCe_Gulliwera"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1667,
+      "deathYear": 1745,
+      "name": "Jonathan Swift",
+      "wikidata": "Q41166"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1726,
+    "originalTitle": "Podróże Gulliwera",
+    "workId": "swift-podroze-gulliwera"
+  }
+}

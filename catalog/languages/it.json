@@ -1,0 +1,875 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 20,
+        "contentSha256": "79fe4b6cc18a5241b867f067b0496cfa845808e080b232d2a0603f717fef5fed",
+        "encoding": "gzip",
+        "path": "books/it/cantt-storia-degli-italiani-vol-07-di-15.it.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6bc1e918df58b3db839f0b6cbb55da894a94c17bcf373dcc4224893c504fcf8a",
+        "sizeBytes": 373691,
+        "uncompressedSizeBytes": 950844,
+        "wordCount": 143927
+      },
+      "author": "Cesare Cantù",
+      "authorDeathYear": 1895,
+      "editionId": "cantt-storia-degli-italiani-vol-07-di-15.it.gutenberg",
+      "editionPublicationYear": 1874,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "it",
+      "originalLanguage": "it",
+      "originalPublicationYear": null,
+      "originalTitle": "Storia degli Italiani, vol. 07 (di 15)",
+      "rights": {
+        "statement": "Public domain worldwide. Cesare Cantù died in 1895 and the edition digitised by Project Gutenberg was printed in 1874. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "69247",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:41:56.480717Z",
+        "revision": "Thu, 27 Aug 2026 14:23:08 GMT",
+        "url": "https://www.gutenberg.org/ebooks/69247"
+      },
+      "title": "Storia degli Italiani, vol. 07 (di 15)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "cantt-storia-degli-italiani-vol-07-di-15"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 131,
+        "contentSha256": "d0b1a8104e6a1f11b28ca19bd01c7aed2ce923679ab09a793a95a53a836bee0c",
+        "encoding": "gzip",
+        "path": "books/it/carducci-pagine-di-storia-letteraria.it.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ee4907bd9da023f54def75100d20a4518acaaca26934f77fa601597deb613021",
+        "sizeBytes": 402605,
+        "uncompressedSizeBytes": 1068757,
+        "wordCount": 161633
+      },
+      "author": "Giosuè Carducci",
+      "authorDeathYear": 1907,
+      "editionId": "carducci-pagine-di-storia-letteraria.it.gutenberg",
+      "editionPublicationYear": 1920,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "it",
+      "originalLanguage": "it",
+      "originalPublicationYear": null,
+      "originalTitle": "Pagine di storia letteraria",
+      "rights": {
+        "statement": "Public domain worldwide. Giosuè Carducci died in 1907 and the edition digitised by Project Gutenberg was printed in 1920. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "77906",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:42:08.311994Z",
+        "revision": "Sun, 30 Aug 2026 23:26:18 GMT",
+        "url": "https://www.gutenberg.org/ebooks/77906"
+      },
+      "title": "Pagine di storia letteraria",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "carducci-pagine-di-storia-letteraria"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 37,
+        "contentSha256": "caafd95be36360b4e383435e70d5f41553c432c8c557f155a9d25635d1b043ff",
+        "encoding": "gzip",
+        "path": "books/it/collodi-le-avventure-di-pinocchio.it.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "678fab3a2b37e6369723f825961acb5fe300f5afd957e2bb0442c497f7663eb3",
+        "sizeBytes": 89930,
+        "uncompressedSizeBytes": 267845,
+        "wordCount": 40835
+      },
+      "author": "Carlo Collodi",
+      "authorDeathYear": 1890,
+      "editionId": "collodi-le-avventure-di-pinocchio.it.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "Children"
+      ],
+      "kind": "original",
+      "language": "it",
+      "originalLanguage": "it",
+      "originalPublicationYear": 1883,
+      "originalTitle": "Le avventure di Pinocchio: Storia di un burattino",
+      "rights": {
+        "statement": "Public domain worldwide. Carlo Collodi died in 1890 and the work was first published in 1883. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "52484",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:42:16.388854Z",
+        "revision": "Fri, 21 Aug 2026 09:30:39 GMT",
+        "url": "https://www.gutenberg.org/ebooks/52484"
+      },
+      "title": "Le avventure di Pinocchio: Storia di un burattino",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "collodi-le-avventure-di-pinocchio"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 21,
+        "contentSha256": "9a6333f5f8788ce43d6286402af8d3c9e5663604afdfefa11b6a9d930ae672fc",
+        "encoding": "gzip",
+        "path": "books/it/de-roberto-documenti-umani.it.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "04e2e2622b9355afa41bb415955c011148276e8707181922e56888cf11283fc8",
+        "sizeBytes": 143028,
+        "uncompressedSizeBytes": 384475,
+        "wordCount": 58583
+      },
+      "author": "Federico De Roberto",
+      "authorDeathYear": 1927,
+      "editionId": "de-roberto-documenti-umani.it.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "it",
+      "originalLanguage": "it",
+      "originalPublicationYear": 1888,
+      "originalTitle": "Documenti Umani",
+      "rights": {
+        "statement": "Public domain worldwide. Federico De Roberto died in 1927 and the work was first published in 1888. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "25182",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:42:23.211363Z",
+        "revision": "Thu, 10 Sep 2026 16:35:16 GMT",
+        "url": "https://www.gutenberg.org/ebooks/25182"
+      },
+      "title": "Documenti Umani",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "de-roberto-documenti-umani"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 112,
+        "contentSha256": "c2d6441d84c267635d79fc806d791fb721339853bf02047f2396f2825b513de6",
+        "encoding": "gzip",
+        "path": "books/it/defoe-avventure-di-robinson-crusoe.it.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9621e0ba8c709316ad21b81b6f9537725fb37eea27c6a60f44d6a15cc3d12af3",
+        "sizeBytes": 553227,
+        "uncompressedSizeBytes": 1563134,
+        "wordCount": 245211
+      },
+      "author": "Daniel Defoe",
+      "authorDeathYear": 1731,
+      "editionId": "defoe-avventure-di-robinson-crusoe.it.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "it",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1719,
+      "originalTitle": "Avventure di Robinson Crusoe",
+      "rights": {
+        "statement": "Public domain worldwide. Daniel Defoe died in 1731; the translator Gaetano Barbieri died in 1853 and this translation was first published in 1842. Source: it.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Avventure di Robinson Crusoe",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:45:00.012197Z",
+        "revision": "3674344",
+        "url": "https://it.wikisource.org/wiki/Avventure_di_Robinson_Crusoe"
+      },
+      "title": "Avventure di Robinson Crusoe",
+      "translationPublicationYear": 1842,
+      "translator": "Gaetano Barbieri",
+      "translatorDeathYear": 1853,
+      "workId": "defoe-avventure-di-robinson-crusoe"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "b844fa03af006878eb5d86f246440a10f041857f2516e8b64612e2ef76793a9d",
+        "encoding": "gzip",
+        "path": "books/it/dickens-cantico-di-natale.it.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "33fd43de6cd29bac683b36f3df095c45e89aa643a00a9897a0b62fc3a48891bf",
+        "sizeBytes": 63475,
+        "uncompressedSizeBytes": 170776,
+        "wordCount": 27395
+      },
+      "author": "Charles Dickens",
+      "authorDeathYear": 1870,
+      "editionId": "dickens-cantico-di-natale.it.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "it",
+      "originalLanguage": "en-gb",
+      "originalPublicationYear": 1843,
+      "originalTitle": "Cantico di Natale",
+      "rights": {
+        "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Federigo Verdinois died in 1927 and this translation was first published in 1888. Source: it.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Cantico di Natale",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:45:11.803359Z",
+        "revision": "3676437",
+        "url": "https://it.wikisource.org/wiki/Cantico_di_Natale"
+      },
+      "title": "Cantico di Natale",
+      "translationPublicationYear": 1888,
+      "translator": "Federigo Verdinois",
+      "translatorDeathYear": 1927,
+      "workId": "dickens-cantico-di-natale"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 8,
+        "contentSha256": "e8359548bdf55003a8127e93abb7e79ada8ff618b4b0a051719a7fe56f4a4eca",
+        "encoding": "gzip",
+        "path": "books/it/engels-il-manifesto-del-partito-comunista-1891-italian.it.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "71177c684fae545558a861a46985d14f4b61bd00d8a44e8ee8cd183e30e46fe0",
+        "sizeBytes": 26442,
+        "uncompressedSizeBytes": 81553,
+        "wordCount": 11063
+      },
+      "author": "Friedrich Engels",
+      "authorDeathYear": 1895,
+      "editionId": "engels-il-manifesto-del-partito-comunista-1891-italian.it.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "it",
+      "originalLanguage": "de",
+      "originalPublicationYear": 1848,
+      "originalTitle": "Il Manifesto del Partito Comunista (1891 Italian edition)",
+      "rights": {
+        "statement": "Public domain worldwide. Friedrich Engels died in 1895; the translator Pietro Gori died in 1911 and this translation was first published in 1891. Source: it.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Il Manifesto del Partito Comunista",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:45:25.341754Z",
+        "revision": "3701457",
+        "url": "https://it.wikisource.org/wiki/Il_Manifesto_del_Partito_Comunista"
+      },
+      "title": "Il Manifesto del Partito Comunista",
+      "translationPublicationYear": 1891,
+      "translator": "Pietro Gori",
+      "translatorDeathYear": 1911,
+      "workId": "engels-il-manifesto-del-partito-comunista-1891-italian"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 52,
+        "contentSha256": "3c615d55270c5a842330eea42462790f08701a0793a8c6bfe7d5a7af6f45de30",
+        "encoding": "gzip",
+        "path": "books/it/fogazzaro-il-mistero-del-poeta.it.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9443b56f7720450f868945bd51dcdcde7fe2f325f27175c75ab3223d8471df1c",
+        "sizeBytes": 142317,
+        "uncompressedSizeBytes": 384096,
+        "wordCount": 59899
+      },
+      "author": "Antonio Fogazzaro",
+      "authorDeathYear": 1911,
+      "editionId": "fogazzaro-il-mistero-del-poeta.it.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "it",
+      "originalLanguage": "it",
+      "originalPublicationYear": 1888,
+      "originalTitle": "Il mistero del poeta",
+      "rights": {
+        "statement": "Public domain worldwide. Antonio Fogazzaro died in 1911 and the work was first published in 1888. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "22504",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:45:28.313536Z",
+        "revision": "Wed, 09 Sep 2026 14:13:31 GMT",
+        "url": "https://www.gutenberg.org/ebooks/22504"
+      },
+      "title": "Il mistero del poeta",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "fogazzaro-il-mistero-del-poeta"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "4ef2614bb52f6ac6e1d09afead989d21925c4c8e844b14147f406e5b03139101",
+        "encoding": "gzip",
+        "path": "books/it/galilei-dialogo-sopra-i-due-massimi-sistemi-del.it.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a3b28ac9437606881c8d8ef92d97a2078b5cdb2b42d65d9e1a6dda87730c8aef",
+        "sizeBytes": 388016,
+        "uncompressedSizeBytes": 1215988,
+        "wordCount": 191457
+      },
+      "author": "Galileo Galilei",
+      "authorDeathYear": 1642,
+      "editionId": "galilei-dialogo-sopra-i-due-massimi-sistemi-del.it.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "it",
+      "originalLanguage": "it",
+      "originalPublicationYear": 1632,
+      "originalTitle": "Dialogo sopra i due massimi sistemi del mondo",
+      "rights": {
+        "statement": "Public domain worldwide. Galileo Galilei died in 1642 and the work was first published in 1632. Source: it.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Dialogo sopra i due massimi sistemi del mondo tolemaico e copernicano",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:45:51.983549Z",
+        "revision": "3799889",
+        "url": "https://it.wikisource.org/wiki/Dialogo_sopra_i_due_massimi_sistemi_del_mondo_tolemaico_e_copernicano"
+      },
+      "title": "Dialogo sopra i due massimi sistemi del mondo",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "galilei-dialogo-sopra-i-due-massimi-sistemi-del"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 19,
+        "contentSha256": "c4f0b042b1a2b96e1ed3f67df059c538250b2d220892062eacbcfcf996da7bfd",
+        "encoding": "gzip",
+        "path": "books/it/graf-attraverso-il-cinquecento.it.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7f4aa1a95a29b34a30541e6964d6542fbcf12990b7c9e79c0bb6fced19efcea8",
+        "sizeBytes": 219539,
+        "uncompressedSizeBytes": 576029,
+        "wordCount": 90022
+      },
+      "author": "Arturo Graf",
+      "authorDeathYear": 1913,
+      "editionId": "graf-attraverso-il-cinquecento.it.gutenberg",
+      "editionPublicationYear": 1916,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "it",
+      "originalLanguage": "it",
+      "originalPublicationYear": null,
+      "originalTitle": "Attraverso il Cinquecento",
+      "rights": {
+        "statement": "Public domain worldwide. Arturo Graf died in 1913 and the edition digitised by Project Gutenberg was printed in 1916. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "67595",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:45:57.966483Z",
+        "revision": "Wed, 26 Aug 2026 18:04:10 GMT",
+        "url": "https://www.gutenberg.org/ebooks/67595"
+      },
+      "title": "Attraverso il Cinquecento",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "graf-attraverso-il-cinquecento"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 53,
+        "contentSha256": "0fc4ed88c08982e2a729f18142f5c77830785521c4d386c5c756c133aabe9e97",
+        "encoding": "gzip",
+        "path": "books/it/manzoni-i-promessi-sposi-opere-di-alessando-manzoni.it.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d064d10924c689622f49962b1033d01c1036d3b7c2d391784b221bf3f160e829",
+        "sizeBytes": 532083,
+        "uncompressedSizeBytes": 1441143,
+        "wordCount": 228078
+      },
+      "author": "Alessandro Manzoni",
+      "authorDeathYear": 1873,
+      "editionId": "manzoni-i-promessi-sposi-opere-di-alessando-manzoni.it.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "it",
+      "originalLanguage": "it",
+      "originalPublicationYear": 1827,
+      "originalTitle": "I promessi sposi. Opere di Alessando Manzoni, vol. 1",
+      "rights": {
+        "statement": "Public domain worldwide. Alessandro Manzoni died in 1873 and the work was first published in 1827. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "45334",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:46:12.681348Z",
+        "revision": "Fri, 18 Sep 2026 14:29:41 GMT",
+        "url": "https://www.gutenberg.org/ebooks/45334"
+      },
+      "title": "I promessi sposi. Opere di Alessando Manzoni, vol. 1",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "manzoni-i-promessi-sposi-opere-di-alessando-manzoni"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 27,
+        "contentSha256": "7b8071e7c8394131d6dffaba6ff076985d5efa65a609306278a400be2ffa0356",
+        "encoding": "gzip",
+        "path": "books/it/marinetti-manifesto-del-futurismo.it.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "21265ad7f6af3b62953993f92891e3849388f27371a32ba47d111419113f2f25",
+        "sizeBytes": 118369,
+        "uncompressedSizeBytes": 315662,
+        "wordCount": 44707
+      },
+      "author": "Filippo Tommaso Marinetti",
+      "authorDeathYear": 1944,
+      "editionId": "marinetti-manifesto-del-futurismo.it.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "it",
+      "originalLanguage": "it",
+      "originalPublicationYear": 1909,
+      "originalTitle": "Manifesto del futurismo",
+      "rights": {
+        "statement": "Public domain worldwide. Filippo Tommaso Marinetti died in 1944 and the work was first published in 1909. Source: it.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "I Manifesti del futurismo",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:46:49.372133Z",
+        "revision": "3697797",
+        "url": "https://it.wikisource.org/wiki/I_Manifesti_del_futurismo"
+      },
+      "title": "Manifesto del futurismo",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "marinetti-manifesto-del-futurismo"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 18,
+        "contentSha256": "196cad56725eebab9748e4580239be211a2c78d6077957f5e0b93ab323db6edf",
+        "encoding": "gzip",
+        "path": "books/it/platone-critone.it.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "90bad18347d1d500805a769409211a5f65c2f34838a93c286befbfaa12721fe7",
+        "sizeBytes": 21052,
+        "uncompressedSizeBytes": 59010,
+        "wordCount": 8898
+      },
+      "author": "Platone",
+      "authorDeathYear": -348,
+      "editionId": "platone-critone.it.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "it",
+      "originalLanguage": "grc",
+      "originalPublicationYear": -400,
+      "originalTitle": "Critone",
+      "rights": {
+        "statement": "Public domain worldwide. Platone died in -348; the translator Francesco Acri died in 1913 and this translation was first published in 1925. Source: it.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Critone",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:47:15.590742Z",
+        "revision": "3798049",
+        "url": "https://it.wikisource.org/wiki/Critone"
+      },
+      "title": "Critone",
+      "translationPublicationYear": 1925,
+      "translator": "Francesco Acri",
+      "translatorDeathYear": 1913,
+      "workId": "platone-critone"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 34,
+        "contentSha256": "d917a6a1e2330817acb220f1431ae7360e68494a0a54a56c477c95afd658b2ef",
+        "encoding": "gzip",
+        "path": "books/it/platone-l-apologia-di-socrate.it.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5f9c3f4adeef206324261b685d0cdeb82f1f97e0facc893d4d4d6d6654412a4a",
+        "sizeBytes": 23170,
+        "uncompressedSizeBytes": 67203,
+        "wordCount": 10346
+      },
+      "author": "Platone",
+      "authorDeathYear": -348,
+      "editionId": "platone-l-apologia-di-socrate.it.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "it",
+      "originalLanguage": "grc",
+      "originalPublicationYear": -395,
+      "originalTitle": "L'apologia di Socrate",
+      "rights": {
+        "statement": "Public domain worldwide. Platone died in -348; the translator Francesco Acri died in 1913 and this translation was first published in 1850. Source: it.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "L'apologia di Socrate",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:48:29.721028Z",
+        "revision": "3771139",
+        "url": "https://it.wikisource.org/wiki/L'apologia_di_Socrate"
+      },
+      "title": "L'apologia di Socrate",
+      "translationPublicationYear": 1850,
+      "translator": "Francesco Acri",
+      "translatorDeathYear": 1913,
+      "workId": "platone-l-apologia-di-socrate"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "4b45f6134e05ccdbb02e9e7c9815c5626be9be124b563647371ee2feeed4e495",
+        "encoding": "gzip",
+        "path": "books/it/poe-guglielmo-wilson.it.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8e266b41f5f4b6d28133107ef80a046ca1c6789ac64f32416b76b0e37bb9c0e9",
+        "sizeBytes": 22952,
+        "uncompressedSizeBytes": 57423,
+        "wordCount": 8604
+      },
+      "author": "Edgar Allan Poe",
+      "authorDeathYear": 1849,
+      "editionId": "poe-guglielmo-wilson.it.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "it",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1839,
+      "originalTitle": "Guglielmo Wilson",
+      "rights": {
+        "statement": "Public domain worldwide. Edgar Allan Poe died in 1849; the translator Baccio Emanuele Maineri died in 1899 and this translation was first published in 1869. Source: it.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Guglielmo Wilson",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:48:31.537801Z",
+        "revision": "3696925",
+        "url": "https://it.wikisource.org/wiki/Guglielmo_Wilson"
+      },
+      "title": "Guglielmo Wilson",
+      "translationPublicationYear": 1869,
+      "translator": "Baccio Emanuele Maineri",
+      "translatorDeathYear": 1899,
+      "workId": "poe-guglielmo-wilson"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 7,
+        "contentSha256": "ca2755ee90f35ebd2573b211e59aaf591d18f60ca5766e988bfc29d2c1901045",
+        "encoding": "gzip",
+        "path": "books/it/poe-la-caduta-della-casa-usher.it.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "62e1d9711d6aac5771246449e010395e636cb906bd8b25399e45ffb37e26aba1",
+        "sizeBytes": 21230,
+        "uncompressedSizeBytes": 53406,
+        "wordCount": 7811
+      },
+      "author": "Edgar Allan Poe",
+      "authorDeathYear": 1849,
+      "editionId": "poe-la-caduta-della-casa-usher.it.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "it",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1839,
+      "originalTitle": "La caduta della Casa Usher",
+      "rights": {
+        "statement": "Public domain worldwide. Edgar Allan Poe died in 1849; the translator Baccio Emanuele Maineri died in 1899 and this translation was first published in 1869. Source: it.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "La caduta della Casa Usher",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:48:34.512793Z",
+        "revision": "3713717",
+        "url": "https://it.wikisource.org/wiki/La_caduta_della_Casa_Usher"
+      },
+      "title": "La caduta della Casa Usher",
+      "translationPublicationYear": 1869,
+      "translator": "Baccio Emanuele Maineri",
+      "translatorDeathYear": 1899,
+      "workId": "poe-la-caduta-della-casa-usher"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "589adecb5e913ab3e95a8d88cf13633d132b1a07cd732eb2efbf9ceaac807f17",
+        "encoding": "gzip",
+        "path": "books/it/poe-ligeia.it.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "fb87a2c4c4df7cf1cb855c1225f3687beaa1d05b148b7152d5ef1b8723d6a79d",
+        "sizeBytes": 18162,
+        "uncompressedSizeBytes": 44933,
+        "wordCount": 6697
+      },
+      "author": "Edgar Allan Poe",
+      "authorDeathYear": 1849,
+      "editionId": "poe-ligeia.it.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "it",
+      "originalLanguage": "en-us",
+      "originalPublicationYear": 1838,
+      "originalTitle": "Ligeia",
+      "rights": {
+        "statement": "Public domain worldwide. Edgar Allan Poe died in 1849; the translator Baccio Emanuele Maineri died in 1899 and this translation was first published in 1869. Source: it.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Ligeia (Poe-Maineri)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:48:37.721564Z",
+        "revision": "3727646",
+        "url": "https://it.wikisource.org/wiki/Ligeia_(Poe-Maineri)"
+      },
+      "title": "Ligeia",
+      "translationPublicationYear": 1869,
+      "translator": "Baccio Emanuele Maineri",
+      "translatorDeathYear": 1899,
+      "workId": "poe-ligeia"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "fa7e0440d70ec38da0ff8ddcd1d6c55bb85f9e183868a39311bd4936a96a47ea",
+        "encoding": "gzip",
+        "path": "books/it/poe-una-discesa-nel-maelstrom.it.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ae0b1107cd7d99f1ccae62eb754739821b48d0677807c4436d8b2a354756b740",
+        "sizeBytes": 18970,
+        "uncompressedSizeBytes": 47510,
+        "wordCount": 7134
+      },
+      "author": "Edgar Allan Poe",
+      "authorDeathYear": 1849,
+      "editionId": "poe-una-discesa-nel-maelstrom.it.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "it",
+      "originalLanguage": "en-us",
+      "originalPublicationYear": 1841,
+      "originalTitle": "Una discesa nel Maelstrom",
+      "rights": {
+        "statement": "Public domain worldwide. Edgar Allan Poe died in 1849; the translator Baccio Emanuele Maineri died in 1899 and this translation was first published in 1869. Source: it.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Una discesa nel Maelstrom (Poe-Maineri)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:48:39.400726Z",
+        "revision": "3767185",
+        "url": "https://it.wikisource.org/wiki/Una_discesa_nel_Maelstrom_(Poe-Maineri)"
+      },
+      "title": "Una discesa nel Maelstrom",
+      "translationPublicationYear": 1869,
+      "translator": "Baccio Emanuele Maineri",
+      "translatorDeathYear": 1899,
+      "workId": "poe-una-discesa-nel-maelstrom"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 8,
+        "contentSha256": "802cff02a14f4f6ecb2751d736f3abf583849dfc866fd92b30fd648cc9b1fcc9",
+        "encoding": "gzip",
+        "path": "books/it/rossi-le-due-colpe.it.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "520a4f2aa9ad5f9d87e766bacabf7b754f3bf8f8179e4a68497c44412bfc0d92",
+        "sizeBytes": 26414,
+        "uncompressedSizeBytes": 71883,
+        "wordCount": 10868
+      },
+      "author": "Giuseppe de Rossi",
+      "authorDeathYear": 1945,
+      "editionId": "rossi-le-due-colpe.it.gutenberg",
+      "editionPublicationYear": 1897,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "it",
+      "originalLanguage": "it",
+      "originalPublicationYear": null,
+      "originalTitle": "Le due colpe",
+      "rights": {
+        "statement": "Public domain worldwide. Giuseppe de Rossi died in 1945 and the edition digitised by Project Gutenberg was printed in 1897. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "79260",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:48:41.756889Z",
+        "revision": "Mon, 31 Aug 2026 12:57:35 GMT",
+        "url": "https://www.gutenberg.org/ebooks/79260"
+      },
+      "title": "Le due colpe",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "rossi-le-due-colpe"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 22,
+        "contentSha256": "2865806efd933d93682d67a968f72051b1127df417b1125a12e92090265f9a38",
+        "encoding": "gzip",
+        "path": "books/it/stoker-dracula.it.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "70592a86ccb312c444c1d2e6ac999978f3bcf3c7e4abdffa7a23e73352beadd3",
+        "sizeBytes": 94745,
+        "uncompressedSizeBytes": 265129,
+        "wordCount": 39167
+      },
+      "author": "Bram Stoker",
+      "authorDeathYear": 1912,
+      "editionId": "stoker-dracula.it.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "it",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1897,
+      "originalTitle": "Dracula",
+      "rights": {
+        "statement": "Public domain worldwide. Bram Stoker died in 1912; the translator Angelo Nessi died in 1932 and this translation was first published in 1922. Source: it.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Dracula",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:49:22.596358Z",
+        "revision": "3687377",
+        "url": "https://it.wikisource.org/wiki/Dracula"
+      },
+      "title": "Dracula",
+      "translationPublicationYear": 1922,
+      "translator": "Angelo Nessi",
+      "translatorDeathYear": 1932,
+      "workId": "stoker-dracula"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Italian",
+  "language": "it",
+  "manifestVersion": "fd8432171a075d71",
+  "nativeName": "Italiano",
+  "schemaVersion": 1
+}

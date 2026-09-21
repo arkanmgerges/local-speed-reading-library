@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:51.949710Z",
+    "chapterCount": 29,
+    "contentSha256": "e41c704000d325190a7b578ae9d1fdf1e4a099665b8d35131605aefcf7e55612",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ru/wells-q1539509.ru.wikisource/v1/book.json.gz",
+    "sha256": "cf67c29db4e6fa5d78ad87b5f28b8d1e90e139a186548efca2a80dc78e6c177c",
+    "sizeBytes": 130511,
+    "uncompressedSizeBytes": 489962,
+    "wordCount": 41618
+  },
+  "edition": {
+    "editionId": "wells-q1539509.ru.wikisource",
+    "kind": "translation",
+    "language": "ru",
+    "title": "Человек-невидимка",
+    "translationPublicationYear": 1910,
+    "translator": {
+      "birthYear": 1878,
+      "deathYear": 1938,
+      "name": "Давид Лазаревич Вейс",
+      "wikidata": "Q68638708"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1938: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1910: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1539509",
+      "https://www.wikidata.org/wiki/Q71043882",
+      "https://www.wikidata.org/wiki/Q42511",
+      "https://www.wikidata.org/wiki/Q68638708",
+      "https://ru.wikisource.org/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B0_(%D0%A3%D1%8D%D0%BB%D0%BB%D1%81%3B_%D0%92%D0%B5%D0%B9%D1%81)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Герберт Уэллс died in 1946; the translator Давид Лазаревич Вейс died in 1938 and this translation was first published in 1910. Source: ru.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Человек-невидимка (Уэллс; Вейс)",
+    "pages": [
+      {
+        "revision": 5039636,
+        "title": "Человек-невидимка (Уэллс; Вейс)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:55:19.877500Z",
+    "revision": "5039636",
+    "site": "ru.wikisource.org",
+    "url": "https://ru.wikisource.org/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B0_(%D0%A3%D1%8D%D0%BB%D0%BB%D1%81%3B_%D0%92%D0%B5%D0%B9%D1%81)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1866,
+      "deathYear": 1946,
+      "name": "Герберт Уэллс",
+      "wikidata": "Q42511"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1897,
+    "originalTitle": "Человек-невидимка",
+    "workId": "wells-q1539509"
+  }
+}

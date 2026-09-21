@@ -1,0 +1,221 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:59.838655Z",
+    "chapterCount": 64,
+    "contentSha256": "34a5dd065f82ae28917bde4ef9cbb9782cac2c66fcfac9a52dc897a31ef98634",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt-br/alencar-iracema.pt-br.wikisource/v1/book.json.gz",
+    "sha256": "6d210180fd7419e2cfd41be00e190982e2c8077ef040d2d10456b26bc9a11c60",
+    "sizeBytes": 76965,
+    "uncompressedSizeBytes": 218111,
+    "wordCount": 33211
+  },
+  "edition": {
+    "editionId": "alencar-iracema.pt-br.wikisource",
+    "kind": "original",
+    "language": "pt-BR",
+    "title": "Iracema"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1877: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1865: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1472368",
+      "https://www.wikidata.org/wiki/Q455703",
+      "https://pt.wikisource.org/wiki/Iracema"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. José de Alencar died in 1877 and the work was first published in 1865. Source: pt.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Iracema",
+    "pages": [
+      {
+        "revision": 536515,
+        "title": "Iracema"
+      },
+      {
+        "revision": 493523,
+        "title": "Iracema/Prólogo"
+      },
+      {
+        "revision": 536516,
+        "title": "Iracema/Argumento Histórico"
+      },
+      {
+        "revision": 557352,
+        "title": "Iracema/I"
+      },
+      {
+        "revision": 557353,
+        "title": "Iracema/II"
+      },
+      {
+        "revision": 536750,
+        "title": "Iracema/III"
+      },
+      {
+        "revision": 536792,
+        "title": "Iracema/IV"
+      },
+      {
+        "revision": 536918,
+        "title": "Iracema/V"
+      },
+      {
+        "revision": 536983,
+        "title": "Iracema/VI"
+      },
+      {
+        "revision": 536992,
+        "title": "Iracema/VII"
+      },
+      {
+        "revision": 537030,
+        "title": "Iracema/VIII"
+      },
+      {
+        "revision": 537076,
+        "title": "Iracema/IX"
+      },
+      {
+        "revision": 537116,
+        "title": "Iracema/X"
+      },
+      {
+        "revision": 537140,
+        "title": "Iracema/XI"
+      },
+      {
+        "revision": 537152,
+        "title": "Iracema/XII"
+      },
+      {
+        "revision": 537182,
+        "title": "Iracema/XIII"
+      },
+      {
+        "revision": 537259,
+        "title": "Iracema/XIV"
+      },
+      {
+        "revision": 537281,
+        "title": "Iracema/XV"
+      },
+      {
+        "revision": 537299,
+        "title": "Iracema/XVI"
+      },
+      {
+        "revision": 537306,
+        "title": "Iracema/XVII"
+      },
+      {
+        "revision": 537319,
+        "title": "Iracema/XVIII"
+      },
+      {
+        "revision": 537326,
+        "title": "Iracema/XIX"
+      },
+      {
+        "revision": 537346,
+        "title": "Iracema/XX"
+      },
+      {
+        "revision": 537397,
+        "title": "Iracema/XXI"
+      },
+      {
+        "revision": 537433,
+        "title": "Iracema/XXII"
+      },
+      {
+        "revision": 537494,
+        "title": "Iracema/XXIII"
+      },
+      {
+        "revision": 537594,
+        "title": "Iracema/XXIV"
+      },
+      {
+        "revision": 537673,
+        "title": "Iracema/XXV"
+      },
+      {
+        "revision": 537731,
+        "title": "Iracema/XXVI"
+      },
+      {
+        "revision": 537733,
+        "title": "Iracema/XXVII"
+      },
+      {
+        "revision": 537734,
+        "title": "Iracema/XXVIII"
+      },
+      {
+        "revision": 537747,
+        "title": "Iracema/XXIX"
+      },
+      {
+        "revision": 537761,
+        "title": "Iracema/XXX"
+      },
+      {
+        "revision": 537763,
+        "title": "Iracema/XXXI"
+      },
+      {
+        "revision": 537764,
+        "title": "Iracema/XXXII"
+      },
+      {
+        "revision": 537765,
+        "title": "Iracema/XXXIII"
+      },
+      {
+        "revision": 493559,
+        "title": "Iracema/Notas"
+      },
+      {
+        "revision": 493561,
+        "title": "Iracema/Posfácio"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:32:46.363342Z",
+    "revision": "536515",
+    "site": "pt.wikisource.org",
+    "url": "https://pt.wikisource.org/wiki/Iracema"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1829,
+      "deathYear": 1877,
+      "name": "José de Alencar",
+      "wikidata": "Q455703"
+    },
+    "originalLanguage": "pt-BR",
+    "originalPublicationYear": 1865,
+    "originalTitle": "Iracema",
+    "workId": "alencar-iracema"
+  }
+}

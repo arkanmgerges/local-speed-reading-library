@@ -1,0 +1,235 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:49:39.213151Z",
+    "chapterCount": 42,
+    "contentSha256": "913fe924664b510d3ec1a034465556ba188b7cf588b813e809b7b9a72fddeca2",
+    "normalizerVersion": "0.2.0",
+    "path": "books/en/verne-around-the-world-in-eighty-days.en.wikisource/v1/book.json.gz",
+    "sha256": "38621f27a4e5bd9cd3424527d3bfc743b80f55e266e5c7716b5cdf37d0d3cb20",
+    "sizeBytes": 140992,
+    "uncompressedSizeBytes": 405538,
+    "wordCount": 64323
+  },
+  "edition": {
+    "editionId": "verne-around-the-world-in-eighty-days.en.wikisource",
+    "kind": "translation",
+    "language": "en",
+    "title": "Around the World in Eighty Days",
+    "translationPublicationYear": 1873,
+    "translator": {
+      "birthYear": 1841,
+      "deathYear": 1893,
+      "name": "George Makepeace Towle",
+      "wikidata": "Q5542067"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1905: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1893: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1873: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1219561",
+      "https://www.wikidata.org/wiki/Q51954965",
+      "https://www.wikidata.org/wiki/Q33977",
+      "https://www.wikidata.org/wiki/Q5542067",
+      "https://en.wikisource.org/wiki/Around_the_World_in_Eighty_Days_(Towle)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jules Verne died in 1905; the translator George Makepeace Towle died in 1893 and this translation was first published in 1873. Source: en.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Around the World in Eighty Days (Towle)",
+    "pages": [
+      {
+        "revision": 13924989,
+        "title": "Around the World in Eighty Days (Towle)"
+      },
+      {
+        "revision": 13925095,
+        "title": "Around the World in Eighty Days (Towle)/Introduction"
+      },
+      {
+        "revision": 13924990,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 1"
+      },
+      {
+        "revision": 13925069,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 2"
+      },
+      {
+        "revision": 13925080,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 3"
+      },
+      {
+        "revision": 13925089,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 4"
+      },
+      {
+        "revision": 13925090,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 5"
+      },
+      {
+        "revision": 13925091,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 6"
+      },
+      {
+        "revision": 13925092,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 7"
+      },
+      {
+        "revision": 13925093,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 8"
+      },
+      {
+        "revision": 13925094,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 9"
+      },
+      {
+        "revision": 13925059,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 10"
+      },
+      {
+        "revision": 13925060,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 11"
+      },
+      {
+        "revision": 13925061,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 12"
+      },
+      {
+        "revision": 13925062,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 13"
+      },
+      {
+        "revision": 13925063,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 14"
+      },
+      {
+        "revision": 13925064,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 15"
+      },
+      {
+        "revision": 13925065,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 16"
+      },
+      {
+        "revision": 13925066,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 17"
+      },
+      {
+        "revision": 13925067,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 18"
+      },
+      {
+        "revision": 13925068,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 19"
+      },
+      {
+        "revision": 13925070,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 20"
+      },
+      {
+        "revision": 13925071,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 21"
+      },
+      {
+        "revision": 13925072,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 22"
+      },
+      {
+        "revision": 13925073,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 23"
+      },
+      {
+        "revision": 13925074,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 24"
+      },
+      {
+        "revision": 13925075,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 25"
+      },
+      {
+        "revision": 13925076,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 26"
+      },
+      {
+        "revision": 13925077,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 27"
+      },
+      {
+        "revision": 13925078,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 28"
+      },
+      {
+        "revision": 13925079,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 29"
+      },
+      {
+        "revision": 13925081,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 30"
+      },
+      {
+        "revision": 13925082,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 31"
+      },
+      {
+        "revision": 13925083,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 32"
+      },
+      {
+        "revision": 13925084,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 33"
+      },
+      {
+        "revision": 13925085,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 34"
+      },
+      {
+        "revision": 13925086,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 35"
+      },
+      {
+        "revision": 13925087,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 36"
+      },
+      {
+        "revision": 13925088,
+        "title": "Around the World in Eighty Days (Towle)/Chapter 37"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:40:19.354777Z",
+    "revision": "13924989",
+    "site": "en.wikisource.org",
+    "url": "https://en.wikisource.org/wiki/Around_the_World_in_Eighty_Days_(Towle)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1828,
+      "deathYear": 1905,
+      "name": "Jules Verne",
+      "wikidata": "Q33977"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1872,
+    "originalTitle": "Around the World in Eighty Days",
+    "workId": "verne-around-the-world-in-eighty-days"
+  }
+}

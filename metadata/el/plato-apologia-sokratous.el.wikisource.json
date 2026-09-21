@@ -1,0 +1,87 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:23:34.698673Z",
+    "chapterCount": 3,
+    "contentSha256": "1fdd6e04b72b8b20aa62298d625b17863286f774cce5ca69c431aca0bdb37125",
+    "normalizerVersion": "0.2.0",
+    "path": "books/el/plato-apologia-sokratous.el.wikisource/v1/book.json.gz",
+    "sha256": "7e4f9919e69db2da1f1ab4c57e02a1a2abc3050169d67f391e506458d082b75d",
+    "sizeBytes": 50784,
+    "uncompressedSizeBytes": 210135,
+    "wordCount": 17349
+  },
+  "edition": {
+    "editionId": "plato-apologia-sokratous.el.wikisource",
+    "kind": "translation",
+    "language": "el",
+    "title": "Απολογία Σωκράτους (μετάφραση)",
+    "translationPublicationYear": 1911,
+    "translator": {
+      "birthYear": 1850,
+      "deathYear": 1929,
+      "name": "Αλέξανδρος Μωραϊτίδης",
+      "wikidata": "Q12873317"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -348: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1929: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1911: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q273668",
+      "https://www.wikidata.org/wiki/Q125226548",
+      "https://www.wikidata.org/wiki/Q859",
+      "https://www.wikidata.org/wiki/Q12873317",
+      "https://el.wikisource.org/wiki/%CE%91%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1_%CE%A3%CF%89%CE%BA%CF%81%CE%AC%CF%84%CE%BF%CF%85%CF%82_(%CE%BC%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Πλάτων died in -348; the translator Αλέξανδρος Μωραϊτίδης died in 1929 and this translation was first published in 1911. Source: el.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Απολογία Σωκράτους (μετάφραση)",
+    "pages": [
+      {
+        "revision": 143538,
+        "title": "Απολογία Σωκράτους (μετάφραση)"
+      },
+      {
+        "revision": 143537,
+        "title": "Απολογία Σωκράτους (μετάφραση)/Προλεγόμενα"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:30:30.182279Z",
+    "revision": "143538",
+    "site": "el.wikisource.org",
+    "url": "https://el.wikisource.org/wiki/%CE%91%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1_%CE%A3%CF%89%CE%BA%CF%81%CE%AC%CF%84%CE%BF%CF%85%CF%82_(%CE%BC%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7)"
+  },
+  "work": {
+    "author": {
+      "birthYear": -428,
+      "deathYear": -348,
+      "name": "Πλάτων",
+      "wikidata": "Q859"
+    },
+    "originalLanguage": "grc",
+    "originalPublicationYear": -395,
+    "originalTitle": "Apologia Sokratous",
+    "workId": "plato-apologia-sokratous"
+  }
+}

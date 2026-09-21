@@ -1,0 +1,82 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:25.915363Z",
+    "chapterCount": 1,
+    "contentSha256": "5c9a78d3044f4eeb5f9d7abbe1d13b9c734e89561e817d7c98a98576fb18df78",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ru/plato-fedon.ru.wikisource/v1/book.json.gz",
+    "sha256": "bae5589d27585eba011703491ef3fac572a21efb6b27fb2eac7c41f73b5c2769",
+    "sizeBytes": 64264,
+    "uncompressedSizeBytes": 254847,
+    "wordCount": 22883
+  },
+  "edition": {
+    "editionId": "plato-fedon.ru.wikisource",
+    "kind": "translation",
+    "language": "ru",
+    "title": "Федон",
+    "translationPublicationYear": 1863,
+    "translator": {
+      "birthYear": 1798,
+      "deathYear": 1867,
+      "name": "Василий Николаевич Карпов",
+      "wikidata": "Q4215786"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -348: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1867: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1863: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q244161",
+      "https://www.wikidata.org/wiki/Q28137286",
+      "https://www.wikidata.org/wiki/Q859",
+      "https://www.wikidata.org/wiki/Q4215786",
+      "https://ru.wikisource.org/wiki/%D0%A4%D0%B5%D0%B4%D0%BE%D0%BD_(%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%3B_%D0%9A%D0%B0%D1%80%D0%BF%D0%BE%D0%B2)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Платон died in -348; the translator Василий Николаевич Карпов died in 1867 and this translation was first published in 1863. Source: ru.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Федон (Платон; Карпов)",
+    "pages": [
+      {
+        "revision": 3752780,
+        "title": "Федон (Платон; Карпов)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:52:44.183001Z",
+    "revision": "3752780",
+    "site": "ru.wikisource.org",
+    "url": "https://ru.wikisource.org/wiki/%D0%A4%D0%B5%D0%B4%D0%BE%D0%BD_(%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%3B_%D0%9A%D0%B0%D1%80%D0%BF%D0%BE%D0%B2)"
+  },
+  "work": {
+    "author": {
+      "birthYear": -428,
+      "deathYear": -348,
+      "name": "Платон",
+      "wikidata": "Q859"
+    },
+    "originalLanguage": "grc",
+    "originalTitle": "Fedon",
+    "workId": "plato-fedon"
+  }
+}

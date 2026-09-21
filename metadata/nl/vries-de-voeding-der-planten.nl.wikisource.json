@@ -1,0 +1,105 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:02:33.456331Z",
+    "chapterCount": 8,
+    "contentSha256": "96fa6853f962063fc1ef6d3f9d5ad9049cb4f9c4d67473b94b3353ce2821ee94",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/vries-de-voeding-der-planten.nl.wikisource/v1/book.json.gz",
+    "sha256": "32e1fa64f5948129b305785d2e3fa16d9089450cc9a4b991f0aa44c691aeecee",
+    "sizeBytes": 122342,
+    "uncompressedSizeBytes": 386006,
+    "wordCount": 59911
+  },
+  "edition": {
+    "editionId": "vries-de-voeding-der-planten.nl.wikisource",
+    "kind": "original",
+    "language": "nl",
+    "title": "De voeding der planten"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1935: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1886: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q51405757",
+      "https://www.wikidata.org/wiki/Q160192",
+      "https://nl.wikisource.org/wiki/De_voeding_der_planten_(1886)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Hugo de Vries died in 1935 and the work was first published in 1886. Source: nl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "De voeding der planten (1886)",
+    "pages": [
+      {
+        "revision": 168771,
+        "title": "De voeding der planten (1886)"
+      },
+      {
+        "revision": 168763,
+        "title": "De voeding der planten (1886)/I"
+      },
+      {
+        "revision": 168764,
+        "title": "De voeding der planten (1886)/II"
+      },
+      {
+        "revision": 168765,
+        "title": "De voeding der planten (1886)/III"
+      },
+      {
+        "revision": 168766,
+        "title": "De voeding der planten (1886)/IV"
+      },
+      {
+        "revision": 168767,
+        "title": "De voeding der planten (1886)/V"
+      },
+      {
+        "revision": 168768,
+        "title": "De voeding der planten (1886)/VI"
+      },
+      {
+        "revision": 168769,
+        "title": "De voeding der planten (1886)/VII"
+      },
+      {
+        "revision": 168770,
+        "title": "De voeding der planten (1886)/VIII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:11:14.985107Z",
+    "revision": "168771",
+    "site": "nl.wikisource.org",
+    "url": "https://nl.wikisource.org/wiki/De_voeding_der_planten_(1886)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1848,
+      "deathYear": 1935,
+      "name": "Hugo de Vries",
+      "wikidata": "Q160192"
+    },
+    "originalLanguage": "nl",
+    "originalPublicationYear": 1886,
+    "originalTitle": "De voeding der planten",
+    "workId": "vries-de-voeding-der-planten"
+  }
+}

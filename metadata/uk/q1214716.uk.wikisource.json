@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:52.161068Z",
+    "chapterCount": 2,
+    "contentSha256": "8332cb27c9439f41ec85e4dba3a85daeeb23016d1cdff309e05b37eda4e4292a",
+    "normalizerVersion": "0.2.0",
+    "path": "books/uk/q1214716.uk.wikisource/v1/book.json.gz",
+    "sha256": "f5d94fa730c26acb6dc5d5d95c3539a15a3af7fbf13cb3b6d293b6eba2b9ffd1",
+    "sizeBytes": 46297,
+    "uncompressedSizeBytes": 164507,
+    "wordCount": 14982
+  },
+  "edition": {
+    "editionId": "q1214716.uk.wikisource",
+    "kind": "translation",
+    "language": "uk",
+    "title": "Маркіза О…",
+    "translationPublicationYear": 1903,
+    "translator": {
+      "birthYear": 1856,
+      "deathYear": 1916,
+      "name": "Іван Франко",
+      "wikidata": "Q332462"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1811: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1916: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1903: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1214716",
+      "https://www.wikidata.org/wiki/Q104829417",
+      "https://www.wikidata.org/wiki/Q28494",
+      "https://www.wikidata.org/wiki/Q332462",
+      "https://uk.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D1%96%D0%B7%D0%B0_%D0%9E%E2%80%A6_(1903)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Генріх фон Клейст died in 1811; the translator Іван Франко died in 1916 and this translation was first published in 1903. Source: uk.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Маркіза О… (1903)",
+    "pages": [
+      {
+        "revision": 367199,
+        "title": "Маркіза О… (1903)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:21:24.537444Z",
+    "revision": "367199",
+    "site": "uk.wikisource.org",
+    "url": "https://uk.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D1%96%D0%B7%D0%B0_%D0%9E%E2%80%A6_(1903)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1777,
+      "deathYear": 1811,
+      "name": "Генріх фон Клейст",
+      "wikidata": "Q28494"
+    },
+    "originalLanguage": "de",
+    "originalPublicationYear": 1808,
+    "originalTitle": "Маркіза О…",
+    "workId": "q1214716"
+  }
+}

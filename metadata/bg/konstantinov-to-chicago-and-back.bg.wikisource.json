@@ -1,0 +1,113 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:14.000615Z",
+    "chapterCount": 11,
+    "contentSha256": "c959b0dea422731529e15705a1e02b47bd094a21e3cd80b832d1dc8b44bf7709",
+    "normalizerVersion": "0.2.0",
+    "path": "books/bg/konstantinov-to-chicago-and-back.bg.wikisource/v1/book.json.gz",
+    "sha256": "f8e711b7099952705de91537980c77f7b16446dc1285d54f8a85cc2b041cc811",
+    "sizeBytes": 95908,
+    "uncompressedSizeBytes": 341494,
+    "wordCount": 31135
+  },
+  "edition": {
+    "editionId": "konstantinov-to-chicago-and-back.bg.wikisource",
+    "kind": "original",
+    "language": "bg",
+    "title": "До Чикаго и назад"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1897: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1893: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q7810887",
+      "https://www.wikidata.org/wiki/Q935407",
+      "https://bg.wikisource.org/wiki/%D0%94%D0%BE_%D0%A7%D0%B8%D0%BA%D0%B0%D0%B3%D0%BE_%D0%B8_%D0%BD%D0%B0%D0%B7%D0%B0%D0%B4"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Алеко Константинов died in 1897 and the work was first published in 1893. Source: bg.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "До Чикаго и назад",
+    "pages": [
+      {
+        "revision": 12524,
+        "title": "До Чикаго и назад"
+      },
+      {
+        "revision": 12515,
+        "title": "До Чикаго и назад/1"
+      },
+      {
+        "revision": 12521,
+        "title": "До Чикаго и назад/2"
+      },
+      {
+        "revision": 12523,
+        "title": "До Чикаго и назад/3"
+      },
+      {
+        "revision": 12525,
+        "title": "До Чикаго и назад/4"
+      },
+      {
+        "revision": 13613,
+        "title": "До Чикаго и назад/5"
+      },
+      {
+        "revision": 12527,
+        "title": "До Чикаго и назад/6"
+      },
+      {
+        "revision": 12528,
+        "title": "До Чикаго и назад/7"
+      },
+      {
+        "revision": 12531,
+        "title": "До Чикаго и назад/8"
+      },
+      {
+        "revision": 12532,
+        "title": "До Чикаго и назад/9"
+      },
+      {
+        "revision": 12533,
+        "title": "До Чикаго и назад/10"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:58:40.339373Z",
+    "revision": "12524",
+    "site": "bg.wikisource.org",
+    "url": "https://bg.wikisource.org/wiki/%D0%94%D0%BE_%D0%A7%D0%B8%D0%BA%D0%B0%D0%B3%D0%BE_%D0%B8_%D0%BD%D0%B0%D0%B7%D0%B0%D0%B4"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1863,
+      "deathYear": 1897,
+      "name": "Алеко Константинов",
+      "wikidata": "Q935407"
+    },
+    "originalLanguage": "bg",
+    "originalPublicationYear": 1893,
+    "originalTitle": "До Чикаго и назад",
+    "workId": "konstantinov-to-chicago-and-back"
+  }
+}

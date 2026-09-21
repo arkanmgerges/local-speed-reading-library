@@ -1,0 +1,870 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "79ab76d4e6afb933bc09b4f9fc808c69b4c9c6d464796b343aeaa0ff58d50213",
+        "encoding": "gzip",
+        "path": "books/pl/andersen-krolowa-rniegu-andersen-przekl-matuszewski.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a73c61b397b99f241d7c7994968c5b195a35af8722c049bbdfd4e30a2b36e30f",
+        "sizeBytes": 22453,
+        "uncompressedSizeBytes": 55608,
+        "wordCount": 7998
+      },
+      "author": "Hans Christian Andersen",
+      "authorDeathYear": 1875,
+      "editionId": "andersen-krolowa-rniegu-andersen-przekl-matuszewski.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1844,
+      "originalTitle": "Królowa Śniegu (Andersen, przekł. Matuszewski)",
+      "rights": {
+        "statement": "Public domain worldwide. Hans Christian Andersen died in 1875; the translator Ignacy Matuszewski died in 1919 and this translation was first published in 1899. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Królowa Śniegu (Andersen, przekł. Matuszewski)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:20:28.354039Z",
+        "revision": "3588612",
+        "url": "https://pl.wikisource.org/wiki/Kr%C3%B3lowa_%C5%9Aniegu_(Andersen%2C_przek%C5%82._Matuszewski)"
+      },
+      "title": "Królowa Śniegu (Andersen, przekł. Matuszewski)",
+      "translationPublicationYear": 1899,
+      "translator": "Ignacy Matuszewski",
+      "translatorDeathYear": 1919,
+      "workId": "andersen-krolowa-rniegu-andersen-przekl-matuszewski"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "e86f818c746adc9a686efdbeaaa5a3878d01b47fb03e6d528387c8e0be1649e0",
+        "encoding": "gzip",
+        "path": "books/pl/andersen-ksi-z-rwiniarek-oraz-inne-bajki.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1c697f91accd3dccfc928c96f00944369b4568d54c403124f35ca4585a06907d",
+        "sizeBytes": 24183,
+        "uncompressedSizeBytes": 61589,
+        "wordCount": 8809
+      },
+      "author": "Hans Christian Andersen",
+      "authorDeathYear": 1875,
+      "editionId": "andersen-ksi-z-rwiniarek-oraz-inne-bajki.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1837,
+      "originalTitle": "Książę Świniarek oraz inne bajki",
+      "rights": {
+        "statement": "Public domain worldwide. Hans Christian Andersen died in 1875; the translator Franciszek Mirandola died in 1930 and this translation was first published in 1928. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Książę Świniarek oraz inne bajki",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:20:32.053607Z",
+        "revision": "3767622",
+        "url": "https://pl.wikisource.org/wiki/Ksi%C4%85%C5%BC%C4%99_%C5%9Awiniarek_oraz_inne_bajki"
+      },
+      "title": "Książę Świniarek oraz inne bajki",
+      "translationPublicationYear": 1928,
+      "translator": "Franciszek Mirandola",
+      "translatorDeathYear": 1930,
+      "workId": "andersen-ksi-z-rwiniarek-oraz-inne-bajki"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 4,
+        "contentSha256": "f3b231127c66c332b2669c9e11e4dfb33a868477319c5ad172a1de426a627574",
+        "encoding": "gzip",
+        "path": "books/pl/arystoteles-poetyka.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "96fa289665d66f8bd1a6c18a145e8424367a46affaa17fa39126a448e3af8aa9",
+        "sizeBytes": 72721,
+        "uncompressedSizeBytes": 207158,
+        "wordCount": 28448
+      },
+      "author": "Arystoteles",
+      "authorDeathYear": -321,
+      "editionId": "arystoteles-poetyka.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Poetyka",
+      "rights": {
+        "statement": "Public domain worldwide. Arystoteles died in -321; the translator Stanisław Siedlecki died in 1920 and this translation was first published in 1887. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Poetyka",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:20:40.796785Z",
+        "revision": "3654999",
+        "url": "https://pl.wikisource.org/wiki/Poetyka"
+      },
+      "title": "Poetyka",
+      "translationPublicationYear": 1887,
+      "translator": "Stanisław Siedlecki",
+      "translatorDeathYear": 1920,
+      "workId": "arystoteles-poetyka"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "b2533c52557bd11c6a0eb2caf40f8db2921e86cce21e27a59957a890163d0b91",
+        "encoding": "gzip",
+        "path": "books/pl/conrad-j-dro-ciemnorci.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f5f7deb772583698c1b845923ac329dce0aaa3db662b41fa953e5719da77e7b9",
+        "sizeBytes": 190651,
+        "uncompressedSizeBytes": 483470,
+        "wordCount": 67590
+      },
+      "author": "Joseph Conrad",
+      "authorDeathYear": 1924,
+      "editionId": "conrad-j-dro-ciemnorci.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "en-gb",
+      "originalPublicationYear": 1899,
+      "originalTitle": "Jądro ciemności",
+      "rights": {
+        "statement": "Public domain worldwide. Joseph Conrad died in 1924; the translator Aniela Zagórska died in 1943 and this translation was first published in 1930. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Jądro ciemności",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:20:51.108871Z",
+        "revision": "3260749",
+        "url": "https://pl.wikisource.org/wiki/J%C4%85dro_ciemno%C5%9Bci"
+      },
+      "title": "Jądro ciemności",
+      "translationPublicationYear": 1930,
+      "translator": "Aniela Zagórska",
+      "translatorDeathYear": 1943,
+      "workId": "conrad-j-dro-ciemnorci"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 88,
+        "contentSha256": "a8f0942a84f20cd374d469857728992cd85268b9849bc56eeacbe4256d8e2b75",
+        "encoding": "gzip",
+        "path": "books/pl/defoe-przypadki-robinsona-kruzoe.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "3c3b8613995b2dd34710f47ba3938cd4422294bf74ede195991e2ad9951bfeb3",
+        "sizeBytes": 372817,
+        "uncompressedSizeBytes": 980863,
+        "wordCount": 132982
+      },
+      "author": "Daniel Defoe",
+      "authorDeathYear": 1731,
+      "editionId": "defoe-przypadki-robinsona-kruzoe.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1719,
+      "originalTitle": "Przypadki Robinsona Kruzoe",
+      "rights": {
+        "statement": "Public domain worldwide. Daniel Defoe died in 1731; the translator Władysław Ludwik Anczyc died in 1883 and this translation was first published in 1868. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Przypadki Robinsona Kruzoe",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:21:54.608087Z",
+        "revision": "3909455",
+        "url": "https://pl.wikisource.org/wiki/Przypadki_Robinsona_Kruzoe"
+      },
+      "title": "Przypadki Robinsona Kruzoe",
+      "translationPublicationYear": 1868,
+      "translator": "Władysław Ludwik Anczyc",
+      "translatorDeathYear": 1883,
+      "workId": "defoe-przypadki-robinsona-kruzoe"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "820f24ca5bb20a88d9855d573ce4b8f9c1f5b4c9a4854f51e50071c2e507ce26",
+        "encoding": "gzip",
+        "path": "books/pl/dickens-a-christmas-carol.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b6c57cabb0d5ffc814eec4a01eb9b4782a7e3f1973702bab340f79e16828cee4",
+        "sizeBytes": 96526,
+        "uncompressedSizeBytes": 262056,
+        "wordCount": 36222
+      },
+      "author": "Charles Dickens",
+      "authorDeathYear": 1870,
+      "editionId": "dickens-a-christmas-carol.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "en-gb",
+      "originalPublicationYear": 1843,
+      "originalTitle": "A Christmas Carol",
+      "rights": {
+        "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Cecylia Niewiadomska died in 1925 and this translation was first published in 1909. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Wigilja Bożego Narodzenia (Dickens, 1909)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:22:08.600731Z",
+        "revision": "3294977",
+        "url": "https://pl.wikisource.org/wiki/Wigilja_Bo%C5%BCego_Narodzenia_(Dickens%2C_1909)"
+      },
+      "title": "Wigilja Bożego Narodzenia",
+      "translationPublicationYear": 1909,
+      "translator": "Cecylia Niewiadomska",
+      "translatorDeathYear": 1925,
+      "workId": "dickens-a-christmas-carol"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 23,
+        "contentSha256": "c09e08f82b67dc72504264c67fa0fc9268d6ceadb888fc5f4830110c5e9dd15e",
+        "encoding": "gzip",
+        "path": "books/pl/dickens-dawid-copperfield.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "47393804d604c95e8dce6e03ec613834484fc32d4ca46bff79efd06d220d3f8a",
+        "sizeBytes": 320501,
+        "uncompressedSizeBytes": 883619,
+        "wordCount": 126026
+      },
+      "author": "Charles Dickens",
+      "authorDeathYear": 1870,
+      "editionId": "dickens-dawid-copperfield.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1850,
+      "originalTitle": "Dawid Copperfield",
+      "rights": {
+        "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Cecylia Niewiadomska died in 1925 and this translation was first published in 1927. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Dawid Copperfield",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:22:44.560838Z",
+        "revision": "3912679",
+        "url": "https://pl.wikisource.org/wiki/Dawid_Copperfield"
+      },
+      "title": "Dawid Copperfield",
+      "translationPublicationYear": 1927,
+      "translator": "Cecylia Niewiadomska",
+      "translatorDeathYear": 1925,
+      "workId": "dickens-dawid-copperfield"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "f212172e2955c627003ccd756686faeae6c3df68923ba98eb883706c9786d9ff",
+        "encoding": "gzip",
+        "path": "books/pl/dickens-wielkie-nadzieje.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "10784e87af5ccbdc8edcd624f41313a1f97b165026c87bb732d2a04bfa54193a",
+        "sizeBytes": 322817,
+        "uncompressedSizeBytes": 856120,
+        "wordCount": 123762
+      },
+      "author": "Charles Dickens",
+      "authorDeathYear": 1870,
+      "editionId": "dickens-wielkie-nadzieje.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1861,
+      "originalTitle": "Wielkie nadzieje",
+      "rights": {
+        "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Antoni Mazanowski died in 1916 and this translation was first published in 1918. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Wielkie nadzieje",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:22:57.112182Z",
+        "revision": "3462815",
+        "url": "https://pl.wikisource.org/wiki/Wielkie_nadzieje"
+      },
+      "title": "Wielkie nadzieje",
+      "translationPublicationYear": 1918,
+      "translator": "Antoni Mazanowski",
+      "translatorDeathYear": 1916,
+      "workId": "dickens-wielkie-nadzieje"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 17,
+        "contentSha256": "b69b5cb1f01aeee55dc150c8548d7c5a7ea36de492f9792ad6dadef05a60f63b",
+        "encoding": "gzip",
+        "path": "books/pl/dostojewski-bracia-karamazow.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "dd1c7d5a11a14637bb532121d039de645c1acf8fc715891142b37649864bd078",
+        "sizeBytes": 605411,
+        "uncompressedSizeBytes": 1601680,
+        "wordCount": 233328
+      },
+      "author": "Fiodor Dostojewski",
+      "authorDeathYear": 1881,
+      "editionId": "dostojewski-bracia-karamazow.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "ru",
+      "originalPublicationYear": 1880,
+      "originalTitle": "Bracia Karamazow",
+      "rights": {
+        "statement": "Public domain worldwide. Fiodor Dostojewski died in 1881; the translator Barbara Beaupré died in 1943 and this translation was first published in 1913. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Bracia Karamazow",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:23:32.038206Z",
+        "revision": "3767648",
+        "url": "https://pl.wikisource.org/wiki/Bracia_Karamazow"
+      },
+      "title": "Bracia Karamazow",
+      "translationPublicationYear": 1913,
+      "translator": "Barbara Beaupré",
+      "translatorDeathYear": 1943,
+      "workId": "dostojewski-bracia-karamazow"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 17,
+        "contentSha256": "4c0d361d364fef2bb96c79f0e06f8369feee5f0f5e9fe81d88856c0d4b204e7c",
+        "encoding": "gzip",
+        "path": "books/pl/doyle-tajemnica-baskerville-ow.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6c3346cd318215643dece906801e5996b28c130f2184934149aaa3a5de7e39c8",
+        "sizeBytes": 188792,
+        "uncompressedSizeBytes": 507106,
+        "wordCount": 71741
+      },
+      "author": "Arthur Conan Doyle",
+      "authorDeathYear": 1930,
+      "editionId": "doyle-tajemnica-baskerville-ow.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1902,
+      "originalTitle": "Tajemnica Baskerville’ów",
+      "rights": {
+        "statement": "Public domain worldwide. Arthur Conan Doyle died in 1930; the translator Eugenia Żmijewska died in 1923 and this translation was first published in 1902. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Tajemnica Baskerville’ów",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:23:59.633824Z",
+        "revision": "3290055",
+        "url": "https://pl.wikisource.org/wiki/Tajemnica_Baskerville%E2%80%99%C3%B3w"
+      },
+      "title": "Tajemnica Baskerville’ów",
+      "translationPublicationYear": 1902,
+      "translator": "Eugenia Żmijewska",
+      "translatorDeathYear": 1923,
+      "workId": "doyle-tajemnica-baskerville-ow"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "75e50aeeef1702f5e41065f043ba455b602576007a5d20cecfc92c2da47a8147",
+        "encoding": "gzip",
+        "path": "books/pl/goethe-cierpienia-mlodego-wertera.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5ab4e6d1cf33f5c1691831819c448ec546a77230cf99fb5f03dee3a3037f13a8",
+        "sizeBytes": 258382,
+        "uncompressedSizeBytes": 655468,
+        "wordCount": 91935
+      },
+      "author": "Johann Wolfgang von Goethe",
+      "authorDeathYear": 1832,
+      "editionId": "goethe-cierpienia-mlodego-wertera.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "de",
+      "originalPublicationYear": 1774,
+      "originalTitle": "Cierpienia młodego Wertera",
+      "rights": {
+        "statement": "Public domain worldwide. Johann Wolfgang von Goethe died in 1832; the translator Franciszek Mirandola died in 1930 and this translation was first published in 1922. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Cierpienia młodego Wertera",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:24:10.803967Z",
+        "revision": "3877055",
+        "url": "https://pl.wikisource.org/wiki/Cierpienia_m%C5%82odego_Wertera"
+      },
+      "title": "Cierpienia młodego Wertera",
+      "translationPublicationYear": 1922,
+      "translator": "Franciszek Mirandola",
+      "translatorDeathYear": 1930,
+      "workId": "goethe-cierpienia-mlodego-wertera"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 19,
+        "contentSha256": "b87ecc4a05462eeb5fe07a60a70e5564903c4fe0e312eeb416ff98786fa372d5",
+        "encoding": "gzip",
+        "path": "books/pl/kipling-ksi-ga-dzungli.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2e4da54eecb2f3d3d3e47ca79bc06f6637b1fa1192b3fce0c73880337034ab43",
+        "sizeBytes": 252064,
+        "uncompressedSizeBytes": 642997,
+        "wordCount": 91837
+      },
+      "author": "Rudyard Kipling",
+      "authorDeathYear": 1936,
+      "editionId": "kipling-ksi-ga-dzungli.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1894,
+      "originalTitle": "Księga Dżungli",
+      "rights": {
+        "statement": "Public domain worldwide. Rudyard Kipling died in 1936; the translator Franciszek Mirandola died in 1930 and this translation was first published in 1923. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Księga dżungli (Mirandola)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:25:05.064418Z",
+        "revision": "3263546",
+        "url": "https://pl.wikisource.org/wiki/Ksi%C4%99ga_d%C5%BCungli_(Mirandola)"
+      },
+      "title": "Księga Dżungli",
+      "translationPublicationYear": 1923,
+      "translator": "Franciszek Mirandola",
+      "translatorDeathYear": 1930,
+      "workId": "kipling-ksi-ga-dzungli"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "7643dcbb3a5b1096583f006b629c38a15a3b428c37010c2431e8447b34a6304f",
+        "encoding": "gzip",
+        "path": "books/pl/milton-raj-utracony.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "bfe3c3f427ff4d978a284dde2eefd2f330a0528b3597812067c86dac24b23fc6",
+        "sizeBytes": 422679,
+        "uncompressedSizeBytes": 1015279,
+        "wordCount": 136588
+      },
+      "author": "John Milton",
+      "authorDeathYear": 1674,
+      "editionId": "milton-raj-utracony.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1667,
+      "originalTitle": "Raj utracony",
+      "rights": {
+        "statement": "Public domain worldwide. John Milton died in 1674; the translator Władysław Bartkiewicz died in 1910 and this translation was first published in 1902. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Raj utracony (1902)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:25:50.522141Z",
+        "revision": "2944974",
+        "url": "https://pl.wikisource.org/wiki/Raj_utracony_(1902)"
+      },
+      "title": "Raj utracony",
+      "translationPublicationYear": 1902,
+      "translator": "Władysław Bartkiewicz",
+      "translatorDeathYear": 1910,
+      "workId": "milton-raj-utracony"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "80a1a8b4cd6114da04ab010b5b90f8fe2feb31af2d126cab2574441c3e32e942",
+        "encoding": "gzip",
+        "path": "books/pl/platon-apologia.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "01be2826d1ca08aac2c577f4bea939795d2282759c02f1a573d6b4283bb352b6",
+        "sizeBytes": 55323,
+        "uncompressedSizeBytes": 149630,
+        "wordCount": 21918
+      },
+      "author": "Platon",
+      "authorDeathYear": -348,
+      "editionId": "platon-apologia.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "grc",
+      "originalPublicationYear": -395,
+      "originalTitle": "Apologia",
+      "rights": {
+        "statement": "Public domain worldwide. Platon died in -348; the translator Felicjan Kozłowski died in 1870 and this translation was first published in 1845. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Apologia (tłum. Kozłowski)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:26:01.554057Z",
+        "revision": "3246970",
+        "url": "https://pl.wikisource.org/wiki/Apologia_(t%C5%82um._Koz%C5%82owski)"
+      },
+      "title": "Apologia",
+      "translationPublicationYear": 1845,
+      "translator": "Felicjan Kozłowski",
+      "translatorDeathYear": 1870,
+      "workId": "platon-apologia"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 13,
+        "contentSha256": "205d793b5710fee8387071a997c2b11123ffaaf2de0baf282c0f60151866aeb0",
+        "encoding": "gzip",
+        "path": "books/pl/stevenson-czlowiek-o-dwu-twarzach.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "3af740b003ee9d1fc81bc56ffef7399c714d3028ef2f02879394a5cb702fb229",
+        "sizeBytes": 115394,
+        "uncompressedSizeBytes": 316691,
+        "wordCount": 44752
+      },
+      "author": "Robert Louis Stevenson",
+      "authorDeathYear": 1894,
+      "editionId": "stevenson-czlowiek-o-dwu-twarzach.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1886,
+      "originalTitle": "Człowiek o dwu twarzach",
+      "rights": {
+        "statement": "Public domain worldwide. Robert Louis Stevenson died in 1894; the translator Bernard Szarlitt died in 1946 and this translation was first published in 1924. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Człowiek o dwu twarzach",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:27:55.260682Z",
+        "revision": "3250900",
+        "url": "https://pl.wikisource.org/wiki/Cz%C5%82owiek_o_dwu_twarzach"
+      },
+      "title": "Człowiek o dwu twarzach",
+      "translationPublicationYear": 1924,
+      "translator": "Bernard Szarlitt",
+      "translatorDeathYear": 1946,
+      "workId": "stevenson-czlowiek-o-dwu-twarzach"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 47,
+        "contentSha256": "1d6bc2757c309100bcaf57520db5dfd642320b8394c79bd75a1d3babe691f0b0",
+        "encoding": "gzip",
+        "path": "books/pl/stevenson-wyspa-skarbow.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "af0fd06319925ee0ed7d098658819906adb3e85496c8d819543883f6406d18df",
+        "sizeBytes": 344015,
+        "uncompressedSizeBytes": 877674,
+        "wordCount": 122990
+      },
+      "author": "Robert Louis Stevenson",
+      "authorDeathYear": 1894,
+      "editionId": "stevenson-wyspa-skarbow.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1883,
+      "originalTitle": "Wyspa skarbów",
+      "rights": {
+        "statement": "Public domain worldwide. Robert Louis Stevenson died in 1894; the translator Józef Birkenmajer died in 1939 and this translation was first published in 1930. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Wyspa skarbów",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:28:54.936627Z",
+        "revision": "3296581",
+        "url": "https://pl.wikisource.org/wiki/Wyspa_skarb%C3%B3w"
+      },
+      "title": "Wyspa skarbów",
+      "translationPublicationYear": 1930,
+      "translator": "Józef Birkenmajer",
+      "translatorDeathYear": 1939,
+      "workId": "stevenson-wyspa-skarbow"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 17,
+        "contentSha256": "92bf85e761fd5c06d0e310cda76e2c3ccb9c0d66c9a055ece5fc3e9ea428e9c9",
+        "encoding": "gzip",
+        "path": "books/pl/swift-podroze-gulliwera.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "73007d72b2382c7094ea62861c53ec876aecdcdb895a05a6c360f6268c8dbe8d",
+        "sizeBytes": 242523,
+        "uncompressedSizeBytes": 649241,
+        "wordCount": 87208
+      },
+      "author": "Jonathan Swift",
+      "authorDeathYear": 1745,
+      "editionId": "swift-podroze-gulliwera.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1726,
+      "originalTitle": "Podróże Gulliwera",
+      "rights": {
+        "statement": "Public domain worldwide. Jonathan Swift died in 1745; the translator Jan Nepomucen Bobrowicz died in 1881 and this translation was first published in 1842. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Podróże Gulliwera",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:29:04.050333Z",
+        "revision": "3279101",
+        "url": "https://pl.wikisource.org/wiki/Podr%C3%B3%C5%BCe_Gulliwera"
+      },
+      "title": "Podróże Gulliwera",
+      "translationPublicationYear": 1842,
+      "translator": "Jan Nepomucen Bobrowicz",
+      "translatorDeathYear": 1881,
+      "workId": "swift-podroze-gulliwera"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 7,
+        "contentSha256": "cd5c1aacc83a75caf7c08d9fb338983247b280a3de56985ed3f01c114609f88d",
+        "encoding": "gzip",
+        "path": "books/pl/twain-przygody-huck-a.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "449be4ec98b6eff744bab5b6e664518685f2f6769f84fa847d4d12291efdabd6",
+        "sizeBytes": 242878,
+        "uncompressedSizeBytes": 614648,
+        "wordCount": 89471
+      },
+      "author": "Mark Twain",
+      "authorDeathYear": 1910,
+      "editionId": "twain-przygody-huck-a.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1884,
+      "originalTitle": "Przygody Huck’a",
+      "rights": {
+        "statement": "Public domain worldwide. Mark Twain died in 1910; the translator Teresa Prażmowska died in 1912 and this translation was first published in 1898. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Przygody Huck’a",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:29:19.763629Z",
+        "revision": "2677785",
+        "url": "https://pl.wikisource.org/wiki/Przygody_Huck%E2%80%99a"
+      },
+      "title": "Przygody Huck’a",
+      "translationPublicationYear": 1898,
+      "translator": "Teresa Prażmowska",
+      "translatorDeathYear": 1912,
+      "workId": "twain-przygody-huck-a"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 27,
+        "contentSha256": "70225b368711901b7c994308f05eae3a076466fd3793deb849a1cf063539374f",
+        "encoding": "gzip",
+        "path": "books/pl/wells-wojna-rwiatow.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d00f791d726046ac8f7f1f5a37477bfd620c0cb16b18e52b01bd5d9ec05c0ee8",
+        "sizeBytes": 123336,
+        "uncompressedSizeBytes": 318298,
+        "wordCount": 43671
+      },
+      "author": "Herbert George Wells",
+      "authorDeathYear": 1946,
+      "editionId": "wells-wojna-rwiatow.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1897,
+      "originalTitle": "Wojna światów",
+      "rights": {
+        "statement": "Public domain worldwide. Herbert George Wells died in 1946; the translator Maria Wentz'l died in 1931 and this translation was first published in 1899. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Wojna światów",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:30:58.878327Z",
+        "revision": "3295794",
+        "url": "https://pl.wikisource.org/wiki/Wojna_%C5%9Bwiat%C3%B3w"
+      },
+      "title": "Wojna światów",
+      "translationPublicationYear": 1899,
+      "translator": "Maria Wentz'l",
+      "translatorDeathYear": 1931,
+      "workId": "wells-wojna-rwiatow"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 22,
+        "contentSha256": "3f1fbc1c9f01dc29b04f62e1ba2275605ee97d68674a1d461a66fe76ad0a4e27",
+        "encoding": "gzip",
+        "path": "books/pl/wilde-portret-dorjana-gray-a.pl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "694b326e399859232812bb3c09670758a3806747f6914f2a2d5928f6e6791132",
+        "sizeBytes": 343137,
+        "uncompressedSizeBytes": 896008,
+        "wordCount": 126171
+      },
+      "author": "Oscar Wilde",
+      "authorDeathYear": 1900,
+      "editionId": "wilde-portret-dorjana-gray-a.pl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "pl",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1890,
+      "originalTitle": "Portret Dorjana Gray'a",
+      "rights": {
+        "statement": "Public domain worldwide. Oscar Wilde died in 1900; the translator Marceli Tarnowski died in 1944 and this translation was first published in 1929. Source: pl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Portret Dorjana Gray'a",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:31:33.711994Z",
+        "revision": "3281452",
+        "url": "https://pl.wikisource.org/wiki/Portret_Dorjana_Gray'a"
+      },
+      "title": "Portret Dorjana Gray'a",
+      "translationPublicationYear": 1929,
+      "translator": "Marceli Tarnowski",
+      "translatorDeathYear": 1944,
+      "workId": "wilde-portret-dorjana-gray-a"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Polish",
+  "language": "pl",
+  "manifestVersion": "66893ccadbae24d2",
+  "nativeName": "Polski",
+  "schemaVersion": 1
+}

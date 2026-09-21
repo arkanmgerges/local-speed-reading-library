@@ -1,0 +1,339 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:00.728974Z",
+    "chapterCount": 64,
+    "contentSha256": "8215211a13c702d92894d60e8c048760de1faa761eedb4e53314c8bc6b2bea8e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/dickens-david-copperfield-den-yngres-levnadshistoria-och-erfarenhet.sv.wikisource/v1/book.json.gz",
+    "sha256": "49be469488517715ad14cc65b6a37843a4d46af10944c2426321feeea824763a",
+    "sizeBytes": 791739,
+    "uncompressedSizeBytes": 2278742,
+    "wordCount": 369468
+  },
+  "edition": {
+    "editionId": "dickens-david-copperfield-den-yngres-levnadshistoria-och-erfarenhet.sv.wikisource",
+    "kind": "translation",
+    "language": "sv",
+    "title": "David Copperfield den yngres levnadshistoria och erfarenhet av livet",
+    "translationPublicationYear": 1923,
+    "translator": {
+      "birthYear": 1825,
+      "deathYear": 1874,
+      "name": "Carl Johan Backman",
+      "wikidata": "Q5563626"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1870: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1874: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1923: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q189811",
+      "https://www.wikidata.org/wiki/Q107596161",
+      "https://www.wikidata.org/wiki/Q5686",
+      "https://www.wikidata.org/wiki/Q5563626",
+      "https://sv.wikisource.org/wiki/David_Copperfield"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Carl Johan Backman died in 1874 and this translation was first published in 1923. Source: sv.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "David Copperfield",
+    "pages": [
+      {
+        "revision": 469719,
+        "title": "David Copperfield"
+      },
+      {
+        "revision": 454001,
+        "title": "David Copperfield/Del I/Kapitel 01"
+      },
+      {
+        "revision": 456169,
+        "title": "David Copperfield/Del I/Kapitel 02"
+      },
+      {
+        "revision": 456267,
+        "title": "David Copperfield/Del I/Kapitel 03"
+      },
+      {
+        "revision": 456346,
+        "title": "David Copperfield/Del I/Kapitel 04"
+      },
+      {
+        "revision": 456437,
+        "title": "David Copperfield/Del I/Kapitel 05"
+      },
+      {
+        "revision": 456604,
+        "title": "David Copperfield/Del I/Kapitel 06"
+      },
+      {
+        "revision": 456801,
+        "title": "David Copperfield/Del I/Kapitel 07"
+      },
+      {
+        "revision": 456938,
+        "title": "David Copperfield/Del I/Kapitel 08"
+      },
+      {
+        "revision": 457005,
+        "title": "David Copperfield/Del I/Kapitel 09"
+      },
+      {
+        "revision": 457049,
+        "title": "David Copperfield/Del I/Kapitel 10"
+      },
+      {
+        "revision": 457115,
+        "title": "David Copperfield/Del I/Kapitel 11"
+      },
+      {
+        "revision": 457178,
+        "title": "David Copperfield/Del I/Kapitel 12"
+      },
+      {
+        "revision": 457303,
+        "title": "David Copperfield/Del I/Kapitel 13"
+      },
+      {
+        "revision": 457373,
+        "title": "David Copperfield/Del I/Kapitel 14"
+      },
+      {
+        "revision": 457450,
+        "title": "David Copperfield/Del I/Kapitel 15"
+      },
+      {
+        "revision": 457538,
+        "title": "David Copperfield/Del I/Kapitel 16"
+      },
+      {
+        "revision": 457706,
+        "title": "David Copperfield/Del I/Kapitel 17"
+      },
+      {
+        "revision": 457768,
+        "title": "David Copperfield/Del I/Kapitel 18"
+      },
+      {
+        "revision": 457935,
+        "title": "David Copperfield/Del I/Kapitel 19"
+      },
+      {
+        "revision": 457961,
+        "title": "David Copperfield/Del I/Kapitel 20"
+      },
+      {
+        "revision": 458134,
+        "title": "David Copperfield/Del I/Kapitel 21"
+      },
+      {
+        "revision": 458230,
+        "title": "David Copperfield/Del I/Kapitel 22"
+      },
+      {
+        "revision": 458313,
+        "title": "David Copperfield/Del I/Kapitel 23"
+      },
+      {
+        "revision": 458427,
+        "title": "David Copperfield/Del I/Kapitel 24"
+      },
+      {
+        "revision": 458538,
+        "title": "David Copperfield/Del I/Kapitel 25"
+      },
+      {
+        "revision": 458651,
+        "title": "David Copperfield/Del I/Kapitel 26"
+      },
+      {
+        "revision": 459305,
+        "title": "David Copperfield/Del I/Kapitel 27"
+      },
+      {
+        "revision": 459304,
+        "title": "David Copperfield/Del II/Kapitel 01"
+      },
+      {
+        "revision": 459816,
+        "title": "David Copperfield/Del II/Kapitel 02"
+      },
+      {
+        "revision": 459946,
+        "title": "David Copperfield/Del II/Kapitel 03"
+      },
+      {
+        "revision": 460322,
+        "title": "David Copperfield/Del II/Kapitel 04"
+      },
+      {
+        "revision": 460747,
+        "title": "David Copperfield/Del II/Kapitel 05"
+      },
+      {
+        "revision": 460811,
+        "title": "David Copperfield/Del II/Kapitel 06"
+      },
+      {
+        "revision": 461009,
+        "title": "David Copperfield/Del II/Kapitel 07"
+      },
+      {
+        "revision": 461258,
+        "title": "David Copperfield/Del II/Kapitel 08"
+      },
+      {
+        "revision": 461334,
+        "title": "David Copperfield/Del II/Kapitel 09"
+      },
+      {
+        "revision": 461470,
+        "title": "David Copperfield/Del II/Kapitel 10"
+      },
+      {
+        "revision": 461764,
+        "title": "David Copperfield/Del II/Kapitel 11"
+      },
+      {
+        "revision": 461958,
+        "title": "David Copperfield/Del II/Kapitel 12"
+      },
+      {
+        "revision": 462084,
+        "title": "David Copperfield/Del II/Kapitel 13"
+      },
+      {
+        "revision": 462254,
+        "title": "David Copperfield/Del II/Kapitel 14"
+      },
+      {
+        "revision": 462622,
+        "title": "David Copperfield/Del II/Kapitel 15"
+      },
+      {
+        "revision": 463950,
+        "title": "David Copperfield/Del II/Kapitel 16"
+      },
+      {
+        "revision": 464872,
+        "title": "David Copperfield/Del II/Kapitel 17"
+      },
+      {
+        "revision": 465037,
+        "title": "David Copperfield/Del II/Kapitel 18"
+      },
+      {
+        "revision": 465149,
+        "title": "David Copperfield/Del II/Kapitel 19"
+      },
+      {
+        "revision": 465400,
+        "title": "David Copperfield/Del II/Kapitel 20"
+      },
+      {
+        "revision": 465608,
+        "title": "David Copperfield/Del II/Kapitel 21"
+      },
+      {
+        "revision": 465852,
+        "title": "David Copperfield/Del II/Kapitel 22"
+      },
+      {
+        "revision": 465938,
+        "title": "David Copperfield/Del II/Kapitel 23"
+      },
+      {
+        "revision": 466304,
+        "title": "David Copperfield/Del II/Kapitel 24"
+      },
+      {
+        "revision": 466429,
+        "title": "David Copperfield/Del II/Kapitel 25"
+      },
+      {
+        "revision": 466636,
+        "title": "David Copperfield/Del II/Kapitel 26"
+      },
+      {
+        "revision": 466884,
+        "title": "David Copperfield/Del II/Kapitel 27"
+      },
+      {
+        "revision": 467107,
+        "title": "David Copperfield/Del II/Kapitel 28"
+      },
+      {
+        "revision": 467316,
+        "title": "David Copperfield/Del II/Kapitel 29"
+      },
+      {
+        "revision": 467548,
+        "title": "David Copperfield/Del II/Kapitel 30"
+      },
+      {
+        "revision": 467828,
+        "title": "David Copperfield/Del II/Kapitel 31"
+      },
+      {
+        "revision": 468299,
+        "title": "David Copperfield/Del II/Kapitel 32"
+      },
+      {
+        "revision": 468452,
+        "title": "David Copperfield/Del II/Kapitel 33"
+      },
+      {
+        "revision": 468686,
+        "title": "David Copperfield/Del II/Kapitel 34"
+      },
+      {
+        "revision": 468881,
+        "title": "David Copperfield/Del II/Kapitel 35"
+      },
+      {
+        "revision": 469409,
+        "title": "David Copperfield/Del II/Kapitel 36"
+      },
+      {
+        "revision": 469712,
+        "title": "David Copperfield/Del II/Kapitel 37"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:05:41.649876Z",
+    "revision": "469719",
+    "site": "sv.wikisource.org",
+    "url": "https://sv.wikisource.org/wiki/David_Copperfield"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1812,
+      "deathYear": 1870,
+      "name": "Charles Dickens",
+      "wikidata": "Q5686"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1850,
+    "originalTitle": "David Copperfield den yngres levnadshistoria och erfarenhet av livet",
+    "workId": "dickens-david-copperfield-den-yngres-levnadshistoria-och-erfarenhet"
+  }
+}

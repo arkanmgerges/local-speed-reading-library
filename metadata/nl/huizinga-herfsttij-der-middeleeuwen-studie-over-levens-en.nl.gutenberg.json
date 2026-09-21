@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:02:16.685581Z",
+    "chapterCount": 18,
+    "contentSha256": "e353a20c663e7fc13ad02230c60f09bccdbf0bf47b1604d73788eb99078f8975",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/huizinga-herfsttij-der-middeleeuwen-studie-over-levens-en.nl.gutenberg/v1/book.json.gz",
+    "sha256": "f1c650b5feb044a9cb4fb1703db4a87f5d5f2524164cabad959953e37fce75a6",
+    "sizeBytes": 352780,
+    "uncompressedSizeBytes": 934690,
+    "wordCount": 142335
+  },
+  "edition": {
+    "editionId": "huizinga-herfsttij-der-middeleeuwen-studie-over-levens-en.nl.gutenberg",
+    "kind": "original",
+    "language": "nl",
+    "title": "Herfsttij der Middeleeuwen Studie over levens- en gedachtervormen der veertiende en vijftiende eeuw in Frankrijk en de Nederlanden"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1945: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1919: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/16829",
+      "https://en.wikipedia.org/wiki/Johan_Huizinga",
+      "https://www.wikidata.org/wiki/Q2599259"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Johan Huizinga died in 1945 and the work was first published in 1919. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "16829",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:09:44.003599Z",
+    "revision": "Mon, 07 Sep 2026 14:47:29 GMT",
+    "url": "https://www.gutenberg.org/ebooks/16829"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1872,
+      "deathYear": 1945,
+      "name": "Johan Huizinga",
+      "wikidata": "Q276280"
+    },
+    "originalLanguage": "nl",
+    "originalPublicationYear": 1919,
+    "originalTitle": "Herfsttij der Middeleeuwen Studie over levens- en gedachtervormen der veertiende en vijftiende eeuw in Frankrijk en de Nederlanden",
+    "workId": "huizinga-herfsttij-der-middeleeuwen-studie-over-levens-en"
+  }
+}

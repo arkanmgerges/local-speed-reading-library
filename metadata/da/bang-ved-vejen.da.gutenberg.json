@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:08.680299Z",
+    "chapterCount": 8,
+    "contentSha256": "72d56d13938dc7e6744c1376cfa8a468851e9b341028133e7d80d63c3a1131f4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/bang-ved-vejen.da.gutenberg/v1/book.json.gz",
+    "sha256": "5c9053ccf797c603e9f8add3d530939c43977ff9d9439e45c301d23c68bc37dc",
+    "sizeBytes": 90255,
+    "uncompressedSizeBytes": 262863,
+    "wordCount": 39621
+  },
+  "edition": {
+    "editionId": "bang-ved-vejen.da.gutenberg",
+    "kind": "original",
+    "language": "da",
+    "title": "Ved Vejen"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1912: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1886: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/13175",
+      "https://en.wikipedia.org/wiki/Herman_Bang",
+      "https://da.wikipedia.org/wiki/Herman_Bang",
+      "https://www.wikidata.org/wiki/Q14830022"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Herman Bang died in 1912 and the work was first published in 1886. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "13175",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:19:30.036571Z",
+    "revision": "Sun, 06 Sep 2026 08:11:12 GMT",
+    "url": "https://www.gutenberg.org/ebooks/13175"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1857,
+      "deathYear": 1912,
+      "name": "Herman Bang",
+      "wikidata": "Q439370"
+    },
+    "originalLanguage": "da",
+    "originalPublicationYear": 1886,
+    "originalTitle": "Ved Vejen",
+    "workId": "bang-ved-vejen"
+  }
+}

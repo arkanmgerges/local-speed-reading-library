@@ -1,0 +1,97 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:30.000269Z",
+    "chapterCount": 7,
+    "contentSha256": "1629f221b45f416273f292aa9e7c16fef3464f62851134b5a85cee5d69a4b786",
+    "normalizerVersion": "0.2.0",
+    "path": "books/mr/bhat-arya-stree-ratne.mr.wikisource/v1/book.json.gz",
+    "sha256": "5b37eb5d4f7e6dbfbd7117325e85fbb0f2282ffdaf3cf3e58c33eb6f04c196b7",
+    "sizeBytes": 76457,
+    "uncompressedSizeBytes": 375017,
+    "wordCount": 21798
+  },
+  "edition": {
+    "editionId": "bhat-arya-stree-ratne.mr.wikisource",
+    "kind": "original",
+    "language": "mr",
+    "title": "आर्य-स्त्री-रत्ने"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1917: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q139564925",
+      "https://www.wikidata.org/wiki/Q130633483",
+      "https://mr.wikisource.org/wiki/%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%AF-%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A5%87"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. यशोदाबाई भट died in 1946 and the work was first published in 1917. Source: mr.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "आर्य-स्त्री-रत्ने",
+    "pages": [
+      {
+        "revision": 234078,
+        "title": "आर्य-स्त्री-रत्ने"
+      },
+      {
+        "revision": 234081,
+        "title": "आर्य-स्त्री-रत्ने/पतीचा उद्धार करणारी चुडाला"
+      },
+      {
+        "revision": 234082,
+        "title": "आर्य-स्त्री-रत्ने/पतीचें व स्वकुलाचें सत्व राखणारी चांगुणा"
+      },
+      {
+        "revision": 234083,
+        "title": "आर्य-स्त्री-रत्ने/पितृकुलरक्षणार्थ आत्मयज्ञ करणारी सुमती"
+      },
+      {
+        "revision": 234079,
+        "title": "आर्य-स्त्री-रत्ने/च्यवन भार्गव व सुकन्या"
+      },
+      {
+        "revision": 234084,
+        "title": "आर्य-स्त्री-रत्ने/महासाध्वी मंदोदरी"
+      },
+      {
+        "revision": 234080,
+        "title": "आर्य-स्त्री-रत्ने/पतिव्रता गांधारी"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:02:46.397913Z",
+    "revision": "234078",
+    "site": "mr.wikisource.org",
+    "url": "https://mr.wikisource.org/wiki/%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%AF-%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A5%87"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1885,
+      "deathYear": 1946,
+      "name": "यशोदाबाई भट",
+      "wikidata": "Q130633483"
+    },
+    "originalLanguage": "mr",
+    "originalPublicationYear": 1917,
+    "originalTitle": "आर्य-स्त्री-रत्ने",
+    "workId": "bhat-arya-stree-ratne"
+  }
+}

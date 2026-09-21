@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:11.578148Z",
+    "chapterCount": 41,
+    "contentSha256": "7f209a07d2d2f9d87f27805387edff0ba6b21b8657a16bdc877a82f8fe178f95",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/rebreanu-padurea-spanzuratilor.ro.wikisource/v1/book.json.gz",
+    "sha256": "b863c6ffd63d25de1e3034bb346e5915ec418981cb1659dba0e1e7440e16d3b8",
+    "sizeBytes": 202682,
+    "uncompressedSizeBytes": 565376,
+    "wordCount": 82606
+  },
+  "edition": {
+    "editionId": "rebreanu-padurea-spanzuratilor.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "title": "Pădurea spânzuraților"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1944: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1922: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q15731603",
+      "https://www.wikidata.org/wiki/Q462220",
+      "https://ro.wikisource.org/wiki/P%C4%83durea_sp%C3%A2nzura%C8%9Bilor"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Liviu Rebreanu died in 1944 and the work was first published in 1922. Source: ro.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Pădurea spânzuraților",
+    "pages": [
+      {
+        "revision": 123772,
+        "title": "Pădurea spânzuraților"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:51:46.478969Z",
+    "revision": "123772",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/P%C4%83durea_sp%C3%A2nzura%C8%9Bilor"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1885,
+      "deathYear": 1944,
+      "name": "Liviu Rebreanu",
+      "wikidata": "Q462220"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1922,
+    "originalTitle": "Pădurea spânzuraților",
+    "workId": "rebreanu-padurea-spanzuratilor"
+  }
+}

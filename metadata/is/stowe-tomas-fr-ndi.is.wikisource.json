@@ -1,0 +1,163 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:59:28.905329Z",
+    "chapterCount": 20,
+    "contentSha256": "279a5c1a9a8e893fc488b8732c2dab6dcc89b641fbb6f81de879083d34cdb1f4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/is/stowe-tomas-fr-ndi.is.wikisource/v1/book.json.gz",
+    "sha256": "e6a59728e1c7d79a3acdbb747b466fd8bd7eae320970c03194f8b8ba994ff257",
+    "sizeBytes": 43362,
+    "uncompressedSizeBytes": 125429,
+    "wordCount": 18232
+  },
+  "edition": {
+    "editionId": "stowe-tomas-fr-ndi.is.wikisource",
+    "kind": "translation",
+    "language": "is",
+    "title": "Tómas frændi",
+    "translationPublicationYear": 1901,
+    "translator": {
+      "birthYear": 1880,
+      "deathYear": 1938,
+      "name": "Guðrún Lárusdóttir",
+      "wikidata": "Q16426181"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1896: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1938: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1901: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q2222",
+      "https://www.wikidata.org/wiki/Q139180969",
+      "https://www.wikidata.org/wiki/Q102513",
+      "https://www.wikidata.org/wiki/Q16426181",
+      "https://is.wikisource.org/wiki/T%C3%B3mas_fr%C3%A6ndi"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Harriet Beecher Stowe died in 1896; the translator Guðrún Lárusdóttir died in 1938 and this translation was first published in 1901. Source: is.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Tómas frændi",
+    "pages": [
+      {
+        "revision": 26148,
+        "title": "Tómas frændi"
+      },
+      {
+        "revision": 26149,
+        "title": "Tómas frændi/I"
+      },
+      {
+        "revision": 26150,
+        "title": "Tómas frændi/II"
+      },
+      {
+        "revision": 26151,
+        "title": "Tómas frændi/III"
+      },
+      {
+        "revision": 26152,
+        "title": "Tómas frændi/IV"
+      },
+      {
+        "revision": 26154,
+        "title": "Tómas frændi/V"
+      },
+      {
+        "revision": 26155,
+        "title": "Tómas frændi/VI"
+      },
+      {
+        "revision": 26156,
+        "title": "Tómas frændi/VII"
+      },
+      {
+        "revision": 26157,
+        "title": "Tómas frændi/VIII"
+      },
+      {
+        "revision": 26153,
+        "title": "Tómas frændi/IX"
+      },
+      {
+        "revision": 26158,
+        "title": "Tómas frændi/X"
+      },
+      {
+        "revision": 26159,
+        "title": "Tómas frændi/XI"
+      },
+      {
+        "revision": 26160,
+        "title": "Tómas frændi/XII"
+      },
+      {
+        "revision": 26161,
+        "title": "Tómas frændi/XIII"
+      },
+      {
+        "revision": 26162,
+        "title": "Tómas frændi/XIV"
+      },
+      {
+        "revision": 26164,
+        "title": "Tómas frændi/XV"
+      },
+      {
+        "revision": 26165,
+        "title": "Tómas frændi/XVI"
+      },
+      {
+        "revision": 26166,
+        "title": "Tómas frændi/XVII"
+      },
+      {
+        "revision": 26167,
+        "title": "Tómas frændi/XVIII"
+      },
+      {
+        "revision": 26163,
+        "title": "Tómas frændi/XIX"
+      },
+      {
+        "revision": 26168,
+        "title": "Tómas frændi/XX"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:41:44.736392Z",
+    "revision": "26148",
+    "site": "is.wikisource.org",
+    "url": "https://is.wikisource.org/wiki/T%C3%B3mas_fr%C3%A6ndi"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1811,
+      "deathYear": 1896,
+      "name": "Harriet Beecher Stowe",
+      "wikidata": "Q102513"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1852,
+    "originalTitle": "Tómas frændi",
+    "workId": "stowe-tomas-fr-ndi"
+  }
+}

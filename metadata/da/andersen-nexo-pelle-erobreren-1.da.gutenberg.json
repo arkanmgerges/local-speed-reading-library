@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:01.129391Z",
+    "chapterCount": 27,
+    "contentSha256": "53a4a176ea0a0cd617d1f1668f5b4893afb0a68cdd1061a8b678808d6ef85d87",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/andersen-nexo-pelle-erobreren-1.da.gutenberg/v1/book.json.gz",
+    "sha256": "27a4f1006a3b6515722cc258ac3142742636d3e571a6afe5eb84eef4bdccccb6",
+    "sizeBytes": 218385,
+    "uncompressedSizeBytes": 586321,
+    "wordCount": 101784
+  },
+  "edition": {
+    "editionId": "andersen-nexo-pelle-erobreren-1.da.gutenberg",
+    "kind": "original",
+    "language": "da",
+    "title": "Pelle Erobreren 1: Barndom"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1954: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1900: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/76563",
+      "https://en.wikipedia.org/wiki/Martin_Andersen_Nex%C3%B8",
+      "https://www.wikidata.org/wiki/Q1642629"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Martin Andersen Nexø died in 1954 and the work was first published in 1900. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "76563",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:19:07.787581Z",
+    "revision": "Sun, 30 Aug 2026 14:22:36 GMT",
+    "url": "https://www.gutenberg.org/ebooks/76563"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1869,
+      "deathYear": 1954,
+      "name": "Martin Andersen Nexø",
+      "wikidata": "Q168569"
+    },
+    "originalLanguage": "da",
+    "originalPublicationYear": 1900,
+    "originalTitle": "Pelle Erobreren 1: Barndom",
+    "workId": "andersen-nexo-pelle-erobreren-1"
+  }
+}

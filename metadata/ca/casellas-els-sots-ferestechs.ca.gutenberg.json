@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:34.032764Z",
+    "chapterCount": 21,
+    "contentSha256": "a457e1122d7f549ffa1ebd7e6644fedbd06ed40aa60e8c5cb005025e6532c8a5",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/casellas-els-sots-ferestechs.ca.gutenberg/v1/book.json.gz",
+    "sha256": "0d77d2c496bf9823a2c2a8ae75012bf894684328633f64d82b171a63d1ef4d18",
+    "sizeBytes": 96141,
+    "uncompressedSizeBytes": 269225,
+    "wordCount": 42829
+  },
+  "edition": {
+    "editionId": "casellas-els-sots-ferestechs.ca.gutenberg",
+    "kind": "original",
+    "language": "ca",
+    "title": "Els sots feréstechs"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1910: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1901: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/75701",
+      "https://en.wikipedia.org/wiki/Raimon_Casellas",
+      "https://www.wikidata.org/wiki/Q17742356"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Raimón Casellas died in 1910 and the work was first published in 1901. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "75701",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:05:27.667470Z",
+    "revision": "Sun, 30 Aug 2026 08:43:20 GMT",
+    "url": "https://www.gutenberg.org/ebooks/75701"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1855,
+      "deathYear": 1910,
+      "name": "Raimón Casellas",
+      "wikidata": "Q972382"
+    },
+    "originalLanguage": "ca",
+    "originalPublicationYear": 1901,
+    "originalTitle": "Els sots feréstechs",
+    "workId": "casellas-els-sots-ferestechs"
+  }
+}

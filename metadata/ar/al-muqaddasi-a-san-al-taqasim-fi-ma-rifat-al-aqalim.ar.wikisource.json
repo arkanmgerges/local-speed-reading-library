@@ -1,0 +1,133 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:20:30.686621Z",
+    "chapterCount": 68,
+    "contentSha256": "8762490faac34e3fe941f2bbda2b9b2beb363e326b96699554fc68cd06905acd",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/al-muqaddasi-a-san-al-taqasim-fi-ma-rifat-al-aqalim.ar.wikisource/v1/book.json.gz",
+    "sha256": "cb40d71d9f8fea707dbe76d3f390b45e59eec8304eefe021c517e46c4430c9b1",
+    "sizeBytes": 100454,
+    "uncompressedSizeBytes": 369870,
+    "wordCount": 35170
+  },
+  "edition": {
+    "editionId": "al-muqaddasi-a-san-al-taqasim-fi-ma-rifat-al-aqalim.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "أحسن التقاسيم في معرفة الأقاليم"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1000: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 985: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12178419",
+      "https://www.wikidata.org/wiki/Q294116",
+      "https://ar.wikisource.org/wiki/%D8%A3%D8%AD%D8%B3%D9%86_%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B3%D9%8A%D9%85_%D9%81%D9%8A_%D9%85%D8%B9%D8%B1%D9%81%D8%A9_%D8%A7%D9%84%D8%A3%D9%82%D8%A7%D9%84%D9%8A%D9%85"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. شمس الدين المقدسي died in 1000 and the work was first published in 985. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "أحسن التقاسيم في معرفة الأقاليم",
+    "pages": [
+      {
+        "revision": 231634,
+        "title": "أحسن التقاسيم في معرفة الأقاليم"
+      },
+      {
+        "revision": 424961,
+        "title": "أحسن التقاسيم في معرفة الأقاليم/مقدمات وفصول لا بد منها"
+      },
+      {
+        "revision": 424950,
+        "title": "أحسن التقاسيم في معرفة الأقاليم/ذكر البحار والأنهار"
+      },
+      {
+        "revision": 424949,
+        "title": "أحسن التقاسيم في معرفة الأقاليم/ذكر الأسامي واختلافها"
+      },
+      {
+        "revision": 424951,
+        "title": "أحسن التقاسيم في معرفة الأقاليم/ذكر الخصائص في الأقاليم"
+      },
+      {
+        "revision": 424952,
+        "title": "أحسن التقاسيم في معرفة الأقاليم/ذكر المذاهب والذمة"
+      },
+      {
+        "revision": 424954,
+        "title": "أحسن التقاسيم في معرفة الأقاليم/ذكر ما عانيت من الأسباب"
+      },
+      {
+        "revision": 424953,
+        "title": "أحسن التقاسيم في معرفة الأقاليم/ذكر المواضع المختلف فيها"
+      },
+      {
+        "revision": 424947,
+        "title": "أحسن التقاسيم في معرفة الأقاليم/باب اختصرناه للفقهاء"
+      },
+      {
+        "revision": 424948,
+        "title": "أحسن التقاسيم في معرفة الأقاليم/ذكر أقاليم العالم ومركز القبلة"
+      },
+      {
+        "revision": 424955,
+        "title": "أحسن التقاسيم في معرفة الأقاليم/ذكر مملكة الإسلام"
+      },
+      {
+        "revision": 424956,
+        "title": "أحسن التقاسيم في معرفة الأقاليم/ذكر مملكة الإسلام/الجزء الأول، أقاليم العرب"
+      },
+      {
+        "revision": 506590,
+        "title": "أحسن التقاسيم في معرفة الأقاليم/ذكر مملكة الإسلام/الجزء الأول، أقاليم العرب/جزيرة العرب"
+      },
+      {
+        "revision": 424959,
+        "title": "أحسن التقاسيم في معرفة الأقاليم/ذكر مملكة الإسلام/الجزء الأول، أقاليم العرب/إقليم العراق"
+      },
+      {
+        "revision": 424957,
+        "title": "أحسن التقاسيم في معرفة الأقاليم/ذكر مملكة الإسلام/الجزء الأول، أقاليم العرب/إقليم آقور"
+      },
+      {
+        "revision": 424958,
+        "title": "أحسن التقاسيم في معرفة الأقاليم/ذكر مملكة الإسلام/الجزء الأول، أقاليم العرب/إقليم الشام"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:51:35.729235Z",
+    "revision": "231634",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%A3%D8%AD%D8%B3%D9%86_%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B3%D9%8A%D9%85_%D9%81%D9%8A_%D9%85%D8%B9%D8%B1%D9%81%D8%A9_%D8%A7%D9%84%D8%A3%D9%82%D8%A7%D9%84%D9%8A%D9%85"
+  },
+  "work": {
+    "author": {
+      "birthYear": 945,
+      "deathYear": 1000,
+      "name": "شمس الدين المقدسي",
+      "wikidata": "Q294116"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 985,
+    "originalTitle": "أحسن التقاسيم في معرفة الأقاليم",
+    "workId": "al-muqaddasi-a-san-al-taqasim-fi-ma-rifat-al-aqalim"
+  }
+}

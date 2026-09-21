@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:27.470351Z",
+    "chapterCount": 38,
+    "contentSha256": "99fe94d04434427a1e29722525e597bd6a901d6abe64be254edd90be0a0c61fd",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/hemmo-piimalasku-ja-kokkelpiimee.fi.gutenberg/v1/book.json.gz",
+    "sha256": "53a751075b5d62d7404c45eab0c10544142b4fa42a734ef12bef2dade21e552e",
+    "sizeBytes": 89724,
+    "uncompressedSizeBytes": 238052,
+    "wordCount": 29554
+  },
+  "edition": {
+    "editionId": "hemmo-piimalasku-ja-kokkelpiimee.fi.gutenberg",
+    "editionPublicationYear": 1928,
+    "kind": "original",
+    "language": "fi",
+    "title": "Piimälasku ja kokkelpiimee"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1940: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1928 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/73935",
+      "https://fi.wikipedia.org/wiki/Kaarlo_Hemmo"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Kaarlo Hemmo died in 1940 and the edition digitised by Project Gutenberg was printed in 1928. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "73935",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:04:08.681311Z",
+    "revision": "Sat, 29 Aug 2026 12:26:06 GMT",
+    "url": "https://www.gutenberg.org/ebooks/73935"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1858,
+      "deathYear": 1940,
+      "name": "Kaarlo Hemmo",
+      "wikidata": "Q17380745"
+    },
+    "originalLanguage": "fi",
+    "originalTitle": "Piimälasku ja kokkelpiimee",
+    "workId": "hemmo-piimalasku-ja-kokkelpiimee"
+  }
+}

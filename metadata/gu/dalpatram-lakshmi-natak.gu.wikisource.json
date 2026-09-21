@@ -1,0 +1,105 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:57:54.907452Z",
+    "chapterCount": 8,
+    "contentSha256": "ab909efe6ba79e39fb1a2a1688a612ab15ddead7f118202c466df1a7e559d599",
+    "normalizerVersion": "0.2.0",
+    "path": "books/gu/dalpatram-lakshmi-natak.gu.wikisource/v1/book.json.gz",
+    "sha256": "dc42cb50c0ea4064d5b39b8beb882e78b727076dcc78524b7118dd6fd37087e9",
+    "sizeBytes": 29551,
+    "uncompressedSizeBytes": 148270,
+    "wordCount": 10715
+  },
+  "edition": {
+    "editionId": "dalpatram-lakshmi-natak.gu.wikisource",
+    "kind": "original",
+    "language": "gu",
+    "title": "લક્ષ્મી નાટક"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1898: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1863: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q18003026",
+      "https://www.wikidata.org/wiki/Q2724159",
+      "https://gu.wikisource.org/wiki/%E0%AA%B2%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AB%8D%E0%AA%AE%E0%AB%80_%E0%AA%A8%E0%AA%BE%E0%AA%9F%E0%AA%95"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. દલપતરામ died in 1898 and the work was first published in 1863. Source: gu.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "લક્ષ્મી નાટક",
+    "pages": [
+      {
+        "revision": 197848,
+        "title": "લક્ષ્મી નાટક"
+      },
+      {
+        "revision": 197837,
+        "title": "લક્ષ્મી નાટક/પ્રસ્તાવના"
+      },
+      {
+        "revision": 197839,
+        "title": "લક્ષ્મી નાટક/સ્વાંગ ૧લો"
+      },
+      {
+        "revision": 197840,
+        "title": "લક્ષ્મી નાટક/સ્વાંગ ૨ જો"
+      },
+      {
+        "revision": 197841,
+        "title": "લક્ષ્મી નાટક/સ્વાંગ ૩ જો"
+      },
+      {
+        "revision": 197842,
+        "title": "લક્ષ્મી નાટક/સ્વાંગ ૪ થો"
+      },
+      {
+        "revision": 197844,
+        "title": "લક્ષ્મી નાટક/સ્વાંગ ૫ મો"
+      },
+      {
+        "revision": 197845,
+        "title": "લક્ષ્મી નાટક/સ્વાંગ ૬ ઠ્ઠો"
+      },
+      {
+        "revision": 197846,
+        "title": "લક્ષ્મી નાટક/સ્વાંગ ૭ મો"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:18:30.010741Z",
+    "revision": "197848",
+    "site": "gu.wikisource.org",
+    "url": "https://gu.wikisource.org/wiki/%E0%AA%B2%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AB%8D%E0%AA%AE%E0%AB%80_%E0%AA%A8%E0%AA%BE%E0%AA%9F%E0%AA%95"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1820,
+      "deathYear": 1898,
+      "name": "દલપતરામ",
+      "wikidata": "Q2724159"
+    },
+    "originalLanguage": "gu",
+    "originalPublicationYear": 1863,
+    "originalTitle": "લક્ષ્મી નાટક",
+    "workId": "dalpatram-lakshmi-natak"
+  }
+}

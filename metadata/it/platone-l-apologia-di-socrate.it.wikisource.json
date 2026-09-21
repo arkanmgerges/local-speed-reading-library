@@ -1,0 +1,219 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:20.285585Z",
+    "chapterCount": 34,
+    "contentSha256": "d917a6a1e2330817acb220f1431ae7360e68494a0a54a56c477c95afd658b2ef",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/platone-l-apologia-di-socrate.it.wikisource/v1/book.json.gz",
+    "sha256": "5f9c3f4adeef206324261b685d0cdeb82f1f97e0facc893d4d4d6d6654412a4a",
+    "sizeBytes": 23170,
+    "uncompressedSizeBytes": 67203,
+    "wordCount": 10346
+  },
+  "edition": {
+    "editionId": "platone-l-apologia-di-socrate.it.wikisource",
+    "kind": "translation",
+    "language": "it",
+    "title": "L'apologia di Socrate",
+    "translationPublicationYear": 1850,
+    "translator": {
+      "birthYear": 1834,
+      "deathYear": 1913,
+      "name": "Francesco Acri",
+      "wikidata": "Q74764"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -348: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1913: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1850: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q273668",
+      "https://www.wikidata.org/wiki/Q19764633",
+      "https://www.wikidata.org/wiki/Q859",
+      "https://www.wikidata.org/wiki/Q74764",
+      "https://it.wikisource.org/wiki/L'apologia_di_Socrate"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Platone died in -348; the translator Francesco Acri died in 1913 and this translation was first published in 1850. Source: it.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "L'apologia di Socrate",
+    "pages": [
+      {
+        "revision": 3771139,
+        "title": "L'apologia di Socrate"
+      },
+      {
+        "revision": 3771173,
+        "title": "L'apologia di Socrate/Introduzione"
+      },
+      {
+        "revision": 3771140,
+        "title": "L'apologia di Socrate/Capitolo I"
+      },
+      {
+        "revision": 3771141,
+        "title": "L'apologia di Socrate/Capitolo II"
+      },
+      {
+        "revision": 3771142,
+        "title": "L'apologia di Socrate/Capitolo III"
+      },
+      {
+        "revision": 3771143,
+        "title": "L'apologia di Socrate/Capitolo IV"
+      },
+      {
+        "revision": 3771145,
+        "title": "L'apologia di Socrate/Capitolo V"
+      },
+      {
+        "revision": 3771146,
+        "title": "L'apologia di Socrate/Capitolo VI"
+      },
+      {
+        "revision": 3771147,
+        "title": "L'apologia di Socrate/Capitolo VII"
+      },
+      {
+        "revision": 3771148,
+        "title": "L'apologia di Socrate/Capitolo VIII"
+      },
+      {
+        "revision": 3771144,
+        "title": "L'apologia di Socrate/Capitolo IX"
+      },
+      {
+        "revision": 3771149,
+        "title": "L'apologia di Socrate/Capitolo X"
+      },
+      {
+        "revision": 3771150,
+        "title": "L'apologia di Socrate/Capitolo XI"
+      },
+      {
+        "revision": 3771151,
+        "title": "L'apologia di Socrate/Capitolo XII"
+      },
+      {
+        "revision": 3771152,
+        "title": "L'apologia di Socrate/Capitolo XIII"
+      },
+      {
+        "revision": 3771153,
+        "title": "L'apologia di Socrate/Capitolo XIV"
+      },
+      {
+        "revision": 3771155,
+        "title": "L'apologia di Socrate/Capitolo XV"
+      },
+      {
+        "revision": 3771156,
+        "title": "L'apologia di Socrate/Capitolo XVI"
+      },
+      {
+        "revision": 3771157,
+        "title": "L'apologia di Socrate/Capitolo XVII"
+      },
+      {
+        "revision": 3771158,
+        "title": "L'apologia di Socrate/Capitolo XVIII"
+      },
+      {
+        "revision": 3771154,
+        "title": "L'apologia di Socrate/Capitolo XIX"
+      },
+      {
+        "revision": 3771159,
+        "title": "L'apologia di Socrate/Capitolo XX"
+      },
+      {
+        "revision": 3771160,
+        "title": "L'apologia di Socrate/Capitolo XXI"
+      },
+      {
+        "revision": 3771161,
+        "title": "L'apologia di Socrate/Capitolo XXII"
+      },
+      {
+        "revision": 3771162,
+        "title": "L'apologia di Socrate/Capitolo XXIII"
+      },
+      {
+        "revision": 3771163,
+        "title": "L'apologia di Socrate/Capitolo XXIV"
+      },
+      {
+        "revision": 3771165,
+        "title": "L'apologia di Socrate/Capitolo XXV"
+      },
+      {
+        "revision": 3771166,
+        "title": "L'apologia di Socrate/Capitolo XXVI"
+      },
+      {
+        "revision": 3771167,
+        "title": "L'apologia di Socrate/Capitolo XXVII"
+      },
+      {
+        "revision": 3771168,
+        "title": "L'apologia di Socrate/Capitolo XXVIII"
+      },
+      {
+        "revision": 3771164,
+        "title": "L'apologia di Socrate/Capitolo XXIX"
+      },
+      {
+        "revision": 3771169,
+        "title": "L'apologia di Socrate/Capitolo XXX"
+      },
+      {
+        "revision": 3771170,
+        "title": "L'apologia di Socrate/Capitolo XXXI"
+      },
+      {
+        "revision": 3771171,
+        "title": "L'apologia di Socrate/Capitolo XXXII"
+      },
+      {
+        "revision": 3771172,
+        "title": "L'apologia di Socrate/Capitolo XXXIII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:48:29.721028Z",
+    "revision": "3771139",
+    "site": "it.wikisource.org",
+    "url": "https://it.wikisource.org/wiki/L'apologia_di_Socrate"
+  },
+  "work": {
+    "author": {
+      "birthYear": -428,
+      "deathYear": -348,
+      "name": "Platone",
+      "wikidata": "Q859"
+    },
+    "originalLanguage": "grc",
+    "originalPublicationYear": -395,
+    "originalTitle": "L'apologia di Socrate",
+    "workId": "platone-l-apologia-di-socrate"
+  }
+}

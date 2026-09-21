@@ -32,10 +32,12 @@ abstract class _LsrCommand extends Command<int> {
     return RightsPolicy(currentYear: y == null ? DateTime.now().year : int.parse(y));
   }
 
-  /// Editions named on the command line, or every edition with `--all`.
-  List<BookMetadata> selectEditions(LibraryRepo repo, List<String> ids, bool all) {
+  /// Editions named on the command line, every edition with `--all`, or the
+  /// ones without an asset block with `--unbuilt`.
+  List<BookMetadata> selectEditions(LibraryRepo repo, List<String> ids, bool all, {bool unbuilt = false}) {
     final List<BookMetadata> every = repo.metadataFiles().map(BookMetadata.read).toList();
     if (all) return every;
+    if (unbuilt) return every.where((BookMetadata m) => m.asset == null).toList();
     if (ids.isEmpty) throw UsageException('name at least one editionId or pass --all', usage);
     final List<BookMetadata> out = <BookMetadata>[];
     for (final String id in ids) {
@@ -64,7 +66,10 @@ abstract class _LsrCommand extends Command<int> {
 
 class _PinCommand extends _LsrCommand {
   _PinCommand() {
-    argParser.addFlag('all', help: 'Pin every edition.');
+    argParser
+      ..addFlag('all', help: 'Pin every edition.')
+      ..addFlag('unbuilt', help: 'Pin every edition that has no asset block yet.')
+      ..addOption('delay', defaultsTo: '0', help: 'Seconds to wait before every provider request.');
   }
   @override
   String get name => 'pin';
@@ -74,14 +79,22 @@ class _PinCommand extends _LsrCommand {
   @override
   Future<int> run() async {
     final LibraryRepo r = repo;
+    fetchDelay = Duration(milliseconds: (double.parse(argResults!['delay'] as String) * 1000).round());
     final SourceImporter importer = SourceImporter(r);
-    for (final BookMetadata m in selectEditions(r, argResults!.rest, argResults!['all'] as bool)) {
-      final Map<String, Object?> source = await importer.pin(m);
-      writeMetadata(r, m.withSection('source', source));
-      stdout.writeln('pinned ${m.editionId}: revision ${source['revision']}'
-          '${source['pages'] is List ? ' (${(source['pages'] as List).length} page(s))' : ''}');
+    int failures = 0;
+    for (final BookMetadata m in selectEditions(r, argResults!.rest, argResults!['all'] as bool,
+        unbuilt: argResults!['unbuilt'] as bool)) {
+      try {
+        final Map<String, Object?> source = await importer.pin(m);
+        writeMetadata(r, m.withSection('source', source));
+        stdout.writeln('pinned ${m.editionId}: revision ${source['revision']}'
+            '${source['pages'] is List ? ' (${(source['pages'] as List).length} page(s))' : ''}');
+      } catch (e) {
+        failures++;
+        stderr.writeln('FAILED ${m.editionId}: $e');
+      }
     }
-    return 0;
+    return failures == 0 ? 0 : 1;
   }
 }
 
@@ -89,10 +102,12 @@ class _BuildCommand extends _LsrCommand {
   _BuildCommand() {
     argParser
       ..addFlag('all', help: 'Build every publishable edition.')
+      ..addFlag('unbuilt', help: 'Build every edition that has no asset block yet.')
       ..addFlag('offline', help: 'Use the snapshot under build/sources; never fetch.')
       ..addFlag('check', help: 'Fail instead of updating metadata when the asset block would change.')
       ..addFlag('allow-rewrite',
-          help: 'Accept changed content for the current version. Only for versions that were never uploaded; publish-check refuses to overwrite a CDN copy.');
+          help: 'Accept changed content for the current version. Only for versions that were never uploaded; publish-check refuses to overwrite a CDN copy.')
+      ..addOption('delay', defaultsTo: '0', help: 'Seconds to wait before every provider request.');
   }
   @override
   String get name => 'build';
@@ -104,10 +119,12 @@ class _BuildCommand extends _LsrCommand {
     final LibraryRepo r = repo;
     final LanguageRegistry languages = LanguageRegistry.load(r.languagesRegistryFile);
     final Schemas schemas = Schemas.load(r);
+    fetchDelay = Duration(milliseconds: (double.parse(argResults!['delay'] as String) * 1000).round());
     final SourceImporter importer = SourceImporter(r);
     final bool check = argResults!['check'] as bool;
     int failures = 0;
-    for (final BookMetadata m in selectEditions(r, argResults!.rest, argResults!['all'] as bool)) {
+    for (final BookMetadata m in selectEditions(r, argResults!.rest, argResults!['all'] as bool,
+        unbuilt: argResults!['unbuilt'] as bool)) {
       final RightsVerdict verdict = policy.evaluate(m);
       if (!verdict.publishable) {
         stdout.writeln('skip ${m.editionId}: ${verdict.reasons.join('; ')}');

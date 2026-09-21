@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:15.293865Z",
+    "chapterCount": 48,
+    "contentSha256": "042ab8bc7a23ee70b3457c4b0691c5bb164695de8c58161d57e509f9cb15c5e3",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/unamuno-andanzas-y-visiones-espanolas.es.gutenberg/v1/book.json.gz",
+    "sha256": "d1ab30df337d5896021c71bb3f536f52167e675e9e3db2d7ebc718fc1cc01942",
+    "sizeBytes": 174687,
+    "uncompressedSizeBytes": 459814,
+    "wordCount": 76760
+  },
+  "edition": {
+    "editionId": "unamuno-andanzas-y-visiones-espanolas.es.gutenberg",
+    "editionPublicationYear": 1922,
+    "kind": "original",
+    "language": "es",
+    "title": "Andanzas y visiones españolas"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1936: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1922 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/78052",
+      "https://en.wikipedia.org/wiki/Miguel_de_Unamuno"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Miguel de Unamuno died in 1936 and the edition digitised by Project Gutenberg was printed in 1922. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "78052",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:48:47.648731Z",
+    "revision": "Mon, 31 Aug 2026 07:55:08 GMT",
+    "url": "https://www.gutenberg.org/ebooks/78052"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1864,
+      "deathYear": 1936,
+      "name": "Miguel de Unamuno",
+      "wikidata": "Q185085"
+    },
+    "originalLanguage": "es",
+    "originalTitle": "Andanzas y visiones españolas",
+    "workId": "unamuno-andanzas-y-visiones-espanolas"
+  }
+}

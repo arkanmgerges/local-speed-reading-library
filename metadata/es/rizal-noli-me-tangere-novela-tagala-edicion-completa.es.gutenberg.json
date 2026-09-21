@@ -1,0 +1,68 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:08.376913Z",
+    "chapterCount": 69,
+    "contentSha256": "bfdb7edec299c10a96fede2bc4181ce0ef8207b1b4ddeb15437f6493c0a30f42",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/rizal-noli-me-tangere-novela-tagala-edicion-completa.es.gutenberg/v1/book.json.gz",
+    "sha256": "0a7afd602c4d9002da00c38a8e7ece50d9548738ef51049633a8994432928f6b",
+    "sizeBytes": 330877,
+    "uncompressedSizeBytes": 898188,
+    "wordCount": 137627
+  },
+  "edition": {
+    "editionId": "rizal-noli-me-tangere-novela-tagala-edicion-completa.es.gutenberg",
+    "kind": "original",
+    "language": "es",
+    "title": "Noli me tángere Novela Tagala, Edición completa con notas de R. Sempau"
+  },
+  "genres": [
+    "Fiction",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1896: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1887: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/47584",
+      "https://en.wikipedia.org/wiki/José_Rizal",
+      "https://tl.wikipedia.org/wiki/José_Rizal",
+      "https://www.wikidata.org/wiki/Q568299"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. José Rizal died in 1896 and the work was first published in 1887. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "47584",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:46:18.168590Z",
+    "revision": "Sat, 19 Sep 2026 11:17:57 GMT",
+    "url": "https://www.gutenberg.org/ebooks/47584"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1861,
+      "deathYear": 1896,
+      "name": "José Rizal",
+      "wikidata": "Q1500"
+    },
+    "originalLanguage": "es",
+    "originalPublicationYear": 1887,
+    "originalTitle": "Noli me tángere Novela Tagala, Edición completa con notas de R. Sempau",
+    "workId": "rizal-noli-me-tangere-novela-tagala-edicion-completa"
+  }
+}

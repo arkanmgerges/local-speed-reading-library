@@ -1,0 +1,293 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:09:01.879311Z",
+    "chapterCount": 55,
+    "contentSha256": "9f65450712920586e10965f0ddb89c6364d910f2dfd7191fed8056b43ba45b70",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/xianzu-the-peony-pavilion.zh-hant.wikisource/v1/book.json.gz",
+    "sha256": "7159392edda34e28fe6ed60b8f96269a1f76179e7d5046c15ef078a63446fee1",
+    "sizeBytes": 131316,
+    "uncompressedSizeBytes": 278639,
+    "wordCount": 1469
+  },
+  "edition": {
+    "editionId": "xianzu-the-peony-pavilion.zh-hant.wikisource",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "牡丹亭"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1616: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1598: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1196332",
+      "https://www.wikidata.org/wiki/Q945333",
+      "https://zh.wikisource.org/wiki/%E7%89%A1%E4%B8%B9%E4%BA%AD"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 汤显祖 died in 1616 and the work was first published in 1598. Source: zh.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "牡丹亭",
+    "pages": [
+      {
+        "revision": 8056228,
+        "title": "牡丹亭"
+      },
+      {
+        "revision": 7913591,
+        "title": "牡丹亭/標目"
+      },
+      {
+        "revision": 7913532,
+        "title": "牡丹亭/言懷"
+      },
+      {
+        "revision": 7913533,
+        "title": "牡丹亭/訓女"
+      },
+      {
+        "revision": 7913534,
+        "title": "牡丹亭/腐歎"
+      },
+      {
+        "revision": 7913592,
+        "title": "牡丹亭/延師"
+      },
+      {
+        "revision": 7913535,
+        "title": "牡丹亭/悵眺"
+      },
+      {
+        "revision": 7913546,
+        "title": "牡丹亭/閨塾"
+      },
+      {
+        "revision": 8054376,
+        "title": "牡丹亭/勸農"
+      },
+      {
+        "revision": 7913538,
+        "title": "牡丹亭/肅苑"
+      },
+      {
+        "revision": 7913539,
+        "title": "牡丹亭/驚夢"
+      },
+      {
+        "revision": 7913556,
+        "title": "牡丹亭/慈戒"
+      },
+      {
+        "revision": 7913541,
+        "title": "牡丹亭/尋夢"
+      },
+      {
+        "revision": 7913542,
+        "title": "牡丹亭/訣謁"
+      },
+      {
+        "revision": 7913543,
+        "title": "牡丹亭/寫真"
+      },
+      {
+        "revision": 7913544,
+        "title": "牡丹亭/虜諜"
+      },
+      {
+        "revision": 7913545,
+        "title": "牡丹亭/詰病"
+      },
+      {
+        "revision": 7913547,
+        "title": "牡丹亭/道覡"
+      },
+      {
+        "revision": 7913548,
+        "title": "牡丹亭/診祟"
+      },
+      {
+        "revision": 8056477,
+        "title": "牡丹亭/牝賊"
+      },
+      {
+        "revision": 8056548,
+        "title": "牡丹亭/鬧殤"
+      },
+      {
+        "revision": 8056837,
+        "title": "牡丹亭/謁遇"
+      },
+      {
+        "revision": 7913552,
+        "title": "牡丹亭/旅寄"
+      },
+      {
+        "revision": 7913553,
+        "title": "牡丹亭/冥判"
+      },
+      {
+        "revision": 7913554,
+        "title": "牡丹亭/拾畫"
+      },
+      {
+        "revision": 7913555,
+        "title": "牡丹亭/憶女"
+      },
+      {
+        "revision": 7913593,
+        "title": "牡丹亭/玩真"
+      },
+      {
+        "revision": 7913557,
+        "title": "牡丹亭/魂遊"
+      },
+      {
+        "revision": 7913558,
+        "title": "牡丹亭/幽媾"
+      },
+      {
+        "revision": 7913559,
+        "title": "牡丹亭/旁疑"
+      },
+      {
+        "revision": 7913560,
+        "title": "牡丹亭/懽撓"
+      },
+      {
+        "revision": 7913561,
+        "title": "牡丹亭/繕備"
+      },
+      {
+        "revision": 7913562,
+        "title": "牡丹亭/冥誓"
+      },
+      {
+        "revision": 7913563,
+        "title": "牡丹亭/秘議"
+      },
+      {
+        "revision": 7913581,
+        "title": "牡丹亭/詗藥"
+      },
+      {
+        "revision": 7913565,
+        "title": "牡丹亭/回生"
+      },
+      {
+        "revision": 7913566,
+        "title": "牡丹亭/婚走"
+      },
+      {
+        "revision": 7913577,
+        "title": "牡丹亭/駭變"
+      },
+      {
+        "revision": 7913568,
+        "title": "牡丹亭/淮警"
+      },
+      {
+        "revision": 7913569,
+        "title": "牡丹亭/如杭"
+      },
+      {
+        "revision": 7913570,
+        "title": "牡丹亭/僕偵"
+      },
+      {
+        "revision": 7913571,
+        "title": "牡丹亭/耽試"
+      },
+      {
+        "revision": 7913572,
+        "title": "牡丹亭/移鎮"
+      },
+      {
+        "revision": 7913573,
+        "title": "牡丹亭/禦淮"
+      },
+      {
+        "revision": 7913574,
+        "title": "牡丹亭/急難"
+      },
+      {
+        "revision": 7913575,
+        "title": "牡丹亭/寇間"
+      },
+      {
+        "revision": 7913576,
+        "title": "牡丹亭/折寇"
+      },
+      {
+        "revision": 7913578,
+        "title": "牡丹亭/圍釋"
+      },
+      {
+        "revision": 7913579,
+        "title": "牡丹亭/遇母"
+      },
+      {
+        "revision": 7913580,
+        "title": "牡丹亭/淮泊"
+      },
+      {
+        "revision": 7913582,
+        "title": "牡丹亭/鬧宴"
+      },
+      {
+        "revision": 7913588,
+        "title": "牡丹亭/榜下"
+      },
+      {
+        "revision": 7913584,
+        "title": "牡丹亭/索元"
+      },
+      {
+        "revision": 7913585,
+        "title": "牡丹亭/硬拷"
+      },
+      {
+        "revision": 7913586,
+        "title": "牡丹亭/聞喜"
+      },
+      {
+        "revision": 8057249,
+        "title": "牡丹亭/圓駕"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:54:23.239705Z",
+    "revision": "8056228",
+    "site": "zh.wikisource.org",
+    "url": "https://zh.wikisource.org/wiki/%E7%89%A1%E4%B8%B9%E4%BA%AD"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1550,
+      "deathYear": 1616,
+      "name": "汤显祖",
+      "wikidata": "Q945333"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": 1598,
+    "originalTitle": "牡丹亭",
+    "workId": "xianzu-the-peony-pavilion"
+  }
+}

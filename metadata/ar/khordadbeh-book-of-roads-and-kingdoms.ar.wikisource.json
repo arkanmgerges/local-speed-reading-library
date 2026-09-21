@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:20:35.971729Z",
+    "chapterCount": 1,
+    "contentSha256": "9f29cc97605499bf9e4e266aea2189dba1d45290538efdf3e02e926c31dad6d1",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/khordadbeh-book-of-roads-and-kingdoms.ar.wikisource/v1/book.json.gz",
+    "sha256": "fe92d199068488218bfe817005dfb5e89148607f3e4cfe0f9d2c7a6e67a8e229",
+    "sizeBytes": 95805,
+    "uncompressedSizeBytes": 404556,
+    "wordCount": 40427
+  },
+  "edition": {
+    "editionId": "khordadbeh-book-of-roads-and-kingdoms.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "كتاب المسالك والممالك"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 912: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 870: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q2590941",
+      "https://www.wikidata.org/wiki/Q380004",
+      "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%84%D9%83_%D9%88%D8%A7%D9%84%D9%85%D9%85%D8%A7%D9%84%D9%83_(%D8%A7%D8%A8%D9%86_%D8%AE%D8%B1%D8%AF%D8%A7%D8%B0%D8%A8%D8%A9)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ابن خرداذبة died in 912 and the work was first published in 870. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "المسالك والممالك (ابن خرداذبة)",
+    "pages": [
+      {
+        "revision": 375602,
+        "title": "المسالك والممالك (ابن خرداذبة)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:53:05.885800Z",
+    "revision": "375602",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%84%D9%83_%D9%88%D8%A7%D9%84%D9%85%D9%85%D8%A7%D9%84%D9%83_(%D8%A7%D8%A8%D9%86_%D8%AE%D8%B1%D8%AF%D8%A7%D8%B0%D8%A8%D8%A9)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 820,
+      "deathYear": 912,
+      "name": "ابن خرداذبة",
+      "wikidata": "Q380004"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 870,
+    "originalTitle": "كتاب المسالك والممالك",
+    "workId": "khordadbeh-book-of-roads-and-kingdoms"
+  }
+}

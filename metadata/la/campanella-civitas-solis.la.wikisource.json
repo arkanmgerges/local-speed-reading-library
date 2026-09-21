@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:43.973431Z",
+    "chapterCount": 33,
+    "contentSha256": "c45cf954d112f382fb87b43ea99910ee03fd62fd516434311da673f2c6073475",
+    "normalizerVersion": "0.2.0",
+    "path": "books/la/campanella-civitas-solis.la.wikisource/v1/book.json.gz",
+    "sha256": "315b2e51e71d0cb10385377fff0f5eaf472da2ff7ed0b4eb6b41a3788cb7a97a",
+    "sizeBytes": 40338,
+    "uncompressedSizeBytes": 103158,
+    "wordCount": 13897
+  },
+  "edition": {
+    "editionId": "campanella-civitas-solis.la.wikisource",
+    "kind": "original",
+    "language": "la",
+    "title": "Civitas solis"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1639: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1623: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q913656",
+      "https://www.wikidata.org/wiki/Q191850",
+      "https://la.wikisource.org/wiki/Civitas_solis"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Thomas Campanella died in 1639 and the work was first published in 1623. Source: la.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Civitas solis",
+    "pages": [
+      {
+        "revision": 138810,
+        "title": "Civitas solis"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:54:27.623468Z",
+    "revision": "138810",
+    "site": "la.wikisource.org",
+    "url": "https://la.wikisource.org/wiki/Civitas_solis"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1568,
+      "deathYear": 1639,
+      "name": "Thomas Campanella",
+      "wikidata": "Q191850"
+    },
+    "originalLanguage": "la",
+    "originalPublicationYear": 1623,
+    "originalTitle": "Civitas solis",
+    "workId": "campanella-civitas-solis"
+  }
+}

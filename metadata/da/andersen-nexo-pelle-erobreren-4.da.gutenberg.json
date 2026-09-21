@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:06.656381Z",
+    "chapterCount": 25,
+    "contentSha256": "a2f95e2ffcf18242295e549561e694be242298bb681e107da2b8d75c5ecb6e72",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/andersen-nexo-pelle-erobreren-4.da.gutenberg/v1/book.json.gz",
+    "sha256": "cc7297904935be2d7ed05540adc1a69baf5d4fdfed4d3c62a50e71e03e36eef7",
+    "sizeBytes": 175678,
+    "uncompressedSizeBytes": 470732,
+    "wordCount": 80377
+  },
+  "edition": {
+    "editionId": "andersen-nexo-pelle-erobreren-4.da.gutenberg",
+    "kind": "original",
+    "language": "da",
+    "title": "Pelle Erobreren 4: Gryet"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1954: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1900: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/77037",
+      "https://en.wikipedia.org/wiki/Martin_Andersen_Nex%C3%B8",
+      "https://www.wikidata.org/wiki/Q1642629"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Martin Andersen Nexø died in 1954 and the work was first published in 1900. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "77037",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:19:20.492429Z",
+    "revision": "Sun, 30 Aug 2026 18:44:57 GMT",
+    "url": "https://www.gutenberg.org/ebooks/77037"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1869,
+      "deathYear": 1954,
+      "name": "Martin Andersen Nexø",
+      "wikidata": "Q168569"
+    },
+    "originalLanguage": "da",
+    "originalPublicationYear": 1900,
+    "originalTitle": "Pelle Erobreren 4: Gryet",
+    "workId": "andersen-nexo-pelle-erobreren-4"
+  }
+}

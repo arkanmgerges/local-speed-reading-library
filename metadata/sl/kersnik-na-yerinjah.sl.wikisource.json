@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:06.930161Z",
+    "chapterCount": 29,
+    "contentSha256": "d0cb6395ad020ec015d8d2d94035275e40a28f220d24801da842c01a76d9ed1d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/kersnik-na-yerinjah.sl.wikisource/v1/book.json.gz",
+    "sha256": "a1f4cf75252a8249b4b2ae19dd472503a3b557d9d98304e14a29d40300fe6443",
+    "sizeBytes": 79510,
+    "uncompressedSizeBytes": 210460,
+    "wordCount": 32817
+  },
+  "edition": {
+    "editionId": "kersnik-na-yerinjah.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Na Žerinjah"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1897: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1876: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q6956480",
+      "https://www.wikidata.org/wiki/Q2474110",
+      "https://sl.wikisource.org/wiki/Na_%C5%BDerinjah"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Janko Kersnik died in 1897 and the work was first published in 1876. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Na Žerinjah",
+    "pages": [
+      {
+        "revision": 161856,
+        "title": "Na Žerinjah"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:56:10.953991Z",
+    "revision": "161856",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Na_%C5%BDerinjah"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1852,
+      "deathYear": 1897,
+      "name": "Janko Kersnik",
+      "wikidata": "Q2474110"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1876,
+    "originalTitle": "Na Žerinjah",
+    "workId": "kersnik-na-yerinjah"
+  }
+}

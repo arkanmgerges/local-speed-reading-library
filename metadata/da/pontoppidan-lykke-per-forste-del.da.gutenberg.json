@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:25.119218Z",
+    "chapterCount": 3,
+    "contentSha256": "f4c4a969919a5419525b6e37fca9af6cde31b05c8ec5ccd4fa6b1d2af44c6239",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/pontoppidan-lykke-per-forste-del.da.gutenberg/v1/book.json.gz",
+    "sha256": "2a0f8d331148b733c357bdfaa094301f94293ecb1ee09dae03736a41655eafc1",
+    "sizeBytes": 205954,
+    "uncompressedSizeBytes": 536651,
+    "wordCount": 86477
+  },
+  "edition": {
+    "editionId": "pontoppidan-lykke-per-forste-del.da.gutenberg",
+    "kind": "original",
+    "language": "da",
+    "title": "Lykke-Per. Første Del"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1943: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1898: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/51384",
+      "https://en.wikipedia.org/wiki/Henrik_Pontoppidan",
+      "https://www.wikidata.org/wiki/Q3462550"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Henrik Pontoppidan died in 1943 and the work was first published in 1898. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "51384",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:23:00.082830Z",
+    "revision": "Sun, 20 Sep 2026 17:00:56 GMT",
+    "url": "https://www.gutenberg.org/ebooks/51384"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1857,
+      "deathYear": 1943,
+      "name": "Henrik Pontoppidan",
+      "wikidata": "Q225554"
+    },
+    "originalLanguage": "da",
+    "originalPublicationYear": 1898,
+    "originalTitle": "Lykke-Per. Første Del",
+    "workId": "pontoppidan-lykke-per-forste-del"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:04:31.404196Z",
+    "chapterCount": 15,
+    "contentSha256": "bfb47fffa17d2f76a5708b9e4625308914573e20e2bd8dfcfe441a7d33d1bb31",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt/almeida-contos.pt.gutenberg/v1/book.json.gz",
+    "sha256": "2534b57313c3d31bfdd4899df22a653d6cdfc6446cd4d87125c1594250803718",
+    "sizeBytes": 193975,
+    "uncompressedSizeBytes": 494305,
+    "wordCount": 75971
+  },
+  "edition": {
+    "editionId": "almeida-contos.pt.gutenberg",
+    "editionPublicationYear": 1881,
+    "kind": "original",
+    "language": "pt",
+    "title": "Contos"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1911: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1881 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/70819",
+      "https://pt.wikipedia.org/wiki/Fialho_de_Almeida",
+      "https://en.wikipedia.org/wiki/Fialho_de_Almeida"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Fialho de Almeida died in 1911 and the edition digitised by Project Gutenberg was printed in 1881. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "70819",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:45:57.219329Z",
+    "revision": "Fri, 28 Aug 2026 10:14:01 GMT",
+    "url": "https://www.gutenberg.org/ebooks/70819"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1857,
+      "deathYear": 1911,
+      "name": "Fialho de Almeida",
+      "wikidata": "Q977731"
+    },
+    "originalLanguage": "pt",
+    "originalTitle": "Contos",
+    "workId": "almeida-contos"
+  }
+}

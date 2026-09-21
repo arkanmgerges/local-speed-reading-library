@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:02:38.229904Z",
+    "chapterCount": 19,
+    "contentSha256": "aec1cba6934f4e8d8fa17cbb0ea8501d144ac39a2971dea2c540d55ddf6b7054",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/winkler-studien-in-nederlandsche-namenkunde.nl.gutenberg/v1/book.json.gz",
+    "sha256": "84368f604cee25d70f2c74932d0ba5a68abf38634c27ffc46687af3352c72a5c",
+    "sizeBytes": 245183,
+    "uncompressedSizeBytes": 735878,
+    "wordCount": 103482
+  },
+  "edition": {
+    "editionId": "winkler-studien-in-nederlandsche-namenkunde.nl.gutenberg",
+    "editionPublicationYear": 1900,
+    "kind": "original",
+    "language": "nl",
+    "title": "Studiën in Nederlandsche Namenkunde"
+  },
+  "genres": [
+    "History",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1916: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1900 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/71689",
+      "https://nl.wikipedia.org/wiki/Johan_Winkler_(dialectoloog)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Johan Winkler died in 1916 and the edition digitised by Project Gutenberg was printed in 1900. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "71689",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:11:34.300829Z",
+    "revision": "Fri, 28 Aug 2026 14:10:49 GMT",
+    "url": "https://www.gutenberg.org/ebooks/71689"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1840,
+      "deathYear": 1916,
+      "name": "Johan Winkler",
+      "wikidata": "Q2491266"
+    },
+    "originalLanguage": "nl",
+    "originalTitle": "Studiën in Nederlandsche Namenkunde",
+    "workId": "winkler-studien-in-nederlandsche-namenkunde"
+  }
+}

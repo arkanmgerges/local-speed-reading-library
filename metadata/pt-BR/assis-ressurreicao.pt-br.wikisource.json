@@ -1,0 +1,177 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:33:10.628787Z",
+    "chapterCount": 26,
+    "contentSha256": "deda5a6656848b1826f05a73642a450cfa3cebdf17db2ec1854dcad47cc3bcd8",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt-br/assis-ressurreicao.pt-br.wikisource/v1/book.json.gz",
+    "sha256": "4989b8770db3fb2969142653b23b5c5f511fcc0a2de4b84817b70d7196c73e86",
+    "sizeBytes": 84398,
+    "uncompressedSizeBytes": 239107,
+    "wordCount": 36771
+  },
+  "edition": {
+    "editionId": "assis-ressurreicao.pt-br.wikisource",
+    "kind": "original",
+    "language": "pt-BR",
+    "title": "Ressurreição"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1908: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1872: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q7316030",
+      "https://www.wikidata.org/wiki/Q311145",
+      "https://pt.wikisource.org/wiki/Ressurrei%C3%A7%C3%A3o_(Machado_de_Assis)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1872. Source: pt.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Ressurreição (Machado de Assis)",
+    "pages": [
+      {
+        "revision": 456890,
+        "title": "Ressurreição (Machado de Assis)"
+      },
+      {
+        "revision": 248527,
+        "title": "Ressurreição (Machado de Assis)/Advertência da nova edição"
+      },
+      {
+        "revision": 298126,
+        "title": "Ressurreição (Machado de Assis)/Advertência da primeira edição"
+      },
+      {
+        "revision": 298313,
+        "title": "Ressurreição (Machado de Assis)/I"
+      },
+      {
+        "revision": 298314,
+        "title": "Ressurreição (Machado de Assis)/II"
+      },
+      {
+        "revision": 298315,
+        "title": "Ressurreição (Machado de Assis)/III"
+      },
+      {
+        "revision": 298317,
+        "title": "Ressurreição (Machado de Assis)/IV"
+      },
+      {
+        "revision": 298319,
+        "title": "Ressurreição (Machado de Assis)/V"
+      },
+      {
+        "revision": 298320,
+        "title": "Ressurreição (Machado de Assis)/VI"
+      },
+      {
+        "revision": 298322,
+        "title": "Ressurreição (Machado de Assis)/VII"
+      },
+      {
+        "revision": 298323,
+        "title": "Ressurreição (Machado de Assis)/VIII"
+      },
+      {
+        "revision": 298318,
+        "title": "Ressurreição (Machado de Assis)/IX"
+      },
+      {
+        "revision": 298324,
+        "title": "Ressurreição (Machado de Assis)/X"
+      },
+      {
+        "revision": 298326,
+        "title": "Ressurreição (Machado de Assis)/XI"
+      },
+      {
+        "revision": 298327,
+        "title": "Ressurreição (Machado de Assis)/XII"
+      },
+      {
+        "revision": 298328,
+        "title": "Ressurreição (Machado de Assis)/XIII"
+      },
+      {
+        "revision": 298329,
+        "title": "Ressurreição (Machado de Assis)/XIV"
+      },
+      {
+        "revision": 298332,
+        "title": "Ressurreição (Machado de Assis)/XV"
+      },
+      {
+        "revision": 298333,
+        "title": "Ressurreição (Machado de Assis)/XVI"
+      },
+      {
+        "revision": 298334,
+        "title": "Ressurreição (Machado de Assis)/XVII"
+      },
+      {
+        "revision": 298335,
+        "title": "Ressurreição (Machado de Assis)/XVIII"
+      },
+      {
+        "revision": 298330,
+        "title": "Ressurreição (Machado de Assis)/XIX"
+      },
+      {
+        "revision": 298336,
+        "title": "Ressurreição (Machado de Assis)/XX"
+      },
+      {
+        "revision": 298338,
+        "title": "Ressurreição (Machado de Assis)/XXI"
+      },
+      {
+        "revision": 298341,
+        "title": "Ressurreição (Machado de Assis)/XXII"
+      },
+      {
+        "revision": 298342,
+        "title": "Ressurreição (Machado de Assis)/XXIII"
+      },
+      {
+        "revision": 298343,
+        "title": "Ressurreição (Machado de Assis)/XXIV"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:42:34.905022Z",
+    "revision": "456890",
+    "site": "pt.wikisource.org",
+    "url": "https://pt.wikisource.org/wiki/Ressurrei%C3%A7%C3%A3o_(Machado_de_Assis)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1839,
+      "deathYear": 1908,
+      "name": "Machado de Assis",
+      "wikidata": "Q311145"
+    },
+    "originalLanguage": "pt-BR",
+    "originalPublicationYear": 1872,
+    "originalTitle": "Ressurreição",
+    "workId": "assis-ressurreicao"
+  }
+}

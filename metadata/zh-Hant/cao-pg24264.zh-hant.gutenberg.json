@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:37:12.467789Z",
+    "chapterCount": 1,
+    "contentSha256": "7532abdab52d356611d2a0a59d4b8dcbcd584a370e6d41dc3ac9f5b1302eea14",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/cao-pg24264.zh-hant.gutenberg/v1/book.json.gz",
+    "sha256": "15b49ef4995aa5d1797b92713e6f9169a5f018ab9c362c613b144783d9e54f2b",
+    "sizeBytes": 1014315,
+    "uncompressedSizeBytes": 2339178,
+    "wordCount": 30625
+  },
+  "edition": {
+    "editionId": "cao-pg24264.zh-hant.gutenberg",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "紅樓夢"
+  },
+  "genres": [
+    "Fiction",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1763: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1792: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/24264",
+      "https://en.wikipedia.org/wiki/Cao_Xueqin",
+      "https://www.wikidata.org/wiki/Q8265"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Xueqin Cao died in 1763 and the work was first published in 1792. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "24264",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T05:28:12.496796Z",
+    "revision": "Thu, 10 Sep 2026 10:32:11 GMT",
+    "url": "https://www.gutenberg.org/ebooks/24264"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1715,
+      "deathYear": 1763,
+      "name": "Xueqin Cao",
+      "wikidata": "Q182874"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": 1792,
+    "originalTitle": "紅樓夢",
+    "workId": "cao-pg24264"
+  }
+}

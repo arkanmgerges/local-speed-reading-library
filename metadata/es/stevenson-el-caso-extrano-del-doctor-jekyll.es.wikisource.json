@@ -1,0 +1,123 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:55:34.836218Z",
+    "chapterCount": 10,
+    "contentSha256": "8df7fb3d715d0d23b335118fe49696d59aa9a93aaeedd1fb5b8487bd139580da",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/stevenson-el-caso-extrano-del-doctor-jekyll.es.wikisource/v1/book.json.gz",
+    "sha256": "5a868ca6c6ce2ba6125bd1be2713b6bffcf9cc877ee72a97dddc2e73aff4aa2e",
+    "sizeBytes": 59956,
+    "uncompressedSizeBytes": 165061,
+    "wordCount": 25634
+  },
+  "edition": {
+    "editionId": "stevenson-el-caso-extrano-del-doctor-jekyll.es.wikisource",
+    "kind": "translation",
+    "language": "es",
+    "title": "El caso extraño del doctor Jekyll",
+    "translationPublicationYear": 1891,
+    "translator": {
+      "birthYear": 1840,
+      "deathYear": 1915,
+      "name": "Emilio Soulère",
+      "wikidata": "Q53881113"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1894: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1915: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1891: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q217352",
+      "https://www.wikidata.org/wiki/Q19435734",
+      "https://www.wikidata.org/wiki/Q1512",
+      "https://www.wikidata.org/wiki/Q53881113",
+      "https://es.wikisource.org/wiki/El_caso_extra%C3%B1o_del_doctor_Jekyll"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Robert Louis Stevenson died in 1894; the translator Emilio Soulère died in 1915 and this translation was first published in 1891. Source: es.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "El caso extraño del doctor Jekyll",
+    "pages": [
+      {
+        "revision": 1002757,
+        "title": "El caso extraño del doctor Jekyll"
+      },
+      {
+        "revision": 1426393,
+        "title": "El caso extraño del doctor Jekyll/I"
+      },
+      {
+        "revision": 837607,
+        "title": "El caso extraño del doctor Jekyll/II"
+      },
+      {
+        "revision": 837605,
+        "title": "El caso extraño del doctor Jekyll/III"
+      },
+      {
+        "revision": 837608,
+        "title": "El caso extraño del doctor Jekyll/IV"
+      },
+      {
+        "revision": 837609,
+        "title": "El caso extraño del doctor Jekyll/V"
+      },
+      {
+        "revision": 837610,
+        "title": "El caso extraño del doctor Jekyll/VI"
+      },
+      {
+        "revision": 837611,
+        "title": "El caso extraño del doctor Jekyll/VII"
+      },
+      {
+        "revision": 837612,
+        "title": "El caso extraño del doctor Jekyll/VIII"
+      },
+      {
+        "revision": 837661,
+        "title": "El caso extraño del doctor Jekyll/IX"
+      },
+      {
+        "revision": 837710,
+        "title": "El caso extraño del doctor Jekyll/X"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:46:46.610528Z",
+    "revision": "1002757",
+    "site": "es.wikisource.org",
+    "url": "https://es.wikisource.org/wiki/El_caso_extra%C3%B1o_del_doctor_Jekyll"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1850,
+      "deathYear": 1894,
+      "name": "Robert Louis Stevenson",
+      "wikidata": "Q1512"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1886,
+    "originalTitle": "El caso extraño del doctor Jekyll",
+    "workId": "stevenson-el-caso-extrano-del-doctor-jekyll"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:23:14.970890Z",
+    "chapterCount": 24,
+    "contentSha256": "89ea13753d5d52f50494ae3274e3dded5ed865c14e5058ae90a9ee8db28f1b99",
+    "normalizerVersion": "0.2.0",
+    "path": "books/el/karkavitsas-pg31865.el.gutenberg/v1/book.json.gz",
+    "sha256": "47d102efbf13230f75ba1cb9919818ee0d09e3697bddd938e5593a218bbff940",
+    "sizeBytes": 185252,
+    "uncompressedSizeBytes": 669724,
+    "wordCount": 59549
+  },
+  "edition": {
+    "editionId": "karkavitsas-pg31865.el.gutenberg",
+    "kind": "original",
+    "language": "el",
+    "title": "Λόγια της Πλώρης: Θαλασσινά Διηγήματα"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1922: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1899: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/31865",
+      "https://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%B4%CF%81%CE%AD%CE%B1%CF%82_%CE%9A%CE%B1%CF%81%CE%BA%CE%B1%CE%B2%CE%AF%CF%84%CF%83%CE%B1%CF%82",
+      "https://www.wikidata.org/wiki/Q52554812"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Andreas Karkavitsas died in 1922 and the work was first published in 1899. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "31865",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:27:48.115093Z",
+    "revision": "Sun, 13 Sep 2026 10:17:12 GMT",
+    "url": "https://www.gutenberg.org/ebooks/31865"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1866,
+      "deathYear": 1922,
+      "name": "Andreas Karkavitsas",
+      "wikidata": "Q3564833"
+    },
+    "originalLanguage": "el",
+    "originalPublicationYear": 1899,
+    "originalTitle": "Λόγια της Πλώρης: Θαλασσινά Διηγήματα",
+    "workId": "karkavitsas-pg31865"
+  }
+}

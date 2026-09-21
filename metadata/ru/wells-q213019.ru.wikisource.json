@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:53.455785Z",
+    "chapterCount": 27,
+    "contentSha256": "3582d95dd82af2e8d689bd3ec671ae52bb6aee86b4065a2e2478a8c8809baf0a",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ru/wells-q213019.ru.wikisource/v1/book.json.gz",
+    "sha256": "1b1e6de34d474f04391a7f81d4e8f94b6aadb76c74b9d34985a6dce4b4b97e55",
+    "sizeBytes": 157870,
+    "uncompressedSizeBytes": 573787,
+    "wordCount": 45412
+  },
+  "edition": {
+    "editionId": "wells-q213019.ru.wikisource",
+    "kind": "translation",
+    "language": "ru",
+    "title": "Борьба миров (Уэллс; Журавская)/1898 (ДО)",
+    "translationPublicationYear": 1898,
+    "translator": {
+      "birthYear": 1867,
+      "deathYear": 1937,
+      "name": "Зинаида Николаевна Журавская",
+      "wikidata": "Q106961563"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1937: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1898: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q213019",
+      "https://www.wikidata.org/wiki/Q114267039",
+      "https://www.wikidata.org/wiki/Q42511",
+      "https://www.wikidata.org/wiki/Q106961563",
+      "https://ru.wikisource.org/wiki/%D0%91%D0%BE%D1%80%D1%8C%D0%B1%D0%B0_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2_(%D0%A3%D1%8D%D0%BB%D0%BB%D1%81%3B_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)%2F1898_(%D0%94%D0%9E)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Герберт Уэллс died in 1946; the translator Зинаида Николаевна Журавская died in 1937 and this translation was first published in 1898. Source: ru.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Борьба миров (Уэллс; Журавская)/1898 (ДО)",
+    "pages": [
+      {
+        "revision": 5504040,
+        "title": "Борьба миров (Уэллс; Журавская)/1898 (ДО)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:55:23.412416Z",
+    "revision": "5504040",
+    "site": "ru.wikisource.org",
+    "url": "https://ru.wikisource.org/wiki/%D0%91%D0%BE%D1%80%D1%8C%D0%B1%D0%B0_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2_(%D0%A3%D1%8D%D0%BB%D0%BB%D1%81%3B_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/1898_(%D0%94%D0%9E)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1866,
+      "deathYear": 1946,
+      "name": "Герберт Уэллс",
+      "wikidata": "Q42511"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1897,
+    "originalTitle": "Борьба миров (Уэллс; Журавская)/1898 (ДО)",
+    "workId": "wells-q213019"
+  }
+}

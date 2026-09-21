@@ -1,0 +1,229 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:23:25.333605Z",
+    "chapterCount": 54,
+    "contentSha256": "d27747cecaed14692c4abe45aa3c0ab38dfcad05e9d4ea7bb1b0917097fc4378",
+    "normalizerVersion": "0.2.0",
+    "path": "books/el/makriyannis-q41793796.el.wikisource/v1/book.json.gz",
+    "sha256": "136225b88756728bce3b835bd533a58c1fcb7ebd348d05e70e2c7852a8d32be7",
+    "sizeBytes": 754124,
+    "uncompressedSizeBytes": 3135416,
+    "wordCount": 289705
+  },
+  "edition": {
+    "editionId": "makriyannis-q41793796.el.wikisource",
+    "kind": "original",
+    "language": "el",
+    "title": "Απομνημονεύματα Στρατηγού Ιωάννη Μακρυγιάννη"
+  },
+  "genres": [
+    "Biography"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1864: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1907: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q41793796",
+      "https://www.wikidata.org/wiki/Q2658023",
+      "https://el.wikisource.org/wiki/%CE%91%CF%80%CE%BF%CE%BC%CE%BD%CE%B7%CE%BC%CE%BF%CE%BD%CE%B5%CF%8D%CE%BC%CE%B1%CF%84%CE%B1_%CE%9C%CE%B1%CE%BA%CF%81%CF%85%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ιωάννης Μακρυγιάννης died in 1864 and the work was first published in 1907. Source: el.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Απομνημονεύματα Μακρυγιάννη",
+    "pages": [
+      {
+        "revision": 137527,
+        "title": "Απομνημονεύματα Μακρυγιάννη"
+      },
+      {
+        "revision": 44366,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Πρόλογος"
+      },
+      {
+        "revision": 42316,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Εισαγωγή"
+      },
+      {
+        "revision": 34497,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Α1"
+      },
+      {
+        "revision": 58429,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Α2"
+      },
+      {
+        "revision": 58430,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Α3"
+      },
+      {
+        "revision": 89236,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Α4"
+      },
+      {
+        "revision": 58432,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Α5"
+      },
+      {
+        "revision": 34502,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Α6"
+      },
+      {
+        "revision": 58433,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Α7"
+      },
+      {
+        "revision": 58434,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Α8"
+      },
+      {
+        "revision": 58435,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Α9"
+      },
+      {
+        "revision": 58436,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Α10"
+      },
+      {
+        "revision": 58437,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Β1"
+      },
+      {
+        "revision": 34508,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Β2"
+      },
+      {
+        "revision": 34509,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Β3"
+      },
+      {
+        "revision": 58438,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Γ1"
+      },
+      {
+        "revision": 36598,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Γ2"
+      },
+      {
+        "revision": 58439,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Γ3"
+      },
+      {
+        "revision": 58440,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Γ4"
+      },
+      {
+        "revision": 58441,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Γ5"
+      },
+      {
+        "revision": 58442,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Γ6"
+      },
+      {
+        "revision": 96818,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Γ7"
+      },
+      {
+        "revision": 58443,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Δ1"
+      },
+      {
+        "revision": 58444,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Δ2"
+      },
+      {
+        "revision": 58445,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Δ3"
+      },
+      {
+        "revision": 58446,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Δ4"
+      },
+      {
+        "revision": 58447,
+        "title": "Απομνημονεύματα Μακρυγιάννη/Επίλογος"
+      },
+      {
+        "revision": 45226,
+        "title": "Απομνημονεύματα Μακρυγιάννη/1"
+      },
+      {
+        "revision": 89235,
+        "title": "Απομνημονεύματα Μακρυγιάννη/2"
+      },
+      {
+        "revision": 45228,
+        "title": "Απομνημονεύματα Μακρυγιάννη/3"
+      },
+      {
+        "revision": 45229,
+        "title": "Απομνημονεύματα Μακρυγιάννη/4"
+      },
+      {
+        "revision": 45230,
+        "title": "Απομνημονεύματα Μακρυγιάννη/5"
+      },
+      {
+        "revision": 45231,
+        "title": "Απομνημονεύματα Μακρυγιάννη/6"
+      },
+      {
+        "revision": 45232,
+        "title": "Απομνημονεύματα Μακρυγιάννη/7"
+      },
+      {
+        "revision": 45233,
+        "title": "Απομνημονεύματα Μακρυγιάννη/8"
+      },
+      {
+        "revision": 45234,
+        "title": "Απομνημονεύματα Μακρυγιάννη/9"
+      },
+      {
+        "revision": 96817,
+        "title": "Απομνημονεύματα Μακρυγιάννη/10"
+      },
+      {
+        "revision": 45236,
+        "title": "Απομνημονεύματα Μακρυγιάννη/11"
+      },
+      {
+        "revision": 45237,
+        "title": "Απομνημονεύματα Μακρυγιάννη/12"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:29:26.074794Z",
+    "revision": "137527",
+    "site": "el.wikisource.org",
+    "url": "https://el.wikisource.org/wiki/%CE%91%CF%80%CE%BF%CE%BC%CE%BD%CE%B7%CE%BC%CE%BF%CE%BD%CE%B5%CF%8D%CE%BC%CE%B1%CF%84%CE%B1_%CE%9C%CE%B1%CE%BA%CF%81%CF%85%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1797,
+      "deathYear": 1864,
+      "name": "Ιωάννης Μακρυγιάννης",
+      "wikidata": "Q2658023"
+    },
+    "originalLanguage": "el",
+    "originalPublicationYear": 1907,
+    "originalTitle": "Απομνημονεύματα Στρατηγού Ιωάννη Μακρυγιάννη",
+    "workId": "makriyannis-q41793796"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:59:05.825505Z",
+    "chapterCount": 32,
+    "contentSha256": "4a697e0247079333068f277878560c269d0324731ccbf98065a44e7d26aa8353",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hu/tomorkeny-szegedi-parasztok-es-egyeb-urak.hu.gutenberg/v1/book.json.gz",
+    "sha256": "702fe1a08973730c1f9a7ed39c0d05c1bc64e0cbbbdcc48427e67d4707099a87",
+    "sizeBytes": 107899,
+    "uncompressedSizeBytes": 282136,
+    "wordCount": 38050
+  },
+  "edition": {
+    "editionId": "tomorkeny-szegedi-parasztok-es-egyeb-urak.hu.gutenberg",
+    "editionPublicationYear": 1893,
+    "kind": "original",
+    "language": "hu",
+    "title": "Szegedi parasztok és egyéb urak"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1917: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1893 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/77654",
+      "https://hu.wikipedia.org/wiki/T%C3%B6m%C3%B6rk%C3%A9ny_Istv%C3%A1n"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. István Tömörkény died in 1917 and the edition digitised by Project Gutenberg was printed in 1893. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "77654",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:36:31.243698Z",
+    "revision": "Sun, 30 Aug 2026 21:35:13 GMT",
+    "url": "https://www.gutenberg.org/ebooks/77654"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1866,
+      "deathYear": 1917,
+      "name": "István Tömörkény",
+      "wikidata": "Q1327725"
+    },
+    "originalLanguage": "hu",
+    "originalTitle": "Szegedi parasztok és egyéb urak",
+    "workId": "tomorkeny-szegedi-parasztok-es-egyeb-urak"
+  }
+}

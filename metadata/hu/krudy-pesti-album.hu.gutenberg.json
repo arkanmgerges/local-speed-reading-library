@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:58:52.828951Z",
+    "chapterCount": 24,
+    "contentSha256": "9e7117ae98937492bfa161ddcb5c8fc2cd322ee5f255b0d9e7c40af87f243a10",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hu/krudy-pesti-album.hu.gutenberg/v1/book.json.gz",
+    "sha256": "5a1eb62a165f26e788b2cfe5012f180cfdfc4961ee4aa13a2df45594b48c3ea2",
+    "sizeBytes": 85680,
+    "uncompressedSizeBytes": 212052,
+    "wordCount": 25921
+  },
+  "edition": {
+    "editionId": "krudy-pesti-album.hu.gutenberg",
+    "editionPublicationYear": 1919,
+    "kind": "original",
+    "language": "hu",
+    "title": "Pesti album: Krúdy Gyula feljegyzései és elbeszélései"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1933: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1919 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/68945",
+      "https://en.wikipedia.org/wiki/Gyula_Kr%C3%BAdy",
+      "https://hu.wikipedia.org/wiki/Kr%C3%BAdy_Gyula"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Gyula Krúdy died in 1933 and the edition digitised by Project Gutenberg was printed in 1919. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "68945",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:35:56.846804Z",
+    "revision": "Thu, 27 Aug 2026 13:07:41 GMT",
+    "url": "https://www.gutenberg.org/ebooks/68945"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1878,
+      "deathYear": 1933,
+      "name": "Gyula Krúdy",
+      "wikidata": "Q527239"
+    },
+    "originalLanguage": "hu",
+    "originalTitle": "Pesti album: Krúdy Gyula feljegyzései és elbeszélései",
+    "workId": "krudy-pesti-album"
+  }
+}

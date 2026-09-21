@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:27.668528Z",
+    "chapterCount": 23,
+    "contentSha256": "5b6c9b3889925fe4d95f5ba5980c5ab8d199172c01c647698d331161ee361d7b",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/almqvist-i-tolfte-timmen.sv.gutenberg/v1/book.json.gz",
+    "sha256": "23887a70195c22f8bd206bc5d7214c8cb30c846ddaa298e0c42606bb60fc6226",
+    "sizeBytes": 63591,
+    "uncompressedSizeBytes": 177174,
+    "wordCount": 29334
+  },
+  "edition": {
+    "editionId": "almqvist-i-tolfte-timmen.sv.gutenberg",
+    "editionPublicationYear": 1928,
+    "kind": "original",
+    "language": "sv",
+    "title": "I tolfte timmen : $b En gammal, dåraktig kvinnas bekännelser"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1954: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1928 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/77571",
+      "https://en.wikipedia.org/wiki/Gertrud_Almqvist"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Gertrud Almqvist died in 1954 and the edition digitised by Project Gutenberg was printed in 1928. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "77571",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:58:26.828903Z",
+    "revision": "Sun, 30 Aug 2026 21:10:28 GMT",
+    "url": "https://www.gutenberg.org/ebooks/77571"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1875,
+      "deathYear": 1954,
+      "name": "Gertrud Almqvist",
+      "wikidata": "Q121775"
+    },
+    "originalLanguage": "sv",
+    "originalTitle": "I tolfte timmen : $b En gammal, dåraktig kvinnas bekännelser",
+    "workId": "almqvist-i-tolfte-timmen"
+  }
+}

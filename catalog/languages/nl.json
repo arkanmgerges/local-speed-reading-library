@@ -1,0 +1,876 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 17,
+        "contentSha256": "215ca87615eed57488c8993761d0384eb3c5e44be3dc285cabce4c3a01610523",
+        "encoding": "gzip",
+        "path": "books/nl/bavinck-gereformeerde-dogmatiek-tweede-deel.nl.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "992526b06a6b45e14fd1ba0c7af19e605bd55811a6ab5a3dd47bc19cdebab6ad",
+        "sizeBytes": 501849,
+        "uncompressedSizeBytes": 1405660,
+        "wordCount": 229669
+      },
+      "author": "Herman Bavinck",
+      "authorDeathYear": 1921,
+      "editionId": "bavinck-gereformeerde-dogmatiek-tweede-deel.nl.gutenberg",
+      "editionPublicationYear": 1897,
+      "genres": [
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": null,
+      "originalTitle": "Gereformeerde dogmatiek. Tweede deel.",
+      "rights": {
+        "statement": "Public domain worldwide. Herman Bavinck died in 1921 and the edition digitised by Project Gutenberg was printed in 1897. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "67966",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:05:46.451514Z",
+        "revision": "Thu, 27 Aug 2026 08:59:17 GMT",
+        "url": "https://www.gutenberg.org/ebooks/67966"
+      },
+      "title": "Gereformeerde dogmatiek. Tweede deel.",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bavinck-gereformeerde-dogmatiek-tweede-deel"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 25,
+        "contentSha256": "0321bf59ca60fb33b2da4d5cc541fd9813b22294156af7af4d0a7fa9da4ba192",
+        "encoding": "gzip",
+        "path": "books/nl/boschma-blank-en-bruin.nl.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ead150d7830805185d783d43ef3c7fc37c9ddd333a3ee9ebe310d7505f541c88",
+        "sizeBytes": 100460,
+        "uncompressedSizeBytes": 281028,
+        "wordCount": 43626
+      },
+      "author": "Hilbrandt Boschma",
+      "authorDeathYear": 1954,
+      "editionId": "boschma-blank-en-bruin.nl.gutenberg",
+      "editionPublicationYear": 1912,
+      "genres": [
+        "Fiction",
+        "Children"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": null,
+      "originalTitle": "Blank en Bruin",
+      "rights": {
+        "statement": "Public domain worldwide. Hilbrandt Boschma died in 1954 and the edition digitised by Project Gutenberg was printed in 1912. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "76853",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:06:58.740201Z",
+        "revision": "Sun, 30 Aug 2026 17:57:19 GMT",
+        "url": "https://www.gutenberg.org/ebooks/76853"
+      },
+      "title": "Blank en Bruin",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "boschma-blank-en-bruin"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 53,
+        "contentSha256": "d0ee96a220879c3c277203dd3dc0dabd413ef286e41863acc321f7e7371f52d4",
+        "encoding": "gzip",
+        "path": "books/nl/conscience-de-leeuw-van-vlaanderen-of-de-slag.nl.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b569d22c8ee91b0a37e6d296a280037971b35bb552c2465e718c473bee711d51",
+        "sizeBytes": 292715,
+        "uncompressedSizeBytes": 839360,
+        "wordCount": 133660
+      },
+      "author": "Hendrik Conscience",
+      "authorDeathYear": 1883,
+      "editionId": "conscience-de-leeuw-van-vlaanderen-of-de-slag.nl.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": 1838,
+      "originalTitle": "De Leeuw van Vlaanderen Of de Slag der Gulden Sporen",
+      "rights": {
+        "statement": "Public domain worldwide. Hendrik Conscience died in 1883 and the work was first published in 1838. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "15682",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:07:07.728040Z",
+        "revision": "Mon, 07 Sep 2026 07:49:29 GMT",
+        "url": "https://www.gutenberg.org/ebooks/15682"
+      },
+      "title": "De Leeuw van Vlaanderen Of de Slag der Gulden Sporen",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "conscience-de-leeuw-van-vlaanderen-of-de-slag"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 27,
+        "contentSha256": "2f34b3bdd1239ed9f9d2ba48a4571fc9c13178e295c716696cb132f2a9f1a865",
+        "encoding": "gzip",
+        "path": "books/nl/couperus-psyche.nl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "25ce30efbb5883a99c94b59d3f589e2db74a26490061e214387210e27239284b",
+        "sizeBytes": 69488,
+        "uncompressedSizeBytes": 206208,
+        "wordCount": 32803
+      },
+      "author": "Louis Couperus",
+      "authorDeathYear": 1923,
+      "editionId": "couperus-psyche.nl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": 1898,
+      "originalTitle": "Psyche",
+      "rights": {
+        "statement": "Public domain worldwide. Louis Couperus died in 1923 and the work was first published in 1898. Source: nl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Psyche",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:07:45.560186Z",
+        "revision": "173182",
+        "url": "https://nl.wikisource.org/wiki/Psyche"
+      },
+      "title": "Psyche",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "couperus-psyche"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 32,
+        "contentSha256": "be57ce595bfcc1dc3fbf42b30a1cb6a5351cc15a5167311982130daccc79a591",
+        "encoding": "gzip",
+        "path": "books/nl/darwin-het-ontstaan-der-soorten.nl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "784c1eb224d560c71f8ed6c917392cd2bc61d1084fee806df70c2ca469d6c866",
+        "sizeBytes": 325608,
+        "uncompressedSizeBytes": 1059421,
+        "wordCount": 161278
+      },
+      "author": "Charles Darwin",
+      "authorDeathYear": 1882,
+      "editionId": "darwin-het-ontstaan-der-soorten.nl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "nl",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1859,
+      "originalTitle": "Het ontstaan der soorten",
+      "rights": {
+        "statement": "Public domain worldwide. Charles Darwin died in 1882; the translator Tiberius Cornelis Winkler died in 1897 and this translation was first published in 1860. Source: nl.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Darwin - Het ontstaan der soorten (1860)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:08:22.192348Z",
+        "revision": "147824",
+        "url": "https://nl.wikisource.org/wiki/Darwin_-_Het_ontstaan_der_soorten_(1860)"
+      },
+      "title": "Het ontstaan der soorten",
+      "translationPublicationYear": 1860,
+      "translator": "Tiberius Cornelis Winkler",
+      "translatorDeathYear": 1897,
+      "workId": "darwin-het-ontstaan-der-soorten"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 41,
+        "contentSha256": "3dac46ed4cf3918b93c02589d3c9a3a8cc4c09249735367c1fad82b38b76b830",
+        "encoding": "gzip",
+        "path": "books/nl/darwin-the-descent-of-man-and-selection-in.nl.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1ba968ab020ff9aa8215bfe8e3ce51a719fde0492687450e2a3a7fb6fbdb5e2e",
+        "sizeBytes": 490157,
+        "uncompressedSizeBytes": 1471328,
+        "wordCount": 221093
+      },
+      "author": "Charles Darwin",
+      "authorDeathYear": 1882,
+      "editionId": "darwin-the-descent-of-man-and-selection-in.nl.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Science",
+        "Non-fiction"
+      ],
+      "kind": "translation",
+      "language": "nl",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1871,
+      "originalTitle": "The Descent of Man, and Selection in Relation to Sex",
+      "rights": {
+        "statement": "Public domain worldwide. Charles Darwin died in 1882; the translator H. Hartogh Heys van Zouteveen died in 1891 and this translation was printed in 1872. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "69013",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:08:29.324769Z",
+        "revision": "Thu, 27 Aug 2026 13:23:09 GMT",
+        "url": "https://www.gutenberg.org/ebooks/69013"
+      },
+      "title": "De afstamming van den mensch en de seksueele teeltkeus, deel 1 (van 2)",
+      "translationPublicationYear": 1872,
+      "translator": "H. Hartogh Heys van Zouteveen",
+      "translatorDeathYear": 1891,
+      "workId": "darwin-the-descent-of-man-and-selection-in"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "514a2dc6f923238d1ee2820d2db70a475e26e77ca25dbd9c7c793aca6211de7d",
+        "encoding": "gzip",
+        "path": "books/nl/eeden-grassprietjes-van-cornelis-paradijs.nl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1077167d0ae37b7653341ad9cd840560ae7e6642c0dcea034da75d8e915579a2",
+        "sizeBytes": 18845,
+        "uncompressedSizeBytes": 45320,
+        "wordCount": 6679
+      },
+      "author": "Frederik van Eeden",
+      "authorDeathYear": 1932,
+      "editionId": "eeden-grassprietjes-van-cornelis-paradijs.nl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": 1885,
+      "originalTitle": "Grassprietjes van Cornelis Paradijs",
+      "rights": {
+        "statement": "Public domain worldwide. Frederik van Eeden died in 1932 and the work was first published in 1885. Source: nl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Cornelis Paradijs/Grassprietjes",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:08:43.212085Z",
+        "revision": "170161",
+        "url": "https://nl.wikisource.org/wiki/Cornelis_Paradijs/Grassprietjes"
+      },
+      "title": "Grassprietjes van Cornelis Paradijs",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "eeden-grassprietjes-van-cornelis-paradijs"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 8,
+        "contentSha256": "df803493f1bc1e5d0b9e35284b9ea2592fb975f81a6ba7561b600286567bdb54",
+        "encoding": "gzip",
+        "path": "books/nl/gorter-een-klein-heldendicht.nl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9480dd798fb4a5cf594c427aadf70b3ec9e5e9fcc834d38dda7f4ffc6964171a",
+        "sizeBytes": 27591,
+        "uncompressedSizeBytes": 75141,
+        "wordCount": 12495
+      },
+      "author": "Herman Gorter",
+      "authorDeathYear": 1927,
+      "editionId": "gorter-een-klein-heldendicht.nl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": 1906,
+      "originalTitle": "Een klein heldendicht",
+      "rights": {
+        "statement": "Public domain worldwide. Herman Gorter died in 1927 and the work was first published in 1906. Source: nl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Een klein heldendicht",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:08:55.433278Z",
+        "revision": "168237",
+        "url": "https://nl.wikisource.org/wiki/Een_klein_heldendicht"
+      },
+      "title": "Een klein heldendicht",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "gorter-een-klein-heldendicht"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "418d73209380f1067364b369f1acc8013a978d7971f70063d640aa20b104d99b",
+        "encoding": "gzip",
+        "path": "books/nl/gorter-mei.nl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "fb4a9271ec2a030236ac4484dad43dfabfdd9013e36c312d69aeeef1df6851e2",
+        "sizeBytes": 24171,
+        "uncompressedSizeBytes": 57407,
+        "wordCount": 9963
+      },
+      "author": "Herman Gorter",
+      "authorDeathYear": 1927,
+      "editionId": "gorter-mei.nl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": 1889,
+      "originalTitle": "Mei",
+      "rights": {
+        "statement": "Public domain worldwide. Herman Gorter died in 1927 and the work was first published in 1889. Source: nl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Gorter/Mei/Boek I",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:08:57.194915Z",
+        "revision": "61682",
+        "url": "https://nl.wikisource.org/wiki/Gorter/Mei/Boek_I"
+      },
+      "title": "Mei",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "gorter-mei"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 24,
+        "contentSha256": "05a44ab00ebe898558c3c126452831b0081f222ec7de5e16ee6aae188a3c9176",
+        "encoding": "gzip",
+        "path": "books/nl/grimm-sprookjes-uit-de-nalatenschap-van-moeder-de.nl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "072a47aee586fd5c4bcfe7c387fe30d9bf0c7dbea80995921a63f70b9f89816b",
+        "sizeBytes": 133163,
+        "uncompressedSizeBytes": 399342,
+        "wordCount": 68698
+      },
+      "author": "Jacob Grimm",
+      "authorDeathYear": 1863,
+      "editionId": "grimm-sprookjes-uit-de-nalatenschap-van-moeder-de.nl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": 1870,
+      "originalTitle": "Sprookjes uit de nalatenschap van Moeder de Gans",
+      "rights": {
+        "statement": "Public domain worldwide. Jacob Grimm died in 1863 and the work was first published in 1870. Source: nl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Sprookjes uit de nalatenschap van Moeder de Gans",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:09:26.515190Z",
+        "revision": "168915",
+        "url": "https://nl.wikisource.org/wiki/Sprookjes_uit_de_nalatenschap_van_Moeder_de_Gans"
+      },
+      "title": "Sprookjes uit de nalatenschap van Moeder de Gans",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "grimm-sprookjes-uit-de-nalatenschap-van-moeder-de"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 68,
+        "contentSha256": "7f180cdaac6d39e139170e630b5fd865577884098e104493194d80426ff29b4f",
+        "encoding": "gzip",
+        "path": "books/nl/hildebrand-camera-obscura.nl.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ac3776966d450d8f490ce881682bd11c56a9953ef9b3de2d0fee6139bb09b0c8",
+        "sizeBytes": 373579,
+        "uncompressedSizeBytes": 1001946,
+        "wordCount": 159851
+      },
+      "author": "Hildebrand",
+      "authorDeathYear": 1903,
+      "editionId": "hildebrand-camera-obscura.nl.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": 1839,
+      "originalTitle": "Camera Obscura",
+      "rights": {
+        "statement": "Public domain worldwide. Hildebrand died in 1903 and the work was first published in 1839. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "15975",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:09:31.425616Z",
+        "revision": "Mon, 07 Sep 2026 08:54:34 GMT",
+        "url": "https://www.gutenberg.org/ebooks/15975"
+      },
+      "title": "Camera Obscura",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "hildebrand-camera-obscura"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 18,
+        "contentSha256": "e353a20c663e7fc13ad02230c60f09bccdbf0bf47b1604d73788eb99078f8975",
+        "encoding": "gzip",
+        "path": "books/nl/huizinga-herfsttij-der-middeleeuwen-studie-over-levens-en.nl.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f1c650b5feb044a9cb4fb1703db4a87f5d5f2524164cabad959953e37fce75a6",
+        "sizeBytes": 352780,
+        "uncompressedSizeBytes": 934690,
+        "wordCount": 142335
+      },
+      "author": "Johan Huizinga",
+      "authorDeathYear": 1945,
+      "editionId": "huizinga-herfsttij-der-middeleeuwen-studie-over-levens-en.nl.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": 1919,
+      "originalTitle": "Herfsttij der Middeleeuwen Studie over levens- en gedachtervormen der veertiende en vijftiende eeuw in Frankrijk en de Nederlanden",
+      "rights": {
+        "statement": "Public domain worldwide. Johan Huizinga died in 1945 and the work was first published in 1919. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "16829",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:09:44.003599Z",
+        "revision": "Mon, 07 Sep 2026 14:47:29 GMT",
+        "url": "https://www.gutenberg.org/ebooks/16829"
+      },
+      "title": "Herfsttij der Middeleeuwen Studie over levens- en gedachtervormen der veertiende en vijftiende eeuw in Frankrijk en de Nederlanden",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "huizinga-herfsttij-der-middeleeuwen-studie-over-levens-en"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "643eaf0cb26492a2da1a490f7f573efe6384197cae2a726a132ecb49a8252d51",
+        "encoding": "gzip",
+        "path": "books/nl/huygens-darwin.nl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9bbaa33fb6483acf13853d1d10aadbbd0cd02a5298bdce3e8792da023745fdaa",
+        "sizeBytes": 16664,
+        "uncompressedSizeBytes": 44894,
+        "wordCount": 6259
+      },
+      "author": "Cornélie Huygens",
+      "authorDeathYear": 1902,
+      "editionId": "huygens-darwin.nl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": 1901,
+      "originalTitle": "Darwin - Marx. Bernstein als bestrijder van eene natuur-philosophische leer",
+      "rights": {
+        "statement": "Public domain worldwide. Cornélie Huygens died in 1902 and the work was first published in 1901. Source: nl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Huygens - Darwin-Marx (1901)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:09:48.747375Z",
+        "revision": "152400",
+        "url": "https://nl.wikisource.org/wiki/Huygens_-_Darwin-Marx_(1901)"
+      },
+      "title": "Darwin - Marx. Bernstein als bestrijder van eene natuur-philosophische leer",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "huygens-darwin"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 23,
+        "contentSha256": "39e3c6dd8d7ef6df7d787c6f0523de6ccc492035f3ed75e74013d43be8c9b86c",
+        "encoding": "gzip",
+        "path": "books/nl/multatuli-max-havelaar-of-de-koffiveilingen-der-nederlandsche.nl.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "efcfa11ae49ebb4b09730f85486b9af55e923d8f00b169db6c2fc48c0584fe30",
+        "sizeBytes": 288130,
+        "uncompressedSizeBytes": 770566,
+        "wordCount": 123860
+      },
+      "author": "Multatuli",
+      "authorDeathYear": 1887,
+      "editionId": "multatuli-max-havelaar-of-de-koffiveilingen-der-nederlandsche.nl.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": 1860,
+      "originalTitle": "Max Havelaar Of de koffiveilingen der Nederlandsche Handelsmaatschappy",
+      "rights": {
+        "statement": "Public domain worldwide. Multatuli died in 1887 and the work was first published in 1860. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "11024",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:09:52.013823Z",
+        "revision": "Sat, 05 Sep 2026 09:52:33 GMT",
+        "url": "https://www.gutenberg.org/ebooks/11024"
+      },
+      "title": "Max Havelaar Of de koffiveilingen der Nederlandsche Handelsmaatschappy",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "multatuli-max-havelaar-of-de-koffiveilingen-der-nederlandsche"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 81,
+        "contentSha256": "f2595fe45888f2bc256e73e468e1665f4ff835d8ac6320c33275e7697a4654fc",
+        "encoding": "gzip",
+        "path": "books/nl/thackeray-pendennis.nl.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9ea017c9c9f555108afa11325729537a649dbc5a42aeb3c0de4d4f17d9dfc70a",
+        "sizeBytes": 845312,
+        "uncompressedSizeBytes": 2343752,
+        "wordCount": 378739
+      },
+      "author": "William Makepeace Thackeray",
+      "authorDeathYear": 1863,
+      "editionId": "thackeray-pendennis.nl.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "translation",
+      "language": "nl",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1850,
+      "originalTitle": "Pendennis",
+      "rights": {
+        "statement": "Public domain worldwide. William Makepeace Thackeray died in 1863; the translator M. P. Lindo died in 1877 and this translation was printed in 1870. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "77583",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:10:12.271218Z",
+        "revision": "Sun, 30 Aug 2026 21:14:04 GMT",
+        "url": "https://www.gutenberg.org/ebooks/77583"
+      },
+      "title": "Geschiedenis van Arthur Pendennis : $b Zijn voor- en tegenspoed, zijn vrienden en zijn grootsten vijand",
+      "translationPublicationYear": 1870,
+      "translator": "M. P. Lindo",
+      "translatorDeathYear": 1877,
+      "workId": "thackeray-pendennis"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "a6e182ff1dfca9e32797c81c7ae0a69cb27ebde1e3fb20ca3ad1dd0e28df0d89",
+        "encoding": "gzip",
+        "path": "books/nl/timmermans-pallieter.nl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b3bf08b3a035780d177eac8777944e41b71f586bcfb3cdeb4aac0591fe1fa525",
+        "sizeBytes": 65353,
+        "uncompressedSizeBytes": 178327,
+        "wordCount": 28491
+      },
+      "author": "Felix Timmermans",
+      "authorDeathYear": 1947,
+      "editionId": "timmermans-pallieter.nl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": 1916,
+      "originalTitle": "Pallieter",
+      "rights": {
+        "statement": "Public domain worldwide. Felix Timmermans died in 1947 and the work was first published in 1916. Source: nl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Pallieter",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:10:40.381642Z",
+        "revision": "168869",
+        "url": "https://nl.wikisource.org/wiki/Pallieter"
+      },
+      "title": "Pallieter",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "timmermans-pallieter"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "4262887ec939ebe4f666dd63c858cff6f1fb15a5c19e721c70f3ad9bc4bdc7b4",
+        "encoding": "gzip",
+        "path": "books/nl/visscher-de-apocriefe-boeken.nl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a155e3ff047bf41c9f0bf4d3981a5df8d3c047b0f5414da1c88831ef5f49a6e4",
+        "sizeBytes": 190519,
+        "uncompressedSizeBytes": 575594,
+        "wordCount": 97833
+      },
+      "author": "Adolf Visscher",
+      "authorDeathYear": 1652,
+      "editionId": "visscher-de-apocriefe-boeken.nl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": 1906,
+      "originalTitle": "De apocriefe boeken",
+      "rights": {
+        "statement": "Public domain worldwide. Adolf Visscher died in 1652 and the work was first published in 1906. Source: nl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Apocriefe boeken",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:11:00.402915Z",
+        "revision": "205902",
+        "url": "https://nl.wikisource.org/wiki/Apocriefe_boeken"
+      },
+      "title": "De apocriefe boeken",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "visscher-de-apocriefe-boeken"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 8,
+        "contentSha256": "96fa6853f962063fc1ef6d3f9d5ad9049cb4f9c4d67473b94b3353ce2821ee94",
+        "encoding": "gzip",
+        "path": "books/nl/vries-de-voeding-der-planten.nl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "32e1fa64f5948129b305785d2e3fa16d9089450cc9a4b991f0aa44c691aeecee",
+        "sizeBytes": 122342,
+        "uncompressedSizeBytes": 386006,
+        "wordCount": 59911
+      },
+      "author": "Hugo de Vries",
+      "authorDeathYear": 1935,
+      "editionId": "vries-de-voeding-der-planten.nl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": 1886,
+      "originalTitle": "De voeding der planten",
+      "rights": {
+        "statement": "Public domain worldwide. Hugo de Vries died in 1935 and the work was first published in 1886. Source: nl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "De voeding der planten (1886)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:11:14.985107Z",
+        "revision": "168771",
+        "url": "https://nl.wikisource.org/wiki/De_voeding_der_planten_(1886)"
+      },
+      "title": "De voeding der planten",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vries-de-voeding-der-planten"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 9,
+        "contentSha256": "45323d85b9ee8ee51e7a7510655bcf354b3cd0b852c47dc36d3c383fbcab96ce",
+        "encoding": "gzip",
+        "path": "books/nl/vries-het-leven-der-bloem.nl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "dd90c29e33181481c4f8fc8642a32a5e0fcd58473decbcdb00c80f6f388b27a6",
+        "sizeBytes": 100637,
+        "uncompressedSizeBytes": 315555,
+        "wordCount": 48344
+      },
+      "author": "Hugo de Vries",
+      "authorDeathYear": 1935,
+      "editionId": "vries-het-leven-der-bloem.nl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": 1900,
+      "originalTitle": "Het leven der bloem",
+      "rights": {
+        "statement": "Public domain worldwide. Hugo de Vries died in 1935 and the work was first published in 1900. Source: nl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Het leven der bloem (1900)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:11:29.549796Z",
+        "revision": "146224",
+        "url": "https://nl.wikisource.org/wiki/Het_leven_der_bloem_(1900)"
+      },
+      "title": "Het leven der bloem",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vries-het-leven-der-bloem"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 19,
+        "contentSha256": "aec1cba6934f4e8d8fa17cbb0ea8501d144ac39a2971dea2c540d55ddf6b7054",
+        "encoding": "gzip",
+        "path": "books/nl/winkler-studien-in-nederlandsche-namenkunde.nl.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "84368f604cee25d70f2c74932d0ba5a68abf38634c27ffc46687af3352c72a5c",
+        "sizeBytes": 245183,
+        "uncompressedSizeBytes": 735878,
+        "wordCount": 103482
+      },
+      "author": "Johan Winkler",
+      "authorDeathYear": 1916,
+      "editionId": "winkler-studien-in-nederlandsche-namenkunde.nl.gutenberg",
+      "editionPublicationYear": 1900,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "nl",
+      "originalLanguage": "nl",
+      "originalPublicationYear": null,
+      "originalTitle": "Studiën in Nederlandsche Namenkunde",
+      "rights": {
+        "statement": "Public domain worldwide. Johan Winkler died in 1916 and the edition digitised by Project Gutenberg was printed in 1900. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "71689",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:11:34.300829Z",
+        "revision": "Fri, 28 Aug 2026 14:10:49 GMT",
+        "url": "https://www.gutenberg.org/ebooks/71689"
+      },
+      "title": "Studiën in Nederlandsche Namenkunde",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "winkler-studien-in-nederlandsche-namenkunde"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Dutch",
+  "language": "nl",
+  "manifestVersion": "60cb48b658bb40ca",
+  "nativeName": "Nederlands",
+  "schemaVersion": 1
+}

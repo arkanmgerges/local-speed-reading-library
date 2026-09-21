@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:07.757567Z",
+    "chapterCount": 11,
+    "contentSha256": "1c03af8a0c9bb503f07010e967af01105f792029ae6c082e6ed9948050de2cc1",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/bang-tine.da.gutenberg/v1/book.json.gz",
+    "sha256": "7b38b87c155c403da53d48a86f80cd6fc842f00eb0c4c9d1b62c8e2551a3f6b9",
+    "sizeBytes": 105108,
+    "uncompressedSizeBytes": 296038,
+    "wordCount": 47024
+  },
+  "edition": {
+    "editionId": "bang-tine.da.gutenberg",
+    "kind": "original",
+    "language": "da",
+    "title": "Tine"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1912: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1889: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/10686",
+      "https://en.wikipedia.org/wiki/Herman_Bang",
+      "https://da.wikipedia.org/wiki/Herman_Bang",
+      "https://www.wikidata.org/wiki/Q12006423"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Herman Bang died in 1912 and the work was first published in 1889. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "10686",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:19:27.063617Z",
+    "revision": "Sat, 05 Sep 2026 08:31:41 GMT",
+    "url": "https://www.gutenberg.org/ebooks/10686"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1857,
+      "deathYear": 1912,
+      "name": "Herman Bang",
+      "wikidata": "Q439370"
+    },
+    "originalLanguage": "da",
+    "originalPublicationYear": 1889,
+    "originalTitle": "Tine",
+    "workId": "bang-tine"
+  }
+}

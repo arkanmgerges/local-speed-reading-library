@@ -1,0 +1,139 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "dcc9832814c0e0e0441680b7a065b5a37cab4a7dd3dca4273313a2f423b02099",
+        "encoding": "gzip",
+        "path": "books/su/lasminingrat-warnasari-atawa-rupa-rupa-dongeng.su.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1863fa24e57e3e4132358a7f671af711066b24587c31a71f3dbe9987de93f65c",
+        "sizeBytes": 169148,
+        "uncompressedSizeBytes": 599494,
+        "wordCount": 56636
+      },
+      "author": "Lasminingrat",
+      "authorDeathYear": 1948,
+      "editionId": "lasminingrat-warnasari-atawa-rupa-rupa-dongeng.su.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "su",
+      "originalLanguage": "su",
+      "originalPublicationYear": 1876,
+      "originalTitle": "Warnasari atawa rupa-rupa dongeng",
+      "rights": {
+        "statement": "Public domain worldwide. Lasminingrat died in 1948 and the work was first published in 1876. Source: su.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Warnasari",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:57:58.555663Z",
+        "revision": "27660",
+        "url": "https://su.wikisource.org/wiki/Warnasari"
+      },
+      "title": "Warnasari atawa rupa-rupa dongeng",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "lasminingrat-warnasari-atawa-rupa-rupa-dongeng"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "c4d45813a37c30948a6567211b49eb4d30997bdca276ef68c237de58e38bb7fa",
+        "encoding": "gzip",
+        "path": "books/su/musa-dongeng-dongeng-pieunteungeun.su.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b33e2319da42acdf9071b5ba0bfba9495273dcce8abec2d884a5e5878fb4132f",
+        "sizeBytes": 50113,
+        "uncompressedSizeBytes": 149548,
+        "wordCount": 19798
+      },
+      "author": "Muhamad Musa",
+      "authorDeathYear": 1886,
+      "editionId": "musa-dongeng-dongeng-pieunteungeun.su.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "su",
+      "originalLanguage": "su",
+      "originalPublicationYear": 1888,
+      "originalTitle": "Dongeng-dongeng Pieunteungeun",
+      "rights": {
+        "statement": "Public domain worldwide. Muhamad Musa died in 1886 and the work was first published in 1888. Source: su.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Dongéng-dongéng Pieunteungeun (1888)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:58:01.643836Z",
+        "revision": "20920",
+        "url": "https://su.wikisource.org/wiki/Dong%C3%A9ng-dong%C3%A9ng_Pieunteungeun_(1888)"
+      },
+      "title": "Dongeng-dongeng Pieunteungeun",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "musa-dongeng-dongeng-pieunteungeun"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "34f6281d030eb75c2065a0bc534f62ca447a626c371f5758ce1f17f542ef1cb6",
+        "encoding": "gzip",
+        "path": "books/su/musa-wawatjan-pandji-woeloeng.su.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "416a593da9a3eeca5a7e77c96bd6ae492831c01c017bb9a269e35e67be6c9f42",
+        "sizeBytes": 72389,
+        "uncompressedSizeBytes": 222406,
+        "wordCount": 27788
+      },
+      "author": "Muhamad Musa",
+      "authorDeathYear": 1886,
+      "editionId": "musa-wawatjan-pandji-woeloeng.su.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "su",
+      "originalLanguage": "su",
+      "originalPublicationYear": 1876,
+      "originalTitle": "Wawatjan Pandji Woeloeng",
+      "rights": {
+        "statement": "Public domain worldwide. Muhamad Musa died in 1886 and the work was first published in 1876. Source: su.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Wawatjan Pandji Woeloeng",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:58:21.242029Z",
+        "revision": "20160",
+        "url": "https://su.wikisource.org/wiki/Wawatjan_Pandji_Woeloeng"
+      },
+      "title": "Wawatjan Pandji Woeloeng",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "musa-wawatjan-pandji-woeloeng"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Sundanese",
+  "language": "su",
+  "manifestVersion": "b36710a687a60d2d",
+  "nativeName": "Basa Sunda",
+  "schemaVersion": 1
+}

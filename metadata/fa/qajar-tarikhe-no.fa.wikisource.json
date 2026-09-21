@@ -1,0 +1,273 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:23.403342Z",
+    "chapterCount": 50,
+    "contentSha256": "9b3500c55feec679fe3e5bbe2ba4762fa99b5e8efc231c5c8a4b98745fef8b57",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fa/qajar-tarikhe-no.fa.wikisource/v1/book.json.gz",
+    "sha256": "29614e5dc2e9ab64ba180c4c835eaf21cf8058b59a19c1de64fbbf3410f7157b",
+    "sizeBytes": 345535,
+    "uncompressedSizeBytes": 1644315,
+    "wordCount": 177630
+  },
+  "edition": {
+    "editionId": "qajar-tarikhe-no.fa.wikisource",
+    "kind": "original",
+    "language": "fa",
+    "title": "تاریخ نو"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1853: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1850: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q126396954",
+      "https://www.wikidata.org/wiki/Q5285197",
+      "https://fa.wikisource.org/wiki/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE_%D9%86%D9%88"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. جهانگیر میرزا died in 1853 and the work was first published in 1850. Source: fa.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "تاریخ نو",
+    "pages": [
+      {
+        "revision": 249291,
+        "title": "تاریخ نو"
+      },
+      {
+        "revision": 225840,
+        "title": "تاریخ نو/مقدمه"
+      },
+      {
+        "revision": 236798,
+        "title": "تاریخ نو/مقدمه/مؤلف کتاب"
+      },
+      {
+        "revision": 236799,
+        "title": "تاریخ نو/مقدمه/تاریخ نو"
+      },
+      {
+        "revision": 225839,
+        "title": "تاریخ نو/تاریخ نو"
+      },
+      {
+        "revision": 237121,
+        "title": "تاریخ نو/۱"
+      },
+      {
+        "revision": 237122,
+        "title": "تاریخ نو/۲"
+      },
+      {
+        "revision": 237123,
+        "title": "تاریخ نو/۳"
+      },
+      {
+        "revision": 237125,
+        "title": "تاریخ نو/۴"
+      },
+      {
+        "revision": 237126,
+        "title": "تاریخ نو/۵"
+      },
+      {
+        "revision": 239964,
+        "title": "تاریخ نو/۶"
+      },
+      {
+        "revision": 239965,
+        "title": "تاریخ نو/۷"
+      },
+      {
+        "revision": 239997,
+        "title": "تاریخ نو/۸"
+      },
+      {
+        "revision": 239999,
+        "title": "تاریخ نو/۹"
+      },
+      {
+        "revision": 240000,
+        "title": "تاریخ نو/۱۰"
+      },
+      {
+        "revision": 240001,
+        "title": "تاریخ نو/۱۱"
+      },
+      {
+        "revision": 240002,
+        "title": "تاریخ نو/۱۲"
+      },
+      {
+        "revision": 240003,
+        "title": "تاریخ نو/۱۳"
+      },
+      {
+        "revision": 240005,
+        "title": "تاریخ نو/۱۴"
+      },
+      {
+        "revision": 240006,
+        "title": "تاریخ نو/۱۵"
+      },
+      {
+        "revision": 240007,
+        "title": "تاریخ نو/۱۶"
+      },
+      {
+        "revision": 240008,
+        "title": "تاریخ نو/۱۷"
+      },
+      {
+        "revision": 240009,
+        "title": "تاریخ نو/۱۸"
+      },
+      {
+        "revision": 240010,
+        "title": "تاریخ نو/۱۹"
+      },
+      {
+        "revision": 240011,
+        "title": "تاریخ نو/۲۰"
+      },
+      {
+        "revision": 240414,
+        "title": "تاریخ نو/۲۱"
+      },
+      {
+        "revision": 240415,
+        "title": "تاریخ نو/۲۲"
+      },
+      {
+        "revision": 240416,
+        "title": "تاریخ نو/۲۳"
+      },
+      {
+        "revision": 240417,
+        "title": "تاریخ نو/۲۴"
+      },
+      {
+        "revision": 240418,
+        "title": "تاریخ نو/۲۵"
+      },
+      {
+        "revision": 240419,
+        "title": "تاریخ نو/۲۶"
+      },
+      {
+        "revision": 240420,
+        "title": "تاریخ نو/۲۷"
+      },
+      {
+        "revision": 240421,
+        "title": "تاریخ نو/۲۸"
+      },
+      {
+        "revision": 240422,
+        "title": "تاریخ نو/۲۹"
+      },
+      {
+        "revision": 240423,
+        "title": "تاریخ نو/۳۰"
+      },
+      {
+        "revision": 240424,
+        "title": "تاریخ نو/۳۱"
+      },
+      {
+        "revision": 240425,
+        "title": "تاریخ نو/۳۲"
+      },
+      {
+        "revision": 240426,
+        "title": "تاریخ نو/۳۳"
+      },
+      {
+        "revision": 240427,
+        "title": "تاریخ نو/۳۴"
+      },
+      {
+        "revision": 240428,
+        "title": "تاریخ نو/۳۵"
+      },
+      {
+        "revision": 240429,
+        "title": "تاریخ نو/۳۶"
+      },
+      {
+        "revision": 240430,
+        "title": "تاریخ نو/۳۷"
+      },
+      {
+        "revision": 240437,
+        "title": "تاریخ نو/۳۸"
+      },
+      {
+        "revision": 240439,
+        "title": "تاریخ نو/۳۹"
+      },
+      {
+        "revision": 240440,
+        "title": "تاریخ نو/۴۰"
+      },
+      {
+        "revision": 240441,
+        "title": "تاریخ نو/۴۱"
+      },
+      {
+        "revision": 240442,
+        "title": "تاریخ نو/۴۲"
+      },
+      {
+        "revision": 240443,
+        "title": "تاریخ نو/۴۳"
+      },
+      {
+        "revision": 240444,
+        "title": "تاریخ نو/۴۴"
+      },
+      {
+        "revision": 240445,
+        "title": "تاریخ نو/۴۵"
+      },
+      {
+        "revision": 240446,
+        "title": "تاریخ نو/۴۶"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:03:17.517253Z",
+    "revision": "249291",
+    "site": "fa.wikisource.org",
+    "url": "https://fa.wikisource.org/wiki/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE_%D9%86%D9%88"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1810,
+      "deathYear": 1853,
+      "name": "جهانگیر میرزا",
+      "wikidata": "Q5285197"
+    },
+    "originalLanguage": "fa",
+    "originalPublicationYear": 1850,
+    "originalTitle": "تاریخ نو",
+    "workId": "qajar-tarikhe-no"
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "6302b7f86c796a6d5977bfea2e985d4b31b9127633642c383ce944407954fbf7",
+        "encoding": "gzip",
+        "path": "books/vi/b-nh-sach-s-sang-chep-cac-vi-c.vi.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "862989bd82bff6a16e8cc7c5a37740e4ac8dd591f5b5466bdc7a96e7277edfb4",
+        "sizeBytes": 81680,
+        "uncompressedSizeBytes": 348129,
+        "wordCount": 82686
+      },
+      "author": "Philipphê Bỉnh",
+      "authorDeathYear": 1833,
+      "editionId": "b-nh-sach-s-sang-chep-cac-vi-c.vi.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "vi",
+      "originalLanguage": "vi",
+      "originalPublicationYear": 1822,
+      "originalTitle": "Sách sổ sang chép các việc",
+      "rights": {
+        "statement": "Public domain worldwide. Philipphê Bỉnh died in 1833 and the work was first published in 1822. Source: vi.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Sách Sổ sang chép các việc",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:22:20.449328Z",
+        "revision": "196797",
+        "url": "https://vi.wikisource.org/wiki/S%C3%A1ch_S%E1%BB%95_sang_ch%C3%A9p_c%C3%A1c_vi%E1%BB%87c"
+      },
+      "title": "Sách sổ sang chép các việc",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "b-nh-sach-s-sang-chep-cac-vi-c"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 37,
+        "contentSha256": "0e1494003a7bcca94b57c7946eaa47f91b13ad77909795b37d549c3bdc7283ea",
+        "encoding": "gzip",
+        "path": "books/vi/dumas-ti-n-can-bao-h-u.vi.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1b52a3ddf99bd14b5d88d8092cad65e67f34e5fde40d1aff00160a581505bd47",
+        "sizeBytes": 219749,
+        "uncompressedSizeBytes": 726346,
+        "wordCount": 112593
+      },
+      "author": "Alexandre Dumas",
+      "authorDeathYear": 1870,
+      "editionId": "dumas-ti-n-can-bao-h-u.vi.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "vi",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1844,
+      "originalTitle": "Tiền căn báo hậu",
+      "rights": {
+        "statement": "Public domain worldwide. Alexandre Dumas died in 1870; the translator Gilbert Trần Chánh Chiếu died in 1919 and this translation was first published in 1914. Source: vi.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Tiền căn báo hậu",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:23:12.669347Z",
+        "revision": "200454",
+        "url": "https://vi.wikisource.org/wiki/Ti%E1%BB%81n_c%C4%83n_b%C3%A1o_h%E1%BA%ADu"
+      },
+      "title": "Tiền căn báo hậu",
+      "translationPublicationYear": 1914,
+      "translator": "Gilbert Trần Chánh Chiếu",
+      "translatorDeathYear": 1919,
+      "workId": "dumas-ti-n-can-bao-h-u"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 51,
+        "contentSha256": "ccfc78bf53e7c6fac53168215e0d8b8af73691025657d02f2e93f355c784befe",
+        "encoding": "gzip",
+        "path": "books/vi/kim-luan-lu-giao-khoa-th.vi.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5c3c120a813497d1905e77ce45cfc311c800b16a3259c1c4035a88c43160709b",
+        "sizeBytes": 19763,
+        "uncompressedSizeBytes": 73675,
+        "wordCount": 9785
+      },
+      "author": "Trần Trọng Kim",
+      "authorDeathYear": 1953,
+      "editionId": "kim-luan-lu-giao-khoa-th.vi.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "vi",
+      "originalLanguage": "vi",
+      "originalPublicationYear": 1925,
+      "originalTitle": "Luân lý giáo khoa thư - Lớp Đồng ấu",
+      "rights": {
+        "statement": "Public domain worldwide. Trần Trọng Kim died in 1953 and the work was first published in 1925. Source: vi.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Luân lý giáo khoa thư - Lớp Đồng ấu",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:24:20.507495Z",
+        "revision": "180638",
+        "url": "https://vi.wikisource.org/wiki/Lu%C3%A2n_l%C3%BD_gi%C3%A1o_khoa_th%C6%B0_-_L%E1%BB%9Bp_%C4%90%E1%BB%93ng_%E1%BA%A5u"
+      },
+      "title": "Luân lý giáo khoa thư - Lớp Đồng ấu",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kim-luan-lu-giao-khoa-th"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 199,
+        "contentSha256": "8a2499a7080a2fc9f2b56287b54d3b377699e1dcb796dd1bd21c4a05d72c4a26",
+        "encoding": "gzip",
+        "path": "books/vi/rhodes-t-di-n-vi-t-b-la.vi.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1e9fc4c538912801e7d26990b2a3164cb8b75efb402992c5caa2632f7c0df0bf",
+        "sizeBytes": 423492,
+        "uncompressedSizeBytes": 1233845,
+        "wordCount": 151740
+      },
+      "author": "Alexandre de Rhodes",
+      "authorDeathYear": 1660,
+      "editionId": "rhodes-t-di-n-vi-t-b-la.vi.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "vi",
+      "originalLanguage": "vi",
+      "originalPublicationYear": 1651,
+      "originalTitle": "Từ điển Việt-Bồ-La",
+      "rights": {
+        "statement": "Public domain worldwide. Alexandre de Rhodes died in 1660 and the work was first published in 1651. Source: vi.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Từ điển Việt–Bồ–La",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:25:57.795683Z",
+        "revision": "168701",
+        "url": "https://vi.wikisource.org/wiki/T%E1%BB%AB_%C4%91i%E1%BB%83n_Vi%E1%BB%87t%E2%80%93B%E1%BB%93%E2%80%93La"
+      },
+      "title": "Từ điển Việt-Bồ-La",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "rhodes-t-di-n-vi-t-b-la"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 30,
+        "contentSha256": "45a45cb15d25944884f6e182f446fee965e82b22d3fb370fe7cf6113f7711ca3",
+        "encoding": "gzip",
+        "path": "books/vi/t-gi-t-mau-chung-tinh.vi.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "00277e74b0566000828fe9044931e0d3319cccdc4085cfdb12dfd70bab1872b9",
+        "sizeBytes": 112265,
+        "uncompressedSizeBytes": 360113,
+        "wordCount": 55402
+      },
+      "author": "Tân Dân Tử",
+      "authorDeathYear": 1955,
+      "editionId": "t-gi-t-mau-chung-tinh.vi.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "vi",
+      "originalLanguage": "vi",
+      "originalPublicationYear": 1926,
+      "originalTitle": "Giọt máu chung tình",
+      "rights": {
+        "statement": "Public domain worldwide. Tân Dân Tử died in 1955 and the work was first published in 1926. Source: vi.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Giọt máu chung tình",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:26:41.004949Z",
+        "revision": "95766",
+        "url": "https://vi.wikisource.org/wiki/Gi%E1%BB%8Dt_m%C3%A1u_chung_t%C3%ACnh"
+      },
+      "title": "Giọt máu chung tình",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "t-gi-t-mau-chung-tinh"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 31,
+        "contentSha256": "1419dd927e34b91138ab9ff4c243f1914ee4669a622912ff6ef04de09d358883",
+        "encoding": "gzip",
+        "path": "books/vi/t-gia-long-t-u-qu-c.vi.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "aae94c12e336c81f899633d6a580af085fd0eb89820a6ca036a207379442201f",
+        "sizeBytes": 204260,
+        "uncompressedSizeBytes": 686374,
+        "wordCount": 103509
+      },
+      "author": "Tân Dân Tử",
+      "authorDeathYear": 1955,
+      "editionId": "t-gia-long-t-u-qu-c.vi.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "vi",
+      "originalLanguage": "vi",
+      "originalPublicationYear": 1930,
+      "originalTitle": "Gia Long tẩu quốc",
+      "rights": {
+        "statement": "Public domain worldwide. Tân Dân Tử died in 1955 and the work was first published in 1930. Source: vi.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Gia Long tẩu quốc",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:27:24.343702Z",
+        "revision": "96002",
+        "url": "https://vi.wikisource.org/wiki/Gia_Long_t%E1%BA%A9u_qu%E1%BB%91c"
+      },
+      "title": "Gia Long tẩu quốc",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "t-gia-long-t-u-qu-c"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 23,
+        "contentSha256": "9e61c46fe2fa6dc1cc07b9f3306751b1643bd41ed6c09aa430f351194aa07887",
+        "encoding": "gzip",
+        "path": "books/vi/t-n-ti-u-lam-an-nam-quy-n.vi.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "757f3954a30ae546f6a7976eb3b0f7d4321cee287c3e4f32d829e0a121dd2358",
+        "sizeBytes": 11759,
+        "uncompressedSizeBytes": 55613,
+        "wordCount": 14167
+      },
+      "author": "Phạm Duy Tốn",
+      "authorDeathYear": 1924,
+      "editionId": "t-n-ti-u-lam-an-nam-quy-n.vi.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "vi",
+      "originalLanguage": "vi",
+      "originalPublicationYear": 1924,
+      "originalTitle": "Tiếu lâm An Nam, quyển thứ nhất",
+      "rights": {
+        "statement": "Public domain worldwide. Phạm Duy Tốn died in 1924 and the work was first published in 1924. Source: vi.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Tiếu lâm An Nam/Quyển thứ nhất",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:27:54.859445Z",
+        "revision": "96828",
+        "url": "https://vi.wikisource.org/wiki/Ti%E1%BA%BFu_l%C3%A2m_An_Nam/Quy%E1%BB%83n_th%E1%BB%A9_nh%E1%BA%A5t"
+      },
+      "title": "Tiếu lâm An Nam, quyển thứ nhất",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "t-n-ti-u-lam-an-nam-quy-n"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "5c8a6c6df206de3088b510e2890d9d8778fee153c83af16c7887cf9f9fc0b635",
+        "encoding": "gzip",
+        "path": "books/vi/t-n-ti-u-lam-an-nam.vi.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "51a38ee9c908b732a84d9ec53d1ffd4b7dfcbc6835fab0070cdecdd848278c15",
+        "sizeBytes": 2047,
+        "uncompressedSizeBytes": 43973,
+        "wordCount": 19639
+      },
+      "author": "Phạm Duy Tốn",
+      "authorDeathYear": 1924,
+      "editionId": "t-n-ti-u-lam-an-nam.vi.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "vi",
+      "originalLanguage": "vi",
+      "originalPublicationYear": 1912,
+      "originalTitle": "Tiếu lâm An Nam",
+      "rights": {
+        "statement": "Public domain worldwide. Phạm Duy Tốn died in 1924 and the work was first published in 1912. Source: vi.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Tiếu lâm An Nam",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:27:59.251839Z",
+        "revision": "96972",
+        "url": "https://vi.wikisource.org/wiki/Ti%E1%BA%BFu_l%C3%A2m_An_Nam"
+      },
+      "title": "Tiếu lâm An Nam",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "t-n-ti-u-lam-an-nam"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Vietnamese",
+  "language": "vi",
+  "manifestVersion": "3cda5c86a927105e",
+  "nativeName": "Tiếng Việt",
+  "schemaVersion": 1
+}

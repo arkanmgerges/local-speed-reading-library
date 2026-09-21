@@ -1,0 +1,784 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "e2c59805b4403d6663868b921af2d109af3b7493c112e09fdad3592f11ce804d",
+        "encoding": "gzip",
+        "path": "books/as/bardoloi-griha-lakshmi.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "edf426ff2d89662835c27b29a6bf5b4e51b75635932823d606966b9107e6c974",
+        "sizeBytes": 25854,
+        "uncompressedSizeBytes": 113030,
+        "wordCount": 6961
+      },
+      "author": "নবীনচন্দ্ৰ বৰদলৈ",
+      "authorDeathYear": 1936,
+      "editionId": "bardoloi-griha-lakshmi.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1910,
+      "originalTitle": "গৃহ-লক্ষ্মী",
+      "rights": {
+        "statement": "Public domain worldwide. নবীনচন্দ্ৰ বৰদলৈ died in 1936 and the work was first published in 1910. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "গৃহ-লক্ষ্মী",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:53:41.442817Z",
+        "revision": "79677",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%97%E0%A7%83%E0%A6%B9-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%80"
+      },
+      "title": "গৃহ-লক্ষ্মী",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bardoloi-griha-lakshmi"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "bbb4430fe9e6d3551d8493691fc08f9e818dcc5c91fc40d4015844b64230b150",
+        "encoding": "gzip",
+        "path": "books/as/barua-path-mala.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1b52236961e313d5ef1ba0a743475241a77c53b7e9d178e4037a30c517ffbc03",
+        "sizeBytes": 73652,
+        "uncompressedSizeBytes": 373613,
+        "wordCount": 24218
+      },
+      "author": "হেমচন্দ্ৰ বৰুৱা",
+      "authorDeathYear": 1897,
+      "editionId": "barua-path-mala.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1882,
+      "originalTitle": "পাঠ-মালা",
+      "rights": {
+        "statement": "Public domain worldwide. হেমচন্দ্ৰ বৰুৱা died in 1897 and the work was first published in 1882. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "পাঠ-মালা",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:53:43.626360Z",
+        "revision": "208079",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%A0-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE"
+      },
+      "title": "পাঠ-মালা",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "barua-path-mala"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "55bccbf7ccee0d0d5dfd7cf75955356cf7ad31a4a14e51b9a2e370dba623caca",
+        "encoding": "gzip",
+        "path": "books/as/bezbarua-chakraddhaj-singha.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "95ca749961ad126137d881e328cfec8e87d1d9dfc5feb432475c4a666820ba81",
+        "sizeBytes": 62586,
+        "uncompressedSizeBytes": 314830,
+        "wordCount": 18684
+      },
+      "author": "লক্ষ্মীনাথ বেজবৰুৱা",
+      "authorDeathYear": 1938,
+      "editionId": "bezbarua-chakraddhaj-singha.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1915,
+      "originalTitle": "চক্ৰধ্বজ সিংহ",
+      "rights": {
+        "statement": "Public domain worldwide. লক্ষ্মীনাথ বেজবৰুৱা died in 1938 and the work was first published in 1915. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "চক্ৰধ্বজ সিংহ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:53:50.260082Z",
+        "revision": "235023",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%9A%E0%A6%95%E0%A7%8D%E0%A7%B0%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%9C_%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9"
+      },
+      "title": "চক্ৰধ্বজ সিংহ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bezbarua-chakraddhaj-singha"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "1456b623ca0b7e8c082e1f810e725f285601e1f8a675d33a480348a7366c65da",
+        "encoding": "gzip",
+        "path": "books/as/bezbarua-chikarpati-nikarpati-ed-1.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2b619d7c905614d77399ee0582a1de325928fd21055bd3198bfac3083c15ba04",
+        "sizeBytes": 23508,
+        "uncompressedSizeBytes": 111373,
+        "wordCount": 7008
+      },
+      "author": "লক্ষ্মীনাথ বেজবৰুৱা",
+      "authorDeathYear": 1938,
+      "editionId": "bezbarua-chikarpati-nikarpati-ed-1.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1913,
+      "originalTitle": "চিকৰপতি নিকৰপতি",
+      "rights": {
+        "statement": "Public domain worldwide. লক্ষ্মীনাথ বেজবৰুৱা died in 1938 and the work was first published in 1913. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "চিকৰপতি নিকৰপতি",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:53:53.096264Z",
+        "revision": "119970",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A7%B0%E0%A6%AA%E0%A6%A4%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%B0%E0%A6%AA%E0%A6%A4%E0%A6%BF"
+      },
+      "title": "চিকৰপতি নিকৰপতি",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bezbarua-chikarpati-nikarpati-ed-1"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "048fff862b12854b77a69317506aa42fd5e7144eca70c13aa5075cd9fb1314dc",
+        "encoding": "gzip",
+        "path": "books/as/bezbarua-dangoria-dinanath-bezbaruar-sankshipto-jibani.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6539362d3bbeab8593945306bd763bcfddf01b2c29f6024cea37ba8fbd4657fc",
+        "sizeBytes": 26730,
+        "uncompressedSizeBytes": 129539,
+        "wordCount": 7399
+      },
+      "author": "লক্ষ্মীনাথ বেজবৰুৱা",
+      "authorDeathYear": 1938,
+      "editionId": "bezbarua-dangoria-dinanath-bezbaruar-sankshipto-jibani.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1909,
+      "originalTitle": "ডাঙৰীয়া দীননাথ বেজবৰুৱাৰ সংক্ষিপ্ত জীৱন-চৰিত",
+      "rights": {
+        "statement": "Public domain worldwide. লক্ষ্মীনাথ বেজবৰুৱা died in 1938 and the work was first published in 1909. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "ডাঙৰীয়া দীননাথ বেজবৰুৱাৰ সংক্ষিপ্ত জীৱন-চৰিত",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:53:55.050420Z",
+        "revision": "226004",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%A1%E0%A6%BE%E0%A6%99%E0%A7%B0%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%A6%E0%A7%80%E0%A6%A8%E0%A6%A8%E0%A6%BE%E0%A6%A5_%E0%A6%AC%E0%A7%87%E0%A6%9C%E0%A6%AC%E0%A7%B0%E0%A7%81%E0%A7%B1%E0%A6%BE%E0%A7%B0_%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%AA%E0%A7%8D%E0%A6%A4_%E0%A6%9C%E0%A7%80%E0%A7%B1%E0%A6%A8-%E0%A6%9A%E0%A7%B0%E0%A6%BF%E0%A6%A4"
+      },
+      "title": "ডাঙৰীয়া দীননাথ বেজবৰুৱাৰ সংক্ষিপ্ত জীৱন-চৰিত",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bezbarua-dangoria-dinanath-bezbaruar-sankshipto-jibani"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 18,
+        "contentSha256": "b84675e5a8c77a155a49f4faea0e5c8999a8f1b5a0ad90d1b6cfeff066006934",
+        "encoding": "gzip",
+        "path": "books/as/bezbarua-sankardev.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "455bd59205cd01b846a74d54cba11eaf40231229bb967102d27e551d9fde4963",
+        "sizeBytes": 147507,
+        "uncompressedSizeBytes": 668977,
+        "wordCount": 43666
+      },
+      "author": "লক্ষ্মীনাথ বেজবৰুৱা",
+      "authorDeathYear": 1938,
+      "editionId": "bezbarua-sankardev.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1911,
+      "originalTitle": "শঙ্কৰদেৱ",
+      "rights": {
+        "statement": "Public domain worldwide. লক্ষ্মীনাথ বেজবৰুৱা died in 1938 and the work was first published in 1911. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "শঙ্কৰদেৱ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:54:26.231523Z",
+        "revision": "173746",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%B0%E0%A6%A6%E0%A7%87%E0%A7%B1"
+      },
+      "title": "শঙ্কৰদেৱ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bezbarua-sankardev"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "7aec2181ff57781d255a2be22c0c4d8c618337853a662dd519e04f855bbf0feb",
+        "encoding": "gzip",
+        "path": "books/as/bhattadeva-katha-geeta-ed-2.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b1396819f75e03fc0c636d81ad962ef215efbfb82254042f0653a98be5ddb9c7",
+        "sizeBytes": 48139,
+        "uncompressedSizeBytes": 252195,
+        "wordCount": 14675
+      },
+      "author": "ভট্টদেৱ",
+      "authorDeathYear": 1638,
+      "editionId": "bhattadeva-katha-geeta-ed-2.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1923,
+      "originalTitle": "কথা-গীতা",
+      "rights": {
+        "statement": "Public domain worldwide. ভট্টদেৱ died in 1638 and the work was first published in 1923. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "কথা-গীতা",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:54:32.378054Z",
+        "revision": "209327",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%97%E0%A7%80%E0%A6%A4%E0%A6%BE"
+      },
+      "title": "কথা-গীতা",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bhattadeva-katha-geeta-ed-2"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "7ce40a2dc48e57ffe680d6305344904a391adcd1f315bc99839314f4878f07d4",
+        "encoding": "gzip",
+        "path": "books/as/dvija-sri-sri-sankardev.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1169428dfd7b51cc79fb20beeedb8fcb434fb990eaeeed2ddbbfd43fa293e23a",
+        "sizeBytes": 75132,
+        "uncompressedSizeBytes": 370087,
+        "wordCount": 22919
+      },
+      "author": "ভূষণ দ্বিজ",
+      "authorDeathYear": 1577,
+      "editionId": "dvija-sri-sri-sankardev.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1925,
+      "originalTitle": "শ্ৰীশ্ৰীশঙ্কৰদেৱ",
+      "rights": {
+        "statement": "Public domain worldwide. ভূষণ দ্বিজ died in 1577 and the work was first published in 1925. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "শ্ৰীশ্ৰীশঙ্কৰদেৱ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:54:35.211824Z",
+        "revision": "143518",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%B6%E0%A7%8D%E0%A7%B0%E0%A7%80%E0%A6%B6%E0%A7%8D%E0%A7%B0%E0%A7%80%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%B0%E0%A6%A6%E0%A7%87%E0%A7%B1"
+      },
+      "title": "শ্ৰীশ্ৰীশঙ্কৰদেৱ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "dvija-sri-sri-sankardev"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "be35d0eefd8cf2f219e67c3937f09af2c31584b2b91224d4e23912744073ad90",
+        "encoding": "gzip",
+        "path": "books/as/kandali-aranya-kanda.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6d066984bd9f0795c12a761e81a329f517f75a611b1ed56181bd0943740135c9",
+        "sizeBytes": 65209,
+        "uncompressedSizeBytes": 306069,
+        "wordCount": 19141
+      },
+      "author": "অনন্ত কন্দলী",
+      "authorDeathYear": 1580,
+      "editionId": "kandali-aranya-kanda.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1930,
+      "originalTitle": "অৰণ্য কাণ্ড",
+      "rights": {
+        "statement": "Public domain worldwide. অনন্ত কন্দলী died in 1580 and the work was first published in 1930. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "অৰণ্য কাণ্ড",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:54:37.866918Z",
+        "revision": "207964",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%85%E0%A7%B0%E0%A6%A3%E0%A7%8D%E0%A6%AF_%E0%A6%95%E0%A6%BE%E0%A6%A3%E0%A7%8D%E0%A6%A1"
+      },
+      "title": "অৰণ্য কাণ্ড",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kandali-aranya-kanda"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "b6386cbe1bd906444bb5903f6b142067c6296226bc601f67e4b83ca4c7fd72ad",
+        "encoding": "gzip",
+        "path": "books/as/kayastha-durgabari-giti-ramayan.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "48b6d9fb428ff8ad2d615ba718fbfae41d265c7b3a31b63132c1d684ee793f32",
+        "sizeBytes": 35573,
+        "uncompressedSizeBytes": 165116,
+        "wordCount": 10189
+      },
+      "author": "দুৰ্গাবৰ কায়স্থ",
+      "authorDeathYear": 1560,
+      "editionId": "kayastha-durgabari-giti-ramayan.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1915,
+      "originalTitle": "দুৰ্গাবৰি গীতি ৰামায়ণ",
+      "rights": {
+        "statement": "Public domain worldwide. দুৰ্গাবৰ কায়স্থ died in 1560 and the work was first published in 1915. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "দুৰ্গাবৰি গীতি ৰামায়ণ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:54:44.392772Z",
+        "revision": "246719",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%A6%E0%A7%81%E0%A7%B0%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AC%E0%A7%B0%E0%A6%BF_%E0%A6%97%E0%A7%80%E0%A6%A4%E0%A6%BF_%E0%A7%B0%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A3"
+      },
+      "title": "দুৰ্গাবৰি গীতি ৰামায়ণ",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kayastha-durgabari-giti-ramayan"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "9329f4e52aa42f23cb72022b85442df244d6eeadc6ec6d602ea2c7d38e4f7698",
+        "encoding": "gzip",
+        "path": "books/as/madhavdeva-adi-charit-ba-lakshmipuror-adim-buranji.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "aee814d67a62f2cee40d0a255c4c858ec7abadf4b01e771c7a477f2f2312d948",
+        "sizeBytes": 35253,
+        "uncompressedSizeBytes": 193023,
+        "wordCount": 11680
+      },
+      "author": "মাধৱদেৱ",
+      "authorDeathYear": 1596,
+      "editionId": "madhavdeva-adi-charit-ba-lakshmipuror-adim-buranji.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1928,
+      "originalTitle": "আদি চৰিত বা লক্ষ্মীপুৰৰ আদিম বুৰঞ্জী",
+      "rights": {
+        "statement": "Public domain worldwide. মাধৱদেৱ died in 1596 and the work was first published in 1928. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "আদি চৰিত বা লক্ষ্মীপুৰৰ আদিম বুৰঞ্জী",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:54:46.468112Z",
+        "revision": "105819",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%86%E0%A6%A6%E0%A6%BF_%E0%A6%9A%E0%A7%B0%E0%A6%BF%E0%A6%A4_%E0%A6%AC%E0%A6%BE_%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A7%B0%E0%A7%B0_%E0%A6%86%E0%A6%A6%E0%A6%BF%E0%A6%AE_%E0%A6%AC%E0%A7%81%E0%A7%B0%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%80"
+      },
+      "title": "আদি চৰিত বা লক্ষ্মীপুৰৰ আদিম বুৰঞ্জী",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "madhavdeva-adi-charit-ba-lakshmipuror-adim-buranji"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "3df74b82b755bec19f8a88ffa690006044d7f40a7428a6c8aac3ccaa76edbd6f",
+        "encoding": "gzip",
+        "path": "books/as/phukan-friend-of-young-assam-part-ii.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "54b200efa7c38c25da2029600a7c979a9ec70cc1963233a2c7661cd1d0f6ac81",
+        "sizeBytes": 106501,
+        "uncompressedSizeBytes": 545451,
+        "wordCount": 36909
+      },
+      "author": "আনন্দৰাম ঢেকিয়াল ফুকন",
+      "authorDeathYear": 1859,
+      "editionId": "phukan-friend-of-young-assam-part-ii.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1849,
+      "originalTitle": "অসমিয়া লৰাৰ মিত্ৰ দ্বিতীয় কাণ্ড",
+      "rights": {
+        "statement": "Public domain worldwide. আনন্দৰাম ঢেকিয়াল ফুকন died in 1859 and the work was first published in 1849. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "অসমিয়া লৰাৰ মিত্ৰ",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:54:48.948016Z",
+        "revision": "143473",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%85%E0%A6%B8%E0%A6%AE%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%B2%E0%A7%B0%E0%A6%BE%E0%A7%B0_%E0%A6%AE%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A7%B0"
+      },
+      "title": "অসমিয়া লৰাৰ মিত্ৰ দ্বিতীয় কাণ্ড",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "phukan-friend-of-young-assam-part-ii"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "4c2157aecb8be5dfa31e0b0b4e160a13e7f8d62c1230a717637381bb2e61e273",
+        "encoding": "gzip",
+        "path": "books/as/sankardev-baisnavi-kirtan-ba-naam-kirtan.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9af93c958d994e0e105c2bd13a160fac5f6d3b0b6fc7bd940dc49310b5fe8de9",
+        "sizeBytes": 36507,
+        "uncompressedSizeBytes": 166425,
+        "wordCount": 9686
+      },
+      "author": "শংকৰদেৱ",
+      "authorDeathYear": 1569,
+      "editionId": "sankardev-baisnavi-kirtan-ba-naam-kirtan.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1928,
+      "originalTitle": "বৈষ্ণৱী-কীৰ্ত্তন বা নাম-কীৰ্ত্তন",
+      "rights": {
+        "statement": "Public domain worldwide. শংকৰদেৱ died in 1569 and the work was first published in 1928. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "বৈষ্ণৱী-কীৰ্ত্তন বা নাম-কীৰ্ত্তন",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:54:51.686525Z",
+        "revision": "181215",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%AC%E0%A7%88%E0%A6%B7%E0%A7%8D%E0%A6%A3%E0%A7%B1%E0%A7%80-%E0%A6%95%E0%A7%80%E0%A7%B0%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%A8_%E0%A6%AC%E0%A6%BE_%E0%A6%A8%E0%A6%BE%E0%A6%AE-%E0%A6%95%E0%A7%80%E0%A7%B0%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%A8"
+      },
+      "title": "বৈষ্ণৱী-কীৰ্ত্তন বা নাম-কীৰ্ত্তন",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "sankardev-baisnavi-kirtan-ba-naam-kirtan"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "412c9e889683c5ff77e42ce1b71e8f99fcc247d52ef68793fc319d652152f9d7",
+        "encoding": "gzip",
+        "path": "books/as/sankardev-harishchandra-upakhyan-ed-1.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "cd1fddca964673f48b18d77868693fdec3844452a20d802843f005a068330836",
+        "sizeBytes": 45603,
+        "uncompressedSizeBytes": 215100,
+        "wordCount": 13420
+      },
+      "author": "শংকৰদেৱ",
+      "authorDeathYear": 1569,
+      "editionId": "sankardev-harishchandra-upakhyan-ed-1.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1906,
+      "originalTitle": "হৰিশ্চন্দ্ৰ উপাখ্যান",
+      "rights": {
+        "statement": "Public domain worldwide. শংকৰদেৱ died in 1569 and the work was first published in 1906. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "হৰিশ্চন্দ্ৰ উপাখ্যান",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:54:55.579589Z",
+        "revision": "90062",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%B9%E0%A7%B0%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A7%B0_%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8"
+      },
+      "title": "হৰিশ্চন্দ্ৰ উপাখ্যান",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "sankardev-harishchandra-upakhyan-ed-1"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "3d6797466dfcefd1bfa3fdba23d7eac690402545192cc914d0f4b4171df58e7c",
+        "encoding": "gzip",
+        "path": "books/as/sankardev-ram-malika.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "758a958cfabbfb2a043959ba52cedbbddaba00b0d6219a90579e54628cb424a4",
+        "sizeBytes": 36599,
+        "uncompressedSizeBytes": 176471,
+        "wordCount": 11204
+      },
+      "author": "শংকৰদেৱ",
+      "authorDeathYear": 1569,
+      "editionId": "sankardev-ram-malika.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1917,
+      "originalTitle": "ৰাম-মালিকা",
+      "rights": {
+        "statement": "Public domain worldwide. শংকৰদেৱ died in 1569 and the work was first published in 1917. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "ৰাম-মালিকা",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:55:04.164053Z",
+        "revision": "158965",
+        "url": "https://as.wikisource.org/wiki/%E0%A7%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE"
+      },
+      "title": "ৰাম-মালিকা",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "sankardev-ram-malika"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 13,
+        "contentSha256": "47badb177c37ae04bb9338bba10aaeb085770052962f127079e6b6a9b8e022aa",
+        "encoding": "gzip",
+        "path": "books/as/stowe-dadair-poja.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "3294661cc6f323e5d54c811531c215b79183f49368e86903da2eeb57809a112e",
+        "sizeBytes": 57738,
+        "uncompressedSizeBytes": 289357,
+        "wordCount": 18634
+      },
+      "author": "হ্যাৰিয়েট বীচৰ ষ্টো",
+      "authorDeathYear": 1896,
+      "editionId": "stowe-dadair-poja.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "as",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1852,
+      "originalTitle": "Dadair Poja",
+      "rights": {
+        "statement": "Public domain worldwide. হ্যাৰিয়েট বীচৰ ষ্টো died in 1896; the translator জ্ঞানদাভিৰাম বৰুৱা died in 1955 and this translation was first published in 1930. Source: as.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "দদাইৰ পজা",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:55:26.818303Z",
+        "revision": "247409",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%A6%E0%A6%A6%E0%A6%BE%E0%A6%87%E0%A7%B0_%E0%A6%AA%E0%A6%9C%E0%A6%BE"
+      },
+      "title": "দদাইৰ পজা",
+      "translationPublicationYear": 1930,
+      "translator": "জ্ঞানদাভিৰাম বৰুৱা",
+      "translatorDeathYear": 1955,
+      "workId": "stowe-dadair-poja"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 7,
+        "contentSha256": "42297782bba49ced755708f270987a4d6fc79341753f4109bc541084fcc2522f",
+        "encoding": "gzip",
+        "path": "books/as/vivekananda-sri-sri-swami-bibekanandar-chicago-baktrita.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6b49f0e5e3a1f1bd0a7814cbd5c59c77fffdfc884c703d75f9ab8e572de05358",
+        "sizeBytes": 24016,
+        "uncompressedSizeBytes": 130096,
+        "wordCount": 7188
+      },
+      "author": "স্বামী বিবেকানন্দ",
+      "authorDeathYear": 1902,
+      "editionId": "vivekananda-sri-sri-swami-bibekanandar-chicago-baktrita.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1925,
+      "originalTitle": "শ্ৰীশ্ৰীস্বামী বিবেকানন্দৰচিকাগো বক্তৃতা",
+      "rights": {
+        "statement": "Public domain worldwide. স্বামী বিবেকানন্দ died in 1902 and the work was first published in 1925. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "শ্ৰীশ্ৰী স্বামী বিবেকানন্দৰ চিকাগো বক্তৃতা",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:55:37.858264Z",
+        "revision": "156863",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%B6%E0%A7%8D%E0%A7%B0%E0%A7%80%E0%A6%B6%E0%A7%8D%E0%A7%B0%E0%A7%80_%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%AE%E0%A7%80_%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%B0_%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%97%E0%A7%8B_%E0%A6%AC%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A7%83%E0%A6%A4%E0%A6%BE"
+      },
+      "title": "শ্ৰীশ্ৰীস্বামী বিবেকানন্দৰচিকাগো বক্তৃতা",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vivekananda-sri-sri-swami-bibekanandar-chicago-baktrita"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "6166e70648e89c9e9c3421c1d66f21c34d1da487202d918fa7a719e5b967d4ac",
+        "encoding": "gzip",
+        "path": "books/as/washington-booker-washinton.as.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e970ddbd1859a538daf0008f4f2ae8c52d5cf1086fd08c6ad7eb7fa7cdae2013",
+        "sizeBytes": 107433,
+        "uncompressedSizeBytes": 566515,
+        "wordCount": 33882
+      },
+      "author": "বুকাৰ টি ৱাচিংটন",
+      "authorDeathYear": 1915,
+      "editionId": "washington-booker-washinton.as.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "as",
+      "originalLanguage": "as",
+      "originalPublicationYear": 1926,
+      "originalTitle": "বুকাৰ ৱাচিংটন",
+      "rights": {
+        "statement": "Public domain worldwide. বুকাৰ টি ৱাচিংটন died in 1915 and the work was first published in 1926. Source: as.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "বুকাৰ ৱাচিংটন",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T01:55:41.668119Z",
+        "revision": "251421",
+        "url": "https://as.wikisource.org/wiki/%E0%A6%AC%E0%A7%81%E0%A6%95%E0%A6%BE%E0%A7%B0_%E0%A7%B1%E0%A6%BE%E0%A6%9A%E0%A6%BF%E0%A6%82%E0%A6%9F%E0%A6%A8"
+      },
+      "title": "বুকাৰ ৱাচিংটন",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "washington-booker-washinton"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Assamese",
+  "language": "as",
+  "manifestVersion": "5589f95f36b68b31",
+  "nativeName": "অসমীয়া",
+  "schemaVersion": 1
+}

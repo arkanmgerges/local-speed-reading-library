@@ -1,0 +1,255 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:07:35.144410Z",
+    "chapterCount": 43,
+    "contentSha256": "cdb65cbff253d196fc855655c2883517d9c5d3a5e9d8120befbff0203c655883",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/twain-huckleberry-finns-aventyr.sv.wikisource/v1/book.json.gz",
+    "sha256": "d5ef3bf3a3c19e1fa178e326920533eaa8d2a4b602bd449fd53c9c07d60f147a",
+    "sizeBytes": 244967,
+    "uncompressedSizeBytes": 719622,
+    "wordCount": 124976
+  },
+  "edition": {
+    "editionId": "twain-huckleberry-finns-aventyr.sv.wikisource",
+    "kind": "translation",
+    "language": "sv",
+    "title": "Huckleberry Finns äventyr",
+    "translationPublicationYear": 1913,
+    "translator": {
+      "birthYear": 1849,
+      "deathYear": 1931,
+      "name": "Petrus Hedberg",
+      "wikidata": "Q53583323"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1910: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1931: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1913: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q215410",
+      "https://www.wikidata.org/wiki/Q59222342",
+      "https://www.wikidata.org/wiki/Q7245",
+      "https://www.wikidata.org/wiki/Q53583323",
+      "https://sv.wikisource.org/wiki/Huckleberry_Finns_%C3%A4ventyr"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Mark Twain died in 1910; the translator Petrus Hedberg died in 1931 and this translation was first published in 1913. Source: sv.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Huckleberry Finns äventyr",
+    "pages": [
+      {
+        "revision": 395105,
+        "title": "Huckleberry Finns äventyr"
+      },
+      {
+        "revision": 391579,
+        "title": "Huckleberry Finns äventyr/Kapitel 01"
+      },
+      {
+        "revision": 391588,
+        "title": "Huckleberry Finns äventyr/Kapitel 02"
+      },
+      {
+        "revision": 391598,
+        "title": "Huckleberry Finns äventyr/Kapitel 03"
+      },
+      {
+        "revision": 391615,
+        "title": "Huckleberry Finns äventyr/Kapitel 04"
+      },
+      {
+        "revision": 391621,
+        "title": "Huckleberry Finns äventyr/Kapitel 05"
+      },
+      {
+        "revision": 391634,
+        "title": "Huckleberry Finns äventyr/Kapitel 06"
+      },
+      {
+        "revision": 391644,
+        "title": "Huckleberry Finns äventyr/Kapitel 07"
+      },
+      {
+        "revision": 391677,
+        "title": "Huckleberry Finns äventyr/Kapitel 08"
+      },
+      {
+        "revision": 391685,
+        "title": "Huckleberry Finns äventyr/Kapitel 09"
+      },
+      {
+        "revision": 391704,
+        "title": "Huckleberry Finns äventyr/Kapitel 10"
+      },
+      {
+        "revision": 391715,
+        "title": "Huckleberry Finns äventyr/Kapitel 11"
+      },
+      {
+        "revision": 391739,
+        "title": "Huckleberry Finns äventyr/Kapitel 12"
+      },
+      {
+        "revision": 391770,
+        "title": "Huckleberry Finns äventyr/Kapitel 13"
+      },
+      {
+        "revision": 391789,
+        "title": "Huckleberry Finns äventyr/Kapitel 14"
+      },
+      {
+        "revision": 391790,
+        "title": "Huckleberry Finns äventyr/Kapitel 15"
+      },
+      {
+        "revision": 391831,
+        "title": "Huckleberry Finns äventyr/Kapitel 16"
+      },
+      {
+        "revision": 391849,
+        "title": "Huckleberry Finns äventyr/Kapitel 17"
+      },
+      {
+        "revision": 391872,
+        "title": "Huckleberry Finns äventyr/Kapitel 18"
+      },
+      {
+        "revision": 391887,
+        "title": "Huckleberry Finns äventyr/Kapitel 19"
+      },
+      {
+        "revision": 391916,
+        "title": "Huckleberry Finns äventyr/Kapitel 20"
+      },
+      {
+        "revision": 391929,
+        "title": "Huckleberry Finns äventyr/Kapitel 21"
+      },
+      {
+        "revision": 391936,
+        "title": "Huckleberry Finns äventyr/Kapitel 22"
+      },
+      {
+        "revision": 391948,
+        "title": "Huckleberry Finns äventyr/Kapitel 23"
+      },
+      {
+        "revision": 391991,
+        "title": "Huckleberry Finns äventyr/Kapitel 24"
+      },
+      {
+        "revision": 392001,
+        "title": "Huckleberry Finns äventyr/Kapitel 25"
+      },
+      {
+        "revision": 392040,
+        "title": "Huckleberry Finns äventyr/Kapitel 26"
+      },
+      {
+        "revision": 392057,
+        "title": "Huckleberry Finns äventyr/Kapitel 27"
+      },
+      {
+        "revision": 392086,
+        "title": "Huckleberry Finns äventyr/Kapitel 28"
+      },
+      {
+        "revision": 392140,
+        "title": "Huckleberry Finns äventyr/Kapitel 29"
+      },
+      {
+        "revision": 392157,
+        "title": "Huckleberry Finns äventyr/Kapitel 30"
+      },
+      {
+        "revision": 392177,
+        "title": "Huckleberry Finns äventyr/Kapitel 31"
+      },
+      {
+        "revision": 392200,
+        "title": "Huckleberry Finns äventyr/Kapitel 32"
+      },
+      {
+        "revision": 392222,
+        "title": "Huckleberry Finns äventyr/Kapitel 33"
+      },
+      {
+        "revision": 392262,
+        "title": "Huckleberry Finns äventyr/Kapitel 34"
+      },
+      {
+        "revision": 392296,
+        "title": "Huckleberry Finns äventyr/Kapitel 35"
+      },
+      {
+        "revision": 392367,
+        "title": "Huckleberry Finns äventyr/Kapitel 36"
+      },
+      {
+        "revision": 392421,
+        "title": "Huckleberry Finns äventyr/Kapitel 37"
+      },
+      {
+        "revision": 392503,
+        "title": "Huckleberry Finns äventyr/Kapitel 38"
+      },
+      {
+        "revision": 392513,
+        "title": "Huckleberry Finns äventyr/Kapitel 39"
+      },
+      {
+        "revision": 392536,
+        "title": "Huckleberry Finns äventyr/Kapitel 40"
+      },
+      {
+        "revision": 544231,
+        "title": "Huckleberry Finns äventyr/Kapitel 41"
+      },
+      {
+        "revision": 392728,
+        "title": "Huckleberry Finns äventyr/Kapitel 42"
+      },
+      {
+        "revision": 392733,
+        "title": "Huckleberry Finns äventyr/Kapitel 43"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:08:45.067234Z",
+    "revision": "395105",
+    "site": "sv.wikisource.org",
+    "url": "https://sv.wikisource.org/wiki/Huckleberry_Finns_%C3%A4ventyr"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1910,
+      "name": "Mark Twain",
+      "wikidata": "Q7245"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1884,
+    "originalTitle": "Huckleberry Finns äventyr",
+    "workId": "twain-huckleberry-finns-aventyr"
+  }
+}

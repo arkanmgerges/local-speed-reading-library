@@ -1,0 +1,117 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:53:28.148061Z",
+    "chapterCount": 11,
+    "contentSha256": "b44a025bf1c3edf9d8cd9775da8c076d0ac31ea40923d87f310522870d39d225",
+    "normalizerVersion": "0.2.0",
+    "path": "books/el/christomanos-q15618359.el.wikisource/v1/book.json.gz",
+    "sha256": "5f4d75e6ba50521aaeb793730aace15e6b39b6bc3e9f5cf9c70578aa68cc9caa",
+    "sizeBytes": 116995,
+    "uncompressedSizeBytes": 439816,
+    "wordCount": 43884
+  },
+  "edition": {
+    "editionId": "christomanos-q15618359.el.wikisource",
+    "kind": "original",
+    "language": "el",
+    "title": "Η κερένια κούκλα"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1911: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1908: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q15618359",
+      "https://www.wikidata.org/wiki/Q1118455",
+      "https://el.wikisource.org/wiki/%CE%97_%CE%BA%CE%B5%CF%81%CE%AD%CE%BD%CE%B9%CE%B1_%CE%BA%CE%BF%CF%8D%CE%BA%CE%BB%CE%B1"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Κωνσταντίνος Χρηστομάνος died in 1911 and the work was first published in 1908. Source: el.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Η κερένια κούκλα",
+    "pages": [
+      {
+        "revision": 162027,
+        "title": "Η κερένια κούκλα"
+      },
+      {
+        "revision": 59076,
+        "title": "Η κερένια κούκλα/Α"
+      },
+      {
+        "revision": 59077,
+        "title": "Η κερένια κούκλα/Β"
+      },
+      {
+        "revision": 59078,
+        "title": "Η κερένια κούκλα/Γ"
+      },
+      {
+        "revision": 59079,
+        "title": "Η κερένια κούκλα/Δ"
+      },
+      {
+        "revision": 59081,
+        "title": "Η κερένια κούκλα/Ε"
+      },
+      {
+        "revision": 59082,
+        "title": "Η κερένια κούκλα/ΣΤ"
+      },
+      {
+        "revision": 59084,
+        "title": "Η κερένια κούκλα/Ζ"
+      },
+      {
+        "revision": 59085,
+        "title": "Η κερένια κούκλα/Η"
+      },
+      {
+        "revision": 59086,
+        "title": "Η κερένια κούκλα/Θ"
+      },
+      {
+        "revision": 59087,
+        "title": "Η κερένια κούκλα/Ι"
+      },
+      {
+        "revision": 59088,
+        "title": "Η κερένια κούκλα/ΙΑ"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:27:14.453135Z",
+    "revision": "162027",
+    "site": "el.wikisource.org",
+    "url": "https://el.wikisource.org/wiki/%CE%97_%CE%BA%CE%B5%CF%81%CE%AD%CE%BD%CE%B9%CE%B1_%CE%BA%CE%BF%CF%8D%CE%BA%CE%BB%CE%B1"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1867,
+      "deathYear": 1911,
+      "name": "Κωνσταντίνος Χρηστομάνος",
+      "wikidata": "Q1118455"
+    },
+    "originalLanguage": "el",
+    "originalPublicationYear": 1908,
+    "originalTitle": "Η κερένια κούκλα",
+    "workId": "christomanos-q15618359"
+  }
+}

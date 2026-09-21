@@ -1,0 +1,97 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:00:49.859223Z",
+    "chapterCount": 6,
+    "contentSha256": "c639371293cbbab7249a0bd68ceab2ce0f5081cdd7d70a2800042e078258cec3",
+    "normalizerVersion": "0.2.0",
+    "path": "books/mk/misirkov-on-macedonian-matters.mk.wikisource/v1/book.json.gz",
+    "sha256": "1a2e7d031b346246016564a8af628163b0bb9a288bffaeea33b5b34406f439c6",
+    "sizeBytes": 108731,
+    "uncompressedSizeBytes": 511540,
+    "wordCount": 45088
+  },
+  "edition": {
+    "editionId": "misirkov-on-macedonian-matters.mk.wikisource",
+    "kind": "original",
+    "language": "mk",
+    "title": "За македонцките работи"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1926: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1903: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12280226",
+      "https://www.wikidata.org/wiki/Q2586864",
+      "https://mk.wikisource.org/wiki/%D0%97%D0%B0_%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D1%82%D0%B5_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B8"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Крсте Петков Мисирков died in 1926 and the work was first published in 1903. Source: mk.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "За македонските работи",
+    "pages": [
+      {
+        "revision": 20961,
+        "title": "За македонските работи"
+      },
+      {
+        "revision": 21055,
+        "title": "За македонските работи/ Предговор"
+      },
+      {
+        "revision": 21079,
+        "title": "За македонските работи/ Што направивме и што треба да правиме во иднина?"
+      },
+      {
+        "revision": 21078,
+        "title": "За македонските работи/ Има ли потреба за македонски национални научно-литературни друштва?"
+      },
+      {
+        "revision": 21061,
+        "title": "За македонските работи/ Националниот сепаратизам: земјиштето на кое се има развиено и ќе се развива за напред"
+      },
+      {
+        "revision": 21060,
+        "title": "За македонските работи/ Составувала, составува и може ли Македонија да составува од себе одделна етнографска, и политичка единица?"
+      },
+      {
+        "revision": 21059,
+        "title": "За македонските работи/ Неколку зборови за македонскиот литературен јазик"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:56:33.163223Z",
+    "revision": "20961",
+    "site": "mk.wikisource.org",
+    "url": "https://mk.wikisource.org/wiki/%D0%97%D0%B0_%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D1%82%D0%B5_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B8"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1874,
+      "deathYear": 1926,
+      "name": "Крсте Петков Мисирков",
+      "wikidata": "Q2586864"
+    },
+    "originalLanguage": "mk",
+    "originalPublicationYear": 1903,
+    "originalTitle": "За македонцките работи",
+    "workId": "misirkov-on-macedonian-matters"
+  }
+}

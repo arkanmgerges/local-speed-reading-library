@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:01:51.949347Z",
+    "chapterCount": 25,
+    "contentSha256": "0321bf59ca60fb33b2da4d5cc541fd9813b22294156af7af4d0a7fa9da4ba192",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/boschma-blank-en-bruin.nl.gutenberg/v1/book.json.gz",
+    "sha256": "ead150d7830805185d783d43ef3c7fc37c9ddd333a3ee9ebe310d7505f541c88",
+    "sizeBytes": 100460,
+    "uncompressedSizeBytes": 281028,
+    "wordCount": 43626
+  },
+  "edition": {
+    "editionId": "boschma-blank-en-bruin.nl.gutenberg",
+    "editionPublicationYear": 1912,
+    "kind": "original",
+    "language": "nl",
+    "title": "Blank en Bruin"
+  },
+  "genres": [
+    "Fiction",
+    "Children"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1954: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1912 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/76853",
+      "https://nl.wikipedia.org/wiki/Hilbrandt_Boschma"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Hilbrandt Boschma died in 1954 and the edition digitised by Project Gutenberg was printed in 1912. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "76853",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:06:58.740201Z",
+    "revision": "Sun, 30 Aug 2026 17:57:19 GMT",
+    "url": "https://www.gutenberg.org/ebooks/76853"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1869,
+      "deathYear": 1954,
+      "name": "Hilbrandt Boschma",
+      "wikidata": "Q108219582"
+    },
+    "originalLanguage": "nl",
+    "originalTitle": "Blank en Bruin",
+    "workId": "boschma-blank-en-bruin"
+  }
+}

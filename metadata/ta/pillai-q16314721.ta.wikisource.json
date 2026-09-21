@@ -1,0 +1,165 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:07:43.286551Z",
+    "chapterCount": 81,
+    "contentSha256": "308d06f515c009c82be2f13fe15eeb59e688d27450fffcc287421131c31aa8fb",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ta/pillai-q16314721.ta.wikisource/v1/book.json.gz",
+    "sha256": "16229d840a0360928760fc1ec70fdb93214e35cd409561e36e27d0ba3b9bf8b9",
+    "sizeBytes": 148145,
+    "uncompressedSizeBytes": 805656,
+    "wordCount": 30752
+  },
+  "edition": {
+    "editionId": "pillai-q16314721.ta.wikisource",
+    "kind": "original",
+    "language": "ta",
+    "title": "மனோன்மணீயம்"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1897: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1891: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q16314721",
+      "https://www.wikidata.org/wiki/Q6751282",
+      "https://ta.wikisource.org/wiki/%E0%AE%AE%E0%AE%A9%E0%AF%8B%E0%AE%A9%E0%AF%8D%E0%AE%AE%E0%AE%A3%E0%AF%80%E0%AE%AF%E0%AE%AE%E0%AF%8D"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. பெ. சுந்தரம் பிள்ளை died in 1897 and the work was first published in 1891. Source: ta.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "மனோன்மணீயம்",
+    "pages": [
+      {
+        "revision": 1526502,
+        "title": "மனோன்மணீயம்"
+      },
+      {
+        "revision": 478919,
+        "title": "மனோன்மணீயம்/மூலம்"
+      },
+      {
+        "revision": 478969,
+        "title": "மனோன்மணீயம்/அங்கம் 01/களம் 01"
+      },
+      {
+        "revision": 478924,
+        "title": "மனோன்மணீயம்/அங்கம் 01/களம் 02"
+      },
+      {
+        "revision": 478970,
+        "title": "மனோன்மணீயம்/அங்கம் 01/களம் 03"
+      },
+      {
+        "revision": 478972,
+        "title": "மனோன்மணீயம்/அங்கம் 01/களம் 04"
+      },
+      {
+        "revision": 478974,
+        "title": "மனோன்மணீயம்/அங்கம் 01/களம் 05"
+      },
+      {
+        "revision": 478975,
+        "title": "மனோன்மணீயம்/அங்கம் 02/களம் 01"
+      },
+      {
+        "revision": 478976,
+        "title": "மனோன்மணீயம்/அங்கம் 02/களம் 02"
+      },
+      {
+        "revision": 478977,
+        "title": "மனோன்மணீயம்/அங்கம் 02/களம் 03"
+      },
+      {
+        "revision": 478978,
+        "title": "மனோன்மணீயம்/அங்கம் 03/களம் 01"
+      },
+      {
+        "revision": 478979,
+        "title": "மனோன்மணீயம்/அங்கம் 03/களம் 02"
+      },
+      {
+        "revision": 478980,
+        "title": "மனோன்மணீயம்/அங்கம் 03/களம் 03"
+      },
+      {
+        "revision": 478981,
+        "title": "மனோன்மணீயம்/அங்கம் 03/களம் 04"
+      },
+      {
+        "revision": 478982,
+        "title": "மனோன்மணீயம்/அங்கம் 04"
+      },
+      {
+        "revision": 478983,
+        "title": "மனோன்மணீயம்/அங்கம் 04/களம் 01"
+      },
+      {
+        "revision": 1379901,
+        "title": "மனோன்மணீயம்/அங்கம் 04/களம் 02"
+      },
+      {
+        "revision": 478985,
+        "title": "மனோன்மணீயம்/அங்கம் 04/களம் 03"
+      },
+      {
+        "revision": 478986,
+        "title": "மனோன்மணீயம்/அங்கம் 04/களம் 04"
+      },
+      {
+        "revision": 1513730,
+        "title": "மனோன்மணீயம்/அங்கம் 04/களம் 05"
+      },
+      {
+        "revision": 478988,
+        "title": "மனோன்மணீயம்/அங்கம் 05/களம் 01"
+      },
+      {
+        "revision": 478989,
+        "title": "மனோன்மணீயம்/அங்கம் 05/களம் 02"
+      },
+      {
+        "revision": 478992,
+        "title": "மனோன்மணீயம்/அங்கம் 05/களம் 03-கதைச்சுருக்கம்"
+      },
+      {
+        "revision": 1397191,
+        "title": "மனோன்மணீயம்/அங்கம் 05/களம் 03"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:12:42.703095Z",
+    "revision": "1526502",
+    "site": "ta.wikisource.org",
+    "url": "https://ta.wikisource.org/wiki/%E0%AE%AE%E0%AE%A9%E0%AF%8B%E0%AE%A9%E0%AF%8D%E0%AE%AE%E0%AE%A3%E0%AF%80%E0%AE%AF%E0%AE%AE%E0%AF%8D"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1855,
+      "deathYear": 1897,
+      "name": "பெ. சுந்தரம் பிள்ளை",
+      "wikidata": "Q6751282"
+    },
+    "originalLanguage": "ta",
+    "originalPublicationYear": 1891,
+    "originalTitle": "மனோன்மணீயம்",
+    "workId": "pillai-q16314721"
+  }
+}

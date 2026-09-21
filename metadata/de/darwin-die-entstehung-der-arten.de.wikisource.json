@@ -1,0 +1,151 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:52:54.122269Z",
+    "chapterCount": 18,
+    "contentSha256": "bc09a1960edd7af7a789d7c8e044adad8b755bad1468c78f8f1465cbba844927",
+    "normalizerVersion": "0.2.0",
+    "path": "books/de/darwin-die-entstehung-der-arten.de.wikisource/v1/book.json.gz",
+    "sha256": "4df981f7659c9eb3c87d627d92b242f0c5f573f751a2d9fc1f038fefff7a0b40",
+    "sizeBytes": 367467,
+    "uncompressedSizeBytes": 1139343,
+    "wordCount": 156987
+  },
+  "edition": {
+    "editionId": "darwin-die-entstehung-der-arten.de.wikisource",
+    "kind": "translation",
+    "language": "de",
+    "title": "Die Entstehung der Arten",
+    "translationPublicationYear": 1860,
+    "translator": {
+      "birthYear": 1800,
+      "deathYear": 1862,
+      "name": "Heinrich Georg Bronn",
+      "wikidata": "Q64395"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1882: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1862: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1860: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q20124",
+      "https://www.wikidata.org/wiki/Q21161675",
+      "https://www.wikidata.org/wiki/Q1035",
+      "https://www.wikidata.org/wiki/Q64395",
+      "https://de.wikisource.org/wiki/Entstehung_der_Arten"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charles Darwin died in 1882; the translator Heinrich Georg Bronn died in 1862 and this translation was first published in 1860. Source: de.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Entstehung der Arten",
+    "pages": [
+      {
+        "revision": 4424316,
+        "title": "Entstehung der Arten"
+      },
+      {
+        "revision": 690267,
+        "title": "Entstehung der Arten/Vorrede des Verfassers"
+      },
+      {
+        "revision": 1625029,
+        "title": "Entstehung der Arten/Einleitung"
+      },
+      {
+        "revision": 685353,
+        "title": "Entstehung der Arten/Erstes Kapitel"
+      },
+      {
+        "revision": 1625045,
+        "title": "Entstehung der Arten/Zweites Kapitel"
+      },
+      {
+        "revision": 1625044,
+        "title": "Entstehung der Arten/Drittes Kapitel"
+      },
+      {
+        "revision": 1625043,
+        "title": "Entstehung der Arten/Viertes Kapitel"
+      },
+      {
+        "revision": 1625040,
+        "title": "Entstehung der Arten/Fünftes Kapitel"
+      },
+      {
+        "revision": 1625039,
+        "title": "Entstehung der Arten/Sechstes Kapitel"
+      },
+      {
+        "revision": 1625038,
+        "title": "Entstehung der Arten/Siebentes Kapitel"
+      },
+      {
+        "revision": 1625037,
+        "title": "Entstehung der Arten/Achtes Kapitel"
+      },
+      {
+        "revision": 1625041,
+        "title": "Entstehung der Arten/Neuntes Kapitel"
+      },
+      {
+        "revision": 1625035,
+        "title": "Entstehung der Arten/Zehntes Kapitel"
+      },
+      {
+        "revision": 1625034,
+        "title": "Entstehung der Arten/Eilftes Kapitel"
+      },
+      {
+        "revision": 1625033,
+        "title": "Entstehung der Arten/Zwölftes Kapitel"
+      },
+      {
+        "revision": 1625032,
+        "title": "Entstehung der Arten/Dreizehntes Kapitel"
+      },
+      {
+        "revision": 1625031,
+        "title": "Entstehung der Arten/Vierzehntes Kapitel"
+      },
+      {
+        "revision": 1625030,
+        "title": "Entstehung der Arten/Fünfzehntes Kapitel"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:24:53.184783Z",
+    "revision": "4424316",
+    "site": "de.wikisource.org",
+    "url": "https://de.wikisource.org/wiki/Entstehung_der_Arten"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1809,
+      "deathYear": 1882,
+      "name": "Charles Darwin",
+      "wikidata": "Q1035"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1859,
+    "originalTitle": "Die Entstehung der Arten",
+    "workId": "darwin-die-entstehung-der-arten"
+  }
+}

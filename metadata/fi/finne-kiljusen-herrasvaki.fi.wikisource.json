@@ -1,0 +1,105 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:49:37.336392Z",
+    "chapterCount": 8,
+    "contentSha256": "493e4d26f7d9f7cac09b0c6c9fe7563fee86dab810e6a8c54b9e5a629eb4df65",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/finne-kiljusen-herrasvaki.fi.wikisource/v1/book.json.gz",
+    "sha256": "81febde951277dd688ef4e97e4d2a75311d4b7b3ac160446e7b52ead069ec929",
+    "sizeBytes": 41371,
+    "uncompressedSizeBytes": 125311,
+    "wordCount": 15076
+  },
+  "edition": {
+    "editionId": "finne-kiljusen-herrasvaki.fi.wikisource",
+    "kind": "original",
+    "language": "fi",
+    "title": "Kiljusen herrasväki"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1938: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1914: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q59210164",
+      "https://www.wikidata.org/wiki/Q4907669",
+      "https://fi.wikisource.org/wiki/Kiljusen_herrasv%C3%A4ki"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jalmari Finne died in 1938 and the work was first published in 1914. Source: fi.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Kiljusen herrasväki",
+    "pages": [
+      {
+        "revision": 117685,
+        "title": "Kiljusen herrasväki"
+      },
+      {
+        "revision": 119091,
+        "title": "Kiljusen herrasväki/Kiljusen herrasväen Helsinginmatka"
+      },
+      {
+        "revision": 117722,
+        "title": "Kiljusen herrasväki/Kiljusen herrasväen kalastusmatka"
+      },
+      {
+        "revision": 117691,
+        "title": "Kiljusen herrasväki/Saunamatka"
+      },
+      {
+        "revision": 117690,
+        "title": "Kiljusen herrasväki/Mökön ja Lurun syntymäpäivä"
+      },
+      {
+        "revision": 117686,
+        "title": "Kiljusen herrasväki/Aarteen kaivaminen"
+      },
+      {
+        "revision": 122820,
+        "title": "Kiljusen herrasväki/Kun Kiljusen pojat olivat hirviä pyytämässä"
+      },
+      {
+        "revision": 117689,
+        "title": "Kiljusen herrasväki/Kiljusen herrasväen toinen Helsinginmatka"
+      },
+      {
+        "revision": 117688,
+        "title": "Kiljusen herrasväki/Kiljusen herrasväen markkinamatka"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:03:53.548366Z",
+    "revision": "117685",
+    "site": "fi.wikisource.org",
+    "url": "https://fi.wikisource.org/wiki/Kiljusen_herrasv%C3%A4ki"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1874,
+      "deathYear": 1938,
+      "name": "Jalmari Finne",
+      "wikidata": "Q4907669"
+    },
+    "originalLanguage": "fi",
+    "originalPublicationYear": 1914,
+    "originalTitle": "Kiljusen herrasväki",
+    "workId": "finne-kiljusen-herrasvaki"
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:59:21.202562Z",
+    "chapterCount": 41,
+    "contentSha256": "3079ca74e363a034e8fc05366a36749f8014d4ebdfb250654b6f86ddf4a2c594",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hy/raffi-samuel.hy.wikisource/v1/book.json.gz",
+    "sha256": "f0cf47092f8c3bd2fb809aecd5ac0f2bade3f5c1662b3cb3941f8c1ff94fc7b1",
+    "sizeBytes": 433213,
+    "uncompressedSizeBytes": 1786317,
+    "wordCount": 144108
+  },
+  "edition": {
+    "editionId": "raffi-samuel.hy.wikisource",
+    "kind": "original",
+    "language": "hy",
+    "title": "Սամուէլ"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1888: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1886: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q3471016",
+      "https://www.wikidata.org/wiki/Q2610362",
+      "https://hy.wikisource.org/wiki/%D5%8D%D5%A1%D5%B4%D5%BE%D5%A5%D5%AC"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Րաֆֆի died in 1888 and the work was first published in 1886. Source: hy.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Սամվել",
+    "pages": [
+      {
+        "revision": 392753,
+        "title": "Սամվել"
+      },
+      {
+        "revision": 366876,
+        "title": "Սամվել/Առաջին գիրք/Ա"
+      },
+      {
+        "revision": 73728,
+        "title": "Սամվել/Առաջին գիրք/Բ"
+      },
+      {
+        "revision": 187721,
+        "title": "Սամվել/Առաջին գիրք/Գ"
+      },
+      {
+        "revision": 73720,
+        "title": "Սամվել/Առաջին գիրք/Դ"
+      },
+      {
+        "revision": 73716,
+        "title": "Սամվել/Առաջին գիրք/Ե"
+      },
+      {
+        "revision": 73712,
+        "title": "Սամվել/Առաջին գիրք/Զ"
+      },
+      {
+        "revision": 73708,
+        "title": "Սամվել/Առաջին գիրք/Է"
+      },
+      {
+        "revision": 73704,
+        "title": "Սամվել/Առաջին գիրք/Ը"
+      },
+      {
+        "revision": 73700,
+        "title": "Սամվել/Առաջին գիրք/Թ"
+      },
+      {
+        "revision": 73696,
+        "title": "Սամվել/Առաջին գիրք/Ժ"
+      },
+      {
+        "revision": 73692,
+        "title": "Սամվել/Առաջին գիրք/ԺԱ"
+      },
+      {
+        "revision": 73688,
+        "title": "Սամվել/Առաջին գիրք/ԺԲ"
+      },
+      {
+        "revision": 73686,
+        "title": "Սամվել/Առաջին գիրք/ԺԳ"
+      },
+      {
+        "revision": 73680,
+        "title": "Սամվել/Առաջին գիրք/ԺԴ"
+      },
+      {
+        "revision": 73676,
+        "title": "Սամվել/Առաջին գիրք/ԺԵ"
+      },
+      {
+        "revision": 73671,
+        "title": "Սամվել/Առաջին գիրք/ԺԶ"
+      },
+      {
+        "revision": 73664,
+        "title": "Սամվել/Առաջին գիրք/ԺԷ"
+      },
+      {
+        "revision": 73667,
+        "title": "Սամվել/Առաջին գիրք/ԺԸ"
+      },
+      {
+        "revision": 73656,
+        "title": "Սամվել/Առաջին գիրք/ԺԸ/I"
+      },
+      {
+        "revision": 168035,
+        "title": "Սամվել/Առաջին գիրք/ԺԸ/II"
+      },
+      {
+        "revision": 280056,
+        "title": "Սամվել/Առաջին գիրք/ԺԸ-III"
+      },
+      {
+        "revision": 73914,
+        "title": "Սամվել/Երկրորդ գիրք/I"
+      },
+      {
+        "revision": 73917,
+        "title": "Սամվել/Երկրորդ գիրք/II"
+      },
+      {
+        "revision": 168197,
+        "title": "Սամվել/Երկրորդ գիրք/Ա"
+      },
+      {
+        "revision": 73919,
+        "title": "Սամվել/Երկրորդ գիրք/Բ"
+      },
+      {
+        "revision": 73920,
+        "title": "Սամվել/Երկրորդ գիրք/Գ"
+      },
+      {
+        "revision": 73921,
+        "title": "Սամվել/Երկրորդ գիրք/Դ"
+      },
+      {
+        "revision": 73922,
+        "title": "Սամվել/Երկրորդ գիրք/Ե"
+      },
+      {
+        "revision": 73923,
+        "title": "Սամվել/Երկրորդ գիրք/Զ"
+      },
+      {
+        "revision": 73924,
+        "title": "Սամվել/Երկրորդ գիրք/Է"
+      },
+      {
+        "revision": 73925,
+        "title": "Սամվել/Երկրորդ գիրք/Ը"
+      },
+      {
+        "revision": 73926,
+        "title": "Սամվել/Երկրորդ գիրք/Թ"
+      },
+      {
+        "revision": 73927,
+        "title": "Սամվել/Երկրորդ գիրք/Ժ"
+      },
+      {
+        "revision": 73928,
+        "title": "Սամվել/Երկրորդ գիրք/ԺԱ"
+      },
+      {
+        "revision": 73930,
+        "title": "Սամվել/Երկրորդ գիրք/ԺԲ"
+      },
+      {
+        "revision": 73932,
+        "title": "Սամվել/Երրորդ գիրք/Ա"
+      },
+      {
+        "revision": 73933,
+        "title": "Սամվել/Երրորդ գիրք/Բ"
+      },
+      {
+        "revision": 73934,
+        "title": "Սամվել/Երրորդ գիրք/Գ"
+      },
+      {
+        "revision": 73935,
+        "title": "Սամվել/Երրորդ գիրք/Դ"
+      },
+      {
+        "revision": 73936,
+        "title": "Սամվել/Երրորդ գիրք/Ե"
+      },
+      {
+        "revision": 73937,
+        "title": "Սամվել/Երրորդ գիրք/Զ"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:38:34.923900Z",
+    "revision": "392753",
+    "site": "hy.wikisource.org",
+    "url": "https://hy.wikisource.org/wiki/%D5%8D%D5%A1%D5%B4%D5%BE%D5%A5%D5%AC"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1888,
+      "name": "Րաֆֆի",
+      "wikidata": "Q2610362"
+    },
+    "originalLanguage": "hy",
+    "originalPublicationYear": 1886,
+    "originalTitle": "Սամուէլ",
+    "workId": "raffi-samuel"
+  }
+}

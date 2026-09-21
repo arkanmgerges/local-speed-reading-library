@@ -1,0 +1,96 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 7,
+        "contentSha256": "f104f38e6f79189a0d9730c2000778b9e91a011f454bcfd818a6d8f533dc4f59",
+        "encoding": "gzip",
+        "path": "books/hi/dwivedi-origin-of-hindi-language.hi.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "872da30f7a23b30d4e62a11b9f7eeff3e2a9eee575889fd75cdc5dcb0c704aa5",
+        "sizeBytes": 39024,
+        "uncompressedSizeBytes": 217761,
+        "wordCount": 15843
+      },
+      "author": "महावीर प्रसाद द्विवेदी",
+      "authorDeathYear": 1938,
+      "editionId": "dwivedi-origin-of-hindi-language.hi.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "hi",
+      "originalLanguage": "hi",
+      "originalPublicationYear": 1925,
+      "originalTitle": "हिन्दी भाषा की उत्पत्ति",
+      "rights": {
+        "statement": "Public domain worldwide. महावीर प्रसाद द्विवेदी died in 1938 and the work was first published in 1925. Source: hi.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "हिन्दी भाषा की उत्पत्ति",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:33:37.294930Z",
+        "revision": "467026",
+        "url": "https://hi.wikisource.org/wiki/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80_%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE_%E0%A4%95%E0%A5%80_%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BF"
+      },
+      "title": "हिन्दी भाषा की उत्पत्ति",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "dwivedi-origin-of-hindi-language"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "d8cfa2f68dd41919b9e2161e40246586468757c99e3a52114303b052e7ff836f",
+        "encoding": "gzip",
+        "path": "books/hi/premchand-karbala.hi.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d504750dd492c8b0ad8cfaae1d55e3b3231322be3ca19471922138eeec6cc5ec",
+        "sizeBytes": 20132,
+        "uncompressedSizeBytes": 93783,
+        "wordCount": 7354
+      },
+      "author": "प्रेमचंद",
+      "authorDeathYear": 1936,
+      "editionId": "premchand-karbala.hi.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "hi",
+      "originalLanguage": "hi",
+      "originalPublicationYear": 1924,
+      "originalTitle": "कर्बला",
+      "rights": {
+        "statement": "Public domain worldwide. प्रेमचंद died in 1936 and the work was first published in 1924. Source: hi.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "कर्बला",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:33:43.173231Z",
+        "revision": "654076",
+        "url": "https://hi.wikisource.org/wiki/%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%B2%E0%A4%BE"
+      },
+      "title": "कर्बला",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "premchand-karbala"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Hindi",
+  "language": "hi",
+  "manifestVersion": "8ea6ff32c414b673",
+  "nativeName": "हिन्दी",
+  "schemaVersion": 1
+}

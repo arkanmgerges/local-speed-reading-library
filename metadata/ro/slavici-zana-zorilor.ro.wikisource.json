@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:12.971684Z",
+    "chapterCount": 1,
+    "contentSha256": "7f99a9433bc494481ede2530c7aef52cf3526dd49660878facc507838be7878f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/slavici-zana-zorilor.ro.wikisource/v1/book.json.gz",
+    "sha256": "dd678e90010df034dca86b93f1796053dc4d00390a806ad40c97f120b37e0a50",
+    "sizeBytes": 27925,
+    "uncompressedSizeBytes": 83101,
+    "wordCount": 13456
+  },
+  "edition": {
+    "editionId": "slavici-zana-zorilor.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "title": "Zâna Zorilor"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1925: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1872: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q96111568",
+      "https://www.wikidata.org/wiki/Q961107",
+      "https://ro.wikisource.org/wiki/Z%C3%A2na_Zorilor"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ioan Slavici died in 1925 and the work was first published in 1872. Source: ro.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Zâna Zorilor",
+    "pages": [
+      {
+        "revision": 121516,
+        "title": "Zâna Zorilor"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:51:50.704618Z",
+    "revision": "121516",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/Z%C3%A2na_Zorilor"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1848,
+      "deathYear": 1925,
+      "name": "Ioan Slavici",
+      "wikidata": "Q961107"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1872,
+    "originalTitle": "Zâna Zorilor",
+    "workId": "slavici-zana-zorilor"
+  }
+}

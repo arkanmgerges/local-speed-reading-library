@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:28:16.507632Z",
+    "chapterCount": 11,
+    "contentSha256": "de39077f08a2abfcb5f4ac13ddaaca8fd94e263cce95eb90a7b8c2e044278687",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hu/molnar-a-pal-utcai-fiuk.hu.gutenberg/v1/book.json.gz",
+    "sha256": "492b68fb4a0d31d575d6f9b238c2f51004ee23da2d7ef0fe949a3fed3657a6bb",
+    "sizeBytes": 112685,
+    "uncompressedSizeBytes": 321368,
+    "wordCount": 43393
+  },
+  "edition": {
+    "editionId": "molnar-a-pal-utcai-fiuk.hu.gutenberg",
+    "kind": "original",
+    "language": "hu",
+    "title": "A Pál-utcai fiúk: Regény kis diákok számára"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1952: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1906: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/69689",
+      "https://en.wikipedia.org/wiki/Ferenc_Moln%C3%A1r",
+      "https://www.wikidata.org/wiki/Q460661"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ferenc Molnár died in 1952 and the work was first published in 1906. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "69689",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:36:10.229688Z",
+    "revision": "Thu, 27 Aug 2026 16:10:50 GMT",
+    "url": "https://www.gutenberg.org/ebooks/69689"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1878,
+      "deathYear": 1952,
+      "name": "Ferenc Molnár",
+      "wikidata": "Q296809"
+    },
+    "originalLanguage": "hu",
+    "originalPublicationYear": 1906,
+    "originalTitle": "A Pál-utcai fiúk: Regény kis diákok számára",
+    "workId": "molnar-a-pal-utcai-fiuk"
+  }
+}

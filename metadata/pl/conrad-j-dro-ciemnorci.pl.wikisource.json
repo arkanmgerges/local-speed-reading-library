@@ -1,0 +1,99 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:09.653156Z",
+    "chapterCount": 6,
+    "contentSha256": "b2533c52557bd11c6a0eb2caf40f8db2921e86cce21e27a59957a890163d0b91",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/conrad-j-dro-ciemnorci.pl.wikisource/v1/book.json.gz",
+    "sha256": "f5f7deb772583698c1b845923ac329dce0aaa3db662b41fa953e5719da77e7b9",
+    "sizeBytes": 190651,
+    "uncompressedSizeBytes": 483470,
+    "wordCount": 67590
+  },
+  "edition": {
+    "editionId": "conrad-j-dro-ciemnorci.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Jądro ciemności",
+    "translationPublicationYear": 1930,
+    "translator": {
+      "birthYear": 1881,
+      "deathYear": 1943,
+      "name": "Aniela Zagórska",
+      "wikidata": "Q11686186"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1924: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1943: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1930: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q129778",
+      "https://www.wikidata.org/wiki/Q59110014",
+      "https://www.wikidata.org/wiki/Q82925",
+      "https://www.wikidata.org/wiki/Q11686186",
+      "https://pl.wikisource.org/wiki/J%C4%85dro_ciemno%C5%9Bci"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Joseph Conrad died in 1924; the translator Aniela Zagórska died in 1943 and this translation was first published in 1930. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Jądro ciemności",
+    "pages": [
+      {
+        "revision": 3260749,
+        "title": "Jądro ciemności"
+      },
+      {
+        "revision": 3260750,
+        "title": "Jądro ciemności/I"
+      },
+      {
+        "revision": 3260753,
+        "title": "Jądro ciemności/całość"
+      },
+      {
+        "revision": 3260751,
+        "title": "Jądro ciemności/II"
+      },
+      {
+        "revision": 3260752,
+        "title": "Jądro ciemności/III"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:20:51.108871Z",
+    "revision": "3260749",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/J%C4%85dro_ciemno%C5%9Bci"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1857,
+      "deathYear": 1924,
+      "name": "Joseph Conrad",
+      "wikidata": "Q82925"
+    },
+    "originalLanguage": "en-gb",
+    "originalPublicationYear": 1899,
+    "originalTitle": "Jądro ciemności",
+    "workId": "conrad-j-dro-ciemnorci"
+  }
+}

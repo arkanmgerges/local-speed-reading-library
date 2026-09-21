@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:32.709491Z",
+    "chapterCount": 4,
+    "contentSha256": "89e7ad30109d5c8533e0122cac35794b3a0d66f1dca4de2d2510e8eb99b078b4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/zahle-vildsomme-veje.da.gutenberg/v1/book.json.gz",
+    "sha256": "b0101b941bee0d9c7107476e3bfdfdcbdda280d9b9dcd33603f38d6f29e5d941",
+    "sizeBytes": 53892,
+    "uncompressedSizeBytes": 144723,
+    "wordCount": 24044
+  },
+  "edition": {
+    "editionId": "zahle-vildsomme-veje.da.gutenberg",
+    "editionPublicationYear": 1890,
+    "kind": "original",
+    "language": "da",
+    "title": "Vildsomme Veje : $b Ogsaa en kærlighedshistorie / I sommerferien"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1940: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1890 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/75414",
+      "https://da.wikipedia.org/wiki/Vilhelmine_Zahle"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Vilhelmine Zahle died in 1940 and the edition digitised by Project Gutenberg was printed in 1890. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "75414",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:24:14.775387Z",
+    "revision": "Sun, 30 Aug 2026 07:32:47 GMT",
+    "url": "https://www.gutenberg.org/ebooks/75414"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1868,
+      "deathYear": 1940,
+      "name": "Vilhelmine Zahle",
+      "wikidata": "Q16065291"
+    },
+    "originalLanguage": "da",
+    "originalTitle": "Vildsomme Veje : $b Ogsaa en kærlighedshistorie / I sommerferien",
+    "workId": "zahle-vildsomme-veje"
+  }
+}

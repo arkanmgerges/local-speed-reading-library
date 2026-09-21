@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:37:21.334791Z",
+    "chapterCount": 5,
+    "contentSha256": "d03cba2d876ffaeb0caba86c8c4e8bfbb0d66e8ba5e8ad095a903b7ed8354eec",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/feng-pg24141.zh-hant.gutenberg/v1/book.json.gz",
+    "sha256": "6445379945b29abd6b01750022694197e1149604550bfe125c1248c4d3bbb02e",
+    "sizeBytes": 529475,
+    "uncompressedSizeBytes": 1146531,
+    "wordCount": 2599
+  },
+  "edition": {
+    "editionId": "feng-pg24141.zh-hant.gutenberg",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "警世通言"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1646: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1624: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/24141",
+      "https://en.wikipedia.org/wiki/Feng_Menglong",
+      "https://zh.wikipedia.org/wiki/%E5%86%AF%E6%A2%A6%E9%BE%99",
+      "https://www.wikidata.org/wiki/Q15911655"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Menglong Feng died in 1646 and the work was first published in 1624. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "24141",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T05:33:10.980584Z",
+    "revision": "Thu, 10 Sep 2026 10:03:33 GMT",
+    "url": "https://www.gutenberg.org/ebooks/24141"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1574,
+      "deathYear": 1646,
+      "name": "Menglong Feng",
+      "wikidata": "Q371966"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": 1624,
+    "originalTitle": "警世通言",
+    "workId": "feng-pg24141"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:31:17.930054Z",
+    "chapterCount": 68,
+    "contentSha256": "7f180cdaac6d39e139170e630b5fd865577884098e104493194d80426ff29b4f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/hildebrand-camera-obscura.nl.gutenberg/v1/book.json.gz",
+    "sha256": "ac3776966d450d8f490ce881682bd11c56a9953ef9b3de2d0fee6139bb09b0c8",
+    "sizeBytes": 373579,
+    "uncompressedSizeBytes": 1001946,
+    "wordCount": 159851
+  },
+  "edition": {
+    "editionId": "hildebrand-camera-obscura.nl.gutenberg",
+    "kind": "original",
+    "language": "nl",
+    "title": "Camera Obscura"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1903: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1839: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/15975",
+      "https://en.wikipedia.org/wiki/Nicolaas_Beets",
+      "https://www.wikidata.org/wiki/Q2053326"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Hildebrand died in 1903 and the work was first published in 1839. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "15975",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:09:31.425616Z",
+    "revision": "Mon, 07 Sep 2026 08:54:34 GMT",
+    "url": "https://www.gutenberg.org/ebooks/15975"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1814,
+      "deathYear": 1903,
+      "name": "Hildebrand",
+      "wikidata": "Q537100"
+    },
+    "originalLanguage": "nl",
+    "originalPublicationYear": 1839,
+    "originalTitle": "Camera Obscura",
+    "workId": "hildebrand-camera-obscura"
+  }
+}

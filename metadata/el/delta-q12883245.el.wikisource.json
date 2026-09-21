@@ -1,0 +1,153 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:53:29.539554Z",
+    "chapterCount": 20,
+    "contentSha256": "5bb00cd13d5abcb67803887aa3d234c2b69e9dfa3a00696982fee10ee298d776",
+    "normalizerVersion": "0.2.0",
+    "path": "books/el/delta-q12883245.el.wikisource/v1/book.json.gz",
+    "sha256": "c2c133baaeff42fe6690130002eb6e906be034cb3adfeb6ec348b1f66833756f",
+    "sizeBytes": 105133,
+    "uncompressedSizeBytes": 439727,
+    "wordCount": 39130
+  },
+  "edition": {
+    "editionId": "delta-q12883245.el.wikisource",
+    "kind": "original",
+    "language": "el",
+    "title": "Παραμύθι χωρίς όνομα"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1941: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1910: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12883245",
+      "https://www.wikidata.org/wiki/Q272605",
+      "https://el.wikisource.org/wiki/%CE%A0%CE%B1%CF%81%CE%B1%CE%BC%CF%8D%CE%B8%CE%B9_%CF%87%CF%89%CF%81%CE%AF%CF%82_%CF%8C%CE%BD%CE%BF%CE%BC%CE%B1"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Πηνελόπη Δέλτα died in 1941 and the work was first published in 1910. Source: el.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Παραμύθι χωρίς όνομα",
+    "pages": [
+      {
+        "revision": 48904,
+        "title": "Παραμύθι χωρίς όνομα"
+      },
+      {
+        "revision": 48917,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο Α"
+      },
+      {
+        "revision": 48916,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο Β"
+      },
+      {
+        "revision": 48918,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο Γ"
+      },
+      {
+        "revision": 48919,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο Δ"
+      },
+      {
+        "revision": 48920,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο Ε"
+      },
+      {
+        "revision": 48921,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο ΣΤ"
+      },
+      {
+        "revision": 48922,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο Ζ"
+      },
+      {
+        "revision": 48923,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο Η"
+      },
+      {
+        "revision": 48924,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο Θ"
+      },
+      {
+        "revision": 48925,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο Ι"
+      },
+      {
+        "revision": 48926,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο ΙΑ"
+      },
+      {
+        "revision": 48927,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο ΙΒ"
+      },
+      {
+        "revision": 48928,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο ΙΓ"
+      },
+      {
+        "revision": 48929,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο ΙΔ"
+      },
+      {
+        "revision": 48930,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο ΙΕ"
+      },
+      {
+        "revision": 48931,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο ΙΣΤ"
+      },
+      {
+        "revision": 48932,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο ΙΖ"
+      },
+      {
+        "revision": 48933,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο ΙΗ"
+      },
+      {
+        "revision": 48934,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο ΙΘ"
+      },
+      {
+        "revision": 48935,
+        "title": "Παραμύθι χωρίς όνομα/Κεφάλαιο Κ"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:27:43.259560Z",
+    "revision": "48904",
+    "site": "el.wikisource.org",
+    "url": "https://el.wikisource.org/wiki/%CE%A0%CE%B1%CF%81%CE%B1%CE%BC%CF%8D%CE%B8%CE%B9_%CF%87%CF%89%CF%81%CE%AF%CF%82_%CF%8C%CE%BD%CE%BF%CE%BC%CE%B1"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1874,
+      "deathYear": 1941,
+      "name": "Πηνελόπη Δέλτα",
+      "wikidata": "Q272605"
+    },
+    "originalLanguage": "el",
+    "originalPublicationYear": 1910,
+    "originalTitle": "Παραμύθι χωρίς όνομα",
+    "workId": "delta-q12883245"
+  }
+}

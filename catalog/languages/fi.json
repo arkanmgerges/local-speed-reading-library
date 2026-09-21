@@ -1,0 +1,791 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "1e4b905a353850e1c5cc0d015ca63dded7d7382bb1f044ef45dded4780c247a0",
+        "encoding": "gzip",
+        "path": "books/fi/finne-kiljusen-herrasvaki-partiolaisina.fi.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "025834535630e37061e22a7c69925a1aa499fa52524fc4cc8640e2cb6cbbc260",
+        "sizeBytes": 33632,
+        "uncompressedSizeBytes": 101645,
+        "wordCount": 12368
+      },
+      "author": "Jalmari Finne",
+      "authorDeathYear": 1938,
+      "editionId": "finne-kiljusen-herrasvaki-partiolaisina.fi.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": 1918,
+      "originalTitle": "Kiljusen herrasväki partiolaisina",
+      "rights": {
+        "statement": "Public domain worldwide. Jalmari Finne died in 1938 and the work was first published in 1918. Source: fi.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Kiljusen herrasväki partiolaisina",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:03:39.406219Z",
+        "revision": "117978",
+        "url": "https://fi.wikisource.org/wiki/Kiljusen_herrasv%C3%A4ki_partiolaisina"
+      },
+      "title": "Kiljusen herrasväki partiolaisina",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "finne-kiljusen-herrasvaki-partiolaisina"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 8,
+        "contentSha256": "493e4d26f7d9f7cac09b0c6c9fe7563fee86dab810e6a8c54b9e5a629eb4df65",
+        "encoding": "gzip",
+        "path": "books/fi/finne-kiljusen-herrasvaki.fi.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "81febde951277dd688ef4e97e4d2a75311d4b7b3ac160446e7b52ead069ec929",
+        "sizeBytes": 41371,
+        "uncompressedSizeBytes": 125311,
+        "wordCount": 15076
+      },
+      "author": "Jalmari Finne",
+      "authorDeathYear": 1938,
+      "editionId": "finne-kiljusen-herrasvaki.fi.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": 1914,
+      "originalTitle": "Kiljusen herrasväki",
+      "rights": {
+        "statement": "Public domain worldwide. Jalmari Finne died in 1938 and the work was first published in 1914. Source: fi.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Kiljusen herrasväki",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:03:53.548366Z",
+        "revision": "117685",
+        "url": "https://fi.wikisource.org/wiki/Kiljusen_herrasv%C3%A4ki"
+      },
+      "title": "Kiljusen herrasväki",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "finne-kiljusen-herrasvaki"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 20,
+        "contentSha256": "5b48151d31c8c613cacc54255705891296ab54175816ca7208d7ebd042854fc4",
+        "encoding": "gzip",
+        "path": "books/fi/gallen-kallela-kallela-kirja-i.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "3fc48c0654e1d22453f8d8867a130d915e15603965bc77d1d2a1171f697976e5",
+        "sizeBytes": 83588,
+        "uncompressedSizeBytes": 211170,
+        "wordCount": 23524
+      },
+      "author": "Akseli Gallen-Kallela",
+      "authorDeathYear": 1931,
+      "editionId": "gallen-kallela-kallela-kirja-i.fi.gutenberg",
+      "editionPublicationYear": 1924,
+      "genres": [
+        "Biography",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Kallela-kirja I : $b Iltapuhde-jutelmia",
+      "rights": {
+        "statement": "Public domain worldwide. Akseli Gallen-Kallela died in 1931 and the edition digitised by Project Gutenberg was printed in 1924. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "79251",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:03:56.239506Z",
+        "revision": "Mon, 31 Aug 2026 12:54:29 GMT",
+        "url": "https://www.gutenberg.org/ebooks/79251"
+      },
+      "title": "Kallela-kirja I : $b Iltapuhde-jutelmia",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "gallen-kallela-kallela-kirja-i"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 21,
+        "contentSha256": "b8e09de8a1cf34ccd84d437354282d76bb4579af0e6fb403a8458e4b573f7213",
+        "encoding": "gzip",
+        "path": "books/fi/haanpaa-karavaani-ja-muita-juttuja.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a664587bae65e9408d4308787e071d0586f177f0eac2f1f709ac347b535b1c3b",
+        "sizeBytes": 77297,
+        "uncompressedSizeBytes": 206221,
+        "wordCount": 24443
+      },
+      "author": "Pentti Haanpää",
+      "authorDeathYear": 1955,
+      "editionId": "haanpaa-karavaani-ja-muita-juttuja.fi.gutenberg",
+      "editionPublicationYear": 1930,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Karavaani ja muita juttuja",
+      "rights": {
+        "statement": "Public domain worldwide. Pentti Haanpää died in 1955 and the edition digitised by Project Gutenberg was printed in 1930. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "78018",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:04:04.711568Z",
+        "revision": "Mon, 31 Aug 2026 07:35:01 GMT",
+        "url": "https://www.gutenberg.org/ebooks/78018"
+      },
+      "title": "Karavaani ja muita juttuja",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "haanpaa-karavaani-ja-muita-juttuja"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 38,
+        "contentSha256": "99fe94d04434427a1e29722525e597bd6a901d6abe64be254edd90be0a0c61fd",
+        "encoding": "gzip",
+        "path": "books/fi/hemmo-piimalasku-ja-kokkelpiimee.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "53a751075b5d62d7404c45eab0c10544142b4fa42a734ef12bef2dade21e552e",
+        "sizeBytes": 89724,
+        "uncompressedSizeBytes": 238052,
+        "wordCount": 29554
+      },
+      "author": "Kaarlo Hemmo",
+      "authorDeathYear": 1940,
+      "editionId": "hemmo-piimalasku-ja-kokkelpiimee.fi.gutenberg",
+      "editionPublicationYear": 1928,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Piimälasku ja kokkelpiimee",
+      "rights": {
+        "statement": "Public domain worldwide. Kaarlo Hemmo died in 1940 and the edition digitised by Project Gutenberg was printed in 1928. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "73935",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:04:08.681311Z",
+        "revision": "Sat, 29 Aug 2026 12:26:06 GMT",
+        "url": "https://www.gutenberg.org/ebooks/73935"
+      },
+      "title": "Piimälasku ja kokkelpiimee",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "hemmo-piimalasku-ja-kokkelpiimee"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 10,
+        "contentSha256": "829a191e707c8793b1201ef7ac37c61a18f9fe2385ffe9b2dfd608fd7478d3c0",
+        "encoding": "gzip",
+        "path": "books/fi/inha-maantiede-ja-loytoretket-2.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "cb88f1303398ce7d66c767fcdd5e8d3b0334651ab7425fcba7fae0e08842e446",
+        "sizeBytes": 448850,
+        "uncompressedSizeBytes": 1252302,
+        "wordCount": 144411
+      },
+      "author": "Into Konrad Inha",
+      "authorDeathYear": 1930,
+      "editionId": "inha-maantiede-ja-loytoretket-2.fi.gutenberg",
+      "editionPublicationYear": 1914,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Maantiede ja löytöretket 2 : $b Suurien löytöretkien aikakausi",
+      "rights": {
+        "statement": "Public domain worldwide. Into Konrad Inha died in 1930 and the edition digitised by Project Gutenberg was printed in 1914. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "69230",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:04:12.760171Z",
+        "revision": "Thu, 27 Aug 2026 14:20:10 GMT",
+        "url": "https://www.gutenberg.org/ebooks/69230"
+      },
+      "title": "Maantiede ja löytöretket 2 : $b Suurien löytöretkien aikakausi",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "inha-maantiede-ja-loytoretket-2"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "fae2d14b1a366390634cd1aa6943124128a4ef9cbd084e8ef593be335ebacc84",
+        "encoding": "gzip",
+        "path": "books/fi/inha-maantiede-ja-loytoretket-4.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "acaeed42a2d5f87420880a7b68e73e297e82b4b5c09c5ec268260bab1859aa24",
+        "sizeBytes": 839131,
+        "uncompressedSizeBytes": 2327124,
+        "wordCount": 266475
+      },
+      "author": "Into Konrad Inha",
+      "authorDeathYear": 1930,
+      "editionId": "inha-maantiede-ja-loytoretket-4.fi.gutenberg",
+      "editionPublicationYear": 1925,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Maantiede ja löytöretket 4 : $b Uusin aika 17.-vuosisadan alusta nykyaikaan (loppupuoli)",
+      "rights": {
+        "statement": "Public domain worldwide. Into Konrad Inha died in 1930 and the edition digitised by Project Gutenberg was printed in 1925. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "70428",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:04:20.823304Z",
+        "revision": "Fri, 28 Aug 2026 08:25:09 GMT",
+        "url": "https://www.gutenberg.org/ebooks/70428"
+      },
+      "title": "Maantiede ja löytöretket 4 : $b Uusin aika 17.-vuosisadan alusta nykyaikaan (loppupuoli)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "inha-maantiede-ja-loytoretket-4"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 15,
+        "contentSha256": "f0769d5eb4e5124e78accd30b837945bda5f2c1330afc48b7dd44046f782840c",
+        "encoding": "gzip",
+        "path": "books/fi/jarnefelt-huligaani.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "43c02a1575cf8314ff6370da3a9dc86bff56b607f42f5da523f2f0c93d00081e",
+        "sizeBytes": 73602,
+        "uncompressedSizeBytes": 197977,
+        "wordCount": 22915
+      },
+      "author": "Arvid Järnefelt",
+      "authorDeathYear": 1932,
+      "editionId": "jarnefelt-huligaani.fi.gutenberg",
+      "editionPublicationYear": 1926,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Huligaani : $b ynnä muita kertoelmia",
+      "rights": {
+        "statement": "Public domain worldwide. Arvid Järnefelt died in 1932 and the edition digitised by Project Gutenberg was printed in 1926. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "78081",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:04:30.039681Z",
+        "revision": "Mon, 31 Aug 2026 08:02:38 GMT",
+        "url": "https://www.gutenberg.org/ebooks/78081"
+      },
+      "title": "Huligaani : $b ynnä muita kertoelmia",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "jarnefelt-huligaani"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "bb35e2514ecf50d2904854c744269b22043b9b16aaf8a0b8778aeddb6c067593",
+        "encoding": "gzip",
+        "path": "books/fi/lehtonen-korpi-ja-puutarha.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a84d25cefa9152748dd4049ed997408e2571f92c62d1e60ce38fe8b64ddeb9bb",
+        "sizeBytes": 88214,
+        "uncompressedSizeBytes": 228167,
+        "wordCount": 26848
+      },
+      "author": "Joel Lehtonen",
+      "authorDeathYear": 1934,
+      "editionId": "lehtonen-korpi-ja-puutarha.fi.gutenberg",
+      "editionPublicationYear": 1923,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Korpi ja puutarha",
+      "rights": {
+        "statement": "Public domain worldwide. Joel Lehtonen died in 1934 and the edition digitised by Project Gutenberg was printed in 1923. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "79287",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:04:35.130136Z",
+        "revision": "Mon, 31 Aug 2026 13:03:28 GMT",
+        "url": "https://www.gutenberg.org/ebooks/79287"
+      },
+      "title": "Korpi ja puutarha",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "lehtonen-korpi-ja-puutarha"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "5d05b72b79ee898c080a190c64acbe7dc96453118f62a82cdad67e7e04a24ef3",
+        "encoding": "gzip",
+        "path": "books/fi/lehtonen-lintukoto.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c440bf6e3761bb7cd438074170e5f8beeee4cd79e45b7807a1a0e7fb431def37",
+        "sizeBytes": 84805,
+        "uncompressedSizeBytes": 213237,
+        "wordCount": 24703
+      },
+      "author": "Joel Lehtonen",
+      "authorDeathYear": 1934,
+      "editionId": "lehtonen-lintukoto.fi.gutenberg",
+      "editionPublicationYear": 1929,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Lintukoto : $b Muutamia päiväkirjan lehtiä",
+      "rights": {
+        "statement": "Public domain worldwide. Joel Lehtonen died in 1934 and the edition digitised by Project Gutenberg was printed in 1929. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "78058",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:04:37.828466Z",
+        "revision": "Mon, 31 Aug 2026 07:56:20 GMT",
+        "url": "https://www.gutenberg.org/ebooks/78058"
+      },
+      "title": "Lintukoto : $b Muutamia päiväkirjan lehtiä",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "lehtonen-lintukoto"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 7,
+        "contentSha256": "f2bb190f8528f160ceb393e510dff023115593ea7ff26ea7082e98f203affb1f",
+        "encoding": "gzip",
+        "path": "books/fi/lehtonen-sirkus-ja-pyhimys.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0097549315d7013aed51b6a7fdb3957b728f81e26f0f7f7ddf2e541f40b366a0",
+        "sizeBytes": 147155,
+        "uncompressedSizeBytes": 388194,
+        "wordCount": 45139
+      },
+      "author": "Joel Lehtonen",
+      "authorDeathYear": 1934,
+      "editionId": "lehtonen-sirkus-ja-pyhimys.fi.gutenberg",
+      "editionPublicationYear": 1927,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Sirkus ja pyhimys : $b Romaani vanhaan tyyliin",
+      "rights": {
+        "statement": "Public domain worldwide. Joel Lehtonen died in 1934 and the edition digitised by Project Gutenberg was printed in 1927. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "79289",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:04:40.842574Z",
+        "revision": "Mon, 31 Aug 2026 13:03:49 GMT",
+        "url": "https://www.gutenberg.org/ebooks/79289"
+      },
+      "title": "Sirkus ja pyhimys : $b Romaani vanhaan tyyliin",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "lehtonen-sirkus-ja-pyhimys"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "8d8a2a4b179479993666c82e7d8bebd74fe5d19005be7e4d28146c6faf73a746",
+        "encoding": "gzip",
+        "path": "books/fi/lehtonen-sorron-lapset.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2ab308c2ea7b158638ba0159a5ad05bec0cd7261a307c1d7dbf85ff3359e1f5a",
+        "sizeBytes": 250318,
+        "uncompressedSizeBytes": 673073,
+        "wordCount": 78655
+      },
+      "author": "Joel Lehtonen",
+      "authorDeathYear": 1934,
+      "editionId": "lehtonen-sorron-lapset.fi.gutenberg",
+      "editionPublicationYear": 1923,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Sorron lapset : $b Punainen mies I",
+      "rights": {
+        "statement": "Public domain worldwide. Joel Lehtonen died in 1934 and the edition digitised by Project Gutenberg was printed in 1923. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "79301",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:04:44.360055Z",
+        "revision": "Mon, 31 Aug 2026 13:07:20 GMT",
+        "url": "https://www.gutenberg.org/ebooks/79301"
+      },
+      "title": "Sorron lapset : $b Punainen mies I",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "lehtonen-sorron-lapset"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "913131864351f00e1bf3589c6aab3cd9d2f7420524bcab6ff7100c0f6a5d15fc",
+        "encoding": "gzip",
+        "path": "books/fi/leino-tuomas-vitikka.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e73e542e646dd66314325b3ec4fd54f7106a0870c84f5847a7a3946e57bc7301",
+        "sizeBytes": 111567,
+        "uncompressedSizeBytes": 306884,
+        "wordCount": 33989
+      },
+      "author": "Eino Leino",
+      "authorDeathYear": 1926,
+      "editionId": "leino-tuomas-vitikka.fi.gutenberg",
+      "editionPublicationYear": 1906,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Tuomas Vitikka : $b Romaani",
+      "rights": {
+        "statement": "Public domain worldwide. Eino Leino died in 1926 and the edition digitised by Project Gutenberg was printed in 1906. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "78667",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:04:48.041936Z",
+        "revision": "Mon, 31 Aug 2026 10:43:15 GMT",
+        "url": "https://www.gutenberg.org/ebooks/78667"
+      },
+      "title": "Tuomas Vitikka : $b Romaani",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "leino-tuomas-vitikka"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 16,
+        "contentSha256": "a68edd8733e7c9715f5f60fe9a8e496df3ba7c08c63e661d1f20645d290a84a1",
+        "encoding": "gzip",
+        "path": "books/fi/pekkarinen-hauska-tutustua.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "00448b80ac6f15d6ea07c75faa317b92f6141cfbcd5900390b85f4ad8b6a902b",
+        "sizeBytes": 94573,
+        "uncompressedSizeBytes": 244528,
+        "wordCount": 26801
+      },
+      "author": "Tatu Pekkarinen",
+      "authorDeathYear": 1951,
+      "editionId": "pekkarinen-hauska-tutustua.fi.gutenberg",
+      "editionPublicationYear": 1929,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "\"Hauska tutustua!\" : $b Viisunikkarin elämyksiä Lännen kultamaassa",
+      "rights": {
+        "statement": "Public domain worldwide. Tatu Pekkarinen died in 1951 and the edition digitised by Project Gutenberg was printed in 1929. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "78008",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:04:52.372875Z",
+        "revision": "Mon, 31 Aug 2026 07:32:11 GMT",
+        "url": "https://www.gutenberg.org/ebooks/78008"
+      },
+      "title": "\"Hauska tutustua!\" : $b Viisunikkarin elämyksiä Lännen kultamaassa",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "pekkarinen-hauska-tutustua"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "40954321c1d86b12d1fcc014e9ccc566a81419cca4a6085e8e9319eff4d857f6",
+        "encoding": "gzip",
+        "path": "books/fi/pekkola-terveeks.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "99b754b54922d440c0b343a4fff9ade2d299a2d59a9dc01815850b23965d1a78",
+        "sizeBytes": 87531,
+        "uncompressedSizeBytes": 232953,
+        "wordCount": 26665
+      },
+      "author": "Sulo-Weikko Pekkola",
+      "authorDeathYear": 1931,
+      "editionId": "pekkola-terveeks.fi.gutenberg",
+      "editionPublicationYear": 1929,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Terveeks' — Buddha!",
+      "rights": {
+        "statement": "Public domain worldwide. Sulo-Weikko Pekkola died in 1931 and the edition digitised by Project Gutenberg was printed in 1929. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "76730",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:04:55.036890Z",
+        "revision": "Sun, 30 Aug 2026 17:25:10 GMT",
+        "url": "https://www.gutenberg.org/ebooks/76730"
+      },
+      "title": "Terveeks' — Buddha!",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "pekkola-terveeks"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 28,
+        "contentSha256": "3257bfa25c97e015bfdc9cc2e691034d6045417f5070e49a31eb50523db1a3df",
+        "encoding": "gzip",
+        "path": "books/fi/siren-hajamuistelmia-pakolaiselamasta.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "3b4b825d8361544d9136b9dc24d95f9fe0f53b1d28359e3e9b5a4175261d98e1",
+        "sizeBytes": 78745,
+        "uncompressedSizeBytes": 205553,
+        "wordCount": 21719
+      },
+      "author": "Aatto Sirén",
+      "authorDeathYear": 1955,
+      "editionId": "siren-hajamuistelmia-pakolaiselamasta.fi.gutenberg",
+      "editionPublicationYear": 1923,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Hajamuistelmia pakolaiselämästä",
+      "rights": {
+        "statement": "Public domain worldwide. Aatto Sirén died in 1955 and the edition digitised by Project Gutenberg was printed in 1923. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "78096",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:04:57.733025Z",
+        "revision": "Mon, 31 Aug 2026 08:05:07 GMT",
+        "url": "https://www.gutenberg.org/ebooks/78096"
+      },
+      "title": "Hajamuistelmia pakolaiselämästä",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "siren-hajamuistelmia-pakolaiselamasta"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 22,
+        "contentSha256": "5c025187b84b220ff626dd891098c53d1d9c93fae13cf02e25dbeb30e5512af1",
+        "encoding": "gzip",
+        "path": "books/fi/soini-oli-kerran-nuori-tytto.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "409e8e4ec1ce7dd5352aefa4c7935de6ccce8a680bf057e5f721fb51bf7ba9f5",
+        "sizeBytes": 134327,
+        "uncompressedSizeBytes": 364827,
+        "wordCount": 42255
+      },
+      "author": "Elsa Soini",
+      "authorDeathYear": 1952,
+      "editionId": "soini-oli-kerran-nuori-tytto.fi.gutenberg",
+      "editionPublicationYear": 1923,
+      "genres": [
+        "Fiction",
+        "Children",
+        "History"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Oli kerran nuori tyttö : $b Romaan 1910-luvun Helsingistä",
+      "rights": {
+        "statement": "Public domain worldwide. Elsa Soini died in 1952 and the edition digitised by Project Gutenberg was printed in 1923. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "79458",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:05:02.111251Z",
+        "revision": "Mon, 31 Aug 2026 13:41:35 GMT",
+        "url": "https://www.gutenberg.org/ebooks/79458"
+      },
+      "title": "Oli kerran nuori tyttö : $b Romaan 1910-luvun Helsingistä",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "soini-oli-kerran-nuori-tytto"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 31,
+        "contentSha256": "990b973c59fd547cdb204f8ba6502f83745de17e66b4571629c99f0ef893b338",
+        "encoding": "gzip",
+        "path": "books/fi/valkonen-vanhaa-viinaa-uudessa-leilissa.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e8ab770a0e17144dd8f3e93a876b36f8cc384d4384ecad533b5b9039da72e40c",
+        "sizeBytes": 58212,
+        "uncompressedSizeBytes": 158131,
+        "wordCount": 17942
+      },
+      "author": "Tatu Valkonen",
+      "authorDeathYear": 1945,
+      "editionId": "valkonen-vanhaa-viinaa-uudessa-leilissa.fi.gutenberg",
+      "editionPublicationYear": 1929,
+      "genres": [
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Vanhaa viinaa uudessa leilissä : $b Pakinoita",
+      "rights": {
+        "statement": "Public domain worldwide. Tatu Valkonen died in 1945 and the edition digitised by Project Gutenberg was printed in 1929. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "78007",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:05:06.152127Z",
+        "revision": "Mon, 31 Aug 2026 07:32:03 GMT",
+        "url": "https://www.gutenberg.org/ebooks/78007"
+      },
+      "title": "Vanhaa viinaa uudessa leilissä : $b Pakinoita",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "valkonen-vanhaa-viinaa-uudessa-leilissa"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Finnish",
+  "language": "fi",
+  "manifestVersion": "902afe267ddc0102",
+  "nativeName": "Suomi",
+  "schemaVersion": 1
+}

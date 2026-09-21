@@ -1,0 +1,219 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:55:36.950011Z",
+    "chapterCount": 35,
+    "contentSha256": "a358c12e5ad089e6078379d355c1250769ed3f19f07c97d05e705bebc631ca16",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/stevenson-la-isla-del-tesoro-manuel-caballero.es.wikisource/v1/book.json.gz",
+    "sha256": "d3e97460a7ad5fcf5ac29dc370f6902f14a407c01276a441a1463645e615162f",
+    "sizeBytes": 194316,
+    "uncompressedSizeBytes": 534993,
+    "wordCount": 87830
+  },
+  "edition": {
+    "editionId": "stevenson-la-isla-del-tesoro-manuel-caballero.es.wikisource",
+    "kind": "translation",
+    "language": "es",
+    "title": "La isla del tesoro (Manuel Caballero)",
+    "translationPublicationYear": 1901,
+    "translator": {
+      "birthYear": 1849,
+      "deathYear": 1926,
+      "name": "Manuel Caballero",
+      "wikidata": "Q47494952"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1894: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1926: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1901: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q185118",
+      "https://www.wikidata.org/wiki/Q47834407",
+      "https://www.wikidata.org/wiki/Q1512",
+      "https://www.wikidata.org/wiki/Q47494952",
+      "https://es.wikisource.org/wiki/La_isla_del_tesoro_(Manuel_Caballero)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Robert Louis Stevenson died in 1894; the translator Manuel Caballero died in 1926 and this translation was first published in 1901. Source: es.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "La isla del tesoro (Manuel Caballero)",
+    "pages": [
+      {
+        "revision": 1344882,
+        "title": "La isla del tesoro (Manuel Caballero)"
+      },
+      {
+        "revision": 889850,
+        "title": "La isla del tesoro (Manuel Caballero)/I"
+      },
+      {
+        "revision": 889851,
+        "title": "La isla del tesoro (Manuel Caballero)/II"
+      },
+      {
+        "revision": 889852,
+        "title": "La isla del tesoro (Manuel Caballero)/III"
+      },
+      {
+        "revision": 889854,
+        "title": "La isla del tesoro (Manuel Caballero)/IV"
+      },
+      {
+        "revision": 889855,
+        "title": "La isla del tesoro (Manuel Caballero)/V"
+      },
+      {
+        "revision": 889989,
+        "title": "La isla del tesoro (Manuel Caballero)/VI"
+      },
+      {
+        "revision": 889957,
+        "title": "La isla del tesoro (Manuel Caballero)/VII"
+      },
+      {
+        "revision": 889958,
+        "title": "La isla del tesoro (Manuel Caballero)/VIII"
+      },
+      {
+        "revision": 889959,
+        "title": "La isla del tesoro (Manuel Caballero)/IX"
+      },
+      {
+        "revision": 889972,
+        "title": "La isla del tesoro (Manuel Caballero)/X"
+      },
+      {
+        "revision": 889973,
+        "title": "La isla del tesoro (Manuel Caballero)/XI"
+      },
+      {
+        "revision": 889974,
+        "title": "La isla del tesoro (Manuel Caballero)/XII"
+      },
+      {
+        "revision": 889975,
+        "title": "La isla del tesoro (Manuel Caballero)/XIII"
+      },
+      {
+        "revision": 889976,
+        "title": "La isla del tesoro (Manuel Caballero)/XIV"
+      },
+      {
+        "revision": 889977,
+        "title": "La isla del tesoro (Manuel Caballero)/XV"
+      },
+      {
+        "revision": 889979,
+        "title": "La isla del tesoro (Manuel Caballero)/XVI"
+      },
+      {
+        "revision": 889980,
+        "title": "La isla del tesoro (Manuel Caballero)/XVII"
+      },
+      {
+        "revision": 889983,
+        "title": "La isla del tesoro (Manuel Caballero)/XVIII"
+      },
+      {
+        "revision": 889984,
+        "title": "La isla del tesoro (Manuel Caballero)/XIX"
+      },
+      {
+        "revision": 889985,
+        "title": "La isla del tesoro (Manuel Caballero)/XX"
+      },
+      {
+        "revision": 889986,
+        "title": "La isla del tesoro (Manuel Caballero)/XXI"
+      },
+      {
+        "revision": 889987,
+        "title": "La isla del tesoro (Manuel Caballero)/XXII"
+      },
+      {
+        "revision": 889990,
+        "title": "La isla del tesoro (Manuel Caballero)/XXIII"
+      },
+      {
+        "revision": 889995,
+        "title": "La isla del tesoro (Manuel Caballero)/XXIV"
+      },
+      {
+        "revision": 1158483,
+        "title": "La isla del tesoro (Manuel Caballero)/XXV"
+      },
+      {
+        "revision": 889997,
+        "title": "La isla del tesoro (Manuel Caballero)/XXVI"
+      },
+      {
+        "revision": 889998,
+        "title": "La isla del tesoro (Manuel Caballero)/XXVII"
+      },
+      {
+        "revision": 889999,
+        "title": "La isla del tesoro (Manuel Caballero)/XXVIII"
+      },
+      {
+        "revision": 890000,
+        "title": "La isla del tesoro (Manuel Caballero)/XXIX"
+      },
+      {
+        "revision": 890001,
+        "title": "La isla del tesoro (Manuel Caballero)/XXX"
+      },
+      {
+        "revision": 1268477,
+        "title": "La isla del tesoro (Manuel Caballero)/XXXI"
+      },
+      {
+        "revision": 890003,
+        "title": "La isla del tesoro (Manuel Caballero)/XXXII"
+      },
+      {
+        "revision": 890006,
+        "title": "La isla del tesoro (Manuel Caballero)/XXXIII"
+      },
+      {
+        "revision": 890005,
+        "title": "La isla del tesoro (Manuel Caballero)/XXXIV"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:47:34.415306Z",
+    "revision": "1344882",
+    "site": "es.wikisource.org",
+    "url": "https://es.wikisource.org/wiki/La_isla_del_tesoro_(Manuel_Caballero)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1850,
+      "deathYear": 1894,
+      "name": "Robert Louis Stevenson",
+      "wikidata": "Q1512"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1883,
+    "originalTitle": "La isla del tesoro (Manuel Caballero)",
+    "workId": "stevenson-la-isla-del-tesoro-manuel-caballero"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:33:59.185740Z",
+    "chapterCount": 28,
+    "contentSha256": "27ff3e35b45dee16bef469c8fd68ca42568abac9de798b3b554386944f453954",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt/verne-da-terra-a-lua.pt.wikisource/v1/book.json.gz",
+    "sha256": "2e74351a7fa5647fa5b31cfea172a9b19c06e9bf22f9a7cfeb13c5327aac03d2",
+    "sizeBytes": 133192,
+    "uncompressedSizeBytes": 374721,
+    "wordCount": 56263
+  },
+  "edition": {
+    "editionId": "verne-da-terra-a-lua.pt.wikisource",
+    "kind": "translation",
+    "language": "pt",
+    "title": "Da Terra á Lua",
+    "translationPublicationYear": 1878,
+    "translator": {
+      "birthYear": 1843,
+      "deathYear": 1910,
+      "name": "Henrique de Macedo Pereira Coutinho",
+      "wikidata": "Q24846545"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1905: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1910: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1878: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q53592",
+      "https://www.wikidata.org/wiki/Q137668249",
+      "https://www.wikidata.org/wiki/Q33977",
+      "https://www.wikidata.org/wiki/Q24846545",
+      "https://pt.wikisource.org/wiki/Da_Terra_%C3%A1_Lua"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Júlio Verne died in 1905; the translator Henrique de Macedo Pereira Coutinho died in 1910 and this translation was first published in 1878. Source: pt.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Da Terra á Lua",
+    "pages": [
+      {
+        "revision": 549423,
+        "title": "Da Terra á Lua"
+      },
+      {
+        "revision": 549426,
+        "title": "Da Terra á Lua/I"
+      },
+      {
+        "revision": 549425,
+        "title": "Da Terra á Lua/II"
+      },
+      {
+        "revision": 552034,
+        "title": "Da Terra á Lua/III"
+      },
+      {
+        "revision": 552077,
+        "title": "Da Terra á Lua/IV"
+      },
+      {
+        "revision": 552267,
+        "title": "Da Terra á Lua/V"
+      },
+      {
+        "revision": 552334,
+        "title": "Da Terra á Lua/VI"
+      },
+      {
+        "revision": 552579,
+        "title": "Da Terra á Lua/VII"
+      },
+      {
+        "revision": 552722,
+        "title": "Da Terra á Lua/VIII"
+      },
+      {
+        "revision": 552820,
+        "title": "Da Terra á Lua/IX"
+      },
+      {
+        "revision": 553013,
+        "title": "Da Terra á Lua/X"
+      },
+      {
+        "revision": 553128,
+        "title": "Da Terra á Lua/XI"
+      },
+      {
+        "revision": 553457,
+        "title": "Da Terra á Lua/XII"
+      },
+      {
+        "revision": 553683,
+        "title": "Da Terra á Lua/XIII"
+      },
+      {
+        "revision": 553832,
+        "title": "Da Terra á Lua/XIV"
+      },
+      {
+        "revision": 553907,
+        "title": "Da Terra á Lua/XV"
+      },
+      {
+        "revision": 554037,
+        "title": "Da Terra á Lua/XVI"
+      },
+      {
+        "revision": 554039,
+        "title": "Da Terra á Lua/XVII"
+      },
+      {
+        "revision": 554227,
+        "title": "Da Terra á Lua/XVIII"
+      },
+      {
+        "revision": 554399,
+        "title": "Da Terra á Lua/XIX"
+      },
+      {
+        "revision": 554536,
+        "title": "Da Terra á Lua/XX"
+      },
+      {
+        "revision": 554847,
+        "title": "Da Terra á Lua/XXI"
+      },
+      {
+        "revision": 555124,
+        "title": "Da Terra á Lua/XXII"
+      },
+      {
+        "revision": 555268,
+        "title": "Da Terra á Lua/XXIII"
+      },
+      {
+        "revision": 555305,
+        "title": "Da Terra á Lua/XXIV"
+      },
+      {
+        "revision": 555345,
+        "title": "Da Terra á Lua/XXV"
+      },
+      {
+        "revision": 555406,
+        "title": "Da Terra á Lua/XXVI"
+      },
+      {
+        "revision": 555420,
+        "title": "Da Terra á Lua/XXVII"
+      },
+      {
+        "revision": 552117,
+        "title": "Da Terra á Lua/XXVIII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:50:29.908490Z",
+    "revision": "549423",
+    "site": "pt.wikisource.org",
+    "url": "https://pt.wikisource.org/wiki/Da_Terra_%C3%A1_Lua"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1828,
+      "deathYear": 1905,
+      "name": "Júlio Verne",
+      "wikidata": "Q33977"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1865,
+    "originalTitle": "Da Terra á Lua",
+    "workId": "verne-da-terra-a-lua"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:33:22.939210Z",
+    "chapterCount": 3,
+    "contentSha256": "8439b00defdceb9ef09abd21761abddc8b2db52dbb09a0ed48f6142e5c78ff25",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt-br/machado-de-assis-quincas-borba.pt-br.gutenberg/v1/book.json.gz",
+    "sha256": "b65d1e0c5a2df9f78fb4bc0c190e5e826e8e1d899db9f1360b9f05641bc8c9ec",
+    "sizeBytes": 179086,
+    "uncompressedSizeBytes": 484116,
+    "wordCount": 76016
+  },
+  "edition": {
+    "editionId": "machado-de-assis-quincas-borba.pt-br.gutenberg",
+    "kind": "original",
+    "language": "pt-BR",
+    "title": "Quincas Borba"
+  },
+  "genres": [
+    "Fiction",
+    "History"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1908: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1891: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/55682",
+      "https://en.wikipedia.org/wiki/Machado_de_Assis",
+      "https://www.wikidata.org/wiki/Q240087"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1891. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "55682",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:45:17.807133Z",
+    "revision": "Sat, 22 Aug 2026 12:26:01 GMT",
+    "url": "https://www.gutenberg.org/ebooks/55682"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1839,
+      "deathYear": 1908,
+      "name": "Machado de Assis",
+      "wikidata": "Q311145"
+    },
+    "originalLanguage": "pt-BR",
+    "originalPublicationYear": 1891,
+    "originalTitle": "Quincas Borba",
+    "workId": "machado-de-assis-quincas-borba"
+  }
+}

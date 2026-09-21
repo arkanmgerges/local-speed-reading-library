@@ -1,0 +1,96 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "904d5cd551236fcde1854ac424ccb01d6fed2611a239140fa5e10d972244ff65",
+        "encoding": "gzip",
+        "path": "books/ka/ezosmodzghvari-history-of-the-king-of-kings-tamar.ka.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "432a4090ccd6d69e0a15e5fec1979141fa5c922fe60a1dae65460baa236769fb",
+        "sizeBytes": 30044,
+        "uncompressedSizeBytes": 158935,
+        "wordCount": 7652
+      },
+      "author": "ბასილი ეზოსმოძღვარი",
+      "authorDeathYear": 1200,
+      "editionId": "ezosmodzghvari-history-of-the-king-of-kings-tamar.ka.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ka",
+      "originalLanguage": "ka",
+      "originalPublicationYear": 1800,
+      "originalTitle": "ცხოვრება მეფეთ მეფისა თამარისი",
+      "rights": {
+        "statement": "Public domain worldwide. ბასილი ეზოსმოძღვარი died in 1200 and the work was first published in 1800. Source: ka.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "ცხოვრება მეფეთ-მეფისა თამარისი",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:51:16.640932Z",
+        "revision": "75975",
+        "url": "https://ka.wikisource.org/wiki/%E1%83%AA%E1%83%AE%E1%83%9D%E1%83%95%E1%83%A0%E1%83%94%E1%83%91%E1%83%90_%E1%83%9B%E1%83%94%E1%83%A4%E1%83%94%E1%83%97-%E1%83%9B%E1%83%94%E1%83%A4%E1%83%98%E1%83%A1%E1%83%90_%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1%E1%83%98"
+      },
+      "title": "ცხოვრება მეფეთ მეფისა თამარისი",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "ezosmodzghvari-history-of-the-king-of-kings-tamar"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "6716e9f903c6025c7b74fea88e2b3d515e7985a4ca16fe0cf503e12103d99c53",
+        "encoding": "gzip",
+        "path": "books/ka/ninoshvili-chveni-qveq-nis-raindi.ka.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "736f4a9691875884aeed2303e5263396bc01843d75e291b86ebe1ea0d90c41cb",
+        "sizeBytes": 48831,
+        "uncompressedSizeBytes": 256579,
+        "wordCount": 13473
+      },
+      "author": "ეგნატე ნინოშვილი",
+      "authorDeathYear": 1894,
+      "editionId": "ninoshvili-chveni-qveq-nis-raindi.ka.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ka",
+      "originalLanguage": "ka",
+      "originalPublicationYear": 1893,
+      "originalTitle": "ჩვენი ქვეყნის რაინდი",
+      "rights": {
+        "statement": "Public domain worldwide. ეგნატე ნინოშვილი died in 1894 and the work was first published in 1893. Source: ka.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "ჩვენი ქვეყნის რაინდი",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:51:18.761851Z",
+        "revision": "75876",
+        "url": "https://ka.wikisource.org/wiki/%E1%83%A9%E1%83%95%E1%83%94%E1%83%9C%E1%83%98_%E1%83%A5%E1%83%95%E1%83%94%E1%83%A7%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%A0%E1%83%90%E1%83%98%E1%83%9C%E1%83%93%E1%83%98"
+      },
+      "title": "ჩვენი ქვეყნის რაინდი",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "ninoshvili-chveni-qveq-nis-raindi"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Georgian",
+  "language": "ka",
+  "manifestVersion": "16430a3b75ae3bc4",
+  "nativeName": "ქართული",
+  "schemaVersion": 1
+}

@@ -1,0 +1,127 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:52:03.731089Z",
+    "chapterCount": 12,
+    "contentSha256": "5710859af90c32d8ac7c99e5bc5cb46e7222d5cb35e852f979c05243412c6781",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cs/swift-gulliverovy-cesty.cs.wikisource/v1/book.json.gz",
+    "sha256": "425fcdafdf79490c5c4a0260540fb7d2b906598d09a3ef30a8243fe6c2ac0e44",
+    "sizeBytes": 40618,
+    "uncompressedSizeBytes": 106624,
+    "wordCount": 14624
+  },
+  "edition": {
+    "editionId": "swift-gulliverovy-cesty.cs.wikisource",
+    "kind": "translation",
+    "language": "cs",
+    "title": "Gulliverovy cesty",
+    "translationPublicationYear": 1905,
+    "translator": {
+      "birthYear": 1868,
+      "deathYear": 1942,
+      "name": "Bohumil Klika",
+      "wikidata": "Q29624984"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1745: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1942: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1905: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q181488",
+      "https://www.wikidata.org/wiki/Q111507378",
+      "https://www.wikidata.org/wiki/Q41166",
+      "https://www.wikidata.org/wiki/Q29624984",
+      "https://cs.wikisource.org/wiki/Gulliverovy_cesty_(Klika)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jonathan Swift died in 1745; the translator Bohumil Klika died in 1942 and this translation was first published in 1905. Source: cs.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Gulliverovy cesty (Klika)",
+    "pages": [
+      {
+        "revision": 290511,
+        "title": "Gulliverovy cesty (Klika)"
+      },
+      {
+        "revision": 292007,
+        "title": "Gulliverovy cesty (Klika)/Do Liliputu"
+      },
+      {
+        "revision": 292016,
+        "title": "Gulliverovy cesty (Klika)/Do Liliputu/Úvod"
+      },
+      {
+        "revision": 292008,
+        "title": "Gulliverovy cesty (Klika)/Do Liliputu/I"
+      },
+      {
+        "revision": 292009,
+        "title": "Gulliverovy cesty (Klika)/Do Liliputu/II"
+      },
+      {
+        "revision": 292010,
+        "title": "Gulliverovy cesty (Klika)/Do Liliputu/III"
+      },
+      {
+        "revision": 292011,
+        "title": "Gulliverovy cesty (Klika)/Do Liliputu/IV"
+      },
+      {
+        "revision": 292012,
+        "title": "Gulliverovy cesty (Klika)/Do Liliputu/V"
+      },
+      {
+        "revision": 292013,
+        "title": "Gulliverovy cesty (Klika)/Do Liliputu/VI"
+      },
+      {
+        "revision": 292014,
+        "title": "Gulliverovy cesty (Klika)/Do Liliputu/VII"
+      },
+      {
+        "revision": 292015,
+        "title": "Gulliverovy cesty (Klika)/Do Liliputu/VIII"
+      },
+      {
+        "revision": 292006,
+        "title": "Gulliverovy cesty (Klika)/Do Brobdénňaku"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:11:43.007190Z",
+    "revision": "290511",
+    "site": "cs.wikisource.org",
+    "url": "https://cs.wikisource.org/wiki/Gulliverovy_cesty_(Klika)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1667,
+      "deathYear": 1745,
+      "name": "Jonathan Swift",
+      "wikidata": "Q41166"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1726,
+    "originalTitle": "Gulliverovy cesty",
+    "workId": "swift-gulliverovy-cesty"
+  }
+}

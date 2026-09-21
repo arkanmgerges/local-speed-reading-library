@@ -1,0 +1,105 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:31:57.778895Z",
+    "chapterCount": 9,
+    "contentSha256": "88732dc5ccb47e1710fbedfd6a19c4cb4d6891f7f1e3428d89596e169c1b1ad2",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/kielland-else.no.wikisource/v1/book.json.gz",
+    "sha256": "63c3abbb2c026f6795c2ea8a2eabf9930c3b329134d93e26483bc7041c07da84",
+    "sizeBytes": 49618,
+    "uncompressedSizeBytes": 135011,
+    "wordCount": 22037
+  },
+  "edition": {
+    "editionId": "kielland-else.no.wikisource",
+    "kind": "original",
+    "language": "no",
+    "title": "Else"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1906: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1881: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q58823496",
+      "https://www.wikidata.org/wiki/Q318358",
+      "https://no.wikisource.org/wiki/Else"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Alexander Kielland died in 1906 and the work was first published in 1881. Source: no.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Else",
+    "pages": [
+      {
+        "revision": 319892,
+        "title": "Else"
+      },
+      {
+        "revision": 188688,
+        "title": "Else/1"
+      },
+      {
+        "revision": 188689,
+        "title": "Else/2"
+      },
+      {
+        "revision": 188690,
+        "title": "Else/3"
+      },
+      {
+        "revision": 188691,
+        "title": "Else/4"
+      },
+      {
+        "revision": 188692,
+        "title": "Else/5"
+      },
+      {
+        "revision": 188693,
+        "title": "Else/6"
+      },
+      {
+        "revision": 188694,
+        "title": "Else/7"
+      },
+      {
+        "revision": 188695,
+        "title": "Else/8"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:17:25.127289Z",
+    "revision": "319892",
+    "site": "no.wikisource.org",
+    "url": "https://no.wikisource.org/wiki/Else"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1849,
+      "deathYear": 1906,
+      "name": "Alexander Kielland",
+      "wikidata": "Q318358"
+    },
+    "originalLanguage": "no",
+    "originalPublicationYear": 1881,
+    "originalTitle": "Else",
+    "workId": "kielland-else"
+  }
+}

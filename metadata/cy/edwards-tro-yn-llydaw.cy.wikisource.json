@@ -1,0 +1,161 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:58.924912Z",
+    "chapterCount": 27,
+    "contentSha256": "bd9d1b1f451d1bf3125f1bddf442cd671063e654c3484f45a06bee07b6283c54",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cy/edwards-tro-yn-llydaw.cy.wikisource/v1/book.json.gz",
+    "sha256": "da4979e59647239b55b6f19c98164c8bff34aff134cebac519f6082888bd331c",
+    "sizeBytes": 93179,
+    "uncompressedSizeBytes": 237412,
+    "wordCount": 40451
+  },
+  "edition": {
+    "editionId": "edwards-tro-yn-llydaw.cy.wikisource",
+    "kind": "original",
+    "language": "cy",
+    "title": "Tro yn Llydaw"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1920: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1890: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q110477279",
+      "https://www.wikidata.org/wiki/Q7114583",
+      "https://cy.wikisource.org/wiki/Tro_yn_Llydaw"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Owen Morgan Edwards died in 1920 and the work was first published in 1890. Source: cy.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Tro yn Llydaw",
+    "pages": [
+      {
+        "revision": 100541,
+        "title": "Tro yn Llydaw"
+      },
+      {
+        "revision": 31129,
+        "title": "Tro yn Llydaw/Rhagymadrodd"
+      },
+      {
+        "revision": 31131,
+        "title": "Tro yn Llydaw/Mynd i'r Môr"
+      },
+      {
+        "revision": 31130,
+        "title": "Tro yn Llydaw/Ynysoedd Dedwydd"
+      },
+      {
+        "revision": 31128,
+        "title": "Tro yn Llydaw/Dinas Malo"
+      },
+      {
+        "revision": 31127,
+        "title": "Tro yn Llydaw/Craig y Bedd"
+      },
+      {
+        "revision": 31126,
+        "title": "Tro yn Llydaw/Taith ar Draed"
+      },
+      {
+        "revision": 31125,
+        "title": "Tro yn Llydaw/Gwesty Llydewig"
+      },
+      {
+        "revision": 31124,
+        "title": "Tro yn Llydaw/Ioan y Gyrrwr"
+      },
+      {
+        "revision": 31123,
+        "title": "Tro yn Llydaw/Lannion"
+      },
+      {
+        "revision": 31122,
+        "title": "Tro yn Llydaw/Llydawiaid yn Addoli"
+      },
+      {
+        "revision": 31121,
+        "title": "Tro yn Llydaw/Eglwys ar Fryn"
+      },
+      {
+        "revision": 31120,
+        "title": "Tro yn Llydaw/Min Nos Saboth"
+      },
+      {
+        "revision": 31119,
+        "title": "Tro yn Llydaw/Ynys Arthur"
+      },
+      {
+        "revision": 31118,
+        "title": "Tro yn Llydaw/Morlaix"
+      },
+      {
+        "revision": 31117,
+        "title": "Tro yn Llydaw/Dros y Mynyddoedd Duon"
+      },
+      {
+        "revision": 31116,
+        "title": "Tro yn Llydaw/Gyda'r Cenhadwr"
+      },
+      {
+        "revision": 31115,
+        "title": "Tro yn Llydaw/Yr Eglwys Gam"
+      },
+      {
+        "revision": 31110,
+        "title": "Tro yn Llydaw/Y Ddinas Foddwyd"
+      },
+      {
+        "revision": 31114,
+        "title": "Tro yn Llydaw/Gwlad y Beddau"
+      },
+      {
+        "revision": 31113,
+        "title": "Tro yn Llydaw/Dinas ar Fryn"
+      },
+      {
+        "revision": 31112,
+        "title": "Tro yn Llydaw/Troi Adre"
+      },
+      {
+        "revision": 31111,
+        "title": "Tro yn Llydaw/Geirfa"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:18:06.975005Z",
+    "revision": "100541",
+    "site": "cy.wikisource.org",
+    "url": "https://cy.wikisource.org/wiki/Tro_yn_Llydaw"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1858,
+      "deathYear": 1920,
+      "name": "Owen Morgan Edwards",
+      "wikidata": "Q7114583"
+    },
+    "originalLanguage": "cy",
+    "originalPublicationYear": 1890,
+    "originalTitle": "Tro yn Llydaw",
+    "workId": "edwards-tro-yn-llydaw"
+  }
+}

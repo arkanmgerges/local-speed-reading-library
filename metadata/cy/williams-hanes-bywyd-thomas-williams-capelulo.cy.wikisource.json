@@ -1,0 +1,96 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:52:09.348514Z",
+    "chapterCount": 6,
+    "contentSha256": "efea603e9ed3d2ac0e16fced7468e1710c76c643a4bcfbffe868e7dd3514cf1e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cy/williams-hanes-bywyd-thomas-williams-capelulo.cy.wikisource/v1/book.json.gz",
+    "sha256": "398ae2fabab0593b1582caaa11e2784f27d779f8bec4c7e78ff9fbf60b034536",
+    "sizeBytes": 29902,
+    "uncompressedSizeBytes": 79370,
+    "wordCount": 14666
+  },
+  "edition": {
+    "editionId": "williams-hanes-bywyd-thomas-williams-capelulo.cy.wikisource",
+    "kind": "original",
+    "language": "cy",
+    "title": "Hanes Bywyd Thomas Williams, Capelulo"
+  },
+  "genres": [
+    "Biography"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1855: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1854: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q108278778",
+      "https://www.wikidata.org/wiki/Q28360856",
+      "https://cy.wikisource.org/wiki/Hanes_Bywyd_Thomas_Williams%2C_Capelulo"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Thomas Williams died in 1855 and the work was first published in 1854. Source: cy.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Hanes Bywyd Thomas Williams, Capelulo",
+    "pages": [
+      {
+        "revision": 157266,
+        "title": "Hanes Bywyd Thomas Williams, Capelulo"
+      },
+      {
+        "revision": 31022,
+        "title": "Hanes Bywyd Thomas Williams, Capelulo/Cyflwyniad"
+      },
+      {
+        "revision": 31023,
+        "title": "Hanes Bywyd Thomas Williams, Capelulo/Ieuenctid"
+      },
+      {
+        "revision": 31024,
+        "title": "Hanes Bywyd Thomas Williams, Capelulo/Ei gyfnod milwrol"
+      },
+      {
+        "revision": 31025,
+        "title": "Hanes Bywyd Thomas Williams, Capelulo/Wedi'r fyddin"
+      },
+      {
+        "revision": 31026,
+        "title": "Hanes Bywyd Thomas Williams, Capelulo/Sobri"
+      },
+      {
+        "revision": 31027,
+        "title": "Hanes Bywyd Thomas Williams, Capelulo/Diweddglo"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:18:49.528075Z",
+    "revision": "157266",
+    "site": "cy.wikisource.org",
+    "url": "https://cy.wikisource.org/wiki/Hanes_Bywyd_Thomas_Williams%2C_Capelulo"
+  },
+  "work": {
+    "author": {
+      "deathYear": 1855,
+      "name": "Thomas Williams",
+      "wikidata": "Q28360856"
+    },
+    "originalLanguage": "cy",
+    "originalPublicationYear": 1854,
+    "originalTitle": "Hanes Bywyd Thomas Williams, Capelulo",
+    "workId": "williams-hanes-bywyd-thomas-williams-capelulo"
+  }
+}

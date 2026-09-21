@@ -1,0 +1,99 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:42.240827Z",
+    "chapterCount": 5,
+    "contentSha256": "80a1a8b4cd6114da04ab010b5b90f8fe2feb31af2d126cab2574441c3e32e942",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/platon-apologia.pl.wikisource/v1/book.json.gz",
+    "sha256": "01be2826d1ca08aac2c577f4bea939795d2282759c02f1a573d6b4283bb352b6",
+    "sizeBytes": 55323,
+    "uncompressedSizeBytes": 149630,
+    "wordCount": 21918
+  },
+  "edition": {
+    "editionId": "platon-apologia.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Apologia",
+    "translationPublicationYear": 1845,
+    "translator": {
+      "birthYear": 1805,
+      "deathYear": 1870,
+      "name": "Felicjan Kozłowski",
+      "wikidata": "Q649774"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -348: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1870: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1845: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q273668",
+      "https://www.wikidata.org/wiki/Q63408548",
+      "https://www.wikidata.org/wiki/Q859",
+      "https://www.wikidata.org/wiki/Q649774",
+      "https://pl.wikisource.org/wiki/Apologia_(t%C5%82um._Koz%C5%82owski)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Platon died in -348; the translator Felicjan Kozłowski died in 1870 and this translation was first published in 1845. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Apologia (tłum. Kozłowski)",
+    "pages": [
+      {
+        "revision": 3246970,
+        "title": "Apologia (tłum. Kozłowski)"
+      },
+      {
+        "revision": 3246974,
+        "title": "Apologia (tłum. Kozłowski)/całość"
+      },
+      {
+        "revision": 3246971,
+        "title": "Apologia (tłum. Kozłowski)/O Apologii"
+      },
+      {
+        "revision": 3246972,
+        "title": "Apologia (tłum. Kozłowski)/Przekład Apologii"
+      },
+      {
+        "revision": 3246973,
+        "title": "Apologia (tłum. Kozłowski)/Uwagi krytyczne"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:26:01.554057Z",
+    "revision": "3246970",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Apologia_(t%C5%82um._Koz%C5%82owski)"
+  },
+  "work": {
+    "author": {
+      "birthYear": -428,
+      "deathYear": -348,
+      "name": "Platon",
+      "wikidata": "Q859"
+    },
+    "originalLanguage": "grc",
+    "originalPublicationYear": -395,
+    "originalTitle": "Apologia",
+    "workId": "platon-apologia"
+  }
+}

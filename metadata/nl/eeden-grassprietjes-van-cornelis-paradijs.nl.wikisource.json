@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:02:06.972295Z",
+    "chapterCount": 6,
+    "contentSha256": "514a2dc6f923238d1ee2820d2db70a475e26e77ca25dbd9c7c793aca6211de7d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/eeden-grassprietjes-van-cornelis-paradijs.nl.wikisource/v1/book.json.gz",
+    "sha256": "1077167d0ae37b7653341ad9cd840560ae7e6642c0dcea034da75d8e915579a2",
+    "sizeBytes": 18845,
+    "uncompressedSizeBytes": 45320,
+    "wordCount": 6679
+  },
+  "edition": {
+    "editionId": "eeden-grassprietjes-van-cornelis-paradijs.nl.wikisource",
+    "kind": "original",
+    "language": "nl",
+    "title": "Grassprietjes van Cornelis Paradijs"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1932: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1885: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q21181422",
+      "https://www.wikidata.org/wiki/Q211514",
+      "https://nl.wikisource.org/wiki/Cornelis_Paradijs%2FGrassprietjes"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Frederik van Eeden died in 1932 and the work was first published in 1885. Source: nl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Cornelis Paradijs/Grassprietjes",
+    "pages": [
+      {
+        "revision": 170161,
+        "title": "Cornelis Paradijs/Grassprietjes"
+      },
+      {
+        "revision": 170096,
+        "title": "Cornelis Paradijs/Grassprietjes/Aanhef"
+      },
+      {
+        "revision": 170160,
+        "title": "Cornelis Paradijs/Grassprietjes/Een tuiltje poëzie voor het huisgezin"
+      },
+      {
+        "revision": 170159,
+        "title": "Cornelis Paradijs/Grassprietjes/Versche lauwerblaadjes om de hoofden van Neêrlands dichterhelden"
+      },
+      {
+        "revision": 170210,
+        "title": "Cornelis Paradijs/Grassprietjes/Predikanten-lied (Hulde aan onzen geestelijken stand)"
+      },
+      {
+        "revision": 170226,
+        "title": "Cornelis Paradijs/Grassprietjes/Mengelpoëzie"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:08:43.212085Z",
+    "revision": "170161",
+    "site": "nl.wikisource.org",
+    "url": "https://nl.wikisource.org/wiki/Cornelis_Paradijs/Grassprietjes"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1860,
+      "deathYear": 1932,
+      "name": "Frederik van Eeden",
+      "wikidata": "Q211514"
+    },
+    "originalLanguage": "nl",
+    "originalPublicationYear": 1885,
+    "originalTitle": "Grassprietjes van Cornelis Paradijs",
+    "workId": "eeden-grassprietjes-van-cornelis-paradijs"
+  }
+}

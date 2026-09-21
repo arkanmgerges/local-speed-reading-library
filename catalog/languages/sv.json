@@ -1,0 +1,872 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 13,
+        "contentSha256": "79c5fd8ce85a80d6b68b5d84753fa9503a1403d4d62e2a0cbec9b5a11e41fe4a",
+        "encoding": "gzip",
+        "path": "books/sv/almqvist-det-gar-an.sv.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4657b0e500d9137e8764d00cf8d562cb040aaaf4807204e8b6c2b8262f85597d",
+        "sizeBytes": 86380,
+        "uncompressedSizeBytes": 232552,
+        "wordCount": 37107
+      },
+      "author": "C. J. L. Almqvist",
+      "authorDeathYear": 1866,
+      "editionId": "almqvist-det-gar-an.sv.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "sv",
+      "originalLanguage": "sv",
+      "originalPublicationYear": 1839,
+      "originalTitle": "Det går an",
+      "rights": {
+        "statement": "Public domain worldwide. C. J. L. Almqvist died in 1866 and the work was first published in 1839. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "14670",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:58:24.213735Z",
+        "revision": "Sun, 06 Sep 2026 14:19:27 GMT",
+        "url": "https://www.gutenberg.org/ebooks/14670"
+      },
+      "title": "Det går an",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "almqvist-det-gar-an"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 23,
+        "contentSha256": "5b6c9b3889925fe4d95f5ba5980c5ab8d199172c01c647698d331161ee361d7b",
+        "encoding": "gzip",
+        "path": "books/sv/almqvist-i-tolfte-timmen.sv.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "23887a70195c22f8bd206bc5d7214c8cb30c846ddaa298e0c42606bb60fc6226",
+        "sizeBytes": 63591,
+        "uncompressedSizeBytes": 177174,
+        "wordCount": 29334
+      },
+      "author": "Gertrud Almqvist",
+      "authorDeathYear": 1954,
+      "editionId": "almqvist-i-tolfte-timmen.sv.gutenberg",
+      "editionPublicationYear": 1928,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "sv",
+      "originalLanguage": "sv",
+      "originalPublicationYear": null,
+      "originalTitle": "I tolfte timmen : $b En gammal, dåraktig kvinnas bekännelser",
+      "rights": {
+        "statement": "Public domain worldwide. Gertrud Almqvist died in 1954 and the edition digitised by Project Gutenberg was printed in 1928. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "77571",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:58:26.828903Z",
+        "revision": "Sun, 30 Aug 2026 21:10:28 GMT",
+        "url": "https://www.gutenberg.org/ebooks/77571"
+      },
+      "title": "I tolfte timmen : $b En gammal, dåraktig kvinnas bekännelser",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "almqvist-i-tolfte-timmen"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 62,
+        "contentSha256": "a1cef8b6f5668c90764d8e89ebb1c67bde21eb28fbef0d72ab33639c5655c5e6",
+        "encoding": "gzip",
+        "path": "books/sv/austen-stolthet-och-fordom.sv.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d5119f5323e63912d4285ab5c4f5170688ad5b97139e8988dfbb4d5a839cba64",
+        "sizeBytes": 264676,
+        "uncompressedSizeBytes": 793444,
+        "wordCount": 126789
+      },
+      "author": "Jane Austen",
+      "authorDeathYear": 1817,
+      "editionId": "austen-stolthet-och-fordom.sv.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "sv",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1813,
+      "originalTitle": "Stolthet och fördom",
+      "rights": {
+        "statement": "Public domain worldwide. Jane Austen died in 1817; the translator Carl Axel Ringenson died in 1925 and this translation was first published in 1920. Source: sv.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Stolthet och fördom",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:59:53.212051Z",
+        "revision": "403034",
+        "url": "https://sv.wikisource.org/wiki/Stolthet_och_f%C3%B6rdom"
+      },
+      "title": "Stolthet och fördom",
+      "translationPublicationYear": 1920,
+      "translator": "Carl Axel Ringenson",
+      "translatorDeathYear": 1925,
+      "workId": "austen-stolthet-och-fordom"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 39,
+        "contentSha256": "35ed0f47a32cc91efae06d2dc845631ff5d851958724e2933c425d9e23e8dd80",
+        "encoding": "gzip",
+        "path": "books/sv/bronte-jane-eyre.sv.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "07e39a90ebd5ccd705138b08c8c4a23ce51b1adcf693450be559695fc7db8ef3",
+        "sizeBytes": 451550,
+        "uncompressedSizeBytes": 1249913,
+        "wordCount": 198560
+      },
+      "author": "Charlotte Brontë",
+      "authorDeathYear": 1855,
+      "editionId": "bronte-jane-eyre.sv.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "sv",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1847,
+      "originalTitle": "Jane Eyre",
+      "rights": {
+        "statement": "Public domain worldwide. Charlotte Brontë died in 1855; the translator Carl Johan Backman died in 1874 and this translation was first published in 1873. Source: sv.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Jane Eyre",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:01:05.115579Z",
+        "revision": "605055",
+        "url": "https://sv.wikisource.org/wiki/Jane_Eyre"
+      },
+      "title": "Jane Eyre",
+      "translationPublicationYear": 1873,
+      "translator": "Carl Johan Backman",
+      "translatorDeathYear": 1874,
+      "workId": "bronte-jane-eyre"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 349,
+        "contentSha256": "104e118b1407ddea47607dcf258931aa8c4d54114e9f8ee45f266a39779b3922",
+        "encoding": "gzip",
+        "path": "books/sv/caesar-gaius-julius-c-sars-anteckningar-om-galliska.sv.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "13c75f22d17029b29592fcb981e8e58ccc5bf767aa8bd84596286a08d117d7c0",
+        "sizeBytes": 160232,
+        "uncompressedSizeBytes": 470371,
+        "wordCount": 67002
+      },
+      "author": "Julius Caesar",
+      "authorDeathYear": -43,
+      "editionId": "caesar-gaius-julius-c-sars-anteckningar-om-galliska.sv.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Biography"
+      ],
+      "kind": "translation",
+      "language": "sv",
+      "originalLanguage": "la",
+      "originalPublicationYear": -57,
+      "originalTitle": "Gaius Julius Cæsars anteckningar om galliska kriget",
+      "rights": {
+        "statement": "Public domain worldwide. Julius Caesar died in -43; the translator Erik Hedén died in 1925 and this translation was first published in 1927. Source: sv.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Gaius Julius Cæsars anteckningar om galliska kriget",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:01:21.410773Z",
+        "revision": "566982",
+        "url": "https://sv.wikisource.org/wiki/Gaius_Julius_C%C3%A6sars_anteckningar_om_galliska_kriget"
+      },
+      "title": "Gaius Julius Cæsars anteckningar om galliska kriget",
+      "translationPublicationYear": 1927,
+      "translator": "Erik Hedén",
+      "translatorDeathYear": 1925,
+      "workId": "caesar-gaius-julius-c-sars-anteckningar-om-galliska"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "a62e478237f146a48b45b22adf441386a6b61340196dd49603ebebfd923d42d0",
+        "encoding": "gzip",
+        "path": "books/sv/carroll-alices-aventyr-i-underlandet.sv.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "559bae191fe5788420342637c7bedb7a4cf4edd5a20ab7dfb79e494de86bf0c6",
+        "sizeBytes": 56085,
+        "uncompressedSizeBytes": 168036,
+        "wordCount": 26149
+      },
+      "author": "Lewis Carroll",
+      "authorDeathYear": 1898,
+      "editionId": "carroll-alices-aventyr-i-underlandet.sv.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "sv",
+      "originalLanguage": "en-gb",
+      "originalPublicationYear": 1865,
+      "originalTitle": "Alices äventyr i underlandet",
+      "rights": {
+        "statement": "Public domain worldwide. Lewis Carroll died in 1898; the translator Nino Runeberg died in 1934 and this translation was first published in 1921. Source: sv.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Alices äventyr i underlandet",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:01:42.133987Z",
+        "revision": "498021",
+        "url": "https://sv.wikisource.org/wiki/Alices_%C3%A4ventyr_i_underlandet"
+      },
+      "title": "Alices äventyr i underlandet",
+      "translationPublicationYear": 1921,
+      "translator": "Nino Runeberg",
+      "translatorDeathYear": 1934,
+      "workId": "carroll-alices-aventyr-i-underlandet"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 69,
+        "contentSha256": "e44e6be681ff8bd6bdfb8ccc467432dc1d6ff7c8fd3acc5280ce0128a2e56555",
+        "encoding": "gzip",
+        "path": "books/sv/d-a-de-tre-musketorerna.sv.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "502c8b147f6b990e93d55c7d4f89da0a1b3ea2f0934e3848062c1b578d89f545",
+        "sizeBytes": 503672,
+        "uncompressedSizeBytes": 1492493,
+        "wordCount": 224154
+      },
+      "author": "Alexandre Dumas d.ä.",
+      "authorDeathYear": 1870,
+      "editionId": "d-a-de-tre-musketorerna.sv.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "sv",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1844,
+      "originalTitle": "De tre musketörerna",
+      "rights": {
+        "statement": "Public domain worldwide. Alexandre Dumas d.ä. died in 1870; the translator Tom Edgar Wilson died in 1923 and this translation was first published in 1911. Source: sv.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "De tre musketörerna",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:03:19.660273Z",
+        "revision": "428354",
+        "url": "https://sv.wikisource.org/wiki/De_tre_musket%C3%B6rerna"
+      },
+      "title": "De tre musketörerna",
+      "translationPublicationYear": 1911,
+      "translator": "Tom Edgar Wilson",
+      "translatorDeathYear": 1923,
+      "workId": "d-a-de-tre-musketorerna"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 17,
+        "contentSha256": "e7e6f88264ce0aa5225db7d203b03467c43009ee47b88a1da5221e35d3b91baa",
+        "encoding": "gzip",
+        "path": "books/sv/darwin-om-arternas-uppkomst-genom-naturligt-urval.sv.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "90d8ac4a6f5aa3e2010e5e80d947ec756c8ab485e051a549255b363c8b7f8f86",
+        "sizeBytes": 364120,
+        "uncompressedSizeBytes": 1150589,
+        "wordCount": 167526
+      },
+      "author": "Charles Darwin",
+      "authorDeathYear": 1882,
+      "editionId": "darwin-om-arternas-uppkomst-genom-naturligt-urval.sv.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "sv",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1859,
+      "originalTitle": "Om arternas uppkomst genom naturligt urval",
+      "rights": {
+        "statement": "Public domain worldwide. Charles Darwin died in 1882; the translator Alfred Mauritz Selling died in 1932 and this translation was first published in 1871. Source: sv.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:03:53.062910Z",
+        "revision": "260081",
+        "url": "https://sv.wikisource.org/wiki/Om_arternas_uppkomst_genom_naturligt_urval_eller_de_b%C3%A4st_utrustade_rasernas_best%C3%A5nd_i_kampen_f%C3%B6r_tillvaron"
+      },
+      "title": "Om arternas uppkomst genom naturligt urval eller de bäst utrustade rasernas bestånd i kampen för tillvaron af Charles Darwin. Öfversättning från femte originalupplagan af A. M. Selling",
+      "translationPublicationYear": 1871,
+      "translator": "Alfred Mauritz Selling",
+      "translatorDeathYear": 1932,
+      "workId": "darwin-om-arternas-uppkomst-genom-naturligt-urval"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 4,
+        "contentSha256": "2e454313e3ee2d76b6304b0ba2ebb0b0f18602cf1991954e13a68c42957e3efb",
+        "encoding": "gzip",
+        "path": "books/sv/defoe-robinson-crusoe.sv.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "31f03136c570d4fdad67dacf0c8d9ca62556a715d75b8f01d49c3ce8c676b090",
+        "sizeBytes": 509946,
+        "uncompressedSizeBytes": 1463649,
+        "wordCount": 231330
+      },
+      "author": "Daniel Defoe",
+      "authorDeathYear": 1731,
+      "editionId": "defoe-robinson-crusoe.sv.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "sv",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1719,
+      "originalTitle": "Robinson Crusoe",
+      "rights": {
+        "statement": "Public domain worldwide. Daniel Defoe died in 1731; the translator Jean Fredrik Rossander died in 1919 and this translation was first published in 1926. Source: sv.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Robinson Crusoe",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:04:05.078955Z",
+        "revision": "433018",
+        "url": "https://sv.wikisource.org/wiki/Robinson_Crusoe"
+      },
+      "title": "Robinson Crusoe",
+      "translationPublicationYear": 1926,
+      "translator": "Jean Fredrik Rossander",
+      "translatorDeathYear": 1919,
+      "workId": "defoe-robinson-crusoe"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 64,
+        "contentSha256": "8215211a13c702d92894d60e8c048760de1faa761eedb4e53314c8bc6b2bea8e",
+        "encoding": "gzip",
+        "path": "books/sv/dickens-david-copperfield-den-yngres-levnadshistoria-och-erfarenhet.sv.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "49be469488517715ad14cc65b6a37843a4d46af10944c2426321feeea824763a",
+        "sizeBytes": 791739,
+        "uncompressedSizeBytes": 2278742,
+        "wordCount": 369468
+      },
+      "author": "Charles Dickens",
+      "authorDeathYear": 1870,
+      "editionId": "dickens-david-copperfield-den-yngres-levnadshistoria-och-erfarenhet.sv.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "sv",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1850,
+      "originalTitle": "David Copperfield den yngres levnadshistoria och erfarenhet av livet",
+      "rights": {
+        "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Carl Johan Backman died in 1874 and this translation was first published in 1923. Source: sv.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "David Copperfield",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:05:41.649876Z",
+        "revision": "469719",
+        "url": "https://sv.wikisource.org/wiki/David_Copperfield"
+      },
+      "title": "David Copperfield den yngres levnadshistoria och erfarenhet av livet",
+      "translationPublicationYear": 1923,
+      "translator": "Carl Johan Backman",
+      "translatorDeathYear": 1874,
+      "workId": "dickens-david-copperfield-den-yngres-levnadshistoria-och-erfarenhet"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 35,
+        "contentSha256": "286af301cdd773d2a8cd35a5c1de00682bfcde70e31ed8bf565f1ee8a81b350c",
+        "encoding": "gzip",
+        "path": "books/sv/flaubert-madame-bovary.sv.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d08ea6986b6c2970b016e087e8a19f5a903bbd98cc9412556cba3bc45ae17e0d",
+        "sizeBytes": 250256,
+        "uncompressedSizeBytes": 675451,
+        "wordCount": 104221
+      },
+      "author": "Gustave Flaubert",
+      "authorDeathYear": 1880,
+      "editionId": "flaubert-madame-bovary.sv.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "sv",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1857,
+      "originalTitle": "Madame Bovary",
+      "rights": {
+        "statement": "Public domain worldwide. Gustave Flaubert died in 1880; the translator Ernst Lundquist died in 1938 and this translation was first published in 1921. Source: sv.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Madame Bovary",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:06:41.668244Z",
+        "revision": "634764",
+        "url": "https://sv.wikisource.org/wiki/Madame_Bovary"
+      },
+      "title": "Madame Bovary",
+      "translationPublicationYear": 1921,
+      "translator": "Ernst Lundquist",
+      "translatorDeathYear": 1938,
+      "workId": "flaubert-madame-bovary"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "8fbddd491e56d0ec728248e0f3b411f6b7fd57b14171a7eaf3a2fd497b85ae38",
+        "encoding": "gzip",
+        "path": "books/sv/kipling-djungelboken.sv.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6ddcf5cdbe59a53561044d56a0c31af27418ee67448d917527640705d7c87e3f",
+        "sizeBytes": 113933,
+        "uncompressedSizeBytes": 315255,
+        "wordCount": 50322
+      },
+      "author": "Rudyard Kipling",
+      "authorDeathYear": 1936,
+      "editionId": "kipling-djungelboken.sv.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "sv",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1894,
+      "originalTitle": "Djungelboken",
+      "rights": {
+        "statement": "Public domain worldwide. Rudyard Kipling died in 1936; the translator Tom Edgar Wilson died in 1923 and this translation was first published in 1915. Source: sv.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Djungelboken",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:07:11.345428Z",
+        "revision": "323985",
+        "url": "https://sv.wikisource.org/wiki/Djungelboken"
+      },
+      "title": "Djungelboken",
+      "translationPublicationYear": 1915,
+      "translator": "Tom Edgar Wilson",
+      "translatorDeathYear": 1923,
+      "workId": "kipling-djungelboken"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 30,
+        "contentSha256": "61a9783fc21e108fa2a0d5eb0dfe46f21ec4fb9868b18817ccbd3e39819cf1d2",
+        "encoding": "gzip",
+        "path": "books/sv/lagerlof-bannlyst.sv.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8a7443ed00ba710584463321d315c5fdd0a7c72e47aca5647e11a312a37ea60a",
+        "sizeBytes": 157300,
+        "uncompressedSizeBytes": 466599,
+        "wordCount": 76143
+      },
+      "author": "Selma Lagerlöf",
+      "authorDeathYear": 1940,
+      "editionId": "lagerlof-bannlyst.sv.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "sv",
+      "originalLanguage": "sv",
+      "originalPublicationYear": 1918,
+      "originalTitle": "Bannlyst",
+      "rights": {
+        "statement": "Public domain worldwide. Selma Lagerlöf died in 1940 and the work was first published in 1918. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "39147",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T05:07:14.980701Z",
+        "revision": "Wed, 16 Sep 2026 08:08:38 GMT",
+        "url": "https://www.gutenberg.org/ebooks/39147"
+      },
+      "title": "Bannlyst",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "lagerlof-bannlyst"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 33,
+        "contentSha256": "e268bc5aad08bc5ffcf414300fdc1bab7065659185e851a4ed2018f37a44be63",
+        "encoding": "gzip",
+        "path": "books/sv/rydberg-den-siste-atenaren.sv.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "71813ed84ebfa06aac588c6099940553f527248b5ae0e050bb8c3d31904d1e15",
+        "sizeBytes": 371778,
+        "uncompressedSizeBytes": 1016409,
+        "wordCount": 151867
+      },
+      "author": "Viktor Rydberg",
+      "authorDeathYear": 1895,
+      "editionId": "rydberg-den-siste-atenaren.sv.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "sv",
+      "originalLanguage": "sv",
+      "originalPublicationYear": 1859,
+      "originalTitle": "Den siste Atenaren",
+      "rights": {
+        "statement": "Public domain worldwide. Viktor Rydberg died in 1895 and the work was first published in 1859. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "10117",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T05:07:22.232376Z",
+        "revision": "Fri, 04 Sep 2026 21:47:08 GMT",
+        "url": "https://www.gutenberg.org/ebooks/10117"
+      },
+      "title": "Den siste Atenaren",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "rydberg-den-siste-atenaren"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 36,
+        "contentSha256": "25af044e580eb3e0a415e1f3313bc9b7d785f5d4452048f117c9a38c906464bc",
+        "encoding": "gzip",
+        "path": "books/sv/stiernstedt-froken-liwin.sv.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a575cffefe1a4d878fd53e15f32d903d1388c48d72d4dba62e895c5126f5d0fc",
+        "sizeBytes": 167165,
+        "uncompressedSizeBytes": 451934,
+        "wordCount": 70265
+      },
+      "author": "Marika Stiernstedt",
+      "authorDeathYear": 1954,
+      "editionId": "stiernstedt-froken-liwin.sv.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "sv",
+      "originalLanguage": "sv",
+      "originalPublicationYear": 1927,
+      "originalTitle": "Fröken Liwin",
+      "rights": {
+        "statement": "Public domain worldwide. Marika Stiernstedt died in 1954 and the work was first published in 1927. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "74639",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T05:07:33.080511Z",
+        "revision": "Sat, 29 Aug 2026 15:24:39 GMT",
+        "url": "https://www.gutenberg.org/ebooks/74639"
+      },
+      "title": "Fröken Liwin",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "stiernstedt-froken-liwin"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 9,
+        "contentSha256": "dfad00ff1713e2fcf03bb2387a6808ffcee966070a168ed499f6b12473eb475c",
+        "encoding": "gzip",
+        "path": "books/sv/strindberg-hemsoborna.sv.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "11748b6b631d5420d3245980e4464742d19038c1c308bf9d6705058c514c3012",
+        "sizeBytes": 104011,
+        "uncompressedSizeBytes": 276028,
+        "wordCount": 43802
+      },
+      "author": "August Strindberg",
+      "authorDeathYear": 1912,
+      "editionId": "strindberg-hemsoborna.sv.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "sv",
+      "originalLanguage": "sv",
+      "originalPublicationYear": 1887,
+      "originalTitle": "Hemsöborna",
+      "rights": {
+        "statement": "Public domain worldwide. August Strindberg died in 1912 and the work was first published in 1887. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "30078",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T05:07:36.388696Z",
+        "revision": "Sat, 12 Sep 2026 18:34:45 GMT",
+        "url": "https://www.gutenberg.org/ebooks/30078"
+      },
+      "title": "Hemsöborna",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "strindberg-hemsoborna"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 43,
+        "contentSha256": "cdb65cbff253d196fc855655c2883517d9c5d3a5e9d8120befbff0203c655883",
+        "encoding": "gzip",
+        "path": "books/sv/twain-huckleberry-finns-aventyr.sv.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d5ef3bf3a3c19e1fa178e326920533eaa8d2a4b602bd449fd53c9c07d60f147a",
+        "sizeBytes": 244967,
+        "uncompressedSizeBytes": 719622,
+        "wordCount": 124976
+      },
+      "author": "Mark Twain",
+      "authorDeathYear": 1910,
+      "editionId": "twain-huckleberry-finns-aventyr.sv.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "sv",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1884,
+      "originalTitle": "Huckleberry Finns äventyr",
+      "rights": {
+        "statement": "Public domain worldwide. Mark Twain died in 1910; the translator Petrus Hedberg died in 1931 and this translation was first published in 1913. Source: sv.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Huckleberry Finns äventyr",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:08:45.067234Z",
+        "revision": "395105",
+        "url": "https://sv.wikisource.org/wiki/Huckleberry_Finns_%C3%A4ventyr"
+      },
+      "title": "Huckleberry Finns äventyr",
+      "translationPublicationYear": 1913,
+      "translator": "Petrus Hedberg",
+      "translatorDeathYear": 1931,
+      "workId": "twain-huckleberry-finns-aventyr"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 37,
+        "contentSha256": "ed1f28391e32f3ad524b532a0a484d315d2e6f4f3e3a71cd4984cfd50bdb3768",
+        "encoding": "gzip",
+        "path": "books/sv/twain-tom-sawyers-aventyr.sv.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1307c899e1acdef8cc3903b529d3fa8dca31944d7068c767ca3d59379902b4b5",
+        "sizeBytes": 164388,
+        "uncompressedSizeBytes": 463085,
+        "wordCount": 74080
+      },
+      "author": "Mark Twain",
+      "authorDeathYear": 1910,
+      "editionId": "twain-tom-sawyers-aventyr.sv.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "sv",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1876,
+      "originalTitle": "Tom Sawyers äventyr",
+      "rights": {
+        "statement": "Public domain worldwide. Mark Twain died in 1910; the translator Petrus Hedberg died in 1931 and this translation was first published in 1913. Source: sv.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Tom Sawyers äventyr",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:09:38.525889Z",
+        "revision": "407580",
+        "url": "https://sv.wikisource.org/wiki/Tom_Sawyers_%C3%A4ventyr"
+      },
+      "title": "Tom Sawyers äventyr",
+      "translationPublicationYear": 1913,
+      "translator": "Petrus Hedberg",
+      "translatorDeathYear": 1931,
+      "workId": "twain-tom-sawyers-aventyr"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 33,
+        "contentSha256": "a192605ca8e2ea6d4b327a24a7661ec8ba2b51f1097c8814993d5d942ed12c06",
+        "encoding": "gzip",
+        "path": "books/sv/verne-till-jordens-medelpunkt.sv.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "dd1729eff8aff69dc30bb62381a20dd67507d01eb615bebb8a4543743ae35891",
+        "sizeBytes": 103101,
+        "uncompressedSizeBytes": 291267,
+        "wordCount": 41922
+      },
+      "author": "Jules Verne",
+      "authorDeathYear": 1905,
+      "editionId": "verne-till-jordens-medelpunkt.sv.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "sv",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1864,
+      "originalTitle": "Till jordens medelpunkt",
+      "rights": {
+        "statement": "Public domain worldwide. Jules Verne died in 1905; the translator Hugo Hultenberg died in 1947 and this translation was first published in 1911. Source: sv.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Till jordens medelpunkt",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T05:11:17.730743Z",
+        "revision": "543950",
+        "url": "https://sv.wikisource.org/wiki/Till_jordens_medelpunkt"
+      },
+      "title": "Till jordens medelpunkt",
+      "translationPublicationYear": 1911,
+      "translator": "Hugo Hultenberg",
+      "translatorDeathYear": 1947,
+      "workId": "verne-till-jordens-medelpunkt"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 17,
+        "contentSha256": "5dad6adfeed7a540b57079adb0f573a2df8a0145c2474b57468571813041ede7",
+        "encoding": "gzip",
+        "path": "books/sv/wrangel-fran-washingtons-salonger-och-hvardagslif-m-m.sv.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1ec4b5a09e6a02c6739f80a4643f81e10dae305d0b01345c7e87ae07ad3042d4",
+        "sizeBytes": 115434,
+        "uncompressedSizeBytes": 317687,
+        "wordCount": 46519
+      },
+      "author": "F. U. Wrangel",
+      "authorDeathYear": 1929,
+      "editionId": "wrangel-fran-washingtons-salonger-och-hvardagslif-m-m.sv.gutenberg",
+      "editionPublicationYear": 1908,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "sv",
+      "originalLanguage": "sv",
+      "originalPublicationYear": null,
+      "originalTitle": "Från Washingtons salonger och hvardagslif m. m. : $b Skildringar i bref till en väninna",
+      "rights": {
+        "statement": "Public domain worldwide. F. U. Wrangel died in 1929 and the edition digitised by Project Gutenberg was printed in 1908. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "77645",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T05:11:21.119515Z",
+        "revision": "Sun, 30 Aug 2026 21:33:28 GMT",
+        "url": "https://www.gutenberg.org/ebooks/77645"
+      },
+      "title": "Från Washingtons salonger och hvardagslif m. m. : $b Skildringar i bref till en väninna",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "wrangel-fran-washingtons-salonger-och-hvardagslif-m-m"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Swedish",
+  "language": "sv",
+  "manifestVersion": "cf8336aef5adcb2b",
+  "nativeName": "Svenska",
+  "schemaVersion": 1
+}

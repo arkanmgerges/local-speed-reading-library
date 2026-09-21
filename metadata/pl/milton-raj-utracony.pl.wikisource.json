@@ -1,0 +1,139 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:03:42.494454Z",
+    "chapterCount": 14,
+    "contentSha256": "7643dcbb3a5b1096583f006b629c38a15a3b428c37010c2431e8447b34a6304f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/milton-raj-utracony.pl.wikisource/v1/book.json.gz",
+    "sha256": "bfe3c3f427ff4d978a284dde2eefd2f330a0528b3597812067c86dac24b23fc6",
+    "sizeBytes": 422679,
+    "uncompressedSizeBytes": 1015279,
+    "wordCount": 136588
+  },
+  "edition": {
+    "editionId": "milton-raj-utracony.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Raj utracony",
+    "translationPublicationYear": 1902,
+    "translator": {
+      "birthYear": 1829,
+      "deathYear": 1910,
+      "name": "Władysław Bartkiewicz",
+      "wikidata": "Q58001208"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1674: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1910: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1902: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q28754",
+      "https://www.wikidata.org/wiki/Q63347399",
+      "https://www.wikidata.org/wiki/Q79759",
+      "https://www.wikidata.org/wiki/Q58001208",
+      "https://pl.wikisource.org/wiki/Raj_utracony_(1902)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. John Milton died in 1674; the translator Władysław Bartkiewicz died in 1910 and this translation was first published in 1902. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Raj utracony (1902)",
+    "pages": [
+      {
+        "revision": 2944974,
+        "title": "Raj utracony (1902)"
+      },
+      {
+        "revision": 2226826,
+        "title": "Raj utracony (1902)/Przedmowa"
+      },
+      {
+        "revision": 2580829,
+        "title": "Raj utracony (1902)/całość"
+      },
+      {
+        "revision": 2226344,
+        "title": "Raj utracony (1902)/Pieśń I"
+      },
+      {
+        "revision": 2226345,
+        "title": "Raj utracony (1902)/Pieśń II"
+      },
+      {
+        "revision": 2226434,
+        "title": "Raj utracony (1902)/Pieśń III"
+      },
+      {
+        "revision": 2235576,
+        "title": "Raj utracony (1902)/Pieśń IV"
+      },
+      {
+        "revision": 2282676,
+        "title": "Raj utracony (1902)/Pieśń V"
+      },
+      {
+        "revision": 2391476,
+        "title": "Raj utracony (1902)/Pieśń VI"
+      },
+      {
+        "revision": 2491734,
+        "title": "Raj utracony (1902)/Pieśń VII"
+      },
+      {
+        "revision": 2493150,
+        "title": "Raj utracony (1902)/Pieśń VIII"
+      },
+      {
+        "revision": 2496800,
+        "title": "Raj utracony (1902)/Pieśń IX"
+      },
+      {
+        "revision": 2496801,
+        "title": "Raj utracony (1902)/Pieśń X"
+      },
+      {
+        "revision": 2497451,
+        "title": "Raj utracony (1902)/Pieśń XI"
+      },
+      {
+        "revision": 2499779,
+        "title": "Raj utracony (1902)/Pieśń XII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:25:50.522141Z",
+    "revision": "2944974",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Raj_utracony_(1902)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1608,
+      "deathYear": 1674,
+      "name": "John Milton",
+      "wikidata": "Q79759"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1667,
+    "originalTitle": "Raj utracony",
+    "workId": "milton-raj-utracony"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:28:32.331757Z",
+    "chapterCount": 1,
+    "contentSha256": "53fdc14c343dea43ab63c097b9dca030b612622202ce91c35bf0e780b7435426",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hy/muratsan-q101242311.hy.wikisource/v1/book.json.gz",
+    "sha256": "b713e8f8977e4eac9a15ada63614759259de33aee561ae90e2e809709b4e7591",
+    "sizeBytes": 42746,
+    "uncompressedSizeBytes": 171299,
+    "wordCount": 14084
+  },
+  "edition": {
+    "editionId": "muratsan-q101242311.hy.wikisource",
+    "kind": "original",
+    "language": "hy",
+    "title": "Հասարակաց որդեգիրը"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1908: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1884: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q101242311",
+      "https://www.wikidata.org/wiki/Q4307894",
+      "https://hy.wikisource.org/wiki/%D5%80%D5%A1%D5%BD%D5%A1%D6%80%D5%A1%D5%AF%D5%A1%D6%81_%D5%B8%D6%80%D5%A4%D5%A5%D5%A3%D5%AB%D6%80%D5%A8"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Մուրացան died in 1908 and the work was first published in 1884. Source: hy.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Հասարակաց որդեգիրը",
+    "pages": [
+      {
+        "revision": 352380,
+        "title": "Հասարակաց որդեգիրը"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:37:31.073068Z",
+    "revision": "352380",
+    "site": "hy.wikisource.org",
+    "url": "https://hy.wikisource.org/wiki/%D5%80%D5%A1%D5%BD%D5%A1%D6%80%D5%A1%D5%AF%D5%A1%D6%81_%D5%B8%D6%80%D5%A4%D5%A5%D5%A3%D5%AB%D6%80%D5%A8"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1854,
+      "deathYear": 1908,
+      "name": "Մուրացան",
+      "wikidata": "Q4307894"
+    },
+    "originalLanguage": "hy",
+    "originalPublicationYear": 1884,
+    "originalTitle": "Հասարակաց որդեգիրը",
+    "workId": "muratsan-q101242311"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:55.508536Z",
+    "chapterCount": 10,
+    "contentSha256": "f3bb53900da9b998cc5464bd2e6a72e89e79e089074a608ef109390ba3d82541",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/cankar-gospa-judit.sl.wikisource/v1/book.json.gz",
+    "sha256": "4838bede33872df7be1ffb307bcc420f04a050c4c1f029e87e50141b267039da",
+    "sizeBytes": 65482,
+    "uncompressedSizeBytes": 172026,
+    "wordCount": 28829
+  },
+  "edition": {
+    "editionId": "cankar-gospa-judit.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Gospa Judit"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1918: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1904: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q124257714",
+      "https://www.wikidata.org/wiki/Q15809",
+      "https://sl.wikisource.org/wiki/Gospa_Judit"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ivan Cankar died in 1918 and the work was first published in 1904. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Gospa Judit",
+    "pages": [
+      {
+        "revision": 161518,
+        "title": "Gospa Judit"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:55:33.444470Z",
+    "revision": "161518",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Gospa_Judit"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1876,
+      "deathYear": 1918,
+      "name": "Ivan Cankar",
+      "wikidata": "Q15809"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1904,
+    "originalTitle": "Gospa Judit",
+    "workId": "cankar-gospa-judit"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:05.835817Z",
+    "chapterCount": 31,
+    "contentSha256": "d33d8e35339879a6cf533ce710fa86084b1f2159990f98b2173e5b51d65996ac",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/rebreanu-ciuleandra.ro.wikisource/v1/book.json.gz",
+    "sha256": "b5d79f6abf8155e092197bdc41ce8e02cf160691d25f2b90ff6884105ab78451",
+    "sizeBytes": 93438,
+    "uncompressedSizeBytes": 252963,
+    "wordCount": 37624
+  },
+  "edition": {
+    "editionId": "rebreanu-ciuleandra.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "title": "Ciuleandra"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1944: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1927: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q98000186",
+      "https://www.wikidata.org/wiki/Q462220",
+      "https://ro.wikisource.org/wiki/Ciuleandra_(Rebreanu)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Liviu Rebreanu died in 1944 and the work was first published in 1927. Source: ro.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Ciuleandra (Rebreanu)",
+    "pages": [
+      {
+        "revision": 124307,
+        "title": "Ciuleandra (Rebreanu)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:51:35.354175Z",
+    "revision": "124307",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/Ciuleandra_(Rebreanu)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1885,
+      "deathYear": 1944,
+      "name": "Liviu Rebreanu",
+      "wikidata": "Q462220"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1927,
+    "originalTitle": "Ciuleandra",
+    "workId": "rebreanu-ciuleandra"
+  }
+}

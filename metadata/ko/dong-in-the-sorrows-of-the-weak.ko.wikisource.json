@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:40.009225Z",
+    "chapterCount": 12,
+    "contentSha256": "0dab84080aa6f79f2e7138693e01dc4877d69105caf1869257154b5790a1273b",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ko/dong-in-the-sorrows-of-the-weak.ko.wikisource/v1/book.json.gz",
+    "sha256": "9bb26a6fc8edeefa6d1f8c6edb80dd8ce096ec328624c2ddd49ef46774e3ef94",
+    "sizeBytes": 38467,
+    "uncompressedSizeBytes": 124897,
+    "wordCount": 11427
+  },
+  "edition": {
+    "editionId": "dong-in-the-sorrows-of-the-weak.ko.wikisource",
+    "kind": "original",
+    "language": "ko",
+    "title": "약한 자의 슬픔"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1951: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1919: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q16172345",
+      "https://www.wikidata.org/wiki/Q625815",
+      "https://ko.wikisource.org/wiki/%EC%95%BD%ED%95%9C_%EC%9E%90%EC%9D%98_%EC%8A%AC%ED%94%94"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 김동인 died in 1951 and the work was first published in 1919. Source: ko.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "약한 자의 슬픔",
+    "pages": [
+      {
+        "revision": 120284,
+        "title": "약한 자의 슬픔"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:51:28.692691Z",
+    "revision": "120284",
+    "site": "ko.wikisource.org",
+    "url": "https://ko.wikisource.org/wiki/%EC%95%BD%ED%95%9C_%EC%9E%90%EC%9D%98_%EC%8A%AC%ED%94%94"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1900,
+      "deathYear": 1951,
+      "name": "김동인",
+      "wikidata": "Q625815"
+    },
+    "originalLanguage": "ko",
+    "originalPublicationYear": 1919,
+    "originalTitle": "약한 자의 슬픔",
+    "workId": "dong-in-the-sorrows-of-the-weak"
+  }
+}

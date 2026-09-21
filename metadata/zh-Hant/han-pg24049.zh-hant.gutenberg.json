@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:37:25.195616Z",
+    "chapterCount": 1,
+    "contentSha256": "d86cc76dc223693952df594c92ad3f539ef15261f54510640fa7d8b86ac019a5",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/han-pg24049.zh-hant.gutenberg/v1/book.json.gz",
+    "sha256": "a35973fbeddb8b12f004e97e9e3685eaa51f17c60e1ebdf83467350eeaa5f160",
+    "sizeBytes": 171437,
+    "uncompressedSizeBytes": 408237,
+    "wordCount": 5326
+  },
+  "edition": {
+    "editionId": "han-pg24049.zh-hant.gutenberg",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "韩非子"
+  },
+  "genres": [
+    "Philosophy",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -233: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published -300: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/24049",
+      "https://en.wikipedia.org/wiki/Han_Feizi",
+      "https://zh.wikipedia.org/wiki/%E9%9F%A9%E9%9D%9E%E5%AD%90",
+      "https://www.wikidata.org/wiki/Q1075382"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Fei Han died in -233 and the work was first published in -300. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "24049",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T05:36:03.082624Z",
+    "revision": "Thu, 10 Sep 2026 09:47:49 GMT",
+    "url": "https://www.gutenberg.org/ebooks/24049"
+  },
+  "work": {
+    "author": {
+      "deathYear": -233,
+      "name": "Fei Han",
+      "wikidata": "Q1075382"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": -300,
+    "originalTitle": "韩非子",
+    "workId": "han-pg24049"
+  }
+}

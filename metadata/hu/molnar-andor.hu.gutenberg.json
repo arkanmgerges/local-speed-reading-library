@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:28:19.513105Z",
+    "chapterCount": 47,
+    "contentSha256": "fe17fd6e56c7d61c2f6ae29c82fb24fe95a7041a19b5fb896ccfc5a3ec2455e5",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hu/molnar-andor.hu.gutenberg/v1/book.json.gz",
+    "sha256": "b0381ebc1a66a24268afb849753423bed30c3a7adf76c5d6ce5aa45903bcf5aa",
+    "sizeBytes": 364698,
+    "uncompressedSizeBytes": 988035,
+    "wordCount": 132329
+  },
+  "edition": {
+    "editionId": "molnar-andor.hu.gutenberg",
+    "editionPublicationYear": 1918,
+    "kind": "original",
+    "language": "hu",
+    "title": "Andor: Regény"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1952: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1918 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/69853",
+      "https://en.wikipedia.org/wiki/Ferenc_Moln%C3%A1r"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ferenc Molnár died in 1952 and the edition digitised by Project Gutenberg was printed in 1918. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "69853",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:36:14.154167Z",
+    "revision": "Thu, 27 Aug 2026 16:48:17 GMT",
+    "url": "https://www.gutenberg.org/ebooks/69853"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1878,
+      "deathYear": 1952,
+      "name": "Ferenc Molnár",
+      "wikidata": "Q296809"
+    },
+    "originalLanguage": "hu",
+    "originalTitle": "Andor: Regény",
+    "workId": "molnar-andor"
+  }
+}

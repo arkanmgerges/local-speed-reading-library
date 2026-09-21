@@ -4,7 +4,7 @@ import 'package:lsr_library_tools/src/text_normalize.dart';
 /// Name/version stamped into every generated asset. Bump the version when
 /// the normaliser's output for the same source could change.
 const String normalizerName = 'lsr-library-tools';
-const String normalizerVersion = '0.1.0';
+const String normalizerVersion = '0.2.0';
 
 /// Schema version of the normalized book this tool writes.
 const int normalizedBookSchemaVersion = 1;

@@ -22,7 +22,32 @@ class BuildException implements Exception {
 /// Paragraph patterns dropped for [m] on top of the per-edition list:
 /// Gutenberg licence/trademark text, transcriber remarks and the
 /// title-page "by &lt;author&gt;" line.
+/// Page-number markers left by proofread transcriptions: `[s. 3]`,
+/// `[Page 12`, `[ 45 ]`, `p. 7`.
+final RegExp pageMarker = RegExp(
+    r'^\[?\s*(s\.|p\.|pp\.|pag\.|page|pagina|pág\.|стр\.|стор\.|seite|bl\.|sivu)?\s*[0-9ivxlcdm]{1,6}\s*\]?$',
+    caseSensitive: false,
+    unicode: true);
+
+/// Licence boxes that some Wikisources render inside the text: a short
+/// paragraph naming the public domain together with rights vocabulary.
+final RegExp licenceNotice = RegExp(
+    r'(domeniul public|public domain|domaine public|dominio p[úu]blico|pubblico dominio|gemeinfrei|publiek domein|'
+    r'общественном достоянии|суспільним надбанням|domínio público|domini públic|domena publiczna|volné dílo|'
+    r'közkincs|julkista omaisuutta|offentlig ejendom|allmän egendom|δημόσιο τομέα|パブリックドメイン|公有领域|公共領域)',
+    caseSensitive: false,
+    unicode: true);
+final RegExp licenceContext = RegExp(
+    r'(author|autor|auteur|autore|copyright|drept|diritt|droit|recht|©|died|decedat|morto|mort|starb|years|\bani\b|anni|\bans\b|jahre|'
+    r'умер|помер|expir|licen|wikisource|creative commons|cc-by)',
+    caseSensitive: false,
+    unicode: true);
+
+bool isLicenceNotice(String paragraph) =>
+    licenceNotice.hasMatch(paragraph) && licenceContext.hasMatch(paragraph) && countWords(paragraph) < 120;
+
 List<RegExp> dropPatternsFor(BookMetadata m) => <RegExp>[
+      if (m.provider == 'wikisource') pageMarker,
       if (m.provider == 'gutenberg') ...<RegExp>[
         gutenbergBoilerplate,
         gutenbergTranscriberNotes,
@@ -42,14 +67,37 @@ NormalizedBook normalizeBook(BookMetadata m, ImportedSource src, LanguageRegistr
   );
   final List<RegExp> drop = dropPatternsFor(m);
   final List<Chapter> chapters = <Chapter>[];
+  // The main page of a multi-page Wikisource work is a title page with a
+  // table of contents and illustration captions; its short sections are not
+  // chapters. (A long section there is real text: some works put the first
+  // chapter on the main page.)
+  final Set<RawSection> mainPage = <RawSection>{
+    for (int i = 0; i < src.mainPageSectionCount && i < src.sections.length; i++) src.sections[i],
+  };
   for (final RawSection s in merged) {
+    if (mainPage.contains(s) && countWords(s.paragraphs.join(' ')) < 400) continue;
     final List<String> paragraphs = s.paragraphs
         .map(normalizeParagraph)
         .where((String t) => t.isNotEmpty && !drop.any((RegExp r) => r.hasMatch(t)))
+        .where((String t) => m.provider != 'wikisource' || !isLicenceNotice(t))
         .toList();
     if (paragraphs.isEmpty) continue;
     final String? title = s.heading == null ? null : normalizeParagraph(s.heading!);
     chapters.add(Chapter(index: chapters.length, title: title, paragraphs: paragraphs));
+  }
+  // On Wikisource, tables of contents, navigation crumbs and page markers
+  // come through as headings with a few words under them; in a book with
+  // real chapters they are dropped. (EPUB chapters are trusted: reference
+  // books have legitimately short ones.)
+  if (m.provider == 'wikisource' &&
+      chapters.length > 3 &&
+      chapters.fold<int>(0, (int n, Chapter c) => n + c.wordCount) > 2000) {
+    final List<Chapter> kept = chapters.where((Chapter c) => c.wordCount >= 40).toList();
+    chapters
+      ..clear()
+      ..addAll(<Chapter>[
+        for (int i = 0; i < kept.length; i++) Chapter(index: i, title: kept[i].title, paragraphs: kept[i].paragraphs),
+      ]);
   }
   if (chapters.isEmpty) {
     throw BuildException('${m.editionId}: no text left after normalisation');

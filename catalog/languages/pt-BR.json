@@ -1,0 +1,871 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 10,
+        "contentSha256": "4921deddc12937171f22880edd92da5026ed3c98c2baadf8a4e25d4ff108058d",
+        "encoding": "gzip",
+        "path": "books/pt-br/alencar-cinco-minutos.pt-br.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0ac0ce78aeab933fd65489f01158c0ce1688e6c1fd3637b13b60f3d17aa3cf1c",
+        "sizeBytes": 33469,
+        "uncompressedSizeBytes": 92928,
+        "wordCount": 14236
+      },
+      "author": "José de Alencar",
+      "authorDeathYear": 1877,
+      "editionId": "alencar-cinco-minutos.pt-br.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1856,
+      "originalTitle": "Cinco Minutos",
+      "rights": {
+        "statement": "Public domain worldwide. José de Alencar died in 1877 and the work was first published in 1856. Source: pt.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Cinco Minutos",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:31:53.784858Z",
+        "revision": "435417",
+        "url": "https://pt.wikisource.org/wiki/Cinco_Minutos"
+      },
+      "title": "Cinco Minutos",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "alencar-cinco-minutos"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "9be721b5164435a1a234c3890e7782102edf67806f599e91b69a3d14effb45b7",
+        "encoding": "gzip",
+        "path": "books/pt-br/alencar-iracema-com-uma-noticia-biographica-do-auctor.pt-br.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2198fa864c112528c80da50a4fc3e68d3e86900004fc4cd7d4c4208b7a2d21cb",
+        "sizeBytes": 70112,
+        "uncompressedSizeBytes": 196270,
+        "wordCount": 30886
+      },
+      "author": "José Martiniano de Alencar",
+      "authorDeathYear": 1877,
+      "editionId": "alencar-iracema-com-uma-noticia-biographica-do-auctor.pt-br.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1865,
+      "originalTitle": "Iracema com uma noticia biographica do auctor",
+      "rights": {
+        "statement": "Public domain worldwide. José Martiniano de Alencar died in 1877 and the work was first published in 1865. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "67740",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:31:56.445944Z",
+        "revision": "Thu, 27 Aug 2026 08:05:27 GMT",
+        "url": "https://www.gutenberg.org/ebooks/67740"
+      },
+      "title": "Iracema com uma noticia biographica do auctor",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "alencar-iracema-com-uma-noticia-biographica-do-auctor"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 64,
+        "contentSha256": "34a5dd065f82ae28917bde4ef9cbb9782cac2c66fcfac9a52dc897a31ef98634",
+        "encoding": "gzip",
+        "path": "books/pt-br/alencar-iracema.pt-br.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6d210180fd7419e2cfd41be00e190982e2c8077ef040d2d10456b26bc9a11c60",
+        "sizeBytes": 76965,
+        "uncompressedSizeBytes": 218111,
+        "wordCount": 33211
+      },
+      "author": "José de Alencar",
+      "authorDeathYear": 1877,
+      "editionId": "alencar-iracema.pt-br.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1865,
+      "originalTitle": "Iracema",
+      "rights": {
+        "statement": "Public domain worldwide. José de Alencar died in 1877 and the work was first published in 1865. Source: pt.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Iracema",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:32:46.363342Z",
+        "revision": "536515",
+        "url": "https://pt.wikisource.org/wiki/Iracema"
+      },
+      "title": "Iracema",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "alencar-iracema"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 56,
+        "contentSha256": "c863974808f68542c3444e6c35aba6f175ef7784119b90f13524627bf0b151d4",
+        "encoding": "gzip",
+        "path": "books/pt-br/alencar-o-guarani.pt-br.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0e19065e68c706d3086f2a2786d6ef5131e40fd5b5d554d830b7557351b799e0",
+        "sizeBytes": 238746,
+        "uncompressedSizeBytes": 696623,
+        "wordCount": 107526
+      },
+      "author": "José de Alencar",
+      "authorDeathYear": 1877,
+      "editionId": "alencar-o-guarani.pt-br.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1857,
+      "originalTitle": "O Guarani",
+      "rights": {
+        "statement": "Public domain worldwide. José de Alencar died in 1877 and the work was first published in 1857. Source: pt.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "O Guarani",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:34:02.112329Z",
+        "revision": "505457",
+        "url": "https://pt.wikisource.org/wiki/O_Guarani"
+      },
+      "title": "O Guarani",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "alencar-o-guarani"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 33,
+        "contentSha256": "aa27d2cae6348cb19db87b0b3dc8ffecf7cb1c6d3179af65ab5ee1be6f4e7a10",
+        "encoding": "gzip",
+        "path": "books/pt-br/alencar-o-guarany.pt-br.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "98d82fc630eb123ac1a25c165a864a15bb4e1545f9bcfbcd7d162defc11ad324",
+        "sizeBytes": 130483,
+        "uncompressedSizeBytes": 371430,
+        "wordCount": 56774
+      },
+      "author": "José Martiniano de Alencar",
+      "authorDeathYear": 1877,
+      "editionId": "alencar-o-guarany.pt-br.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1857,
+      "originalTitle": "O Guarany: romance brazileiro, Vol. 1 (of 2)",
+      "rights": {
+        "statement": "Public domain worldwide. José Martiniano de Alencar died in 1877 and the work was first published in 1857. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "67724",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:34:06.456390Z",
+        "revision": "Thu, 27 Aug 2026 08:00:54 GMT",
+        "url": "https://www.gutenberg.org/ebooks/67724"
+      },
+      "title": "O Guarany: romance brazileiro, Vol. 1 (of 2)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "alencar-o-guarany"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "2334cf67f3f5f13ba50862e8904a536abf259702de756b135b74629c9058530c",
+        "encoding": "gzip",
+        "path": "books/pt-br/alencar-ubirajara.pt-br.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7713ece6ecb1a6eac6f8c53366cd27cfe520b589fb44269ca72f2e2d742b80e1",
+        "sizeBytes": 74326,
+        "uncompressedSizeBytes": 216509,
+        "wordCount": 33796
+      },
+      "author": "José Martiniano de Alencar",
+      "authorDeathYear": 1877,
+      "editionId": "alencar-ubirajara.pt-br.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1874,
+      "originalTitle": "Ubirajara: Lenda Tupi",
+      "rights": {
+        "statement": "Public domain worldwide. José Martiniano de Alencar died in 1877 and the work was first published in 1874. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "38496",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:34:09.534155Z",
+        "revision": "Tue, 15 Sep 2026 23:35:32 GMT",
+        "url": "https://www.gutenberg.org/ebooks/38496"
+      },
+      "title": "Ubirajara: Lenda Tupi",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "alencar-ubirajara"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 146,
+        "contentSha256": "416e3b71545e9058c2eb5098a2f0404bbdacf660e10e1c00fff87275186f5403",
+        "encoding": "gzip",
+        "path": "books/pt-br/assis-dom-casmurro.pt-br.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "3589887efcf83b323c67ab552d7b89527c7d0191b15f311becb263b73b615bec",
+        "sizeBytes": 148818,
+        "uncompressedSizeBytes": 416358,
+        "wordCount": 64852
+      },
+      "author": "Machado de Assis",
+      "authorDeathYear": 1908,
+      "editionId": "assis-dom-casmurro.pt-br.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1899,
+      "originalTitle": "Dom Casmurro",
+      "rights": {
+        "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1899. Source: pt.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Dom Casmurro",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:37:23.597058Z",
+        "revision": "542852",
+        "url": "https://pt.wikisource.org/wiki/Dom_Casmurro"
+      },
+      "title": "Dom Casmurro",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "assis-dom-casmurro"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 13,
+        "contentSha256": "7b83ae46caa9464b2a5939f37467b629607e284c906c705b4c60bac602fb6af9",
+        "encoding": "gzip",
+        "path": "books/pt-br/assis-o-alienista.pt-br.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d3080b9c34024659d4ec3c0245a22b8fef3ec696f47593660850dfb5de016b01",
+        "sizeBytes": 40531,
+        "uncompressedSizeBytes": 107763,
+        "wordCount": 16489
+      },
+      "author": "Machado de Assis",
+      "authorDeathYear": 1908,
+      "editionId": "assis-o-alienista.pt-br.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1882,
+      "originalTitle": "O Alienista",
+      "rights": {
+        "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1882. Source: pt.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "O Alienista",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:37:42.647132Z",
+        "revision": "515634",
+        "url": "https://pt.wikisource.org/wiki/O_Alienista"
+      },
+      "title": "O Alienista",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "assis-o-alienista"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 195,
+        "contentSha256": "57201d4ceb6f2627c3269dc2af4276ff3fbdc9ff906aafa0cee310ae2d829f9e",
+        "encoding": "gzip",
+        "path": "books/pt-br/assis-quincas-borba.pt-br.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "cc1f764f5bc4f71922557b5d09da858a372b9062706157af371a32083c5d5fd0",
+        "sizeBytes": 180860,
+        "uncompressedSizeBytes": 508914,
+        "wordCount": 76736
+      },
+      "author": "Machado de Assis",
+      "authorDeathYear": 1908,
+      "editionId": "assis-quincas-borba.pt-br.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1891,
+      "originalTitle": "Quincas Borba",
+      "rights": {
+        "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1891. Source: pt.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Quincas Borba",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:41:58.611999Z",
+        "revision": "543048",
+        "url": "https://pt.wikisource.org/wiki/Quincas_Borba"
+      },
+      "title": "Quincas Borba",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "assis-quincas-borba"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 26,
+        "contentSha256": "deda5a6656848b1826f05a73642a450cfa3cebdf17db2ec1854dcad47cc3bcd8",
+        "encoding": "gzip",
+        "path": "books/pt-br/assis-ressurreicao.pt-br.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4989b8770db3fb2969142653b23b5c5f511fcc0a2de4b84817b70d7196c73e86",
+        "sizeBytes": 84398,
+        "uncompressedSizeBytes": 239107,
+        "wordCount": 36771
+      },
+      "author": "Machado de Assis",
+      "authorDeathYear": 1908,
+      "editionId": "assis-ressurreicao.pt-br.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1872,
+      "originalTitle": "Ressurreição",
+      "rights": {
+        "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1872. Source: pt.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Ressurreição (Machado de Assis)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:42:34.905022Z",
+        "revision": "456890",
+        "url": "https://pt.wikisource.org/wiki/Ressurrei%C3%A7%C3%A3o_(Machado_de_Assis)"
+      },
+      "title": "Ressurreição",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "assis-ressurreicao"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 23,
+        "contentSha256": "8ef17fc624954838fcb0223cfb471ee1c68f259594e5784c2c7aa947ebbd0282",
+        "encoding": "gzip",
+        "path": "books/pt-br/azevedo-o-cortico.pt-br.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5fc026f77de44ab6bfa3bedb1b157159a9bee772ea777fd27c8681471a5cb4c5",
+        "sizeBytes": 190802,
+        "uncompressedSizeBytes": 506462,
+        "wordCount": 80573
+      },
+      "author": "Aluísio Azevedo",
+      "authorDeathYear": 1913,
+      "editionId": "azevedo-o-cortico.pt-br.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1890,
+      "originalTitle": "O Cortiço",
+      "rights": {
+        "statement": "Public domain worldwide. Aluísio Azevedo died in 1913 and the work was first published in 1890. Source: pt.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "O Cortiço",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:43:08.572385Z",
+        "revision": "533933",
+        "url": "https://pt.wikisource.org/wiki/O_Corti%C3%A7o"
+      },
+      "title": "O Cortiço",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "azevedo-o-cortico"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "f98d27a61d1eafde4eadc99aff0bbb387e79b6bd6351e71727f3bf7c778cbfc9",
+        "encoding": "gzip",
+        "path": "books/pt-br/caminha-bom-crioulo.pt-br.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "26d30e552783b471c3b218b3cd1f55fc7f58a16045e89abd73e726b9c454424e",
+        "sizeBytes": 89357,
+        "uncompressedSizeBytes": 237941,
+        "wordCount": 35646
+      },
+      "author": "Adolfo Caminha",
+      "authorDeathYear": 1897,
+      "editionId": "caminha-bom-crioulo.pt-br.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1895,
+      "originalTitle": "Bom Crioulo",
+      "rights": {
+        "statement": "Public domain worldwide. Adolfo Caminha died in 1897 and the work was first published in 1895. Source: pt.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Bom Crioulo",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:43:39.624617Z",
+        "revision": "249871",
+        "url": "https://pt.wikisource.org/wiki/Bom_Crioulo"
+      },
+      "title": "Bom Crioulo",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "caminha-bom-crioulo"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 22,
+        "contentSha256": "531f815b0e459853d1b4902946c9a6a3ff43c7afb2a4609d2b444b186877ec89",
+        "encoding": "gzip",
+        "path": "books/pt-br/guimaraes-a-escrava-isaura.pt-br.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "fb7629e8e8891a6d2e5a8d56c96b87d6a575d5b884f5430970836798d6fe5a90",
+        "sizeBytes": 122925,
+        "uncompressedSizeBytes": 339499,
+        "wordCount": 53557
+      },
+      "author": "Bernardo Guimarães",
+      "authorDeathYear": 1884,
+      "editionId": "guimaraes-a-escrava-isaura.pt-br.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1875,
+      "originalTitle": "A Escrava Isaura",
+      "rights": {
+        "statement": "Public domain worldwide. Bernardo Guimarães died in 1884 and the work was first published in 1875. Source: pt.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "A escrava Isaura",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:44:12.348128Z",
+        "revision": "554202",
+        "url": "https://pt.wikisource.org/wiki/A_escrava_Isaura"
+      },
+      "title": "A Escrava Isaura",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "guimaraes-a-escrava-isaura"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 18,
+        "contentSha256": "635400d3cba45667d2b42347ab57cfcf0471a9547dfdf83539bca12e0bda2d75",
+        "encoding": "gzip",
+        "path": "books/pt-br/leme-genealogia-paulistana.pt-br.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6b3b9355d11bcba3c449ef049b9c5aa1f8e031146c2affa1d80d3a93d88f590b",
+        "sizeBytes": 79912,
+        "uncompressedSizeBytes": 312307,
+        "wordCount": 52421
+      },
+      "author": "Luís Gonzaga da Silva Leme",
+      "authorDeathYear": 1919,
+      "editionId": "leme-genealogia-paulistana.pt-br.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1903,
+      "originalTitle": "Genealogia Paulistana",
+      "rights": {
+        "statement": "Public domain worldwide. Luís Gonzaga da Silva Leme died in 1919 and the work was first published in 1903. Source: pt.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Genealogia Paulistana",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:44:19.403751Z",
+        "revision": "465636",
+        "url": "https://pt.wikisource.org/wiki/Genealogia_Paulistana"
+      },
+      "title": "Genealogia Paulistana",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "leme-genealogia-paulistana"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 25,
+        "contentSha256": "43657925c0a44a178b8cb88ab87647e8661e1ac84a9dbec9e530eba6da6a7052",
+        "encoding": "gzip",
+        "path": "books/pt-br/lobato-o-presidente-negro.pt-br.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f2a82325fa49dc6e2225ef817ff3dd127bd34897beabf4eba3d75edd618e9db2",
+        "sizeBytes": 114326,
+        "uncompressedSizeBytes": 308761,
+        "wordCount": 47914
+      },
+      "author": "Monteiro Lobato",
+      "authorDeathYear": 1948,
+      "editionId": "lobato-o-presidente-negro.pt-br.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1926,
+      "originalTitle": "O Presidente Negro",
+      "rights": {
+        "statement": "Public domain worldwide. Monteiro Lobato died in 1948 and the work was first published in 1926. Source: pt.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "O Choque das Raças",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:44:55.076831Z",
+        "revision": "521421",
+        "url": "https://pt.wikisource.org/wiki/O_Choque_das_Ra%C3%A7as"
+      },
+      "title": "O Presidente Negro",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "lobato-o-presidente-negro"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "08b97e898eb94c0a0a9d8b83790d776c63c183e7b45e26b45b03d383dc34c7b6",
+        "encoding": "gzip",
+        "path": "books/pt-br/machado-de-assis-dom-casmurro.pt-br.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "3d21a1d9cc9bc96f10628bbc84fe0b6ec2471f1456155352db0169fdd461dc78",
+        "sizeBytes": 149927,
+        "uncompressedSizeBytes": 407327,
+        "wordCount": 65855
+      },
+      "author": "Machado de Assis",
+      "authorDeathYear": 1908,
+      "editionId": "machado-de-assis-dom-casmurro.pt-br.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1899,
+      "originalTitle": "Dom Casmurro",
+      "rights": {
+        "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1899. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "55752",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:45:07.743337Z",
+        "revision": "Sat, 22 Aug 2026 12:42:42 GMT",
+        "url": "https://www.gutenberg.org/ebooks/55752"
+      },
+      "title": "Dom Casmurro",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "machado-de-assis-dom-casmurro"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "75d3525b09b1a59543eade3bc03e136fd5e5362a24f2e3b756de558d3616dc2b",
+        "encoding": "gzip",
+        "path": "books/pt-br/machado-de-assis-helena.pt-br.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5a310133fe46a0b51a419dc52ef7c1be1db2dcdccde7a5830c0290e6fdab5f85",
+        "sizeBytes": 131275,
+        "uncompressedSizeBytes": 359122,
+        "wordCount": 55881
+      },
+      "author": "Machado de Assis",
+      "authorDeathYear": 1908,
+      "editionId": "machado-de-assis-helena.pt-br.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1876,
+      "originalTitle": "Helena",
+      "rights": {
+        "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1876. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "67162",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:45:11.040204Z",
+        "revision": "Wed, 26 Aug 2026 16:16:57 GMT",
+        "url": "https://www.gutenberg.org/ebooks/67162"
+      },
+      "title": "Helena",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "machado-de-assis-helena"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "99a8dac9d12d62f27471afe82096dd159cc462fbbf04ffc0b54528ae5ffeece6",
+        "encoding": "gzip",
+        "path": "books/pt-br/machado-de-assis-memorias-posthumas-de-braz-cubas.pt-br.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "890b17d75e74813ea45d75bac2ac70a86be8be193616ab6c99ae59e68fbb99ae",
+        "sizeBytes": 147038,
+        "uncompressedSizeBytes": 388393,
+        "wordCount": 61664
+      },
+      "author": "Machado de Assis",
+      "authorDeathYear": 1908,
+      "editionId": "machado-de-assis-memorias-posthumas-de-braz-cubas.pt-br.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1881,
+      "originalTitle": "Memorias Posthumas de Braz Cubas",
+      "rights": {
+        "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1881. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "54829",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:45:14.349104Z",
+        "revision": "Sat, 22 Aug 2026 08:33:17 GMT",
+        "url": "https://www.gutenberg.org/ebooks/54829"
+      },
+      "title": "Memorias Posthumas de Braz Cubas",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "machado-de-assis-memorias-posthumas-de-braz-cubas"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "8439b00defdceb9ef09abd21761abddc8b2db52dbb09a0ed48f6142e5c78ff25",
+        "encoding": "gzip",
+        "path": "books/pt-br/machado-de-assis-quincas-borba.pt-br.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b65d1e0c5a2df9f78fb4bc0c190e5e826e8e1d899db9f1360b9f05641bc8c9ec",
+        "sizeBytes": 179086,
+        "uncompressedSizeBytes": 484116,
+        "wordCount": 76016
+      },
+      "author": "Machado de Assis",
+      "authorDeathYear": 1908,
+      "editionId": "machado-de-assis-quincas-borba.pt-br.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "History"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1891,
+      "originalTitle": "Quincas Borba",
+      "rights": {
+        "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1891. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "55682",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T04:45:17.807133Z",
+        "revision": "Sat, 22 Aug 2026 12:26:01 GMT",
+        "url": "https://www.gutenberg.org/ebooks/55682"
+      },
+      "title": "Quincas Borba",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "machado-de-assis-quincas-borba"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "dd944d14f2d8a26a78b178235032858bd31f23d8b2d30c5fb89666a8bc12eba8",
+        "encoding": "gzip",
+        "path": "books/pt-br/pompeia-o-ateneu.pt-br.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ebc5f3cbc4176b0abc12b24d796b15463431608a4342f993fb48c4d1db86fa57",
+        "sizeBytes": 164409,
+        "uncompressedSizeBytes": 409057,
+        "wordCount": 60668
+      },
+      "author": "Raul Pompeia",
+      "authorDeathYear": 1895,
+      "editionId": "pompeia-o-ateneu.pt-br.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "pt-BR",
+      "originalLanguage": "pt-BR",
+      "originalPublicationYear": 1888,
+      "originalTitle": "O Ateneu",
+      "rights": {
+        "statement": "Public domain worldwide. Raul Pompeia died in 1895 and the work was first published in 1888. Source: pt.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "O Ateneu",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T04:45:43.956562Z",
+        "revision": "550990",
+        "url": "https://pt.wikisource.org/wiki/O_Ateneu"
+      },
+      "title": "O Ateneu",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "pompeia-o-ateneu"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Portuguese Brazil",
+  "language": "pt-BR",
+  "manifestVersion": "6e5517c22bcc33e5",
+  "nativeName": "Português (Brasil)",
+  "schemaVersion": 1
+}

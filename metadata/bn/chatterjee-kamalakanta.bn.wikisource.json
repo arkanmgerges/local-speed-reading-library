@@ -1,0 +1,157 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:51:26.970427Z",
+    "chapterCount": 20,
+    "contentSha256": "f8f363f6bf3d0724dc495b0eb529f701bc0ed70563ec8f4680a147254236906c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/bn/chatterjee-kamalakanta.bn.wikisource/v1/book.json.gz",
+    "sha256": "bbf5f2b61217bd95f0012ffba43d0803fefbe86b3a60d7856489e894d3073608",
+    "sizeBytes": 93163,
+    "uncompressedSizeBytes": 471018,
+    "wordCount": 26341
+  },
+  "edition": {
+    "editionId": "chatterjee-kamalakanta.bn.wikisource",
+    "kind": "original",
+    "language": "bn",
+    "title": "কমলাকান্ত"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1894: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1885: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q105702716",
+      "https://www.wikidata.org/wiki/Q377881",
+      "https://bn.wikisource.org/wiki/%E0%A6%95%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4_(%E0%A7%A7%E0%A7%AE%E0%A7%AE%E0%A7%AB)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. বঙ্কিমচন্দ্র চট্টোপাধ্যায় died in 1894 and the work was first published in 1885. Source: bn.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "কমলাকান্ত (১৮৮৫)",
+    "pages": [
+      {
+        "revision": 1971735,
+        "title": "কমলাকান্ত (১৮৮৫)"
+      },
+      {
+        "revision": 1972181,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের দপ্তর"
+      },
+      {
+        "revision": 1856905,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের দপ্তর/প্রথম সংখ্যা"
+      },
+      {
+        "revision": 1856902,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের দপ্তর/দ্বিতীয় সংখ্যা"
+      },
+      {
+        "revision": 1856898,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের দপ্তর/তৃতীয় সংখ্যা"
+      },
+      {
+        "revision": 1856897,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের দপ্তর/চতুর্থ সংখ্যা"
+      },
+      {
+        "revision": 1856904,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের দপ্তর/পঞ্চম সংখ্যা"
+      },
+      {
+        "revision": 1856906,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের দপ্তর/ষষ্ঠ সংখ্যা"
+      },
+      {
+        "revision": 1856907,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের দপ্তর/সপ্তম সংখ্যা"
+      },
+      {
+        "revision": 1856895,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের দপ্তর/অষ্টম সংখ্যা"
+      },
+      {
+        "revision": 1856903,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের দপ্তর/নবম সংখ্যা"
+      },
+      {
+        "revision": 1856900,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের দপ্তর/দশম সংখ্যা"
+      },
+      {
+        "revision": 1856896,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের দপ্তর/একাদশ সংখ্যা"
+      },
+      {
+        "revision": 1856901,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের দপ্তর/দ্বাদশ সংখ্যা"
+      },
+      {
+        "revision": 1856899,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের দপ্তর/ত্রয়োদশ সংখ্যা"
+      },
+      {
+        "revision": 1856908,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের পত্র"
+      },
+      {
+        "revision": 1856913,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের পত্র/প্রথম সংখ্যা"
+      },
+      {
+        "revision": 1856911,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের পত্র/দ্বিতীয় সংখ্যা"
+      },
+      {
+        "revision": 1856909,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের পত্র)/তৃতীয় সংখ্যা"
+      },
+      {
+        "revision": 1856910,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের পত্র/চতুর্থ সংখ্যা"
+      },
+      {
+        "revision": 1856912,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের পত্র/পঞ্চম সংখ্যা"
+      },
+      {
+        "revision": 1856893,
+        "title": "কমলাকান্ত (১৮৮৫)/কমলাকান্তের জোবানবন্দী"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:01:51.340230Z",
+    "revision": "1971735",
+    "site": "bn.wikisource.org",
+    "url": "https://bn.wikisource.org/wiki/%E0%A6%95%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4_(%E0%A7%A7%E0%A7%AE%E0%A7%AE%E0%A7%AB)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1838,
+      "deathYear": 1894,
+      "name": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+      "wikidata": "Q377881"
+    },
+    "originalLanguage": "bn",
+    "originalPublicationYear": 1885,
+    "originalTitle": "কমলাকান্ত",
+    "workId": "chatterjee-kamalakanta"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:31:12.833971Z",
+    "chapterCount": 3,
+    "contentSha256": "418d73209380f1067364b369f1acc8013a978d7971f70063d640aa20b104d99b",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/gorter-mei.nl.wikisource/v1/book.json.gz",
+    "sha256": "fb4a9271ec2a030236ac4484dad43dfabfdd9013e36c312d69aeeef1df6851e2",
+    "sizeBytes": 24171,
+    "uncompressedSizeBytes": 57407,
+    "wordCount": 9963
+  },
+  "edition": {
+    "editionId": "gorter-mei.nl.wikisource",
+    "kind": "original",
+    "language": "nl",
+    "title": "Mei"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1927: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1889: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q2379753",
+      "https://www.wikidata.org/wiki/Q325191",
+      "https://nl.wikisource.org/wiki/Gorter%2FMei%2FBoek_I"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Herman Gorter died in 1927 and the work was first published in 1889. Source: nl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Gorter/Mei/Boek I",
+    "pages": [
+      {
+        "revision": 61682,
+        "title": "Gorter/Mei/Boek I"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:08:57.194915Z",
+    "revision": "61682",
+    "site": "nl.wikisource.org",
+    "url": "https://nl.wikisource.org/wiki/Gorter/Mei/Boek_I"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1864,
+      "deathYear": 1927,
+      "name": "Herman Gorter",
+      "wikidata": "Q325191"
+    },
+    "originalLanguage": "nl",
+    "originalPublicationYear": 1889,
+    "originalTitle": "Mei",
+    "workId": "gorter-mei"
+  }
+}

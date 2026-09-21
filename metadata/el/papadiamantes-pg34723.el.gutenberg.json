@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:23:30.483298Z",
+    "chapterCount": 46,
+    "contentSha256": "745850c3cece57997b8cfcde204d546f669e0767510fc60ffcdb6f53b5f15f42",
+    "normalizerVersion": "0.2.0",
+    "path": "books/el/papadiamantes-pg34723.el.gutenberg/v1/book.json.gz",
+    "sha256": "f000e8c6bde7ff6c59019d4dbb58b59dd9ea2a290bcdd42f469982bc37ca614c",
+    "sizeBytes": 282254,
+    "uncompressedSizeBytes": 1087122,
+    "wordCount": 95601
+  },
+  "edition": {
+    "editionId": "papadiamantes-pg34723.el.gutenberg",
+    "kind": "original",
+    "language": "el",
+    "title": "Η Γυφτοπούλα"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1911: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1884: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/34723",
+      "https://en.wikipedia.org/wiki/Alexandros_Papadiamantis",
+      "https://www.wikidata.org/wiki/Q115990429"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Alexandros Papadiamantes died in 1911 and the work was first published in 1884. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "34723",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:29:44.705593Z",
+    "revision": "Mon, 14 Sep 2026 13:46:05 GMT",
+    "url": "https://www.gutenberg.org/ebooks/34723"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1851,
+      "deathYear": 1911,
+      "name": "Alexandros Papadiamantes",
+      "wikidata": "Q320984"
+    },
+    "originalLanguage": "el",
+    "originalPublicationYear": 1884,
+    "originalTitle": "Η Γυφτοπούλα",
+    "workId": "papadiamantes-pg34723"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:09.206893Z",
+    "chapterCount": 22,
+    "contentSha256": "e911e9a4d2ec0bd5a3726758249fdbe2c389aa0d025a8b5522b1932a5424c9b0",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/kveder-njeno-yivljenje.sl.wikisource/v1/book.json.gz",
+    "sha256": "5027163efd52ea55d69df7bc3f8ecb0df18390263c85f03072f06ab36fff5e3a",
+    "sizeBytes": 134836,
+    "uncompressedSizeBytes": 351165,
+    "wordCount": 58818
+  },
+  "edition": {
+    "editionId": "kveder-njeno-yivljenje.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Njeno življenje"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1926: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1914: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q111072070",
+      "https://www.wikidata.org/wiki/Q112919",
+      "https://sl.wikisource.org/wiki/Njeno_%C5%BEivljenje"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Zofka Kveder died in 1926 and the work was first published in 1914. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Njeno življenje",
+    "pages": [
+      {
+        "revision": 161871,
+        "title": "Njeno življenje"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:56:18.680474Z",
+    "revision": "161871",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Njeno_%C5%BEivljenje"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1878,
+      "deathYear": 1926,
+      "name": "Zofka Kveder",
+      "wikidata": "Q112919"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1914,
+    "originalTitle": "Njeno življenje",
+    "workId": "kveder-njeno-yivljenje"
+  }
+}

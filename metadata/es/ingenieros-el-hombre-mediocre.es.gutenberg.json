@@ -1,0 +1,68 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:24:53.227192Z",
+    "chapterCount": 53,
+    "contentSha256": "6804a6d427724b18795a85ff1f8335458c14b4d298f55f7deb0293b8ff0b032f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/ingenieros-el-hombre-mediocre.es.gutenberg/v1/book.json.gz",
+    "sha256": "b7681027f50386c972639f1fb64b04ac2252e3c71cb621d83c6539e9b60eaa30",
+    "sizeBytes": 183980,
+    "uncompressedSizeBytes": 490438,
+    "wordCount": 74458
+  },
+  "edition": {
+    "editionId": "ingenieros-el-hombre-mediocre.es.gutenberg",
+    "kind": "original",
+    "language": "es",
+    "title": "El Hombre Mediocre: Ensayo de psicologia y moral"
+  },
+  "genres": [
+    "Philosophy",
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1925: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1913: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/64974",
+      "https://es.wikipedia.org/wiki/Jos%C3%A9_Ingenieros",
+      "https://en.wikipedia.org/wiki/Jos%C3%A9_Ingenieros",
+      "https://www.wikidata.org/wiki/Q5825244"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. José Ingenieros died in 1925 and the work was first published in 1913. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "64974",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:45:41.050192Z",
+    "revision": "Tue, 25 Aug 2026 17:33:23 GMT",
+    "url": "https://www.gutenberg.org/ebooks/64974"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1877,
+      "deathYear": 1925,
+      "name": "José Ingenieros",
+      "wikidata": "Q733019"
+    },
+    "originalLanguage": "es",
+    "originalPublicationYear": 1913,
+    "originalTitle": "El Hombre Mediocre: Ensayo de psicologia y moral",
+    "workId": "ingenieros-el-hombre-mediocre"
+  }
+}

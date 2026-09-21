@@ -1,0 +1,109 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:59:28.257232Z",
+    "chapterCount": 9,
+    "contentSha256": "956c80460aea917c2222a264e8febe53eae56e2e923d32b4429c539b26a8c377",
+    "normalizerVersion": "0.2.0",
+    "path": "books/id/siregar-azab-dan-sengsara.id.wikisource/v1/book.json.gz",
+    "sha256": "35f8ef4fb6eb506954800c7ca9c7b1619aa96fab41fa6ad79792480c7085aeb7",
+    "sizeBytes": 91707,
+    "uncompressedSizeBytes": 292058,
+    "wordCount": 40399
+  },
+  "edition": {
+    "editionId": "siregar-azab-dan-sengsara.id.wikisource",
+    "kind": "original",
+    "language": "id",
+    "title": "Azab dan Sengsara"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1941: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1920: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q4832004",
+      "https://www.wikidata.org/wiki/Q12498175",
+      "https://id.wikisource.org/wiki/Azab_dan_Sengsara"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Merari Siregar died in 1941 and the work was first published in 1920. Source: id.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Azab dan Sengsara",
+    "pages": [
+      {
+        "revision": 244209,
+        "title": "Azab dan Sengsara"
+      },
+      {
+        "revision": 26589,
+        "title": "Azab dan Sengsara/Bab 1"
+      },
+      {
+        "revision": 26591,
+        "title": "Azab dan Sengsara/Bab 2"
+      },
+      {
+        "revision": 26592,
+        "title": "Azab dan Sengsara/Bab 3"
+      },
+      {
+        "revision": 30785,
+        "title": "Azab dan Sengsara/Bab 4"
+      },
+      {
+        "revision": 26594,
+        "title": "Azab dan Sengsara/Bab 5"
+      },
+      {
+        "revision": 43973,
+        "title": "Azab dan Sengsara/Bab 6"
+      },
+      {
+        "revision": 43974,
+        "title": "Azab dan Sengsara/Bab 7"
+      },
+      {
+        "revision": 43975,
+        "title": "Azab dan Sengsara/Bab 8"
+      },
+      {
+        "revision": 26598,
+        "title": "Azab dan Sengsara/Bab 9"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:41:07.963252Z",
+    "revision": "244209",
+    "site": "id.wikisource.org",
+    "url": "https://id.wikisource.org/wiki/Azab_dan_Sengsara"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1896,
+      "deathYear": 1941,
+      "name": "Merari Siregar",
+      "wikidata": "Q12498175"
+    },
+    "originalLanguage": "id",
+    "originalPublicationYear": 1920,
+    "originalTitle": "Azab dan Sengsara",
+    "workId": "siregar-azab-dan-sengsara"
+  }
+}

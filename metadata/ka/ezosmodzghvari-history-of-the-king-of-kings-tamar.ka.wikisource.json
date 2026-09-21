@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:39.008102Z",
+    "chapterCount": 1,
+    "contentSha256": "904d5cd551236fcde1854ac424ccb01d6fed2611a239140fa5e10d972244ff65",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ka/ezosmodzghvari-history-of-the-king-of-kings-tamar.ka.wikisource/v1/book.json.gz",
+    "sha256": "432a4090ccd6d69e0a15e5fec1979141fa5c922fe60a1dae65460baa236769fb",
+    "sizeBytes": 30044,
+    "uncompressedSizeBytes": 158935,
+    "wordCount": 7652
+  },
+  "edition": {
+    "editionId": "ezosmodzghvari-history-of-the-king-of-kings-tamar.ka.wikisource",
+    "kind": "original",
+    "language": "ka",
+    "title": "ცხოვრება მეფეთ მეფისა თამარისი"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1200: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1800: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12870962",
+      "https://www.wikidata.org/wiki/Q16365882",
+      "https://ka.wikisource.org/wiki/%E1%83%AA%E1%83%AE%E1%83%9D%E1%83%95%E1%83%A0%E1%83%94%E1%83%91%E1%83%90_%E1%83%9B%E1%83%94%E1%83%A4%E1%83%94%E1%83%97-%E1%83%9B%E1%83%94%E1%83%A4%E1%83%98%E1%83%A1%E1%83%90_%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1%E1%83%98"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ბასილი ეზოსმოძღვარი died in 1200 and the work was first published in 1800. Source: ka.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "ცხოვრება მეფეთ-მეფისა თამარისი",
+    "pages": [
+      {
+        "revision": 75975,
+        "title": "ცხოვრება მეფეთ-მეფისა თამარისი"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:51:16.640932Z",
+    "revision": "75975",
+    "site": "ka.wikisource.org",
+    "url": "https://ka.wikisource.org/wiki/%E1%83%AA%E1%83%AE%E1%83%9D%E1%83%95%E1%83%A0%E1%83%94%E1%83%91%E1%83%90_%E1%83%9B%E1%83%94%E1%83%A4%E1%83%94%E1%83%97-%E1%83%9B%E1%83%94%E1%83%A4%E1%83%98%E1%83%A1%E1%83%90_%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1%E1%83%98"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1100,
+      "deathYear": 1200,
+      "name": "ბასილი ეზოსმოძღვარი",
+      "wikidata": "Q16365882"
+    },
+    "originalLanguage": "ka",
+    "originalPublicationYear": 1800,
+    "originalTitle": "ცხოვრება მეფეთ მეფისა თამარისი",
+    "workId": "ezosmodzghvari-history-of-the-king-of-kings-tamar"
+  }
+}

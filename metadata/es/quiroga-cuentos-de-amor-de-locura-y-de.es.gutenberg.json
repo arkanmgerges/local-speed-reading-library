@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:02.566530Z",
+    "chapterCount": 21,
+    "contentSha256": "ed226ba9e14b96f86c2128bda1ac56a3787ded304fb3828c6d10e70e3290fd82",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/quiroga-cuentos-de-amor-de-locura-y-de.es.gutenberg/v1/book.json.gz",
+    "sha256": "5f6122d68ec49722d2f41217cd7f2aec4fae5c47b8d121f3d02741676dac1fed",
+    "sizeBytes": 117467,
+    "uncompressedSizeBytes": 321526,
+    "wordCount": 49313
+  },
+  "edition": {
+    "editionId": "quiroga-cuentos-de-amor-de-locura-y-de.es.gutenberg",
+    "kind": "original",
+    "language": "es",
+    "title": "Cuentos de Amor de Locura y de Muerte"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1937: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1917: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/13507",
+      "https://en.wikipedia.org/wiki/Horacio_Quiroga",
+      "https://es.wikipedia.org/wiki/Horacio_Quiroga",
+      "https://www.wikidata.org/wiki/Q2918088"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Horacio Quiroga died in 1937 and the work was first published in 1917. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "13507",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:46:09.403716Z",
+    "revision": "Sun, 06 Sep 2026 09:32:57 GMT",
+    "url": "https://www.gutenberg.org/ebooks/13507"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1878,
+      "deathYear": 1937,
+      "name": "Horacio Quiroga",
+      "wikidata": "Q16864"
+    },
+    "originalLanguage": "es",
+    "originalPublicationYear": 1917,
+    "originalTitle": "Cuentos de Amor de Locura y de Muerte",
+    "workId": "quiroga-cuentos-de-amor-de-locura-y-de"
+  }
+}

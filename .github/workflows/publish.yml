@@ -34,6 +34,8 @@ jobs:
       BOOKS_BASE_URL: ${{ vars.BOOKS_BASE_URL || 'https://books.localspeedreading.com/' }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: dart-lang/setup-dart@v1
         with:
           sdk: stable
@@ -51,8 +53,24 @@ jobs:
       - name: Validate
         run: dart run bin/lsr.dart validate
         working-directory: tools
-      - name: Rebuild every publishable edition from its pinned source
-        run: dart run bin/lsr.dart build --all --check
+      - name: Editions whose metadata changed in this push
+        id: changed
+        run: |
+          before="${{ github.event.before }}"
+          if [ "${{ github.event_name }}" = "push" ] && [ -n "$before" ] && git cat-file -e "$before" 2>/dev/null; then
+            ids=""
+            for f in $(git diff --name-only "$before" "${{ github.sha }}" -- metadata | grep '\.json$'); do
+              [ -f "$f" ] && ids="$ids $(basename "$f" .json)"
+            done
+            echo "ids=$ids" >> "$GITHUB_OUTPUT"
+            echo "changed:$ids"
+          else
+            echo "ids=--all" >> "$GITHUB_OUTPUT"
+            echo "no base commit; rebuilding everything"
+          fi
+      - name: Rebuild the changed editions from their pinned sources
+        if: steps.changed.outputs.ids != ''
+        run: dart run bin/lsr.dart build --check --delay 1 ${{ steps.changed.outputs.ids }}
         working-directory: tools
       - name: Compare with the CDN (refuses to overwrite an immutable asset)
         if: steps.secrets.outputs.configured == 'true'

@@ -1,0 +1,82 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:56.631725Z",
+    "chapterCount": 1,
+    "contentSha256": "afdee9602ce91373d6640f2a23e224876c4e0ab85882849355767debb0495c5a",
+    "normalizerVersion": "0.2.0",
+    "path": "books/la/plato-laches.la.wikisource/v1/book.json.gz",
+    "sha256": "d31d8115886b20a182e7b9628b4fedf92a85d2e7a24489a0196f1f65fb81622e",
+    "sizeBytes": 18890,
+    "uncompressedSizeBytes": 48642,
+    "wordCount": 6920
+  },
+  "edition": {
+    "editionId": "plato-laches.la.wikisource",
+    "kind": "translation",
+    "language": "la",
+    "title": "Laches",
+    "translationPublicationYear": 1816,
+    "translator": {
+      "birthYear": 1433,
+      "deathYear": 1499,
+      "name": "Marsilius Ficinus",
+      "wikidata": "Q192374"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -348: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1499: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1816: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1243625",
+      "https://www.wikidata.org/wiki/Q132150485",
+      "https://www.wikidata.org/wiki/Q859",
+      "https://www.wikidata.org/wiki/Q192374",
+      "https://la.wikisource.org/wiki/Laches_(ed._Bekker)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Plato died in -348; the translator Marsilius Ficinus died in 1499 and this translation was first published in 1816. Source: la.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Laches (ed. Bekker)",
+    "pages": [
+      {
+        "revision": 247560,
+        "title": "Laches (ed. Bekker)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:56:03.921225Z",
+    "revision": "247560",
+    "site": "la.wikisource.org",
+    "url": "https://la.wikisource.org/wiki/Laches_(ed._Bekker)"
+  },
+  "work": {
+    "author": {
+      "birthYear": -428,
+      "deathYear": -348,
+      "name": "Plato",
+      "wikidata": "Q859"
+    },
+    "originalLanguage": "grc",
+    "originalTitle": "Laches",
+    "workId": "plato-laches"
+  }
+}

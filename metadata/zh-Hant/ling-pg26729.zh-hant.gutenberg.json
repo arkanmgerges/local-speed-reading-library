@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:37:27.221680Z",
+    "chapterCount": 1,
+    "contentSha256": "876cbdb3be5ec296689ce5277220800dda1697c75e6eb9624ae14f56cdf8784b",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/ling-pg26729.zh-hant.gutenberg/v1/book.json.gz",
+    "sha256": "ba162c0f1627f1f3a05a870239d9489356a7b47a1a0e43cbc998280b81679424",
+    "sizeBytes": 584925,
+    "uncompressedSizeBytes": 1274811,
+    "wordCount": 14045
+  },
+  "edition": {
+    "editionId": "ling-pg26729.zh-hant.gutenberg",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "二刻拍案驚奇"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1644: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1628: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/26729",
+      "https://en.wikipedia.org/wiki/Ling_Mengchu",
+      "https://zh.wikipedia.org/wiki/%E5%87%8C%E6%BF%9B%E5%88%9D",
+      "https://www.wikidata.org/wiki/Q2399750"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Mengchu Ling died in 1644 and the work was first published in 1628. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "26729",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T05:45:29.439197Z",
+    "revision": "Fri, 11 Sep 2026 10:07:24 GMT",
+    "url": "https://www.gutenberg.org/ebooks/26729"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1580,
+      "deathYear": 1644,
+      "name": "Mengchu Ling",
+      "wikidata": "Q1398114"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": 1628,
+    "originalTitle": "二刻拍案驚奇",
+    "workId": "ling-pg26729"
+  }
+}

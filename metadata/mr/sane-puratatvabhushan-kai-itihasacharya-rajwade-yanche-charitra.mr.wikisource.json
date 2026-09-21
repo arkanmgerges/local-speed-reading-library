@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:43.943081Z",
+    "chapterCount": 1,
+    "contentSha256": "c37b1330c9cc8281a873bfbbbb2c1df16d1799ebde459f2f04bbbd20365db9b6",
+    "normalizerVersion": "0.2.0",
+    "path": "books/mr/sane-puratatvabhushan-kai-itihasacharya-rajwade-yanche-charitra.mr.wikisource/v1/book.json.gz",
+    "sha256": "a7f4cd0af47f84e1abdd0137fcb3455acf2ab747898f530ffe022917d3b709c8",
+    "sizeBytes": 83205,
+    "uncompressedSizeBytes": 419305,
+    "wordCount": 22924
+  },
+  "edition": {
+    "editionId": "sane-puratatvabhushan-kai-itihasacharya-rajwade-yanche-charitra.mr.wikisource",
+    "kind": "original",
+    "language": "mr",
+    "title": "पुरातत्वभूषण कै. इतिहासाचार्य राजवाडे यांचे चरित्र"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1950: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1928: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q131911993",
+      "https://www.wikidata.org/wiki/Q55769",
+      "https://mr.wikisource.org/wiki/%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%AD%E0%A5%82%E0%A4%B7%E0%A4%A3_%E0%A4%95%E0%A5%88._%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF_%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%B5%E0%A4%BE%E0%A4%A1%E0%A5%87_%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%9A%E0%A5%87_%E0%A4%9A%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. पांडुरंग सदाशिव साने died in 1950 and the work was first published in 1928. Source: mr.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "पुरातत्वभूषण कै. इतिहासाचार्य राजवाडे यांचे चरित्र",
+    "pages": [
+      {
+        "revision": 209040,
+        "title": "पुरातत्वभूषण कै. इतिहासाचार्य राजवाडे यांचे चरित्र"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:04:22.078306Z",
+    "revision": "209040",
+    "site": "mr.wikisource.org",
+    "url": "https://mr.wikisource.org/wiki/%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%AD%E0%A5%82%E0%A4%B7%E0%A4%A3_%E0%A4%95%E0%A5%88._%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF_%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%B5%E0%A4%BE%E0%A4%A1%E0%A5%87_%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%9A%E0%A5%87_%E0%A4%9A%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1899,
+      "deathYear": 1950,
+      "name": "पांडुरंग सदाशिव साने",
+      "wikidata": "Q55769"
+    },
+    "originalLanguage": "mr",
+    "originalPublicationYear": 1928,
+    "originalTitle": "पुरातत्वभूषण कै. इतिहासाचार्य राजवाडे यांचे चरित्र",
+    "workId": "sane-puratatvabhushan-kai-itihasacharya-rajwade-yanche-charitra"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:23:33.958558Z",
+    "chapterCount": 12,
+    "contentSha256": "cc481fb62c48673d71f12f41dc7fec8ed1ec72ded0da374997c11f71ffeb1633",
+    "normalizerVersion": "0.2.0",
+    "path": "books/el/papadiamantes-pg42070.el.gutenberg/v1/book.json.gz",
+    "sha256": "8d2f95dd0c95be23e4bfa86d74e76837926a489bdf69d812c7603ce929237f78",
+    "sizeBytes": 86806,
+    "uncompressedSizeBytes": 313352,
+    "wordCount": 28399
+  },
+  "edition": {
+    "editionId": "papadiamantes-pg42070.el.gutenberg",
+    "kind": "original",
+    "language": "el",
+    "title": "Πρωτοχρονιάτικα διηγήματα"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1911: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1902: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/42070",
+      "https://en.wikipedia.org/wiki/Alexandros_Papadiamantis",
+      "https://www.wikidata.org/wiki/Q116939802"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Alexandros Papadiamantes died in 1911 and the work was first published in 1902. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "42070",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:29:54.779196Z",
+    "revision": "Thu, 17 Sep 2026 09:49:53 GMT",
+    "url": "https://www.gutenberg.org/ebooks/42070"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1851,
+      "deathYear": 1911,
+      "name": "Alexandros Papadiamantes",
+      "wikidata": "Q320984"
+    },
+    "originalLanguage": "el",
+    "originalPublicationYear": 1902,
+    "originalTitle": "Πρωτοχρονιάτικα διηγήματα",
+    "workId": "papadiamantes-pg42070"
+  }
+}

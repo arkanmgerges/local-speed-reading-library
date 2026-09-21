@@ -1,0 +1,259 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:46.302119Z",
+    "chapterCount": 45,
+    "contentSha256": "2dc6e62da121ca06e3d08d08be5fcb1804689a8f5e64c429ef3230d5eda6f877",
+    "normalizerVersion": "0.2.0",
+    "path": "books/uk/defoe-q483034.uk.wikisource/v1/book.json.gz",
+    "sha256": "680bd53f6233be4470cfc8bc1e4708eb70b603147adac356761f7512b491aa68",
+    "sizeBytes": 212092,
+    "uncompressedSizeBytes": 754993,
+    "wordCount": 69471
+  },
+  "edition": {
+    "editionId": "defoe-q483034.uk.wikisource",
+    "kind": "translation",
+    "language": "uk",
+    "title": "Робінзон Крузо з образками",
+    "translationPublicationYear": 1919,
+    "translator": {
+      "birthYear": 1872,
+      "deathYear": 1947,
+      "name": "Малицька Костянтина Іванівна",
+      "wikidata": "Q12120869"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1731: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1947: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1919: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q483034",
+      "https://www.wikidata.org/wiki/Q15056552",
+      "https://www.wikidata.org/wiki/Q40946",
+      "https://www.wikidata.org/wiki/Q12120869",
+      "https://uk.wikisource.org/wiki/%D0%A0%D0%BE%D0%B1%D1%96%D0%BD%D0%B7%D0%BE%D0%BD_%D0%9A%D1%80%D1%83%D0%B7%D0%BE_(1919)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Даніель Дефо died in 1731; the translator Малицька Костянтина Іванівна died in 1947 and this translation was first published in 1919. Source: uk.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Робінзон Крузо (1919)",
+    "pages": [
+      {
+        "revision": 1026020,
+        "title": "Робінзон Крузо (1919)"
+      },
+      {
+        "revision": 389607,
+        "title": "Робінзон Крузо (1919)/I"
+      },
+      {
+        "revision": 389608,
+        "title": "Робінзон Крузо (1919)/II"
+      },
+      {
+        "revision": 389609,
+        "title": "Робінзон Крузо (1919)/III"
+      },
+      {
+        "revision": 389610,
+        "title": "Робінзон Крузо (1919)/IV"
+      },
+      {
+        "revision": 389611,
+        "title": "Робінзон Крузо (1919)/V"
+      },
+      {
+        "revision": 389612,
+        "title": "Робінзон Крузо (1919)/VI"
+      },
+      {
+        "revision": 389613,
+        "title": "Робінзон Крузо (1919)/VII"
+      },
+      {
+        "revision": 389614,
+        "title": "Робінзон Крузо (1919)/VIII"
+      },
+      {
+        "revision": 389615,
+        "title": "Робінзон Крузо (1919)/IX"
+      },
+      {
+        "revision": 393258,
+        "title": "Робінзон Крузо (1919)/X"
+      },
+      {
+        "revision": 393261,
+        "title": "Робінзон Крузо (1919)/XI"
+      },
+      {
+        "revision": 397557,
+        "title": "Робінзон Крузо (1919)/XII"
+      },
+      {
+        "revision": 389619,
+        "title": "Робінзон Крузо (1919)/XIII"
+      },
+      {
+        "revision": 389620,
+        "title": "Робінзон Крузо (1919)/XIV"
+      },
+      {
+        "revision": 389621,
+        "title": "Робінзон Крузо (1919)/XV"
+      },
+      {
+        "revision": 389622,
+        "title": "Робінзон Крузо (1919)/XVI"
+      },
+      {
+        "revision": 389623,
+        "title": "Робінзон Крузо (1919)/XVII"
+      },
+      {
+        "revision": 389624,
+        "title": "Робінзон Крузо (1919)/XVIII"
+      },
+      {
+        "revision": 389625,
+        "title": "Робінзон Крузо (1919)/XIX"
+      },
+      {
+        "revision": 389626,
+        "title": "Робінзон Крузо (1919)/XX"
+      },
+      {
+        "revision": 389627,
+        "title": "Робінзон Крузо (1919)/XXI"
+      },
+      {
+        "revision": 389628,
+        "title": "Робінзон Крузо (1919)/XXII"
+      },
+      {
+        "revision": 389629,
+        "title": "Робінзон Крузо (1919)/XXIII"
+      },
+      {
+        "revision": 764536,
+        "title": "Робінзон Крузо (1919)/XXIV"
+      },
+      {
+        "revision": 389631,
+        "title": "Робінзон Крузо (1919)/XXV"
+      },
+      {
+        "revision": 389632,
+        "title": "Робінзон Крузо (1919)/XXVI"
+      },
+      {
+        "revision": 389633,
+        "title": "Робінзон Крузо (1919)/XXVII"
+      },
+      {
+        "revision": 389634,
+        "title": "Робінзон Крузо (1919)/XXVIII"
+      },
+      {
+        "revision": 389635,
+        "title": "Робінзон Крузо (1919)/XXIX"
+      },
+      {
+        "revision": 389636,
+        "title": "Робінзон Крузо (1919)/XXX"
+      },
+      {
+        "revision": 389637,
+        "title": "Робінзон Крузо (1919)/XXXI"
+      },
+      {
+        "revision": 389638,
+        "title": "Робінзон Крузо (1919)/XXXII"
+      },
+      {
+        "revision": 389639,
+        "title": "Робінзон Крузо (1919)/XXXIII"
+      },
+      {
+        "revision": 389640,
+        "title": "Робінзон Крузо (1919)/XXXIV"
+      },
+      {
+        "revision": 389641,
+        "title": "Робінзон Крузо (1919)/XXXV"
+      },
+      {
+        "revision": 389642,
+        "title": "Робінзон Крузо (1919)/XXXVI"
+      },
+      {
+        "revision": 389643,
+        "title": "Робінзон Крузо (1919)/XXXVII"
+      },
+      {
+        "revision": 389644,
+        "title": "Робінзон Крузо (1919)/XXXVIII"
+      },
+      {
+        "revision": 389645,
+        "title": "Робінзон Крузо (1919)/XXXIX"
+      },
+      {
+        "revision": 389646,
+        "title": "Робінзон Крузо (1919)/XL"
+      },
+      {
+        "revision": 389647,
+        "title": "Робінзон Крузо (1919)/XLI"
+      },
+      {
+        "revision": 389648,
+        "title": "Робінзон Крузо (1919)/XLII"
+      },
+      {
+        "revision": 389649,
+        "title": "Робінзон Крузо (1919)/XLIII"
+      },
+      {
+        "revision": 389864,
+        "title": "Робінзон Крузо (1919)/XLIV"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:19:49.204109Z",
+    "revision": "1026020",
+    "site": "uk.wikisource.org",
+    "url": "https://uk.wikisource.org/wiki/%D0%A0%D0%BE%D0%B1%D1%96%D0%BD%D0%B7%D0%BE%D0%BD_%D0%9A%D1%80%D1%83%D0%B7%D0%BE_(1919)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1660,
+      "deathYear": 1731,
+      "name": "Даніель Дефо",
+      "wikidata": "Q40946"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1719,
+    "originalTitle": "Робінзон Крузо з образками",
+    "workId": "defoe-q483034"
+  }
+}

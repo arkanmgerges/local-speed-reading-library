@@ -1,0 +1,278 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:13.732491Z",
+    "chapterCount": 48,
+    "contentSha256": "c818ef54ab9e74b3b12be7c268c2ba7ded08f7aea50c55f34a0e9440032512d9",
+    "normalizerVersion": "0.2.0",
+    "path": "books/es/swift-viajes-de-gulliver.es.wikisource/v1/book.json.gz",
+    "sha256": "025a918ae9a70f5f08678476e421dc867528f1f4edd703f446cd5207ab4a149c",
+    "sizeBytes": 255036,
+    "uncompressedSizeBytes": 691856,
+    "wordCount": 112857
+  },
+  "edition": {
+    "editionId": "swift-viajes-de-gulliver.es.wikisource",
+    "kind": "translation",
+    "language": "es",
+    "title": "Viajes de Gulliver",
+    "translationPublicationYear": 1914,
+    "translator": {
+      "deathYear": 1900,
+      "name": "Ramón Máximo Spartal",
+      "wikidata": "Q66371118"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1745: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1900: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1914: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q181488",
+      "https://www.wikidata.org/wiki/Q66375118",
+      "https://www.wikidata.org/wiki/Q41166",
+      "https://www.wikidata.org/wiki/Q66371118",
+      "https://es.wikisource.org/wiki/Viajes_de_Gulliver"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jonathan Swift died in 1745; the translator Ramón Máximo Spartal died in 1900 and this translation was first published in 1914. Source: es.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Viajes de Gulliver",
+    "pages": [
+      {
+        "revision": 1328866,
+        "title": "Viajes de Gulliver"
+      },
+      {
+        "revision": 1329359,
+        "title": "Viajes de Gulliver/Primera parte"
+      },
+      {
+        "revision": 1329352,
+        "title": "Viajes de Gulliver/Primera parte/I"
+      },
+      {
+        "revision": 1328924,
+        "title": "Viajes de Gulliver/Primera parte/II"
+      },
+      {
+        "revision": 1329303,
+        "title": "Viajes de Gulliver/Primera parte/III"
+      },
+      {
+        "revision": 1329314,
+        "title": "Viajes de Gulliver/Primera parte/IV"
+      },
+      {
+        "revision": 1329346,
+        "title": "Viajes de Gulliver/Primera parte/V"
+      },
+      {
+        "revision": 1329347,
+        "title": "Viajes de Gulliver/Primera parte/VI"
+      },
+      {
+        "revision": 1329348,
+        "title": "Viajes de Gulliver/Primera parte/VII"
+      },
+      {
+        "revision": 1329349,
+        "title": "Viajes de Gulliver/Primera parte/VIII"
+      },
+      {
+        "revision": 1504492,
+        "title": "Viajes de Gulliver/Segunda parte/I"
+      },
+      {
+        "revision": 1504493,
+        "title": "Viajes de Gulliver/Segunda parte/II"
+      },
+      {
+        "revision": 1504494,
+        "title": "Viajes de Gulliver/Segunda parte/III"
+      },
+      {
+        "revision": 1504495,
+        "title": "Viajes de Gulliver/Segunda parte/IV"
+      },
+      {
+        "revision": 1504496,
+        "title": "Viajes de Gulliver/Segunda parte/V"
+      },
+      {
+        "revision": 1504497,
+        "title": "Viajes de Gulliver/Segunda parte/VI"
+      },
+      {
+        "revision": 1504512,
+        "title": "Viajes de Gulliver/Tercera parte/I"
+      },
+      {
+        "revision": 1504513,
+        "title": "Viajes de Gulliver/Tercera parte/II"
+      },
+      {
+        "revision": 1504514,
+        "title": "Viajes de Gulliver/Tercera parte/III"
+      },
+      {
+        "revision": 1504515,
+        "title": "Viajes de Gulliver/Tercera parte/IV"
+      },
+      {
+        "revision": 1504516,
+        "title": "Viajes de Gulliver/Tercera parte/V"
+      },
+      {
+        "revision": 1504517,
+        "title": "Viajes de Gulliver/Tercera parte/VI"
+      },
+      {
+        "revision": 1504518,
+        "title": "Viajes de Gulliver/Tercera parte/VII"
+      },
+      {
+        "revision": 1504519,
+        "title": "Viajes de Gulliver/Tercera parte/VIII"
+      },
+      {
+        "revision": 1504520,
+        "title": "Viajes de Gulliver/Tercera parte/IX"
+      },
+      {
+        "revision": 1504521,
+        "title": "Viajes de Gulliver/Tercera parte/X"
+      },
+      {
+        "revision": 1504565,
+        "title": "Viajes de Gulliver/Cuarta parte/I"
+      },
+      {
+        "revision": 1504566,
+        "title": "Viajes de Gulliver/Cuarta parte/II"
+      },
+      {
+        "revision": 1504569,
+        "title": "Viajes de Gulliver/Cuarta parte/III"
+      },
+      {
+        "revision": 1504567,
+        "title": "Viajes de Gulliver/Cuarta parte/IV"
+      },
+      {
+        "revision": 1504568,
+        "title": "Viajes de Gulliver/Cuarta parte/V"
+      },
+      {
+        "revision": 1504539,
+        "title": "Viajes de Gulliver/Cuarta parte/VI"
+      },
+      {
+        "revision": 1504540,
+        "title": "Viajes de Gulliver/Cuarta parte/VII"
+      },
+      {
+        "revision": 1504541,
+        "title": "Viajes de Gulliver/Cuarta parte/VIII"
+      },
+      {
+        "revision": 1504542,
+        "title": "Viajes de Gulliver/Cuarta parte/IX"
+      },
+      {
+        "revision": 1504549,
+        "title": "Viajes de Gulliver/Cuarta parte/X"
+      },
+      {
+        "revision": 1504550,
+        "title": "Viajes de Gulliver/Cuarta parte/XI"
+      },
+      {
+        "revision": 1504551,
+        "title": "Viajes de Gulliver/Cuarta parte/XII"
+      },
+      {
+        "revision": 1504544,
+        "title": "Viajes de Gulliver/Adición/Introducción"
+      },
+      {
+        "revision": 1504570,
+        "title": "Viajes de Gulliver/Adición/Primera parte/I"
+      },
+      {
+        "revision": 1504571,
+        "title": "Viajes de Gulliver/Adición/Primera parte/II"
+      },
+      {
+        "revision": 1504572,
+        "title": "Viajes de Gulliver/Adición/Primera parte/III"
+      },
+      {
+        "revision": 1504573,
+        "title": "Viajes de Gulliver/Adición/Primera parte/IV"
+      },
+      {
+        "revision": 1504574,
+        "title": "Viajes de Gulliver/Adición/Primera parte/V"
+      },
+      {
+        "revision": 1504581,
+        "title": "Viajes de Gulliver/Adición/Segunda parte/I"
+      },
+      {
+        "revision": 1504582,
+        "title": "Viajes de Gulliver/Adición/Segunda parte/II"
+      },
+      {
+        "revision": 1504583,
+        "title": "Viajes de Gulliver/Adición/Segunda parte/III"
+      },
+      {
+        "revision": 1504584,
+        "title": "Viajes de Gulliver/Adición/Segunda parte/IV"
+      },
+      {
+        "revision": 1504587,
+        "title": "Viajes de Gulliver/Adición/Segunda parte/V"
+      },
+      {
+        "revision": 1504588,
+        "title": "Viajes de Gulliver/Adición/Segunda parte/VI"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:48:43.049192Z",
+    "revision": "1328866",
+    "site": "es.wikisource.org",
+    "url": "https://es.wikisource.org/wiki/Viajes_de_Gulliver"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1667,
+      "deathYear": 1745,
+      "name": "Jonathan Swift",
+      "wikidata": "Q41166"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1726,
+    "originalTitle": "Viajes de Gulliver",
+    "workId": "swift-viajes-de-gulliver"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:58:19.863844Z",
+    "chapterCount": 7,
+    "contentSha256": "0ef9678e96960051b59ebdda39d8a0e71805947044b52edf56089f19211613fa",
+    "normalizerVersion": "0.2.0",
+    "path": "books/he/breslov-likutei-moharan.he.wikisource/v1/book.json.gz",
+    "sha256": "a716560acf69c934078171e6cc5d3ed9a2139767b3d9c8c9c90464ac55b5d703",
+    "sizeBytes": 21855,
+    "uncompressedSizeBytes": 74134,
+    "wordCount": 6999
+  },
+  "edition": {
+    "editionId": "breslov-likutei-moharan.he.wikisource",
+    "kind": "original",
+    "language": "he",
+    "title": "ליקוטי מוהר\"ן"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1810: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1808: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q2910316",
+      "https://www.wikidata.org/wiki/Q467182",
+      "https://he.wikisource.org/wiki/%D7%9C%D7%A7%D7%95%D7%98%D7%99_%D7%9E%D7%95%D7%94%D7%A8%22%D7%9F"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. נחמן מברסלב died in 1810 and the work was first published in 1808. Source: he.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "לקוטי מוהר\"ן",
+    "pages": [
+      {
+        "revision": 3081098,
+        "title": "לקוטי מוהר\"ן"
+      },
+      {
+        "revision": 2981424,
+        "title": "לקוטי מוהר\"ן/דף השער"
+      },
+      {
+        "revision": 2981426,
+        "title": "לקוטי מוהר\"ן/הסכמות"
+      },
+      {
+        "revision": 2981428,
+        "title": "לקוטי מוהר\"ן/הקדמה"
+      },
+      {
+        "revision": 2981432,
+        "title": "לקוטי מוהר\"ן/שיר נעים"
+      },
+      {
+        "revision": 2981430,
+        "title": "לקוטי מוהר\"ן/לכו חזו"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:26:53.756001Z",
+    "revision": "3081098",
+    "site": "he.wikisource.org",
+    "url": "https://he.wikisource.org/wiki/%D7%9C%D7%A7%D7%95%D7%98%D7%99_%D7%9E%D7%95%D7%94%D7%A8%22%D7%9F"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1772,
+      "deathYear": 1810,
+      "name": "נחמן מברסלב",
+      "wikidata": "Q467182"
+    },
+    "originalLanguage": "he",
+    "originalPublicationYear": 1808,
+    "originalTitle": "ליקוטי מוהר\"ן",
+    "workId": "breslov-likutei-moharan"
+  }
+}

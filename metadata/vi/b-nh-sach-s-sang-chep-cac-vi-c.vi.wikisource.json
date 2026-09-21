@@ -1,0 +1,77 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:36:54.660248Z",
+    "chapterCount": 5,
+    "contentSha256": "6302b7f86c796a6d5977bfea2e985d4b31b9127633642c383ce944407954fbf7",
+    "normalizerVersion": "0.2.0",
+    "path": "books/vi/b-nh-sach-s-sang-chep-cac-vi-c.vi.wikisource/v1/book.json.gz",
+    "sha256": "862989bd82bff6a16e8cc7c5a37740e4ac8dd591f5b5466bdc7a96e7277edfb4",
+    "sizeBytes": 81680,
+    "uncompressedSizeBytes": 348129,
+    "wordCount": 82686
+  },
+  "edition": {
+    "editionId": "b-nh-sach-s-sang-chep-cac-vi-c.vi.wikisource",
+    "kind": "original",
+    "language": "vi",
+    "title": "Sách sổ sang chép các việc"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1833: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1822: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q124338515",
+      "https://www.wikidata.org/wiki/Q107247955",
+      "https://vi.wikisource.org/wiki/S%C3%A1ch_S%E1%BB%95_sang_ch%C3%A9p_c%C3%A1c_vi%E1%BB%87c"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Philipphê Bỉnh died in 1833 and the work was first published in 1822. Source: vi.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Sách Sổ sang chép các việc",
+    "pages": [
+      {
+        "revision": 196797,
+        "title": "Sách Sổ sang chép các việc"
+      },
+      {
+        "revision": 198427,
+        "title": "Sách Sổ sang chép các việc/Nội dung"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:22:20.449328Z",
+    "revision": "196797",
+    "site": "vi.wikisource.org",
+    "url": "https://vi.wikisource.org/wiki/S%C3%A1ch_S%E1%BB%95_sang_ch%C3%A9p_c%C3%A1c_vi%E1%BB%87c"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1759,
+      "deathYear": 1833,
+      "name": "Philipphê Bỉnh",
+      "wikidata": "Q107247955"
+    },
+    "originalLanguage": "vi",
+    "originalPublicationYear": 1822,
+    "originalTitle": "Sách sổ sang chép các việc",
+    "workId": "b-nh-sach-s-sang-chep-cac-vi-c"
+  }
+}

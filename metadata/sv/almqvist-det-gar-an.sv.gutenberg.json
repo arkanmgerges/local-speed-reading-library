@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:27.012526Z",
+    "chapterCount": 13,
+    "contentSha256": "79c5fd8ce85a80d6b68b5d84753fa9503a1403d4d62e2a0cbec9b5a11e41fe4a",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sv/almqvist-det-gar-an.sv.gutenberg/v1/book.json.gz",
+    "sha256": "4657b0e500d9137e8764d00cf8d562cb040aaaf4807204e8b6c2b8262f85597d",
+    "sizeBytes": 86380,
+    "uncompressedSizeBytes": 232552,
+    "wordCount": 37107
+  },
+  "edition": {
+    "editionId": "almqvist-det-gar-an.sv.gutenberg",
+    "kind": "original",
+    "language": "sv",
+    "title": "Det går an"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1866: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1839: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/14670",
+      "https://en.wikipedia.org/wiki/Carl_Jonas_Love_Almqvist",
+      "https://sv.wikipedia.org/wiki/Carl_Jonas_Love_Almqvist",
+      "https://www.wikidata.org/wiki/Q7883926"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. C. J. L. Almqvist died in 1866 and the work was first published in 1839. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "14670",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T04:58:24.213735Z",
+    "revision": "Sun, 06 Sep 2026 14:19:27 GMT",
+    "url": "https://www.gutenberg.org/ebooks/14670"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1793,
+      "deathYear": 1866,
+      "name": "C. J. L. Almqvist",
+      "wikidata": "Q316381"
+    },
+    "originalLanguage": "sv",
+    "originalPublicationYear": 1839,
+    "originalTitle": "Det går an",
+    "workId": "almqvist-det-gar-an"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:41.494780Z",
+    "chapterCount": 3,
+    "contentSha256": "5d05b72b79ee898c080a190c64acbe7dc96453118f62a82cdad67e7e04a24ef3",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/lehtonen-lintukoto.fi.gutenberg/v1/book.json.gz",
+    "sha256": "c440bf6e3761bb7cd438074170e5f8beeee4cd79e45b7807a1a0e7fb431def37",
+    "sizeBytes": 84805,
+    "uncompressedSizeBytes": 213237,
+    "wordCount": 24703
+  },
+  "edition": {
+    "editionId": "lehtonen-lintukoto.fi.gutenberg",
+    "editionPublicationYear": 1929,
+    "kind": "original",
+    "language": "fi",
+    "title": "Lintukoto : $b Muutamia päiväkirjan lehtiä"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1934: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1929 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/78058",
+      "https://en.wikipedia.org/wiki/Joel_Lehtonen"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Joel Lehtonen died in 1934 and the edition digitised by Project Gutenberg was printed in 1929. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "78058",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:04:37.828466Z",
+    "revision": "Mon, 31 Aug 2026 07:56:20 GMT",
+    "url": "https://www.gutenberg.org/ebooks/78058"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1881,
+      "deathYear": 1934,
+      "name": "Joel Lehtonen",
+      "wikidata": "Q560921"
+    },
+    "originalLanguage": "fi",
+    "originalTitle": "Lintukoto : $b Muutamia päiväkirjan lehtiä",
+    "workId": "lehtonen-lintukoto"
+  }
+}

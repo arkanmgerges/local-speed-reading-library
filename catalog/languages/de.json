@@ -1,0 +1,875 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 79,
+        "contentSha256": "e2b1ea5222e4a9dc4bbc31010201c120daed2cfe0c4b09516878c463cc31bffa",
+        "encoding": "gzip",
+        "path": "books/de/bloch-der-marquis-de-sade-und-seine-zeit.de.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e43ba372ef5cd190b8f1bd436e2d3ba9c163d4455ae9bc127c0d06dcc315ce2b",
+        "sizeBytes": 332997,
+        "uncompressedSizeBytes": 869344,
+        "wordCount": 120269
+      },
+      "author": "Iwan Bloch",
+      "authorDeathYear": 1922,
+      "editionId": "bloch-der-marquis-de-sade-und-seine-zeit.de.gutenberg",
+      "editionPublicationYear": 1922,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "de",
+      "originalLanguage": "de",
+      "originalPublicationYear": null,
+      "originalTitle": "Der Marquis de Sade und seine Zeit.",
+      "rights": {
+        "statement": "Public domain worldwide. Iwan Bloch died in 1922 and the edition digitised by Project Gutenberg was printed in 1922. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "68400",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:24:20.175406Z",
+        "revision": "Thu, 27 Aug 2026 10:40:47 GMT",
+        "url": "https://www.gutenberg.org/ebooks/68400"
+      },
+      "title": "Der Marquis de Sade und seine Zeit.",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "bloch-der-marquis-de-sade-und-seine-zeit"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "d08cd73bb43c531547d834327561d781d9d78ca6cb99b53ff25560a3f6b0a7c2",
+        "encoding": "gzip",
+        "path": "books/de/byron-der-giaur.de.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8f0b566122841215dd412d83a62d19ca1a2fb2534257994f0fe8b1507bed966d",
+        "sizeBytes": 23920,
+        "uncompressedSizeBytes": 60102,
+        "wordCount": 8515
+      },
+      "author": "George Gordon Byron",
+      "authorDeathYear": 1824,
+      "editionId": "byron-der-giaur.de.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "de",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1813,
+      "originalTitle": "Der Giaur",
+      "rights": {
+        "statement": "Public domain worldwide. George Gordon Byron died in 1824; the translator Joseph Emanuel Hilscher died in 1837 and this translation was first published in 1863. Source: de.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Der Giaur",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:24:25.203659Z",
+        "revision": "3762256",
+        "url": "https://de.wikisource.org/wiki/Der_Giaur"
+      },
+      "title": "Der Giaur",
+      "translationPublicationYear": 1863,
+      "translator": "Joseph Emanuel Hilscher",
+      "translatorDeathYear": 1837,
+      "workId": "byron-der-giaur"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 18,
+        "contentSha256": "bc09a1960edd7af7a789d7c8e044adad8b755bad1468c78f8f1465cbba844927",
+        "encoding": "gzip",
+        "path": "books/de/darwin-die-entstehung-der-arten.de.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4df981f7659c9eb3c87d627d92b242f0c5f573f751a2d9fc1f038fefff7a0b40",
+        "sizeBytes": 367467,
+        "uncompressedSizeBytes": 1139343,
+        "wordCount": 156987
+      },
+      "author": "Charles Darwin",
+      "authorDeathYear": 1882,
+      "editionId": "darwin-die-entstehung-der-arten.de.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "de",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1859,
+      "originalTitle": "Die Entstehung der Arten",
+      "rights": {
+        "statement": "Public domain worldwide. Charles Darwin died in 1882; the translator Heinrich Georg Bronn died in 1862 and this translation was first published in 1860. Source: de.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Entstehung der Arten",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:24:53.184783Z",
+        "revision": "4424316",
+        "url": "https://de.wikisource.org/wiki/Entstehung_der_Arten"
+      },
+      "title": "Die Entstehung der Arten",
+      "translationPublicationYear": 1860,
+      "translator": "Heinrich Georg Bronn",
+      "translatorDeathYear": 1862,
+      "workId": "darwin-die-entstehung-der-arten"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "436049fcf0d586ea12ce3254121806e91620fe5551da919ebdbc505b4354e153",
+        "encoding": "gzip",
+        "path": "books/de/eichendorff-aus-dem-leben-eines-taugenichts.de.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "8ab5effb908c6d96200a5a2e01d04ceab2c61458818404708024a601274a150d",
+        "sizeBytes": 71643,
+        "uncompressedSizeBytes": 199649,
+        "wordCount": 31619
+      },
+      "author": "Joseph Eichendorff",
+      "authorDeathYear": 1857,
+      "editionId": "eichendorff-aus-dem-leben-eines-taugenichts.de.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "de",
+      "originalLanguage": "de",
+      "originalPublicationYear": 1826,
+      "originalTitle": "Aus dem Leben eines Taugenichts: Novelle",
+      "rights": {
+        "statement": "Public domain worldwide. Joseph Eichendorff died in 1857 and the work was first published in 1826. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "35312",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:24:58.357227Z",
+        "revision": "Mon, 14 Sep 2026 18:34:48 GMT",
+        "url": "https://www.gutenberg.org/ebooks/35312"
+      },
+      "title": "Aus dem Leben eines Taugenichts: Novelle",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "eichendorff-aus-dem-leben-eines-taugenichts"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 11,
+        "contentSha256": "d9595a5467e1cc3c1e8c6a7c0d9d9d26ae064bb30d3dca8e94bbab9928bcd894",
+        "encoding": "gzip",
+        "path": "books/de/france-urwald.de.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "891acea1246872bb14a8e8ef932f8102743371a924cc5d28e6c6619e319d9136",
+        "sizeBytes": 63487,
+        "uncompressedSizeBytes": 163061,
+        "wordCount": 21809
+      },
+      "author": "R. H. Francé",
+      "authorDeathYear": 1943,
+      "editionId": "france-urwald.de.gutenberg",
+      "editionPublicationYear": 1928,
+      "genres": [
+        "Science",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "de",
+      "originalLanguage": "de",
+      "originalPublicationYear": null,
+      "originalTitle": "Urwald",
+      "rights": {
+        "statement": "Public domain worldwide. R. H. Francé died in 1943 and the edition digitised by Project Gutenberg was printed in 1928. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "78056",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:25:01.106805Z",
+        "revision": "Mon, 31 Aug 2026 07:56:06 GMT",
+        "url": "https://www.gutenberg.org/ebooks/78056"
+      },
+      "title": "Urwald",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "france-urwald"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 13,
+        "contentSha256": "17c655469e367828fba1873556796ece2a25a9b5ee5296d068a6bac8399f1bb6",
+        "encoding": "gzip",
+        "path": "books/de/harbou-die-flucht-der-beate-hoyermann.de.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "ca61fb6f5867f1725c7967049decb7a234939e8f47f16f08177599c604e188f6",
+        "sizeBytes": 178524,
+        "uncompressedSizeBytes": 511401,
+        "wordCount": 76835
+      },
+      "author": "Thea von Harbou",
+      "authorDeathYear": 1954,
+      "editionId": "harbou-die-flucht-der-beate-hoyermann.de.gutenberg",
+      "editionPublicationYear": 1916,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "de",
+      "originalLanguage": "de",
+      "originalPublicationYear": null,
+      "originalTitle": "Die Flucht der Beate Hoyermann : $b Roman",
+      "rights": {
+        "statement": "Public domain worldwide. Thea von Harbou died in 1954 and the edition digitised by Project Gutenberg was printed in 1916. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "77073",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:25:11.581605Z",
+        "revision": "Sun, 30 Aug 2026 18:54:12 GMT",
+        "url": "https://www.gutenberg.org/ebooks/77073"
+      },
+      "title": "Die Flucht der Beate Hoyermann : $b Roman",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "harbou-die-flucht-der-beate-hoyermann"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 11,
+        "contentSha256": "dadcb8ff992d65414ce70cf6ab695b88b7c92f68e97ad5f49a72f095198bd340",
+        "encoding": "gzip",
+        "path": "books/de/hoffmann-die-elixiere-des-teufels.de.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "717e5617cdac6e00e025cdfa23858961cae2d4a7a289760df4823f1c33d755c7",
+        "sizeBytes": 259475,
+        "uncompressedSizeBytes": 707945,
+        "wordCount": 108852
+      },
+      "author": "E. T. A. Hoffmann",
+      "authorDeathYear": 1822,
+      "editionId": "hoffmann-die-elixiere-des-teufels.de.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction",
+        "Science"
+      ],
+      "kind": "original",
+      "language": "de",
+      "originalLanguage": "de",
+      "originalPublicationYear": 1815,
+      "originalTitle": "Die Elixiere des Teufels : $b Nachgelassene Papiere des Bruders Medardus, eines Kapuziners",
+      "rights": {
+        "statement": "Public domain worldwide. E. T. A. Hoffmann died in 1822 and the work was first published in 1815. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "76360",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:25:15.655095Z",
+        "revision": "Sun, 30 Aug 2026 13:34:53 GMT",
+        "url": "https://www.gutenberg.org/ebooks/76360"
+      },
+      "title": "Die Elixiere des Teufels : $b Nachgelassene Papiere des Bruders Medardus, eines Kapuziners",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "hoffmann-die-elixiere-des-teufels"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 4,
+        "contentSha256": "38365353283605f650b67dcb1ae348bdeaad241f8a99fc8b39c87b9dd26ff0b8",
+        "encoding": "gzip",
+        "path": "books/de/kafka-die-verwandlung.de.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "46584ea0fa4762fcc5238fffd1fd0ab5bb7a1dd8c2a5a320ea8f0c8b35fbddf3",
+        "sizeBytes": 45857,
+        "uncompressedSizeBytes": 126046,
+        "wordCount": 19267
+      },
+      "author": "Franz Kafka",
+      "authorDeathYear": 1924,
+      "editionId": "kafka-die-verwandlung.de.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "de",
+      "originalLanguage": "de",
+      "originalPublicationYear": 1915,
+      "originalTitle": "Die Verwandlung",
+      "rights": {
+        "statement": "Public domain worldwide. Franz Kafka died in 1924 and the work was first published in 1915. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "22367",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:25:19.244198Z",
+        "revision": "Wed, 09 Sep 2026 13:36:52 GMT",
+        "url": "https://www.gutenberg.org/ebooks/22367"
+      },
+      "title": "Die Verwandlung",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kafka-die-verwandlung"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 10,
+        "contentSha256": "0c976a17aeb6095f955d41fff486cc18106334a2565b989986d7232dd7e86d51",
+        "encoding": "gzip",
+        "path": "books/de/kopernikus-nicolaus-coppernicus-aus-thorn-uber-die-kreisbewegungen.de.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "08b3495ec8d59527b6740161ba34cf4b5746fa7b0e055e53dab22c30cccda106",
+        "sizeBytes": 299183,
+        "uncompressedSizeBytes": 1033322,
+        "wordCount": 179186
+      },
+      "author": "Nikolaus Kopernikus",
+      "authorDeathYear": 1543,
+      "editionId": "kopernikus-nicolaus-coppernicus-aus-thorn-uber-die-kreisbewegungen.de.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "de",
+      "originalLanguage": "la",
+      "originalPublicationYear": 1543,
+      "originalTitle": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper",
+      "rights": {
+        "statement": "Public domain worldwide. Nikolaus Kopernikus died in 1543; the translator Karl Ludolf Menzzer died in 1893 and this translation was first published in 1879. Source: de.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:25:43.155538Z",
+        "revision": "3502885",
+        "url": "https://de.wikisource.org/wiki/Nicolaus_Coppernicus_aus_Thorn_%C3%BCber_die_Kreisbewegungen_der_Weltk%C3%B6rper"
+      },
+      "title": "Nicolaus Coppernicus aus Thorn über die Kreisbewegungen der Weltkörper",
+      "translationPublicationYear": 1879,
+      "translator": "Karl Ludolf Menzzer",
+      "translatorDeathYear": 1893,
+      "workId": "kopernikus-nicolaus-coppernicus-aus-thorn-uber-die-kreisbewegungen"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 132,
+        "contentSha256": "5c3b923453c1ccc93aba06c1f82d62b3318ba3b98c67e8f3c5a984e07b99f1e7",
+        "encoding": "gzip",
+        "path": "books/de/kyselak-skizzen-einer-fu-reise-durch-oesterreich-steiermark.de.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4b0633679bc86bd5c882f69bd1c357402f182636dcbf388a499e9669c4835a5c",
+        "sizeBytes": 167158,
+        "uncompressedSizeBytes": 425745,
+        "wordCount": 58003
+      },
+      "author": "Josef Kyselak",
+      "authorDeathYear": 1831,
+      "editionId": "kyselak-skizzen-einer-fu-reise-durch-oesterreich-steiermark.de.gutenberg",
+      "editionPublicationYear": 1829,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "de",
+      "originalLanguage": "de",
+      "originalPublicationYear": null,
+      "originalTitle": "Skizzen einer Fußreise durch Oesterreich, Steiermark, Kärnthen, Salzburg, Berchtesgaden, Tirol und Baiern nach Wien, : $b nebst einer romantisch pittoresken Darstellung mehrerer Ritterburgen und ihrer Volkssagen, Gebirgsgegenden und Eisglätscher auf dieser Wanderung, unternommen im Jahre 1825 von Joseph Kyselak. (2/2)",
+      "rights": {
+        "statement": "Public domain worldwide. Josef Kyselak died in 1831 and the edition digitised by Project Gutenberg was printed in 1829. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "78026",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:25:48.301232Z",
+        "revision": "Mon, 31 Aug 2026 07:38:15 GMT",
+        "url": "https://www.gutenberg.org/ebooks/78026"
+      },
+      "title": "Skizzen einer Fußreise durch Oesterreich, Steiermark, Kärnthen, Salzburg, Berchtesgaden, Tirol und Baiern nach Wien, : $b nebst einer romantisch pittoresken Darstellung mehrerer Ritterburgen und ihrer Volkssagen, Gebirgsgegenden und Eisglätscher auf dieser Wanderung, unternommen im Jahre 1825 von Joseph Kyselak. (2/2)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kyselak-skizzen-einer-fu-reise-durch-oesterreich-steiermark"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 29,
+        "contentSha256": "db0837bb79ee43c8c29539b77963344af3e47fd2feef858f4cfb946de16d0053",
+        "encoding": "gzip",
+        "path": "books/de/polenz-liebe-ist-ewig.de.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9027e2582ce565dd34e28251439eb7ad88191be22888b9047437d85cd347abec",
+        "sizeBytes": 220524,
+        "uncompressedSizeBytes": 591151,
+        "wordCount": 86818
+      },
+      "author": "Wilhelm von Polenz",
+      "authorDeathYear": 1903,
+      "editionId": "polenz-liebe-ist-ewig.de.gutenberg",
+      "editionPublicationYear": 1904,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "de",
+      "originalLanguage": "de",
+      "originalPublicationYear": null,
+      "originalTitle": "Liebe ist ewig : $b Roman",
+      "rights": {
+        "statement": "Public domain worldwide. Wilhelm von Polenz died in 1903 and the edition digitised by Project Gutenberg was printed in 1904. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "78125",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:26:12.680483Z",
+        "revision": "Mon, 31 Aug 2026 08:11:46 GMT",
+        "url": "https://www.gutenberg.org/ebooks/78125"
+      },
+      "title": "Liebe ist ewig : $b Roman",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "polenz-liebe-ist-ewig"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "ca1485ea5e44801217021409b56866c3a6f637dec81dcb74a7ff83fa667fd6fb",
+        "encoding": "gzip",
+        "path": "books/de/polidori-der-vampyr.de.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "83863257b253c619d1a817efff48c2d1fa3d610cbc241e3083d9d641ad8024d0",
+        "sizeBytes": 25663,
+        "uncompressedSizeBytes": 66239,
+        "wordCount": 9807
+      },
+      "author": "John Polidori",
+      "authorDeathYear": 1821,
+      "editionId": "polidori-der-vampyr.de.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "de",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1819,
+      "originalTitle": "Der Vampyr",
+      "rights": {
+        "statement": "Public domain worldwide. John Polidori died in 1821; the translator Leopold Voß died in 1868 and this translation was first published in 1819. Source: de.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Der Vampyr",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:26:15.993171Z",
+        "revision": "4424380",
+        "url": "https://de.wikisource.org/wiki/Der_Vampyr"
+      },
+      "title": "Der Vampyr",
+      "translationPublicationYear": 1819,
+      "translator": "Leopold Voß",
+      "translatorDeathYear": 1868,
+      "workId": "polidori-der-vampyr"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "5246b3856167db100e9a3b858341038344b23d16c9443ecafcc3db420a24e24e",
+        "encoding": "gzip",
+        "path": "books/de/sacher-masoch-venus-im-pelz.de.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c6526d0189a45c0aee6f9648aa1cb2ba3c50be7e85e3763bcbdb42721ef1611b",
+        "sizeBytes": 95506,
+        "uncompressedSizeBytes": 269675,
+        "wordCount": 39817
+      },
+      "author": "Leopold Sacher-Masoch",
+      "authorDeathYear": 1895,
+      "editionId": "sacher-masoch-venus-im-pelz.de.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "de",
+      "originalLanguage": "de",
+      "originalPublicationYear": 1870,
+      "originalTitle": "Venus im Pelz",
+      "rights": {
+        "statement": "Public domain worldwide. Leopold Sacher-Masoch died in 1895 and the work was first published in 1870. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "56156",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:26:18.696269Z",
+        "revision": "Sat, 22 Aug 2026 14:28:28 GMT",
+        "url": "https://www.gutenberg.org/ebooks/56156"
+      },
+      "title": "Venus im Pelz",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "sacher-masoch-venus-im-pelz"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "a51dc231cff16f452d1ff45d909cb5787f61115fbc0164791629ccce2e3e1872",
+        "encoding": "gzip",
+        "path": "books/de/salten-josefine-mutzenbacher-oder-die-geschichte-einer-wienerischen.de.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "fb21939a77e6fe7338984e6c13598a3d742e8f51059b7d4a11a39ad8d2204fa3",
+        "sizeBytes": 146976,
+        "uncompressedSizeBytes": 440217,
+        "wordCount": 69488
+      },
+      "author": "Felix Salten",
+      "authorDeathYear": 1945,
+      "editionId": "salten-josefine-mutzenbacher-oder-die-geschichte-einer-wienerischen.de.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "de",
+      "originalLanguage": "de",
+      "originalPublicationYear": 1906,
+      "originalTitle": "Josefine Mutzenbacher oder Die Geschichte einer Wienerischen Dirne von ihr selbst erzählt",
+      "rights": {
+        "statement": "Public domain worldwide. Felix Salten died in 1945 and the work was first published in 1906. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "31284",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:26:21.878383Z",
+        "revision": "Sun, 13 Sep 2026 07:48:41 GMT",
+        "url": "https://www.gutenberg.org/ebooks/31284"
+      },
+      "title": "Josefine Mutzenbacher oder Die Geschichte einer Wienerischen Dirne von ihr selbst erzählt",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "salten-josefine-mutzenbacher-oder-die-geschichte-einer-wienerischen"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "f1368fcb874d9c4fc8ae86c437de1b896e9f7961884d01f828d53e844afd023a",
+        "encoding": "gzip",
+        "path": "books/de/samosata-der-lugenfreund-oder-der-unglaubige.de.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0fd99250bf20b3d08f5f363c0717ebc32127b5e0fb17899f4b65f303d0be2854",
+        "sizeBytes": 22439,
+        "uncompressedSizeBytes": 56507,
+        "wordCount": 8502
+      },
+      "author": "Lukian von Samosata",
+      "authorDeathYear": 180,
+      "editionId": "samosata-der-lugenfreund-oder-der-unglaubige.de.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "de",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Der Lügenfreund oder der Ungläubige",
+      "rights": {
+        "statement": "Public domain worldwide. Lukian von Samosata died in 180; the translator August Friedrich Pauly died in 1845 and this translation was first published in 1830. Source: de.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Der Lügenfreund oder der Ungläubige",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:26:24.527931Z",
+        "revision": "3436113",
+        "url": "https://de.wikisource.org/wiki/Der_L%C3%BCgenfreund_oder_der_Ungl%C3%A4ubige"
+      },
+      "title": "Der Lügenfreund oder der Ungläubige",
+      "translationPublicationYear": 1830,
+      "translator": "August Friedrich Pauly",
+      "translatorDeathYear": 1845,
+      "workId": "samosata-der-lugenfreund-oder-der-unglaubige"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "a88046291ed56ec8d0fac1eeb972ac7213e65e3dea256bfaec551983ba0fabe4",
+        "encoding": "gzip",
+        "path": "books/de/samosata-der-tod-des-peregrinus.de.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0606f0cd12ae39b45150e350fdf06369c983d3f95d7c20cec8bb7aa61101f13d",
+        "sizeBytes": 17045,
+        "uncompressedSizeBytes": 41330,
+        "wordCount": 6154
+      },
+      "author": "Lukian von Samosata",
+      "authorDeathYear": 180,
+      "editionId": "samosata-der-tod-des-peregrinus.de.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "de",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Der Tod des Peregrinus",
+      "rights": {
+        "statement": "Public domain worldwide. Lukian von Samosata died in 180; the translator August Friedrich Pauly died in 1845 and this translation was first published in 1831. Source: de.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Der Tod des Peregrinus",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:26:26.104866Z",
+        "revision": "3449402",
+        "url": "https://de.wikisource.org/wiki/Der_Tod_des_Peregrinus"
+      },
+      "title": "Der Tod des Peregrinus",
+      "translationPublicationYear": 1831,
+      "translator": "August Friedrich Pauly",
+      "translatorDeathYear": 1845,
+      "workId": "samosata-der-tod-des-peregrinus"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "1b86907bac92dce92c02a376d5ea75194e9ec42f894709fac8cff6e7ed66bd5f",
+        "encoding": "gzip",
+        "path": "books/de/samosata-die-syrische-gottin.de.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "7e7ed07c25ba7cb701533d7379d89600cda1647595a881e665795dd1dbce29ea",
+        "sizeBytes": 20775,
+        "uncompressedSizeBytes": 53735,
+        "wordCount": 8219
+      },
+      "author": "Lukian von Samosata",
+      "authorDeathYear": 180,
+      "editionId": "samosata-die-syrische-gottin.de.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "de",
+      "originalLanguage": "grc",
+      "originalPublicationYear": 200,
+      "originalTitle": "Die Syrische Göttin",
+      "rights": {
+        "statement": "Public domain worldwide. Lukian von Samosata died in 180; the translator August Friedrich Pauly died in 1845 and this translation was first published in 1831. Source: de.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Die Syrische Göttin",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:26:27.741558Z",
+        "revision": "3569203",
+        "url": "https://de.wikisource.org/wiki/Die_Syrische_G%C3%B6ttin"
+      },
+      "title": "Die Syrische Göttin",
+      "translationPublicationYear": 1831,
+      "translator": "August Friedrich Pauly",
+      "translatorDeathYear": 1845,
+      "workId": "samosata-die-syrische-gottin"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "3889b590eaf74e7227bb87ba7dd4ce1aba0e8cdf6b7bbc7cf928cb238c906e2d",
+        "encoding": "gzip",
+        "path": "books/de/samosata-todtengesprache.de.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e0ccf62402e06f8e1d7ba387a011ac92eb1a24cdac3062f4a30a1b9bf3b2d3cc",
+        "sizeBytes": 40587,
+        "uncompressedSizeBytes": 108216,
+        "wordCount": 15899
+      },
+      "author": "Lukian von Samosata",
+      "authorDeathYear": 180,
+      "editionId": "samosata-todtengesprache.de.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "de",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Todtengespräche",
+      "rights": {
+        "statement": "Public domain worldwide. Lukian von Samosata died in 180; the translator August Friedrich Pauly died in 1845 and this translation was first published in 1827. Source: de.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Todtengespräche",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:26:31.059960Z",
+        "revision": "1756392",
+        "url": "https://de.wikisource.org/wiki/Todtengespr%C3%A4che"
+      },
+      "title": "Todtengespräche",
+      "translationPublicationYear": 1827,
+      "translator": "August Friedrich Pauly",
+      "translatorDeathYear": 1845,
+      "workId": "samosata-todtengesprache"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "d3a8e9470b976427b67229f4c2a9fbac29b69d5ea2488b0fad222f5eae9e7752",
+        "encoding": "gzip",
+        "path": "books/de/samosata-wahre-geschichten.de.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4d465c45adb8557397581034b63fc2ad881c2d01b93edcb7aac0a7c0844e8cce",
+        "sizeBytes": 40619,
+        "uncompressedSizeBytes": 104037,
+        "wordCount": 15396
+      },
+      "author": "Lukian von Samosata",
+      "authorDeathYear": 180,
+      "editionId": "samosata-wahre-geschichten.de.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "translation",
+      "language": "de",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Wahre Geschichten",
+      "rights": {
+        "statement": "Public domain worldwide. Lukian von Samosata died in 180; the translator August Friedrich Pauly died in 1845 and this translation was first published in 1827. Source: de.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Wahre Geschichten",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T02:26:33.014831Z",
+        "revision": "2157561",
+        "url": "https://de.wikisource.org/wiki/Wahre_Geschichten"
+      },
+      "title": "Wahre Geschichten",
+      "translationPublicationYear": 1827,
+      "translator": "August Friedrich Pauly",
+      "translatorDeathYear": 1845,
+      "workId": "samosata-wahre-geschichten"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 29,
+        "contentSha256": "071837d712d9518954c7baa78f57f5307b84033768628ecc34fd2150a3870433",
+        "encoding": "gzip",
+        "path": "books/de/verworn-allgemeine-physiologie.de.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4b6011431c40253b3e739aa1c91efdd182b36cd6f07a92cdc1f938a149c1f080",
+        "sizeBytes": 629599,
+        "uncompressedSizeBytes": 2006321,
+        "wordCount": 266601
+      },
+      "author": "Max Verworn",
+      "authorDeathYear": 1921,
+      "editionId": "verworn-allgemeine-physiologie.de.gutenberg",
+      "editionPublicationYear": 1909,
+      "genres": [
+        "Science",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "de",
+      "originalLanguage": "de",
+      "originalPublicationYear": null,
+      "originalTitle": "Allgemeine Physiologie",
+      "rights": {
+        "statement": "Public domain worldwide. Max Verworn died in 1921 and the edition digitised by Project Gutenberg was printed in 1909. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "78079",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T02:26:40.334002Z",
+        "revision": "Mon, 31 Aug 2026 08:01:14 GMT",
+        "url": "https://www.gutenberg.org/ebooks/78079"
+      },
+      "title": "Allgemeine Physiologie",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "verworn-allgemeine-physiologie"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "German",
+  "language": "de",
+  "manifestVersion": "9d8551d62b269a4a",
+  "nativeName": "Deutsch",
+  "schemaVersion": 1
+}

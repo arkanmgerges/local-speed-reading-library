@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:26.947150Z",
+    "chapterCount": 5,
+    "contentSha256": "de0eabf79c9f184002ace5640cb4ab661fe8402030991713e4f087bd225a4f6b",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/scharling-ved-nytaarstid-i-noddebo-pr-stegaard.da.gutenberg/v1/book.json.gz",
+    "sha256": "9c2bfc5c219bb8e1a303de2e81a4576c56c76c2d2c50543c07a67c06db51f9fb",
+    "sizeBytes": 174786,
+    "uncompressedSizeBytes": 493825,
+    "wordCount": 83087
+  },
+  "edition": {
+    "editionId": "scharling-ved-nytaarstid-i-noddebo-pr-stegaard.da.gutenberg",
+    "kind": "original",
+    "language": "da",
+    "title": "Ved Nytaarstid i Nøddebo Præstegaard"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1920: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1862: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/38220",
+      "https://da.wikipedia.org/wiki/Henrik_Scharling",
+      "https://www.wikidata.org/wiki/Q29526392"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. C. Henrik Scharling died in 1920 and the work was first published in 1862. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "38220",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:23:04.002904Z",
+    "revision": "Tue, 15 Sep 2026 19:58:44 GMT",
+    "url": "https://www.gutenberg.org/ebooks/38220"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1836,
+      "deathYear": 1920,
+      "name": "C. Henrik Scharling",
+      "wikidata": "Q1528393"
+    },
+    "originalLanguage": "da",
+    "originalPublicationYear": 1862,
+    "originalTitle": "Ved Nytaarstid i Nøddebo Præstegaard",
+    "workId": "scharling-ved-nytaarstid-i-noddebo-pr-stegaard"
+  }
+}

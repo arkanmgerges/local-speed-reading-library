@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:22:58.317903Z",
+    "chapterCount": 29,
+    "contentSha256": "db0837bb79ee43c8c29539b77963344af3e47fd2feef858f4cfb946de16d0053",
+    "normalizerVersion": "0.2.0",
+    "path": "books/de/polenz-liebe-ist-ewig.de.gutenberg/v1/book.json.gz",
+    "sha256": "9027e2582ce565dd34e28251439eb7ad88191be22888b9047437d85cd347abec",
+    "sizeBytes": 220524,
+    "uncompressedSizeBytes": 591151,
+    "wordCount": 86818
+  },
+  "edition": {
+    "editionId": "polenz-liebe-ist-ewig.de.gutenberg",
+    "editionPublicationYear": 1904,
+    "kind": "original",
+    "language": "de",
+    "title": "Liebe ist ewig : $b Roman"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1903: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1904 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/78125",
+      "https://de.wikipedia.org/wiki/Wilhelm_von_Polenz"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Wilhelm von Polenz died in 1903 and the edition digitised by Project Gutenberg was printed in 1904. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "78125",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:26:12.680483Z",
+    "revision": "Mon, 31 Aug 2026 08:11:46 GMT",
+    "url": "https://www.gutenberg.org/ebooks/78125"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1861,
+      "deathYear": 1903,
+      "name": "Wilhelm von Polenz",
+      "wikidata": "Q1555222"
+    },
+    "originalLanguage": "de",
+    "originalTitle": "Liebe ist ewig : $b Roman",
+    "workId": "polenz-liebe-ist-ewig"
+  }
+}

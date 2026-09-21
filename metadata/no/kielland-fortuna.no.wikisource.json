@@ -1,0 +1,133 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:31:58.957830Z",
+    "chapterCount": 15,
+    "contentSha256": "ebfc6fb50f404226160b68ac00a21e08b6a0035e607a4113865dcd07c972fbcf",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/kielland-fortuna.no.wikisource/v1/book.json.gz",
+    "sha256": "2ffe31b7a1c52e667437f409d90183a7f7818e83326cc8cd70ff1b1806f22e81",
+    "sizeBytes": 114268,
+    "uncompressedSizeBytes": 317548,
+    "wordCount": 50584
+  },
+  "edition": {
+    "editionId": "kielland-fortuna.no.wikisource",
+    "kind": "original",
+    "language": "no",
+    "title": "Fortuna"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1906: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1884: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q11969715",
+      "https://www.wikidata.org/wiki/Q318358",
+      "https://no.wikisource.org/wiki/Fortuna"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Alexander Kielland died in 1906 and the work was first published in 1884. Source: no.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Fortuna",
+    "pages": [
+      {
+        "revision": 65578,
+        "title": "Fortuna"
+      },
+      {
+        "revision": 64347,
+        "title": "Fortuna/1"
+      },
+      {
+        "revision": 64385,
+        "title": "Fortuna/2"
+      },
+      {
+        "revision": 64404,
+        "title": "Fortuna/3"
+      },
+      {
+        "revision": 64456,
+        "title": "Fortuna/4"
+      },
+      {
+        "revision": 64471,
+        "title": "Fortuna/5"
+      },
+      {
+        "revision": 64566,
+        "title": "Fortuna/6"
+      },
+      {
+        "revision": 64901,
+        "title": "Fortuna/7"
+      },
+      {
+        "revision": 64972,
+        "title": "Fortuna/8"
+      },
+      {
+        "revision": 65028,
+        "title": "Fortuna/9"
+      },
+      {
+        "revision": 65184,
+        "title": "Fortuna/10"
+      },
+      {
+        "revision": 65275,
+        "title": "Fortuna/11"
+      },
+      {
+        "revision": 65286,
+        "title": "Fortuna/12"
+      },
+      {
+        "revision": 65301,
+        "title": "Fortuna/13"
+      },
+      {
+        "revision": 65327,
+        "title": "Fortuna/14"
+      },
+      {
+        "revision": 65339,
+        "title": "Fortuna/15"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:17:47.248833Z",
+    "revision": "65578",
+    "site": "no.wikisource.org",
+    "url": "https://no.wikisource.org/wiki/Fortuna"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1849,
+      "deathYear": 1906,
+      "name": "Alexander Kielland",
+      "wikidata": "Q318358"
+    },
+    "originalLanguage": "no",
+    "originalPublicationYear": 1884,
+    "originalTitle": "Fortuna",
+    "workId": "kielland-fortuna"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:02:44.156843Z",
+    "chapterCount": 22,
+    "contentSha256": "c2a23857cccf8dbbbd16532bd41b5cd9716ccac688da4f1a0a33df30e1b7a1fe",
+    "normalizerVersion": "0.2.0",
+    "path": "books/no/doyle-den-forsvundne-verden.no.wikisource/v1/book.json.gz",
+    "sha256": "d7f2bfe9417c5f23684597b3e0359837b5e4e9cdf9fd9af7615fc0e2e5744d44",
+    "sizeBytes": 153817,
+    "uncompressedSizeBytes": 424128,
+    "wordCount": 70223
+  },
+  "edition": {
+    "editionId": "doyle-den-forsvundne-verden.no.wikisource",
+    "kind": "translation",
+    "language": "no",
+    "title": "Den forsvundne verden",
+    "translationPublicationYear": 1913,
+    "translator": {
+      "birthYear": 1855,
+      "deathYear": 1915,
+      "name": "Elisabeth Brochmann",
+      "wikidata": "Q71406581"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1915: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1913: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q785255",
+      "https://www.wikidata.org/wiki/Q140782047",
+      "https://www.wikidata.org/wiki/Q35610",
+      "https://www.wikidata.org/wiki/Q71406581",
+      "https://no.wikisource.org/wiki/Den_forsvundne_verden"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Arthur Conan Doyle died in 1930; the translator Elisabeth Brochmann died in 1915 and this translation was first published in 1913. Source: no.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Den forsvundne verden",
+    "pages": [
+      {
+        "revision": 329878,
+        "title": "Den forsvundne verden"
+      },
+      {
+        "revision": 326905,
+        "title": "Den forsvundne verden/01"
+      },
+      {
+        "revision": 326904,
+        "title": "Den forsvundne verden/02"
+      },
+      {
+        "revision": 326903,
+        "title": "Den forsvundne verden/03"
+      },
+      {
+        "revision": 327438,
+        "title": "Den forsvundne verden/04"
+      },
+      {
+        "revision": 327437,
+        "title": "Den forsvundne verden/05"
+      },
+      {
+        "revision": 327483,
+        "title": "Den forsvundne verden/06"
+      },
+      {
+        "revision": 327512,
+        "title": "Den forsvundne verden/07"
+      },
+      {
+        "revision": 327549,
+        "title": "Den forsvundne verden/08"
+      },
+      {
+        "revision": 327594,
+        "title": "Den forsvundne verden/09"
+      },
+      {
+        "revision": 327627,
+        "title": "Den forsvundne verden/10"
+      },
+      {
+        "revision": 327662,
+        "title": "Den forsvundne verden/11"
+      },
+      {
+        "revision": 327698,
+        "title": "Den forsvundne verden/12"
+      },
+      {
+        "revision": 327807,
+        "title": "Den forsvundne verden/13"
+      },
+      {
+        "revision": 327847,
+        "title": "Den forsvundne verden/14"
+      },
+      {
+        "revision": 328159,
+        "title": "Den forsvundne verden/15"
+      },
+      {
+        "revision": 328201,
+        "title": "Den forsvundne verden/16"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:14:42.829846Z",
+    "revision": "329878",
+    "site": "no.wikisource.org",
+    "url": "https://no.wikisource.org/wiki/Den_forsvundne_verden"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1859,
+      "deathYear": 1930,
+      "name": "Arthur Conan Doyle",
+      "wikidata": "Q35610"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1912,
+    "originalTitle": "Den forsvundne verden",
+    "workId": "doyle-den-forsvundne-verden"
+  }
+}

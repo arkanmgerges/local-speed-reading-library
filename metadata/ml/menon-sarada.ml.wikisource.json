@@ -1,0 +1,121 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:19.252623Z",
+    "chapterCount": 12,
+    "contentSha256": "745a2108b1ef32056650ce82e68133a0725131b7aa99ea82a722e11394e26395",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ml/menon-sarada.ml.wikisource/v1/book.json.gz",
+    "sha256": "e93c0e6947ad7821c899e676213210b24477208ac7322ad7d0a5eb67fc320e9f",
+    "sizeBytes": 138169,
+    "uncompressedSizeBytes": 853136,
+    "wordCount": 32795
+  },
+  "edition": {
+    "editionId": "menon-sarada.ml.wikisource",
+    "kind": "original",
+    "language": "ml",
+    "title": "ശാരദ (നോവൽ)"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1899: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1892: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q7421961",
+      "https://www.wikidata.org/wiki/Q7116396",
+      "https://ml.wikisource.org/wiki/%E0%B4%B6%E0%B4%BE%E0%B4%B0%E0%B4%A6"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ഒ. ചന്തുമേനോൻ died in 1899 and the work was first published in 1892. Source: ml.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "ശാരദ",
+    "pages": [
+      {
+        "revision": 139633,
+        "title": "ശാരദ"
+      },
+      {
+        "revision": 38458,
+        "title": "ശാരദ/പീഠിക"
+      },
+      {
+        "revision": 38490,
+        "title": "ശാരദ/ഒന്നാം അദ്ധ്യായം"
+      },
+      {
+        "revision": 38491,
+        "title": "ശാരദ/രണ്ടാം അദ്ധ്യായം"
+      },
+      {
+        "revision": 38492,
+        "title": "ശാരദ/മൂന്നാം അദ്ധ്യായം"
+      },
+      {
+        "revision": 38493,
+        "title": "ശാരദ/നാലാം അദ്ധ്യായം"
+      },
+      {
+        "revision": 38494,
+        "title": "ശാരദ/അഞ്ചാം അദ്ധ്യായം"
+      },
+      {
+        "revision": 38495,
+        "title": "ശാരദ/ആറാം അദ്ധ്യായം"
+      },
+      {
+        "revision": 38496,
+        "title": "ശാരദ/ഏഴാം അദ്ധ്യായം"
+      },
+      {
+        "revision": 38497,
+        "title": "ശാരദ/എട്ടാം അദ്ധ്യായം"
+      },
+      {
+        "revision": 38498,
+        "title": "ശാരദ/ഒമ്പതാം അദ്ധ്യായം"
+      },
+      {
+        "revision": 38499,
+        "title": "ശാരദ/പത്താം അദ്ധ്യായം"
+      },
+      {
+        "revision": 38500,
+        "title": "ശാരദ/പതിനൊന്നാം അദ്ധ്യായം"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:00:25.953484Z",
+    "revision": "139633",
+    "site": "ml.wikisource.org",
+    "url": "https://ml.wikisource.org/wiki/%E0%B4%B6%E0%B4%BE%E0%B4%B0%E0%B4%A6"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1847,
+      "deathYear": 1899,
+      "name": "ഒ. ചന്തുമേനോൻ",
+      "wikidata": "Q7116396"
+    },
+    "originalLanguage": "ml",
+    "originalPublicationYear": 1892,
+    "originalTitle": "ശാരദ (നോവൽ)",
+    "workId": "menon-sarada"
+  }
+}

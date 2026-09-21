@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:22.855212Z",
+    "chapterCount": 1,
+    "contentSha256": "b954b649d2672a97c5a8af4b5e52267e18a41e011cddee1490942389b60d3b4e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ja/akutagawa-autumn.ja.wikisource/v1/book.json.gz",
+    "sha256": "c3d88d0945e57faae97b5adf01862d8666b502a4366cd201893ad93726c4d329",
+    "sizeBytes": 14111,
+    "uncompressedSizeBytes": 37031,
+    "wordCount": 69
+  },
+  "edition": {
+    "editionId": "akutagawa-autumn.ja.wikisource",
+    "kind": "original",
+    "language": "ja",
+    "title": "秋"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1927: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1920: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q11594779",
+      "https://www.wikidata.org/wiki/Q186326",
+      "https://ja.wikisource.org/wiki/%E7%A7%8B_(%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 芥川龍之介 died in 1927 and the work was first published in 1920. Source: ja.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "秋 (芥川龍之介)",
+    "pages": [
+      {
+        "revision": 144145,
+        "title": "秋 (芥川龍之介)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:49:37.907053Z",
+    "revision": "144145",
+    "site": "ja.wikisource.org",
+    "url": "https://ja.wikisource.org/wiki/%E7%A7%8B_(%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1892,
+      "deathYear": 1927,
+      "name": "芥川龍之介",
+      "wikidata": "Q186326"
+    },
+    "originalLanguage": "ja",
+    "originalPublicationYear": 1920,
+    "originalTitle": "秋",
+    "workId": "akutagawa-autumn"
+  }
+}

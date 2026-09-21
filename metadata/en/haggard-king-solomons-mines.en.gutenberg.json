@@ -1,12 +1,12 @@
 {
   "asset": {
-    "assetVersion": 1,
-    "builtAt": "2026-09-20T19:09:29.260286Z",
+    "assetVersion": 2,
+    "builtAt": "2026-09-21T06:23:55.971927Z",
     "chapterCount": 24,
-    "contentSha256": "c9131c7e06000ad5ec4c2f3d7f9631c33a23953c0b13d99ffcd1d21a05eb06d2",
-    "normalizerVersion": "0.1.0",
-    "path": "books/en/haggard-king-solomons-mines.en.gutenberg/v1/book.json.gz",
-    "sha256": "3377d494e5f3220b969bfecc2f0078ab1838581cbf86c8e6e32201e472e5743e",
+    "contentSha256": "b690c6365ba89019d178ee90ed39776e65372a7cbc7ec590a5898a0cea93a184",
+    "normalizerVersion": "0.2.0",
+    "path": "books/en/haggard-king-solomons-mines.en.gutenberg/v2/book.json.gz",
+    "sha256": "1ae5a082a59f196d9fbbbe67c072133c12cf5b81d492ce3e0d6d3564717fee8f",
     "sizeBytes": 167811,
     "uncompressedSizeBytes": 463712,
     "wordCount": 81257
@@ -21,7 +21,7 @@
     "Fiction"
   ],
   "publish": {
-    "assetVersion": 1
+    "assetVersion": 2
   },
   "rights": {
     "basis": [

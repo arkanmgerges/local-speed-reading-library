@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:44.219856Z",
+    "chapterCount": 77,
+    "contentSha256": "3e117e9502e4e1c24799c50a360309a4753caccfde76c574666366596a3f4b6a",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ru/stoker-dracula.ru.wikisource/v1/book.json.gz",
+    "sha256": "dc798f64656bceb5be89a278fd021b563522ccb4d49dcec98daa129b705d351d",
+    "sizeBytes": 160814,
+    "uncompressedSizeBytes": 611125,
+    "wordCount": 51062
+  },
+  "edition": {
+    "editionId": "stoker-dracula.ru.wikisource",
+    "kind": "translation",
+    "language": "ru",
+    "title": "Вампир",
+    "translationPublicationYear": 1912,
+    "translator": {
+      "birthYear": 1890,
+      "deathYear": 1930,
+      "name": "Н. Сандрова",
+      "wikidata": "Q58071007"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1912: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1912: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q41542",
+      "https://www.wikidata.org/wiki/Q58070919",
+      "https://www.wikidata.org/wiki/Q36184",
+      "https://www.wikidata.org/wiki/Q58071007",
+      "https://ru.wikisource.org/wiki/%D0%92%D0%B0%D0%BC%D0%BF%D0%B8%D1%80_(%D0%A1%D1%82%D0%BE%D0%BA%D0%B5%D1%80%3B_%D0%A1%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Брэм Стокер died in 1912; the translator Н. Сандрова died in 1930 and this translation was first published in 1912. Source: ru.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Вампир (Стокер; Сандрова)",
+    "pages": [
+      {
+        "revision": 4715329,
+        "title": "Вампир (Стокер; Сандрова)"
+      },
+      {
+        "revision": 5633362,
+        "title": "Вампир (Стокер; Сандрова)/Глава I"
+      },
+      {
+        "revision": 5614431,
+        "title": "Вампир (Стокер; Сандрова)/Глава II"
+      },
+      {
+        "revision": 5633308,
+        "title": "Вампир (Стокер; Сандрова)/Глава III"
+      },
+      {
+        "revision": 5614432,
+        "title": "Вампир (Стокер; Сандрова)/Глава IV"
+      },
+      {
+        "revision": 5614434,
+        "title": "Вампир (Стокер; Сандрова)/Глава V"
+      },
+      {
+        "revision": 5614435,
+        "title": "Вампир (Стокер; Сандрова)/Глава VI"
+      },
+      {
+        "revision": 5633309,
+        "title": "Вампир (Стокер; Сандрова)/Глава VII"
+      },
+      {
+        "revision": 5633426,
+        "title": "Вампир (Стокер; Сандрова)/Глава VIII"
+      },
+      {
+        "revision": 5614433,
+        "title": "Вампир (Стокер; Сандрова)/Глава IX"
+      },
+      {
+        "revision": 5614436,
+        "title": "Вампир (Стокер; Сандрова)/Глава X"
+      },
+      {
+        "revision": 5633427,
+        "title": "Вампир (Стокер; Сандрова)/Глава XI"
+      },
+      {
+        "revision": 5638436,
+        "title": "Вампир (Стокер; Сандрова)/Глава XII"
+      },
+      {
+        "revision": 5633310,
+        "title": "Вампир (Стокер; Сандрова)/Глава XIII"
+      },
+      {
+        "revision": 5614437,
+        "title": "Вампир (Стокер; Сандрова)/Глава XIV"
+      },
+      {
+        "revision": 5614438,
+        "title": "Вампир (Стокер; Сандрова)/Глава XV"
+      },
+      {
+        "revision": 5614439,
+        "title": "Вампир (Стокер; Сандрова)/Глава XVI"
+      },
+      {
+        "revision": 5614440,
+        "title": "Вампир (Стокер; Сандрова)/Глава XVII"
+      },
+      {
+        "revision": 5614441,
+        "title": "Вампир (Стокер; Сандрова)/Глава XVIII"
+      },
+      {
+        "revision": 5633311,
+        "title": "Вампир (Стокер; Сандрова)/Глава XIX"
+      },
+      {
+        "revision": 5633312,
+        "title": "Вампир (Стокер; Сандрова)/Глава XX"
+      },
+      {
+        "revision": 5633363,
+        "title": "Вампир (Стокер; Сандрова)/Глава XXI"
+      },
+      {
+        "revision": 5633313,
+        "title": "Вампир (Стокер; Сандрова)/Глава XXII"
+      },
+      {
+        "revision": 5614442,
+        "title": "Вампир (Стокер; Сандрова)/Глава XXIII"
+      },
+      {
+        "revision": 5633314,
+        "title": "Вампир (Стокер; Сандрова)/Глава XXIV"
+      },
+      {
+        "revision": 5614443,
+        "title": "Вампир (Стокер; Сандрова)/Глава XXV"
+      },
+      {
+        "revision": 5633315,
+        "title": "Вампир (Стокер; Сандрова)/Глава XXVI"
+      },
+      {
+        "revision": 5633316,
+        "title": "Вампир (Стокер; Сандрова)/Послесловие"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:55:04.438549Z",
+    "revision": "4715329",
+    "site": "ru.wikisource.org",
+    "url": "https://ru.wikisource.org/wiki/%D0%92%D0%B0%D0%BC%D0%BF%D0%B8%D1%80_(%D0%A1%D1%82%D0%BE%D0%BA%D0%B5%D1%80%3B_%D0%A1%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1847,
+      "deathYear": 1912,
+      "name": "Bram Stoker",
+      "wikidata": "Q36184"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1897,
+    "originalTitle": "Dracula",
+    "workId": "stoker-dracula"
+  }
+}

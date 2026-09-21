@@ -1,0 +1,155 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:19.898074Z",
+    "chapterCount": 18,
+    "contentSha256": "196cad56725eebab9748e4580239be211a2c78d6077957f5e0b93ab323db6edf",
+    "normalizerVersion": "0.2.0",
+    "path": "books/it/platone-critone.it.wikisource/v1/book.json.gz",
+    "sha256": "90bad18347d1d500805a769409211a5f65c2f34838a93c286befbfaa12721fe7",
+    "sizeBytes": 21052,
+    "uncompressedSizeBytes": 59010,
+    "wordCount": 8898
+  },
+  "edition": {
+    "editionId": "platone-critone.it.wikisource",
+    "kind": "translation",
+    "language": "it",
+    "title": "Critone",
+    "translationPublicationYear": 1925,
+    "translator": {
+      "birthYear": 1834,
+      "deathYear": 1913,
+      "name": "Francesco Acri",
+      "wikidata": "Q74764"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -348: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1913: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1925: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q267634",
+      "https://www.wikidata.org/wiki/Q19759147",
+      "https://www.wikidata.org/wiki/Q859",
+      "https://www.wikidata.org/wiki/Q74764",
+      "https://it.wikisource.org/wiki/Critone"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Platone died in -348; the translator Francesco Acri died in 1913 and this translation was first published in 1925. Source: it.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Critone",
+    "pages": [
+      {
+        "revision": 3798049,
+        "title": "Critone"
+      },
+      {
+        "revision": 3680961,
+        "title": "Critone/Introduzione"
+      },
+      {
+        "revision": 3680944,
+        "title": "Critone/Capitolo I"
+      },
+      {
+        "revision": 3680945,
+        "title": "Critone/Capitolo II"
+      },
+      {
+        "revision": 3838104,
+        "title": "Critone/Capitolo III"
+      },
+      {
+        "revision": 3680947,
+        "title": "Critone/Capitolo IV"
+      },
+      {
+        "revision": 3680949,
+        "title": "Critone/Capitolo V"
+      },
+      {
+        "revision": 3680950,
+        "title": "Critone/Capitolo VI"
+      },
+      {
+        "revision": 3680951,
+        "title": "Critone/Capitolo VII"
+      },
+      {
+        "revision": 3680952,
+        "title": "Critone/Capitolo VIII"
+      },
+      {
+        "revision": 3680948,
+        "title": "Critone/Capitolo IX"
+      },
+      {
+        "revision": 3680953,
+        "title": "Critone/Capitolo X"
+      },
+      {
+        "revision": 3680954,
+        "title": "Critone/Capitolo XI"
+      },
+      {
+        "revision": 3680955,
+        "title": "Critone/Capitolo XII"
+      },
+      {
+        "revision": 3680956,
+        "title": "Critone/Capitolo XIII"
+      },
+      {
+        "revision": 3680957,
+        "title": "Critone/Capitolo XIV"
+      },
+      {
+        "revision": 3680958,
+        "title": "Critone/Capitolo XV"
+      },
+      {
+        "revision": 3836814,
+        "title": "Critone/Capitolo XVI"
+      },
+      {
+        "revision": 3680960,
+        "title": "Critone/Capitolo XVII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:47:15.590742Z",
+    "revision": "3798049",
+    "site": "it.wikisource.org",
+    "url": "https://it.wikisource.org/wiki/Critone"
+  },
+  "work": {
+    "author": {
+      "birthYear": -428,
+      "deathYear": -348,
+      "name": "Platone",
+      "wikidata": "Q859"
+    },
+    "originalLanguage": "grc",
+    "originalPublicationYear": -400,
+    "originalTitle": "Critone",
+    "workId": "platone-critone"
+  }
+}

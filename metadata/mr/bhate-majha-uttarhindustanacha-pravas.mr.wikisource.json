@@ -1,0 +1,97 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:30.938885Z",
+    "chapterCount": 7,
+    "contentSha256": "29a587ae51e4205b46923dd64cc590833b89e8075039306674acc7b1c73067b0",
+    "normalizerVersion": "0.2.0",
+    "path": "books/mr/bhate-majha-uttarhindustanacha-pravas.mr.wikisource/v1/book.json.gz",
+    "sha256": "12f62ab878f4a6fb08b7fe26e87bd6a679b80178cb7928e4888498753965e4d6",
+    "sizeBytes": 93332,
+    "uncompressedSizeBytes": 494553,
+    "wordCount": 26989
+  },
+  "edition": {
+    "editionId": "bhate-majha-uttarhindustanacha-pravas.mr.wikisource",
+    "kind": "original",
+    "language": "mr",
+    "title": "माझा उत्तरहिंदुस्तानचा प्रवास"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1920: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q131579225",
+      "https://www.wikidata.org/wiki/Q31738102",
+      "https://mr.wikisource.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%9D%E0%A4%BE_%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%9A%E0%A4%BE_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B8"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. गोविंद चिमणाजी भाटे died in 1946 and the work was first published in 1920. Source: mr.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "माझा उत्तरहिंदुस्तानचा प्रवास",
+    "pages": [
+      {
+        "revision": 234035,
+        "title": "माझा उत्तरहिंदुस्तानचा प्रवास"
+      },
+      {
+        "revision": 234039,
+        "title": "माझा उत्तरहिंदुस्तानचा प्रवास/नैनिताल"
+      },
+      {
+        "revision": 234038,
+        "title": "माझा उत्तरहिंदुस्तानचा प्रवास/ग्वालेर"
+      },
+      {
+        "revision": 234041,
+        "title": "माझा उत्तरहिंदुस्तानचा प्रवास/हरिद्वार किंवा गंगाद्वार"
+      },
+      {
+        "revision": 234037,
+        "title": "माझा उत्तरहिंदुस्तानचा प्रवास/गुरुकुल"
+      },
+      {
+        "revision": 234040,
+        "title": "माझा उत्तरहिंदुस्तानचा प्रवास/मथुरावृंदावन"
+      },
+      {
+        "revision": 234036,
+        "title": "माझा उत्तरहिंदुस्तानचा प्रवास/कृष्णकथा व वैष्णवपंथ"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:02:57.465952Z",
+    "revision": "234035",
+    "site": "mr.wikisource.org",
+    "url": "https://mr.wikisource.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%9D%E0%A4%BE_%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%9A%E0%A4%BE_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B8"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1870,
+      "deathYear": 1946,
+      "name": "गोविंद चिमणाजी भाटे",
+      "wikidata": "Q31738102"
+    },
+    "originalLanguage": "mr",
+    "originalPublicationYear": 1920,
+    "originalTitle": "माझा उत्तरहिंदुस्तानचा प्रवास",
+    "workId": "bhate-majha-uttarhindustanacha-pravas"
+  }
+}

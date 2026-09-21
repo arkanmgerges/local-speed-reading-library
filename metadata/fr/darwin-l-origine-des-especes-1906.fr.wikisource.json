@@ -1,0 +1,159 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:57:09.898093Z",
+    "chapterCount": 19,
+    "contentSha256": "659b2989675db33005e0509307108842dbc9856592094e6974ffeaccfc30d76c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/darwin-l-origine-des-especes-1906.fr.wikisource/v1/book.json.gz",
+    "sha256": "c684ad50e245a8309bedf5966b6dd6d5ac2c3bc4d418bc41449c53f4b760ee25",
+    "sizeBytes": 442379,
+    "uncompressedSizeBytes": 1476893,
+    "wordCount": 217831
+  },
+  "edition": {
+    "editionId": "darwin-l-origine-des-especes-1906.fr.wikisource",
+    "kind": "translation",
+    "language": "fr",
+    "title": "L’Origine des espèces",
+    "translationPublicationYear": 1906,
+    "translator": {
+      "birthYear": 1834,
+      "deathYear": 1880,
+      "name": "Edmond Barbier",
+      "wikidata": "Q16964476"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1882: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1880: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1906: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q20124",
+      "https://www.wikidata.org/wiki/Q40578896",
+      "https://www.wikidata.org/wiki/Q1035",
+      "https://www.wikidata.org/wiki/Q16964476",
+      "https://fr.wikisource.org/wiki/L%E2%80%99Origine_des_esp%C3%A8ces"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charles Darwin died in 1882; the translator Edmond Barbier died in 1880 and this translation was first published in 1906. Source: fr.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "L’Origine des espèces",
+    "pages": [
+      {
+        "revision": 13686324,
+        "title": "L’Origine des espèces"
+      },
+      {
+        "revision": 4820829,
+        "title": "L’Origine des espèces/Notice"
+      },
+      {
+        "revision": 5672073,
+        "title": "L’Origine des espèces/Introduction"
+      },
+      {
+        "revision": 4820818,
+        "title": "L’Origine des espèces/Chapitre I"
+      },
+      {
+        "revision": 4820813,
+        "title": "L’Origine des espèces/Chapitre II"
+      },
+      {
+        "revision": 5672058,
+        "title": "L’Origine des espèces/Chapitre III"
+      },
+      {
+        "revision": 5672059,
+        "title": "L’Origine des espèces/Chapitre IV"
+      },
+      {
+        "revision": 5672061,
+        "title": "L’Origine des espèces/Chapitre V"
+      },
+      {
+        "revision": 5672062,
+        "title": "L’Origine des espèces/Chapitre VI"
+      },
+      {
+        "revision": 5672063,
+        "title": "L’Origine des espèces/Chapitre VII"
+      },
+      {
+        "revision": 5672064,
+        "title": "L’Origine des espèces/Chapitre VIII"
+      },
+      {
+        "revision": 5672060,
+        "title": "L’Origine des espèces/Chapitre IX"
+      },
+      {
+        "revision": 5672065,
+        "title": "L’Origine des espèces/Chapitre X"
+      },
+      {
+        "revision": 5672066,
+        "title": "L’Origine des espèces/Chapitre XI"
+      },
+      {
+        "revision": 5672067,
+        "title": "L’Origine des espèces/Chapitre XII"
+      },
+      {
+        "revision": 5672068,
+        "title": "L’Origine des espèces/Chapitre XIII"
+      },
+      {
+        "revision": 5672070,
+        "title": "L’Origine des espèces/Chapitre XIV"
+      },
+      {
+        "revision": 5672071,
+        "title": "L’Origine des espèces/Chapitre XV"
+      },
+      {
+        "revision": 5672072,
+        "title": "L’Origine des espèces/Glossaire"
+      },
+      {
+        "revision": 4821986,
+        "title": "L’Origine des espèces/Index"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:08:32.168393Z",
+    "revision": "13686324",
+    "site": "fr.wikisource.org",
+    "url": "https://fr.wikisource.org/wiki/L%E2%80%99Origine_des_esp%C3%A8ces"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1809,
+      "deathYear": 1882,
+      "name": "Charles Darwin",
+      "wikidata": "Q1035"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1859,
+    "originalTitle": "L’Origine des espèces (1906)",
+    "workId": "darwin-l-origine-des-especes-1906"
+  }
+}

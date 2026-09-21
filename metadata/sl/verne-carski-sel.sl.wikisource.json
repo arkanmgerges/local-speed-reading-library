@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:20.299787Z",
+    "chapterCount": 34,
+    "contentSha256": "976c8b7acd83119dfddbf7731168c646eaed486b9b939f315e5ebd217b019d75",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/verne-carski-sel.sl.wikisource/v1/book.json.gz",
+    "sha256": "f87286fa55b375ecdc0b7b321b9e8d57690c308c5930676cab06366a251fd340",
+    "sizeBytes": 203259,
+    "uncompressedSizeBytes": 568278,
+    "wordCount": 87981
+  },
+  "edition": {
+    "editionId": "verne-carski-sel.sl.wikisource",
+    "kind": "translation",
+    "language": "sl",
+    "title": "Carski sel",
+    "translationPublicationYear": 1923,
+    "translator": {
+      "birthYear": 1873,
+      "deathYear": 1939,
+      "name": "Anton Ratajec",
+      "wikidata": "Q22953171"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1905: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1939: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1923: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1121567",
+      "https://www.wikidata.org/wiki/Q59787450",
+      "https://www.wikidata.org/wiki/Q33977",
+      "https://www.wikidata.org/wiki/Q22953171",
+      "https://sl.wikisource.org/wiki/Carski_sel"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jules Verne died in 1905; the translator Anton Ratajec died in 1939 and this translation was first published in 1923. Source: sl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Carski sel",
+    "pages": [
+      {
+        "revision": 144911,
+        "title": "Carski sel"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:56:44.694331Z",
+    "revision": "144911",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Carski_sel"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1828,
+      "deathYear": 1905,
+      "name": "Jules Verne",
+      "wikidata": "Q33977"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1876,
+    "originalTitle": "Carski sel",
+    "workId": "verne-carski-sel"
+  }
+}

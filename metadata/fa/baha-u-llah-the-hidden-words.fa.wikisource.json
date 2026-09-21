@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:25:48.967800Z",
+    "chapterCount": 1,
+    "contentSha256": "779efabe8eb76867b43dfccd13056cc3e1308cc73cc4072d6164f3862b8cf80d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fa/baha-u-llah-the-hidden-words.fa.wikisource/v1/book.json.gz",
+    "sha256": "5cd30351b5871e43750a49dcd14f9a98c6b9fa2436bcdd5a5ae8fafcc299977e",
+    "sizeBytes": 20911,
+    "uncompressedSizeBytes": 70632,
+    "wordCount": 7614
+  },
+  "edition": {
+    "editionId": "baha-u-llah-the-hidden-words.fa.wikisource",
+    "kind": "original",
+    "language": "fa",
+    "title": "کلمات مبارکه مکنونه"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1892: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1858: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1519440",
+      "https://www.wikidata.org/wiki/Q101054",
+      "https://fa.wikisource.org/wiki/%DA%A9%D9%84%D9%85%D8%A7%D8%AA_%D9%85%DA%A9%D9%86%D9%88%D9%86%D9%87_%D8%B9%D8%B1%D8%A8%DB%8C"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. بهاءالله died in 1892 and the work was first published in 1858. Source: fa.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "کلمات مکنونه عربی",
+    "pages": [
+      {
+        "revision": 279258,
+        "title": "کلمات مکنونه عربی"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:01:28.395195Z",
+    "revision": "279258",
+    "site": "fa.wikisource.org",
+    "url": "https://fa.wikisource.org/wiki/%DA%A9%D9%84%D9%85%D8%A7%D8%AA_%D9%85%DA%A9%D9%86%D9%88%D9%86%D9%87_%D8%B9%D8%B1%D8%A8%DB%8C"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1817,
+      "deathYear": 1892,
+      "name": "بهاءالله",
+      "wikidata": "Q101054"
+    },
+    "originalLanguage": "fa",
+    "originalPublicationYear": 1858,
+    "originalTitle": "کلمات مبارکه مکنونه",
+    "workId": "baha-u-llah-the-hidden-words"
+  }
+}

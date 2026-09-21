@@ -1,0 +1,145 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:02.663740Z",
+    "chapterCount": 18,
+    "contentSha256": "cb7eea86ee4bebd677c0429520dff8f1e9cbda5401d61e42c3b66625602fe9f4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ml/collins-ghathakavadham.ml.wikisource/v1/book.json.gz",
+    "sha256": "42b8b13bc24fc892ec37bce4239be6a4ddf1da0873bbe52b2c4f04f43485affa",
+    "sizeBytes": 63046,
+    "uncompressedSizeBytes": 378523,
+    "wordCount": 14610
+  },
+  "edition": {
+    "editionId": "collins-ghathakavadham.ml.wikisource",
+    "kind": "original",
+    "language": "ml",
+    "title": "ഘാതകവധം"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1900: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1877: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q13111861",
+      "https://www.wikidata.org/wiki/Q15122110",
+      "https://ml.wikisource.org/wiki/%E0%B4%98%E0%B4%BE%E0%B4%A4%E0%B4%95%E0%B4%B5%E0%B4%A7%E0%B4%82"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. റിച്ചാർഡ് കോളിൻസ് died in 1900 and the work was first published in 1877. Source: ml.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "ഘാതകവധം",
+    "pages": [
+      {
+        "revision": 147992,
+        "title": "ഘാതകവധം"
+      },
+      {
+        "revision": 147989,
+        "title": "ഘാതകവധം/അദ്ധ്യായം ഒന്ന്"
+      },
+      {
+        "revision": 147987,
+        "title": "ഘാതകവധം/അദ്ധ്യായം രണ്ട്"
+      },
+      {
+        "revision": 147986,
+        "title": "ഘാതകവധം/അദ്ധ്യായം മൂന്ന്"
+      },
+      {
+        "revision": 147985,
+        "title": "ഘാതകവധം/അദ്ധ്യായം നാല്"
+      },
+      {
+        "revision": 147984,
+        "title": "ഘാതകവധം/അദ്ധ്യായം അഞ്ച്"
+      },
+      {
+        "revision": 147983,
+        "title": "ഘാതകവധം/അദ്ധ്യായം ആറ്"
+      },
+      {
+        "revision": 147982,
+        "title": "ഘാതകവധം/അദ്ധ്യായം ഏഴ്"
+      },
+      {
+        "revision": 147981,
+        "title": "ഘാതകവധം/അദ്ധ്യായം എട്ട്"
+      },
+      {
+        "revision": 147980,
+        "title": "ഘാതകവധം/അദ്ധ്യായം ഒൻപത്"
+      },
+      {
+        "revision": 147979,
+        "title": "ഘാതകവധം/അദ്ധ്യായം പത്ത്"
+      },
+      {
+        "revision": 147978,
+        "title": "ഘാതകവധം/അദ്ധ്യായം പതിനൊന്ന്"
+      },
+      {
+        "revision": 147977,
+        "title": "ഘാതകവധം/അദ്ധ്യായം പന്ത്രണ്ട്"
+      },
+      {
+        "revision": 148832,
+        "title": "ഘാതകവധം/അദ്ധ്യായം പതിമൂന്ന്"
+      },
+      {
+        "revision": 148492,
+        "title": "ഘാതകവധം/അദ്ധ്യായം പതിനാല്"
+      },
+      {
+        "revision": 147974,
+        "title": "ഘാതകവധം/അദ്ധ്യായം പതിനഞ്ച്"
+      },
+      {
+        "revision": 147973,
+        "title": "ഘാതകവധം/അദ്ധ്യായം പതിനാറ്"
+      },
+      {
+        "revision": 147972,
+        "title": "ഘാതകവധം/അദ്ധ്യായം പതിനേഴ്"
+      },
+      {
+        "revision": 148493,
+        "title": "ഘാതകവധം/അദ്ധ്യായം പതിനെട്ട്"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:57:53.684715Z",
+    "revision": "147992",
+    "site": "ml.wikisource.org",
+    "url": "https://ml.wikisource.org/wiki/%E0%B4%98%E0%B4%BE%E0%B4%A4%E0%B4%95%E0%B4%B5%E0%B4%A7%E0%B4%82"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1828,
+      "deathYear": 1900,
+      "name": "റിച്ചാർഡ് കോളിൻസ്",
+      "wikidata": "Q15122110"
+    },
+    "originalLanguage": "ml",
+    "originalPublicationYear": 1877,
+    "originalTitle": "ഘാതകവധം",
+    "workId": "collins-ghathakavadham"
+  }
+}

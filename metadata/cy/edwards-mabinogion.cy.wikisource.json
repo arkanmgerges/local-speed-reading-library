@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:52:07.878364Z",
+    "chapterCount": 5,
+    "contentSha256": "be588d73ab9092d113e6728e710619e419eeb737cd3a6821384eecdccf91746b",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cy/edwards-mabinogion.cy.wikisource/v1/book.json.gz",
+    "sha256": "c6dad5e2bace117f819a6e989ee3233b588c5f1a0f774026ab405edc911cad5f",
+    "sizeBytes": 45265,
+    "uncompressedSizeBytes": 133092,
+    "wordCount": 23146
+  },
+  "edition": {
+    "editionId": "edwards-mabinogion.cy.wikisource",
+    "kind": "original",
+    "language": "cy",
+    "title": "Mabinogion : o Lyfr Coch Hergest.Cyfrol 1"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1924: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1896: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q76426791",
+      "https://www.wikidata.org/wiki/Q113680486",
+      "https://cy.wikisource.org/wiki/Mabinogion_J_M_Edwards_Cyf_1"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. John Morgan Edwards died in 1924 and the work was first published in 1896. Source: cy.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Mabinogion J M Edwards Cyf 1",
+    "pages": [
+      {
+        "revision": 100538,
+        "title": "Mabinogion J M Edwards Cyf 1"
+      },
+      {
+        "revision": 39686,
+        "title": "Mabinogion J M Edwards Cyf 1/Rhagymadrodd"
+      },
+      {
+        "revision": 39689,
+        "title": "Mabinogion J M Edwards Cyf 1/Pwyll, Pendefig Dyfed"
+      },
+      {
+        "revision": 39690,
+        "title": "Mabinogion J M Edwards Cyf 1/Branwen Ferch Llyr"
+      },
+      {
+        "revision": 39691,
+        "title": "Mabinogion J M Edwards Cyf 1/Manawyddan Fab Llyr"
+      },
+      {
+        "revision": 39692,
+        "title": "Mabinogion J M Edwards Cyf 1/Math Fab Mathonwy"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T02:17:36.159515Z",
+    "revision": "100538",
+    "site": "cy.wikisource.org",
+    "url": "https://cy.wikisource.org/wiki/Mabinogion_J_M_Edwards_Cyf_1"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1868,
+      "deathYear": 1924,
+      "name": "John Morgan Edwards",
+      "wikidata": "Q113680486"
+    },
+    "originalLanguage": "cy",
+    "originalPublicationYear": 1896,
+    "originalTitle": "Mabinogion : o Lyfr Coch Hergest.Cyfrol 1",
+    "workId": "edwards-mabinogion"
+  }
+}

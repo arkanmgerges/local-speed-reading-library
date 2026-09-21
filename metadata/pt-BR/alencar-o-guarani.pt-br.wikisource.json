@@ -1,0 +1,293 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:33:02.427699Z",
+    "chapterCount": 56,
+    "contentSha256": "c863974808f68542c3444e6c35aba6f175ef7784119b90f13524627bf0b151d4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pt-br/alencar-o-guarani.pt-br.wikisource/v1/book.json.gz",
+    "sha256": "0e19065e68c706d3086f2a2786d6ef5131e40fd5b5d554d830b7557351b799e0",
+    "sizeBytes": 238746,
+    "uncompressedSizeBytes": 696623,
+    "wordCount": 107526
+  },
+  "edition": {
+    "editionId": "alencar-o-guarani.pt-br.wikisource",
+    "kind": "original",
+    "language": "pt-BR",
+    "title": "O Guarani"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1877: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1857: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q2008330",
+      "https://www.wikidata.org/wiki/Q455703",
+      "https://pt.wikisource.org/wiki/O_Guarani"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. José de Alencar died in 1877 and the work was first published in 1857. Source: pt.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "O Guarani",
+    "pages": [
+      {
+        "revision": 505457,
+        "title": "O Guarani"
+      },
+      {
+        "revision": 505456,
+        "title": "O Guarani/Ao leitor"
+      },
+      {
+        "revision": 394868,
+        "title": "O Guarani/I/I"
+      },
+      {
+        "revision": 298764,
+        "title": "O Guarani/I/II"
+      },
+      {
+        "revision": 298765,
+        "title": "O Guarani/I/III"
+      },
+      {
+        "revision": 298766,
+        "title": "O Guarani/I/IV"
+      },
+      {
+        "revision": 298767,
+        "title": "O Guarani/I/V"
+      },
+      {
+        "revision": 298768,
+        "title": "O Guarani/I/VI"
+      },
+      {
+        "revision": 298769,
+        "title": "O Guarani/I/VII"
+      },
+      {
+        "revision": 298770,
+        "title": "O Guarani/I/VIII"
+      },
+      {
+        "revision": 298771,
+        "title": "O Guarani/I/IX"
+      },
+      {
+        "revision": 298772,
+        "title": "O Guarani/I/X"
+      },
+      {
+        "revision": 298773,
+        "title": "O Guarani/I/XI"
+      },
+      {
+        "revision": 298774,
+        "title": "O Guarani/I/XII"
+      },
+      {
+        "revision": 298775,
+        "title": "O Guarani/I/XIII"
+      },
+      {
+        "revision": 298776,
+        "title": "O Guarani/I/XIV"
+      },
+      {
+        "revision": 298777,
+        "title": "O Guarani/I/XV"
+      },
+      {
+        "revision": 298789,
+        "title": "O Guarani/II/I"
+      },
+      {
+        "revision": 298790,
+        "title": "O Guarani/II/II"
+      },
+      {
+        "revision": 298791,
+        "title": "O Guarani/II/III"
+      },
+      {
+        "revision": 298792,
+        "title": "O Guarani/II/IV"
+      },
+      {
+        "revision": 298793,
+        "title": "O Guarani/II/V"
+      },
+      {
+        "revision": 298794,
+        "title": "O Guarani/II/VI"
+      },
+      {
+        "revision": 298795,
+        "title": "O Guarani/II/VII"
+      },
+      {
+        "revision": 298796,
+        "title": "O Guarani/II/VIII"
+      },
+      {
+        "revision": 298797,
+        "title": "O Guarani/II/IX"
+      },
+      {
+        "revision": 298799,
+        "title": "O Guarani/II/X"
+      },
+      {
+        "revision": 298800,
+        "title": "O Guarani/II/XI"
+      },
+      {
+        "revision": 298801,
+        "title": "O Guarani/II/XII"
+      },
+      {
+        "revision": 298802,
+        "title": "O Guarani/II/XIII"
+      },
+      {
+        "revision": 298803,
+        "title": "O Guarani/II/XIV"
+      },
+      {
+        "revision": 298804,
+        "title": "O Guarani/III/I"
+      },
+      {
+        "revision": 298805,
+        "title": "O Guarani/III/II"
+      },
+      {
+        "revision": 298806,
+        "title": "O Guarani/III/III"
+      },
+      {
+        "revision": 298807,
+        "title": "O Guarani/III/IV"
+      },
+      {
+        "revision": 298808,
+        "title": "O Guarani/III/V"
+      },
+      {
+        "revision": 298809,
+        "title": "O Guarani/III/VI"
+      },
+      {
+        "revision": 298810,
+        "title": "O Guarani/III/VII"
+      },
+      {
+        "revision": 298811,
+        "title": "O Guarani/III/VIII"
+      },
+      {
+        "revision": 298812,
+        "title": "O Guarani/III/IX"
+      },
+      {
+        "revision": 298813,
+        "title": "O Guarani/III/X"
+      },
+      {
+        "revision": 298814,
+        "title": "O Guarani/III/XI"
+      },
+      {
+        "revision": 298815,
+        "title": "O Guarani/III/XII"
+      },
+      {
+        "revision": 298816,
+        "title": "O Guarani/III/XIII"
+      },
+      {
+        "revision": 298817,
+        "title": "O Guarani/III/XIV"
+      },
+      {
+        "revision": 298778,
+        "title": "O Guarani/IV/I"
+      },
+      {
+        "revision": 298779,
+        "title": "O Guarani/IV/II"
+      },
+      {
+        "revision": 298780,
+        "title": "O Guarani/IV/III"
+      },
+      {
+        "revision": 298781,
+        "title": "O Guarani/IV/IV"
+      },
+      {
+        "revision": 298782,
+        "title": "O Guarani/IV/V"
+      },
+      {
+        "revision": 298783,
+        "title": "O Guarani/IV/VI"
+      },
+      {
+        "revision": 298784,
+        "title": "O Guarani/IV/VII"
+      },
+      {
+        "revision": 298785,
+        "title": "O Guarani/IV/VIII"
+      },
+      {
+        "revision": 298786,
+        "title": "O Guarani/IV/IX"
+      },
+      {
+        "revision": 298787,
+        "title": "O Guarani/IV/X"
+      },
+      {
+        "revision": 298788,
+        "title": "O Guarani/IV/XI"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:34:02.112329Z",
+    "revision": "505457",
+    "site": "pt.wikisource.org",
+    "url": "https://pt.wikisource.org/wiki/O_Guarani"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1829,
+      "deathYear": 1877,
+      "name": "José de Alencar",
+      "wikidata": "Q455703"
+    },
+    "originalLanguage": "pt-BR",
+    "originalPublicationYear": 1857,
+    "originalTitle": "O Guarani",
+    "workId": "alencar-o-guarani"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:27:05.244835Z",
+    "chapterCount": 41,
+    "contentSha256": "68aedec3b69a5c314ed20b016456bc6719e3fbeb0ea9a52a4e5a3cec14ed8555",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/shelley-frankenstein-ou-le-promethee-moderne.fr.wikisource/v1/book.json.gz",
+    "sha256": "46e3bed69a84a286f18837a7b504f9244cb2ba16cfaec3281dcd509fa3ea66e7",
+    "sizeBytes": 219083,
+    "uncompressedSizeBytes": 642735,
+    "wordCount": 102095
+  },
+  "edition": {
+    "editionId": "shelley-frankenstein-ou-le-promethee-moderne.fr.wikisource",
+    "kind": "translation",
+    "language": "fr",
+    "title": "Frankenstein, ou le Prométhée moderne",
+    "translationPublicationYear": 1821,
+    "translator": {
+      "birthYear": 1800,
+      "deathYear": 1900,
+      "name": "Jules Saladin",
+      "wikidata": "Q41224021"
+    }
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1851: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1900: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1821: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q150827",
+      "https://www.wikidata.org/wiki/Q51434118",
+      "https://www.wikidata.org/wiki/Q47152",
+      "https://www.wikidata.org/wiki/Q41224021",
+      "https://fr.wikisource.org/wiki/Frankenstein%2C_ou_le_Prom%C3%A9th%C3%A9e_moderne_(trad._Saladin)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Mary Shelley died in 1851; the translator Jules Saladin died in 1900 and this translation was first published in 1821. Source: fr.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Frankenstein, ou le Prométhée moderne (trad. Saladin)",
+    "pages": [
+      {
+        "revision": 15193643,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)"
+      },
+      {
+        "revision": 14201700,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/Texte entier"
+      },
+      {
+        "revision": 7328893,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/1"
+      },
+      {
+        "revision": 7328954,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/2"
+      },
+      {
+        "revision": 7328956,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/3"
+      },
+      {
+        "revision": 7328957,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/4"
+      },
+      {
+        "revision": 7328958,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/5"
+      },
+      {
+        "revision": 7308226,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/6"
+      },
+      {
+        "revision": 7308333,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/7"
+      },
+      {
+        "revision": 7308340,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/8"
+      },
+      {
+        "revision": 7308346,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/9"
+      },
+      {
+        "revision": 7308352,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/10"
+      },
+      {
+        "revision": 7308354,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/11"
+      },
+      {
+        "revision": 7308362,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/12"
+      },
+      {
+        "revision": 7308367,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/13"
+      },
+      {
+        "revision": 7308411,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/14"
+      },
+      {
+        "revision": 7020595,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/15"
+      },
+      {
+        "revision": 7020596,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/16"
+      },
+      {
+        "revision": 7020597,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/17"
+      },
+      {
+        "revision": 7020598,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/18"
+      },
+      {
+        "revision": 7020599,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/19"
+      },
+      {
+        "revision": 7020600,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/20"
+      },
+      {
+        "revision": 7025864,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/21"
+      },
+      {
+        "revision": 7020601,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/22"
+      },
+      {
+        "revision": 7020603,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/23"
+      },
+      {
+        "revision": 7020604,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/24"
+      },
+      {
+        "revision": 7020606,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/25"
+      },
+      {
+        "revision": 7020608,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/26"
+      },
+      {
+        "revision": 7020610,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/27"
+      },
+      {
+        "revision": 7020611,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/28"
+      },
+      {
+        "revision": 7020612,
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/29"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:12:19.229467Z",
+    "revision": "15193643",
+    "site": "fr.wikisource.org",
+    "url": "https://fr.wikisource.org/wiki/Frankenstein%2C_ou_le_Prom%C3%A9th%C3%A9e_moderne_(trad._Saladin)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1797,
+      "deathYear": 1851,
+      "name": "Mary Shelley",
+      "wikidata": "Q47152"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1818,
+    "originalTitle": "Frankenstein, ou le Prométhée moderne",
+    "workId": "shelley-frankenstein-ou-le-promethee-moderne"
+  }
+}

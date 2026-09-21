@@ -1,0 +1,105 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:02:34.771261Z",
+    "chapterCount": 9,
+    "contentSha256": "45323d85b9ee8ee51e7a7510655bcf354b3cd0b852c47dc36d3c383fbcab96ce",
+    "normalizerVersion": "0.2.0",
+    "path": "books/nl/vries-het-leven-der-bloem.nl.wikisource/v1/book.json.gz",
+    "sha256": "dd90c29e33181481c4f8fc8642a32a5e0fcd58473decbcdb00c80f6f388b27a6",
+    "sizeBytes": 100637,
+    "uncompressedSizeBytes": 315555,
+    "wordCount": 48344
+  },
+  "edition": {
+    "editionId": "vries-het-leven-der-bloem.nl.wikisource",
+    "kind": "original",
+    "language": "nl",
+    "title": "Het leven der bloem"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1935: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1900: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q51405665",
+      "https://www.wikidata.org/wiki/Q160192",
+      "https://nl.wikisource.org/wiki/Het_leven_der_bloem_(1900)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Hugo de Vries died in 1935 and the work was first published in 1900. Source: nl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Het leven der bloem (1900)",
+    "pages": [
+      {
+        "revision": 146224,
+        "title": "Het leven der bloem (1900)"
+      },
+      {
+        "revision": 52810,
+        "title": "Het leven der bloem (1900)/I"
+      },
+      {
+        "revision": 52814,
+        "title": "Het leven der bloem (1900)/II"
+      },
+      {
+        "revision": 147861,
+        "title": "Het leven der bloem (1900)/III"
+      },
+      {
+        "revision": 147864,
+        "title": "Het leven der bloem (1900)/IV"
+      },
+      {
+        "revision": 52828,
+        "title": "Het leven der bloem (1900)/V"
+      },
+      {
+        "revision": 52829,
+        "title": "Het leven der bloem (1900)/VI"
+      },
+      {
+        "revision": 52830,
+        "title": "Het leven der bloem (1900)/VII"
+      },
+      {
+        "revision": 147865,
+        "title": "Het leven der bloem (1900)/VIII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:11:29.549796Z",
+    "revision": "146224",
+    "site": "nl.wikisource.org",
+    "url": "https://nl.wikisource.org/wiki/Het_leven_der_bloem_(1900)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1848,
+      "deathYear": 1935,
+      "name": "Hugo de Vries",
+      "wikidata": "Q160192"
+    },
+    "originalLanguage": "nl",
+    "originalPublicationYear": 1900,
+    "originalTitle": "Het leven der bloem",
+    "workId": "vries-het-leven-der-bloem"
+  }
+}

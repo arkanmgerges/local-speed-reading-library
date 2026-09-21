@@ -1,0 +1,161 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:27:32.277116Z",
+    "chapterCount": 25,
+    "contentSha256": "3e46ecd677b3ecd0cdb860731d6c1cf2e28cad31ac38a60549342d2a3b23d383",
+    "normalizerVersion": "0.2.0",
+    "path": "books/gu/meghani-rutu-geeto.gu.wikisource/v1/book.json.gz",
+    "sha256": "ffa837a1e09fc0db77f72cf9dd619380af010e50770cdf70ca6b2ef153943068",
+    "sizeBytes": 76777,
+    "uncompressedSizeBytes": 345040,
+    "wordCount": 23011
+  },
+  "edition": {
+    "editionId": "meghani-rutu-geeto.gu.wikisource",
+    "kind": "original",
+    "language": "gu",
+    "title": "ઋતુગીતો"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1947: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1929: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q105629139",
+      "https://www.wikidata.org/wiki/Q2758776",
+      "https://gu.wikisource.org/wiki/%E0%AA%8B%E0%AA%A4%E0%AB%81%E0%AA%97%E0%AB%80%E0%AA%A4%E0%AB%8B"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ઝવેરચંદ મેઘાણી died in 1947 and the work was first published in 1929. Source: gu.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "ઋતુગીતો",
+    "pages": [
+      {
+        "revision": 145084,
+        "title": "ઋતુગીતો"
+      },
+      {
+        "revision": 144283,
+        "title": "ઋતુગીતો/પ્રવેશક"
+      },
+      {
+        "revision": 144287,
+        "title": "ઋતુગીતો/રાધાકૃષ્ણની બારમાસી/કહે રાધા કાનને"
+      },
+      {
+        "revision": 144288,
+        "title": "ઋતુગીતો/રાધાકૃષ્ણની બારમાસી/વ્રજ્જ માધા આવણાં"
+      },
+      {
+        "revision": 144293,
+        "title": "ઋતુગીતો/રાધાકૃષ્ણની બારમાસી/ગોકુળ આવો ગિરધારી"
+      },
+      {
+        "revision": 144564,
+        "title": "ઋતુગીતો/મિત્રવિરહના મરશિયા/સતણ–વીસણ સંભરે"
+      },
+      {
+        "revision": 144566,
+        "title": "ઋતુગીતો/મિત્રવિરહના મરશિયા/ધરણસર માતરધણી"
+      },
+      {
+        "revision": 144569,
+        "title": "ઋતુગીતો/મિત્રવિરહના મરશિયા/સકજ સાંગણ સંભરે"
+      },
+      {
+        "revision": 144757,
+        "title": "ઋતુગીતો/મિત્રવિરહના મરશિયા/સંભરિયા"
+      },
+      {
+        "revision": 144758,
+        "title": "ઋતુગીતો/સભારંજન/ઋતુશોભા"
+      },
+      {
+        "revision": 144765,
+        "title": "ઋતુગીતો/સભારંજન/મેઘ–સેના"
+      },
+      {
+        "revision": 144767,
+        "title": "ઋતુગીતો/લોકગીતોમાં ઋતુગીતો/માડીજાયાને આશિષ"
+      },
+      {
+        "revision": 144768,
+        "title": "ઋતુગીતો/લોકગીતોમાં ઋતુગીતો/આણાં મેલજો"
+      },
+      {
+        "revision": 144840,
+        "title": "ઋતુગીતો/લોકગીતોમાં ઋતુગીતો/માડીજાઇને આણાં"
+      },
+      {
+        "revision": 144842,
+        "title": "ઋતુગીતો/લોકગીતોમાં ઋતુગીતો/બેનડી રુવે પરદેશ"
+      },
+      {
+        "revision": 144843,
+        "title": "ઋતુગીતો/લોકગીતોમાં ઋતુગીતો/સરામણ આયો રે"
+      },
+      {
+        "revision": 144913,
+        "title": "ઋતુગીતો/લોકગીતોમાં ઋતુગીતો/પરદેશી પતિને"
+      },
+      {
+        "revision": 144915,
+        "title": "ઋતુગીતો/ઋતુનું દોહાસાહિત્ય/મેહ–ઉજળીની બારમાસી"
+      },
+      {
+        "revision": 144917,
+        "title": "ઋતુગીતો/ઋતુનું દોહાસાહિત્ય/ઓઢા–હોથલના દોહા"
+      },
+      {
+        "revision": 144919,
+        "title": "ઋતુગીતો/ઋતુનું દોહાસાહિત્ય/પ્રાસ્તાવિક દોહા"
+      },
+      {
+        "revision": 144921,
+        "title": "ઋતુગીતો/ઇતર પ્રાંતોની બારમાસી/પંજાબી બારમાસી"
+      },
+      {
+        "revision": 144924,
+        "title": "ઋતુગીતો/ઇતર પ્રાંતોની બારમાસી/હિન્દી બારમાસી"
+      },
+      {
+        "revision": 144926,
+        "title": "ઋતુગીતો/ઇતર પ્રાંતોની બારમાસી/બંગાળી બારમાસી"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:24:34.013902Z",
+    "revision": "145084",
+    "site": "gu.wikisource.org",
+    "url": "https://gu.wikisource.org/wiki/%E0%AA%8B%E0%AA%A4%E0%AB%81%E0%AA%97%E0%AB%80%E0%AA%A4%E0%AB%8B"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1896,
+      "deathYear": 1947,
+      "name": "ઝવેરચંદ મેઘાણી",
+      "wikidata": "Q2758776"
+    },
+    "originalLanguage": "gu",
+    "originalPublicationYear": 1929,
+    "originalTitle": "ઋતુગીતો",
+    "workId": "meghani-rutu-geeto"
+  }
+}

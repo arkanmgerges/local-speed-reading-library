@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:33.002935Z",
+    "chapterCount": 1,
+    "contentSha256": "aa611fcc40eb3d7da5ca914b5d19387088b51cc3bc019afecf0ff2d3f660b4d8",
+    "normalizerVersion": "0.2.0",
+    "path": "books/mr/bhate-samajshastravril-vyakhyane.mr.wikisource/v1/book.json.gz",
+    "sha256": "df73761d4c628657c8c29fda6ef3b9e474bdd60405b8a7b61f0d638ff922df09",
+    "sizeBytes": 89115,
+    "uncompressedSizeBytes": 521491,
+    "wordCount": 27058
+  },
+  "edition": {
+    "editionId": "bhate-samajshastravril-vyakhyane.mr.wikisource",
+    "kind": "original",
+    "language": "mr",
+    "title": "समाजशास्त्रावरील व्याख्याने"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1914: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q140773712",
+      "https://www.wikidata.org/wiki/Q31738102",
+      "https://mr.wikisource.org/wiki/%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A5%80%E0%A4%B2_%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%87"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. गोविंद चिमणाजी भाटे died in 1946 and the work was first published in 1914. Source: mr.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "समाजशास्त्रावरील व्याख्याने",
+    "pages": [
+      {
+        "revision": 233906,
+        "title": "समाजशास्त्रावरील व्याख्याने"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:03:05.276835Z",
+    "revision": "233906",
+    "site": "mr.wikisource.org",
+    "url": "https://mr.wikisource.org/wiki/%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A5%80%E0%A4%B2_%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%87"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1870,
+      "deathYear": 1946,
+      "name": "गोविंद चिमणाजी भाटे",
+      "wikidata": "Q31738102"
+    },
+    "originalLanguage": "mr",
+    "originalPublicationYear": 1914,
+    "originalTitle": "समाजशास्त्रावरील व्याख्याने",
+    "workId": "bhate-samajshastravril-vyakhyane"
+  }
+}

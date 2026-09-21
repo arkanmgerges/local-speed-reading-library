@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:41.900495Z",
+    "chapterCount": 12,
+    "contentSha256": "296c4974e3ffd059dffcbad178cf32e471968735771dd29369741becd96a305a",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ko/dong-in-the-young-ones.ko.wikisource/v1/book.json.gz",
+    "sha256": "6b5c64c6900e392318f2cbe2e10bdf75d9b92b9dd58983400241c7d5d6c0d7b3",
+    "sizeBytes": 218908,
+    "uncompressedSizeBytes": 701076,
+    "wordCount": 67575
+  },
+  "edition": {
+    "editionId": "dong-in-the-young-ones.ko.wikisource",
+    "kind": "original",
+    "language": "ko",
+    "title": "젊은 그들"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1951: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1930: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q42819486",
+      "https://www.wikidata.org/wiki/Q625815",
+      "https://ko.wikisource.org/wiki/%EC%A0%8A%EC%9D%80_%EA%B7%B8%EB%93%A4"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 김동인 died in 1951 and the work was first published in 1930. Source: ko.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "젊은 그들",
+    "pages": [
+      {
+        "revision": 120281,
+        "title": "젊은 그들"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:51:31.448699Z",
+    "revision": "120281",
+    "site": "ko.wikisource.org",
+    "url": "https://ko.wikisource.org/wiki/%EC%A0%8A%EC%9D%80_%EA%B7%B8%EB%93%A4"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1900,
+      "deathYear": 1951,
+      "name": "김동인",
+      "wikidata": "Q625815"
+    },
+    "originalLanguage": "ko",
+    "originalPublicationYear": 1930,
+    "originalTitle": "젊은 그들",
+    "workId": "dong-in-the-young-ones"
+  }
+}

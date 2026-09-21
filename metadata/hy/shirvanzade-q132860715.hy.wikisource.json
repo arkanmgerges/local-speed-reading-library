@@ -1,0 +1,121 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:28:43.710987Z",
+    "chapterCount": 12,
+    "contentSha256": "56790b7544f520c83e0477237b069342f954e79eba0785062fb6882c47dbff48",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hy/shirvanzade-q132860715.hy.wikisource/v1/book.json.gz",
+    "sha256": "82cf49093f46bf615293bca47b5b414e180fd42105906577cc1f5cdb83de0fff",
+    "sizeBytes": 42660,
+    "uncompressedSizeBytes": 171382,
+    "wordCount": 14405
+  },
+  "edition": {
+    "editionId": "shirvanzade-q132860715.hy.wikisource",
+    "kind": "original",
+    "language": "hy",
+    "title": "Գործակատարի հիշատակարանից"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1935: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1884: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q132860715",
+      "https://www.wikidata.org/wiki/Q2074380",
+      "https://hy.wikisource.org/wiki/%D4%B3%D5%B8%D6%80%D5%AE%D5%A1%D5%AF%D5%A1%D5%BF%D5%A1%D6%80%D5%AB_%D5%B0%D5%AB%D5%B7%D5%A1%D5%BF%D5%A1%D5%AF%D5%A1%D6%80%D5%A1%D5%B6%D5%AB%D6%81"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ալեքսանդր Շիրվանզադե died in 1935 and the work was first published in 1884. Source: hy.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Գործակատարի հիշատակարանից",
+    "pages": [
+      {
+        "revision": 145319,
+        "title": "Գործակատարի հիշատակարանից"
+      },
+      {
+        "revision": 115973,
+        "title": "Գործակատարի հիշատակարանից/I"
+      },
+      {
+        "revision": 115974,
+        "title": "Գործակատարի հիշատակարանից/II"
+      },
+      {
+        "revision": 115976,
+        "title": "Գործակատարի հիշատակարանից/III"
+      },
+      {
+        "revision": 115978,
+        "title": "Գործակատարի հիշատակարանից/IV"
+      },
+      {
+        "revision": 115979,
+        "title": "Գործակատարի հիշատակարանից/V"
+      },
+      {
+        "revision": 115980,
+        "title": "Գործակատարի հիշատակարանից/VI"
+      },
+      {
+        "revision": 115982,
+        "title": "Գործակատարի հիշատակարանից/VII"
+      },
+      {
+        "revision": 115983,
+        "title": "Գործակատարի հիշատակարանից/VIII"
+      },
+      {
+        "revision": 115984,
+        "title": "Գործակատարի հիշատակարանից/IX"
+      },
+      {
+        "revision": 115986,
+        "title": "Գործակատարի հիշատակարանից/X"
+      },
+      {
+        "revision": 115987,
+        "title": "Գործակատարի հիշատակարանից/XI"
+      },
+      {
+        "revision": 115988,
+        "title": "Գործակատարի հիշատակարանից/XII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:39:52.074221Z",
+    "revision": "145319",
+    "site": "hy.wikisource.org",
+    "url": "https://hy.wikisource.org/wiki/%D4%B3%D5%B8%D6%80%D5%AE%D5%A1%D5%AF%D5%A1%D5%BF%D5%A1%D6%80%D5%AB_%D5%B0%D5%AB%D5%B7%D5%A1%D5%BF%D5%A1%D5%AF%D5%A1%D6%80%D5%A1%D5%B6%D5%AB%D6%81"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1858,
+      "deathYear": 1935,
+      "name": "Ալեքսանդր Շիրվանզադե",
+      "wikidata": "Q2074380"
+    },
+    "originalLanguage": "hy",
+    "originalPublicationYear": 1884,
+    "originalTitle": "Գործակատարի հիշատակարանից",
+    "workId": "shirvanzade-q132860715"
+  }
+}

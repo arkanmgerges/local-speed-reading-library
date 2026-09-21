@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:23:28.143718Z",
+    "chapterCount": 12,
+    "contentSha256": "9dba9de208b72cfce1010f10300a392d1fec3f4f1eb22d86e496498a5ae85dbd",
+    "normalizerVersion": "0.2.0",
+    "path": "books/el/papadiamantes-pg33395.el.gutenberg/v1/book.json.gz",
+    "sha256": "bf949fdfc2cac5ba4fbe6563dba3a4c82248f06ec97d4fa5155b790f48ff9c4c",
+    "sizeBytes": 114625,
+    "uncompressedSizeBytes": 411518,
+    "wordCount": 36470
+  },
+  "edition": {
+    "editionId": "papadiamantes-pg33395.el.gutenberg",
+    "kind": "original",
+    "language": "el",
+    "title": "Η νοσταλγός"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1911: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1894: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/33395",
+      "https://en.wikipedia.org/wiki/Alexandros_Papadiamantis",
+      "https://www.wikidata.org/wiki/Q20649707"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Alexandros Papadiamantes died in 1911 and the work was first published in 1894. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "33395",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:29:41.086841Z",
+    "revision": "Sun, 13 Sep 2026 20:37:49 GMT",
+    "url": "https://www.gutenberg.org/ebooks/33395"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1851,
+      "deathYear": 1911,
+      "name": "Alexandros Papadiamantes",
+      "wikidata": "Q320984"
+    },
+    "originalLanguage": "el",
+    "originalPublicationYear": 1894,
+    "originalTitle": "Η νοσταλγός",
+    "workId": "papadiamantes-pg33395"
+  }
+}

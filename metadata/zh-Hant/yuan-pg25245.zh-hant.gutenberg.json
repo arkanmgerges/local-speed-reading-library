@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:37:37.199350Z",
+    "chapterCount": 1,
+    "contentSha256": "2836ef2bc5f72da7b71c4d9cf439c3a5629ea716ad27419086662cc6bb938a38",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/yuan-pg25245.zh-hant.gutenberg/v1/book.json.gz",
+    "sha256": "424e7e54085b196ba6436cb98f550b86c0370f8721f322a2dd73275522ec672a",
+    "sizeBytes": 405083,
+    "uncompressedSizeBytes": 809547,
+    "wordCount": 2424
+  },
+  "edition": {
+    "editionId": "yuan-pg25245.zh-hant.gutenberg",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "子不語"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1798: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1788: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/25245",
+      "https://en.wikipedia.org/wiki/Yuan_Mei",
+      "https://www.wikidata.org/wiki/Q2892535"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Mei Yuan died in 1798 and the work was first published in 1788. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "25245",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T05:54:28.321512Z",
+    "revision": "Thu, 10 Sep 2026 16:45:38 GMT",
+    "url": "https://www.gutenberg.org/ebooks/25245"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1716,
+      "deathYear": 1798,
+      "name": "Mei Yuan",
+      "wikidata": "Q147220"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": 1788,
+    "originalTitle": "子不語",
+    "workId": "yuan-pg25245"
+  }
+}

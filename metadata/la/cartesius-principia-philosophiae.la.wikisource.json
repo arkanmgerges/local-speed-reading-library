@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:45.394783Z",
+    "chapterCount": 5,
+    "contentSha256": "bdaa24474ec947a4c7d87c500ba3d7aa68695f0d39d89be33ce01f049d30b0da",
+    "normalizerVersion": "0.2.0",
+    "path": "books/la/cartesius-principia-philosophiae.la.wikisource/v1/book.json.gz",
+    "sha256": "42bf5ebc5a84c54923dc7df474f6fccdc247cb675767a092c86893a938388dac",
+    "sizeBytes": 152706,
+    "uncompressedSizeBytes": 465707,
+    "wordCount": 67603
+  },
+  "edition": {
+    "editionId": "cartesius-principia-philosophiae.la.wikisource",
+    "kind": "original",
+    "language": "la",
+    "title": "Principia philosophiae"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1650: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1644: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1195384",
+      "https://www.wikidata.org/wiki/Q9191",
+      "https://la.wikisource.org/wiki/Principia_philosophiae"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Renatus Cartesius died in 1650 and the work was first published in 1644. Source: la.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Principia philosophiae",
+    "pages": [
+      {
+        "revision": 130858,
+        "title": "Principia philosophiae"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:54:30.258807Z",
+    "revision": "130858",
+    "site": "la.wikisource.org",
+    "url": "https://la.wikisource.org/wiki/Principia_philosophiae"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1596,
+      "deathYear": 1650,
+      "name": "Renatus Cartesius",
+      "wikidata": "Q9191"
+    },
+    "originalLanguage": "la",
+    "originalPublicationYear": 1644,
+    "originalTitle": "Principia philosophiae",
+    "workId": "cartesius-principia-philosophiae"
+  }
+}

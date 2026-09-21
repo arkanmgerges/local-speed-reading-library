@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:04.736602Z",
+    "chapterCount": 7,
+    "contentSha256": "28cc4c4b46b1d3299f9d531c4603f33a280c592941eea2bc429bf47c4cac5231",
+    "normalizerVersion": "0.2.0",
+    "path": "books/be/gogol-q1250822.be.wikisource/v1/book.json.gz",
+    "sha256": "076a68a51bddb0c90e006980fb45edad149f72628ca14025e1a462c8e47a86ee",
+    "sizeBytes": 120385,
+    "uncompressedSizeBytes": 430731,
+    "wordCount": 37657
+  },
+  "edition": {
+    "editionId": "gogol-q1250822.be.wikisource",
+    "kind": "translation",
+    "language": "be",
+    "title": "Тарас Бульба",
+    "translationPublicationYear": 1929,
+    "translator": {
+      "birthYear": 1891,
+      "deathYear": 1939,
+      "name": "Краўцоў Макар",
+      "wikidata": "Q1194134"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1852: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1939: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1929: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1250822",
+      "https://www.wikidata.org/wiki/Q131887064",
+      "https://www.wikidata.org/wiki/Q43718",
+      "https://www.wikidata.org/wiki/Q1194134",
+      "https://be.wikisource.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D1%81_%D0%91%D1%83%D0%BB%D1%8C%D0%B1%D0%B0_(1929)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Мікалай Васільевіч Гогаль died in 1852; the translator Краўцоў Макар died in 1939 and this translation was first published in 1929. Source: be.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Тарас Бульба (1929)",
+    "pages": [
+      {
+        "revision": 248378,
+        "title": "Тарас Бульба (1929)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T01:57:01.716319Z",
+    "revision": "248378",
+    "site": "be.wikisource.org",
+    "url": "https://be.wikisource.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D1%81_%D0%91%D1%83%D0%BB%D1%8C%D0%B1%D0%B0_(1929)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1809,
+      "deathYear": 1852,
+      "name": "Nikolai Gogol",
+      "wikidata": "Q43718"
+    },
+    "originalLanguage": "ru",
+    "originalPublicationYear": 1835,
+    "originalTitle": "Тарас Бульба",
+    "workId": "gogol-q1250822"
+  }
+}

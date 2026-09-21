@@ -13,6 +13,15 @@ const List<String> defaultRemoveSelectors = <String>[
   '.ws-header', '.wst-header', '#headertemplate', '.headertemplate',
   '.navbox', '.mw-empty-elt', '.thumb', 'figure', '.ws-summary',
   '.mw-indicators', '.catlinks', '.printfooter', '.ws-pagenum', '.pagenum',
+  '.wst-tpl-pagenum', '.pagenum-inner', '.pagenumber', '.wst-page-number',
+  'a.prp-pagequality-0', 'a.prp-pagequality-1', 'a.prp-pagequality-2',
+  'a.prp-pagequality-3', 'a.prp-pagequality-4', '.prp-page-qualityheader',
+  '.wst-header-mainblock', '.wst-header-notes', '.wst-header-forward',
+  '.wst-header-backward', '.wst-header-title', '.header_notes', '#header_notes',
+  '.licenseContainer', '.licensetpl', '.licence', '.license', '.licensetable',
+  '.reunahuomautus-paikka', '.reunahuomautus-vasen', '.reunahuomautus-oikea',
+  '.sidenote', '.sidenotes', '.marginnote', '.authority-control', '.gallery',
+  '.wst-sidenote-left', '.wst-sidenote-right', '.mw-halign-center img',
   // Project Gutenberg EPUBs
   '#pg-header', '#pg-footer', '#pg-machine-header', '.pg-boilerplate',
   '#pg-start-separator', '#pg-end-separator', '#project-gutenberg-license',
@@ -24,8 +33,25 @@ const List<String> defaultRemoveSelectors = <String>[
 /// Headings (compared case-insensitively after trimming) whose whole
 /// section is dropped: tables of contents, reference lists, transcriber
 /// notes. Per-edition `import.skipHeadings` are added on top.
+/// Class-name fragments of Wikisource header/licence/navigation templates,
+/// matched case-insensitively as substrings of an element's class list.
+const List<String> defaultRemoveClassSubstrings = <String>[
+  'headertemplate', 'header_notes', 'wst-header', 'otsikkomalline', 'encabezado', 'intestazione',
+  'cabeçalho', 'cabecalho', 'cabecera', 'nagłówek', 'naglowek', 'zaglavlje', 'hlavička', 'hlavicka',
+  'fejléc', 'fejlec', 'titelbalk', 'en-tete', 'entete', 'kopfzeile', 'заголовок', 'шапка',
+  'licensecontainer', 'licensetpl', 'licence-box', 'license-box', 'licensetable', 'pd-box',
+  'ws-noexport', 'noprint', 'pagenum', 'reunahuomautus', 'sidenote', 'marginnote', 'navigation-box',
+  'navbox', 'wst-nav', 'authority-control', 'ws-summary', 'ws-header', 'ws-license', 'ws-licence',
+];
+
 const List<String> defaultSkipHeadings = <String>[
   'contents', 'table of contents', 'cuprins', 'index',
+  'sisällys', 'sisällys:', 'sisältö', 'innehåll', 'indhold', 'innhold', 'inhalt', 'inhoud',
+  'sommaire', 'table des matières', 'índice', 'indice', 'índex', 'содержание', 'оглавление',
+  'зміст', 'змест', 'съдържание', 'sadržaj', 'kazalo', 'spis treści', 'spis rzeczy', 'obsah',
+  'tartalom', 'tartalomjegyzék', 'περιεχόμενα', 'sisukord', 'saturs', 'turinys', 'içindekiler',
+  'فهرست', 'فهرس', 'תוכן', 'תוכן עניינים', 'सूची', 'অনুক্রমণিকা', 'সূচী', 'સૂચિ', 'അനുക്രമണിക',
+  'अनुक्रमणिका', 'విషయసూచిక', '目次', '目录', '目錄', 'mục lục', 'daftar isi',
   'illustrations', 'list of illustrations',
   'note', 'notes', 'references', 'footnotes', 'referințe', 'referinţe',
   "transcriber's note", "transcriber's notes", 'transcriber’s note',
@@ -75,6 +101,13 @@ List<RawSection> sectionsFromHtml(
     for (final dom.Element e in doc.querySelectorAll(selector)) {
       e.remove();
     }
+  }
+  // Header, licence and navigation templates are named differently on every
+  // Wikisource ("otsikkomalline", "encabezado", ...); a class-name substring
+  // catches them without a per-language list of selectors.
+  for (final dom.Element e in doc.querySelectorAll('[class]').toList()) {
+    final String cls = e.className.toLowerCase();
+    if (defaultRemoveClassSubstrings.any(cls.contains)) e.remove();
   }
   final _Walker walker = _Walker(headingLevels, initialHeading);
   final dom.Element? body = doc.body;

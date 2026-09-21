@@ -1,0 +1,141 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:51.858899Z",
+    "chapterCount": 224,
+    "contentSha256": "a865d6ae2099049d712a6609a845bc4d1f9855c15670b71da640d2ca4358d817",
+    "normalizerVersion": "0.2.0",
+    "path": "books/la/grammaticus-gesta-danorum.la.wikisource/v1/book.json.gz",
+    "sha256": "b8b1ee62b364ecca6eafb2ca4f05776da2a2c96a538b4d127e39cc473f6ba7f1",
+    "sizeBytes": 566346,
+    "uncompressedSizeBytes": 1511741,
+    "wordCount": 191975
+  },
+  "edition": {
+    "editionId": "grammaticus-gesta-danorum.la.wikisource",
+    "kind": "original",
+    "language": "la",
+    "title": "Gesta Danorum"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1220: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1514: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q939074",
+      "https://www.wikidata.org/wiki/Q106837",
+      "https://la.wikisource.org/wiki/Gesta_Danorum"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Saxo Grammaticus died in 1220 and the work was first published in 1514. Source: la.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Gesta Danorum",
+    "pages": [
+      {
+        "revision": 255852,
+        "title": "Gesta Danorum"
+      },
+      {
+        "revision": 255854,
+        "title": "Gesta Danorum/Praefatio"
+      },
+      {
+        "revision": 255855,
+        "title": "Gesta Danorum/Liber I"
+      },
+      {
+        "revision": 255857,
+        "title": "Gesta Danorum/Liber II"
+      },
+      {
+        "revision": 255858,
+        "title": "Gesta Danorum/Liber III"
+      },
+      {
+        "revision": 255859,
+        "title": "Gesta Danorum/Liber IV"
+      },
+      {
+        "revision": 255860,
+        "title": "Gesta Danorum/Liber V"
+      },
+      {
+        "revision": 255862,
+        "title": "Gesta Danorum/Liber VI"
+      },
+      {
+        "revision": 255863,
+        "title": "Gesta Danorum/Liber VII"
+      },
+      {
+        "revision": 255864,
+        "title": "Gesta Danorum/Liber VIII"
+      },
+      {
+        "revision": 255865,
+        "title": "Gesta Danorum/Liber IX"
+      },
+      {
+        "revision": 255866,
+        "title": "Gesta Danorum/Liber X"
+      },
+      {
+        "revision": 255867,
+        "title": "Gesta Danorum/Liber XI"
+      },
+      {
+        "revision": 255868,
+        "title": "Gesta Danorum/Liber XII"
+      },
+      {
+        "revision": 255869,
+        "title": "Gesta Danorum/Liber XIII"
+      },
+      {
+        "revision": 255871,
+        "title": "Gesta Danorum/Liber XIV"
+      },
+      {
+        "revision": 255872,
+        "title": "Gesta Danorum/Liber XV"
+      },
+      {
+        "revision": 255873,
+        "title": "Gesta Danorum/Liber XVI"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:55:31.733674Z",
+    "revision": "255852",
+    "site": "la.wikisource.org",
+    "url": "https://la.wikisource.org/wiki/Gesta_Danorum"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1150,
+      "deathYear": 1220,
+      "name": "Saxo Grammaticus",
+      "wikidata": "Q106837"
+    },
+    "originalLanguage": "la",
+    "originalPublicationYear": 1514,
+    "originalTitle": "Gesta Danorum",
+    "workId": "grammaticus-gesta-danorum"
+  }
+}

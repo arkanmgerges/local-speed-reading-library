@@ -1,0 +1,790 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 4,
+        "contentSha256": "9bba4a6c225cd8f1b85e3904503d857b6cecd87098146e31e24d7c59a35275aa",
+        "encoding": "gzip",
+        "path": "books/la/caesar-c-iuli-caesaris-de-bello-gallico-i.la.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f27441de526dbb69d61d30d2583c56f3dd46b251020a523383875e849019a191",
+        "sizeBytes": 53830,
+        "uncompressedSizeBytes": 150627,
+        "wordCount": 20483
+      },
+      "author": "Julius Caesar",
+      "authorDeathYear": -43,
+      "editionId": "caesar-c-iuli-caesaris-de-bello-gallico-i.la.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "la",
+      "originalLanguage": "la",
+      "originalPublicationYear": -58,
+      "originalTitle": "C. Iuli Caesaris De Bello Gallico, I-IV",
+      "rights": {
+        "statement": "Public domain worldwide. Julius Caesar died in -43 and the work was first published in -58. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "218",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:54:08.981824Z",
+        "revision": "Tue, 01 Sep 2026 08:42:58 GMT",
+        "url": "https://www.gutenberg.org/ebooks/218"
+      },
+      "title": "C. Iuli Caesaris De Bello Gallico, I-IV",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "caesar-c-iuli-caesaris-de-bello-gallico-i"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "858f2e9d618476410404a95f26fdae3fc59f13ad5c60d62b9ba03e562a7d277c",
+        "encoding": "gzip",
+        "path": "books/la/caesar-commentarii-de-bello-gallico-libri-v-viii.la.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "98f38d2c950abdefe5728391111d4380e4833c95c205b5ddcb40342334937c7b",
+        "sizeBytes": 84679,
+        "uncompressedSizeBytes": 237424,
+        "wordCount": 31111
+      },
+      "author": "Julius Caesar",
+      "authorDeathYear": -43,
+      "editionId": "caesar-commentarii-de-bello-gallico-libri-v-viii.la.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "History",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "la",
+      "originalLanguage": "la",
+      "originalPublicationYear": -58,
+      "originalTitle": "Commentarii de Bello Gallico, Libri V-VIII",
+      "rights": {
+        "statement": "Public domain worldwide. Julius Caesar died in -43 and the work was first published in -58. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "18837",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:54:11.461797Z",
+        "revision": "Tue, 08 Sep 2026 10:32:03 GMT",
+        "url": "https://www.gutenberg.org/ebooks/18837"
+      },
+      "title": "Commentarii de Bello Gallico, Libri V-VIII",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "caesar-commentarii-de-bello-gallico-libri-v-viii"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 33,
+        "contentSha256": "c45cf954d112f382fb87b43ea99910ee03fd62fd516434311da673f2c6073475",
+        "encoding": "gzip",
+        "path": "books/la/campanella-civitas-solis.la.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "315b2e51e71d0cb10385377fff0f5eaf472da2ff7ed0b4eb6b41a3788cb7a97a",
+        "sizeBytes": 40338,
+        "uncompressedSizeBytes": 103158,
+        "wordCount": 13897
+      },
+      "author": "Thomas Campanella",
+      "authorDeathYear": 1639,
+      "editionId": "campanella-civitas-solis.la.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "la",
+      "originalLanguage": "la",
+      "originalPublicationYear": 1623,
+      "originalTitle": "Civitas solis",
+      "rights": {
+        "statement": "Public domain worldwide. Thomas Campanella died in 1639 and the work was first published in 1623. Source: la.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Civitas solis",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:54:27.623468Z",
+        "revision": "138810",
+        "url": "https://la.wikisource.org/wiki/Civitas_solis"
+      },
+      "title": "Civitas solis",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "campanella-civitas-solis"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "bdaa24474ec947a4c7d87c500ba3d7aa68695f0d39d89be33ce01f049d30b0da",
+        "encoding": "gzip",
+        "path": "books/la/cartesius-principia-philosophiae.la.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "42bf5ebc5a84c54923dc7df474f6fccdc247cb675767a092c86893a938388dac",
+        "sizeBytes": 152706,
+        "uncompressedSizeBytes": 465707,
+        "wordCount": 67603
+      },
+      "author": "Renatus Cartesius",
+      "authorDeathYear": 1650,
+      "editionId": "cartesius-principia-philosophiae.la.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "la",
+      "originalLanguage": "la",
+      "originalPublicationYear": 1644,
+      "originalTitle": "Principia philosophiae",
+      "rights": {
+        "statement": "Public domain worldwide. Renatus Cartesius died in 1650 and the work was first published in 1644. Source: la.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Principia philosophiae",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:54:30.258807Z",
+        "revision": "130858",
+        "url": "https://la.wikisource.org/wiki/Principia_philosophiae"
+      },
+      "title": "Principia philosophiae",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "cartesius-principia-philosophiae"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "bc980eae9b9445fa9ebf3f5bf6595ae18db93ec322373933746d6a76593c09c2",
+        "encoding": "gzip",
+        "path": "books/la/descartes-meditationes-de-prima-philosophia.la.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "374d84e27dfc4835a0322cdd42d3028b129ac6f47fcfcb03b833a87f22d66bf6",
+        "sizeBytes": 47434,
+        "uncompressedSizeBytes": 134250,
+        "wordCount": 19862
+      },
+      "author": "René Descartes",
+      "authorDeathYear": 1650,
+      "editionId": "descartes-meditationes-de-prima-philosophia.la.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Philosophy",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "la",
+      "originalLanguage": "la",
+      "originalPublicationYear": 1641,
+      "originalTitle": "Meditationes de prima philosophia",
+      "rights": {
+        "statement": "Public domain worldwide. René Descartes died in 1650 and the work was first published in 1641. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "23306",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:54:36.671323Z",
+        "revision": "Wed, 09 Sep 2026 17:27:48 GMT",
+        "url": "https://www.gutenberg.org/ebooks/23306"
+      },
+      "title": "Meditationes de prima philosophia",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "descartes-meditationes-de-prima-philosophia"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "dde7c8bb27323cff544f6aa0f04f79e364311759bc161a9649151799a001f156",
+        "encoding": "gzip",
+        "path": "books/la/endlicher-prodromus-florae-norfolkicae-sive-catalogus-stirpium-quae.la.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b32227cef0a3018f193452eb33447a797c8b0726976d5806b2b3447f3791c48e",
+        "sizeBytes": 87085,
+        "uncompressedSizeBytes": 284003,
+        "wordCount": 32159
+      },
+      "author": "Stephan Endlicher",
+      "authorDeathYear": 1849,
+      "editionId": "endlicher-prodromus-florae-norfolkicae-sive-catalogus-stirpium-quae.la.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Science",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "la",
+      "originalLanguage": "la",
+      "originalPublicationYear": 1833,
+      "originalTitle": "Prodromus Florae Norfolkicae Sive, Catalogus stirpium quae in insula Norfolk annis 1804 et 1805 a Ferdinando Bauer collectae et depictae, nunc in Museo caesareo palatino rerum naturalium Vindobonae servantur",
+      "rights": {
+        "statement": "Public domain worldwide. Stephan Endlicher died in 1849 and the work was first published in 1833. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "41255",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:54:42.403661Z",
+        "revision": "Wed, 16 Sep 2026 21:12:54 GMT",
+        "url": "https://www.gutenberg.org/ebooks/41255"
+      },
+      "title": "Prodromus Florae Norfolkicae Sive, Catalogus stirpium quae in insula Norfolk annis 1804 et 1805 a Ferdinando Bauer collectae et depictae, nunc in Museo caesareo palatino rerum naturalium Vindobonae servantur",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "endlicher-prodromus-florae-norfolkicae-sive-catalogus-stirpium-quae"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 4,
+        "contentSha256": "ff496868cd1d962b8982792d2a0b2eb6fd5ec572a492bafcf42f4fcfa7af3258",
+        "encoding": "gzip",
+        "path": "books/la/galilaei-sidereus-nuncius.la.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "27c0ce014a0183fdc68396de486f0afc4d339e7eb1253ba42a16cc2bed6a3711",
+        "sizeBytes": 26781,
+        "uncompressedSizeBytes": 75252,
+        "wordCount": 9991
+      },
+      "author": "Galilaeus Galilaei",
+      "authorDeathYear": 1642,
+      "editionId": "galilaei-sidereus-nuncius.la.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "la",
+      "originalLanguage": "la",
+      "originalPublicationYear": 1610,
+      "originalTitle": "Sidereus nuncius",
+      "rights": {
+        "statement": "Public domain worldwide. Galilaeus Galilaei died in 1642 and the work was first published in 1610. Source: la.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Sidereus nuncius",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:54:44.654922Z",
+        "revision": "130373",
+        "url": "https://la.wikisource.org/wiki/Sidereus_nuncius"
+      },
+      "title": "Sidereus nuncius",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "galilaei-sidereus-nuncius"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 224,
+        "contentSha256": "a865d6ae2099049d712a6609a845bc4d1f9855c15670b71da640d2ca4358d817",
+        "encoding": "gzip",
+        "path": "books/la/grammaticus-gesta-danorum.la.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b8b1ee62b364ecca6eafb2ca4f05776da2a2c96a538b4d127e39cc473f6ba7f1",
+        "sizeBytes": 566346,
+        "uncompressedSizeBytes": 1511741,
+        "wordCount": 191975
+      },
+      "author": "Saxo Grammaticus",
+      "authorDeathYear": 1220,
+      "editionId": "grammaticus-gesta-danorum.la.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "la",
+      "originalLanguage": "la",
+      "originalPublicationYear": 1514,
+      "originalTitle": "Gesta Danorum",
+      "rights": {
+        "statement": "Public domain worldwide. Saxo Grammaticus died in 1220 and the work was first published in 1514. Source: la.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Gesta Danorum",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:55:31.733674Z",
+        "revision": "255852",
+        "url": "https://la.wikisource.org/wiki/Gesta_Danorum"
+      },
+      "title": "Gesta Danorum",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "grammaticus-gesta-danorum"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "84a14113f22e6eb4844151ed4bc4bb303873058f57ca5d4284660873c97fcff7",
+        "encoding": "gzip",
+        "path": "books/la/maior-de-agri-cultura.la.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c17be8ec813ba9741e73f1e2fa06603b056896232452abd5d4aac0b8557ed404",
+        "sizeBytes": 39631,
+        "uncompressedSizeBytes": 107223,
+        "wordCount": 15661
+      },
+      "author": "Marcus Porcius Cato maior",
+      "authorDeathYear": -148,
+      "editionId": "maior-de-agri-cultura.la.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "la",
+      "originalLanguage": "la",
+      "originalPublicationYear": -160,
+      "originalTitle": "De agri cultura",
+      "rights": {
+        "statement": "Public domain worldwide. Marcus Porcius Cato maior died in -148 and the work was first published in -160. Source: la.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "De agri cultura",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:55:39.736044Z",
+        "revision": "252868",
+        "url": "https://la.wikisource.org/wiki/De_agri_cultura"
+      },
+      "title": "De agri cultura",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "maior-de-agri-cultura"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 326,
+        "contentSha256": "d09cbdf1014f6fc4b5e4ad45a63ecc0126be4d825623d63393cec26aaa0052b5",
+        "encoding": "gzip",
+        "path": "books/la/newton-philosophiae-naturalis-principia-mathematica.la.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "56f0ec74204999dd1d63496a427068a88b90053d758db93e12b6ef50ee8a8dbb",
+        "sizeBytes": 257255,
+        "uncompressedSizeBytes": 840539,
+        "wordCount": 124453
+      },
+      "author": "Isaac Newton",
+      "authorDeathYear": 1727,
+      "editionId": "newton-philosophiae-naturalis-principia-mathematica.la.gutenberg",
+      "editionPublicationYear": null,
+      "genres": [
+        "Science",
+        "Philosophy",
+        "Non-fiction"
+      ],
+      "kind": "original",
+      "language": "la",
+      "originalLanguage": "la",
+      "originalPublicationYear": 1687,
+      "originalTitle": "Philosophiae Naturalis Principia Mathematica",
+      "rights": {
+        "statement": "Public domain worldwide. Isaac Newton died in 1727 and the work was first published in 1687. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "28233",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T03:55:51.337885Z",
+        "revision": "Fri, 11 Sep 2026 16:39:43 GMT",
+        "url": "https://www.gutenberg.org/ebooks/28233"
+      },
+      "title": "Philosophiae Naturalis Principia Mathematica",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "newton-philosophiae-naturalis-principia-mathematica"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "25733a34f5bb927cb6478861247ca225322eccd60d55a08564b0ce7443fc96e6",
+        "encoding": "gzip",
+        "path": "books/la/plato-charmides.la.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "18d51ef48f801dc4d4e967a08979cd634673b85b751be018fe9a941fd6d1de11",
+        "sizeBytes": 19241,
+        "uncompressedSizeBytes": 51046,
+        "wordCount": 7259
+      },
+      "author": "Plato",
+      "authorDeathYear": -348,
+      "editionId": "plato-charmides.la.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "la",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Charmides",
+      "rights": {
+        "statement": "Public domain worldwide. Plato died in -348; the translator Marsilius Ficinus died in 1499 and this translation was first published in 1816. Source: la.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Charmides (ed. Bekker)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:55:56.214503Z",
+        "revision": "247681",
+        "url": "https://la.wikisource.org/wiki/Charmides_(ed._Bekker)"
+      },
+      "title": "Charmides",
+      "translationPublicationYear": 1816,
+      "translator": "Marsilius Ficinus",
+      "translatorDeathYear": 1499,
+      "workId": "plato-charmides"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "afdee9602ce91373d6640f2a23e224876c4e0ab85882849355767debb0495c5a",
+        "encoding": "gzip",
+        "path": "books/la/plato-laches.la.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d31d8115886b20a182e7b9628b4fedf92a85d2e7a24489a0196f1f65fb81622e",
+        "sizeBytes": 18890,
+        "uncompressedSizeBytes": 48642,
+        "wordCount": 6920
+      },
+      "author": "Plato",
+      "authorDeathYear": -348,
+      "editionId": "plato-laches.la.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "la",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Laches",
+      "rights": {
+        "statement": "Public domain worldwide. Plato died in -348; the translator Marsilius Ficinus died in 1499 and this translation was first published in 1816. Source: la.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Laches (ed. Bekker)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:56:03.921225Z",
+        "revision": "247560",
+        "url": "https://la.wikisource.org/wiki/Laches_(ed._Bekker)"
+      },
+      "title": "Laches",
+      "translationPublicationYear": 1816,
+      "translator": "Marsilius Ficinus",
+      "translatorDeathYear": 1499,
+      "workId": "plato-laches"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "61edd91ed93bbd16f112c88257c24a1ab1ecbb7dbcb0dd97fdcc5210ecc2a5e9",
+        "encoding": "gzip",
+        "path": "books/la/plato-lysis.la.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "afdab7e659b65de08be46173bf4e5a667a4ab973854923608e13b33b3b5b37c2",
+        "sizeBytes": 15781,
+        "uncompressedSizeBytes": 40658,
+        "wordCount": 6019
+      },
+      "author": "Plato",
+      "authorDeathYear": -348,
+      "editionId": "plato-lysis.la.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "la",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Lysis",
+      "rights": {
+        "statement": "Public domain worldwide. Plato died in -348; the translator Marsilius Ficinus died in 1499 and this translation was first published in 1816. Source: la.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Lysis (ed. Bekker)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:56:05.548076Z",
+        "revision": "226989",
+        "url": "https://la.wikisource.org/wiki/Lysis_(ed._Bekker)"
+      },
+      "title": "Lysis",
+      "translationPublicationYear": 1816,
+      "translator": "Marsilius Ficinus",
+      "translatorDeathYear": 1499,
+      "workId": "plato-lysis"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "97c9150b456c675832c0a45d567790167a74ace763497cfffd302cb26c8579ed",
+        "encoding": "gzip",
+        "path": "books/la/plato-parmenides.la.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "60c5a5eeb0ded459e39484723c1719bf60d6fe88cb97bce853898674ec359655",
+        "sizeBytes": 31337,
+        "uncompressedSizeBytes": 93802,
+        "wordCount": 14190
+      },
+      "author": "Plato",
+      "authorDeathYear": -348,
+      "editionId": "plato-parmenides.la.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "la",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Parmenides",
+      "rights": {
+        "statement": "Public domain worldwide. Plato died in -348; the translator Marsilius Ficinus died in 1499 and this translation was first published in 1816. Source: la.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Parmenides (ed. Bekker)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:56:07.331726Z",
+        "revision": "248164",
+        "url": "https://la.wikisource.org/wiki/Parmenides_(ed._Bekker)"
+      },
+      "title": "Parmenides",
+      "translationPublicationYear": 1816,
+      "translator": "Marsilius Ficinus",
+      "translatorDeathYear": 1499,
+      "workId": "plato-parmenides"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "9a375ef0b05bb2f85cd5f7438adfadc1648e0567aa93143617b401ad6c16b086",
+        "encoding": "gzip",
+        "path": "books/la/plato-phaedrus.la.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "3dd719262c35f1bf940e5dc28dd5a9c1237aacfec2b5ecaa71e0b3219ddcb1a2",
+        "sizeBytes": 43039,
+        "uncompressedSizeBytes": 111757,
+        "wordCount": 15803
+      },
+      "author": "Plato",
+      "authorDeathYear": -348,
+      "editionId": "plato-phaedrus.la.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "la",
+      "originalLanguage": "grc",
+      "originalPublicationYear": -369,
+      "originalTitle": "Phaedrus",
+      "rights": {
+        "statement": "Public domain worldwide. Plato died in -348; the translator Marsilius Ficinus died in 1499 and this translation was first published in 1816. Source: la.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Phaedrus (ed. Bekker)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:56:09.279557Z",
+        "revision": "226706",
+        "url": "https://la.wikisource.org/wiki/Phaedrus_(ed._Bekker)"
+      },
+      "title": "Phaedrus",
+      "translationPublicationYear": 1816,
+      "translator": "Marsilius Ficinus",
+      "translatorDeathYear": 1499,
+      "workId": "plato-phaedrus"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "03445d62a4a0747ede772ea4270a7dc5983948dadbf47593d776f1e2bc37b95d",
+        "encoding": "gzip",
+        "path": "books/la/plato-protagoras.la.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d473e0b3cfca7bebbb4ca5f72d3918186a9c623f2fdfa054825f26c51fee3536",
+        "sizeBytes": 42830,
+        "uncompressedSizeBytes": 109560,
+        "wordCount": 15452
+      },
+      "author": "Plato",
+      "authorDeathYear": -348,
+      "editionId": "plato-protagoras.la.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "la",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Protagoras",
+      "rights": {
+        "statement": "Public domain worldwide. Plato died in -348; the translator Marsilius Ficinus died in 1499 and this translation was first published in 1816. Source: la.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Protagoras (ed. Bekker)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:56:11.225505Z",
+        "revision": "227127",
+        "url": "https://la.wikisource.org/wiki/Protagoras_(ed._Bekker)"
+      },
+      "title": "Protagoras",
+      "translationPublicationYear": 1816,
+      "translator": "Marsilius Ficinus",
+      "translatorDeathYear": 1499,
+      "workId": "plato-protagoras"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "b49e9e76d4ca2399a7c5e5215d0dc5f55aadd1f08aeb3f1d6432eb902ce386f9",
+        "encoding": "gzip",
+        "path": "books/la/x-pascendi-dominici-gregis.la.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e0d0588bf9427178d070b1fa3df86f14ffa39bb48772320b34a9fecdb5e67005",
+        "sizeBytes": 39300,
+        "uncompressedSizeBytes": 101830,
+        "wordCount": 13489
+      },
+      "author": "Pius X",
+      "authorDeathYear": 1914,
+      "editionId": "x-pascendi-dominici-gregis.la.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "la",
+      "originalLanguage": "la",
+      "originalPublicationYear": 1907,
+      "originalTitle": "Pascendi Dominici gregis",
+      "rights": {
+        "statement": "Public domain worldwide. Pius X died in 1914 and the work was first published in 1907. Source: la.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Pascendi Dominici gregis",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:56:15.778265Z",
+        "revision": "152968",
+        "url": "https://la.wikisource.org/wiki/Pascendi_Dominici_gregis"
+      },
+      "title": "Pascendi Dominici gregis",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "x-pascendi-dominici-gregis"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "3eb7575d54b3883f60cf322e021d4972ed526f8477decdd4f45afe1c92e1df50",
+        "encoding": "gzip",
+        "path": "books/la/xiii-rerum-novarum.la.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c9b8880c45b69db670b41d193939284c7c02f30472ac9ce523bf4873938ddb1b",
+        "sizeBytes": 27708,
+        "uncompressedSizeBytes": 70931,
+        "wordCount": 9615
+      },
+      "author": "Leo XIII",
+      "authorDeathYear": 1903,
+      "editionId": "xiii-rerum-novarum.la.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "la",
+      "originalLanguage": "la",
+      "originalPublicationYear": 1891,
+      "originalTitle": "Rerum Novarum",
+      "rights": {
+        "statement": "Public domain worldwide. Leo XIII died in 1903 and the work was first published in 1891. Source: la.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Rerum Novarum",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:56:19.106027Z",
+        "revision": "178300",
+        "url": "https://la.wikisource.org/wiki/Rerum_Novarum"
+      },
+      "title": "Rerum Novarum",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "xiii-rerum-novarum"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Latin",
+  "language": "la",
+  "manifestVersion": "efe65ccaf76c9fb0",
+  "nativeName": "Latina",
+  "schemaVersion": 1
+}

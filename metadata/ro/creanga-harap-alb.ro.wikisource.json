@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:34:04.000806Z",
+    "chapterCount": 1,
+    "contentSha256": "9ae91f3b6a020075529a6942f7e5444c80d33ebc4488ecbc886245828dd2e608",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/creanga-harap-alb.ro.wikisource/v1/book.json.gz",
+    "sha256": "e968bd5a4dda9bf90fc2d216448237aa843931c0bc8ed85745a91dbd9957cb8a",
+    "sizeBytes": 39389,
+    "uncompressedSizeBytes": 112659,
+    "wordCount": 18004
+  },
+  "edition": {
+    "editionId": "creanga-harap-alb.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "title": "Harap-Alb"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1889: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1877: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q104841346",
+      "https://www.wikidata.org/wiki/Q204810",
+      "https://ro.wikisource.org/wiki/Povestea_lui_Harap-Alb"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ion Creangă died in 1889 and the work was first published in 1877. Source: ro.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Povestea lui Harap-Alb",
+    "pages": [
+      {
+        "revision": 129175,
+        "title": "Povestea lui Harap-Alb"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:51:19.976313Z",
+    "revision": "129175",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/Povestea_lui_Harap-Alb"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1837,
+      "deathYear": 1889,
+      "name": "Ion Creangă",
+      "wikidata": "Q204810"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1877,
+    "originalTitle": "Harap-Alb",
+    "workId": "creanga-harap-alb"
+  }
+}

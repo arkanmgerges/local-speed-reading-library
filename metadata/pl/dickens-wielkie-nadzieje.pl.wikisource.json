@@ -1,0 +1,95 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:32:22.152591Z",
+    "chapterCount": 3,
+    "contentSha256": "f212172e2955c627003ccd756686faeae6c3df68923ba98eb883706c9786d9ff",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/dickens-wielkie-nadzieje.pl.wikisource/v1/book.json.gz",
+    "sha256": "10784e87af5ccbdc8edcd624f41313a1f97b165026c87bb732d2a04bfa54193a",
+    "sizeBytes": 322817,
+    "uncompressedSizeBytes": 856120,
+    "wordCount": 123762
+  },
+  "edition": {
+    "editionId": "dickens-wielkie-nadzieje.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Wielkie nadzieje",
+    "translationPublicationYear": 1918,
+    "translator": {
+      "birthYear": 1858,
+      "deathYear": 1916,
+      "name": "Antoni Mazanowski",
+      "wikidata": "Q972683"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1870: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1916: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1918: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q219552",
+      "https://www.wikidata.org/wiki/Q59236072",
+      "https://www.wikidata.org/wiki/Q5686",
+      "https://www.wikidata.org/wiki/Q972683",
+      "https://pl.wikisource.org/wiki/Wielkie_nadzieje"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Antoni Mazanowski died in 1916 and this translation was first published in 1918. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Wielkie nadzieje",
+    "pages": [
+      {
+        "revision": 3462815,
+        "title": "Wielkie nadzieje"
+      },
+      {
+        "revision": 3462810,
+        "title": "Wielkie nadzieje/Tom I"
+      },
+      {
+        "revision": 3294785,
+        "title": "Wielkie nadzieje/całość"
+      },
+      {
+        "revision": 3462811,
+        "title": "Wielkie nadzieje/Tom II"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:22:57.112182Z",
+    "revision": "3462815",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Wielkie_nadzieje"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1812,
+      "deathYear": 1870,
+      "name": "Charles Dickens",
+      "wikidata": "Q5686"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1861,
+    "originalTitle": "Wielkie nadzieje",
+    "workId": "dickens-wielkie-nadzieje"
+  }
+}

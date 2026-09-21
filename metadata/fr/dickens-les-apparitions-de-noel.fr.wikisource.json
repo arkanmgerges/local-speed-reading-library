@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:26:44.061741Z",
+    "chapterCount": 6,
+    "contentSha256": "932dc406cb986862f1ef5fefff9fbc65d5d0b803ba7946e792b2c577407f5190",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/dickens-les-apparitions-de-noel.fr.wikisource/v1/book.json.gz",
+    "sha256": "0fb36b9dd2102fcd4000ea8fd96be2d4e8928eb5cfb420f4dcda215bde458d85",
+    "sizeBytes": 55859,
+    "uncompressedSizeBytes": 156091,
+    "wordCount": 24951
+  },
+  "edition": {
+    "editionId": "dickens-les-apparitions-de-noel.fr.wikisource",
+    "kind": "translation",
+    "language": "fr",
+    "title": "Les Apparitions de Noël",
+    "translationPublicationYear": 1847,
+    "translator": {
+      "birthYear": 1795,
+      "deathYear": 1877,
+      "name": "Amédée Pichot",
+      "wikidata": "Q2844699"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1870: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1877: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1847: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q62879",
+      "https://www.wikidata.org/wiki/Q74872466",
+      "https://www.wikidata.org/wiki/Q5686",
+      "https://www.wikidata.org/wiki/Q2844699",
+      "https://fr.wikisource.org/wiki/Les_Apparitions_de_No%C3%ABl"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Charles Dickens died in 1870; the translator Amédée Pichot died in 1877 and this translation was first published in 1847. Source: fr.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Les Apparitions de Noël",
+    "pages": [
+      {
+        "revision": 12958881,
+        "title": "Les Apparitions de Noël"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:08:55.918502Z",
+    "revision": "12958881",
+    "site": "fr.wikisource.org",
+    "url": "https://fr.wikisource.org/wiki/Les_Apparitions_de_No%C3%ABl"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1812,
+      "deathYear": 1870,
+      "name": "Charles Dickens",
+      "wikidata": "Q5686"
+    },
+    "originalLanguage": "en-gb",
+    "originalPublicationYear": 1843,
+    "originalTitle": "Les Apparitions de Noël",
+    "workId": "dickens-les-apparitions-de-noel"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:21.121519Z",
+    "chapterCount": 13,
+    "contentSha256": "47babe30159cef5644bca24bff96c5bbf5c663563cbfd0b5033aa91f75c72d00",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ml/pillai-kesaveeyam.ml.wikisource/v1/book.json.gz",
+    "sha256": "689833201939a2983bc2b7dc08ed1f019cfd0c719fd807a2cc866b8d13f43f6b",
+    "sizeBytes": 57001,
+    "uncompressedSizeBytes": 251159,
+    "wordCount": 7824
+  },
+  "edition": {
+    "editionId": "pillai-kesaveeyam.ml.wikisource",
+    "kind": "original",
+    "language": "ml",
+    "title": "കേശവീയം"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1914: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1914: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q13111584",
+      "https://www.wikidata.org/wiki/Q6323217",
+      "https://ml.wikisource.org/wiki/%E0%B4%95%E0%B5%87%E0%B4%B6%E0%B4%B5%E0%B5%80%E0%B4%AF%E0%B4%82"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. കെ.സി. കേശവപിള്ള died in 1914 and the work was first published in 1914. Source: ml.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "കേശവീയം",
+    "pages": [
+      {
+        "revision": 134317,
+        "title": "കേശവീയം"
+      },
+      {
+        "revision": 81119,
+        "title": "കേശവീയം/പന്ത്രണ്ടാം സർഗം"
+      },
+      {
+        "revision": 59585,
+        "title": "കേശവീയം/സ്വീകാരം"
+      },
+      {
+        "revision": 55575,
+        "title": "കേശവീയം/സർഗവിവൃതി"
+      },
+      {
+        "revision": 55576,
+        "title": "കേശവീയം/ഒന്നാം സർഗം"
+      },
+      {
+        "revision": 81120,
+        "title": "കേശവീയം/രണ്ടാം സർഗം"
+      },
+      {
+        "revision": 81121,
+        "title": "കേശവീയം/മൂന്നാം സർഗം"
+      },
+      {
+        "revision": 81124,
+        "title": "കേശവീയം/നാലാം സർഗം"
+      },
+      {
+        "revision": 81125,
+        "title": "കേശവീയം/അഞ്ചാം സർഗം"
+      },
+      {
+        "revision": 81126,
+        "title": "കേശവീയം/ആറാം സർഗം"
+      },
+      {
+        "revision": 81129,
+        "title": "കേശവീയം/ഏഴാം സർഗം"
+      },
+      {
+        "revision": 55594,
+        "title": "കേശവീയം/എട്ടാം സർഗം"
+      },
+      {
+        "revision": 81131,
+        "title": "കേശവീയം/ഒൻപതാം സർഗം"
+      },
+      {
+        "revision": 81132,
+        "title": "കേശവീയം/പത്താം സർഗം"
+      },
+      {
+        "revision": 214361,
+        "title": "കേശവീയം/പതിനൊന്നാം സർഗം"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:00:51.754798Z",
+    "revision": "134317",
+    "site": "ml.wikisource.org",
+    "url": "https://ml.wikisource.org/wiki/%E0%B4%95%E0%B5%87%E0%B4%B6%E0%B4%B5%E0%B5%80%E0%B4%AF%E0%B4%82"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1868,
+      "deathYear": 1914,
+      "name": "കെ.സി. കേശവപിള്ള",
+      "wikidata": "Q6323217"
+    },
+    "originalLanguage": "ml",
+    "originalPublicationYear": 1914,
+    "originalTitle": "കേശവീയം",
+    "workId": "pillai-kesaveeyam"
+  }
+}

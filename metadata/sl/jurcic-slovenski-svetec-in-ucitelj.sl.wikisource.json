@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:35:04.967521Z",
+    "chapterCount": 17,
+    "contentSha256": "3a2cc12ddee3fcc94f1c97caf055d2346fe72b43021a5b5f891292d57ecf9adf",
+    "normalizerVersion": "0.2.0",
+    "path": "books/sl/jurcic-slovenski-svetec-in-ucitelj.sl.wikisource/v1/book.json.gz",
+    "sha256": "a84d2f293bfc596136db13dd93199fc4caf3368d0b5c3ef415360b5f2a0033c3",
+    "sizeBytes": 100575,
+    "uncompressedSizeBytes": 259304,
+    "wordCount": 41915
+  },
+  "edition": {
+    "editionId": "jurcic-slovenski-svetec-in-ucitelj.sl.wikisource",
+    "kind": "original",
+    "language": "sl",
+    "title": "Slovenski svetec in učitelj"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1881: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1886: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q7541900",
+      "https://www.wikidata.org/wiki/Q3491574",
+      "https://sl.wikisource.org/wiki/Slovenski_svetec_in_u%C4%8Ditelj"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Josip Jurčič died in 1881 and the work was first published in 1886. Source: sl.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Slovenski svetec in učitelj",
+    "pages": [
+      {
+        "revision": 55982,
+        "title": "Slovenski svetec in učitelj"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:56:00.624767Z",
+    "revision": "55982",
+    "site": "sl.wikisource.org",
+    "url": "https://sl.wikisource.org/wiki/Slovenski_svetec_in_u%C4%8Ditelj"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1844,
+      "deathYear": 1881,
+      "name": "Josip Jurčič",
+      "wikidata": "Q3491574"
+    },
+    "originalLanguage": "sl",
+    "originalPublicationYear": 1886,
+    "originalTitle": "Slovenski svetec in učitelj",
+    "workId": "jurcic-slovenski-svetec-in-ucitelj"
+  }
+}

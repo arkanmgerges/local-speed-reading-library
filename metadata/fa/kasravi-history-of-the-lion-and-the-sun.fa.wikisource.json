@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:19.593191Z",
+    "chapterCount": 5,
+    "contentSha256": "0ca6bf5ea4a846563b102ea8b29abfa958db1dc1646a00a012714316665e7981",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fa/kasravi-history-of-the-lion-and-the-sun.fa.wikisource/v1/book.json.gz",
+    "sha256": "219056786508ece037566ea614686002ce5df96ec03303514034bd76f48b8925",
+    "sizeBytes": 16725,
+    "uncompressedSizeBytes": 66940,
+    "wordCount": 7007
+  },
+  "edition": {
+    "editionId": "kasravi-history-of-the-lion-and-the-sun.fa.wikisource",
+    "kind": "original",
+    "language": "fa",
+    "title": "تاریخچه شیر و خورشید"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1930: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q56364888",
+      "https://www.wikidata.org/wiki/Q400678",
+      "https://fa.wikisource.org/wiki/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DA%86%D9%87_%D8%B4%DB%8C%D8%B1_%D9%88_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. احمد کسروی died in 1946 and the work was first published in 1930. Source: fa.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "تاریخچه شیر و خورشید",
+    "pages": [
+      {
+        "revision": 291024,
+        "title": "تاریخچه شیر و خورشید"
+      },
+      {
+        "revision": 135013,
+        "title": "تاریخچه شیر و خورشید/آغاز سخن"
+      },
+      {
+        "revision": 135014,
+        "title": "تاریخچه شیر و خورشید/گفتار نخستین"
+      },
+      {
+        "revision": 135015,
+        "title": "تاریخچه شیر و خورشید/گفتار دومین"
+      },
+      {
+        "revision": 135016,
+        "title": "تاریخچه شیر و خورشید/گفتار سومین"
+      },
+      {
+        "revision": 135017,
+        "title": "تاریخچه شیر و خورشید/واژه‌نامه"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:01:45.866072Z",
+    "revision": "291024",
+    "site": "fa.wikisource.org",
+    "url": "https://fa.wikisource.org/wiki/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DA%86%D9%87_%D8%B4%DB%8C%D8%B1_%D9%88_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1890,
+      "deathYear": 1946,
+      "name": "احمد کسروی",
+      "wikidata": "Q400678"
+    },
+    "originalLanguage": "fa",
+    "originalPublicationYear": 1930,
+    "originalTitle": "تاریخچه شیر و خورشید",
+    "workId": "kasravi-history-of-the-lion-and-the-sun"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:29:52.711435Z",
+    "chapterCount": 1,
+    "contentSha256": "84a14113f22e6eb4844151ed4bc4bb303873058f57ca5d4284660873c97fcff7",
+    "normalizerVersion": "0.2.0",
+    "path": "books/la/maior-de-agri-cultura.la.wikisource/v1/book.json.gz",
+    "sha256": "c17be8ec813ba9741e73f1e2fa06603b056896232452abd5d4aac0b8557ed404",
+    "sizeBytes": 39631,
+    "uncompressedSizeBytes": 107223,
+    "wordCount": 15661
+  },
+  "edition": {
+    "editionId": "maior-de-agri-cultura.la.wikisource",
+    "kind": "original",
+    "language": "la",
+    "title": "De agri cultura"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died -148: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published -160: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1180565",
+      "https://www.wikidata.org/wiki/Q180081",
+      "https://la.wikisource.org/wiki/De_agri_cultura"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Marcus Porcius Cato maior died in -148 and the work was first published in -160. Source: la.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "De agri cultura",
+    "pages": [
+      {
+        "revision": 252868,
+        "title": "De agri cultura"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:55:39.736044Z",
+    "revision": "252868",
+    "site": "la.wikisource.org",
+    "url": "https://la.wikisource.org/wiki/De_agri_cultura"
+  },
+  "work": {
+    "author": {
+      "birthYear": -233,
+      "deathYear": -148,
+      "name": "Marcus Porcius Cato maior",
+      "wikidata": "Q180081"
+    },
+    "originalLanguage": "la",
+    "originalPublicationYear": -160,
+    "originalTitle": "De agri cultura",
+    "workId": "maior-de-agri-cultura"
+  }
+}

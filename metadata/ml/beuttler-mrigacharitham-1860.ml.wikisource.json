@@ -1,0 +1,109 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:30:01.857990Z",
+    "chapterCount": 8,
+    "contentSha256": "99a6c734a58a3a84e08d62cc3858a449c170dd3c326a666b75adb3e15bd83bff",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ml/beuttler-mrigacharitham-1860.ml.wikisource/v1/book.json.gz",
+    "sha256": "eb17ef85acc7c9969f5e6a23e1e23e8ce0dd1d13236887ef86cfc55bbb335431",
+    "sizeBytes": 65273,
+    "uncompressedSizeBytes": 365802,
+    "wordCount": 15201
+  },
+  "edition": {
+    "editionId": "beuttler-mrigacharitham-1860.ml.wikisource",
+    "kind": "original",
+    "language": "ml",
+    "title": "മൃഗചരിതം"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1877: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1860: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q61374391",
+      "https://www.wikidata.org/wiki/Q61061757",
+      "https://ml.wikisource.org/wiki/%E0%B4%AE%E0%B5%83%E0%B4%97%E0%B4%9A%E0%B4%B0%E0%B4%BF%E0%B4%A4%E0%B4%82"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ജെ.ജി. ബ്യൂട്ട്ലർ died in 1877 and the work was first published in 1860. Source: ml.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "മൃഗചരിതം",
+    "pages": [
+      {
+        "revision": 175189,
+        "title": "മൃഗചരിതം"
+      },
+      {
+        "revision": 175170,
+        "title": "മൃഗചരിതം/പ്രധാനതാൾ"
+      },
+      {
+        "revision": 175196,
+        "title": "മൃഗചരിതം/തരഗതി"
+      },
+      {
+        "revision": 175195,
+        "title": "മൃഗചരിതം/തലവാചകം"
+      },
+      {
+        "revision": 175194,
+        "title": "മൃഗചരിതം/൧–ം പൎവ്വം"
+      },
+      {
+        "revision": 175197,
+        "title": "മൃഗചരിതം/൨–ം പൎവ്വം"
+      },
+      {
+        "revision": 175198,
+        "title": "മൃഗചരിതം/൩–ം പൎവ്വം"
+      },
+      {
+        "revision": 175187,
+        "title": "മൃഗചരിതം/൪–ം പൎവ്വം"
+      },
+      {
+        "revision": 175188,
+        "title": "മൃഗചരിതം/൫–ം പൎവ്വം"
+      },
+      {
+        "revision": 175199,
+        "title": "മൃഗചരിതം/൬–ം പൎവ്വം"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:57:27.958834Z",
+    "revision": "175189",
+    "site": "ml.wikisource.org",
+    "url": "https://ml.wikisource.org/wiki/%E0%B4%AE%E0%B5%83%E0%B4%97%E0%B4%9A%E0%B4%B0%E0%B4%BF%E0%B4%A4%E0%B4%82"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1824,
+      "deathYear": 1877,
+      "name": "ജെ.ജി. ബ്യൂട്ട്ലർ",
+      "wikidata": "Q61061757"
+    },
+    "originalLanguage": "ml",
+    "originalPublicationYear": 1860,
+    "originalTitle": "മൃഗചരിതം",
+    "workId": "beuttler-mrigacharitham-1860"
+  }
+}

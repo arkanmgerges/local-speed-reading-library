@@ -1,0 +1,67 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:23:01.278809Z",
+    "chapterCount": 5,
+    "contentSha256": "a51dc231cff16f452d1ff45d909cb5787f61115fbc0164791629ccce2e3e1872",
+    "normalizerVersion": "0.2.0",
+    "path": "books/de/salten-josefine-mutzenbacher-oder-die-geschichte-einer-wienerischen.de.gutenberg/v1/book.json.gz",
+    "sha256": "fb21939a77e6fe7338984e6c13598a3d742e8f51059b7d4a11a39ad8d2204fa3",
+    "sizeBytes": 146976,
+    "uncompressedSizeBytes": 440217,
+    "wordCount": 69488
+  },
+  "edition": {
+    "editionId": "salten-josefine-mutzenbacher-oder-die-geschichte-einer-wienerischen.de.gutenberg",
+    "kind": "original",
+    "language": "de",
+    "title": "Josefine Mutzenbacher oder Die Geschichte einer Wienerischen Dirne von ihr selbst erzählt"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1945: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1906: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/31284",
+      "https://en.wikipedia.org/wiki/Felix_Salten",
+      "https://de.wikipedia.org/wiki/Felix_Salten",
+      "https://www.wikidata.org/wiki/Q255423"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Felix Salten died in 1945 and the work was first published in 1906. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "31284",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:26:21.878383Z",
+    "revision": "Sun, 13 Sep 2026 07:48:41 GMT",
+    "url": "https://www.gutenberg.org/ebooks/31284"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1869,
+      "deathYear": 1945,
+      "name": "Felix Salten",
+      "wikidata": "Q163747"
+    },
+    "originalLanguage": "de",
+    "originalPublicationYear": 1906,
+    "originalTitle": "Josefine Mutzenbacher oder Die Geschichte einer Wienerischen Dirne von ihr selbst erzählt",
+    "workId": "salten-josefine-mutzenbacher-oder-die-geschichte-einer-wienerischen"
+  }
+}

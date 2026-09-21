@@ -1,0 +1,251 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:57:48.245301Z",
+    "chapterCount": 42,
+    "contentSha256": "2376b4dcc8000f6823ae0fe6de5dedbbe638b8780b05322744e4636ad4bc90cb",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fr/swift-les-voyages-de-gulliver.fr.wikisource/v1/book.json.gz",
+    "sha256": "ed059954e53401a3df6103ccf201a97a8fd48888a8a01b04f8373c066a907939",
+    "sizeBytes": 359088,
+    "uncompressedSizeBytes": 1057403,
+    "wordCount": 170501
+  },
+  "edition": {
+    "editionId": "swift-les-voyages-de-gulliver.fr.wikisource",
+    "kind": "translation",
+    "language": "fr",
+    "title": "Les Voyages de Gulliver",
+    "translationPublicationYear": 1832,
+    "translator": {
+      "birthYear": 1685,
+      "deathYear": 1745,
+      "name": "Pierre-François Guyot Desfontaines",
+      "wikidata": "Q1382542"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1745: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1745: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1832: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q181488",
+      "https://www.wikidata.org/wiki/Q42573588",
+      "https://www.wikidata.org/wiki/Q41166",
+      "https://www.wikidata.org/wiki/Q1382542",
+      "https://fr.wikisource.org/wiki/Les_Voyages_de_Gulliver"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Jonathan Swift died in 1745; the translator Pierre-François Guyot Desfontaines died in 1745 and this translation was first published in 1832. Source: fr.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Les Voyages de Gulliver",
+    "pages": [
+      {
+        "revision": 13895033,
+        "title": "Les Voyages de Gulliver"
+      },
+      {
+        "revision": 14176466,
+        "title": "Les Voyages de Gulliver/Texte entier"
+      },
+      {
+        "revision": 12716835,
+        "title": "Les Voyages de Gulliver/Notice"
+      },
+      {
+        "revision": 7451811,
+        "title": "Les Voyages de Gulliver/Voyage à Lilliput"
+      },
+      {
+        "revision": 15144185,
+        "title": "Les Voyages de Gulliver/Voyage à Lilliput/I"
+      },
+      {
+        "revision": 12716837,
+        "title": "Les Voyages de Gulliver/Voyage à Lilliput/II"
+      },
+      {
+        "revision": 12716839,
+        "title": "Les Voyages de Gulliver/Voyage à Lilliput/III"
+      },
+      {
+        "revision": 12716841,
+        "title": "Les Voyages de Gulliver/Voyage à Lilliput/IV"
+      },
+      {
+        "revision": 12716842,
+        "title": "Les Voyages de Gulliver/Voyage à Lilliput/V"
+      },
+      {
+        "revision": 12716844,
+        "title": "Les Voyages de Gulliver/Voyage à Lilliput/VI"
+      },
+      {
+        "revision": 12716845,
+        "title": "Les Voyages de Gulliver/Voyage à Lilliput/VII"
+      },
+      {
+        "revision": 12716848,
+        "title": "Les Voyages de Gulliver/Voyage à Lilliput/VIII"
+      },
+      {
+        "revision": 7451650,
+        "title": "Les Voyages de Gulliver/Voyage à Brobdingnag"
+      },
+      {
+        "revision": 12716850,
+        "title": "Les Voyages de Gulliver/Voyage à Brobdingnag/I"
+      },
+      {
+        "revision": 12716851,
+        "title": "Les Voyages de Gulliver/Voyage à Brobdingnag/II"
+      },
+      {
+        "revision": 12716853,
+        "title": "Les Voyages de Gulliver/Voyage à Brobdingnag/III"
+      },
+      {
+        "revision": 13169001,
+        "title": "Les Voyages de Gulliver/Voyage à Brobdingnag/IV"
+      },
+      {
+        "revision": 12716856,
+        "title": "Les Voyages de Gulliver/Voyage à Brobdingnag/V"
+      },
+      {
+        "revision": 13169005,
+        "title": "Les Voyages de Gulliver/Voyage à Brobdingnag/VI"
+      },
+      {
+        "revision": 7451808,
+        "title": "Les Voyages de Gulliver/Voyage à Laputa, aux Balnibarbes, à Luggnagg, à Gloubbdoubdrie et au Japon"
+      },
+      {
+        "revision": 12716859,
+        "title": "Les Voyages de Gulliver/Voyage à Laputa, aux Balnibarbes, à Luggnagg, à Gloubbdoubdrie et au Japon/I"
+      },
+      {
+        "revision": 12716861,
+        "title": "Les Voyages de Gulliver/Voyage à Laputa, aux Balnibarbes, à Luggnagg, à Gloubbdoubdrie et au Japon/II"
+      },
+      {
+        "revision": 15428185,
+        "title": "Les Voyages de Gulliver/Voyage à Laputa, aux Balnibarbes, à Luggnagg, à Gloubbdoubdrie et au Japon/III"
+      },
+      {
+        "revision": 12716865,
+        "title": "Les Voyages de Gulliver/Voyage à Laputa, aux Balnibarbes, à Luggnagg, à Gloubbdoubdrie et au Japon/IV"
+      },
+      {
+        "revision": 12716866,
+        "title": "Les Voyages de Gulliver/Voyage à Laputa, aux Balnibarbes, à Luggnagg, à Gloubbdoubdrie et au Japon/V"
+      },
+      {
+        "revision": 12716868,
+        "title": "Les Voyages de Gulliver/Voyage à Laputa, aux Balnibarbes, à Luggnagg, à Gloubbdoubdrie et au Japon/VI"
+      },
+      {
+        "revision": 12716869,
+        "title": "Les Voyages de Gulliver/Voyage à Laputa, aux Balnibarbes, à Luggnagg, à Gloubbdoubdrie et au Japon/VII"
+      },
+      {
+        "revision": 12716870,
+        "title": "Les Voyages de Gulliver/Voyage à Laputa, aux Balnibarbes, à Luggnagg, à Gloubbdoubdrie et au Japon/VIII"
+      },
+      {
+        "revision": 12716872,
+        "title": "Les Voyages de Gulliver/Voyage à Laputa, aux Balnibarbes, à Luggnagg, à Gloubbdoubdrie et au Japon/IX"
+      },
+      {
+        "revision": 12716874,
+        "title": "Les Voyages de Gulliver/Voyage à Laputa, aux Balnibarbes, à Luggnagg, à Gloubbdoubdrie et au Japon/X"
+      },
+      {
+        "revision": 7451697,
+        "title": "Les Voyages de Gulliver/Voyage au pays des Houyhnhnms"
+      },
+      {
+        "revision": 15144183,
+        "title": "Les Voyages de Gulliver/Voyage au pays des Houyhnhnms/I"
+      },
+      {
+        "revision": 15144184,
+        "title": "Les Voyages de Gulliver/Voyage au pays des Houyhnhnms/II"
+      },
+      {
+        "revision": 12716878,
+        "title": "Les Voyages de Gulliver/Voyage au pays des Houyhnhnms/III"
+      },
+      {
+        "revision": 12716879,
+        "title": "Les Voyages de Gulliver/Voyage au pays des Houyhnhnms/IV"
+      },
+      {
+        "revision": 12716881,
+        "title": "Les Voyages de Gulliver/Voyage au pays des Houyhnhnms/V"
+      },
+      {
+        "revision": 12716882,
+        "title": "Les Voyages de Gulliver/Voyage au pays des Houyhnhnms/VI"
+      },
+      {
+        "revision": 12716884,
+        "title": "Les Voyages de Gulliver/Voyage au pays des Houyhnhnms/VII"
+      },
+      {
+        "revision": 12716956,
+        "title": "Les Voyages de Gulliver/Voyage au pays des Houyhnhnms/VIII"
+      },
+      {
+        "revision": 12716957,
+        "title": "Les Voyages de Gulliver/Voyage au pays des Houyhnhnms/IX"
+      },
+      {
+        "revision": 12716959,
+        "title": "Les Voyages de Gulliver/Voyage au pays des Houyhnhnms/X"
+      },
+      {
+        "revision": 12716960,
+        "title": "Les Voyages de Gulliver/Voyage au pays des Houyhnhnms/XI"
+      },
+      {
+        "revision": 12716961,
+        "title": "Les Voyages de Gulliver/Voyage au pays des Houyhnhnms/XII"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:14:12.661954Z",
+    "revision": "13895033",
+    "site": "fr.wikisource.org",
+    "url": "https://fr.wikisource.org/wiki/Les_Voyages_de_Gulliver"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1667,
+      "deathYear": 1745,
+      "name": "Jonathan Swift",
+      "wikidata": "Q41166"
+    },
+    "originalLanguage": "en",
+    "originalPublicationYear": 1726,
+    "originalTitle": "Les Voyages de Gulliver",
+    "workId": "swift-les-voyages-de-gulliver"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:09:00.775878Z",
+    "chapterCount": 260,
+    "contentSha256": "c8ab62d17c5a9ef3d17acd1afd87bf9456cc059a90d2a424d06483ed48b6af80",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/silian-book-of-chen.zh-hant.wikisource/v1/book.json.gz",
+    "sha256": "003f2b312bdfa8ea4a19f996c7647f433d2e5b6bbdb97db5954c9c46ca6a1704",
+    "sizeBytes": 280745,
+    "uncompressedSizeBytes": 655797,
+    "wordCount": 1746
+  },
+  "edition": {
+    "editionId": "silian-book-of-chen.zh-hant.wikisource",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "陳書"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 637: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 636: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q1275744",
+      "https://www.wikidata.org/wiki/Q1275756",
+      "https://zh.wikisource.org/wiki/%E9%99%B3%E6%9B%B8"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 姚思廉 died in 637 and the work was first published in 636. Source: zh.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "陳書",
+    "pages": [
+      {
+        "revision": 2138415,
+        "title": "陳書"
+      },
+      {
+        "revision": 1494989,
+        "title": "陳書/序"
+      },
+      {
+        "revision": 2576168,
+        "title": "陳書/卷1"
+      },
+      {
+        "revision": 2360700,
+        "title": "陳書/卷2"
+      },
+      {
+        "revision": 2361318,
+        "title": "陳書/卷3"
+      },
+      {
+        "revision": 8231316,
+        "title": "陳書/卷4"
+      },
+      {
+        "revision": 2374950,
+        "title": "陳書/卷5"
+      },
+      {
+        "revision": 2312453,
+        "title": "陳書/卷6"
+      },
+      {
+        "revision": 2015446,
+        "title": "陳書/卷7"
+      },
+      {
+        "revision": 1750028,
+        "title": "陳書/卷8"
+      },
+      {
+        "revision": 1488469,
+        "title": "陳書/卷9"
+      },
+      {
+        "revision": 1488471,
+        "title": "陳書/卷10"
+      },
+      {
+        "revision": 1488472,
+        "title": "陳書/卷11"
+      },
+      {
+        "revision": 1514500,
+        "title": "陳書/卷12"
+      },
+      {
+        "revision": 1511906,
+        "title": "陳書/卷13"
+      },
+      {
+        "revision": 2262003,
+        "title": "陳書/卷14"
+      },
+      {
+        "revision": 1530888,
+        "title": "陳書/卷15"
+      },
+      {
+        "revision": 2261985,
+        "title": "陳書/卷16"
+      },
+      {
+        "revision": 1544244,
+        "title": "陳書/卷17"
+      },
+      {
+        "revision": 2132778,
+        "title": "陳書/卷18"
+      },
+      {
+        "revision": 2132781,
+        "title": "陳書/卷19"
+      },
+      {
+        "revision": 1514499,
+        "title": "陳書/卷20"
+      },
+      {
+        "revision": 1511909,
+        "title": "陳書/卷21"
+      },
+      {
+        "revision": 1508518,
+        "title": "陳書/卷22"
+      },
+      {
+        "revision": 1514496,
+        "title": "陳書/卷23"
+      },
+      {
+        "revision": 1494985,
+        "title": "陳書/卷24"
+      },
+      {
+        "revision": 2063242,
+        "title": "陳書/卷25"
+      },
+      {
+        "revision": 2132678,
+        "title": "陳書/卷26"
+      },
+      {
+        "revision": 1463644,
+        "title": "陳書/卷27"
+      },
+      {
+        "revision": 2581394,
+        "title": "陳書/卷28"
+      },
+      {
+        "revision": 1511159,
+        "title": "陳書/卷29"
+      },
+      {
+        "revision": 1511158,
+        "title": "陳書/卷30"
+      },
+      {
+        "revision": 2149203,
+        "title": "陳書/卷31"
+      },
+      {
+        "revision": 1514501,
+        "title": "陳書/卷32"
+      },
+      {
+        "revision": 2261988,
+        "title": "陳書/卷33"
+      },
+      {
+        "revision": 2132783,
+        "title": "陳書/卷34"
+      },
+      {
+        "revision": 1512989,
+        "title": "陳書/卷35"
+      },
+      {
+        "revision": 1530928,
+        "title": "陳書/卷36"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T05:52:45.460391Z",
+    "revision": "2138415",
+    "site": "zh.wikisource.org",
+    "url": "https://zh.wikisource.org/wiki/%E9%99%B3%E6%9B%B8"
+  },
+  "work": {
+    "author": {
+      "birthYear": 557,
+      "deathYear": 637,
+      "name": "姚思廉",
+      "wikidata": "Q1275756"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": 636,
+    "originalTitle": "陳書",
+    "workId": "silian-book-of-chen"
+  }
+}

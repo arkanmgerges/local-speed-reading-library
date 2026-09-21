@@ -1,0 +1,177 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:58:30.439048Z",
+    "chapterCount": 26,
+    "contentSha256": "4badd3aae019c83d7f9af257ef83b740215d8ae62a244608f63aa7e20ad5042c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/hr/senoa-zlatarevo-zlato.hr.wikisource/v1/book.json.gz",
+    "sha256": "bdce0f8821db7f2f6faa66021e59924398b428332e90daa3c6bd36e8c185407c",
+    "sizeBytes": 204822,
+    "uncompressedSizeBytes": 512528,
+    "wordCount": 80153
+  },
+  "edition": {
+    "editionId": "senoa-zlatarevo-zlato.hr.wikisource",
+    "kind": "original",
+    "language": "hr",
+    "title": "Zlatarevo zlato"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1881: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1871: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12645744",
+      "https://www.wikidata.org/wiki/Q347672",
+      "https://hr.wikisource.org/wiki/Zlatarevo_zlato"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. August Šenoa died in 1881 and the work was first published in 1871. Source: hr.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Zlatarevo zlato",
+    "pages": [
+      {
+        "revision": 31487,
+        "title": "Zlatarevo zlato"
+      },
+      {
+        "revision": 28153,
+        "title": "Zlatarevo zlato/I"
+      },
+      {
+        "revision": 28154,
+        "title": "Zlatarevo zlato/II"
+      },
+      {
+        "revision": 28155,
+        "title": "Zlatarevo zlato/III"
+      },
+      {
+        "revision": 28156,
+        "title": "Zlatarevo zlato/IV"
+      },
+      {
+        "revision": 28157,
+        "title": "Zlatarevo zlato/V"
+      },
+      {
+        "revision": 28158,
+        "title": "Zlatarevo zlato/VI"
+      },
+      {
+        "revision": 28159,
+        "title": "Zlatarevo zlato/VII"
+      },
+      {
+        "revision": 28160,
+        "title": "Zlatarevo zlato/VIII"
+      },
+      {
+        "revision": 28161,
+        "title": "Zlatarevo zlato/IX"
+      },
+      {
+        "revision": 28162,
+        "title": "Zlatarevo zlato/X"
+      },
+      {
+        "revision": 28163,
+        "title": "Zlatarevo zlato/XI"
+      },
+      {
+        "revision": 28164,
+        "title": "Zlatarevo zlato/XII"
+      },
+      {
+        "revision": 28165,
+        "title": "Zlatarevo zlato/XIII"
+      },
+      {
+        "revision": 28166,
+        "title": "Zlatarevo zlato/XIV"
+      },
+      {
+        "revision": 28167,
+        "title": "Zlatarevo zlato/XV"
+      },
+      {
+        "revision": 28168,
+        "title": "Zlatarevo zlato/XVI"
+      },
+      {
+        "revision": 28169,
+        "title": "Zlatarevo zlato/XVII"
+      },
+      {
+        "revision": 28170,
+        "title": "Zlatarevo zlato/XVIII"
+      },
+      {
+        "revision": 28171,
+        "title": "Zlatarevo zlato/XIX"
+      },
+      {
+        "revision": 28172,
+        "title": "Zlatarevo zlato/XX"
+      },
+      {
+        "revision": 28173,
+        "title": "Zlatarevo zlato/XXI"
+      },
+      {
+        "revision": 28174,
+        "title": "Zlatarevo zlato/XXII"
+      },
+      {
+        "revision": 28175,
+        "title": "Zlatarevo zlato/XXIII"
+      },
+      {
+        "revision": 28176,
+        "title": "Zlatarevo zlato/XXIV"
+      },
+      {
+        "revision": 28177,
+        "title": "Zlatarevo zlato/XXV"
+      },
+      {
+        "revision": 28178,
+        "title": "Zlatarevo zlato/XXVI"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T03:34:36.187983Z",
+    "revision": "31487",
+    "site": "hr.wikisource.org",
+    "url": "https://hr.wikisource.org/wiki/Zlatarevo_zlato"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1838,
+      "deathYear": 1881,
+      "name": "August Šenoa",
+      "wikidata": "Q347672"
+    },
+    "originalLanguage": "hr",
+    "originalPublicationYear": 1871,
+    "originalTitle": "Zlatarevo zlato",
+    "workId": "senoa-zlatarevo-zlato"
+  }
+}

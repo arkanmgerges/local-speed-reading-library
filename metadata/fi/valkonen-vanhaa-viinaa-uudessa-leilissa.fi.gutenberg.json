@@ -1,0 +1,63 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:56:50.405470Z",
+    "chapterCount": 31,
+    "contentSha256": "990b973c59fd547cdb204f8ba6502f83745de17e66b4571629c99f0ef893b338",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/valkonen-vanhaa-viinaa-uudessa-leilissa.fi.gutenberg/v1/book.json.gz",
+    "sha256": "e8ab770a0e17144dd8f3e93a876b36f8cc384d4384ecad533b5b9039da72e40c",
+    "sizeBytes": 58212,
+    "uncompressedSizeBytes": 158131,
+    "wordCount": 17942
+  },
+  "edition": {
+    "editionId": "valkonen-vanhaa-viinaa-uudessa-leilissa.fi.gutenberg",
+    "editionPublicationYear": 1929,
+    "kind": "original",
+    "language": "fi",
+    "title": "Vanhaa viinaa uudessa leilissä : $b Pakinoita"
+  },
+  "genres": [
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1945: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1929 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/78007"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Tatu Valkonen died in 1945 and the edition digitised by Project Gutenberg was printed in 1929. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "78007",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T03:05:06.152127Z",
+    "revision": "Mon, 31 Aug 2026 07:32:03 GMT",
+    "url": "https://www.gutenberg.org/ebooks/78007"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1885,
+      "deathYear": 1945,
+      "name": "Tatu Valkonen"
+    },
+    "originalLanguage": "fi",
+    "originalTitle": "Vanhaa viinaa uudessa leilissä : $b Pakinoita",
+    "workId": "valkonen-vanhaa-viinaa-uudessa-leilissa"
+  }
+}

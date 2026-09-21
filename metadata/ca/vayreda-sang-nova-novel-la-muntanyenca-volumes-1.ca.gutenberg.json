@@ -1,0 +1,66 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T06:21:43.504771Z",
+    "chapterCount": 77,
+    "contentSha256": "16056b9b2a75d299321c0937d4382986478602a30fd74bcff6c37f89ad5f5d2f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ca/vayreda-sang-nova-novel-la-muntanyenca-volumes-1.ca.gutenberg/v1/book.json.gz",
+    "sha256": "829beae265d205a25970767b2dbfa6bc1f64c3d42819721643ba6a237033feb2",
+    "sizeBytes": 226926,
+    "uncompressedSizeBytes": 587146,
+    "wordCount": 95208
+  },
+  "edition": {
+    "editionId": "vayreda-sang-nova-novel-la-muntanyenca-volumes-1.ca.gutenberg",
+    "kind": "original",
+    "language": "ca",
+    "title": "Sang Nova Novel, la muntanyenca (Volumes 1 and 2)"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1903: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1900: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/23021",
+      "https://en.wikipedia.org/wiki/Marian_Vayreda_i_Vila",
+      "https://www.wikidata.org/wiki/Q28711587"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Marià Vayreda died in 1903 and the work was first published in 1900. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "23021",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T02:06:22.729862Z",
+    "revision": "Wed, 09 Sep 2026 16:27:46 GMT",
+    "url": "https://www.gutenberg.org/ebooks/23021"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1853,
+      "deathYear": 1903,
+      "name": "Marià Vayreda",
+      "wikidata": "Q54215"
+    },
+    "originalLanguage": "ca",
+    "originalPublicationYear": 1900,
+    "originalTitle": "Sang Nova Novel, la muntanyenca (Volumes 1 and 2)",
+    "workId": "vayreda-sang-nova-novel-la-muntanyenca-volumes-1"
+  }
+}

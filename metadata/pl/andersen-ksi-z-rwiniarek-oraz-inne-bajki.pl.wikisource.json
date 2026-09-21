@@ -1,0 +1,87 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T07:03:05.673237Z",
+    "chapterCount": 2,
+    "contentSha256": "e86f818c746adc9a686efdbeaaa5a3878d01b47fb03e6d528387c8e0be1649e0",
+    "normalizerVersion": "0.2.0",
+    "path": "books/pl/andersen-ksi-z-rwiniarek-oraz-inne-bajki.pl.wikisource/v1/book.json.gz",
+    "sha256": "1c697f91accd3dccfc928c96f00944369b4568d54c403124f35ca4585a06907d",
+    "sizeBytes": 24183,
+    "uncompressedSizeBytes": 61589,
+    "wordCount": 8809
+  },
+  "edition": {
+    "editionId": "andersen-ksi-z-rwiniarek-oraz-inne-bajki.pl.wikisource",
+    "kind": "translation",
+    "language": "pl",
+    "title": "Książę Świniarek oraz inne bajki",
+    "translationPublicationYear": 1928,
+    "translator": {
+      "birthYear": 1871,
+      "deathYear": 1930,
+      "name": "Franciszek Mirandola",
+      "wikidata": "Q9262740"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1875: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1930: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1928: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q11866",
+      "https://www.wikidata.org/wiki/Q133802910",
+      "https://www.wikidata.org/wiki/Q5673",
+      "https://www.wikidata.org/wiki/Q9262740",
+      "https://pl.wikisource.org/wiki/Ksi%C4%85%C5%BC%C4%99_%C5%9Awiniarek_oraz_inne_bajki"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Hans Christian Andersen died in 1875; the translator Franciszek Mirandola died in 1930 and this translation was first published in 1928. Source: pl.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Książę Świniarek oraz inne bajki",
+    "pages": [
+      {
+        "revision": 3767622,
+        "title": "Książę Świniarek oraz inne bajki"
+      },
+      {
+        "revision": 3769595,
+        "title": "Książę Świniarek oraz inne bajki/całość"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T04:20:32.053607Z",
+    "revision": "3767622",
+    "site": "pl.wikisource.org",
+    "url": "https://pl.wikisource.org/wiki/Ksi%C4%85%C5%BC%C4%99_%C5%9Awiniarek_oraz_inne_bajki"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1805,
+      "deathYear": 1875,
+      "name": "Hans Christian Andersen",
+      "wikidata": "Q5673"
+    },
+    "originalLanguage": "da",
+    "originalPublicationYear": 1837,
+    "originalTitle": "Książę Świniarek oraz inne bajki",
+    "workId": "andersen-ksi-z-rwiniarek-oraz-inne-bajki"
+  }
+}

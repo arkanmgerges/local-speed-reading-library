@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 20,
+        "contentSha256": "279a5c1a9a8e893fc488b8732c2dab6dcc89b641fbb6f81de879083d34cdb1f4",
+        "encoding": "gzip",
+        "path": "books/is/stowe-tomas-fr-ndi.is.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e6a59728e1c7d79a3acdbb747b466fd8bd7eae320970c03194f8b8ba994ff257",
+        "sizeBytes": 43362,
+        "uncompressedSizeBytes": 125429,
+        "wordCount": 18232
+      },
+      "author": "Harriet Beecher Stowe",
+      "authorDeathYear": 1896,
+      "editionId": "stowe-tomas-fr-ndi.is.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "is",
+      "originalLanguage": "en",
+      "originalPublicationYear": 1852,
+      "originalTitle": "Tómas frændi",
+      "rights": {
+        "statement": "Public domain worldwide. Harriet Beecher Stowe died in 1896; the translator Guðrún Lárusdóttir died in 1938 and this translation was first published in 1901. Source: is.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Tómas frændi",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T03:41:44.736392Z",
+        "revision": "26148",
+        "url": "https://is.wikisource.org/wiki/T%C3%B3mas_fr%C3%A6ndi"
+      },
+      "title": "Tómas frændi",
+      "translationPublicationYear": 1901,
+      "translator": "Guðrún Lárusdóttir",
+      "translatorDeathYear": 1938,
+      "workId": "stowe-tomas-fr-ndi"
+    }
+  ],
+  "direction": "ltr",
+  "englishName": "Icelandic",
+  "language": "is",
+  "manifestVersion": "7f7cd285b3e591a4",
+  "nativeName": "Íslenska",
+  "schemaVersion": 1
+}
