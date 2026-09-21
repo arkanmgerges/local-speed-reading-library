@@ -46,49 +46,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 11,
-        "contentSha256": "b44a025bf1c3edf9d8cd9775da8c076d0ac31ea40923d87f310522870d39d225",
-        "encoding": "gzip",
-        "path": "books/el/christomanos-q15618359.el.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "5f4d75e6ba50521aaeb793730aace15e6b39b6bc3e9f5cf9c70578aa68cc9caa",
-        "sizeBytes": 116995,
-        "uncompressedSizeBytes": 439816,
-        "wordCount": 43884
-      },
-      "author": "Κωνσταντίνος Χρηστομάνος",
-      "authorDeathYear": 1911,
-      "editionId": "christomanos-q15618359.el.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "el",
-      "originalLanguage": "el",
-      "originalPublicationYear": 1908,
-      "originalTitle": "Η κερένια κούκλα",
-      "rights": {
-        "statement": "Public domain worldwide. Κωνσταντίνος Χρηστομάνος died in 1911 and the work was first published in 1908. Source: el.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Η κερένια κούκλα",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T02:27:14.453135Z",
-        "revision": "162027",
-        "url": "https://el.wikisource.org/wiki/%CE%97_%CE%BA%CE%B5%CF%81%CE%AD%CE%BD%CE%B9%CE%B1_%CE%BA%CE%BF%CF%8D%CE%BA%CE%BB%CE%B1"
-      },
-      "title": "Η κερένια κούκλα",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "christomanos-q15618359"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 20,
         "contentSha256": "5bb00cd13d5abcb67803887aa3d234c2b69e9dfa3a00696982fee10ee298d776",
         "encoding": "gzip",
@@ -780,7 +737,7 @@
   "direction": "ltr",
   "englishName": "Greek",
   "language": "el",
-  "manifestVersion": "a8ea26a135c92e16",
+  "manifestVersion": "cf729a554b0ec55f",
   "nativeName": "Ελληνικά",
   "schemaVersion": 1
 }

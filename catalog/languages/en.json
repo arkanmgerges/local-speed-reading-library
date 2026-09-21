@@ -736,49 +736,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 47,
-        "contentSha256": "1f2569f257ceeb905547c6d71f8d8d6dc698b98d6e5ebbc8fd5abb50a684c22a",
-        "encoding": "gzip",
-        "path": "books/en/vatsyayana-the-kama-sutra-of-vatsyayana.en.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "fe88f3cbdd6083a78a343f97ddb665620c1b33a2c6a542a65d557f3fe188d1d0",
-        "sizeBytes": 103577,
-        "uncompressedSizeBytes": 333872,
-        "wordCount": 55658
-      },
-      "author": "Vātsyāyana",
-      "authorDeathYear": 500,
-      "editionId": "vatsyayana-the-kama-sutra-of-vatsyayana.en.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "translation",
-      "language": "en",
-      "originalLanguage": "sa",
-      "originalPublicationYear": null,
-      "originalTitle": "The Kama Sutra of Vatsyayana",
-      "rights": {
-        "statement": "Public domain worldwide. Vātsyāyana died in 500; the translator Richard Francis Burton died in 1890 and this translation was first published in 1883. Source: en.wikisource.org transcription.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Kama Sutra (Burton)",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T02:39:23.314250Z",
-        "revision": "15262787",
-        "url": "https://en.wikisource.org/wiki/Kama_Sutra_(Burton)"
-      },
-      "title": "The Kama Sutra of Vatsyayana",
-      "translationPublicationYear": 1883,
-      "translator": "Richard Francis Burton",
-      "translatorDeathYear": 1890,
-      "workId": "vatsyayana-the-kama-sutra-of-vatsyayana"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 42,
         "contentSha256": "913fe924664b510d3ec1a034465556ba188b7cf588b813e809b7b9a72fddeca2",
         "encoding": "gzip",
@@ -866,7 +823,7 @@
   "direction": "ltr",
   "englishName": "English",
   "language": "en",
-  "manifestVersion": "6431e96c4d5f7022",
+  "manifestVersion": "b36f4ec7d6d0fc78",
   "nativeName": "English",
   "schemaVersion": 1
 }

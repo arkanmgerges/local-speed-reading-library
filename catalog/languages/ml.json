@@ -89,49 +89,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 19,
-        "contentSha256": "cd4299e1e5f863b0a020a8b31542d0924b36bdb4178c5bb65839c41e7968cc7c",
-        "encoding": "gzip",
-        "path": "books/ml/frohnmeyer-a-malayalam-catechism-of-physics-with-a-repertory-in-english.ml.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "6ff0f42fa08c2ff256b5ad5b974c04f9d1404cbea714a7bb83818eedba23304a",
-        "sizeBytes": 239712,
-        "uncompressedSizeBytes": 1194926,
-        "wordCount": 81328
-      },
-      "author": "എൽ. ജെ. ഫ്രോണ്മെയർ",
-      "authorDeathYear": 1921,
-      "editionId": "frohnmeyer-a-malayalam-catechism-of-physics-with-a-repertory-in-english.ml.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "ml",
-      "originalLanguage": "ml",
-      "originalPublicationYear": 1883,
-      "originalTitle": "പ്രകൃതിശാസ്ത്രം",
-      "rights": {
-        "statement": "Public domain worldwide. എൽ. ജെ. ഫ്രോണ്മെയർ died in 1921 and the work was first published in 1883. Source: ml.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "പ്രകൃതിശാസ്ത്രം (1883)",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:57:57.282870Z",
-        "revision": "210389",
-        "url": "https://ml.wikisource.org/wiki/%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%95%E0%B5%83%E0%B4%A4%E0%B4%BF%E0%B4%B6%E0%B4%BE%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82_(1883)"
-      },
-      "title": "പ്രകൃതിശാസ്ത്രം",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "frohnmeyer-a-malayalam-catechism-of-physics-with-a-repertory-in-english"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 6,
         "contentSha256": "bc16784f8c19b841d148a9e8fce3000369c02c9e900b6ca1f43d9f7276ec5c9e",
         "encoding": "gzip",
@@ -563,7 +520,7 @@
   "direction": "ltr",
   "englishName": "Malayalam",
   "language": "ml",
-  "manifestVersion": "0adb0a90b4aed680",
+  "manifestVersion": "656ff66a07d475b1",
   "nativeName": "മലയാളം",
   "schemaVersion": 1
 }

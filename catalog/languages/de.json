@@ -3,50 +3,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 79,
-        "contentSha256": "e2b1ea5222e4a9dc4bbc31010201c120daed2cfe0c4b09516878c463cc31bffa",
-        "encoding": "gzip",
-        "path": "books/de/bloch-der-marquis-de-sade-und-seine-zeit.de.gutenberg/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "e43ba372ef5cd190b8f1bd436e2d3ba9c163d4455ae9bc127c0d06dcc315ce2b",
-        "sizeBytes": 332997,
-        "uncompressedSizeBytes": 869344,
-        "wordCount": 120269
-      },
-      "author": "Iwan Bloch",
-      "authorDeathYear": 1922,
-      "editionId": "bloch-der-marquis-de-sade-und-seine-zeit.de.gutenberg",
-      "editionPublicationYear": 1922,
-      "genres": [
-        "History",
-        "Non-fiction"
-      ],
-      "kind": "original",
-      "language": "de",
-      "originalLanguage": "de",
-      "originalPublicationYear": null,
-      "originalTitle": "Der Marquis de Sade und seine Zeit.",
-      "rights": {
-        "statement": "Public domain worldwide. Iwan Bloch died in 1922 and the edition digitised by Project Gutenberg was printed in 1922. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "68400",
-        "provider": "gutenberg",
-        "retrievedAt": "2026-09-21T02:24:20.175406Z",
-        "revision": "Thu, 27 Aug 2026 10:40:47 GMT",
-        "url": "https://www.gutenberg.org/ebooks/68400"
-      },
-      "title": "Der Marquis de Sade und seine Zeit.",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "bloch-der-marquis-de-sade-und-seine-zeit"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 1,
         "contentSha256": "d08cd73bb43c531547d834327561d781d9d78ca6cb99b53ff25560a3f6b0a7c2",
         "encoding": "gzip",
@@ -523,92 +479,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 2,
-        "contentSha256": "5246b3856167db100e9a3b858341038344b23d16c9443ecafcc3db420a24e24e",
-        "encoding": "gzip",
-        "path": "books/de/sacher-masoch-venus-im-pelz.de.gutenberg/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "c6526d0189a45c0aee6f9648aa1cb2ba3c50be7e85e3763bcbdb42721ef1611b",
-        "sizeBytes": 95506,
-        "uncompressedSizeBytes": 269675,
-        "wordCount": 39817
-      },
-      "author": "Leopold Sacher-Masoch",
-      "authorDeathYear": 1895,
-      "editionId": "sacher-masoch-venus-im-pelz.de.gutenberg",
-      "editionPublicationYear": null,
-      "genres": [
-        "Fiction"
-      ],
-      "kind": "original",
-      "language": "de",
-      "originalLanguage": "de",
-      "originalPublicationYear": 1870,
-      "originalTitle": "Venus im Pelz",
-      "rights": {
-        "statement": "Public domain worldwide. Leopold Sacher-Masoch died in 1895 and the work was first published in 1870. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "56156",
-        "provider": "gutenberg",
-        "retrievedAt": "2026-09-21T02:26:18.696269Z",
-        "revision": "Sat, 22 Aug 2026 14:28:28 GMT",
-        "url": "https://www.gutenberg.org/ebooks/56156"
-      },
-      "title": "Venus im Pelz",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "sacher-masoch-venus-im-pelz"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 5,
-        "contentSha256": "a51dc231cff16f452d1ff45d909cb5787f61115fbc0164791629ccce2e3e1872",
-        "encoding": "gzip",
-        "path": "books/de/salten-josefine-mutzenbacher-oder-die-geschichte-einer-wienerischen.de.gutenberg/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "fb21939a77e6fe7338984e6c13598a3d742e8f51059b7d4a11a39ad8d2204fa3",
-        "sizeBytes": 146976,
-        "uncompressedSizeBytes": 440217,
-        "wordCount": 69488
-      },
-      "author": "Felix Salten",
-      "authorDeathYear": 1945,
-      "editionId": "salten-josefine-mutzenbacher-oder-die-geschichte-einer-wienerischen.de.gutenberg",
-      "editionPublicationYear": null,
-      "genres": [
-        "Fiction"
-      ],
-      "kind": "original",
-      "language": "de",
-      "originalLanguage": "de",
-      "originalPublicationYear": 1906,
-      "originalTitle": "Josefine Mutzenbacher oder Die Geschichte einer Wienerischen Dirne von ihr selbst erzählt",
-      "rights": {
-        "statement": "Public domain worldwide. Felix Salten died in 1945 and the work was first published in 1906. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "31284",
-        "provider": "gutenberg",
-        "retrievedAt": "2026-09-21T02:26:21.878383Z",
-        "revision": "Sun, 13 Sep 2026 07:48:41 GMT",
-        "url": "https://www.gutenberg.org/ebooks/31284"
-      },
-      "title": "Josefine Mutzenbacher oder Die Geschichte einer Wienerischen Dirne von ihr selbst erzählt",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "salten-josefine-mutzenbacher-oder-die-geschichte-einer-wienerischen"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 1,
         "contentSha256": "f1368fcb874d9c4fc8ae86c437de1b896e9f7961884d01f828d53e844afd023a",
         "encoding": "gzip",
@@ -869,7 +739,7 @@
   "direction": "ltr",
   "englishName": "German",
   "language": "de",
-  "manifestVersion": "9d8551d62b269a4a",
+  "manifestVersion": "b1df334fd93d47fd",
   "nativeName": "Deutsch",
   "schemaVersion": 1
 }

@@ -392,49 +392,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 18,
-        "contentSha256": "7f1a4f6b5102fb0c4715061abd4ce311e81499f0d15435ab3a50aeb8ff075483",
-        "encoding": "gzip",
-        "path": "books/pt/haggard-as-minas-de-salomao.pt.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "4092e2cf4c667dedb6ced809b51b54244ca62f495d3c18d8b10586025920896a",
-        "sizeBytes": 135268,
-        "uncompressedSizeBytes": 364504,
-        "wordCount": 58256
-      },
-      "author": "Henry Rider Haggard",
-      "authorDeathYear": 1925,
-      "editionId": "haggard-as-minas-de-salomao.pt.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "translation",
-      "language": "pt",
-      "originalLanguage": "en",
-      "originalPublicationYear": 1885,
-      "originalTitle": "As Minas de Salomão",
-      "rights": {
-        "statement": "Public domain worldwide. Henry Rider Haggard died in 1925; the translator Eça de Queirós died in 1900 and this translation was first published in 1891. Source: pt.wikisource.org transcription.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "As Minas de Salomão",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T04:47:51.014619Z",
-        "revision": "545791",
-        "url": "https://pt.wikisource.org/wiki/As_Minas_de_Salom%C3%A3o"
-      },
-      "title": "As Minas de Salomão",
-      "translationPublicationYear": 1891,
-      "translator": "Eça de Queirós",
-      "translatorDeathYear": 1900,
-      "workId": "haggard-as-minas-de-salomao"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 20,
         "contentSha256": "f7528cf0e9125531f8886692ed96b06b12787ecd535e7827d793a60c37de726d",
         "encoding": "gzip",
@@ -694,49 +651,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 27,
-        "contentSha256": "ab172b82428c6a39481de8b3adc78110d87c26d6fa717a4cbb1d289bcdcb808d",
-        "encoding": "gzip",
-        "path": "books/pt/queiros-o-crime-do-padre-amaro.pt.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "ea0be21cb949925d3afba06f8e333cb54637ce0010e5e6c1b24a2026d1303e05",
-        "sizeBytes": 332154,
-        "uncompressedSizeBytes": 906548,
-        "wordCount": 142947
-      },
-      "author": "Eça de Queirós",
-      "authorDeathYear": 1900,
-      "editionId": "queiros-o-crime-do-padre-amaro.pt.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "pt",
-      "originalLanguage": "pt",
-      "originalPublicationYear": 1875,
-      "originalTitle": "O Crime do Padre Amaro",
-      "rights": {
-        "statement": "Public domain worldwide. Eça de Queirós died in 1900 and the work was first published in 1875. Source: pt.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "O Crime do Padre Amaro",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T04:49:05.701730Z",
-        "revision": "298848",
-        "url": "https://pt.wikisource.org/wiki/O_Crime_do_Padre_Amaro"
-      },
-      "title": "O Crime do Padre Amaro",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "queiros-o-crime-do-padre-amaro"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 20,
         "contentSha256": "a4a4acadc234f17eb5e0efd1df13ec60e2759e10d1e93d2e9ec0ad59a18e7435",
         "encoding": "gzip",
@@ -867,7 +781,7 @@
   "direction": "ltr",
   "englishName": "Portuguese",
   "language": "pt",
-  "manifestVersion": "8d4f7d5d6d9ec2f0",
+  "manifestVersion": "1e4cd23187424979",
   "nativeName": "Português",
   "schemaVersion": 1
 }

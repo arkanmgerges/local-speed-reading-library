@@ -46,49 +46,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 3,
-        "contentSha256": "9be721b5164435a1a234c3890e7782102edf67806f599e91b69a3d14effb45b7",
-        "encoding": "gzip",
-        "path": "books/pt-br/alencar-iracema-com-uma-noticia-biographica-do-auctor.pt-br.gutenberg/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "2198fa864c112528c80da50a4fc3e68d3e86900004fc4cd7d4c4208b7a2d21cb",
-        "sizeBytes": 70112,
-        "uncompressedSizeBytes": 196270,
-        "wordCount": 30886
-      },
-      "author": "José Martiniano de Alencar",
-      "authorDeathYear": 1877,
-      "editionId": "alencar-iracema-com-uma-noticia-biographica-do-auctor.pt-br.gutenberg",
-      "editionPublicationYear": null,
-      "genres": [
-        "Fiction"
-      ],
-      "kind": "original",
-      "language": "pt-BR",
-      "originalLanguage": "pt-BR",
-      "originalPublicationYear": 1865,
-      "originalTitle": "Iracema com uma noticia biographica do auctor",
-      "rights": {
-        "statement": "Public domain worldwide. José Martiniano de Alencar died in 1877 and the work was first published in 1865. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "67740",
-        "provider": "gutenberg",
-        "retrievedAt": "2026-09-21T04:31:56.445944Z",
-        "revision": "Thu, 27 Aug 2026 08:05:27 GMT",
-        "url": "https://www.gutenberg.org/ebooks/67740"
-      },
-      "title": "Iracema com uma noticia biographica do auctor",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "alencar-iracema-com-uma-noticia-biographica-do-auctor"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 64,
         "contentSha256": "34a5dd065f82ae28917bde4ef9cbb9782cac2c66fcfac9a52dc897a31ef98634",
         "encoding": "gzip",
@@ -261,49 +218,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 146,
-        "contentSha256": "416e3b71545e9058c2eb5098a2f0404bbdacf660e10e1c00fff87275186f5403",
-        "encoding": "gzip",
-        "path": "books/pt-br/assis-dom-casmurro.pt-br.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "3589887efcf83b323c67ab552d7b89527c7d0191b15f311becb263b73b615bec",
-        "sizeBytes": 148818,
-        "uncompressedSizeBytes": 416358,
-        "wordCount": 64852
-      },
-      "author": "Machado de Assis",
-      "authorDeathYear": 1908,
-      "editionId": "assis-dom-casmurro.pt-br.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "pt-BR",
-      "originalLanguage": "pt-BR",
-      "originalPublicationYear": 1899,
-      "originalTitle": "Dom Casmurro",
-      "rights": {
-        "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1899. Source: pt.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Dom Casmurro",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T04:37:23.597058Z",
-        "revision": "542852",
-        "url": "https://pt.wikisource.org/wiki/Dom_Casmurro"
-      },
-      "title": "Dom Casmurro",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "assis-dom-casmurro"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 13,
         "contentSha256": "7b83ae46caa9464b2a5939f37467b629607e284c906c705b4c60bac602fb6af9",
         "encoding": "gzip",
@@ -343,49 +257,6 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "assis-o-alienista"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 195,
-        "contentSha256": "57201d4ceb6f2627c3269dc2af4276ff3fbdc9ff906aafa0cee310ae2d829f9e",
-        "encoding": "gzip",
-        "path": "books/pt-br/assis-quincas-borba.pt-br.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "cc1f764f5bc4f71922557b5d09da858a372b9062706157af371a32083c5d5fd0",
-        "sizeBytes": 180860,
-        "uncompressedSizeBytes": 508914,
-        "wordCount": 76736
-      },
-      "author": "Machado de Assis",
-      "authorDeathYear": 1908,
-      "editionId": "assis-quincas-borba.pt-br.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "pt-BR",
-      "originalLanguage": "pt-BR",
-      "originalPublicationYear": 1891,
-      "originalTitle": "Quincas Borba",
-      "rights": {
-        "statement": "Public domain worldwide. Machado de Assis died in 1908 and the work was first published in 1891. Source: pt.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Quincas Borba",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T04:41:58.611999Z",
-        "revision": "543048",
-        "url": "https://pt.wikisource.org/wiki/Quincas_Borba"
-      },
-      "title": "Quincas Borba",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "assis-quincas-borba"
     },
     {
       "asset": {
@@ -865,7 +736,7 @@
   "direction": "ltr",
   "englishName": "Portuguese Brazil",
   "language": "pt-BR",
-  "manifestVersion": "6e5517c22bcc33e5",
+  "manifestVersion": "804bb897d9fe4221",
   "nativeName": "Português (Brasil)",
   "schemaVersion": 1
 }

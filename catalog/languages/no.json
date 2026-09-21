@@ -390,92 +390,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 15,
-        "contentSha256": "69ef2d55f33405ae75420c7a841e3de0fa2f855a746fd346e799d6fe99b58656",
-        "encoding": "gzip",
-        "path": "books/no/hamsun-markens-grode-anden-del.no.gutenberg/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "206a06682839a8be00fd40a7a40049f88a580b009dba21a34201239ec4e7a84a",
-        "sizeBytes": 112903,
-        "uncompressedSizeBytes": 308861,
-        "wordCount": 55376
-      },
-      "author": "Knut Hamsun",
-      "authorDeathYear": 1952,
-      "editionId": "hamsun-markens-grode-anden-del.no.gutenberg",
-      "editionPublicationYear": null,
-      "genres": [
-        "Fiction"
-      ],
-      "kind": "original",
-      "language": "no",
-      "originalLanguage": "no",
-      "originalPublicationYear": 1917,
-      "originalTitle": "Markens grøde, Anden del",
-      "rights": {
-        "statement": "Public domain worldwide. Knut Hamsun died in 1952 and the work was first published in 1917. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "43725",
-        "provider": "gutenberg",
-        "retrievedAt": "2026-09-21T04:16:14.542234Z",
-        "revision": "Thu, 17 Sep 2026 17:59:09 GMT",
-        "url": "https://www.gutenberg.org/ebooks/43725"
-      },
-      "title": "Markens grøde, Anden del",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "hamsun-markens-grode-anden-del"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 22,
-        "contentSha256": "65ca46fabd01b0d94f968f945d4da3db55b935cb76a2ccc0f9af22b3a8ae9377",
-        "encoding": "gzip",
-        "path": "books/no/hamsun-markens-grode-forste-del.no.gutenberg/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "eefba7e74d98bf894c1632035cf94265016172485d9df5410661d8f21b7c2b1d",
-        "sizeBytes": 134757,
-        "uncompressedSizeBytes": 368495,
-        "wordCount": 66790
-      },
-      "author": "Knut Hamsun",
-      "authorDeathYear": 1952,
-      "editionId": "hamsun-markens-grode-forste-del.no.gutenberg",
-      "editionPublicationYear": null,
-      "genres": [
-        "Fiction"
-      ],
-      "kind": "original",
-      "language": "no",
-      "originalLanguage": "no",
-      "originalPublicationYear": 1917,
-      "originalTitle": "Markens grøde, Første del",
-      "rights": {
-        "statement": "Public domain worldwide. Knut Hamsun died in 1952 and the work was first published in 1917. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "43724",
-        "provider": "gutenberg",
-        "retrievedAt": "2026-09-21T04:16:17.682334Z",
-        "revision": "Thu, 17 Sep 2026 17:58:56 GMT",
-        "url": "https://www.gutenberg.org/ebooks/43724"
-      },
-      "title": "Markens grøde, Første del",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "hamsun-markens-grode-forste-del"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 31,
         "contentSha256": "6988468229e18936099a82c33a0cd95546274aeb1bb982a68f8903249eb85b6a",
         "encoding": "gzip",
@@ -864,7 +778,7 @@
   "direction": "ltr",
   "englishName": "Norwegian",
   "language": "no",
-  "manifestVersion": "c651905e42683f56",
+  "manifestVersion": "45b27a2e261e67b3",
   "nativeName": "Norsk",
   "schemaVersion": 1
 }

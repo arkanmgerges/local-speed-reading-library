@@ -33,6 +33,9 @@ class PublishCheck {
     final List<AssetRemoteStatus> out = <AssetRemoteStatus>[];
     for (final BookMetadata m in editions) {
       if (!isPublishable(m, policy)) continue;
+      // The CDN rate-limits a client to 60 requests per 10 seconds; two
+      // requests per asset at three assets a second stays under it.
+      await Future<void>.delayed(const Duration(milliseconds: 350));
       final String path = m.assetPathValue!;
       final Uri uri = Uri.parse('$baseUrl$path');
       try {

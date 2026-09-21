@@ -46,49 +46,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 51,
-        "contentSha256": "1f9ffb933393bf4cccfe9b03499862dff1fba62e26744d04105be80182adfb7b",
-        "encoding": "gzip",
-        "path": "books/cs/afanasyev-ruske-narodni-pohadky.cs.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "70d7c586a3fcea77917f5ca71601a8c18780f69eb9787c8c4258af558cf83870",
-        "sizeBytes": 159900,
-        "uncompressedSizeBytes": 454255,
-        "wordCount": 68303
-      },
-      "author": "Alexander Afanasyev",
-      "authorDeathYear": 1871,
-      "editionId": "afanasyev-ruske-narodni-pohadky.cs.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "translation",
-      "language": "cs",
-      "originalLanguage": "be",
-      "originalPublicationYear": 1855,
-      "originalTitle": "Ruské národní pohádky",
-      "rights": {
-        "statement": "Public domain worldwide. Alexander Afanasyev died in 1871; the translator František Vymazal died in 1917 and this translation was first published in 1883. Source: cs.wikisource.org transcription.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Ruské národní pohádky",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T10:00:48.716238Z",
-        "revision": "292188",
-        "url": "https://cs.wikisource.org/wiki/Rusk%C3%A9_n%C3%A1rodn%C3%AD_poh%C3%A1dky"
-      },
-      "title": "Ruské národní pohádky",
-      "translationPublicationYear": 1883,
-      "translator": "František Vymazal",
-      "translatorDeathYear": 1917,
-      "workId": "afanasyev-ruske-narodni-pohadky"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 1,
         "contentSha256": "bc253095f6113f44eb5907e3bf5f52d5c9923c6ea5d548428e2bfca5b6a412c4",
         "encoding": "gzip",
@@ -648,49 +605,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 147,
-        "contentSha256": "e68b61b7d9741196563a29a320e945c880bf8a097d319e0fc30e084e31c8a9a9",
-        "encoding": "gzip",
-        "path": "books/cs/thukydides-sepsani-valky-peloponnesske.cs.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "fa7e3addc20ab6166edf1aafe8e85d1c5cfd3f60f539e162dfacb2e240c26aa6",
-        "sizeBytes": 79020,
-        "uncompressedSizeBytes": 269255,
-        "wordCount": 33208
-      },
-      "author": "Thúkydidés",
-      "authorDeathYear": -394,
-      "editionId": "thukydides-sepsani-valky-peloponnesske.cs.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "translation",
-      "language": "cs",
-      "originalLanguage": "grc",
-      "originalPublicationYear": null,
-      "originalTitle": "Sepsání války peloponnesské",
-      "rights": {
-        "statement": "Public domain worldwide. Thúkydidés died in -394; the translator Jan Nepomuk František Desolda died in 1885 and this translation was first published in 1885. Source: cs.wikisource.org transcription.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Sepsání války peloponnesské",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T02:15:02.424016Z",
-        "revision": "281869",
-        "url": "https://cs.wikisource.org/wiki/Seps%C3%A1n%C3%AD_v%C3%A1lky_peloponnessk%C3%A9"
-      },
-      "title": "Sepsání války peloponnesské",
-      "translationPublicationYear": 1885,
-      "translator": "Jan Nepomuk František Desolda",
-      "translatorDeathYear": 1885,
-      "workId": "thukydides-sepsani-valky-peloponnesske"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 4,
         "contentSha256": "3cfb5fc69ee54e45d7246338abe7455853446f060b5a018740e0179e3f329fee",
         "encoding": "gzip",
@@ -821,7 +735,7 @@
   "direction": "ltr",
   "englishName": "Czech",
   "language": "cs",
-  "manifestVersion": "2e6d43536f157f6f",
+  "manifestVersion": "4cb5f101cb8040b8",
   "nativeName": "Čeština",
   "schemaVersion": 1
 }

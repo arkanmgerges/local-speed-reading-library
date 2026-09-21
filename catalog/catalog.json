@@ -2,7 +2,7 @@
   "assets": {
     "baseUrl": "https://books.localspeedreading.com/"
   },
-  "catalogVersion": "bbe34f578f24174e",
+  "catalogVersion": "b62bd698f028a586",
   "generatedBy": "lsr-library-tools 0.2.0",
   "languages": [
     {
@@ -86,13 +86,13 @@
       "nativeName": "Català"
     },
     {
-      "bookCount": 19,
+      "bookCount": 17,
       "direction": "ltr",
       "englishName": "Czech",
       "language": "cs",
       "manifest": "catalog/languages/cs.json",
-      "manifestSha256": "2799a593b64c20724810221a6600ee6db501a36cccd585e2c18c3d6c5b358e02",
-      "manifestVersion": "2e6d43536f157f6f",
+      "manifestSha256": "1b4f04b53d0e59cc4829e18696a494e1d7e03bd45c77e61164486b5baf44c04a",
+      "manifestVersion": "4cb5f101cb8040b8",
       "nativeName": "Čeština"
     },
     {
@@ -116,53 +116,53 @@
       "nativeName": "Dansk"
     },
     {
-      "bookCount": 20,
+      "bookCount": 17,
       "direction": "ltr",
       "englishName": "German",
       "language": "de",
       "manifest": "catalog/languages/de.json",
-      "manifestSha256": "221d4e8449092f67f591581a12fa89a13334f62125f2037ab5e6f335cd5b99e5",
-      "manifestVersion": "9d8551d62b269a4a",
+      "manifestSha256": "729d672e08c7dc1f6b59b0143046af031c3f82ce03ccff42b253a4817398fb10",
+      "manifestVersion": "b1df334fd93d47fd",
       "nativeName": "Deutsch"
     },
     {
-      "bookCount": 18,
+      "bookCount": 17,
       "direction": "ltr",
       "englishName": "Greek",
       "language": "el",
       "manifest": "catalog/languages/el.json",
-      "manifestSha256": "ad82b63bb2503b3b1c665fbe1bda3a07ecb3500b5e74ec2ac061024cacad2104",
-      "manifestVersion": "a8ea26a135c92e16",
+      "manifestSha256": "49753cba602362489c78bb03706332953688c3c852f935d80cce14fa540bb69f",
+      "manifestVersion": "cf729a554b0ec55f",
       "nativeName": "Ελληνικά"
     },
     {
-      "bookCount": 20,
+      "bookCount": 19,
       "direction": "ltr",
       "englishName": "English",
       "language": "en",
       "manifest": "catalog/languages/en.json",
-      "manifestSha256": "cae954dd042b42045fd2d98daa8182c61519652d6f2815fc20d7f7b67fa5d7f1",
-      "manifestVersion": "6431e96c4d5f7022",
+      "manifestSha256": "ab6a5a2a4d7fe92a327ccb9af21c6939b04d8d03ac2ee0b7cf274355a22a12d6",
+      "manifestVersion": "b36f4ec7d6d0fc78",
       "nativeName": "English"
     },
     {
-      "bookCount": 20,
+      "bookCount": 19,
       "direction": "ltr",
       "englishName": "Spanish",
       "language": "es",
       "manifest": "catalog/languages/es.json",
-      "manifestSha256": "2025e2b302ef16dcbcef3f6af4ed6f2792a7da9b377814585389b82a7051cf85",
-      "manifestVersion": "2b3e7b2287fe6f5e",
+      "manifestSha256": "65cdabe148ade1daf3917fc7bee5513eafefb3325960a794af91089346f547c7",
+      "manifestVersion": "6a563aa7472c6ca7",
       "nativeName": "Español"
     },
     {
-      "bookCount": 16,
+      "bookCount": 15,
       "direction": "ltr",
       "englishName": "Estonian",
       "language": "et",
       "manifest": "catalog/languages/et.json",
-      "manifestSha256": "0ca01300ac1b4c16e3d03416603a9c137f8e357e02fe023c9a1e02af8b0092b8",
-      "manifestVersion": "64cc8f531b742b7a",
+      "manifestSha256": "161ee939deb59ab8f953165c768704e5bb4197eadc89a71220aee0b31ca56cee",
+      "manifestVersion": "c69fa6fd67a5e730",
       "nativeName": "Eesti"
     },
     {
@@ -246,13 +246,13 @@
       "nativeName": "Hrvatski"
     },
     {
-      "bookCount": 20,
+      "bookCount": 19,
       "direction": "ltr",
       "englishName": "Hungarian",
       "language": "hu",
       "manifest": "catalog/languages/hu.json",
-      "manifestSha256": "aac1cbecf31231ffb67bd20f44772709aa6f512ee93e4e2b93a1e7b5498c5a9a",
-      "manifestVersion": "dbf727a5d963aca1",
+      "manifestSha256": "380b68f4433a21b7f121b94dac90d7c61831e2fc3ec2609515cdf7d09b1535a2",
+      "manifestVersion": "b80e39e9dc53d22d",
       "nativeName": "Magyar"
     },
     {
@@ -356,13 +356,13 @@
       "nativeName": "Македонски"
     },
     {
-      "bookCount": 13,
+      "bookCount": 12,
       "direction": "ltr",
       "englishName": "Malayalam",
       "language": "ml",
       "manifest": "catalog/languages/ml.json",
-      "manifestSha256": "9868096d19e5db4578074fea15177bd22bbb8a7b774cf47354229060ff24569b",
-      "manifestVersion": "0adb0a90b4aed680",
+      "manifestSha256": "d6c6fbef8ded4b4d3f09dd53c448c5cc00cb1c14b4fe3a158a55eaea70f8696e",
+      "manifestVersion": "656ff66a07d475b1",
       "nativeName": "മലയാളം"
     },
     {
@@ -386,13 +386,13 @@
       "nativeName": "Nederlands"
     },
     {
-      "bookCount": 20,
+      "bookCount": 18,
       "direction": "ltr",
       "englishName": "Norwegian",
       "language": "no",
       "manifest": "catalog/languages/no.json",
-      "manifestSha256": "e3a6d11e03db7f6ad7a2ff683af3620056f03a7fb6d6565079cdc40b479409b7",
-      "manifestVersion": "c651905e42683f56",
+      "manifestSha256": "f34b242331b16b2dbe425b2cb36fd28326251ac4e3efcc84f4847f7a468a7cb6",
+      "manifestVersion": "45b27a2e261e67b3",
       "nativeName": "Norsk"
     },
     {
@@ -406,23 +406,23 @@
       "nativeName": "Polski"
     },
     {
-      "bookCount": 20,
+      "bookCount": 18,
       "direction": "ltr",
       "englishName": "Portuguese",
       "language": "pt",
       "manifest": "catalog/languages/pt.json",
-      "manifestSha256": "568cb5e98b3f1132329f3a693cb4f27af4de73fe21002e607155ccd37e6925a1",
-      "manifestVersion": "8d4f7d5d6d9ec2f0",
+      "manifestSha256": "6ac4d8db32f10e620e6ace45b57d0a7ed01b6e284029fd188f88f1436f2845ff",
+      "manifestVersion": "1e4cd23187424979",
       "nativeName": "Português"
     },
     {
-      "bookCount": 20,
+      "bookCount": 17,
       "direction": "ltr",
       "englishName": "Portuguese Brazil",
       "language": "pt-BR",
       "manifest": "catalog/languages/pt-BR.json",
-      "manifestSha256": "afe751b7631e9bccc09c96d335ea42f6baba75cc2bcb4d461d12ac8c55414201",
-      "manifestVersion": "6e5517c22bcc33e5",
+      "manifestSha256": "a6aaff05f1fda489aee7c77a2dbc0d8cd5f9a7abf20a5432f609e5c49f9c67cf",
+      "manifestVersion": "804bb897d9fe4221",
       "nativeName": "Português (Brasil)"
     },
     {
