@@ -1,0 +1,157 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T09:56:05.136975Z",
+    "chapterCount": 21,
+    "contentSha256": "93ea1ebc73dd7c3524a57ba4ac95996491e188ebeed08953e97a73b27e8e5344",
+    "normalizerVersion": "0.2.0",
+    "path": "books/bn/vidyasagar-akhyanmanjari-part-3.bn.wikisource/v1/book.json.gz",
+    "sha256": "f87764474a2d73697aa97b15a405e34b5aad9c7e9b73afb80a47944435f74f86",
+    "sizeBytes": 65224,
+    "uncompressedSizeBytes": 389264,
+    "wordCount": 20258
+  },
+  "edition": {
+    "editionId": "vidyasagar-akhyanmanjari-part-3.bn.wikisource",
+    "kind": "original",
+    "language": "bn",
+    "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1891: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1918: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q106832954",
+      "https://www.wikidata.org/wiki/Q964111",
+      "https://bn.wikisource.org/wiki/%E0%A6%86%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%B0%E0%A7%80_(%E0%A6%A4%E0%A7%83%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%AD%E0%A6%BE%E0%A6%97)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ঈশ্বরচন্দ্র বিদ্যাসাগর died in 1891 and the work was first published in 1918. Source: bn.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)",
+    "pages": [
+      {
+        "revision": 1971672,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)"
+      },
+      {
+        "revision": 1647593,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/যথার্থ বদান্যতা"
+      },
+      {
+        "revision": 1647836,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/অদ্ভুত আতিথেয়তা"
+      },
+      {
+        "revision": 1647837,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/পতিপরায়ণতার একশেষ"
+      },
+      {
+        "revision": 1647838,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/দস্যু ও দিগ্বিজয়ী"
+      },
+      {
+        "revision": 1647840,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/নৃশংসতার চূড়ান্ত"
+      },
+      {
+        "revision": 1647844,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/চাতুরীর প্রতিফল"
+      },
+      {
+        "revision": 1647846,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/দয়াশীলতা"
+      },
+      {
+        "revision": 1647850,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/উৎকট বৈরসাধন"
+      },
+      {
+        "revision": 1647857,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/পতিব্রতা কামিনী"
+      },
+      {
+        "revision": 1647863,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/স্বপ্নসঞ্চরণ"
+      },
+      {
+        "revision": 1647866,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/অকুতোভয়তা"
+      },
+      {
+        "revision": 1647869,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/সৌভ্রাত্র"
+      },
+      {
+        "revision": 1647871,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/আশ্চর্য্য দস্যুদমন"
+      },
+      {
+        "revision": 1647873,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/দয়া ও সৌজন্যের পরাকাষ্ঠা"
+      },
+      {
+        "revision": 1647877,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/যতো ধর্ম্মস্ততো জয়ঃ"
+      },
+      {
+        "revision": 1647879,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/অকৃত্রিম প্রণয়"
+      },
+      {
+        "revision": 1647880,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/পিতৃভক্তি ও পতিপরায়ণতা"
+      },
+      {
+        "revision": 1647883,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/পুরুষজাতির নৃশংসতা"
+      },
+      {
+        "revision": 1647886,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/মহানুভবতা"
+      },
+      {
+        "revision": 1647888,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/অপত্যস্নেহের একশেষ"
+      },
+      {
+        "revision": 1647889,
+        "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)/দয়ালুতা ও ন্যায়পরতা"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T09:56:04.780467Z",
+    "revision": "1971672",
+    "site": "bn.wikisource.org",
+    "url": "https://bn.wikisource.org/wiki/%E0%A6%86%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%B0%E0%A7%80_(%E0%A6%A4%E0%A7%83%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%AD%E0%A6%BE%E0%A6%97)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1820,
+      "deathYear": 1891,
+      "name": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "wikidata": "Q964111"
+    },
+    "originalLanguage": "bn",
+    "originalPublicationYear": 1918,
+    "originalTitle": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)",
+    "workId": "vidyasagar-akhyanmanjari-part-3"
+  }
+}

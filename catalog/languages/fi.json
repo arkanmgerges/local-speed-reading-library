@@ -3,6 +3,49 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "516c64de6b8a360af23921c8d1c390bd4d76f740619373ba8e98729a80bd3ed4",
+        "encoding": "gzip",
+        "path": "books/fi/ahlqvist-ooperin-epo.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e0aac62f7856f12354c8ca5e67f7d20f67075a15d70093d49753bf0b88387976",
+        "sizeBytes": 66983,
+        "uncompressedSizeBytes": 172730,
+        "wordCount": 20457
+      },
+      "author": "Viktor Ahlqvist",
+      "authorDeathYear": 1931,
+      "editionId": "ahlqvist-ooperin-epo.fi.gutenberg",
+      "editionPublicationYear": 1927,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Ooperin Epo",
+      "rights": {
+        "statement": "Public domain worldwide. Viktor Ahlqvist died in 1931 and the edition digitised by Project Gutenberg was printed in 1927. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "76230",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T10:24:51.687082Z",
+        "revision": "Sun, 30 Aug 2026 13:02:45 GMT",
+        "url": "https://www.gutenberg.org/ebooks/76230"
+      },
+      "title": "Ooperin Epo",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "ahlqvist-ooperin-epo"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 6,
         "contentSha256": "1e4b905a353850e1c5cc0d015ca63dded7d7382bb1f044ef45dded4780c247a0",
         "encoding": "gzip",
@@ -436,6 +479,49 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 20,
+        "contentSha256": "d8378806da91d53d4b90bbf72acd3a08f0f5a768320d907a6a04d16db1065da8",
+        "encoding": "gzip",
+        "path": "books/fi/lehtonen-onnen-poika.fi.gutenberg/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d55a4d78de9302119e710c2e50a0adae1634ab92ec1ef92ff22280226c593718",
+        "sizeBytes": 94554,
+        "uncompressedSizeBytes": 246961,
+        "wordCount": 29281
+      },
+      "author": "Joel Lehtonen",
+      "authorDeathYear": 1934,
+      "editionId": "lehtonen-onnen-poika.fi.gutenberg",
+      "editionPublicationYear": 1925,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "fi",
+      "originalLanguage": "fi",
+      "originalPublicationYear": null,
+      "originalTitle": "Onnen poika : $b Vähäisiä muistokuvia",
+      "rights": {
+        "statement": "Public domain worldwide. Joel Lehtonen died in 1934 and the edition digitised by Project Gutenberg was printed in 1925. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "79245",
+        "provider": "gutenberg",
+        "retrievedAt": "2026-09-21T10:26:45.877594Z",
+        "revision": "Mon, 31 Aug 2026 12:53:52 GMT",
+        "url": "https://www.gutenberg.org/ebooks/79245"
+      },
+      "title": "Onnen poika : $b Vähäisiä muistokuvia",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "lehtonen-onnen-poika"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 7,
         "contentSha256": "f2bb190f8528f160ceb393e510dff023115593ea7ff26ea7082e98f203affb1f",
         "encoding": "gzip",
@@ -785,7 +871,7 @@
   "direction": "ltr",
   "englishName": "Finnish",
   "language": "fi",
-  "manifestVersion": "902afe267ddc0102",
+  "manifestVersion": "266afd675bdd31d2",
   "nativeName": "Suomi",
   "schemaVersion": 1
 }

@@ -175,6 +175,135 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "5b6e9941885a7581141b05105f337fdd77ce4c0a46d8e66795c93c86440e698b",
+        "encoding": "gzip",
+        "path": "books/ja/meiji-q117378157.ja.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c7ee365c02f439c76ab8020012bd15473246f15b4f6d64b514300f57464210cf",
+        "sizeBytes": 8936,
+        "uncompressedSizeBytes": 39472,
+        "wordCount": 454
+      },
+      "author": "明治天皇",
+      "authorDeathYear": 1912,
+      "editionId": "meiji-q117378157.ja.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ja",
+      "originalLanguage": "ja",
+      "originalPublicationYear": 1890,
+      "originalTitle": "小学校令",
+      "rights": {
+        "statement": "Public domain worldwide. 明治天皇 died in 1912 and the work was first published in 1890. Source: ja.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "小学校令 (明治23年勅令第215号)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:38:33.497347Z",
+        "revision": "206670",
+        "url": "https://ja.wikisource.org/wiki/%E5%B0%8F%E5%AD%A6%E6%A0%A1%E4%BB%A4_(%E6%98%8E%E6%B2%BB23%E5%B9%B4%E5%8B%85%E4%BB%A4%E7%AC%AC215%E5%8F%B7)"
+      },
+      "title": "小学校令",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "meiji-q117378157"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "af0171e08de4959f41eb4471e306edf73db61f9cff184c36c7e3342a4753a52f",
+        "encoding": "gzip",
+        "path": "books/ja/ogai-sansho-dayu.ja.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2010c729c53f943ab898988a59326f1693c84440d61c718873ae9911238ff40c",
+        "sizeBytes": 25946,
+        "uncompressedSizeBytes": 76977,
+        "wordCount": 227
+      },
+      "author": "森鷗外",
+      "authorDeathYear": 1922,
+      "editionId": "ogai-sansho-dayu.ja.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ja",
+      "originalLanguage": "ja",
+      "originalPublicationYear": 1915,
+      "originalTitle": "山椒大夫",
+      "rights": {
+        "statement": "Public domain worldwide. 森鷗外 died in 1922 and the work was first published in 1915. Source: ja.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "山椒大夫",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:38:53.002034Z",
+        "revision": "173009",
+        "url": "https://ja.wikisource.org/wiki/%E5%B1%B1%E6%A4%92%E5%A4%A7%E5%A4%AB"
+      },
+      "title": "山椒大夫",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "ogai-sansho-dayu"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "e1ca1c409825d8fe4c9f84d540ed63b93705d5d95f2d2faf11d65d47c039880f",
+        "encoding": "gzip",
+        "path": "books/ja/ogai-the-abe-family.ja.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a9f9f6211030bd4fec29409950753f43d4e3ea417350b8d47710c228982108d9",
+        "sizeBytes": 34070,
+        "uncompressedSizeBytes": 97734,
+        "wordCount": 172
+      },
+      "author": "森鷗外",
+      "authorDeathYear": 1922,
+      "editionId": "ogai-the-abe-family.ja.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ja",
+      "originalLanguage": "ja",
+      "originalPublicationYear": 1913,
+      "originalTitle": "阿部一族",
+      "rights": {
+        "statement": "Public domain worldwide. 森鷗外 died in 1922 and the work was first published in 1913. Source: ja.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "阿部一族",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:38:55.042074Z",
+        "revision": "173013",
+        "url": "https://ja.wikisource.org/wiki/%E9%98%BF%E9%83%A8%E4%B8%80%E6%97%8F"
+      },
+      "title": "阿部一族",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "ogai-the-abe-family"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 4,
         "contentSha256": "3d97e478461bea252298175bd0c06de42ec4f95905cc38bf00d65b3396584e41",
         "encoding": "gzip",
@@ -300,6 +429,92 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "sentoku-karafuto-ainu-sowa"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "cfce0baa0e4e83f5135c1e5bf027fce009c08eb5d8f9bd00890ba39d07155706",
+        "encoding": "gzip",
+        "path": "books/ja/shikibu-q106584307.ja.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "181b36bf4cd8d5e2c76126c18b762a2ce245ff8f6c497c40b0f994515b136c6f",
+        "sizeBytes": 412625,
+        "uncompressedSizeBytes": 1352147,
+        "wordCount": 392
+      },
+      "author": "紫式部",
+      "authorDeathYear": 1100,
+      "editionId": "shikibu-q106584307.ja.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ja",
+      "originalLanguage": "ja",
+      "originalPublicationYear": 1903,
+      "originalTitle": "國文大觀 第二編 物語部貳 源氏物語下",
+      "rights": {
+        "statement": "Public domain worldwide. 紫式部 died in 1100 and the work was first published in 1903. Source: ja.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "源氏物語 (國文大觀)/下",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:39:10.988844Z",
+        "revision": "195339",
+        "url": "https://ja.wikisource.org/wiki/%E6%BA%90%E6%B0%8F%E7%89%A9%E8%AA%9E_(%E5%9C%8B%E6%96%87%E5%A4%A7%E8%A7%80)/%E4%B8%8B"
+      },
+      "title": "國文大觀 第二編 物語部貳 源氏物語下",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "shikibu-q106584307"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "0800835b3d7ff68e86450f18ffe412786e542daa6e4d43b628f0af1bcce9cf04",
+        "encoding": "gzip",
+        "path": "books/ja/shimazaki-shinsei.ja.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "49e723130ffffdb02e59d10cb8dfaa169f86fb5483fd5ea1ab7e1f887e5370b6",
+        "sizeBytes": 333834,
+        "uncompressedSizeBytes": 1039831,
+        "wordCount": 3142
+      },
+      "author": "島崎藤村",
+      "authorDeathYear": 1943,
+      "editionId": "shimazaki-shinsei.ja.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ja",
+      "originalLanguage": "ja",
+      "originalPublicationYear": 1919,
+      "originalTitle": "新生",
+      "rights": {
+        "statement": "Public domain worldwide. 島崎藤村 died in 1943 and the work was first published in 1919. Source: ja.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "新生",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:39:17.372480Z",
+        "revision": "144107",
+        "url": "https://ja.wikisource.org/wiki/%E6%96%B0%E7%94%9F"
+      },
+      "title": "新生",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "shimazaki-shinsei"
     },
     {
       "asset": {
@@ -649,7 +864,7 @@
   "direction": "ltr",
   "englishName": "Japanese",
   "language": "ja",
-  "manifestVersion": "8c7e109c5b540a60",
+  "manifestVersion": "8fe5d5aae5d52299",
   "nativeName": "日本語",
   "schemaVersion": 1
 }

@@ -1,0 +1,149 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T11:43:43.219036Z",
+    "chapterCount": 19,
+    "contentSha256": "b77bce84b627e1454f3ae4d3825d37bb75bb0041b77e8fd2d293c3e634c9d93e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/muqaffa-kalila-wa-dimna.ar.wikisource/v1/book.json.gz",
+    "sha256": "a0d37ee9dd2e44fccd0154343aecb3c34ec3e8200a5551e45bac00ba554553ec",
+    "sizeBytes": 120966,
+    "uncompressedSizeBytes": 437684,
+    "wordCount": 45653
+  },
+  "edition": {
+    "editionId": "muqaffa-kalila-wa-dimna.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "كليلة ودمنة"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 759: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 750: more than 95 years ago (US term expired) - Ibn al-Muqaffa’s Arabic version dates from about 750 (Wikidata P577 on Q12064127)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12064127",
+      "https://www.wikidata.org/wiki/Q1060637",
+      "https://en.wikipedia.org/wiki/Ibn_al-Muqaffa%27",
+      "https://ar.wikisource.org/wiki/%D9%83%D9%84%D9%8A%D9%84%D8%A9_%D9%88%D8%AF%D9%85%D9%86%D8%A9"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "statement": "Public domain worldwide. عبد الله بن المقفع died in 759 and the work was first published in 750. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "كليلة ودمنة",
+    "pages": [
+      {
+        "revision": 424810,
+        "title": "كليلة ودمنة"
+      },
+      {
+        "revision": 488570,
+        "title": "كليلة ودمنة/باب مقدمة الكتاب"
+      },
+      {
+        "revision": 245550,
+        "title": "كليلة ودمنة/باب بعثة برزويه إلى بلاد الهند"
+      },
+      {
+        "revision": 245551,
+        "title": "كليلة ودمنة/باب عرض الكتاب ترجمة عبد الله بن المقفع"
+      },
+      {
+        "revision": 141243,
+        "title": "كليلة ودمنة/باب بروزيه ترجمة بزرجمهر بن البختكان"
+      },
+      {
+        "revision": 272368,
+        "title": "كليلة ودمنة/باب الأسد والثور وهو أول الكتاب"
+      },
+      {
+        "revision": 290965,
+        "title": "كليلة ودمنة/باب الفحص عن أمر دمنة"
+      },
+      {
+        "revision": 245541,
+        "title": "كليلة ودمنة/باب الحمامة المطوقة"
+      },
+      {
+        "revision": 285510,
+        "title": "كليلة ودمنة/باب البوم والغربان"
+      },
+      {
+        "revision": 231360,
+        "title": "كليلة ودمنة/باب القرد والغيلم"
+      },
+      {
+        "revision": 251292,
+        "title": "كليلة ودمنة/الناسك وابن عرس"
+      },
+      {
+        "revision": 231362,
+        "title": "كليلة ودمنة/باب الجرذ والسنور"
+      },
+      {
+        "revision": 231363,
+        "title": "كليلة ودمنة/باب ابن الملك والطائر فنزة"
+      },
+      {
+        "revision": 302554,
+        "title": "كليلة ودمنة/باب الأسد والشغبر الناسك وهو ابن آوى"
+      },
+      {
+        "revision": 231372,
+        "title": "كليلة ودمنة/باب إيلاذ وبلاذ وايراخت"
+      },
+      {
+        "revision": 374244,
+        "title": "كليلة ودمنة/باب اللبوة والإسوار والشغبر"
+      },
+      {
+        "revision": 231371,
+        "title": "كليلة ودمنة/باب الناسك والضيف"
+      },
+      {
+        "revision": 381514,
+        "title": "كليلة ودمنة/باب السائح والصائغ"
+      },
+      {
+        "revision": 231368,
+        "title": "كليلة ودمنة/باب ابن الملك وأصحابه"
+      },
+      {
+        "revision": 231369,
+        "title": "كليلة ودمنة/باب الحمامة والثعلب ومالك الحزين"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T11:43:42.477282Z",
+    "revision": "424810",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D9%83%D9%84%D9%8A%D9%84%D8%A9_%D9%88%D8%AF%D9%85%D9%86%D8%A9"
+  },
+  "work": {
+    "author": {
+      "birthYear": 724,
+      "deathYear": 759,
+      "name": "عبد الله بن المقفع",
+      "wikidata": "Q1060637"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 750,
+    "originalTitle": "كليلة ودمنة",
+    "workId": "muqaffa-kalila-wa-dimna"
+  }
+}

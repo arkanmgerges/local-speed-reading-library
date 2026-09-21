@@ -519,49 +519,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 14,
-        "contentSha256": "7643dcbb3a5b1096583f006b629c38a15a3b428c37010c2431e8447b34a6304f",
-        "encoding": "gzip",
-        "path": "books/pl/milton-raj-utracony.pl.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "bfe3c3f427ff4d978a284dde2eefd2f330a0528b3597812067c86dac24b23fc6",
-        "sizeBytes": 422679,
-        "uncompressedSizeBytes": 1015279,
-        "wordCount": 136588
-      },
-      "author": "John Milton",
-      "authorDeathYear": 1674,
-      "editionId": "milton-raj-utracony.pl.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "translation",
-      "language": "pl",
-      "originalLanguage": "en",
-      "originalPublicationYear": 1667,
-      "originalTitle": "Raj utracony",
-      "rights": {
-        "statement": "Public domain worldwide. John Milton died in 1674; the translator Władysław Bartkiewicz died in 1910 and this translation was first published in 1902. Source: pl.wikisource.org transcription.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Raj utracony (1902)",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T04:25:50.522141Z",
-        "revision": "2944974",
-        "url": "https://pl.wikisource.org/wiki/Raj_utracony_(1902)"
-      },
-      "title": "Raj utracony",
-      "translationPublicationYear": 1902,
-      "translator": "Władysław Bartkiewicz",
-      "translatorDeathYear": 1910,
-      "workId": "milton-raj-utracony"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 5,
         "contentSha256": "80a1a8b4cd6114da04ab010b5b90f8fe2feb31af2d126cab2574441c3e32e942",
         "encoding": "gzip",
@@ -864,7 +821,7 @@
   "direction": "ltr",
   "englishName": "Polish",
   "language": "pl",
-  "manifestVersion": "66893ccadbae24d2",
+  "manifestVersion": "d1e9789fd0727e1b",
   "nativeName": "Polski",
   "schemaVersion": 1
 }

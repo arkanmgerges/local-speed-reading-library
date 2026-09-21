@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:50:46.645653Z",
+    "chapterCount": 1,
+    "contentSha256": "35690fe047ef9916b0ccd4fe0b6d2e758218d42b03e26549ae0d6bf1ecb86e56",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/slavici-florita-din-codru.ro.wikisource/v1/book.json.gz",
+    "sha256": "fd5120d3b5c9b0385d75c0eb500f6b6e7069d7c29a84f1415a766542a9c28fd3",
+    "sizeBytes": 15496,
+    "uncompressedSizeBytes": 45011,
+    "wordCount": 7226
+  },
+  "edition": {
+    "editionId": "slavici-florita-din-codru.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "title": "Florița din Codru"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1925: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1872: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q96193965",
+      "https://www.wikidata.org/wiki/Q961107",
+      "https://ro.wikisource.org/wiki/Flori%C8%9Ba_din_Codru"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ioan Slavici died in 1925 and the work was first published in 1872. Source: ro.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Florița din Codru",
+    "pages": [
+      {
+        "revision": 121542,
+        "title": "Florița din Codru"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:50:46.520858Z",
+    "revision": "121542",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/Flori%C8%9Ba_din_Codru"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1848,
+      "deathYear": 1925,
+      "name": "Ioan Slavici",
+      "wikidata": "Q961107"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1872,
+    "originalTitle": "Florița din Codru",
+    "workId": "slavici-florita-din-codru"
+  }
+}

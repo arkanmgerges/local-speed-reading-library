@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:11:13.914380Z",
+    "chapterCount": 1,
+    "contentSha256": "a724276c4ec00ee3c1604be5eb5d871e3fa8b392608b6e9c9ce8e3394de65ff7",
+    "normalizerVersion": "0.2.0",
+    "path": "books/da/blicher-brudstykker-af-en-landsbydegns-dagbog.da.wikisource/v1/book.json.gz",
+    "sha256": "b39d861ae94618454fb3365e328c3359b1c4f583e8bb176e966c4211df2c4bf1",
+    "sizeBytes": 24445,
+    "uncompressedSizeBytes": 60414,
+    "wordCount": 10358
+  },
+  "edition": {
+    "editionId": "blicher-brudstykker-af-en-landsbydegns-dagbog.da.wikisource",
+    "kind": "original",
+    "language": "da",
+    "title": "Brudstykker af en Landsbydegns Dagbog"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1848: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1824: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q10436262",
+      "https://www.wikidata.org/wiki/Q347953",
+      "https://da.wikisource.org/wiki/Brudstykker_af_en_Landsbydegns_Dagbog"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Steen Steensen Blicher died in 1848 and the work was first published in 1824. Source: da.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Brudstykker af en Landsbydegns Dagbog",
+    "pages": [
+      {
+        "revision": 48244,
+        "title": "Brudstykker af en Landsbydegns Dagbog"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:11:13.782262Z",
+    "revision": "48244",
+    "site": "da.wikisource.org",
+    "url": "https://da.wikisource.org/wiki/Brudstykker_af_en_Landsbydegns_Dagbog"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1782,
+      "deathYear": 1848,
+      "name": "Steen Steensen Blicher",
+      "wikidata": "Q347953"
+    },
+    "originalLanguage": "da",
+    "originalPublicationYear": 1824,
+    "originalTitle": "Brudstykker af en Landsbydegns Dagbog",
+    "workId": "blicher-brudstykker-af-en-landsbydegns-dagbog"
+  }
+}

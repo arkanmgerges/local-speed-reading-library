@@ -66,6 +66,17 @@ Future<void> main(List<String> argv) async {
 
   final Wikidata wd = Wikidata(cacheDir);
   final Existing existing = Existing.load(repo);
+  final File rejectedFile = File(p.join(repo.buildDir, 'rejected-editions.txt'));
+  if (rejectedFile.existsSync()) {
+    int n = 0;
+    for (final String line in rejectedFile.readAsLinesSync()) {
+      final ({String workId, String language, String slug})? parts = parseEditionId(line.trim());
+      if (parts == null) continue;
+      existing.reject(parts.workId, parts.language);
+      n++;
+    }
+    stdout.writeln('skipping $n edition(s) rejected by earlier rounds');
+  }
 
   GutenbergCatalog? pg;
   if (args['gutenberg'] as bool) {
@@ -292,7 +303,9 @@ class Existing {
     return Existing(ids, _bundledTitles);
   }
 
-  bool has(String workId, String lang) => _workIds.contains('$workId@$lang');
+  bool has(String workId, String lang) => _workIds.contains('$workId@$lang') || _rejected.contains('$workId@${languagePathSegment(lang)}');
+  final Set<String> _rejected = <String>{};
+  void reject(String workId, String langSegment) => _rejected.add('$workId@$langSegment');
   void add(String workId, String lang, String editionId) => _workIds.add('$workId@$lang');
 
   bool isBundledTitle(String title, String author) {
@@ -384,7 +397,10 @@ String displayName(String name) {
 final RegExp _excludedSubject = RegExp(
     r'poetry|poems|drama|plays|periodicals|dictionar|encyclopedi|songs|hymns|verse|opera|libretto|'
     r'sheet music|catalogs|bibliograph|almanac|comic books|pictorial works|readers|textbooks|'
-    r'grammar|phrase books|vocabular|directories|indexes|handbooks, manuals',
+    r'grammar|phrase books|vocabular|directories|indexes|handbooks, manuals|'
+    r'religio|theolog|sermons|devotion|liturg|prayer|catechism|scripture|bible|gospel|testament|'
+    r'koran|quran|hadith|torah|talmud|kabbala|christian life|church|clergy|saints|hagiograph|'
+    r'vedas|upanishad|purana|bhagavad|buddhis|sutra|hindu|islam|judaism|missions|spiritual',
     caseSensitive: false);
 
 final RegExp _excludedTitle = RegExp(
@@ -402,6 +418,11 @@ final RegExp _excludedTitle = RegExp(
 
 /// Wikidata classes never offered (verse, stage, songs, documents, lists).
 const Set<String> _excludedWikidataTypes = <String>{
+  'Q179461', // religious text
+  'Q60797', // sermon
+  'Q208628', // hagiography
+  'Q31191135', // manaqib
+  'Q335414', // tafsir
   'Q5185279', // poem
   'Q482', // poetry
   'Q12106333', // poetry collection
@@ -1165,6 +1186,7 @@ ORDER BY DESC(?sl) LIMIT 60
     if (trDied == null || trName.startsWith('Q')) return null;
     final String origCode = r['origCode'] ?? '';
     if (origCode.isEmpty || !isWellFormedLanguageTag(origCode)) return null;
+    if (sameLanguage(origCode, lang)) return null; // a "translation" into its own language is a data error
     final String originalTitle = _pick(r['origLabel'], r['labelEn'], title);
     final int? origPub = int.tryParse(r['origPub'] ?? '');
     final String trQ = _qid(r['tr']);

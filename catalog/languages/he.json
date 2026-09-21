@@ -3,62 +3,19 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 23,
-        "contentSha256": "2f12875d53025047a15ffcdadfe5d182cf3459eb0c05e763490c0a459a959c40",
+        "chapterCount": 11,
+        "contentSha256": "d9fb951895c0d7c32a28dad0248aa9f2e7f63b4d776a2c4934703d052894fb91",
         "encoding": "gzip",
-        "path": "books/he/asher-arba-ah-turim.he.wikisource/v1/book.json.gz",
+        "path": "books/he/bialik-behind-the-fence.he.wikisource/v1/book.json.gz",
         "schemaVersion": 1,
-        "sha256": "9489f9dfd9c55a2be3da5579653aa22f7f314574fdc002b18a06d241fe90b6f7",
-        "sizeBytes": 26380,
-        "uncompressedSizeBytes": 97382,
-        "wordCount": 8367
-      },
-      "author": "יעקב בן אשר",
-      "authorDeathYear": 1343,
-      "editionId": "asher-arba-ah-turim.he.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "he",
-      "originalLanguage": "he",
-      "originalPublicationYear": 1475,
-      "originalTitle": "ארבעה טורים",
-      "rights": {
-        "statement": "Public domain worldwide. יעקב בן אשר died in 1343 and the work was first published in 1475. Source: he.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "ארבעה טורים",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:26:18.201193Z",
-        "revision": "922844",
-        "url": "https://he.wikisource.org/wiki/%D7%90%D7%A8%D7%91%D7%A2%D7%94_%D7%98%D7%95%D7%A8%D7%99%D7%9D"
-      },
-      "title": "ארבעה טורים",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "asher-arba-ah-turim"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 13,
-        "contentSha256": "8334598c5668d75b620f8ff3b5098718854947c00a5d94db99fafe2e11798c80",
-        "encoding": "gzip",
-        "path": "books/he/bialik-sefer-haaggadah.he.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "dbcc024e306c59a187a1d82c367d05d322b59b664dead129f001ea4aee7f89f2",
-        "sizeBytes": 19609,
-        "uncompressedSizeBytes": 63323,
-        "wordCount": 6046
+        "sha256": "25eab780798774afc53f7196028897874a565ba0bcfc978b360bef8e2e360dfc",
+        "sizeBytes": 47956,
+        "uncompressedSizeBytes": 154159,
+        "wordCount": 14677
       },
       "author": "חיים נחמן ביאליק",
       "authorDeathYear": 1934,
-      "editionId": "bialik-sefer-haaggadah.he.wikisource",
+      "editionId": "bialik-behind-the-fence.he.wikisource",
       "editionPublicationYear": null,
       "genres": [
         "Other"
@@ -66,42 +23,42 @@
       "kind": "original",
       "language": "he",
       "originalLanguage": "he",
-      "originalPublicationYear": 1908,
-      "originalTitle": "ספר האגדה",
+      "originalPublicationYear": 1909,
+      "originalTitle": "מאחורי הגדר",
       "rights": {
-        "statement": "Public domain worldwide. חיים נחמן ביאליק died in 1934 and the work was first published in 1908. Source: he.wikisource.org transcription of the public-domain text.",
+        "statement": "Public domain worldwide. חיים נחמן ביאליק died in 1934 and the work was first published in 1909. Source: he.wikisource.org transcription of the public-domain text.",
         "status": "public-domain",
         "verifiedAt": "2026-09-21"
       },
       "source": {
-        "identifier": "ספר האגדה",
+        "identifier": "פרוזה (ביאליק)/מאחורי הגדר",
         "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:26:35.907217Z",
-        "revision": "3022634",
-        "url": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8_%D7%94%D7%90%D7%92%D7%93%D7%94"
+        "retrievedAt": "2026-09-21T10:28:16.648285Z",
+        "revision": "1286274",
+        "url": "https://he.wikisource.org/wiki/%D7%A4%D7%A8%D7%95%D7%96%D7%94_(%D7%91%D7%99%D7%90%D7%9C%D7%99%D7%A7)/%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99_%D7%94%D7%92%D7%93%D7%A8"
       },
-      "title": "ספר האגדה",
+      "title": "מאחורי הגדר",
       "translationPublicationYear": null,
       "translator": null,
       "translatorDeathYear": null,
-      "workId": "bialik-sefer-haaggadah"
+      "workId": "bialik-behind-the-fence"
     },
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 496,
-        "contentSha256": "67ab4fd0d7f18cc1a84228d915414e976102ff48a052082f924d014e36b18b4d",
+        "chapterCount": 12,
+        "contentSha256": "f66b00f7df0ab9288b8c67fb4caeaaa732cf353b1ad9bc9ff1f22c0c5202a10f",
         "encoding": "gzip",
-        "path": "books/he/breslov-chayey-moharan.he.wikisource/v1/book.json.gz",
+        "path": "books/he/bialik-q12404235.he.wikisource/v1/book.json.gz",
         "schemaVersion": 1,
-        "sha256": "5708110b7bbc2a1993929f8d874cd472c5cb070c444c9cb88d0b2815cd7d632f",
-        "sizeBytes": 304152,
-        "uncompressedSizeBytes": 1541898,
-        "wordCount": 95305
+        "sha256": "f5308acc1d7fb5de1fe7b1bb5bdf2d6042a0d15a0eab8196c406a4893b3da5fd",
+        "sizeBytes": 42775,
+        "uncompressedSizeBytes": 134583,
+        "wordCount": 13019
       },
-      "author": "נתן מנמירוב",
-      "authorDeathYear": 1844,
-      "editionId": "breslov-chayey-moharan.he.wikisource",
+      "author": "חיים נחמן ביאליק",
+      "authorDeathYear": 1934,
+      "editionId": "bialik-q12404235.he.wikisource",
       "editionPublicationYear": null,
       "genres": [
         "Other"
@@ -109,42 +66,42 @@
       "kind": "original",
       "language": "he",
       "originalLanguage": "he",
-      "originalPublicationYear": 1874,
-      "originalTitle": "חיי מוהר\"ן",
+      "originalPublicationYear": 1899,
+      "originalTitle": "אריה \"בעל גוף\"",
       "rights": {
-        "statement": "Public domain worldwide. נתן מנמירוב died in 1844 and the work was first published in 1874. Source: he.wikisource.org transcription of the public-domain text.",
+        "statement": "Public domain worldwide. חיים נחמן ביאליק died in 1934 and the work was first published in 1899. Source: he.wikisource.org transcription of the public-domain text.",
         "status": "public-domain",
         "verifiedAt": "2026-09-21"
       },
       "source": {
-        "identifier": "חיי מוהר\"ן",
+        "identifier": "אריה \"בעל גוף\"",
         "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:26:43.564468Z",
-        "revision": "2955195",
-        "url": "https://he.wikisource.org/wiki/%D7%97%D7%99%D7%99_%D7%9E%D7%95%D7%94%D7%A8%22%D7%9F"
+        "retrievedAt": "2026-09-21T10:28:18.580416Z",
+        "revision": "1356091",
+        "url": "https://he.wikisource.org/wiki/%D7%90%D7%A8%D7%99%D7%94_%22%D7%91%D7%A2%D7%9C_%D7%92%D7%95%D7%A3%22"
       },
-      "title": "חיי מוהר\"ן",
+      "title": "אריה \"בעל גוף\"",
       "translationPublicationYear": null,
       "translator": null,
       "translatorDeathYear": null,
-      "workId": "breslov-chayey-moharan"
+      "workId": "bialik-q12404235"
     },
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 7,
-        "contentSha256": "0ef9678e96960051b59ebdda39d8a0e71805947044b52edf56089f19211613fa",
+        "chapterCount": 21,
+        "contentSha256": "e2029505b7945ed418bdf81ef3f9bb5a8cf31dd86c96e053a025b4454ebc4a9b",
         "encoding": "gzip",
-        "path": "books/he/breslov-likutei-moharan.he.wikisource/v1/book.json.gz",
+        "path": "books/he/chorny-q135009388.he.wikisource/v1/book.json.gz",
         "schemaVersion": 1,
-        "sha256": "a716560acf69c934078171e6cc5d3ed9a2139767b3d9c8c9c90464ac55b5d703",
-        "sizeBytes": 21855,
-        "uncompressedSizeBytes": 74134,
-        "wordCount": 6999
+        "sha256": "a50e6c708aeb0ce4174b5f01abde622405613c9932b3603aa9ef5a377faffdca",
+        "sizeBytes": 80890,
+        "uncompressedSizeBytes": 331163,
+        "wordCount": 32155
       },
-      "author": "נחמן מברסלב",
-      "authorDeathYear": 1810,
-      "editionId": "breslov-likutei-moharan.he.wikisource",
+      "author": "יוסף יהודה טשארני",
+      "authorDeathYear": 1880,
+      "editionId": "chorny-q135009388.he.wikisource",
       "editionPublicationYear": null,
       "genres": [
         "Other"
@@ -152,203 +109,31 @@
       "kind": "original",
       "language": "he",
       "originalLanguage": "he",
-      "originalPublicationYear": 1808,
-      "originalTitle": "ליקוטי מוהר\"ן",
+      "originalPublicationYear": 1884,
+      "originalTitle": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא",
       "rights": {
-        "statement": "Public domain worldwide. נחמן מברסלב died in 1810 and the work was first published in 1808. Source: he.wikisource.org transcription of the public-domain text.",
+        "statement": "Public domain worldwide. יוסף יהודה טשארני died in 1880 and the work was first published in 1884. Source: he.wikisource.org transcription of the public-domain text.",
         "status": "public-domain",
         "verifiedAt": "2026-09-21"
       },
       "source": {
-        "identifier": "לקוטי מוהר\"ן",
+        "identifier": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא",
         "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:26:53.756001Z",
-        "revision": "3081098",
-        "url": "https://he.wikisource.org/wiki/%D7%9C%D7%A7%D7%95%D7%98%D7%99_%D7%9E%D7%95%D7%94%D7%A8%22%D7%9F"
+        "retrievedAt": "2026-09-21T10:29:14.087714Z",
+        "revision": "3020628",
+        "url": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8_%D7%94%D7%9E%D7%A1%D7%A2%D7%95%D7%AA_%D7%91%D7%90%D7%A8%D7%A5_%D7%A7%D7%95%D7%A7%D7%96_%D7%95%D7%91%D7%9E%D7%93%D7%99%D7%A0%D7%95%D7%AA_%D7%90%D7%A9%D7%A8_%D7%9E%D7%A2%D7%91%D7%A8_%D7%9C%D7%A7%D7%95%D7%A7%D7%96_%D7%95%D7%A7%D7%A6%D7%AA_%D7%9E%D7%93%D7%99%D7%A0%D7%95%D7%AA_%D7%90%D7%97%D7%A8%D7%95%D7%AA_%D7%91%D7%A0%D7%92%D7%91_%D7%A8%D7%95%D7%A1%D7%99%D7%90"
       },
-      "title": "ליקוטי מוהר\"ן",
+      "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא",
       "translationPublicationYear": null,
       "translator": null,
       "translatorDeathYear": null,
-      "workId": "breslov-likutei-moharan"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 36,
-        "contentSha256": "c1b95097e210594cfa637df56e0dd76ada8c16a456855fa3e4760020b707ecda",
-        "encoding": "gzip",
-        "path": "books/he/breslov-tales-of-rabbi-nachman.he.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "f5f44a8030a386610d1a0f305d640621d5ebc547fe4254d5502d40c74ac66955",
-        "sizeBytes": 135730,
-        "uncompressedSizeBytes": 573628,
-        "wordCount": 55630
-      },
-      "author": "נחמן מברסלב",
-      "authorDeathYear": 1810,
-      "editionId": "breslov-tales-of-rabbi-nachman.he.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "he",
-      "originalLanguage": "he",
-      "originalPublicationYear": 1816,
-      "originalTitle": "סיפורי מעשיות",
-      "rights": {
-        "statement": "Public domain worldwide. נחמן מברסלב died in 1810 and the work was first published in 1816. Source: he.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "ספר סיפורי מעשיות",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:27:17.438340Z",
-        "revision": "3008377",
-        "url": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8_%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99_%D7%9E%D7%A2%D7%A9%D7%99%D7%95%D7%AA"
-      },
-      "title": "סיפורי מעשיות",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "breslov-tales-of-rabbi-nachman"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 82,
-        "contentSha256": "1d52cc597f96bdd1bcf2d8df8f68842d71c19f7db5493bb368dc43c89478622f",
-        "encoding": "gzip",
-        "path": "books/he/ein-yaakov.he.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "482c289289313b4fae29823229e1fd867dc3bed4116cfdb5799c3bd675679352",
-        "sizeBytes": 119664,
-        "uncompressedSizeBytes": 454795,
-        "wordCount": 46415
-      },
-      "author": "יעקב בן חביב",
-      "authorDeathYear": 1515,
-      "editionId": "ein-yaakov.he.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "he",
-      "originalLanguage": "he",
-      "originalPublicationYear": 1516,
-      "originalTitle": "עין יעקב (ספר)",
-      "rights": {
-        "statement": "Public domain worldwide. יעקב בן חביב died in 1515 and the work was first published in 1516. Source: he.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "עין יעקב",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:27:51.987481Z",
-        "revision": "1037469",
-        "url": "https://he.wikisource.org/wiki/%D7%A2%D7%99%D7%9F_%D7%99%D7%A2%D7%A7%D7%91"
-      },
-      "title": "עין יעקב (ספר)",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "ein-yaakov"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 23,
-        "contentSha256": "e8527e44c17b5a45d0d7a9c38efe0a19e858893bfaecd8b929a5ec8e3785fc5b",
-        "encoding": "gzip",
-        "path": "books/he/hyman-toldoth-tannaim-veamoraim.he.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "3a65efc4ede89a5e80afcee545436e3023cac5a752af0c6ab74b7ec74b4cdec3",
-        "sizeBytes": 27939,
-        "uncompressedSizeBytes": 102089,
-        "wordCount": 10528
-      },
-      "author": "אהרן הימן",
-      "authorDeathYear": 1937,
-      "editionId": "hyman-toldoth-tannaim-veamoraim.he.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "he",
-      "originalLanguage": "he",
-      "originalPublicationYear": 1910,
-      "originalTitle": "תולדות תנאים ואמוראים",
-      "rights": {
-        "statement": "Public domain worldwide. אהרן הימן died in 1937 and the work was first published in 1910. Source: he.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "תולדות תנאים ואמוראים",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:28:58.981680Z",
-        "revision": "2853245",
-        "url": "https://he.wikisource.org/wiki/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D"
-      },
-      "title": "תולדות תנאים ואמוראים",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "hyman-toldoth-tannaim-veamoraim"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 187,
-        "contentSha256": "fbd62d9b046bd38240b36cf0906f83e964ec71a35928d4d67555b32287968c42",
-        "encoding": "gzip",
-        "path": "books/he/kagan-chofetz-chaim.he.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "29517060a98541b2b2fe518a78d38a42166a8c34b768ae92e8caead16954558f",
-        "sizeBytes": 255513,
-        "uncompressedSizeBytes": 1061949,
-        "wordCount": 98043
-      },
-      "author": "ישראל מאיר הכהן",
-      "authorDeathYear": 1933,
-      "editionId": "kagan-chofetz-chaim.he.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "he",
-      "originalLanguage": "he",
-      "originalPublicationYear": 1873,
-      "originalTitle": "חפץ חיים",
-      "rights": {
-        "statement": "Public domain worldwide. ישראל מאיר הכהן died in 1933 and the work was first published in 1873. Source: he.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "חפץ חיים",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:33:06.746602Z",
-        "revision": "3016011",
-        "url": "https://he.wikisource.org/wiki/%D7%97%D7%A4%D7%A5_%D7%97%D7%99%D7%99%D7%9D"
-      },
-      "title": "חפץ חיים",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "kagan-chofetz-chaim"
+      "workId": "chorny-q135009388"
     }
   ],
   "direction": "rtl",
   "englishName": "Hebrew",
   "language": "he",
-  "manifestVersion": "da85510f78cbee13",
+  "manifestVersion": "795979f5c02214cd",
   "nativeName": "עברית",
   "schemaVersion": 1
 }

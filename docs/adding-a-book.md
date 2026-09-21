@@ -127,3 +127,10 @@ Everything else is left out rather than guessed. `rights.notes` marks the batch 
 After the build, `bin/prune.dart` removes editions that did not build or have fewer than
 6000 words, and keeps the first 20 per language in discovery order. Review the outlines
 with `lsr show` where a book looks off, and fix with `import` hints as above.
+
+After a batch, run `node scripts/check-author-languages.js` (writes one line per suspicious
+edition): a Wikisource "original" whose author never wrote in that language is usually a
+translated piece whose Wikidata item names the original author, and it cannot be published
+without a translator. Missionaries and bilingual authors are frequent false positives, so
+decide by hand; remove the file and append its editionId to `build/rejected-editions.txt`.
+Works with more than 160 subpages are refused by the importer (multi-volume compendia).

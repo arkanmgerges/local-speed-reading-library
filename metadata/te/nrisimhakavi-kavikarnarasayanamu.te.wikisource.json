@@ -1,0 +1,101 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:51:59.184674Z",
+    "chapterCount": 7,
+    "contentSha256": "91a93e7b514f6932ac55d214c0777ec7def54cdf0c88140faf66c3772189b526",
+    "normalizerVersion": "0.2.0",
+    "path": "books/te/nrisimhakavi-kavikarnarasayanamu.te.wikisource/v1/book.json.gz",
+    "sha256": "bdf5d8d334e6df97b77af4eb9f85f333c0e9c524c41c9c75c808ec33ce72fd1a",
+    "sizeBytes": 167131,
+    "uncompressedSizeBytes": 750271,
+    "wordCount": 27912
+  },
+  "edition": {
+    "editionId": "nrisimhakavi-kavikarnarasayanamu.te.wikisource",
+    "kind": "original",
+    "language": "te",
+    "title": "కవికర్ణరసాయనము"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1400: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1916: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q130612930",
+      "https://www.wikidata.org/wiki/Q125486732",
+      "https://te.wikisource.org/wiki/%E0%B0%95%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B0%B0%E0%B1%8D%E0%B0%A3%E0%B0%B0%E0%B0%B8%E0%B0%BE%E0%B0%AF%E0%B0%A8%E0%B0%AE%E0%B1%81"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. సంకుసాల నృసింహకవి died in 1400 and the work was first published in 1916. Source: te.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "కవికర్ణరసాయనము",
+    "pages": [
+      {
+        "revision": 537516,
+        "title": "కవికర్ణరసాయనము"
+      },
+      {
+        "revision": 398909,
+        "title": "కవికర్ణరసాయనము/పీఠిక"
+      },
+      {
+        "revision": 398910,
+        "title": "కవికర్ణరసాయనము/ప్రథమాశ్వాసము"
+      },
+      {
+        "revision": 398911,
+        "title": "కవికర్ణరసాయనము/ద్వితీయాశ్వాసము"
+      },
+      {
+        "revision": 398912,
+        "title": "కవికర్ణరసాయనము/తృతీయాశ్వాసము"
+      },
+      {
+        "revision": 399077,
+        "title": "కవికర్ణరసాయనము/చతుర్థాశ్వాసము"
+      },
+      {
+        "revision": 399078,
+        "title": "కవికర్ణరసాయనము/పంచమాశ్వాసము"
+      },
+      {
+        "revision": 398915,
+        "title": "కవికర్ణరసాయనము/షష్ఠాశ్వాసము"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:51:58.439434Z",
+    "revision": "537516",
+    "site": "te.wikisource.org",
+    "url": "https://te.wikisource.org/wiki/%E0%B0%95%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B0%B0%E0%B1%8D%E0%B0%A3%E0%B0%B0%E0%B0%B8%E0%B0%BE%E0%B0%AF%E0%B0%A8%E0%B0%AE%E0%B1%81"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1400,
+      "deathYear": 1400,
+      "name": "సంకుసాల నృసింహకవి",
+      "wikidata": "Q125486732"
+    },
+    "originalLanguage": "te",
+    "originalPublicationYear": 1916,
+    "originalTitle": "కవికర్ణరసాయనము",
+    "workId": "nrisimhakavi-kavikarnarasayanamu"
+  }
+}

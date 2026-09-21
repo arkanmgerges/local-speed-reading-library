@@ -46,19 +46,19 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 12,
-        "contentSha256": "84007d96b03dd167ae981a72288c56ac67260223d19eda64bdf80a477b55369e",
+        "chapterCount": 79,
+        "contentSha256": "7f2347293cba388689483cf050ff3de5be7f3fef29755c6697eb7e6424688050",
         "encoding": "gzip",
-        "path": "books/ar/al-ghazali-the-incoherence-of-the-philosophers.ar.wikisource/v1/book.json.gz",
+        "path": "books/ar/al-kashi-the-calculators-key-to-arithmetic.ar.wikisource/v1/book.json.gz",
         "schemaVersion": 1,
-        "sha256": "faddd19d74c96218abe952b03100e14319c46b1d8e3f9cd30f8228a4bf85a7c9",
-        "sizeBytes": 31479,
-        "uncompressedSizeBytes": 121334,
-        "wordCount": 12269
+        "sha256": "f5054ec8930b0df05d503a82208d65a9f70c5adb9c3ca942d16f9e93b1680593",
+        "sizeBytes": 122763,
+        "uncompressedSizeBytes": 649773,
+        "wordCount": 72319
       },
-      "author": "أبو حامد الغزالي",
-      "authorDeathYear": 1111,
-      "editionId": "al-ghazali-the-incoherence-of-the-philosophers.ar.wikisource",
+      "author": "غياث الدين الكاشي",
+      "authorDeathYear": 1429,
+      "editionId": "al-kashi-the-calculators-key-to-arithmetic.ar.wikisource",
       "editionPublicationYear": null,
       "genres": [
         "Other"
@@ -66,25 +66,25 @@
       "kind": "original",
       "language": "ar",
       "originalLanguage": "ar",
-      "originalPublicationYear": 1095,
-      "originalTitle": "تهافت الفلاسفة",
+      "originalPublicationYear": 1400,
+      "originalTitle": "مفتاح الحساب",
       "rights": {
-        "statement": "Public domain worldwide. أبو حامد الغزالي died in 1111 and the work was first published in 1095. Source: ar.wikisource.org transcription of the public-domain text.",
+        "statement": "Public domain worldwide. غياث الدين الكاشي died in 1429 and the work was first published in 1400. Source: ar.wikisource.org transcription of the public-domain text.",
         "status": "public-domain",
         "verifiedAt": "2026-09-21"
       },
       "source": {
-        "identifier": "تهافت الفلاسفة",
+        "identifier": "مفتاح الحساب",
         "provider": "wikisource",
-        "retrievedAt": "2026-09-21T01:51:09.131369Z",
-        "revision": "413651",
-        "url": "https://ar.wikisource.org/wiki/%D8%AA%D9%87%D8%A7%D9%81%D8%AA_%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%B3%D9%81%D8%A9"
+        "retrievedAt": "2026-09-21T09:14:08.513422Z",
+        "revision": "529991",
+        "url": "https://ar.wikisource.org/wiki/%D9%85%D9%81%D8%AA%D8%A7%D8%AD_%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8"
       },
-      "title": "تهافت الفلاسفة",
+      "title": "مفتاح الحساب",
       "translationPublicationYear": null,
       "translator": null,
       "translatorDeathYear": null,
-      "workId": "al-ghazali-the-incoherence-of-the-philosophers"
+      "workId": "al-kashi-the-calculators-key-to-arithmetic"
     },
     {
       "asset": {
@@ -132,131 +132,88 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 131,
-        "contentSha256": "b3f31e28a80a81285458e46fa80b6ab2f28f30219c02c27d81bb3132d941aafd",
+        "chapterCount": 136,
+        "contentSha256": "094882b1e366a622d265aced207eb6a451735550336be53feaa2e7b39c3a0e4d",
         "encoding": "gzip",
-        "path": "books/ar/al-suyuti-history-of-the-caliphs.ar.wikisource/v1/book.json.gz",
+        "path": "books/ar/anonymous-alf-layla-wa-layla.ar.wikisource/v1/book.json.gz",
         "schemaVersion": 1,
-        "sha256": "49481c6539a10d0e7fbf0658a4b970c487bd97e3730c474dcd780d018c12799a",
-        "sizeBytes": 323749,
-        "uncompressedSizeBytes": 1258457,
-        "wordCount": 130354
+        "sha256": "8d15cd2e0458945e54ac19ec1f64f64c8067c40da9fc0ca80e0cd9aad3890ce4",
+        "sizeBytes": 324916,
+        "uncompressedSizeBytes": 1233833,
+        "wordCount": 128251
       },
-      "author": "جلال الدين السيوطي",
-      "authorDeathYear": 1505,
-      "editionId": "al-suyuti-history-of-the-caliphs.ar.wikisource",
+      "author": "مؤلف مجهول",
+      "authorDeathYear": 1800,
+      "editionId": "anonymous-alf-layla-wa-layla.ar.wikisource",
       "editionPublicationYear": null,
       "genres": [
-        "Other"
+        "Fiction"
       ],
       "kind": "original",
       "language": "ar",
       "originalLanguage": "ar",
-      "originalPublicationYear": 1881,
-      "originalTitle": "تاريخ الخلفاء",
+      "originalPublicationYear": 1835,
+      "originalTitle": "ألف ليلة وليلة",
       "rights": {
-        "statement": "Public domain worldwide. جلال الدين السيوطي died in 1505 and the work was first published in 1881. Source: ar.wikisource.org transcription of the public-domain text.",
+        "statement": "Public domain worldwide. مؤلف مجهول died in 1800 and the work was first published in 1835. Source: ar.wikisource.org transcription of the public-domain text.",
         "status": "public-domain",
         "verifiedAt": "2026-09-21"
       },
       "source": {
-        "identifier": "تاريخ الخلفاء",
+        "identifier": "ألف ليلة وليلة",
         "provider": "wikisource",
-        "retrievedAt": "2026-09-21T01:51:44.807255Z",
-        "revision": "218458",
-        "url": "https://ar.wikisource.org/wiki/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1"
+        "retrievedAt": "2026-09-21T11:46:56.339505Z",
+        "revision": "434789",
+        "url": "https://ar.wikisource.org/wiki/%D8%A3%D9%84%D9%81_%D9%84%D9%8A%D9%84%D8%A9_%D9%88%D9%84%D9%8A%D9%84%D8%A9"
       },
-      "title": "تاريخ الخلفاء",
+      "title": "ألف ليلة وليلة (مختارات)",
       "translationPublicationYear": null,
       "translator": null,
       "translatorDeathYear": null,
-      "workId": "al-suyuti-history-of-the-caliphs"
+      "workId": "anonymous-alf-layla-wa-layla"
     },
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 22,
-        "contentSha256": "5977f48d28a594583ccfb58652991adeca14a5ccfc94c4c08889b676f0cc4523",
+        "chapterCount": 20,
+        "contentSha256": "656eb909c64e6f1ee8c85ce20f003fa68efe4bb4e999737bc61d182821560f9f",
         "encoding": "gzip",
-        "path": "books/ar/averroes-on-the-harmony-of-religions-and-philosophy.ar.wikisource/v1/book.json.gz",
+        "path": "books/ar/demolins-anglo-saxon-superiority.ar.wikisource/v1/book.json.gz",
         "schemaVersion": 1,
-        "sha256": "7af9332ec3bf33f0fe264467c36a6ffd6a2d209b5f0d986b5d954b27e4f29592",
-        "sizeBytes": 19366,
-        "uncompressedSizeBytes": 75245,
-        "wordCount": 7239
+        "sha256": "15f3720237f4486c68807cd70b29e00ea4f26c84ad421e92beef8e6babf9162b",
+        "sizeBytes": 227915,
+        "uncompressedSizeBytes": 831211,
+        "wordCount": 83053
       },
-      "author": "ابن رشد",
-      "authorDeathYear": 1198,
-      "editionId": "averroes-on-the-harmony-of-religions-and-philosophy.ar.wikisource",
+      "author": "إدمون دومولان",
+      "authorDeathYear": 1907,
+      "editionId": "demolins-anglo-saxon-superiority.ar.wikisource",
       "editionPublicationYear": null,
       "genres": [
-        "Other"
+        "Non-fiction"
       ],
-      "kind": "original",
+      "kind": "translation",
       "language": "ar",
-      "originalLanguage": "ar",
-      "originalPublicationYear": 1179,
-      "originalTitle": "فصل المقال في ما بين الحكمة والشريعة من اتصال",
+      "originalLanguage": "fr",
+      "originalPublicationYear": 1897,
+      "originalTitle": "À quoi tient la supériorité des Anglo-Saxons",
       "rights": {
-        "statement": "Public domain worldwide. ابن رشد died in 1198 and the work was first published in 1179. Source: ar.wikisource.org transcription of the public-domain text.",
+        "statement": "Public domain worldwide. إدمون دومولان died in 1907, the translator أحمد فتحي زغلول died in 1914, and the translation was first published in 1899. Source: ar.wikisource.org transcription of the public-domain text.",
         "status": "public-domain",
         "verifiedAt": "2026-09-21"
       },
       "source": {
-        "identifier": "فصل المقال فيما بين الحكمة والشريعة من الاتصال",
+        "identifier": "سر تقدم الإنكليز السكسونيين",
         "provider": "wikisource",
-        "retrievedAt": "2026-09-21T01:52:53.832424Z",
-        "revision": "413648",
-        "url": "https://ar.wikisource.org/wiki/%D9%81%D8%B5%D9%84_%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%84_%D9%81%D9%8A%D9%85%D8%A7_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9_%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%B9%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84"
+        "retrievedAt": "2026-09-21T09:14:58.677067Z",
+        "revision": "618880",
+        "url": "https://ar.wikisource.org/wiki/%D8%B3%D8%B1_%D8%AA%D9%82%D8%AF%D9%85_%D8%A7%D9%84%D8%A5%D9%86%D9%83%D9%84%D9%8A%D8%B2_%D8%A7%D9%84%D8%B3%D9%83%D8%B3%D9%88%D9%86%D9%8A%D9%8A%D9%86"
       },
-      "title": "فصل المقال في ما بين الحكمة والشريعة من اتصال",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "averroes-on-the-harmony-of-religions-and-philosophy"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 1,
-        "contentSha256": "b00a31a5f5d65f89e482cf1afb806256dfffd16bff9fe59e49f75f9fa15ad9af",
-        "encoding": "gzip",
-        "path": "books/ar/baha-u-llah-kitab-i-aqdas.ar.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "187ce9365cbfab52c1aced66f7267ed2fc8cf30268e58958d43ca5fafe63b2dd",
-        "sizeBytes": 25789,
-        "uncompressedSizeBytes": 97870,
-        "wordCount": 9736
-      },
-      "author": "بهاء الله",
-      "authorDeathYear": 1892,
-      "editionId": "baha-u-llah-kitab-i-aqdas.ar.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "ar",
-      "originalLanguage": "ar",
-      "originalPublicationYear": 1872,
-      "originalTitle": "الكتاب الأقدس",
-      "rights": {
-        "statement": "Public domain worldwide. بهاء الله died in 1892 and the work was first published in 1872. Source: ar.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "الكتاب الأقدس",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T01:52:56.906084Z",
-        "revision": "278288",
-        "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%A3%D9%82%D8%AF%D8%B3"
-      },
-      "title": "الكتاب الأقدس",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "baha-u-llah-kitab-i-aqdas"
+      "title": "سر تقدم الإنكليز السكسونيين",
+      "translationPublicationYear": 1899,
+      "translator": "أحمد فتحي زغلول",
+      "translatorDeathYear": 1914,
+      "workId": "demolins-anglo-saxon-superiority"
     },
     {
       "asset": {
@@ -304,6 +261,264 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 7,
+        "contentSha256": "6096cb0f87cfa48d1802c594658a71a0516488952defeb48117ad09a39697dad",
+        "encoding": "gzip",
+        "path": "books/ar/gibran-1908.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0f7b915f2507da5274febac33dc044dc550e73bad9773856384e0511e29594c5",
+        "sizeBytes": 69516,
+        "uncompressedSizeBytes": 232749,
+        "wordCount": 21226
+      },
+      "author": "جبران خليل جبران",
+      "authorDeathYear": 1931,
+      "editionId": "gibran-1908.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 1908,
+      "originalTitle": "الأرواح المتمردة (1908)",
+      "rights": {
+        "statement": "Public domain worldwide. جبران خليل جبران died in 1931 and the work was first published in 1908. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "الأرواح المتمردة (1908)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T09:15:14.011710Z",
+        "revision": "534628",
+        "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%A3%D8%B1%D9%88%D8%A7%D8%AD_%D8%A7%D9%84%D9%85%D8%AA%D9%85%D8%B1%D8%AF%D8%A9_(1908)"
+      },
+      "title": "الأرواح المتمردة (1908)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "gibran-1908"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 11,
+        "contentSha256": "11efd2a8d33521d5c20190992417fee2428e68be75ed15c60156d5e25a143a2e",
+        "encoding": "gzip",
+        "path": "books/ar/gibran-al-ajniha-al-mutakassira.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "952fce8db6a674e7172c8d2db037246cf769c57499c8a19d3f1413b79f62d4ad",
+        "sizeBytes": 51134,
+        "uncompressedSizeBytes": 173168,
+        "wordCount": 16006
+      },
+      "author": "جبران خليل جبران",
+      "authorDeathYear": 1931,
+      "editionId": "gibran-al-ajniha-al-mutakassira.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 1912,
+      "originalTitle": "الأجنحة المتكسرة",
+      "rights": {
+        "statement": "Public domain worldwide. جبران خليل جبران died in 1931 and the work was first published in 1912. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "الأجنحة المتكسرة",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T11:43:52.410548Z",
+        "revision": "425012",
+        "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%AD%D8%A9_%D8%A7%D9%84%D9%85%D8%AA%D9%83%D8%B3%D8%B1%D8%A9"
+      },
+      "title": "الأجنحة المتكسرة",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "gibran-al-ajniha-al-mutakassira"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 62,
+        "contentSha256": "679865524c6b0bd0e3c045f60d4ef7add4653f25f18ee9f90e6c3298cc138ce3",
+        "encoding": "gzip",
+        "path": "books/ar/gibran-dam-a-wa-ibtisama.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a5a979bac634d26f214b6ff8829d259b6b7dee79839cfa89f83ad810b541a058",
+        "sizeBytes": 71058,
+        "uncompressedSizeBytes": 239816,
+        "wordCount": 20975
+      },
+      "author": "جبران خليل جبران",
+      "authorDeathYear": 1931,
+      "editionId": "gibran-dam-a-wa-ibtisama.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 1914,
+      "originalTitle": "دمعة وابتسامة",
+      "rights": {
+        "statement": "Public domain worldwide. جبران خليل جبران died in 1931 and the work was first published in 1914. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "دمعة وابتسامة (1914)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T11:48:16.106061Z",
+        "revision": "607045",
+        "url": "https://ar.wikisource.org/wiki/%D8%AF%D9%85%D8%B9%D8%A9_%D9%88%D8%A7%D8%A8%D8%AA%D8%B3%D8%A7%D9%85%D8%A9_(1914)"
+      },
+      "title": "دمعة وابتسامة",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "gibran-dam-a-wa-ibtisama"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 51,
+        "contentSha256": "99365e5d24501c2ddacc841c9ccd326c0e2b8b4598b4fcb05836914a826d0dfa",
+        "encoding": "gzip",
+        "path": "books/ar/hamadhani-maqamat-badi-al-zaman.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1f8d0bea6ebcee12d8930d98680ff4b3e7f66c919be61c1b69c4d898ed0d3ce1",
+        "sizeBytes": 89230,
+        "uncompressedSizeBytes": 354736,
+        "wordCount": 20608
+      },
+      "author": "بديع الزمان الهمذاني",
+      "authorDeathYear": 1007,
+      "editionId": "hamadhani-maqamat-badi-al-zaman.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 1007,
+      "originalTitle": "مقامات بديع الزمان الهمذاني",
+      "rights": {
+        "statement": "Public domain worldwide. بديع الزمان الهمذاني died in 1007 and the work was first published in 1007. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "بديع الزمان الهمذاني",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T11:46:46.751761Z",
+        "revision": "601118",
+        "url": "https://ar.wikisource.org/wiki/%D8%A8%D8%AF%D9%8A%D8%B9_%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D9%87%D9%85%D8%B0%D8%A7%D9%86%D9%8A"
+      },
+      "title": "مقامات بديع الزمان الهمذاني",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "hamadhani-maqamat-badi-al-zaman"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 51,
+        "contentSha256": "a26e7e5f38c12d6b067b16bd2239c7b3a53fac78fa45b5fe711f5d674495ea47",
+        "encoding": "gzip",
+        "path": "books/ar/hariri-maqamat-al-hariri.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "22bbf823e58668889c64f1bf341621cc2801695fd7061de27cac1aacf7f3c5db",
+        "sizeBytes": 189744,
+        "uncompressedSizeBytes": 695934,
+        "wordCount": 53029
+      },
+      "author": "القاسم بن علي الحريري",
+      "authorDeathYear": 1122,
+      "editionId": "hariri-maqamat-al-hariri.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 1110,
+      "originalTitle": "مقامات الحريري",
+      "rights": {
+        "statement": "Public domain worldwide. القاسم بن علي الحريري died in 1122 and the work was first published in 1110. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "مقامات الحريري",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T11:45:34.676283Z",
+        "revision": "426592",
+        "url": "https://ar.wikisource.org/wiki/%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA_%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A"
+      },
+      "title": "مقامات الحريري",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "hariri-maqamat-al-hariri"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 10,
+        "contentSha256": "02167a3e27ca0b77f0ac970aa89b703fcff5f1ec8f6a51a87fa1c2e6b5507310",
+        "encoding": "gzip",
+        "path": "books/ar/jahiz-al-bukhala.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "97f7817f44a7ba4c1598bf299da826112cfef37ac1c9a332ed4a8e7cdbf14e11",
+        "sizeBytes": 140464,
+        "uncompressedSizeBytes": 485621,
+        "wordCount": 48799
+      },
+      "author": "الجاحظ",
+      "authorDeathYear": 869,
+      "editionId": "jahiz-al-bukhala.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 869,
+      "originalTitle": "البخلاء",
+      "rights": {
+        "statement": "Public domain worldwide. الجاحظ died in 869 and the work was first published in 869. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "البخلاء",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T11:43:45.640474Z",
+        "revision": "506357",
+        "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%A8%D8%AE%D9%84%D8%A7%D8%A1"
+      },
+      "title": "البخلاء",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "jahiz-al-bukhala"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 1,
         "contentSha256": "9f29cc97605499bf9e4e266aea2189dba1d45290538efdf3e02e926c31dad6d1",
         "encoding": "gzip",
@@ -343,6 +558,221 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "khordadbeh-book-of-roads-and-kingdoms"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 74,
+        "contentSha256": "003c168db1a602f88dfe1210a72e66906523365a4adc0aa10f6382c2792594e0",
+        "encoding": "gzip",
+        "path": "books/ar/khuwarizmi-1906.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "166b0b8404f063c2be4e32e98f02645a7649e78b3771bd3dd6271f2a0f2593e6",
+        "sizeBytes": 76674,
+        "uncompressedSizeBytes": 297864,
+        "wordCount": 27819
+      },
+      "author": "محمد بن العباس الخوارزمي",
+      "authorDeathYear": 993,
+      "editionId": "khuwarizmi-1906.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 1906,
+      "originalTitle": "مفيد العلوم ومبيد الهموم (دار التقدم، 1906)",
+      "rights": {
+        "statement": "Public domain worldwide. محمد بن العباس الخوارزمي died in 993 and the work was first published in 1906. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "مفيد العلوم ومبيد الهموم",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T09:16:47.606715Z",
+        "revision": "383854",
+        "url": "https://ar.wikisource.org/wiki/%D9%85%D9%81%D9%8A%D8%AF_%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85_%D9%88%D9%85%D8%A8%D9%8A%D8%AF_%D8%A7%D9%84%D9%87%D9%85%D9%88%D9%85"
+      },
+      "title": "مفيد العلوم ومبيد الهموم (دار التقدم، 1906)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "khuwarizmi-1906"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 75,
+        "contentSha256": "b116518d56b10be21860d1c2b90571ab204cc1843fa7ccf01ebd7d6170a92f65",
+        "encoding": "gzip",
+        "path": "books/ar/manfaluti-al-nazarat.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "38a82b8d32272e2ae6d23849caa583e67997af7aa7a9480134739626d2e826ca",
+        "sizeBytes": 259651,
+        "uncompressedSizeBytes": 863956,
+        "wordCount": 80032
+      },
+      "author": "مصطفى لطفي المنفلوطي",
+      "authorDeathYear": 1924,
+      "editionId": "manfaluti-al-nazarat.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 1910,
+      "originalTitle": "النظرات",
+      "rights": {
+        "statement": "Public domain worldwide. مصطفى لطفي المنفلوطي died in 1924 and the work was first published in 1910. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "النظرات",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T11:50:09.839239Z",
+        "revision": "301596",
+        "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D8%A7%D8%AA"
+      },
+      "title": "النظرات",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "manfaluti-al-nazarat"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 22,
+        "contentSha256": "d3fbf4a54930fa690be0f6de14ea19d674e3317f46a044d68d29a744fd476131",
+        "encoding": "gzip",
+        "path": "books/ar/marrash-kitab-ghabat-al-haqq.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "238aa65c174b608dcffb5c897031e95e0a6b2cadbc1eebfa91564b068e0606f3",
+        "sizeBytes": 85065,
+        "uncompressedSizeBytes": 280110,
+        "wordCount": 25667
+      },
+      "author": "فرنسيس مراش",
+      "authorDeathYear": 1874,
+      "editionId": "marrash-kitab-ghabat-al-haqq.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 1881,
+      "originalTitle": "كتاب غابة الحق",
+      "rights": {
+        "statement": "Public domain worldwide. فرنسيس مراش died in 1874 and the work was first published in 1881. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "غابة الحق (1881)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T09:17:05.042050Z",
+        "revision": "425829",
+        "url": "https://ar.wikisource.org/wiki/%D8%BA%D8%A7%D8%A8%D8%A9_%D8%A7%D9%84%D8%AD%D9%82_(1881)"
+      },
+      "title": "كتاب غابة الحق",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "marrash-kitab-ghabat-al-haqq"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 19,
+        "contentSha256": "b77bce84b627e1454f3ae4d3825d37bb75bb0041b77e8fd2d293c3e634c9d93e",
+        "encoding": "gzip",
+        "path": "books/ar/muqaffa-kalila-wa-dimna.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a0d37ee9dd2e44fccd0154343aecb3c34ec3e8200a5551e45bac00ba554553ec",
+        "sizeBytes": 120966,
+        "uncompressedSizeBytes": 437684,
+        "wordCount": 45653
+      },
+      "author": "عبد الله بن المقفع",
+      "authorDeathYear": 759,
+      "editionId": "muqaffa-kalila-wa-dimna.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 750,
+      "originalTitle": "كليلة ودمنة",
+      "rights": {
+        "statement": "Public domain worldwide. عبد الله بن المقفع died in 759 and the work was first published in 750. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "كليلة ودمنة",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T11:43:42.477282Z",
+        "revision": "424810",
+        "url": "https://ar.wikisource.org/wiki/%D9%83%D9%84%D9%8A%D9%84%D8%A9_%D9%88%D8%AF%D9%85%D9%86%D8%A9"
+      },
+      "title": "كليلة ودمنة",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "muqaffa-kalila-wa-dimna"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 14,
+        "contentSha256": "afdf2e045a44a7ed4509f7f163cebfe1e7cadf2b6111def6e98e049fc21e3be8",
+        "encoding": "gzip",
+        "path": "books/ar/shuhayd-risalat-al-tawabi-wa-l-zawabi.ar.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "962bd1706ed4fad4f65ec5d531a33a414396fd0e9ab887d04bd1e6a4f742ee37",
+        "sizeBytes": 30199,
+        "uncompressedSizeBytes": 92065,
+        "wordCount": 7432
+      },
+      "author": "ابن شهيد الأندلسي",
+      "authorDeathYear": 1035,
+      "editionId": "shuhayd-risalat-al-tawabi-wa-l-zawabi.ar.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Fiction"
+      ],
+      "kind": "original",
+      "language": "ar",
+      "originalLanguage": "ar",
+      "originalPublicationYear": 1027,
+      "originalTitle": "رسالة التوابع والزوابع",
+      "rights": {
+        "statement": "Public domain worldwide. ابن شهيد الأندلسي died in 1035 and the work was first published in 1027. Source: ar.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "رسالة التوابع والزوابع",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T11:43:48.795342Z",
+        "revision": "514628",
+        "url": "https://ar.wikisource.org/wiki/%D8%B1%D8%B3%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%A8%D8%B9_%D9%88%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%A8%D8%B9"
+      },
+      "title": "رسالة التوابع والزوابع",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "shuhayd-risalat-al-tawabi-wa-l-zawabi"
     },
     {
       "asset": {
@@ -390,19 +820,19 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 1,
-        "contentSha256": "0a7188e302ae8493497fea6816cec056f8f65b8eae544835221170c8509e58f4",
+        "chapterCount": 10,
+        "contentSha256": "f523792a171a98b097f698eb336ac5a828371213227abb655abce840747cb22c",
         "encoding": "gzip",
-        "path": "books/ar/taymiyyah-as-sarim-al-maslul-ala-shatim-ar-rasul.ar.wikisource/v1/book.json.gz",
+        "path": "books/ar/suqayr-kitab-lisan-ghu-n-lubnan-fi-intiqad-al-arabiyah-al-a-riyah.ar.wikisource/v1/book.json.gz",
         "schemaVersion": 1,
-        "sha256": "c3b1bd0c19d76bbddcde6cdf12ba8c391e6f661c6dffb8c5fbdc6ab7141ee1bb",
-        "sizeBytes": 325838,
-        "uncompressedSizeBytes": 1333854,
-        "wordCount": 147232
+        "sha256": "8457d75b19c05601d83b2926859e9325f023e70c278013fdf388babaec19d8b8",
+        "sizeBytes": 53228,
+        "uncompressedSizeBytes": 177973,
+        "wordCount": 17539
       },
-      "author": "ابن تيمية",
-      "authorDeathYear": 1328,
-      "editionId": "taymiyyah-as-sarim-al-maslul-ala-shatim-ar-rasul.ar.wikisource",
+      "author": "شاكر شقير",
+      "authorDeathYear": 1896,
+      "editionId": "suqayr-kitab-lisan-ghu-n-lubnan-fi-intiqad-al-arabiyah-al-a-riyah.ar.wikisource",
       "editionPublicationYear": null,
       "genres": [
         "Other"
@@ -410,31 +840,31 @@
       "kind": "original",
       "language": "ar",
       "originalLanguage": "ar",
-      "originalPublicationYear": 1294,
-      "originalTitle": "الصارم المسلول على شاتم الرسول",
+      "originalPublicationYear": 1891,
+      "originalTitle": "لسان غصن لبنان في انتقاد العربية العصرية",
       "rights": {
-        "statement": "Public domain worldwide. ابن تيمية died in 1328 and the work was first published in 1294. Source: ar.wikisource.org transcription of the public-domain text.",
+        "statement": "Public domain worldwide. شاكر شقير died in 1896 and the work was first published in 1891. Source: ar.wikisource.org transcription of the public-domain text.",
         "status": "public-domain",
         "verifiedAt": "2026-09-21"
       },
       "source": {
-        "identifier": "الصارم المسلول على شاتم الرسول",
+        "identifier": "لسان غصن لبنان في انتقاد العربية العصرية",
         "provider": "wikisource",
-        "retrievedAt": "2026-09-21T01:53:37.046544Z",
-        "revision": "280552",
-        "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%B5%D8%A7%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%88%D9%84_%D8%B9%D9%84%D9%89_%D8%B4%D8%A7%D8%AA%D9%85_%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84"
+        "retrievedAt": "2026-09-21T09:17:32.124692Z",
+        "revision": "603420",
+        "url": "https://ar.wikisource.org/wiki/%D9%84%D8%B3%D8%A7%D9%86_%D8%BA%D8%B5%D9%86_%D9%84%D8%A8%D9%86%D8%A7%D9%86_%D9%81%D9%8A_%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%B5%D8%B1%D9%8A%D8%A9"
       },
-      "title": "الصارم المسلول على شاتم الرسول",
+      "title": "لسان غصن لبنان في انتقاد العربية العصرية",
       "translationPublicationYear": null,
       "translator": null,
       "translatorDeathYear": null,
-      "workId": "taymiyyah-as-sarim-al-maslul-ala-shatim-ar-rasul"
+      "workId": "suqayr-kitab-lisan-ghu-n-lubnan-fi-intiqad-al-arabiyah-al-a-riyah"
     }
   ],
   "direction": "rtl",
   "englishName": "Arabic",
   "language": "ar",
-  "manifestVersion": "c6b799d0062de476",
+  "manifestVersion": "f0d777e7e9ad4381",
   "nativeName": "العربية",
   "schemaVersion": 1
 }

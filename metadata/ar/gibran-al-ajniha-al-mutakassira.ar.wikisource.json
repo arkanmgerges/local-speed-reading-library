@@ -1,0 +1,117 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T11:43:52.673532Z",
+    "chapterCount": 11,
+    "contentSha256": "11efd2a8d33521d5c20190992417fee2428e68be75ed15c60156d5e25a143a2e",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/gibran-al-ajniha-al-mutakassira.ar.wikisource/v1/book.json.gz",
+    "sha256": "952fce8db6a674e7172c8d2db037246cf769c57499c8a19d3f1413b79f62d4ad",
+    "sizeBytes": 51134,
+    "uncompressedSizeBytes": 173168,
+    "wordCount": 16006
+  },
+  "edition": {
+    "editionId": "gibran-al-ajniha-al-mutakassira.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "الأجنحة المتكسرة"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1931: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1912: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q4165480",
+      "https://www.wikidata.org/wiki/Q47737",
+      "https://en.wikipedia.org/wiki/The_Broken_Wings",
+      "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%AD%D8%A9_%D8%A7%D9%84%D9%85%D8%AA%D9%83%D8%B3%D8%B1%D8%A9"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "statement": "Public domain worldwide. جبران خليل جبران died in 1931 and the work was first published in 1912. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "الأجنحة المتكسرة",
+    "pages": [
+      {
+        "revision": 425012,
+        "title": "الأجنحة المتكسرة"
+      },
+      {
+        "revision": 434088,
+        "title": "الأجنحة المتكسرة/توطئة"
+      },
+      {
+        "revision": 143826,
+        "title": "الأجنحة المتكسرة/الكآبة الخرساء"
+      },
+      {
+        "revision": 143818,
+        "title": "الأجنحة المتكسرة/يد القضاء"
+      },
+      {
+        "revision": 195073,
+        "title": "الأجنحة المتكسرة/في باب الهيكل"
+      },
+      {
+        "revision": 143820,
+        "title": "الأجنحة المتكسرة/الشعلة البيضاء"
+      },
+      {
+        "revision": 143821,
+        "title": "الأجنحة المتكسرة/العاصفة"
+      },
+      {
+        "revision": 143829,
+        "title": "الأجنحة المتكسرة/بحيرة النار"
+      },
+      {
+        "revision": 143822,
+        "title": "الأجنحة المتكسرة/أمام عرش الموت"
+      },
+      {
+        "revision": 143823,
+        "title": "الأجنحة المتكسرة/بين عشتروت والمسيح"
+      },
+      {
+        "revision": 143824,
+        "title": "الأجنحة المتكسرة/التضحية"
+      },
+      {
+        "revision": 143828,
+        "title": "الأجنحة المتكسرة/المنقذ"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T11:43:52.410548Z",
+    "revision": "425012",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%AD%D8%A9_%D8%A7%D9%84%D9%85%D8%AA%D9%83%D8%B3%D8%B1%D8%A9"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1883,
+      "deathYear": 1931,
+      "name": "جبران خليل جبران",
+      "wikidata": "Q47737"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 1912,
+    "originalTitle": "الأجنحة المتكسرة",
+    "workId": "gibran-al-ajniha-al-mutakassira"
+  }
+}

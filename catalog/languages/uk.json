@@ -3,6 +3,49 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 9,
+        "contentSha256": "3b134e9ab6209f15b54dc46cc1a3a7736c7c210ca1b2a5113642706d73014ac0",
+        "encoding": "gzip",
+        "path": "books/uk/arkas-q105064392.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4c09913a94c89ada999760b080b27880af57ebed8766adf5ab742d51fb9f487c",
+        "sizeBytes": 432540,
+        "uncompressedSizeBytes": 1623682,
+        "wordCount": 139617
+      },
+      "author": "Аркас Микола Миколайович (старший)",
+      "authorDeathYear": 1909,
+      "editionId": "arkas-q105064392.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "uk",
+      "originalLanguage": "uk",
+      "originalPublicationYear": 1912,
+      "originalTitle": "Історія України-Русі",
+      "rights": {
+        "statement": "Public domain worldwide. Аркас Микола Миколайович (старший) died in 1909 and the work was first published in 1912. Source: uk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Історія України-Русі (Аркас, 1912)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:54:26.209137Z",
+        "revision": "263912",
+        "url": "https://uk.wikisource.org/wiki/%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8-%D0%A0%D1%83%D1%81%D1%96_(%D0%90%D1%80%D0%BA%D0%B0%D1%81%2C_1912)"
+      },
+      "title": "Історія України-Русі",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "arkas-q105064392"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 17,
         "contentSha256": "f16509f8a8cf06b4cb9aa1031979d1932d842ab821ff335d1f6f38293b11a579",
         "encoding": "gzip",
@@ -175,6 +218,178 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 38,
+        "contentSha256": "4702b64a3f9bbf8c72fc302d334989137b5bb421acc25b9233766c6f4a241291",
+        "encoding": "gzip",
+        "path": "books/uk/hlibov-bayky-leonyda-hlibova.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "253c835f91beb00907427bfbdec131f8a145aa9b430a00a3aad2b11fcaf0bdc0",
+        "sizeBytes": 28923,
+        "uncompressedSizeBytes": 94939,
+        "wordCount": 7938
+      },
+      "author": "Глібов Леонід Іванович",
+      "authorDeathYear": 1893,
+      "editionId": "hlibov-bayky-leonyda-hlibova.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "uk",
+      "originalLanguage": "uk",
+      "originalPublicationYear": 1918,
+      "originalTitle": "Байки Леонида Глібова",
+      "rights": {
+        "statement": "Public domain worldwide. Глібов Леонід Іванович died in 1893 and the work was first published in 1918. Source: uk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Байки (Глібов, 1918)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:56:11.638537Z",
+        "revision": "436994",
+        "url": "https://uk.wikisource.org/wiki/%D0%91%D0%B0%D0%B9%D0%BA%D0%B8_(%D0%93%D0%BB%D1%96%D0%B1%D0%BE%D0%B2%2C_1918)"
+      },
+      "title": "Байки Леонида Глібова",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "hlibov-bayky-leonyda-hlibova"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 9,
+        "contentSha256": "fd5860d3b7c3c87efca4c77486405a5c6e517814631738d3cc25fe908ffa044f",
+        "encoding": "gzip",
+        "path": "books/uk/khvylovyi-the-woodsnipes.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c708af1f6fbae07c24c8274a9afbc208afb680749abc9f19c38057c7b382a08c",
+        "sizeBytes": 59684,
+        "uncompressedSizeBytes": 228190,
+        "wordCount": 20299
+      },
+      "author": "Микола Хвильовий",
+      "authorDeathYear": 1933,
+      "editionId": "khvylovyi-the-woodsnipes.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "uk",
+      "originalLanguage": "uk",
+      "originalPublicationYear": 1927,
+      "originalTitle": "Вальдшнепи",
+      "rights": {
+        "statement": "Public domain worldwide. Микола Хвильовий died in 1933 and the work was first published in 1927. Source: uk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Вальдшнепи",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:56:55.367676Z",
+        "revision": "611875",
+        "url": "https://uk.wikisource.org/wiki/%D0%92%D0%B0%D0%BB%D1%8C%D0%B4%D1%88%D0%BD%D0%B5%D0%BF%D0%B8"
+      },
+      "title": "Вальдшнепи",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "khvylovyi-the-woodsnipes"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 33,
+        "contentSha256": "05084f1ce83924546685d229e5a487ba49f5455b33f59f0753e416f608f3bdc0",
+        "encoding": "gzip",
+        "path": "books/uk/lozynsky-1918-1920.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "476052f0cd7f6df19ac49a8c992b111cee43f91798c97b703052a162d22f6307",
+        "sizeBytes": 251188,
+        "uncompressedSizeBytes": 1107057,
+        "wordCount": 82237
+      },
+      "author": "Лозинський Михайло Михайлович",
+      "authorDeathYear": 1937,
+      "editionId": "lozynsky-1918-1920.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "uk",
+      "originalLanguage": "uk",
+      "originalPublicationYear": 1922,
+      "originalTitle": "Галичина в рр. 1918–1920",
+      "rights": {
+        "statement": "Public domain worldwide. Лозинський Михайло Михайлович died in 1937 and the work was first published in 1922. Source: uk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Галичина в рр. 1918–1920",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:58:17.022049Z",
+        "revision": "418208",
+        "url": "https://uk.wikisource.org/wiki/%D0%93%D0%B0%D0%BB%D0%B8%D1%87%D0%B8%D0%BD%D0%B0_%D0%B2_%D1%80%D1%80._1918%E2%80%931920"
+      },
+      "title": "Галичина в рр. 1918–1920",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "lozynsky-1918-1920"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 10,
+        "contentSha256": "f6867d578fe1c12498151ca830a56baa697b4de3c8ebc287e43b2f2b9e0e4431",
+        "encoding": "gzip",
+        "path": "books/uk/lypynsky-q28705510.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "62e5a91a379cea6f2f32ba7d52cbd92641dc5e1134e7a5e76ddc802d4b0917ef",
+        "sizeBytes": 79381,
+        "uncompressedSizeBytes": 306373,
+        "wordCount": 24555
+      },
+      "author": "Липинський В'ячеслав Казимирович",
+      "authorDeathYear": 1931,
+      "editionId": "lypynsky-q28705510.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "uk",
+      "originalLanguage": "uk",
+      "originalPublicationYear": 1926,
+      "originalTitle": "Листи до братів-хліборобів",
+      "rights": {
+        "statement": "Public domain worldwide. Липинський В'ячеслав Казимирович died in 1931 and the work was first published in 1926. Source: uk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Листи до братів-хліборобів",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:58:27.915763Z",
+        "revision": "687531",
+        "url": "https://uk.wikisource.org/wiki/%D0%9B%D0%B8%D1%81%D1%82%D0%B8_%D0%B4%D0%BE_%D0%B1%D1%80%D0%B0%D1%82%D1%96%D0%B2-%D1%85%D0%BB%D1%96%D0%B1%D0%BE%D1%80%D0%BE%D0%B1%D1%96%D0%B2"
+      },
+      "title": "Листи до братів-хліборобів",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "lypynsky-q28705510"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 3,
         "contentSha256": "3f2ff016c938c94e9102374d80f27c328b73800558d1a8c2d3d101fa8f130fc3",
         "encoding": "gzip",
@@ -214,6 +429,92 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "lypynsky-q29169675"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "d2a1075c3551c1e5014e61ca40445e9531d3cf1de7ab49e6d6070d8607b1620b",
+        "encoding": "gzip",
+        "path": "books/uk/mikhnovsky-q127698920.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "2bdec2c573d813fe6614aa588868434b4d37e83bff90acffdffb1567e155ff03",
+        "sizeBytes": 25313,
+        "uncompressedSizeBytes": 92823,
+        "wordCount": 7406
+      },
+      "author": "Міхновський Микола Іванович",
+      "authorDeathYear": 1924,
+      "editionId": "mikhnovsky-q127698920.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "uk",
+      "originalLanguage": "uk",
+      "originalPublicationYear": 1917,
+      "originalTitle": "Самостійна Україна",
+      "rights": {
+        "statement": "Public domain worldwide. Міхновський Микола Іванович died in 1924 and the work was first published in 1917. Source: uk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Самостійна Україна (Міхновський, 1917)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:58:31.780312Z",
+        "revision": "747930",
+        "url": "https://uk.wikisource.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D1%96%D0%B9%D0%BD%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0_(%D0%9C%D1%96%D1%85%D0%BD%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%2C_1917)"
+      },
+      "title": "Самостійна Україна",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "mikhnovsky-q127698920"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 8,
+        "contentSha256": "54025cced7b5c011ae74e2a8b193d821a3fcc53bee03d59b266c8a1cc127887c",
+        "encoding": "gzip",
+        "path": "books/uk/nechui-levytskyi-q120540245.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "4e567d80c1150fe148ecb2a08f9a6d5d51b2e0a9598fa53ce54614315fbea5d8",
+        "sizeBytes": 53872,
+        "uncompressedSizeBytes": 190212,
+        "wordCount": 17254
+      },
+      "author": "Іван Нечуй-Левицький",
+      "authorDeathYear": 1918,
+      "editionId": "nechui-levytskyi-q120540245.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "uk",
+      "originalLanguage": "uk",
+      "originalPublicationYear": 1868,
+      "originalTitle": "Дві московки",
+      "rights": {
+        "statement": "Public domain worldwide. Іван Нечуй-Левицький died in 1918 and the work was first published in 1868. Source: uk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Дві московки",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:58:33.712007Z",
+        "revision": "395783",
+        "url": "https://uk.wikisource.org/wiki/%D0%94%D0%B2%D1%96_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D0%BA%D0%B8"
+      },
+      "title": "Дві московки",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "nechui-levytskyi-q120540245"
     },
     {
       "asset": {
@@ -347,6 +648,49 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 68,
+        "contentSha256": "8762ab2e8201bc308321f1ccb2b655aab4d1cf911d498237c5ebb09e42d4b2d4",
+        "encoding": "gzip",
+        "path": "books/uk/ukrainka-q16708465.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "000132635953b90673b5e00f2d0377fe64c923d23ff63384a38aec453d9cc01d",
+        "sizeBytes": 44588,
+        "uncompressedSizeBytes": 155966,
+        "wordCount": 12253
+      },
+      "author": "Леся Українка",
+      "authorDeathYear": 1913,
+      "editionId": "ukrainka-q16708465.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "uk",
+      "originalLanguage": "uk",
+      "originalPublicationYear": 1892,
+      "originalTitle": "На крилах пісень",
+      "rights": {
+        "statement": "Public domain worldwide. Леся Українка died in 1913 and the work was first published in 1892. Source: uk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "На крилах пісень",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T11:00:54.946616Z",
+        "revision": "560667",
+        "url": "https://uk.wikisource.org/wiki/%D0%9D%D0%B0_%D0%BA%D1%80%D0%B8%D0%BB%D0%B0%D1%85_%D0%BF%D1%96%D1%81%D0%B5%D0%BD%D1%8C"
+      },
+      "title": "На крилах пісень",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "ukrainka-q16708465"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 1,
         "contentSha256": "25c2a2833339a684e8aa7f43d357c323d2f459d1154d9f3eccf4398044019af8",
         "encoding": "gzip",
@@ -386,12 +730,98 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "ukrainka-the-forest-song"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 48,
+        "contentSha256": "23afb1270318ab88dced98eefd9c3de0246b265d890a70f0a741f9a33eeab947",
+        "encoding": "gzip",
+        "path": "books/uk/vovchok-q99600349.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "073014d8e265c0e5240558430eddb5f05fdd0fca6237d3ee8c541151f64df324",
+        "sizeBytes": 38948,
+        "uncompressedSizeBytes": 135751,
+        "wordCount": 12498
+      },
+      "author": "Марко Вовчок",
+      "authorDeathYear": 1907,
+      "editionId": "vovchok-q99600349.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "uk",
+      "originalLanguage": "uk",
+      "originalPublicationYear": 1929,
+      "originalTitle": "Інститутка",
+      "rights": {
+        "statement": "Public domain worldwide. Марко Вовчок died in 1907 and the work was first published in 1929. Source: uk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Інститутка (1929)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T11:01:00.251907Z",
+        "revision": "251210",
+        "url": "https://uk.wikisource.org/wiki/%D0%86%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BA%D0%B0_(1929)"
+      },
+      "title": "Інститутка",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vovchok-q99600349"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 9,
+        "contentSha256": "9ce68f5368ca4ca0ff0cc478cea9d2c102fe2c0b223282230a2912b6219b7948",
+        "encoding": "gzip",
+        "path": "books/uk/yefremov-q104099707.uk.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0a38d9f580acd13f4eb95e29ac96e631d8246cab595db856bfc86a67b4500c22",
+        "sizeBytes": 40661,
+        "uncompressedSizeBytes": 143686,
+        "wordCount": 11301
+      },
+      "author": "Єфремов Сергій Олександрович",
+      "authorDeathYear": 1939,
+      "editionId": "yefremov-q104099707.uk.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "uk",
+      "originalLanguage": "uk",
+      "originalPublicationYear": 1926,
+      "originalTitle": "В тісних рямцях",
+      "rights": {
+        "statement": "Public domain worldwide. Єфремов Сергій Олександрович died in 1939 and the work was first published in 1926. Source: uk.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "В тісних рямцях",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T11:01:03.654110Z",
+        "revision": "743134",
+        "url": "https://uk.wikisource.org/wiki/%D0%92_%D1%82%D1%96%D1%81%D0%BD%D0%B8%D1%85_%D1%80%D1%8F%D0%BC%D1%86%D1%8F%D1%85"
+      },
+      "title": "В тісних рямцях",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "yefremov-q104099707"
     }
   ],
   "direction": "ltr",
   "englishName": "Ukrainian",
   "language": "uk",
-  "manifestVersion": "fa49713f9995068c",
+  "manifestVersion": "ef4f46b67c91ac06",
   "nativeName": "Українська",
   "schemaVersion": 1
 }

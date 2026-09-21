@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T09:15:14.376128Z",
+    "chapterCount": 7,
+    "contentSha256": "6096cb0f87cfa48d1802c594658a71a0516488952defeb48117ad09a39697dad",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/gibran-1908.ar.wikisource/v1/book.json.gz",
+    "sha256": "0f7b915f2507da5274febac33dc044dc550e73bad9773856384e0511e29594c5",
+    "sizeBytes": 69516,
+    "uncompressedSizeBytes": 232749,
+    "wordCount": 21226
+  },
+  "edition": {
+    "editionId": "gibran-1908.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "الأرواح المتمردة (1908)"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1931: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1908: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q115645171",
+      "https://www.wikidata.org/wiki/Q47737",
+      "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%A3%D8%B1%D9%88%D8%A7%D8%AD_%D8%A7%D9%84%D9%85%D8%AA%D9%85%D8%B1%D8%AF%D8%A9_(1908)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. جبران خليل جبران died in 1931 and the work was first published in 1908. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "الأرواح المتمردة (1908)",
+    "pages": [
+      {
+        "revision": 534628,
+        "title": "الأرواح المتمردة (1908)"
+      },
+      {
+        "revision": 534626,
+        "title": "الأرواح المتمردة (1908)/مقدمة وانتقاد"
+      },
+      {
+        "revision": 534622,
+        "title": "الأرواح المتمردة (1908)/السيدة ورده"
+      },
+      {
+        "revision": 534623,
+        "title": "الأرواح المتمردة (1908)/صراخ القبور"
+      },
+      {
+        "revision": 534624,
+        "title": "الأرواح المتمردة (1908)/مضجع العروس"
+      },
+      {
+        "revision": 534625,
+        "title": "الأرواح المتمردة (1908)/خليل الكافر"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T09:15:14.011710Z",
+    "revision": "534628",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%A3%D8%B1%D9%88%D8%A7%D8%AD_%D8%A7%D9%84%D9%85%D8%AA%D9%85%D8%B1%D8%AF%D8%A9_(1908)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1883,
+      "deathYear": 1931,
+      "name": "جبران خليل جبران",
+      "wikidata": "Q47737"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 1908,
+    "originalTitle": "الأرواح المتمردة (1908)",
+    "workId": "gibran-1908"
+  }
+}

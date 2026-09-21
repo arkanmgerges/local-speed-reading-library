@@ -218,6 +218,49 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "6eb5b5b9ff5007d453cfab6f9824777b0b0c4b53d9dbaa29a8394caa6ed257a6",
+        "encoding": "gzip",
+        "path": "books/el/koromelas-to-schedion-tis-kyrias-xylaraki.el.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "61f8c0fc91c1b44aa1ae5dbcf0beb6fbac788998c37f6aadd6befbdccdab3df5",
+        "sizeBytes": 19423,
+        "uncompressedSizeBytes": 81046,
+        "wordCount": 6664
+      },
+      "author": "Δημήτριος Κορομηλάς",
+      "authorDeathYear": 1898,
+      "editionId": "koromelas-to-schedion-tis-kyrias-xylaraki.el.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "el",
+      "originalLanguage": "el",
+      "originalPublicationYear": 1888,
+      "originalTitle": "Το σχέδιον της κυρίας Ξυλαράκη",
+      "rights": {
+        "statement": "Public domain worldwide. Δημήτριος Κορομηλάς died in 1898 and the work was first published in 1888. Source: el.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Ετήσιον Ημερολόγιον του Έτους 1888/Το σχέδιον της κυρίας Ξυλαράκη",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:15:26.090803Z",
+        "revision": "113944",
+        "url": "https://el.wikisource.org/wiki/%CE%95%CF%84%CE%AE%CF%83%CE%B9%CE%BF%CE%BD_%CE%97%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%CE%BD_%CF%84%CE%BF%CF%85_%CE%88%CF%84%CE%BF%CF%85%CF%82_1888/%CE%A4%CE%BF_%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%BF%CE%BD_%CF%84%CE%B7%CF%82_%CE%BA%CF%85%CF%81%CE%AF%CE%B1%CF%82_%CE%9E%CF%85%CE%BB%CE%B1%CF%81%CE%AC%CE%BA%CE%B7"
+      },
+      "title": "Το σχέδιον της κυρίας Ξυλαράκη",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "koromelas-to-schedion-tis-kyrias-xylaraki"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 54,
         "contentSha256": "d27747cecaed14692c4abe45aa3c0ab38dfcad05e9d4ea7bb1b0917097fc4378",
         "encoding": "gzip",
@@ -737,7 +780,7 @@
   "direction": "ltr",
   "englishName": "Greek",
   "language": "el",
-  "manifestVersion": "4f5a89a50f07c441",
+  "manifestVersion": "a8ea26a135c92e16",
   "nativeName": "Ελληνικά",
   "schemaVersion": 1
 }

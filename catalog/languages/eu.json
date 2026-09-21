@@ -3,49 +3,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 19,
-        "contentSha256": "75637705c7a6d937d1b11d77f861d04cb2a65bbfe5dddb29780fc328f6c6a38c",
-        "encoding": "gzip",
-        "path": "books/eu/axular-gero.eu.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "a5731c6520c81cc4425a67bd104d22996ed3e05841ef9ab650d2ff666450acb5",
-        "sizeBytes": 259073,
-        "uncompressedSizeBytes": 748968,
-        "wordCount": 101668
-      },
-      "author": "Pedro Axular",
-      "authorDeathYear": 1644,
-      "editionId": "axular-gero.eu.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "eu",
-      "originalLanguage": "eu",
-      "originalPublicationYear": 1643,
-      "originalTitle": "Gero",
-      "rights": {
-        "statement": "Public domain worldwide. Pedro Axular died in 1644 and the work was first published in 1643. Source: eu.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Gero",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T02:57:54.494237Z",
-        "revision": "28211",
-        "url": "https://eu.wikisource.org/wiki/Gero"
-      },
-      "title": "Gero",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "axular-gero"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 50,
         "contentSha256": "446496b5833ee609f4278a2e080401d9fe0f3b41d41dfc3aa67e256cd7cbc285",
         "encoding": "gzip",
@@ -85,55 +42,12 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "mogel-ipui-onac"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 11,
-        "contentSha256": "673f6b31612d2116c336ef82d59a366b839658157dfe1a7a3ff0596705190394",
-        "encoding": "gzip",
-        "path": "books/eu/tartas-onsa-hilceco-bidia.eu.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "0ef6a6eaef7cc2d5c99778507c2ae167868dc116d2292675d977d47a253289f8",
-        "sizeBytes": 92579,
-        "uncompressedSizeBytes": 266912,
-        "wordCount": 36089
-      },
-      "author": "Joan Tartas",
-      "authorDeathYear": 1699,
-      "editionId": "tartas-onsa-hilceco-bidia.eu.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "eu",
-      "originalLanguage": "eu",
-      "originalPublicationYear": 1666,
-      "originalTitle": "Onsa hilceco bidia",
-      "rights": {
-        "statement": "Public domain worldwide. Joan Tartas died in 1699 and the work was first published in 1666. Source: eu.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Onsa hilceco bidia",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:00:33.733263Z",
-        "revision": "14756",
-        "url": "https://eu.wikisource.org/wiki/Onsa_hilceco_bidia"
-      },
-      "title": "Onsa hilceco bidia",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "tartas-onsa-hilceco-bidia"
     }
   ],
   "direction": "ltr",
   "englishName": "Basque",
   "language": "eu",
-  "manifestVersion": "df640877ee20cda8",
+  "manifestVersion": "052a180af5035ec5",
   "nativeName": "Euskara",
   "schemaVersion": 1
 }

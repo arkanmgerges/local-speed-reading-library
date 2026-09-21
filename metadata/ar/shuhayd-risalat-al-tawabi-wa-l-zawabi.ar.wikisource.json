@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T11:43:48.954947Z",
+    "chapterCount": 14,
+    "contentSha256": "afdf2e045a44a7ed4509f7f163cebfe1e7cadf2b6111def6e98e049fc21e3be8",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/shuhayd-risalat-al-tawabi-wa-l-zawabi.ar.wikisource/v1/book.json.gz",
+    "sha256": "962bd1706ed4fad4f65ec5d531a33a414396fd0e9ab887d04bd1e6a4f742ee37",
+    "sizeBytes": 30199,
+    "uncompressedSizeBytes": 92065,
+    "wordCount": 7432
+  },
+  "edition": {
+    "editionId": "shuhayd-risalat-al-tawabi-wa-l-zawabi.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "رسالة التوابع والزوابع"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1035: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1027: more than 95 years ago (US term expired) - written about 1027, no later than the author’s death in 1035"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q19497759",
+      "https://www.wikidata.org/wiki/Q3147459",
+      "https://en.wikipedia.org/wiki/Ibn_Shuhayd",
+      "https://ar.wikisource.org/wiki/%D8%B1%D8%B3%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%A8%D8%B9_%D9%88%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%A8%D8%B9"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "statement": "Public domain worldwide. ابن شهيد الأندلسي died in 1035 and the work was first published in 1027. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "رسالة التوابع والزوابع",
+    "pages": [
+      {
+        "revision": 514628,
+        "title": "رسالة التوابع والزوابع"
+      },
+      {
+        "revision": 478391,
+        "title": "رسالة التوابع والزوابع/المدخل"
+      },
+      {
+        "revision": 499823,
+        "title": "رسالة التوابع والزوابع/الفصل الأول"
+      },
+      {
+        "revision": 435631,
+        "title": "رسالة التوابع والزوابع/الفصل الثاني"
+      },
+      {
+        "revision": 478393,
+        "title": "رسالة التوابع والزوابع/الفصل الثالث"
+      },
+      {
+        "revision": 478394,
+        "title": "رسالة التوابع والزوابع/الفصل الرابع"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T11:43:48.795342Z",
+    "revision": "514628",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%B1%D8%B3%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%A8%D8%B9_%D9%88%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%A8%D8%B9"
+  },
+  "work": {
+    "author": {
+      "birthYear": 992,
+      "deathYear": 1035,
+      "name": "ابن شهيد الأندلسي",
+      "wikidata": "Q3147459"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 1027,
+    "originalTitle": "رسالة التوابع والزوابع",
+    "workId": "shuhayd-risalat-al-tawabi-wa-l-zawabi"
+  }
+}

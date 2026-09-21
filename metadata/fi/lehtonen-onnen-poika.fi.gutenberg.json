@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:26:46.320452Z",
+    "chapterCount": 20,
+    "contentSha256": "d8378806da91d53d4b90bbf72acd3a08f0f5a768320d907a6a04d16db1065da8",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/lehtonen-onnen-poika.fi.gutenberg/v1/book.json.gz",
+    "sha256": "d55a4d78de9302119e710c2e50a0adae1634ab92ec1ef92ff22280226c593718",
+    "sizeBytes": 94554,
+    "uncompressedSizeBytes": 246961,
+    "wordCount": 29281
+  },
+  "edition": {
+    "editionId": "lehtonen-onnen-poika.fi.gutenberg",
+    "editionPublicationYear": 1925,
+    "kind": "original",
+    "language": "fi",
+    "title": "Onnen poika : $b Vähäisiä muistokuvia"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1934: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1925 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/79245",
+      "https://en.wikipedia.org/wiki/Joel_Lehtonen"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Joel Lehtonen died in 1934 and the edition digitised by Project Gutenberg was printed in 1925. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "79245",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T10:26:45.877594Z",
+    "revision": "Mon, 31 Aug 2026 12:53:52 GMT",
+    "url": "https://www.gutenberg.org/ebooks/79245"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1881,
+      "deathYear": 1934,
+      "name": "Joel Lehtonen",
+      "wikidata": "Q560921"
+    },
+    "originalLanguage": "fi",
+    "originalTitle": "Onnen poika : $b Vähäisiä muistokuvia",
+    "workId": "lehtonen-onnen-poika"
+  }
+}

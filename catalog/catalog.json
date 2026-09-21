@@ -2,7 +2,7 @@
   "assets": {
     "baseUrl": "https://books.localspeedreading.com/"
   },
-  "catalogVersion": "530fccf880a78aa3",
+  "catalogVersion": "bbe34f578f24174e",
   "generatedBy": "lsr-library-tools 0.2.0",
   "languages": [
     {
@@ -16,43 +16,43 @@
       "nativeName": "Afrikaans"
     },
     {
-      "bookCount": 10,
+      "bookCount": 20,
       "direction": "rtl",
       "englishName": "Arabic",
       "language": "ar",
       "manifest": "catalog/languages/ar.json",
-      "manifestSha256": "dd536ea3ec560295b29c52c5d426cd245c9321620decc511a69e5280152404ea",
-      "manifestVersion": "c6b799d0062de476",
+      "manifestSha256": "1935c95b349cc9e67cf93cc11b07ff18f43d3ac755212dc37fa361f8e6b833ff",
+      "manifestVersion": "f0d777e7e9ad4381",
       "nativeName": "العربية"
     },
     {
-      "bookCount": 18,
+      "bookCount": 9,
       "direction": "ltr",
       "englishName": "Assamese",
       "language": "as",
       "manifest": "catalog/languages/as.json",
-      "manifestSha256": "1827ae7af584de01fdd2294cdb2bd82c9e99f0b1af03112ae389c8418abefb58",
-      "manifestVersion": "5589f95f36b68b31",
+      "manifestSha256": "787c386c8e6cf4515246afd063eb28a814400b2a53b8af711db8704ef7e73197",
+      "manifestVersion": "acee31c479fd7a66",
       "nativeName": "অসমীয়া"
     },
     {
-      "bookCount": 3,
+      "bookCount": 1,
       "direction": "ltr",
       "englishName": "Azerbaijani",
       "language": "az",
       "manifest": "catalog/languages/az.json",
-      "manifestSha256": "084b9cfbf8fce810a367be4dc56c64e59464601c3d34c8994b63d6fcd107b36e",
-      "manifestVersion": "2e20286b3d9d4ca0",
+      "manifestSha256": "54502ee190df4e499fdcb00b41cde7b0eccda6f93bda305080ada7dbfad47ce4",
+      "manifestVersion": "e8306ac44610204a",
       "nativeName": "Azərbaycanca"
     },
     {
-      "bookCount": 3,
+      "bookCount": 4,
       "direction": "ltr",
       "englishName": "Belarusian",
       "language": "be",
       "manifest": "catalog/languages/be.json",
-      "manifestSha256": "d9e89191c87180b6fe0a5be4595d262ecb8c7e01b3e6eb0be1fc8d7972a94ebc",
-      "manifestVersion": "325a5c954cc6b910",
+      "manifestSha256": "91697b3f3b893bf0491926c63570e3ca352b87321631ef050f07fc76254b6646",
+      "manifestVersion": "83487900d38b2f63",
       "nativeName": "Беларуская"
     },
     {
@@ -66,33 +66,33 @@
       "nativeName": "Български"
     },
     {
-      "bookCount": 12,
+      "bookCount": 18,
       "direction": "ltr",
       "englishName": "Bengali",
       "language": "bn",
       "manifest": "catalog/languages/bn.json",
-      "manifestSha256": "31c11259c7fe4f3d9d639f738b7adf411d34384f67a1595275ce600c1ba013bf",
-      "manifestVersion": "583e7fd7c8651f22",
+      "manifestSha256": "a941b4a3d15a6a6b37f582de7a8721197aa5d1582b018cc5b240baf95175f057",
+      "manifestVersion": "64554a384990fa5f",
       "nativeName": "বাংলা"
     },
     {
-      "bookCount": 20,
+      "bookCount": 19,
       "direction": "ltr",
       "englishName": "Catalan",
       "language": "ca",
       "manifest": "catalog/languages/ca.json",
-      "manifestSha256": "f0a992840a9269d3889655cebc11325963c5d8e8abf1b51543d56d81e67933bf",
-      "manifestVersion": "ba7a548d62beb4e9",
+      "manifestSha256": "dfc56ab42ed7b9e720283126a4a0613d5fd47cae04c4adcc95ba3f1160c1f22c",
+      "manifestVersion": "3f4c17eecf4b950c",
       "nativeName": "Català"
     },
     {
-      "bookCount": 10,
+      "bookCount": 19,
       "direction": "ltr",
       "englishName": "Czech",
       "language": "cs",
       "manifest": "catalog/languages/cs.json",
-      "manifestSha256": "bcaaf0f1075cdbe9ae52301872e2177048ca1aeb6454deeb9f0c41228e3b0839",
-      "manifestVersion": "ddf66882ac5be983",
+      "manifestSha256": "2799a593b64c20724810221a6600ee6db501a36cccd585e2c18c3d6c5b358e02",
+      "manifestVersion": "2e6d43536f157f6f",
       "nativeName": "Čeština"
     },
     {
@@ -106,13 +106,13 @@
       "nativeName": "Cymraeg"
     },
     {
-      "bookCount": 19,
+      "bookCount": 20,
       "direction": "ltr",
       "englishName": "Danish",
       "language": "da",
       "manifest": "catalog/languages/da.json",
-      "manifestSha256": "7291e0edd52b80133f6c0aebebbdb5528b47cc7125ceabe6f3ce9c9f002ca987",
-      "manifestVersion": "7dfd5ad7c4420f3c",
+      "manifestSha256": "7a26a033eabf9bcceffbd7705a8b9fb0bad7cbcb1ee78e11e8505e93f1f374d1",
+      "manifestVersion": "405e82beba5316ff",
       "nativeName": "Dansk"
     },
     {
@@ -126,13 +126,13 @@
       "nativeName": "Deutsch"
     },
     {
-      "bookCount": 17,
+      "bookCount": 18,
       "direction": "ltr",
       "englishName": "Greek",
       "language": "el",
       "manifest": "catalog/languages/el.json",
-      "manifestSha256": "27090a745632de0334ae936a21b6bd55b637428935c34e1f525ec01ea6a590eb",
-      "manifestVersion": "4f5a89a50f07c441",
+      "manifestSha256": "ad82b63bb2503b3b1c665fbe1bda3a07ecb3500b5e74ec2ac061024cacad2104",
+      "manifestVersion": "a8ea26a135c92e16",
       "nativeName": "Ελληνικά"
     },
     {
@@ -146,93 +146,93 @@
       "nativeName": "English"
     },
     {
-      "bookCount": 19,
+      "bookCount": 20,
       "direction": "ltr",
       "englishName": "Spanish",
       "language": "es",
       "manifest": "catalog/languages/es.json",
-      "manifestSha256": "65cdabe148ade1daf3917fc7bee5513eafefb3325960a794af91089346f547c7",
-      "manifestVersion": "6a563aa7472c6ca7",
+      "manifestSha256": "2025e2b302ef16dcbcef3f6af4ed6f2792a7da9b377814585389b82a7051cf85",
+      "manifestVersion": "2b3e7b2287fe6f5e",
       "nativeName": "Español"
     },
     {
-      "bookCount": 15,
+      "bookCount": 16,
       "direction": "ltr",
       "englishName": "Estonian",
       "language": "et",
       "manifest": "catalog/languages/et.json",
-      "manifestSha256": "161ee939deb59ab8f953165c768704e5bb4197eadc89a71220aee0b31ca56cee",
-      "manifestVersion": "c69fa6fd67a5e730",
+      "manifestSha256": "0ca01300ac1b4c16e3d03416603a9c137f8e357e02fe023c9a1e02af8b0092b8",
+      "manifestVersion": "64cc8f531b742b7a",
       "nativeName": "Eesti"
     },
     {
-      "bookCount": 3,
+      "bookCount": 1,
       "direction": "ltr",
       "englishName": "Basque",
       "language": "eu",
       "manifest": "catalog/languages/eu.json",
-      "manifestSha256": "685be2e0aba615a20f3a2dc2e7d52859ca260a865ec4d9d476c4f247e14c00f8",
-      "manifestVersion": "df640877ee20cda8",
+      "manifestSha256": "ae12055ef71f3de3d9e293091c6fb0e81b839bc333ab3cb04be3bbbe82e2e27e",
+      "manifestVersion": "052a180af5035ec5",
       "nativeName": "Euskara"
     },
     {
-      "bookCount": 6,
+      "bookCount": 4,
       "direction": "rtl",
       "englishName": "Persian",
       "language": "fa",
       "manifest": "catalog/languages/fa.json",
-      "manifestSha256": "23bb5bf8d0a931669e5f05b91462ac6e3e64a26120bd6f296d9148dc8ae8b53c",
-      "manifestVersion": "1a705c6e4a5ab527",
+      "manifestSha256": "7329f37805cd0a4142bb4b4a9b0c1fa97ecd44f29cb8b6aae184335b5b3c95d1",
+      "manifestVersion": "8f0fc2ff6726b9cd",
       "nativeName": "فارسی"
     },
     {
-      "bookCount": 18,
+      "bookCount": 20,
       "direction": "ltr",
       "englishName": "Finnish",
       "language": "fi",
       "manifest": "catalog/languages/fi.json",
-      "manifestSha256": "c05f26e4bae4010c094b7ccdc580bbae21f7ee3355c131f37b61eb0154b50064",
-      "manifestVersion": "902afe267ddc0102",
+      "manifestSha256": "1bf02328f8e6dea5fc506054d001aff52ae04bab645a7080fa5f008e3ac43ac1",
+      "manifestVersion": "266afd675bdd31d2",
       "nativeName": "Suomi"
     },
     {
-      "bookCount": 20,
+      "bookCount": 19,
       "direction": "ltr",
       "englishName": "French",
       "language": "fr",
       "manifest": "catalog/languages/fr.json",
-      "manifestSha256": "0b5816dbe26d4b25179c70948e97d2fc26e8d9acf7667c212b20d7923d680a3e",
-      "manifestVersion": "f2d677d8aa2e7fb0",
+      "manifestSha256": "de2a39403796247688cf0a7b09fd1bcf4d525dd8872c9ae96e430c6d01a1acb6",
+      "manifestVersion": "b8136b2c45cbee1f",
       "nativeName": "Français"
     },
     {
-      "bookCount": 20,
+      "bookCount": 14,
       "direction": "ltr",
       "englishName": "Gujarati",
       "language": "gu",
       "manifest": "catalog/languages/gu.json",
-      "manifestSha256": "44a2769d13224acca6d6dc8f8d22d7a67aff38bd2a88da013a0bce5391bc78dd",
-      "manifestVersion": "ee7bb2cb67ff548b",
+      "manifestSha256": "d53c4c224fc0b6a53b79281440b422c00621144c6a16a61f83255f80644adca6",
+      "manifestVersion": "c0a790eee6e85eef",
       "nativeName": "ગુજરાતી"
     },
     {
-      "bookCount": 8,
+      "bookCount": 3,
       "direction": "rtl",
       "englishName": "Hebrew",
       "language": "he",
       "manifest": "catalog/languages/he.json",
-      "manifestSha256": "47f728f5241fed603c5230a0cbdf5a605bf1127450bc60765ec26bb24a4dec07",
-      "manifestVersion": "da85510f78cbee13",
+      "manifestSha256": "d458f6f7d97031d441d4a5ab5c0082154ad6c252d08caa6c3a4d6814c87e2596",
+      "manifestVersion": "795979f5c02214cd",
       "nativeName": "עברית"
     },
     {
-      "bookCount": 2,
+      "bookCount": 1,
       "direction": "ltr",
       "englishName": "Hindi",
       "language": "hi",
       "manifest": "catalog/languages/hi.json",
-      "manifestSha256": "7efe9767f352da9f456bbc0e765f9f25fee0e3899c73214e82b1adbda368cef8",
-      "manifestVersion": "8ea6ff32c414b673",
+      "manifestSha256": "cb913d516a6148016f1cd7506696d146c5d10ec3c276c5f18dc449b36c6f29d6",
+      "manifestVersion": "9308130f1249d287",
       "nativeName": "हिन्दी"
     },
     {
@@ -296,13 +296,13 @@
       "nativeName": "Italiano"
     },
     {
-      "bookCount": 15,
+      "bookCount": 20,
       "direction": "ltr",
       "englishName": "Japanese",
       "language": "ja",
       "manifest": "catalog/languages/ja.json",
-      "manifestSha256": "744a83380ef47fcffc2274ea2eeee55f84110e44f34968d13ac1a51d59d55014",
-      "manifestVersion": "8c7e109c5b540a60",
+      "manifestSha256": "9da4a0c828ede48b6595590b2c7174b2da0ee896a2e6832418c567428a38508c",
+      "manifestVersion": "8fe5d5aae5d52299",
       "nativeName": "日本語"
     },
     {
@@ -326,23 +326,23 @@
       "nativeName": "한국어"
     },
     {
-      "bookCount": 18,
+      "bookCount": 16,
       "direction": "ltr",
       "englishName": "Latin",
       "language": "la",
       "manifest": "catalog/languages/la.json",
-      "manifestSha256": "127429abb5940b6a7b3681189a24c829bc0b888136fb9fe54b84485db81ca0cc",
-      "manifestVersion": "efe65ccaf76c9fb0",
+      "manifestSha256": "a611f8056d471e99b786ca40ccc38d987949712982b48da31039103d894dbe3a",
+      "manifestVersion": "2ee38dae333a71c1",
       "nativeName": "Latina"
     },
     {
-      "bookCount": 1,
+      "bookCount": 2,
       "direction": "ltr",
       "englishName": "Lithuanian",
       "language": "lt",
       "manifest": "catalog/languages/lt.json",
-      "manifestSha256": "e078a6e8599927ed47af4d81cb51211a30dd1ff109d8d4d2d5e5f4cb120826a9",
-      "manifestVersion": "ed73d576e92e29cc",
+      "manifestSha256": "ce7aeebd2a84246552fd8520ffc20316eeec836b06ce947cf3f4e600e676e8d6",
+      "manifestVersion": "80c4c5bc5bd63ebe",
       "nativeName": "Lietuvių"
     },
     {
@@ -356,43 +356,33 @@
       "nativeName": "Македонски"
     },
     {
-      "bookCount": 15,
+      "bookCount": 13,
       "direction": "ltr",
       "englishName": "Malayalam",
       "language": "ml",
       "manifest": "catalog/languages/ml.json",
-      "manifestSha256": "fbdee803613e771597b1f74d82eec78b6d3bb6c95e43a6b7e4f4b0f3c1470645",
-      "manifestVersion": "cacd244bcfad7a60",
+      "manifestSha256": "9868096d19e5db4578074fea15177bd22bbb8a7b774cf47354229060ff24569b",
+      "manifestVersion": "0adb0a90b4aed680",
       "nativeName": "മലയാളം"
     },
     {
-      "bookCount": 17,
+      "bookCount": 13,
       "direction": "ltr",
       "englishName": "Marathi",
       "language": "mr",
       "manifest": "catalog/languages/mr.json",
-      "manifestSha256": "cf7f9b0484f0a20577d6b94bad00bb17698b1aee59d5d427f18c2ca345baac33",
-      "manifestVersion": "63e29c2be17eb8a9",
+      "manifestSha256": "32260178260575f51688b83e2df0d80d9883d2d4ce5b47c66bc7caaf169dcfef",
+      "manifestVersion": "c0f99e5c89ad0bda",
       "nativeName": "मराठी"
     },
     {
-      "bookCount": 1,
-      "direction": "ltr",
-      "englishName": "Malay",
-      "language": "ms",
-      "manifest": "catalog/languages/ms.json",
-      "manifestSha256": "7174cf5c5c68ba4b2c4bcaf8bed13823456aa0c1066b552bc2b4febc57e3f977",
-      "manifestVersion": "f1388e873d935956",
-      "nativeName": "Melayu"
-    },
-    {
-      "bookCount": 20,
+      "bookCount": 17,
       "direction": "ltr",
       "englishName": "Dutch",
       "language": "nl",
       "manifest": "catalog/languages/nl.json",
-      "manifestSha256": "d14c5465c8068e5731305f8c918c80816f6dd8f73c11701fcff3a1c0ade76719",
-      "manifestVersion": "60cb48b658bb40ca",
+      "manifestSha256": "8970fe2710025671bde2725af3abe107e0f8cd95be2bcec97c28de2c20d29a0f",
+      "manifestVersion": "58da085a47eef67a",
       "nativeName": "Nederlands"
     },
     {
@@ -406,13 +396,13 @@
       "nativeName": "Norsk"
     },
     {
-      "bookCount": 20,
+      "bookCount": 19,
       "direction": "ltr",
       "englishName": "Polish",
       "language": "pl",
       "manifest": "catalog/languages/pl.json",
-      "manifestSha256": "18e4a42a5feb8621a7a95221426df5b1d551bb702f44da3cea543e187731ecbf",
-      "manifestVersion": "66893ccadbae24d2",
+      "manifestSha256": "38f14a595eade8fee34c64517004df3ebd05d1f00b7871a84d72a7198371d492",
+      "manifestVersion": "d1e9789fd0727e1b",
       "nativeName": "Polski"
     },
     {
@@ -436,13 +426,13 @@
       "nativeName": "Português (Brasil)"
     },
     {
-      "bookCount": 12,
+      "bookCount": 20,
       "direction": "ltr",
       "englishName": "Romanian",
       "language": "ro",
       "manifest": "catalog/languages/ro.json",
-      "manifestSha256": "cb99f02ea7a788e6f261b3f4a6b315c8cd4d7f6f769688fd388e7167c2d76aa5",
-      "manifestVersion": "2f03d41c5828ab9b",
+      "manifestSha256": "e61a5c986e6c2eb4a957679894fc039387caab0c4b785bc9f640b48e1b1b7ab7",
+      "manifestVersion": "3b8bbfa67583a535",
       "nativeName": "Română"
     },
     {
@@ -456,13 +446,13 @@
       "nativeName": "Русский"
     },
     {
-      "bookCount": 19,
+      "bookCount": 20,
       "direction": "ltr",
       "englishName": "Slovenian",
       "language": "sl",
       "manifest": "catalog/languages/sl.json",
-      "manifestSha256": "2a4b487eb3a61e656cdf30d6c0e7e7705a2e3f676f11b220546269c98570d86b",
-      "manifestVersion": "3ae6e2256fae9eb5",
+      "manifestSha256": "a2db2258e9bc961fcb65eb4f177f60155ee3ea33d4a89c3e4bd4812f5ef2af42",
+      "manifestVersion": "384359dea9629df2",
       "nativeName": "Slovenščina"
     },
     {
@@ -511,8 +501,8 @@
       "englishName": "Telugu",
       "language": "te",
       "manifest": "catalog/languages/te.json",
-      "manifestSha256": "311c0dc83aa38e42bc6d9075306334c9534e6b8240968cb985ff83d5b36b0e83",
-      "manifestVersion": "fb6bf56d065f3e31",
+      "manifestSha256": "3cc74fb4b7228cdbfe098741a327e4c68b2551912d176242aa9f8bdfdd1f0649",
+      "manifestVersion": "e53f984c32b38cea",
       "nativeName": "తెలుగు"
     },
     {
@@ -526,33 +516,33 @@
       "nativeName": "ไทย"
     },
     {
-      "bookCount": 9,
+      "bookCount": 19,
       "direction": "ltr",
       "englishName": "Ukrainian",
       "language": "uk",
       "manifest": "catalog/languages/uk.json",
-      "manifestSha256": "9ba4140290b32c79f55ec1851f172d3d3b3691be04347a2e5097005e90c8ef59",
-      "manifestVersion": "fa49713f9995068c",
+      "manifestSha256": "b18a2e24b39b929be6d1e56364083d4b639a38b613bdf1c93c05442ff602e358",
+      "manifestVersion": "ef4f46b67c91ac06",
       "nativeName": "Українська"
     },
     {
-      "bookCount": 8,
+      "bookCount": 7,
       "direction": "ltr",
       "englishName": "Vietnamese",
       "language": "vi",
       "manifest": "catalog/languages/vi.json",
-      "manifestSha256": "96e8450b5508e76af0c67f3652f0bbf6765aca7eb7b446871401c52ea89c1866",
-      "manifestVersion": "3cda5c86a927105e",
+      "manifestSha256": "65e72c0e07d2675ea6799bcb690e3f2d7a6a0ebdf226cced54242359682f0881",
+      "manifestVersion": "07b139098f3a0901",
       "nativeName": "Tiếng Việt"
     },
     {
-      "bookCount": 19,
+      "bookCount": 20,
       "direction": "ltr",
       "englishName": "Chinese Traditional",
       "language": "zh-Hant",
       "manifest": "catalog/languages/zh-Hant.json",
-      "manifestSha256": "dbe9c4fda224a9843e34dada7e54907af266d3c4c9e66865bf09be547b2452fc",
-      "manifestVersion": "86df2b5a8d76800e",
+      "manifestSha256": "c498d35a62615c50a924e69c336a40a740b16ed64ee2b6bfbaa54fed0227e396",
+      "manifestVersion": "746fbc4169477b0d",
       "nativeName": "繁體中文"
     }
   ],

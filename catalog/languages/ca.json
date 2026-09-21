@@ -691,49 +691,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 2,
-        "contentSha256": "441c9685f0d5e4dda1cc59fb84acb44edc04198e175ac0c6130be4a6f53923c3",
-        "encoding": "gzip",
-        "path": "books/ca/saltrey-viatge-del-cavaller-owein-al-purgatori-de.ca.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "9d329ccf87b29f9a9f71dd199b66013376fbe55a409698d54b36db8f873c6840",
-        "sizeBytes": 19092,
-        "uncompressedSizeBytes": 50761,
-        "wordCount": 9122
-      },
-      "author": "Enric de Saltrey",
-      "authorDeathYear": 1200,
-      "editionId": "saltrey-viatge-del-cavaller-owein-al-purgatori-de.ca.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "translation",
-      "language": "ca",
-      "originalLanguage": "fro",
-      "originalPublicationYear": 1200,
-      "originalTitle": "Viatge del Cavaller Owein al Purgatori de Sant Patrici",
-      "rights": {
-        "statement": "Public domain worldwide. Enric de Saltrey died in 1200; the translator Ramon Ros died in 1400 and this translation was first published in 1914. Source: ca.wikisource.org transcription.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Viatge del Cavaller Owein al Purgatori de Sant Patrici",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T02:06:12.204399Z",
-        "revision": "93731",
-        "url": "https://ca.wikisource.org/wiki/Viatge_del_Cavaller_Owein_al_Purgatori_de_Sant_Patrici"
-      },
-      "title": "Viatge del Cavaller Owein al Purgatori de Sant Patrici",
-      "translationPublicationYear": 1914,
-      "translator": "Ramon Ros",
-      "translatorDeathYear": 1400,
-      "workId": "saltrey-viatge-del-cavaller-owein-al-purgatori-de"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 12,
         "contentSha256": "762ab649b4519871d2d71fc7c1cc8e4f37f43dca7313b127f96f78fbbb81dd78",
         "encoding": "gzip",
@@ -865,7 +822,7 @@
   "direction": "ltr",
   "englishName": "Catalan",
   "language": "ca",
-  "manifestVersion": "ba7a548d62beb4e9",
+  "manifestVersion": "3f4c17eecf4b950c",
   "nativeName": "Català",
   "schemaVersion": 1
 }

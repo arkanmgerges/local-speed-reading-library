@@ -1,0 +1,97 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:04:12.694249Z",
+    "chapterCount": 6,
+    "contentSha256": "d2b90dca9bcf819b7563caa9c1b12caf55c22af1374ed0b02fe2b5162d0810ac",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cs/heveroch-o-podivinech-a-lidech-napadnuch.cs.wikisource/v1/book.json.gz",
+    "sha256": "56c18d16989dc7c4b48527eefe01794bfe06f1385492894f9ad62836c562cc4e",
+    "sizeBytes": 101517,
+    "uncompressedSizeBytes": 253095,
+    "wordCount": 34613
+  },
+  "edition": {
+    "editionId": "heveroch-o-podivinech-a-lidech-napadnuch.cs.wikisource",
+    "kind": "original",
+    "language": "cs",
+    "title": "O podivínech a lidech nápadných"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1927: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1901: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q19529523",
+      "https://www.wikidata.org/wiki/Q3563108",
+      "https://cs.wikisource.org/wiki/O_podiv%C3%ADnech_a_lidech_n%C3%A1padn%C3%BDch"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Antonín Heveroch died in 1927 and the work was first published in 1901. Source: cs.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "O podivínech a lidech nápadných",
+    "pages": [
+      {
+        "revision": 286010,
+        "title": "O podivínech a lidech nápadných"
+      },
+      {
+        "revision": 286519,
+        "title": "O podivínech a lidech nápadných/I"
+      },
+      {
+        "revision": 285991,
+        "title": "O podivínech a lidech nápadných/II"
+      },
+      {
+        "revision": 286006,
+        "title": "O podivínech a lidech nápadných/III"
+      },
+      {
+        "revision": 286007,
+        "title": "O podivínech a lidech nápadných/IV"
+      },
+      {
+        "revision": 286008,
+        "title": "O podivínech a lidech nápadných/V"
+      },
+      {
+        "revision": 286009,
+        "title": "O podivínech a lidech nápadných/VI"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:04:12.141175Z",
+    "revision": "286010",
+    "site": "cs.wikisource.org",
+    "url": "https://cs.wikisource.org/wiki/O_podiv%C3%ADnech_a_lidech_n%C3%A1padn%C3%BDch"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1869,
+      "deathYear": 1927,
+      "name": "Antonín Heveroch",
+      "wikidata": "Q3563108"
+    },
+    "originalLanguage": "cs",
+    "originalPublicationYear": 1901,
+    "originalTitle": "O podivínech a lidech nápadných",
+    "workId": "heveroch-o-podivinech-a-lidech-napadnuch"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:56:11.762139Z",
+    "chapterCount": 38,
+    "contentSha256": "4702b64a3f9bbf8c72fc302d334989137b5bb421acc25b9233766c6f4a241291",
+    "normalizerVersion": "0.2.0",
+    "path": "books/uk/hlibov-bayky-leonyda-hlibova.uk.wikisource/v1/book.json.gz",
+    "sha256": "253c835f91beb00907427bfbdec131f8a145aa9b430a00a3aad2b11fcaf0bdc0",
+    "sizeBytes": 28923,
+    "uncompressedSizeBytes": 94939,
+    "wordCount": 7938
+  },
+  "edition": {
+    "editionId": "hlibov-bayky-leonyda-hlibova.uk.wikisource",
+    "kind": "original",
+    "language": "uk",
+    "title": "Байки Леонида Глібова"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1893: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1918: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q106580617",
+      "https://www.wikidata.org/wiki/Q788215",
+      "https://uk.wikisource.org/wiki/%D0%91%D0%B0%D0%B9%D0%BA%D0%B8_(%D0%93%D0%BB%D1%96%D0%B1%D0%BE%D0%B2%2C_1918)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Глібов Леонід Іванович died in 1893 and the work was first published in 1918. Source: uk.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Байки (Глібов, 1918)",
+    "pages": [
+      {
+        "revision": 436994,
+        "title": "Байки (Глібов, 1918)"
+      },
+      {
+        "revision": 349370,
+        "title": "Байки (Глібов, 1918)/Вовк і Кіт"
+      },
+      {
+        "revision": 349371,
+        "title": "Байки (Глібов, 1918)/Вовк і Вівчарі"
+      },
+      {
+        "revision": 349375,
+        "title": "Байки (Глібов, 1918)/Лебедь, Щука і Рак"
+      },
+      {
+        "revision": 349351,
+        "title": "Байки (Глібов, 1918)/Лисиця й Осел"
+      },
+      {
+        "revision": 349352,
+        "title": "Байки (Глібов, 1918)/Чиж та Голуб"
+      },
+      {
+        "revision": 349353,
+        "title": "Байки (Глібов, 1918)/Жаба й Віл"
+      },
+      {
+        "revision": 349354,
+        "title": "Байки (Глібов, 1918)/Миша й Пацюк"
+      },
+      {
+        "revision": 349355,
+        "title": "Байки (Глібов, 1918)/Вовк та Мишеня"
+      },
+      {
+        "revision": 349356,
+        "title": "Байки (Глібов, 1918)/Зозуля й Півень"
+      },
+      {
+        "revision": 349357,
+        "title": "Байки (Глібов, 1918)/Лев та Миша"
+      },
+      {
+        "revision": 349358,
+        "title": "Байки (Глібов, 1918)/Лев та Вовк"
+      },
+      {
+        "revision": 349359,
+        "title": "Байки (Глібов, 1918)/Синиця"
+      },
+      {
+        "revision": 349360,
+        "title": "Байки (Глібов, 1918)/Вовк та Ягня"
+      },
+      {
+        "revision": 349395,
+        "title": "Байки (Глібов, 1918)/Шпак"
+      },
+      {
+        "revision": 349270,
+        "title": "Байки (Глібов, 1918)/Щука"
+      },
+      {
+        "revision": 349394,
+        "title": "Байки (Глібов, 1918)/Свиня"
+      },
+      {
+        "revision": 349686,
+        "title": "Байки (Глібов, 1918)/Билина"
+      },
+      {
+        "revision": 349926,
+        "title": "Байки (Глібов, 1918)/Осел і Соловей"
+      },
+      {
+        "revision": 349916,
+        "title": "Байки (Глібов, 1918)/Щука й Кіт"
+      },
+      {
+        "revision": 349933,
+        "title": "Байки (Глібов, 1918)/Білочка"
+      },
+      {
+        "revision": 349918,
+        "title": "Байки (Глібов, 1918)/Лев на облаві"
+      },
+      {
+        "revision": 349919,
+        "title": "Байки (Глібов, 1918)/Цуцик"
+      },
+      {
+        "revision": 349920,
+        "title": "Байки (Глібов, 1918)/Жаби"
+      },
+      {
+        "revision": 349921,
+        "title": "Байки (Глібов, 1918)/Лисиця-жалібниця"
+      },
+      {
+        "revision": 349942,
+        "title": "Байки (Глібов, 1918)/Гуси"
+      },
+      {
+        "revision": 349945,
+        "title": "Байки (Глібов, 1918)/Музики"
+      },
+      {
+        "revision": 349953,
+        "title": "Байки (Глібов, 1918)/Півень і Перлинка"
+      },
+      {
+        "revision": 349698,
+        "title": "Байки (Глібов, 1918)/Мишача рада"
+      },
+      {
+        "revision": 349688,
+        "title": "Байки (Глібов, 1918)/Вівці та Собаки"
+      },
+      {
+        "revision": 349689,
+        "title": "Байки (Глібов, 1918)/Вовк і Лисиця"
+      },
+      {
+        "revision": 349690,
+        "title": "Байки (Глібов, 1918)/Бджола і Мухи"
+      },
+      {
+        "revision": 349691,
+        "title": "Байки (Глібов, 1918)/Собака й Кінь"
+      },
+      {
+        "revision": 349692,
+        "title": "Байки (Глібов, 1918)/Коник-стрибунець"
+      },
+      {
+        "revision": 349693,
+        "title": "Байки (Глібов, 1918)/Гава й Лисиця"
+      },
+      {
+        "revision": 349694,
+        "title": "Байки (Глібов, 1918)/Снігур та Синичка"
+      },
+      {
+        "revision": 349695,
+        "title": "Байки (Глібов, 1918)/Кундель"
+      },
+      {
+        "revision": 349696,
+        "title": "Байки (Глібов, 1918)/Ластівка й Шуліка"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:56:11.638537Z",
+    "revision": "436994",
+    "site": "uk.wikisource.org",
+    "url": "https://uk.wikisource.org/wiki/%D0%91%D0%B0%D0%B9%D0%BA%D0%B8_(%D0%93%D0%BB%D1%96%D0%B1%D0%BE%D0%B2%2C_1918)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1827,
+      "deathYear": 1893,
+      "name": "Глібов Леонід Іванович",
+      "wikidata": "Q788215"
+    },
+    "originalLanguage": "uk",
+    "originalPublicationYear": 1918,
+    "originalTitle": "Байки Леонида Глібова",
+    "workId": "hlibov-bayky-leonyda-hlibova"
+  }
+}

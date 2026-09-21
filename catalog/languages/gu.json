@@ -3,49 +3,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 94,
-        "contentSha256": "495c288ab532dcdf876f81dd1101b46f9f2876de4b50333fd62dba61bd6cd459",
-        "encoding": "gzip",
-        "path": "books/gu/bhatt-okhaharan.gu.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "760b72ff62927996b4d023d9507644432bcd23670902313c8c93076f15e6858a",
-        "sizeBytes": 62000,
-        "uncompressedSizeBytes": 311399,
-        "wordCount": 19719
-      },
-      "author": "પ્રેમાનંદ",
-      "authorDeathYear": 1734,
-      "editionId": "bhatt-okhaharan.gu.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "gu",
-      "originalLanguage": "gu",
-      "originalPublicationYear": 1667,
-      "originalTitle": "ઓખાહરણ",
-      "rights": {
-        "statement": "Public domain worldwide. પ્રેમાનંદ died in 1734 and the work was first published in 1667. Source: gu.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "ઓખાહરણ",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:18:07.831626Z",
-        "revision": "207078",
-        "url": "https://gu.wikisource.org/wiki/%E0%AA%93%E0%AA%96%E0%AA%BE%E0%AA%B9%E0%AA%B0%E0%AA%A3"
-      },
-      "title": "ઓખાહરણ",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "bhatt-okhaharan"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 8,
         "contentSha256": "ab909efe6ba79e39fb1a2a1688a612ab15ddead7f118202c466df1a7e559d599",
         "encoding": "gzip",
@@ -519,178 +476,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 13,
-        "contentSha256": "2b00d5e44bed824598408e655afa7e12c43de9eeb29cc92413641199f956178c",
-        "encoding": "gzip",
-        "path": "books/gu/mashruwala-buddha-ane-mahaveer.gu.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "cda9a4e0fa0b43cb53c704e9012e2cddb84a9300ccf86cadb5ad6cb2be4a60d2",
-        "sizeBytes": 47016,
-        "uncompressedSizeBytes": 238945,
-        "wordCount": 15471
-      },
-      "author": "કિશોરલાલ મશરૂવાળા",
-      "authorDeathYear": 1952,
-      "editionId": "mashruwala-buddha-ane-mahaveer.gu.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "gu",
-      "originalLanguage": "gu",
-      "originalPublicationYear": 1926,
-      "originalTitle": "બુદ્ધ અને મહાવીર",
-      "rights": {
-        "statement": "Public domain worldwide. કિશોરલાલ મશરૂવાળા died in 1952 and the work was first published in 1926. Source: gu.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "બુદ્ધ અને મહાવીર",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:22:18.911912Z",
-        "revision": "199593",
-        "url": "https://gu.wikisource.org/wiki/%E0%AA%AC%E0%AB%81%E0%AA%A6%E0%AB%8D%E0%AA%A7_%E0%AA%85%E0%AA%A8%E0%AB%87_%E0%AA%AE%E0%AA%B9%E0%AA%BE%E0%AA%B5%E0%AB%80%E0%AA%B0"
-      },
-      "title": "બુદ્ધ અને મહાવીર",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "mashruwala-buddha-ane-mahaveer"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 14,
-        "contentSha256": "e78d4a3124a509fd2884d21ebccff00be133136192eeb23f2fb5793aef57c032",
-        "encoding": "gzip",
-        "path": "books/gu/mashruwala-ishu-khrista.gu.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "646f21b36ed8ff485bdc8cb627e97ad5650583feb8c66ffc215d5f4b649af450",
-        "sizeBytes": 70505,
-        "uncompressedSizeBytes": 339275,
-        "wordCount": 22605
-      },
-      "author": "કિશોરલાલ મશરૂવાળા",
-      "authorDeathYear": 1952,
-      "editionId": "mashruwala-ishu-khrista.gu.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "gu",
-      "originalLanguage": "gu",
-      "originalPublicationYear": 1925,
-      "originalTitle": "ઈશુ ખ્રિસ્ત",
-      "rights": {
-        "statement": "Public domain worldwide. કિશોરલાલ મશરૂવાળા died in 1952 and the work was first published in 1925. Source: gu.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "ઈશુ ખ્રિસ્ત",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:22:38.313322Z",
-        "revision": "197809",
-        "url": "https://gu.wikisource.org/wiki/%E0%AA%88%E0%AA%B6%E0%AB%81_%E0%AA%96%E0%AB%8D%E0%AA%B0%E0%AA%BF%E0%AA%B8%E0%AB%8D%E0%AA%A4"
-      },
-      "title": "ઈશુ ખ્રિસ્ત",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "mashruwala-ishu-khrista"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 18,
-        "contentSha256": "da69f13f6fae6aaac6bf8d6739ff0af36ed420479c04b5a42f737c6da3ab5006",
-        "encoding": "gzip",
-        "path": "books/gu/mashruwala-q18710312.gu.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "5358e82d22be18442427cb66d70cfdc26468bd57a071fca4130b08d7b3d49f28",
-        "sizeBytes": 37650,
-        "uncompressedSizeBytes": 176796,
-        "wordCount": 11013
-      },
-      "author": "કિશોરલાલ મશરૂવાળા",
-      "authorDeathYear": 1952,
-      "editionId": "mashruwala-q18710312.gu.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "gu",
-      "originalLanguage": "gu",
-      "originalPublicationYear": 1923,
-      "originalTitle": "ગીતાધ્વનિ",
-      "rights": {
-        "statement": "Public domain worldwide. કિશોરલાલ મશરૂવાળા died in 1952 and the work was first published in 1923. Source: gu.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "ગીતાધ્વનિ",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:23:03.873982Z",
-        "revision": "207140",
-        "url": "https://gu.wikisource.org/wiki/%E0%AA%97%E0%AB%80%E0%AA%A4%E0%AA%BE%E0%AA%A7%E0%AB%8D%E0%AA%B5%E0%AA%A8%E0%AA%BF"
-      },
-      "title": "ગીતાધ્વનિ",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "mashruwala-q18710312"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 18,
-        "contentSha256": "b879ff00a9d07abf60a0f1de97ed86bec37fdc719b015ba316d6474cc7a400f4",
-        "encoding": "gzip",
-        "path": "books/gu/mashruwala-ram-ane-krishna.gu.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "783f92e52e984f70ed9d11429b804949710071b6a0d25b86750e4bdac580e575",
-        "sizeBytes": 77713,
-        "uncompressedSizeBytes": 382413,
-        "wordCount": 24111
-      },
-      "author": "કિશોરલાલ મશરૂવાળા",
-      "authorDeathYear": 1952,
-      "editionId": "mashruwala-ram-ane-krishna.gu.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "gu",
-      "originalLanguage": "gu",
-      "originalPublicationYear": 1923,
-      "originalTitle": "રામ અને કૃષ્ણ",
-      "rights": {
-        "statement": "Public domain worldwide. કિશોરલાલ મશરૂવાળા died in 1952 and the work was first published in 1923. Source: gu.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "રામ અને કૃષ્ણ",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:23:28.132779Z",
-        "revision": "217946",
-        "url": "https://gu.wikisource.org/wiki/%E0%AA%B0%E0%AA%BE%E0%AA%AE_%E0%AA%85%E0%AA%A8%E0%AB%87_%E0%AA%95%E0%AB%83%E0%AA%B7%E0%AB%8D%E0%AA%A3"
-      },
-      "title": "રામ અને કૃષ્ણ",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "mashruwala-ram-ane-krishna"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 25,
         "contentSha256": "3e46ecd677b3ecd0cdb860731d6c1cf2e28cad31ac38a60549342d2a3b23d383",
         "encoding": "gzip",
@@ -777,49 +562,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 19,
-        "contentSha256": "b33738f124292bcaa62649f194da85debcc7bba587bbf4adedd26298031b46d0",
-        "encoding": "gzip",
-        "path": "books/gu/meghani-zandadhari.gu.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "69f0ba3156689d328f2ad51d02a6376773733a2b58f4bb73ea4fb791db0c503e",
-        "sizeBytes": 75086,
-        "uncompressedSizeBytes": 357334,
-        "wordCount": 21681
-      },
-      "author": "ઝવેરચંદ મેઘાણી",
-      "authorDeathYear": 1947,
-      "editionId": "meghani-zandadhari.gu.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "gu",
-      "originalLanguage": "gu",
-      "originalPublicationYear": 1926,
-      "originalTitle": "ઝંડાધારી - મહર્ષિ દયાનંદ",
-      "rights": {
-        "statement": "Public domain worldwide. ઝવેરચંદ મેઘાણી died in 1947 and the work was first published in 1926. Source: gu.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "ઝંડાધારી - મહર્ષિ દયાનંદ",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:25:46.667877Z",
-        "revision": "218495",
-        "url": "https://gu.wikisource.org/wiki/%E0%AA%9D%E0%AA%82%E0%AA%A1%E0%AA%BE%E0%AA%A7%E0%AA%BE%E0%AA%B0%E0%AB%80_-_%E0%AA%AE%E0%AA%B9%E0%AA%B0%E0%AB%8D%E0%AA%B7%E0%AA%BF_%E0%AA%A6%E0%AA%AF%E0%AA%BE%E0%AA%A8%E0%AA%82%E0%AA%A6"
-      },
-      "title": "ઝંડાધારી - મહર્ષિ દયાનંદ",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "meghani-zandadhari"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 17,
         "contentSha256": "041736fd3dc1a81fb24ba80768860c1f99f202edbb06b30b230cbddcd845af72",
         "encoding": "gzip",
@@ -864,7 +606,7 @@
   "direction": "ltr",
   "englishName": "Gujarati",
   "language": "gu",
-  "manifestVersion": "ee7bb2cb67ff548b",
+  "manifestVersion": "c0a790eee6e85eef",
   "nativeName": "ગુજરાતી",
   "schemaVersion": 1
 }

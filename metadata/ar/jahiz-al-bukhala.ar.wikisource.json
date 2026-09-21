@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T11:43:46.432616Z",
+    "chapterCount": 10,
+    "contentSha256": "02167a3e27ca0b77f0ac970aa89b703fcff5f1ec8f6a51a87fa1c2e6b5507310",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/jahiz-al-bukhala.ar.wikisource/v1/book.json.gz",
+    "sha256": "97f7817f44a7ba4c1598bf299da826112cfef37ac1c9a332ed4a8e7cdbf14e11",
+    "sizeBytes": 140464,
+    "uncompressedSizeBytes": 485621,
+    "wordCount": 48799
+  },
+  "edition": {
+    "editionId": "jahiz-al-bukhala.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "البخلاء"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 869: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 869: more than 95 years ago (US term expired) - composed in the 9th century, no later than the author’s death in 869"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12184299",
+      "https://www.wikidata.org/wiki/Q293497",
+      "https://en.wikipedia.org/wiki/Al-Jahiz",
+      "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%A8%D8%AE%D9%84%D8%A7%D8%A1"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "statement": "Public domain worldwide. الجاحظ died in 869 and the work was first published in 869. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "البخلاء",
+    "pages": [
+      {
+        "revision": 506357,
+        "title": "البخلاء"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T11:43:45.640474Z",
+    "revision": "506357",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%A8%D8%AE%D9%84%D8%A7%D8%A1"
+  },
+  "work": {
+    "author": {
+      "birthYear": 776,
+      "deathYear": 869,
+      "name": "الجاحظ",
+      "wikidata": "Q293497"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 869,
+    "originalTitle": "البخلاء",
+    "workId": "jahiz-al-bukhala"
+  }
+}

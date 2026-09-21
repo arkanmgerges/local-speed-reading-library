@@ -1,0 +1,157 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:29:14.589816Z",
+    "chapterCount": 21,
+    "contentSha256": "e2029505b7945ed418bdf81ef3f9bb5a8cf31dd86c96e053a025b4454ebc4a9b",
+    "normalizerVersion": "0.2.0",
+    "path": "books/he/chorny-q135009388.he.wikisource/v1/book.json.gz",
+    "sha256": "a50e6c708aeb0ce4174b5f01abde622405613c9932b3603aa9ef5a377faffdca",
+    "sizeBytes": 80890,
+    "uncompressedSizeBytes": 331163,
+    "wordCount": 32155
+  },
+  "edition": {
+    "editionId": "chorny-q135009388.he.wikisource",
+    "kind": "original",
+    "language": "he",
+    "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1880: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1884: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q135009388",
+      "https://www.wikidata.org/wiki/Q13426143",
+      "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8_%D7%94%D7%9E%D7%A1%D7%A2%D7%95%D7%AA_%D7%91%D7%90%D7%A8%D7%A5_%D7%A7%D7%95%D7%A7%D7%96_%D7%95%D7%91%D7%9E%D7%93%D7%99%D7%A0%D7%95%D7%AA_%D7%90%D7%A9%D7%A8_%D7%9E%D7%A2%D7%91%D7%A8_%D7%9C%D7%A7%D7%95%D7%A7%D7%96_%D7%95%D7%A7%D7%A6%D7%AA_%D7%9E%D7%93%D7%99%D7%A0%D7%95%D7%AA_%D7%90%D7%97%D7%A8%D7%95%D7%AA_%D7%91%D7%A0%D7%92%D7%91_%D7%A8%D7%95%D7%A1%D7%99%D7%90"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. יוסף יהודה טשארני died in 1880 and the work was first published in 1884. Source: he.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא",
+    "pages": [
+      {
+        "revision": 3020628,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא"
+      },
+      {
+        "revision": 729764,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/שער"
+      },
+      {
+        "revision": 729765,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/דבר אל הקורא"
+      },
+      {
+        "revision": 729766,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/תכן"
+      },
+      {
+        "revision": 761367,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/סטאווראפאל"
+      },
+      {
+        "revision": 761365,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/טעמיר כאן שורא (ב)"
+      },
+      {
+        "revision": 761364,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/טעמיר כאן שורא (ב)/בית התפלה"
+      },
+      {
+        "revision": 761361,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/טעמיר כאן שורא (ג)"
+      },
+      {
+        "revision": 761360,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/טשיר יורט וסולטאן יורט"
+      },
+      {
+        "revision": 761356,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/צפון דאגעסטאן"
+      },
+      {
+        "revision": 761357,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/צפון דאגעסטאן/קאראבודאקענט"
+      },
+      {
+        "revision": 761358,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/צפון דאגעסטאן/הכפר בוינאק והעיר דעשלאגאר"
+      },
+      {
+        "revision": 761359,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/צפון דאגעסטאן/דורגעלי והכפר דזשענגוטאיי"
+      },
+      {
+        "revision": 761370,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/טארקו"
+      },
+      {
+        "revision": 761352,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/טארקו/הנסיעה מן טאמיר-כאן-שורא לטארקו"
+      },
+      {
+        "revision": 761351,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/טארקו/העיר פעטראווסק"
+      },
+      {
+        "revision": 761350,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/טארקו/העיר טארקו, מגרש היהודים"
+      },
+      {
+        "revision": 923236,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/דרבנד (ז)"
+      },
+      {
+        "revision": 923235,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/דרבנד (ח)"
+      },
+      {
+        "revision": 923239,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/קדמוניות דרבנד"
+      },
+      {
+        "revision": 923751,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/אבא סבא"
+      },
+      {
+        "revision": 3020627,
+        "title": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא/המסע בארצות גרוזיא אימערעטיא מינגרעליא גוריא וארץ אררט (ארמעניא)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:29:14.087714Z",
+    "revision": "3020628",
+    "site": "he.wikisource.org",
+    "url": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8_%D7%94%D7%9E%D7%A1%D7%A2%D7%95%D7%AA_%D7%91%D7%90%D7%A8%D7%A5_%D7%A7%D7%95%D7%A7%D7%96_%D7%95%D7%91%D7%9E%D7%93%D7%99%D7%A0%D7%95%D7%AA_%D7%90%D7%A9%D7%A8_%D7%9E%D7%A2%D7%91%D7%A8_%D7%9C%D7%A7%D7%95%D7%A7%D7%96_%D7%95%D7%A7%D7%A6%D7%AA_%D7%9E%D7%93%D7%99%D7%A0%D7%95%D7%AA_%D7%90%D7%97%D7%A8%D7%95%D7%AA_%D7%91%D7%A0%D7%92%D7%91_%D7%A8%D7%95%D7%A1%D7%99%D7%90"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1837,
+      "deathYear": 1880,
+      "name": "יוסף יהודה טשארני",
+      "wikidata": "Q13426143"
+    },
+    "originalLanguage": "he",
+    "originalPublicationYear": 1884,
+    "originalTitle": "ספר המסעות בארץ קוקז ובמדינות אשר מעבר לקוקז וקצת מדינות אחרות בנגב רוסיא",
+    "workId": "chorny-q135009388"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:38:33.539970Z",
+    "chapterCount": 3,
+    "contentSha256": "5b6e9941885a7581141b05105f337fdd77ce4c0a46d8e66795c93c86440e698b",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ja/meiji-q117378157.ja.wikisource/v1/book.json.gz",
+    "sha256": "c7ee365c02f439c76ab8020012bd15473246f15b4f6d64b514300f57464210cf",
+    "sizeBytes": 8936,
+    "uncompressedSizeBytes": 39472,
+    "wordCount": 454
+  },
+  "edition": {
+    "editionId": "meiji-q117378157.ja.wikisource",
+    "kind": "original",
+    "language": "ja",
+    "title": "小学校令"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1912: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1890: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q117378157",
+      "https://www.wikidata.org/wiki/Q174231",
+      "https://ja.wikisource.org/wiki/%E5%B0%8F%E5%AD%A6%E6%A0%A1%E4%BB%A4_(%E6%98%8E%E6%B2%BB23%E5%B9%B4%E5%8B%85%E4%BB%A4%E7%AC%AC215%E5%8F%B7)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 明治天皇 died in 1912 and the work was first published in 1890. Source: ja.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "小学校令 (明治23年勅令第215号)",
+    "pages": [
+      {
+        "revision": 206670,
+        "title": "小学校令 (明治23年勅令第215号)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:38:33.497347Z",
+    "revision": "206670",
+    "site": "ja.wikisource.org",
+    "url": "https://ja.wikisource.org/wiki/%E5%B0%8F%E5%AD%A6%E6%A0%A1%E4%BB%A4_(%E6%98%8E%E6%B2%BB23%E5%B9%B4%E5%8B%85%E4%BB%A4%E7%AC%AC215%E5%8F%B7)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1852,
+      "deathYear": 1912,
+      "name": "明治天皇",
+      "wikidata": "Q174231"
+    },
+    "originalLanguage": "ja",
+    "originalPublicationYear": 1890,
+    "originalTitle": "小学校令",
+    "workId": "meiji-q117378157"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:49:13.523624Z",
+    "chapterCount": 3,
+    "contentSha256": "4b9c5ac3d9cff614cb8e1ffbde3c6d7afa7f59b0a308d536e63882c2d1cb8b08",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/conta-opere-filosofice.ro.wikisource/v1/book.json.gz",
+    "sha256": "a51b4d03749f34c5d086d63ec6651b664354c900b90d9bf5bf14f50ff6c10b13",
+    "sizeBytes": 46392,
+    "uncompressedSizeBytes": 147974,
+    "wordCount": 21294
+  },
+  "edition": {
+    "editionId": "conta-opere-filosofice.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "title": "Opere filosofice"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1882: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1924: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q138840245",
+      "https://www.wikidata.org/wiki/Q2363078",
+      "https://ro.wikisource.org/wiki/Opere_filosofice_(Conta)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Vasile Conta died in 1882 and the work was first published in 1924. Source: ro.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Opere filosofice (Conta)",
+    "pages": [
+      {
+        "revision": 150564,
+        "title": "Opere filosofice (Conta)"
+      },
+      {
+        "revision": 150563,
+        "title": "Opere filosofice (Conta)/Introducere"
+      },
+      {
+        "revision": 150608,
+        "title": "Opere filosofice (Conta)/Teoria fatalismului"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:49:13.130729Z",
+    "revision": "150564",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/Opere_filosofice_(Conta)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1845,
+      "deathYear": 1882,
+      "name": "Vasile Conta",
+      "wikidata": "Q2363078"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1924,
+    "originalTitle": "Opere filosofice",
+    "workId": "conta-opere-filosofice"
+  }
+}

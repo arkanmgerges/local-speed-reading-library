@@ -1,0 +1,173 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:52:38.803468Z",
+    "chapterCount": 25,
+    "contentSha256": "d62781944662380bc771e3a6da71eb63d4ae5666b624d55f45f6469c455e8df2",
+    "normalizerVersion": "0.2.0",
+    "path": "books/te/rao-q131681308.te.wikisource/v1/book.json.gz",
+    "sha256": "a2a55d1884fc20b324fec6af788c922b54e8380918f545c9604e3a1c1f9ba01a",
+    "sizeBytes": 69781,
+    "uncompressedSizeBytes": 419100,
+    "wordCount": 18741
+  },
+  "edition": {
+    "editionId": "rao-q131681308.te.wikisource",
+    "kind": "original",
+    "language": "te",
+    "title": "జర్మనీదేశ విద్యావిధానము"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1952: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1930: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q131681308",
+      "https://www.wikidata.org/wiki/Q17318591",
+      "https://te.wikisource.org/wiki/%E0%B0%9C%E0%B0%B0%E0%B1%8D%E0%B0%AE%E0%B0%A8%E0%B1%80%E0%B0%A6%E0%B1%87%E0%B0%B6_%E0%B0%B5%E0%B0%BF%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%B5%E0%B0%BF%E0%B0%A7%E0%B0%BE%E0%B0%A8%E0%B0%AE%E0%B1%81"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. చిలుకూరి నారాయణరావు died in 1952 and the work was first published in 1930. Source: te.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "జర్మనీదేశ విద్యావిధానము",
+    "pages": [
+      {
+        "revision": 580650,
+        "title": "జర్మనీదేశ విద్యావిధానము"
+      },
+      {
+        "revision": 354920,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 1"
+      },
+      {
+        "revision": 354924,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 2"
+      },
+      {
+        "revision": 354929,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 3"
+      },
+      {
+        "revision": 354933,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 4"
+      },
+      {
+        "revision": 359216,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 5"
+      },
+      {
+        "revision": 359218,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 6"
+      },
+      {
+        "revision": 415688,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 7"
+      },
+      {
+        "revision": 415691,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 8"
+      },
+      {
+        "revision": 415694,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 9"
+      },
+      {
+        "revision": 415695,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 10"
+      },
+      {
+        "revision": 438867,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 11"
+      },
+      {
+        "revision": 438869,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 12"
+      },
+      {
+        "revision": 438871,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 13"
+      },
+      {
+        "revision": 438874,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 14"
+      },
+      {
+        "revision": 438877,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 15"
+      },
+      {
+        "revision": 438879,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 16"
+      },
+      {
+        "revision": 438881,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 17"
+      },
+      {
+        "revision": 438883,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 18"
+      },
+      {
+        "revision": 438886,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 19"
+      },
+      {
+        "revision": 438888,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 20"
+      },
+      {
+        "revision": 438891,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 21"
+      },
+      {
+        "revision": 438893,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 22"
+      },
+      {
+        "revision": 438895,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 23"
+      },
+      {
+        "revision": 438897,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 24"
+      },
+      {
+        "revision": 438901,
+        "title": "జర్మనీదేశ విద్యావిధానము/అధ్యాయము 25"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:52:38.403238Z",
+    "revision": "580650",
+    "site": "te.wikisource.org",
+    "url": "https://te.wikisource.org/wiki/%E0%B0%9C%E0%B0%B0%E0%B1%8D%E0%B0%AE%E0%B0%A8%E0%B1%80%E0%B0%A6%E0%B1%87%E0%B0%B6_%E0%B0%B5%E0%B0%BF%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%B5%E0%B0%BF%E0%B0%A7%E0%B0%BE%E0%B0%A8%E0%B0%AE%E0%B1%81"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1889,
+      "deathYear": 1952,
+      "name": "చిలుకూరి నారాయణరావు",
+      "wikidata": "Q17318591"
+    },
+    "originalLanguage": "te",
+    "originalPublicationYear": 1930,
+    "originalTitle": "జర్మనీదేశ విద్యావిధానము",
+    "workId": "rao-q131681308"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:39:12.049738Z",
+    "chapterCount": 1,
+    "contentSha256": "cfce0baa0e4e83f5135c1e5bf027fce009c08eb5d8f9bd00890ba39d07155706",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ja/shikibu-q106584307.ja.wikisource/v1/book.json.gz",
+    "sha256": "181b36bf4cd8d5e2c76126c18b762a2ce245ff8f6c497c40b0f994515b136c6f",
+    "sizeBytes": 412625,
+    "uncompressedSizeBytes": 1352147,
+    "wordCount": 392
+  },
+  "edition": {
+    "editionId": "shikibu-q106584307.ja.wikisource",
+    "kind": "original",
+    "language": "ja",
+    "title": "國文大觀 第二編 物語部貳 源氏物語下"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1100: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1903: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q106584307",
+      "https://www.wikidata.org/wiki/Q81731",
+      "https://ja.wikisource.org/wiki/%E6%BA%90%E6%B0%8F%E7%89%A9%E8%AA%9E_(%E5%9C%8B%E6%96%87%E5%A4%A7%E8%A7%80)%2F%E4%B8%8B"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 紫式部 died in 1100 and the work was first published in 1903. Source: ja.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "源氏物語 (國文大觀)/下",
+    "pages": [
+      {
+        "revision": 195339,
+        "title": "源氏物語 (國文大觀)/下"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:39:10.988844Z",
+    "revision": "195339",
+    "site": "ja.wikisource.org",
+    "url": "https://ja.wikisource.org/wiki/%E6%BA%90%E6%B0%8F%E7%89%A9%E8%AA%9E_(%E5%9C%8B%E6%96%87%E5%A4%A7%E8%A7%80)/%E4%B8%8B"
+  },
+  "work": {
+    "author": {
+      "birthYear": 970,
+      "deathYear": 1100,
+      "name": "紫式部",
+      "wikidata": "Q81731"
+    },
+    "originalLanguage": "ja",
+    "originalPublicationYear": 1903,
+    "originalTitle": "國文大觀 第二編 物語部貳 源氏物語下",
+    "workId": "shikibu-q106584307"
+  }
+}

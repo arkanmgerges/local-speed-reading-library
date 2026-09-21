@@ -56,6 +56,13 @@ class BookMetadata {
   String? get sourceSite => source['site'] as String?;
   String? get sourceRevision => source['revision'] as String?;
   String? get retrievedAt => source['retrievedAt'] as String?;
+  /// Page titles only: hand-written `source.pages` carry no revision until
+  /// `lsr pin` fills it in.
+  List<String> get sourcePageTitles =>
+      ((source['pages'] as List<Object?>?) ?? const <Object?>[])
+          .map((Object? e) => (e as Map<String, Object?>)['title'] as String)
+          .toList();
+
   List<({String title, int revision})> get sourcePages {
     final List<Object?>? pages = source['pages'] as List<Object?>?;
     if (pages == null) return const [];

@@ -1,0 +1,163 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T09:14:59.988620Z",
+    "chapterCount": 20,
+    "contentSha256": "656eb909c64e6f1ee8c85ce20f003fa68efe4bb4e999737bc61d182821560f9f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/demolins-anglo-saxon-superiority.ar.wikisource/v1/book.json.gz",
+    "sha256": "15f3720237f4486c68807cd70b29e00ea4f26c84ad421e92beef8e6babf9162b",
+    "sizeBytes": 227915,
+    "uncompressedSizeBytes": 831211,
+    "wordCount": 83053
+  },
+  "edition": {
+    "editionId": "demolins-anglo-saxon-superiority.ar.wikisource",
+    "kind": "translation",
+    "language": "ar",
+    "title": "سر تقدم الإنكليز السكسونيين",
+    "translator": {
+      "name": "أحمد فتحي زغلول",
+      "birthYear": 1863,
+      "deathYear": 1914,
+      "wikidata": "Q12179042"
+    },
+    "translationPublicationYear": 1899
+  },
+  "genres": [
+    "Non-fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1907: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1914: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1899: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q141494891",
+      "https://www.wikidata.org/wiki/Q706503",
+      "https://ar.wikisource.org/wiki/%D8%B3%D8%B1_%D8%AA%D9%82%D8%AF%D9%85_%D8%A7%D9%84%D8%A5%D9%86%D9%83%D9%84%D9%8A%D8%B2_%D8%A7%D9%84%D8%B3%D9%83%D8%B3%D9%88%D9%86%D9%8A%D9%8A%D9%86",
+      "https://www.wikidata.org/wiki/Q12179042",
+      "https://en.wikipedia.org/wiki/Ahmed_Fathy_Zaghloul"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart. Curation 2026-09-21: recorded as the 1899 translation by Ahmad Fathi Zaghlul (the batch import had it as an original).",
+    "statement": "Public domain worldwide. إدمون دومولان died in 1907, the translator أحمد فتحي زغلول died in 1914, and the translation was first published in 1899. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "سر تقدم الإنكليز السكسونيين",
+    "pages": [
+      {
+        "revision": 618880,
+        "title": "سر تقدم الإنكليز السكسونيين"
+      },
+      {
+        "revision": 618770,
+        "title": "سر تقدم الإنكليز السكسونيين/مقدمة المترجم"
+      },
+      {
+        "revision": 618772,
+        "title": "سر تقدم الإنكليز السكسونيين/مقدمة المؤلف"
+      },
+      {
+        "revision": 618775,
+        "title": "سر تقدم الإنكليز السكسونيين/مقدمة الطبعة الثانية"
+      },
+      {
+        "revision": 618776,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الأول"
+      },
+      {
+        "revision": 618840,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الأول/الفصل الأول"
+      },
+      {
+        "revision": 618841,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الأول/الفصل الثاني"
+      },
+      {
+        "revision": 618842,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الأول/الفصل الثالث"
+      },
+      {
+        "revision": 618845,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الأول/الفصل الرابع"
+      },
+      {
+        "revision": 618848,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الثاني"
+      },
+      {
+        "revision": 618879,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الثاني/الفصل الأول"
+      },
+      {
+        "revision": 619226,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الثاني/الفصل الثاني"
+      },
+      {
+        "revision": 619248,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الثاني/الفصل الثالث"
+      },
+      {
+        "revision": 619251,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الثاني/الفصل الرابع"
+      },
+      {
+        "revision": 619253,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الثالث"
+      },
+      {
+        "revision": 619254,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الثالث/الفصل الأول"
+      },
+      {
+        "revision": 619273,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الثالث/الفصل الثاني"
+      },
+      {
+        "revision": 619274,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الثالث/الفصل الثالث"
+      },
+      {
+        "revision": 619287,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الثالث/الفصل الرابع"
+      },
+      {
+        "revision": 619289,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الثالث/الفصل الخامس"
+      },
+      {
+        "revision": 619292,
+        "title": "سر تقدم الإنكليز السكسونيين/الباب الثالث/الفصل السادس"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T09:14:58.677067Z",
+    "revision": "618880",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%B3%D8%B1_%D8%AA%D9%82%D8%AF%D9%85_%D8%A7%D9%84%D8%A5%D9%86%D9%83%D9%84%D9%8A%D8%B2_%D8%A7%D9%84%D8%B3%D9%83%D8%B3%D9%88%D9%86%D9%8A%D9%8A%D9%86"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1852,
+      "deathYear": 1907,
+      "name": "إدمون دومولان",
+      "wikidata": "Q706503"
+    },
+    "originalLanguage": "fr",
+    "originalPublicationYear": 1897,
+    "originalTitle": "À quoi tient la supériorité des Anglo-Saxons",
+    "workId": "demolins-anglo-saxon-superiority"
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T11:48:16.447115Z",
+    "chapterCount": 62,
+    "contentSha256": "679865524c6b0bd0e3c045f60d4ef7add4653f25f18ee9f90e6c3298cc138ce3",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/gibran-dam-a-wa-ibtisama.ar.wikisource/v1/book.json.gz",
+    "sha256": "a5a979bac634d26f214b6ff8829d259b6b7dee79839cfa89f83ad810b541a058",
+    "sizeBytes": 71058,
+    "uncompressedSizeBytes": 239816,
+    "wordCount": 20975
+  },
+  "edition": {
+    "editionId": "gibran-dam-a-wa-ibtisama.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "دمعة وابتسامة"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1931: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1914: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q54858063",
+      "https://www.wikidata.org/wiki/Q47737",
+      "https://en.wikipedia.org/wiki/A_Tear_and_a_Smile",
+      "https://ar.wikisource.org/wiki/%D8%AF%D9%85%D8%B9%D8%A9_%D9%88%D8%A7%D8%A8%D8%AA%D8%B3%D8%A7%D9%85%D8%A9_(1914)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "statement": "Public domain worldwide. جبران خليل جبران died in 1931 and the work was first published in 1914. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "دمعة وابتسامة (1914)",
+    "pages": [
+      {
+        "revision": 607045,
+        "title": "دمعة وابتسامة (1914)"
+      },
+      {
+        "revision": 435269,
+        "title": "دمعة وابتسامة (1914)/دمعة وابتسامة – توطئة"
+      },
+      {
+        "revision": 435271,
+        "title": "دمعة وابتسامة (1914)/حياة الحب"
+      },
+      {
+        "revision": 435272,
+        "title": "دمعة وابتسامة (1914)/حكاية"
+      },
+      {
+        "revision": 488944,
+        "title": "دمعة وابتسامة (1914)/في مدينة الأموات"
+      },
+      {
+        "revision": 488956,
+        "title": "دمعة وابتسامة (1914)/موت الشاعر حياته"
+      },
+      {
+        "revision": 488957,
+        "title": "دمعة وابتسامة (1914)/بنات البحر"
+      },
+      {
+        "revision": 489011,
+        "title": "دمعة وابتسامة (1914)/النفس"
+      },
+      {
+        "revision": 489012,
+        "title": "دمعة وابتسامة (1914)/ابتسامة ودمعة"
+      },
+      {
+        "revision": 490212,
+        "title": "دمعة وابتسامة (1914)/رؤيا"
+      },
+      {
+        "revision": 489022,
+        "title": "دمعة وابتسامة (1914)/الجمال"
+      },
+      {
+        "revision": 490213,
+        "title": "دمعة وابتسامة (1914)/الحروف النارية"
+      },
+      {
+        "revision": 490215,
+        "title": "دمعة وابتسامة (1914)/بين الخرائب"
+      },
+      {
+        "revision": 490637,
+        "title": "دمعة وابتسامة (1914)/رؤيا (2)"
+      },
+      {
+        "revision": 490638,
+        "title": "دمعة وابتسامة (1914)/الأمس واليوم"
+      },
+      {
+        "revision": 490639,
+        "title": "دمعة وابتسامة (1914)/رحماك يا نفس رحماك"
+      },
+      {
+        "revision": 490751,
+        "title": "دمعة وابتسامة (1914)/الأرملة وابنها"
+      },
+      {
+        "revision": 490782,
+        "title": "دمعة وابتسامة (1914)/الدهر والأمة"
+      },
+      {
+        "revision": 490866,
+        "title": "دمعة وابتسامة (1914)/امام عرش الجمال"
+      },
+      {
+        "revision": 490937,
+        "title": "دمعة وابتسامة (1914)/زيارة الحكمة"
+      },
+      {
+        "revision": 491474,
+        "title": "دمعة وابتسامة (1914)/حكاية صديق"
+      },
+      {
+        "revision": 491213,
+        "title": "دمعة وابتسامة (1914)/بين الحقيقة والخيال"
+      },
+      {
+        "revision": 491256,
+        "title": "دمعة وابتسامة (1914)/يا خليلي الفقير"
+      },
+      {
+        "revision": 491279,
+        "title": "دمعة وابتسامة (1914)/مناحة في الحقل"
+      },
+      {
+        "revision": 491278,
+        "title": "دمعة وابتسامة (1914)/بين الكوخ والقصر"
+      },
+      {
+        "revision": 491406,
+        "title": "دمعة وابتسامة (1914)/طفلان"
+      },
+      {
+        "revision": 491405,
+        "title": "دمعة وابتسامة (1914)/شعراء المهجر"
+      },
+      {
+        "revision": 491471,
+        "title": "دمعة وابتسامة (1914)/تحت الشمس"
+      },
+      {
+        "revision": 491523,
+        "title": "دمعة وابتسامة (1914)/نظرة إلى الآتي"
+      },
+      {
+        "revision": 491524,
+        "title": "دمعة وابتسامة (1914)/ملكة الخيال"
+      },
+      {
+        "revision": 491702,
+        "title": "دمعة وابتسامة (1914)/يا لائمي"
+      },
+      {
+        "revision": 491936,
+        "title": "دمعة وابتسامة (1914)/مناجاة"
+      },
+      {
+        "revision": 493160,
+        "title": "دمعة وابتسامة (1914)/المجرم"
+      },
+      {
+        "revision": 491977,
+        "title": "دمعة وابتسامة (1914)/الرفيقة"
+      },
+      {
+        "revision": 492052,
+        "title": "دمعة وابتسامة (1914)/بيت السعادة"
+      },
+      {
+        "revision": 492063,
+        "title": "دمعة وابتسامة (1914)/مدينة الماضي"
+      },
+      {
+        "revision": 492182,
+        "title": "دمعة وابتسامة (1914)/اللقاء"
+      },
+      {
+        "revision": 492258,
+        "title": "دمعة وابتسامة (1914)/مخبآت الصدور"
+      },
+      {
+        "revision": 492287,
+        "title": "دمعة وابتسامة (1914)/القوة العمياء"
+      },
+      {
+        "revision": 492443,
+        "title": "دمعة وابتسامة (1914)/منيتان"
+      },
+      {
+        "revision": 492454,
+        "title": "دمعة وابتسامة (1914)/على ملعب الدهر"
+      },
+      {
+        "revision": 492455,
+        "title": "دمعة وابتسامة (1914)/خليلي"
+      },
+      {
+        "revision": 492500,
+        "title": "دمعة وابتسامة (1914)/حديث الحب"
+      },
+      {
+        "revision": 492686,
+        "title": "دمعة وابتسامة (1914)/الحيوان الأبكم"
+      },
+      {
+        "revision": 493004,
+        "title": "دمعة وابتسامة (1914)/السلم"
+      },
+      {
+        "revision": 493005,
+        "title": "دمعة وابتسامة (1914)/الشاعر"
+      },
+      {
+        "revision": 493042,
+        "title": "دمعة وابتسامة (1914)/يوم مولدي"
+      },
+      {
+        "revision": 493100,
+        "title": "دمعة وابتسامة (1914)/الطفل يسوع والحب الطفل"
+      },
+      {
+        "revision": 493158,
+        "title": "دمعة وابتسامة (1914)/مناجاة أرواح"
+      },
+      {
+        "revision": 493157,
+        "title": "دمعة وابتسامة (1914)/أيتها الريح"
+      },
+      {
+        "revision": 493219,
+        "title": "دمعة وابتسامة (1914)/رجوع الحييب"
+      },
+      {
+        "revision": 493384,
+        "title": "دمعة وابتسامة (1914)/جمال الموت"
+      },
+      {
+        "revision": 493395,
+        "title": "دمعة وابتسامة (1914)/أغاني"
+      },
+      {
+        "revision": 493398,
+        "title": "دمعة وابتسامة (1914)/أغاني/أغنية"
+      },
+      {
+        "revision": 493397,
+        "title": "دمعة وابتسامة (1914)/أغاني/أغنية الموج"
+      },
+      {
+        "revision": 493456,
+        "title": "دمعة وابتسامة (1914)/أغاني/أغنية المطر"
+      },
+      {
+        "revision": 493457,
+        "title": "دمعة وابتسامة (1914)/أغاني/أغنية الجمال"
+      },
+      {
+        "revision": 493584,
+        "title": "دمعة وابتسامة (1914)/أغاني/أغنية السعادة"
+      },
+      {
+        "revision": 493391,
+        "title": "دمعة وابتسامة (1914)/أغاني/أنشودة الزهرة"
+      },
+      {
+        "revision": 493392,
+        "title": "دمعة وابتسامة (1914)/أغاني/نشيد الإنسان"
+      },
+      {
+        "revision": 480686,
+        "title": "دمعة وابتسامة (1914)/صوت الشاعر"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T11:48:16.106061Z",
+    "revision": "607045",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%AF%D9%85%D8%B9%D8%A9_%D9%88%D8%A7%D8%A8%D8%AA%D8%B3%D8%A7%D9%85%D8%A9_(1914)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1883,
+      "deathYear": 1931,
+      "name": "جبران خليل جبران",
+      "wikidata": "Q47737"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 1914,
+    "originalTitle": "دمعة وابتسامة",
+    "workId": "gibran-dam-a-wa-ibtisama"
+  }
+}

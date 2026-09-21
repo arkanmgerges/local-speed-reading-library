@@ -522,49 +522,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 13,
-        "contentSha256": "d9277be8ea6cf6ef4f169653dfd3a63bd8b6a8dbc5acad076a24da1c10119847",
-        "encoding": "gzip",
-        "path": "books/fr/milton-le-paradis-perdu.fr.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "d50bca4462e37ca5cf05bb4307572d117fd9bef275a5b447d43127c28f23fccd",
-        "sizeBytes": 239180,
-        "uncompressedSizeBytes": 654901,
-        "wordCount": 105878
-      },
-      "author": "John Milton",
-      "authorDeathYear": 1674,
-      "editionId": "milton-le-paradis-perdu.fr.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "translation",
-      "language": "fr",
-      "originalLanguage": "en",
-      "originalPublicationYear": 1667,
-      "originalTitle": "Le Paradis perdu",
-      "rights": {
-        "statement": "Public domain worldwide. John Milton died in 1674; the translator François-René de Chateaubriand died in 1848 and this translation was first published in 1861. Source: fr.wikisource.org transcription.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Le Paradis perdu",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:11:13.209619Z",
-        "revision": "14437686",
-        "url": "https://fr.wikisource.org/wiki/Le_Paradis_perdu"
-      },
-      "title": "Le Paradis perdu",
-      "translationPublicationYear": 1861,
-      "translator": "François-René de Chateaubriand",
-      "translatorDeathYear": 1848,
-      "workId": "milton-le-paradis-perdu"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 10,
         "contentSha256": "c21278d5af58c201a06354a8f9bbc16dba077236de11c11335ac2e6b65d1d498",
         "encoding": "gzip",
@@ -870,7 +827,7 @@
   "direction": "ltr",
   "englishName": "French",
   "language": "fr",
-  "manifestVersion": "f2d677d8aa2e7fb0",
+  "manifestVersion": "b8136b2c45cbee1f",
   "nativeName": "Français",
   "schemaVersion": 1
 }

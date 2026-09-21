@@ -1,0 +1,88 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T11:46:58.233157Z",
+    "chapterCount": 136,
+    "contentSha256": "094882b1e366a622d265aced207eb6a451735550336be53feaa2e7b39c3a0e4d",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/anonymous-alf-layla-wa-layla.ar.wikisource/v1/book.json.gz",
+    "sha256": "8d15cd2e0458945e54ac19ec1f64f64c8067c40da9fc0ca80e0cd9aad3890ce4",
+    "sizeBytes": 324916,
+    "uncompressedSizeBytes": 1233833,
+    "wordCount": 128251
+  },
+  "edition": {
+    "editionId": "anonymous-alf-layla-wa-layla.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "notes": "Selection: the ar.wikisource volumes 1-4 (nights 1 to about 130 and the final tale).",
+    "title": "ألف ليلة وليلة (مختارات)"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1800: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1835: more than 95 years ago (US term expired) - first printed at Bulaq, Cairo, in 1835 from the 18th-century Egyptian recension"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q8258",
+      "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights",
+      "https://ar.wikisource.org/wiki/%D8%A3%D9%84%D9%81_%D9%84%D9%8A%D9%84%D8%A9_%D9%88%D9%84%D9%8A%D9%84%D8%A9"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Anonymous traditional work. deathYear 1800 is an upper bound, not a recorded date: the Arabic text distributed here is the Egyptian recension that was complete by the late 18th century and first printed in 1835; nobody who contributed to it can have died within the last 70 years. The ar.wikisource transcription is partial: nights 1 to about 130 (volumes 1-3) and the closing tale of Ma’ruf the cobbler (volume 4); the separate Sindbad page duplicates its nights and is left out.",
+    "statement": "Public domain worldwide. مؤلف مجهول died in 1800 and the work was first published in 1835. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "ألف ليلة وليلة",
+    "pages": [
+      {
+        "revision": 434789,
+        "title": "ألف ليلة وليلة"
+      },
+      {
+        "revision": 529885,
+        "title": "ألف ليلة وليلة/الجزء الأول"
+      },
+      {
+        "revision": 424291,
+        "title": "ألف ليلة وليلة/الجزء الثاني"
+      },
+      {
+        "revision": 424982,
+        "title": "ألف ليلة وليلة/الجزء الثالث"
+      },
+      {
+        "revision": 424983,
+        "title": "ألف ليلة وليلة/الجزء الرابع"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T11:46:56.339505Z",
+    "revision": "434789",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%A3%D9%84%D9%81_%D9%84%D9%8A%D9%84%D8%A9_%D9%88%D9%84%D9%8A%D9%84%D8%A9"
+  },
+  "work": {
+    "author": {
+      "deathYear": 1800,
+      "name": "مؤلف مجهول"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 1835,
+    "originalTitle": "ألف ليلة وليلة",
+    "workId": "anonymous-alf-layla-wa-layla"
+  }
+}

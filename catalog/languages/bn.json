@@ -390,6 +390,135 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 24,
+        "contentSha256": "f7c5fc6820b21eec68ca42ee04207b4aba0ced329bbe7cfcb15122ba7c69209c",
+        "encoding": "gzip",
+        "path": "books/bn/vidyasagar-akhyanmanjari-part-1.bn.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "83d214e9d763524f06e27400f7a4f11bbd954cfccd01dff2a38880468cbefe01",
+        "sizeBytes": 33924,
+        "uncompressedSizeBytes": 202936,
+        "wordCount": 11076
+      },
+      "author": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "authorDeathYear": 1891,
+      "editionId": "vidyasagar-akhyanmanjari-part-1.bn.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "bn",
+      "originalLanguage": "bn",
+      "originalPublicationYear": 1917,
+      "originalTitle": "আখ্যানমঞ্জরী (প্রথম ভাগ)",
+      "rights": {
+        "statement": "Public domain worldwide. ঈশ্বরচন্দ্র বিদ্যাসাগর died in 1891 and the work was first published in 1917. Source: bn.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "আখ্যানমঞ্জরী (প্রথম ভাগ)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T09:54:45.035677Z",
+        "revision": "1971674",
+        "url": "https://bn.wikisource.org/wiki/%E0%A6%86%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%B0%E0%A7%80_(%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE_%E0%A6%AD%E0%A6%BE%E0%A6%97)"
+      },
+      "title": "আখ্যানমঞ্জরী (প্রথম ভাগ)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vidyasagar-akhyanmanjari-part-1"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 35,
+        "contentSha256": "b4e975b0eb728bd6d5fcdf19e946593eae1f997db73b84f574fda9bc7f154a53",
+        "encoding": "gzip",
+        "path": "books/bn/vidyasagar-akhyanmanjari-part-2.bn.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a5605eebd8d13ea83d60057a86cae74a26ff28f9aa17bf2cbcc00419e7d5130b",
+        "sizeBytes": 44305,
+        "uncompressedSizeBytes": 267566,
+        "wordCount": 13904
+      },
+      "author": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "authorDeathYear": 1891,
+      "editionId": "vidyasagar-akhyanmanjari-part-2.bn.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "bn",
+      "originalLanguage": "bn",
+      "originalPublicationYear": 1920,
+      "originalTitle": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ)",
+      "rights": {
+        "statement": "Public domain worldwide. ঈশ্বরচন্দ্র বিদ্যাসাগর died in 1891 and the work was first published in 1920. Source: bn.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T09:55:33.902647Z",
+        "revision": "1976152",
+        "url": "https://bn.wikisource.org/wiki/%E0%A6%86%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%B0%E0%A7%80_(%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%AD%E0%A6%BE%E0%A6%97%2C_%E0%A7%A7%E0%A7%AF%E0%A7%A8%E0%A7%A6)"
+      },
+      "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vidyasagar-akhyanmanjari-part-2"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 21,
+        "contentSha256": "93ea1ebc73dd7c3524a57ba4ac95996491e188ebeed08953e97a73b27e8e5344",
+        "encoding": "gzip",
+        "path": "books/bn/vidyasagar-akhyanmanjari-part-3.bn.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "f87764474a2d73697aa97b15a405e34b5aad9c7e9b73afb80a47944435f74f86",
+        "sizeBytes": 65224,
+        "uncompressedSizeBytes": 389264,
+        "wordCount": 20258
+      },
+      "author": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "authorDeathYear": 1891,
+      "editionId": "vidyasagar-akhyanmanjari-part-3.bn.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "bn",
+      "originalLanguage": "bn",
+      "originalPublicationYear": 1918,
+      "originalTitle": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)",
+      "rights": {
+        "statement": "Public domain worldwide. ঈশ্বরচন্দ্র বিদ্যাসাগর died in 1891 and the work was first published in 1918. Source: bn.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T09:56:04.780467Z",
+        "revision": "1971672",
+        "url": "https://bn.wikisource.org/wiki/%E0%A6%86%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%B0%E0%A7%80_(%E0%A6%A4%E0%A7%83%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%AD%E0%A6%BE%E0%A6%97)"
+      },
+      "title": "আখ্যানমঞ্জরী (তৃতীয় ভাগ)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vidyasagar-akhyanmanjari-part-3"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 9,
         "contentSha256": "c0d7fbff37799154a8cd1ba8e49912ae4f0f4efb58577fc4a1bdc9dec4131f23",
         "encoding": "gzip",
@@ -433,6 +562,92 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "15fbf69e17d079d669eaab514463ed0cfba14905ba0aaa877a8223af20d83485",
+        "encoding": "gzip",
+        "path": "books/bn/vidyasagar-bhrantibilas.bn.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6d06ab5227dba5b0abf8ec19335c0d83eb2864295a1bd6ce7f642171cab94920",
+        "sizeBytes": 54515,
+        "uncompressedSizeBytes": 332441,
+        "wordCount": 19056
+      },
+      "author": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "authorDeathYear": 1891,
+      "editionId": "vidyasagar-bhrantibilas.bn.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "bn",
+      "originalLanguage": "bn",
+      "originalPublicationYear": 1886,
+      "originalTitle": "ভ্রান্তিবিলাস",
+      "rights": {
+        "statement": "Public domain worldwide. ঈশ্বরচন্দ্র বিদ্যাসাগর died in 1891 and the work was first published in 1886. Source: bn.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "ভ্রান্তিবিলাস (১৮৮৬)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T09:56:30.799454Z",
+        "revision": "1972079",
+        "url": "https://bn.wikisource.org/wiki/%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B8_(%E0%A7%A7%E0%A7%AE%E0%A7%AE%E0%A7%AC)"
+      },
+      "title": "ভ্রান্তিবিলাস",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vidyasagar-bhrantibilas"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 16,
+        "contentSha256": "a7130cd8aa1a1b6ddb09560229156080f5b39c3c2d60d073d6e2f7b9be82177c",
+        "encoding": "gzip",
+        "path": "books/bn/vidyasagar-bodhodoy.bn.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "fc14c273ca0eb594475df90fae287c00031e2682d53984e35fa4764f88b7b345",
+        "sizeBytes": 27019,
+        "uncompressedSizeBytes": 146095,
+        "wordCount": 9000
+      },
+      "author": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "authorDeathYear": 1891,
+      "editionId": "vidyasagar-bodhodoy.bn.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "bn",
+      "originalLanguage": "bn",
+      "originalPublicationYear": 1852,
+      "originalTitle": "বোধোদয়",
+      "rights": {
+        "statement": "Public domain worldwide. ঈশ্বরচন্দ্র বিদ্যাসাগর died in 1891 and the work was first published in 1852. Source: bn.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "বোধোদয় (১৮৫২)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T09:56:54.465534Z",
+        "revision": "1975759",
+        "url": "https://bn.wikisource.org/wiki/%E0%A6%AC%E0%A7%8B%E0%A6%A7%E0%A7%8B%E0%A6%A6%E0%A6%AF%E0%A6%BC_(%E0%A7%A7%E0%A7%AE%E0%A7%AB%E0%A7%A8)"
+      },
+      "title": "বোধোদয়",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vidyasagar-bodhodoy"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 20,
         "contentSha256": "94f329f00883696095151cba31a8e58680ea6f72c927e84466318c85e92fe333",
         "encoding": "gzip",
@@ -472,6 +687,49 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "vidyasagar-charitabali"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 7,
+        "contentSha256": "b4e8de76b1af0ffa96730aae6b699ad5cc69cf8672b79bc0c3e4a3878901748f",
+        "encoding": "gzip",
+        "path": "books/bn/vidyasagar-shakuntala.bn.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "d37c2d9f65de1e13271455652dadfb3900221f5d12c0ea152c30863d86dc9040",
+        "sizeBytes": 45780,
+        "uncompressedSizeBytes": 266861,
+        "wordCount": 14659
+      },
+      "author": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "authorDeathYear": 1891,
+      "editionId": "vidyasagar-shakuntala.bn.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "bn",
+      "originalLanguage": "bn",
+      "originalPublicationYear": 1854,
+      "originalTitle": "শকুন্তলা",
+      "rights": {
+        "statement": "Public domain worldwide. ঈশ্বরচন্দ্র বিদ্যাসাগর died in 1891 and the work was first published in 1854. Source: bn.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "শকুন্তলা (ঈশ্বরচন্দ্র বিদ্যাসাগর, ১৮৫৪)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T09:59:02.394360Z",
+        "revision": "1972230",
+        "url": "https://bn.wikisource.org/wiki/%E0%A6%B6%E0%A6%95%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B2%E0%A6%BE_(%E0%A6%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%2C_%E0%A7%A7%E0%A7%AE%E0%A7%AB%E0%A7%AA)"
+      },
+      "title": "শকুন্তলা",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vidyasagar-shakuntala"
     },
     {
       "asset": {
@@ -520,7 +778,7 @@
   "direction": "ltr",
   "englishName": "Bengali",
   "language": "bn",
-  "manifestVersion": "583e7fd7c8651f22",
+  "manifestVersion": "64554a384990fa5f",
   "nativeName": "বাংলা",
   "schemaVersion": 1
 }

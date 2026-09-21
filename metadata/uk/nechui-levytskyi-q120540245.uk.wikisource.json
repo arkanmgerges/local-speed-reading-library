@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:58:34.004149Z",
+    "chapterCount": 8,
+    "contentSha256": "54025cced7b5c011ae74e2a8b193d821a3fcc53bee03d59b266c8a1cc127887c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/uk/nechui-levytskyi-q120540245.uk.wikisource/v1/book.json.gz",
+    "sha256": "4e567d80c1150fe148ecb2a08f9a6d5d51b2e0a9598fa53ce54614315fbea5d8",
+    "sizeBytes": 53872,
+    "uncompressedSizeBytes": 190212,
+    "wordCount": 17254
+  },
+  "edition": {
+    "editionId": "nechui-levytskyi-q120540245.uk.wikisource",
+    "kind": "original",
+    "language": "uk",
+    "title": "Дві московки"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1918: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1868: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q120540245",
+      "https://www.wikidata.org/wiki/Q2498056",
+      "https://uk.wikisource.org/wiki/%D0%94%D0%B2%D1%96_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D0%BA%D0%B8"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Іван Нечуй-Левицький died in 1918 and the work was first published in 1868. Source: uk.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Дві московки",
+    "pages": [
+      {
+        "revision": 395783,
+        "title": "Дві московки"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:58:33.712007Z",
+    "revision": "395783",
+    "site": "uk.wikisource.org",
+    "url": "https://uk.wikisource.org/wiki/%D0%94%D0%B2%D1%96_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D0%BA%D0%B8"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1838,
+      "deathYear": 1918,
+      "name": "Іван Нечуй-Левицький",
+      "wikidata": "Q2498056"
+    },
+    "originalLanguage": "uk",
+    "originalPublicationYear": 1868,
+    "originalTitle": "Дві московки",
+    "workId": "nechui-levytskyi-q120540245"
+  }
+}

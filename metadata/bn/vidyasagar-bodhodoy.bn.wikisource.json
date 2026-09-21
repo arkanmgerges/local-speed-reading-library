@@ -1,0 +1,137 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T09:56:54.604874Z",
+    "chapterCount": 16,
+    "contentSha256": "a7130cd8aa1a1b6ddb09560229156080f5b39c3c2d60d073d6e2f7b9be82177c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/bn/vidyasagar-bodhodoy.bn.wikisource/v1/book.json.gz",
+    "sha256": "fc14c273ca0eb594475df90fae287c00031e2682d53984e35fa4764f88b7b345",
+    "sizeBytes": 27019,
+    "uncompressedSizeBytes": 146095,
+    "wordCount": 9000
+  },
+  "edition": {
+    "editionId": "vidyasagar-bodhodoy.bn.wikisource",
+    "kind": "original",
+    "language": "bn",
+    "title": "বোধোদয়"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1891: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1852: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q109265548",
+      "https://www.wikidata.org/wiki/Q964111",
+      "https://bn.wikisource.org/wiki/%E0%A6%AC%E0%A7%8B%E0%A6%A7%E0%A7%8B%E0%A6%A6%E0%A6%AF%E0%A6%BC_(%E0%A7%A7%E0%A7%AE%E0%A7%AB%E0%A7%A8)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ঈশ্বরচন্দ্র বিদ্যাসাগর died in 1891 and the work was first published in 1852. Source: bn.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "বোধোদয় (১৮৫২)",
+    "pages": [
+      {
+        "revision": 1975759,
+        "title": "বোধোদয় (১৮৫২)"
+      },
+      {
+        "revision": 1975762,
+        "title": "বোধোদয় (১৮৫২)/ঈশ্বর ও ঈশ্বর সৃষ্ট পদার্থ"
+      },
+      {
+        "revision": 1975768,
+        "title": "বোধোদয় (১৮৫২)/চেতন পদার্থ"
+      },
+      {
+        "revision": 1975775,
+        "title": "বোধোদয় (১৮৫২)/মানব জাতি"
+      },
+      {
+        "revision": 1975761,
+        "title": "বোধোদয় (১৮৫২)/ইন্দ্রিয়"
+      },
+      {
+        "revision": 1975772,
+        "title": "বোধোদয় (১৮৫২)/বর্ণ—রঙ্‌"
+      },
+      {
+        "revision": 1975774,
+        "title": "বোধোদয় (১৮৫২)/বাক্যকথন—ভাষা"
+      },
+      {
+        "revision": 1975765,
+        "title": "বোধোদয় (১৮৫২)/কাল"
+      },
+      {
+        "revision": 1975767,
+        "title": "বোধোদয় (১৮৫২)/গণন—অঙ্ক"
+      },
+      {
+        "revision": 1975766,
+        "title": "বোধোদয় (১৮৫২)/ক্রয় বিক্রয়—মুদ্রা"
+      },
+      {
+        "revision": 1975773,
+        "title": "বোধোদয় (১৮৫২)/বস্তুর আকার ও পরিমাণ"
+      },
+      {
+        "revision": 1975770,
+        "title": "বোধোদয় (১৮৫২)/ধাতু"
+      },
+      {
+        "revision": 1975776,
+        "title": "বোধোদয় (১৮৫২)/হীরা"
+      },
+      {
+        "revision": 1975764,
+        "title": "বোধোদয় (১৮৫২)/কাচ"
+      },
+      {
+        "revision": 1975763,
+        "title": "বোধোদয় (১৮৫২)/উদ্ভিদ"
+      },
+      {
+        "revision": 1975769,
+        "title": "বোধোদয় (১৮৫২)/জল—সমুদ্র—নদী"
+      },
+      {
+        "revision": 1975771,
+        "title": "বোধোদয় (১৮৫২)/পরিশ্রম—অধিকার"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T09:56:54.465534Z",
+    "revision": "1975759",
+    "site": "bn.wikisource.org",
+    "url": "https://bn.wikisource.org/wiki/%E0%A6%AC%E0%A7%8B%E0%A6%A7%E0%A7%8B%E0%A6%A6%E0%A6%AF%E0%A6%BC_(%E0%A7%A7%E0%A7%AE%E0%A7%AB%E0%A7%A8)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1820,
+      "deathYear": 1891,
+      "name": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "wikidata": "Q964111"
+    },
+    "originalLanguage": "bn",
+    "originalPublicationYear": 1852,
+    "originalTitle": "বোধোদয়",
+    "workId": "vidyasagar-bodhodoy"
+  }
+}

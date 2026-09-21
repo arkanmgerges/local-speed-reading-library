@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T11:08:09.338877Z",
+    "chapterCount": 50,
+    "contentSha256": "31d29cd2c4fec1007bb105e97aa0713b27966fdfb1930639f8c1e26425358997",
+    "normalizerVersion": "0.2.0",
+    "path": "books/zh-hant/jun-dongui-bogam.zh-hant.wikisource/v1/book.json.gz",
+    "sha256": "6152828e14dac083326741ef3e19d3e26d382f6b8c9ad648a70e402d3251c15f",
+    "sizeBytes": 37593,
+    "uncompressedSizeBytes": 89806,
+    "wordCount": 627
+  },
+  "edition": {
+    "editionId": "jun-dongui-bogam.zh-hant.wikisource",
+    "kind": "original",
+    "language": "zh-Hant",
+    "title": "東醫寶鑑"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1615: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1613: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q494387",
+      "https://www.wikidata.org/wiki/Q487550",
+      "https://zh.wikisource.org/wiki/%E6%9D%B1%E9%86%AB%E5%AF%B6%E9%91%92"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 許浚 died in 1615 and the work was first published in 1613. Source: zh.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "東醫寶鑒",
+    "pages": [
+      {
+        "revision": 2245890,
+        "title": "東醫寶鑒"
+      },
+      {
+        "revision": 2199558,
+        "title": "東醫寶鑒/緫目"
+      },
+      {
+        "revision": 2308308,
+        "title": "東醫寶鑒/內景篇一"
+      },
+      {
+        "revision": 2346994,
+        "title": "東醫寶鑒/序"
+      },
+      {
+        "revision": 2199215,
+        "title": "東醫寶鑒/集例"
+      },
+      {
+        "revision": 2200902,
+        "title": "東醫寶鑒/歷代醫方"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T11:08:09.270596Z",
+    "revision": "2245890",
+    "site": "zh.wikisource.org",
+    "url": "https://zh.wikisource.org/wiki/%E6%9D%B1%E9%86%AB%E5%AF%B6%E9%91%92"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1546,
+      "deathYear": 1615,
+      "name": "許浚",
+      "wikidata": "Q487550"
+    },
+    "originalLanguage": "zh-Hant",
+    "originalPublicationYear": 1613,
+    "originalTitle": "東醫寶鑑",
+    "workId": "jun-dongui-bogam"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T11:01:03.889912Z",
+    "chapterCount": 9,
+    "contentSha256": "9ce68f5368ca4ca0ff0cc478cea9d2c102fe2c0b223282230a2912b6219b7948",
+    "normalizerVersion": "0.2.0",
+    "path": "books/uk/yefremov-q104099707.uk.wikisource/v1/book.json.gz",
+    "sha256": "0a38d9f580acd13f4eb95e29ac96e631d8246cab595db856bfc86a67b4500c22",
+    "sizeBytes": 40661,
+    "uncompressedSizeBytes": 143686,
+    "wordCount": 11301
+  },
+  "edition": {
+    "editionId": "yefremov-q104099707.uk.wikisource",
+    "kind": "original",
+    "language": "uk",
+    "title": "В тісних рямцях"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1939: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1926: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q104099707",
+      "https://www.wikidata.org/wiki/Q662625",
+      "https://uk.wikisource.org/wiki/%D0%92_%D1%82%D1%96%D1%81%D0%BD%D0%B8%D1%85_%D1%80%D1%8F%D0%BC%D1%86%D1%8F%D1%85"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Єфремов Сергій Олександрович died in 1939 and the work was first published in 1926. Source: uk.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "В тісних рямцях",
+    "pages": [
+      {
+        "revision": 743134,
+        "title": "В тісних рямцях"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T11:01:03.654110Z",
+    "revision": "743134",
+    "site": "uk.wikisource.org",
+    "url": "https://uk.wikisource.org/wiki/%D0%92_%D1%82%D1%96%D1%81%D0%BD%D0%B8%D1%85_%D1%80%D1%8F%D0%BC%D1%86%D1%8F%D1%85"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1876,
+      "deathYear": 1939,
+      "name": "Єфремов Сергій Олександрович",
+      "wikidata": "Q662625"
+    },
+    "originalLanguage": "uk",
+    "originalPublicationYear": 1926,
+    "originalTitle": "В тісних рямцях",
+    "workId": "yefremov-q104099707"
+  }
+}

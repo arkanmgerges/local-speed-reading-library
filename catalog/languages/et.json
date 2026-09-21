@@ -519,6 +519,49 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "f0a2c6ff41e9ffb2cf192b4899a8c68567a268b70b6e1e1fa9ace37fc8868dfc",
+        "encoding": "gzip",
+        "path": "books/et/tolstoy-ivan-iljitschi-surm.et.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "53a6b4194d87dca6ea8fe27eb4840d42b8939eeb006d4d06b0f3b03da97ba5ed",
+        "sizeBytes": 45661,
+        "uncompressedSizeBytes": 128602,
+        "wordCount": 17627
+      },
+      "author": "Leo Tolstoy",
+      "authorDeathYear": 1910,
+      "editionId": "tolstoy-ivan-iljitschi-surm.et.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "et",
+      "originalLanguage": "ru",
+      "originalPublicationYear": 1886,
+      "originalTitle": "Ivan Iljitschi surm",
+      "rights": {
+        "statement": "Public domain worldwide. Leo Tolstoy died in 1910; the translator A. H. Tammsaare died in 1940 and this translation was first published in 1914. Source: et.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Ivan Iljitschi surm",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:24:34.322436Z",
+        "revision": "59624",
+        "url": "https://et.wikisource.org/wiki/Ivan_Iljitschi_surm"
+      },
+      "title": "Ivan Iljitschi surm",
+      "translationPublicationYear": 1914,
+      "translator": "A. H. Tammsaare",
+      "translatorDeathYear": 1940,
+      "workId": "tolstoy-ivan-iljitschi-surm"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 126,
         "contentSha256": "e532c1054217a190a44c22cd991f3bb3f873cb9b75cbf3375fca280130ba4e3d",
         "encoding": "gzip",
@@ -649,7 +692,7 @@
   "direction": "ltr",
   "englishName": "Estonian",
   "language": "et",
-  "manifestVersion": "c69fa6fd67a5e730",
+  "manifestVersion": "64cc8f531b742b7a",
   "nativeName": "Eesti",
   "schemaVersion": 1
 }

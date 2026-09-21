@@ -13,6 +13,11 @@ import 'package:lsr_library_tools/src/providers/wikisource.dart';
 import 'package:lsr_library_tools/src/repo.dart';
 import 'package:path/path.dart' as p;
 
+/// A Wikisource work with more subpages than this is a multi-volume
+/// compendium (dictionaries, chronicles, hadith collections) rather than a
+/// book someone reads end to end; fetching it would also take hours.
+const int maxWikisourcePages = 160;
+
 /// Text fetched from a provider for one edition, before it becomes a book.
 class ImportedSource {
   const ImportedSource({
@@ -69,7 +74,7 @@ class SourceImporter {
       case 'wikisource':
         final WikisourceClient ws = WikisourceClient(_site(m), client: _client);
         final ({String html, int revid, String title}) main = await ws.parse(m.sourceIdentifier);
-        final List<String> explicit = m.sourcePages.map((e) => e.title).toList();
+        final List<String> explicit = m.sourcePageTitles;
         final List<String> titles = explicit.isNotEmpty
             ? explicit
             : <String>[m.sourceIdentifier, ...WikisourceClient.discoverSubpages(main.html, m.sourceIdentifier)];
@@ -102,6 +107,10 @@ class SourceImporter {
     final List<({String title, int revision})> pages = m.sourcePages;
     if (pages.isEmpty) {
       throw StateError('${m.editionId}: source.pages is empty; run `lsr pin ${m.editionId}` first');
+    }
+    if (pages.length > maxWikisourcePages) {
+      throw StateError('${m.editionId}: ${pages.length} pages; more than $maxWikisourcePages is a multi-volume '
+          'compendium, not one download (set source.pages by hand to import a part)');
     }
     final WikisourceClient ws = WikisourceClient(_site(m), client: _client);
     final Directory dir = Directory(snapshotDir(m))..createSync(recursive: true);
@@ -203,9 +212,13 @@ class SourceImporter {
     return now;
   }
 
+  /// The chapter title a subpage contributes: what follows the work's title,
+  /// or the last path segment when the pages hang off a different prefix
+  /// (an index page named after the author, say).
   static String? _subpageTitle(String pageTitle, String mainTitle) {
-    if (!pageTitle.startsWith('$mainTitle/')) return null;
-    final String rest = pageTitle.substring(mainTitle.length + 1).trim();
-    return rest.isEmpty ? null : rest;
+    final String rest = pageTitle.startsWith('$mainTitle/')
+        ? pageTitle.substring(mainTitle.length + 1).trim()
+        : pageTitle.substring(pageTitle.lastIndexOf('/') + 1).trim();
+    return rest.isEmpty || rest == pageTitle ? null : rest;
   }
 }

@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T09:17:12.582179Z",
+    "chapterCount": 1,
+    "contentSha256": "3d668c82dac862ba59da62cf08514ddd9b20d9d676bf148118ec6ad593bab938",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/pushkin-50.ar.wikisource/v1/book.json.gz",
+    "sha256": "009006951ca469a454bb532f1e87b3ceaacf15a944bbd214afe79c8db7a4d587",
+    "sizeBytes": 27044,
+    "uncompressedSizeBytes": 87440,
+    "wordCount": 8228
+  },
+  "edition": {
+    "editionId": "pushkin-50.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "مجلة البيان للبرقوقي/العدد 50/ملكة الورق"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1837: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1919: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q64143559",
+      "https://www.wikidata.org/wiki/Q7200",
+      "https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86_%D9%84%D9%84%D8%A8%D8%B1%D9%82%D9%88%D9%82%D9%8A%2F%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_50%2F%D9%85%D9%84%D9%83%D8%A9_%D8%A7%D9%84%D9%88%D8%B1%D9%82"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart. Curation 2026-09-21: this is an Arabic translation printed in al-Bayan (1919) whose translator is not named; a translation needs a named, long-dead translator (docs/copyright-and-rights.md), so it is not publishable until one is recorded.",
+    "statement": "Public domain worldwide. ألكسندر بوشكين died in 1837 and the work was first published in 1919. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "uncertain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "مجلة البيان للبرقوقي/العدد 50/ملكة الورق",
+    "pages": [
+      {
+        "revision": 238362,
+        "title": "مجلة البيان للبرقوقي/العدد 50/ملكة الورق"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T09:17:12.469851Z",
+    "revision": "238362",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86_%D9%84%D9%84%D8%A8%D8%B1%D9%82%D9%88%D9%82%D9%8A/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_50/%D9%85%D9%84%D9%83%D8%A9_%D8%A7%D9%84%D9%88%D8%B1%D9%82"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1799,
+      "deathYear": 1837,
+      "name": "ألكسندر بوشكين",
+      "wikidata": "Q7200"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 1919,
+    "originalTitle": "مجلة البيان للبرقوقي/العدد 50/ملكة الورق",
+    "workId": "pushkin-50"
+  }
+}

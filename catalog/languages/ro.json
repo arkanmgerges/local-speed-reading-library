@@ -46,6 +46,92 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "bae6e272efb2a72fbec1812c8c9ee20e0826b09b0fed265f1ca5341b53571046",
+        "encoding": "gzip",
+        "path": "books/ro/capidan-meglenoromanii-volumul-i.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "3a24d7794f612bd25450ccf8a97ae44b29c8dca81fd6ff4835353627c31fc853",
+        "sizeBytes": 117964,
+        "uncompressedSizeBytes": 332486,
+        "wordCount": 48869
+      },
+      "author": "Theodor Capidan",
+      "authorDeathYear": 1953,
+      "editionId": "capidan-meglenoromanii-volumul-i.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1925,
+      "originalTitle": "Meglenoromânii, Volumul I: „Istoria și graiul lor”",
+      "rights": {
+        "statement": "Public domain worldwide. Theodor Capidan died in 1953 and the work was first published in 1925. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Meglenoromânii/Volumul I",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:48:57.719398Z",
+        "revision": "139635",
+        "url": "https://ro.wikisource.org/wiki/Meglenorom%C3%A2nii/Volumul_I"
+      },
+      "title": "Meglenoromânii, Volumul I: „Istoria și graiul lor”",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "capidan-meglenoromanii-volumul-i"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 5,
+        "contentSha256": "1edcb4cc72166b9bdadb85baf733b4eed22383d279a02be3dd9e9acbddc7cc8e",
+        "encoding": "gzip",
+        "path": "books/ro/caragiale-hatmanul-baltag.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "c2c7e81b122df02a5683ec22d8b8e61c4568452d312881bd3b564bbdf93c09b8",
+        "sizeBytes": 26472,
+        "uncompressedSizeBytes": 88195,
+        "wordCount": 9938
+      },
+      "author": "Ion Luca Caragiale",
+      "authorDeathYear": 1912,
+      "editionId": "caragiale-hatmanul-baltag.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1884,
+      "originalTitle": "Hatmanul Baltag",
+      "rights": {
+        "statement": "Public domain worldwide. Ion Luca Caragiale died in 1912 and the work was first published in 1884. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Hatmanul Baltag (Caragiale-Negruzzi)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:49:05.206341Z",
+        "revision": "141864",
+        "url": "https://ro.wikisource.org/wiki/Hatmanul_Baltag_(Caragiale-Negruzzi)"
+      },
+      "title": "Hatmanul Baltag",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "caragiale-hatmanul-baltag"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 2,
         "contentSha256": "4d30706230c779656f6b3347d63813c85f107fe84d2367a7c40cc7d45d0859ce",
         "encoding": "gzip",
@@ -85,6 +171,49 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "caragiale-pacat-caragiale"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "4b9c5ac3d9cff614cb8e1ffbde3c6d7afa7f59b0a308d536e63882c2d1cb8b08",
+        "encoding": "gzip",
+        "path": "books/ro/conta-opere-filosofice.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "a51b4d03749f34c5d086d63ec6651b664354c900b90d9bf5bf14f50ff6c10b13",
+        "sizeBytes": 46392,
+        "uncompressedSizeBytes": 147974,
+        "wordCount": 21294
+      },
+      "author": "Vasile Conta",
+      "authorDeathYear": 1882,
+      "editionId": "conta-opere-filosofice.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1924,
+      "originalTitle": "Opere filosofice",
+      "rights": {
+        "statement": "Public domain worldwide. Vasile Conta died in 1882 and the work was first published in 1924. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Opere filosofice (Conta)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:49:13.130729Z",
+        "revision": "150564",
+        "url": "https://ro.wikisource.org/wiki/Opere_filosofice_(Conta)"
+      },
+      "title": "Opere filosofice",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "conta-opere-filosofice"
     },
     {
       "asset": {
@@ -175,6 +304,49 @@
     },
     {
       "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "f94495aa86d4b7d1c33cb56f2886206b32481a548a5849b6e42f119ae1c2b038",
+        "encoding": "gzip",
+        "path": "books/ro/dobrogeanu-gherea-ce-vor-socialistii-romani.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "da83dd3ac222280ec6c8e093ca351086c9c877ee282e0746b9647c3d78799252",
+        "sizeBytes": 43401,
+        "uncompressedSizeBytes": 135386,
+        "wordCount": 19399
+      },
+      "author": "Constantin Dobrogeanu-Gherea",
+      "authorDeathYear": 1920,
+      "editionId": "dobrogeanu-gherea-ce-vor-socialistii-romani.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1899,
+      "originalTitle": "Ce vor socialiștii români",
+      "rights": {
+        "statement": "Public domain worldwide. Constantin Dobrogeanu-Gherea died in 1920 and the work was first published in 1899. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Ce vor socialiștii",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:49:56.607305Z",
+        "revision": "144894",
+        "url": "https://ro.wikisource.org/wiki/Ce_vor_sociali%C8%99tii"
+      },
+      "title": "Ce vor socialiștii români",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "dobrogeanu-gherea-ce-vor-socialistii-romani"
+    },
+    {
+      "asset": {
         "assetVersion": 2,
         "chapterCount": 1,
         "contentSha256": "d8919b2833a6dc456fa29bcaa654831f6b617c703ad11cbcf03a1b8cb5754d5e",
@@ -259,6 +431,49 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "istrati-ciulinii-baraganului"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "e4cb807de80782d8dca49730df6346fd6a6d19824dd5d6f4284989a108cb0d84",
+        "encoding": "gzip",
+        "path": "books/ro/nadejde-evolutia-familiei.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e97825dcf9b201d096dc11b17a3556fe225bc6e38e6bf7f7e75336223b63e3b2",
+        "sizeBytes": 22920,
+        "uncompressedSizeBytes": 62919,
+        "wordCount": 9351
+      },
+      "author": "Sofia Nădejde",
+      "authorDeathYear": 1946,
+      "editionId": "nadejde-evolutia-familiei.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1894,
+      "originalTitle": "Evoluția familiei",
+      "rights": {
+        "statement": "Public domain worldwide. Sofia Nădejde died in 1946 and the work was first published in 1894. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Evoluția familiei",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:50:37.688952Z",
+        "revision": "145187",
+        "url": "https://ro.wikisource.org/wiki/Evolu%C8%9Bia_familiei"
+      },
+      "title": "Evoluția familiei",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "nadejde-evolutia-familiei"
     },
     {
       "asset": {
@@ -391,6 +606,49 @@
     },
     {
       "asset": {
+        "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "35690fe047ef9916b0ccd4fe0b6d2e758218d42b03e26549ae0d6bf1ecb86e56",
+        "encoding": "gzip",
+        "path": "books/ro/slavici-florita-din-codru.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "fd5120d3b5c9b0385d75c0eb500f6b6e7069d7c29a84f1415a766542a9c28fd3",
+        "sizeBytes": 15496,
+        "uncompressedSizeBytes": 45011,
+        "wordCount": 7226
+      },
+      "author": "Ioan Slavici",
+      "authorDeathYear": 1925,
+      "editionId": "slavici-florita-din-codru.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1872,
+      "originalTitle": "Florița din Codru",
+      "rights": {
+        "statement": "Public domain worldwide. Ioan Slavici died in 1925 and the work was first published in 1872. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Florița din Codru",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:50:46.520858Z",
+        "revision": "121542",
+        "url": "https://ro.wikisource.org/wiki/Flori%C8%9Ba_din_Codru"
+      },
+      "title": "Florița din Codru",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "slavici-florita-din-codru"
+    },
+    {
+      "asset": {
         "assetVersion": 2,
         "chapterCount": 17,
         "contentSha256": "c1fd58c7614690f225671cd85a50584d73bab66131e97e174c74b5e6e9197cca",
@@ -479,6 +737,92 @@
       "asset": {
         "assetVersion": 1,
         "chapterCount": 12,
+        "contentSha256": "7aeec599d960fe0d32707df63a7c160651438350ce98758c5fc030fc2d3f6728",
+        "encoding": "gzip",
+        "path": "books/ro/teodoreanu-hotarul-nestatornic.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "5cb6694973e32bfe2a8e425372ff18ce0d01a85dba461f2e64ed5d7e47590b66",
+        "sizeBytes": 183163,
+        "uncompressedSizeBytes": 520962,
+        "wordCount": 72173
+      },
+      "author": "Ionel Teodoreanu",
+      "authorDeathYear": 1954,
+      "editionId": "teodoreanu-hotarul-nestatornic.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1925,
+      "originalTitle": "Hotarul nestatornic",
+      "rights": {
+        "statement": "Public domain worldwide. Ionel Teodoreanu died in 1954 and the work was first published in 1925. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Hotarul nestatornic",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:51:01.033242Z",
+        "revision": "145280",
+        "url": "https://ro.wikisource.org/wiki/Hotarul_nestatornic"
+      },
+      "title": "Hotarul nestatornic",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "teodoreanu-hotarul-nestatornic"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 54,
+        "contentSha256": "e1a6f6e58546efef9b46dfaa2da643d78a0f864777ef5ba58a8f8ce9cfb5788c",
+        "encoding": "gzip",
+        "path": "books/ro/vlahuta-romania-pitoreasca.ro.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "99d48bea3c382c90d728e812cead6ddf7d305dcaf6c229a3259eed2f8f1ea265",
+        "sizeBytes": 110315,
+        "uncompressedSizeBytes": 293975,
+        "wordCount": 42718
+      },
+      "author": "Alexandru Vlahuță",
+      "authorDeathYear": 1919,
+      "editionId": "vlahuta-romania-pitoreasca.ro.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ro",
+      "originalLanguage": "ro",
+      "originalPublicationYear": 1901,
+      "originalTitle": "România pitorească",
+      "rights": {
+        "statement": "Public domain worldwide. Alexandru Vlahuță died in 1919 and the work was first published in 1901. Source: ro.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "România pitorească",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:51:04.641495Z",
+        "revision": "150610",
+        "url": "https://ro.wikisource.org/wiki/Rom%C3%A2nia_pitoreasc%C4%83"
+      },
+      "title": "România pitorească",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "vlahuta-romania-pitoreasca"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 12,
         "contentSha256": "bc779199e19205ad72e5da74fdd2dca4bda939ab2fd2ad51f839db0fc9c64567",
         "encoding": "gzip",
         "path": "books/ro/zamfirescu-tanase-scatiu.ro.wikisource/v1/book.json.gz",
@@ -522,7 +866,7 @@
   "direction": "ltr",
   "englishName": "Romanian",
   "language": "ro",
-  "manifestVersion": "2f03d41c5828ab9b",
+  "manifestVersion": "3b8bbfa67583a535",
   "nativeName": "Română",
   "schemaVersion": 1
 }

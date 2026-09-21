@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:51:05.379616Z",
+    "chapterCount": 54,
+    "contentSha256": "e1a6f6e58546efef9b46dfaa2da643d78a0f864777ef5ba58a8f8ce9cfb5788c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/vlahuta-romania-pitoreasca.ro.wikisource/v1/book.json.gz",
+    "sha256": "99d48bea3c382c90d728e812cead6ddf7d305dcaf6c229a3259eed2f8f1ea265",
+    "sizeBytes": 110315,
+    "uncompressedSizeBytes": 293975,
+    "wordCount": 42718
+  },
+  "edition": {
+    "editionId": "vlahuta-romania-pitoreasca.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "title": "România pitorească"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1919: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1901: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q18547528",
+      "https://www.wikidata.org/wiki/Q648598",
+      "https://ro.wikisource.org/wiki/Rom%C3%A2nia_pitoreasc%C4%83"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Alexandru Vlahuță died in 1919 and the work was first published in 1901. Source: ro.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "România pitorească",
+    "pages": [
+      {
+        "revision": 150610,
+        "title": "România pitorească"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:51:04.641495Z",
+    "revision": "150610",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/Rom%C3%A2nia_pitoreasc%C4%83"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1858,
+      "deathYear": 1919,
+      "name": "Alexandru Vlahuță",
+      "wikidata": "Q648598"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1901,
+    "originalTitle": "România pitorească",
+    "workId": "vlahuta-romania-pitoreasca"
+  }
+}

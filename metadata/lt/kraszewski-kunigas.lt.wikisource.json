@@ -1,0 +1,83 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:47:34.660803Z",
+    "chapterCount": 12,
+    "contentSha256": "533939027139423e0a28a5cfe73b845d31c37b4b550a2fbcf4a59446ebfc01e4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/lt/kraszewski-kunigas.lt.wikisource/v1/book.json.gz",
+    "sha256": "29ef0a714eb7daf560d0adbae51103091f2873f8a039ee75d3005710cbb45f55",
+    "sizeBytes": 117479,
+    "uncompressedSizeBytes": 329039,
+    "wordCount": 43514
+  },
+  "edition": {
+    "editionId": "kraszewski-kunigas.lt.wikisource",
+    "kind": "translation",
+    "language": "lt",
+    "title": "Kunigas",
+    "translationPublicationYear": 1887,
+    "translator": {
+      "birthYear": 1828,
+      "deathYear": 1914,
+      "name": "Augustinas Zeicas",
+      "wikidata": "Q64026335"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1887: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1914: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1887: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q15711411",
+      "https://www.wikidata.org/wiki/Q64026327",
+      "https://www.wikidata.org/wiki/Q254524",
+      "https://www.wikidata.org/wiki/Q64026335",
+      "https://lt.wikisource.org/wiki/Kunigas"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Józef Ignacy Kraszewski died in 1887; the translator Augustinas Zeicas died in 1914 and this translation was first published in 1887. Source: lt.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Kunigas",
+    "pages": [
+      {
+        "revision": 8567,
+        "title": "Kunigas"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:47:33.826878Z",
+    "revision": "8567",
+    "site": "lt.wikisource.org",
+    "url": "https://lt.wikisource.org/wiki/Kunigas"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1812,
+      "deathYear": 1887,
+      "name": "Józef Ignacy Kraszewski",
+      "wikidata": "Q254524"
+    },
+    "originalLanguage": "pl",
+    "originalPublicationYear": 1882,
+    "originalTitle": "Kunigas",
+    "workId": "kraszewski-kunigas"
+  }
+}

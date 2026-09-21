@@ -85,10 +85,14 @@ void main(List<String> argv) {
   }
   int removed = 0, kept = 0;
   final Map<String, int> keptPerLanguage = <String, int>{};
+  // Rejected editions are remembered so a later discovery round does not
+  // offer them again (build/rejected-editions.txt, one editionId per line).
+  final File rejected = File(p.join(repo.buildDir, 'rejected-editions.txt'));
   void remove(BookMetadata m, String why) {
     removed++;
     stdout.writeln('remove ${m.editionId}: $why');
     if (dryRun) return;
+    rejected.writeAsStringSync('${m.editionId}\n', mode: FileMode.append);
     final File f = File(repo.metadataFile(m.language, m.editionId));
     if (f.existsSync()) f.deleteSync();
     for (final String dir in <String>[

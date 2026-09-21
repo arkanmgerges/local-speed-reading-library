@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:28:18.773197Z",
+    "chapterCount": 12,
+    "contentSha256": "f66b00f7df0ab9288b8c67fb4caeaaa732cf353b1ad9bc9ff1f22c0c5202a10f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/he/bialik-q12404235.he.wikisource/v1/book.json.gz",
+    "sha256": "f5308acc1d7fb5de1fe7b1bb5bdf2d6042a0d15a0eab8196c406a4893b3da5fd",
+    "sizeBytes": 42775,
+    "uncompressedSizeBytes": 134583,
+    "wordCount": 13019
+  },
+  "edition": {
+    "editionId": "bialik-q12404235.he.wikisource",
+    "kind": "original",
+    "language": "he",
+    "title": "אריה \"בעל גוף\""
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1934: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1899: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12404235",
+      "https://www.wikidata.org/wiki/Q359705",
+      "https://he.wikisource.org/wiki/%D7%90%D7%A8%D7%99%D7%94_%22%D7%91%D7%A2%D7%9C_%D7%92%D7%95%D7%A3%22"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. חיים נחמן ביאליק died in 1934 and the work was first published in 1899. Source: he.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "אריה \"בעל גוף\"",
+    "pages": [
+      {
+        "revision": 1356091,
+        "title": "אריה \"בעל גוף\""
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:28:18.580416Z",
+    "revision": "1356091",
+    "site": "he.wikisource.org",
+    "url": "https://he.wikisource.org/wiki/%D7%90%D7%A8%D7%99%D7%94_%22%D7%91%D7%A2%D7%9C_%D7%92%D7%95%D7%A3%22"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1873,
+      "deathYear": 1934,
+      "name": "חיים נחמן ביאליק",
+      "wikidata": "Q359705"
+    },
+    "originalLanguage": "he",
+    "originalPublicationYear": 1899,
+    "originalTitle": "אריה \"בעל גוף\"",
+    "workId": "bialik-q12404235"
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T11:52:20.168671Z",
+    "chapterCount": 75,
+    "contentSha256": "b116518d56b10be21860d1c2b90571ab204cc1843fa7ccf01ebd7d6170a92f65",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/manfaluti-al-nazarat.ar.wikisource/v1/book.json.gz",
+    "sha256": "38a82b8d32272e2ae6d23849caa583e67997af7aa7a9480134739626d2e826ca",
+    "sizeBytes": 259651,
+    "uncompressedSizeBytes": 863956,
+    "wordCount": 80032
+  },
+  "edition": {
+    "editionId": "manfaluti-al-nazarat.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "النظرات"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "import": {
+    "skipHeadings": [
+      "الجزء الأول",
+      "الجزء الثاني",
+      "الجزء الثالث"
+    ]
+  },
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1924: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1910: more than 95 years ago (US term expired) - volume 1 in 1910, volumes 2 and 3 in 1912 and 1921, all before the author’s death in 1924"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12194408",
+      "https://www.wikidata.org/wiki/Q403744",
+      "https://en.wikipedia.org/wiki/Mustafa_Lutfi_al-Manfaluti",
+      "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D8%A7%D8%AA"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "statement": "Public domain worldwide. مصطفى لطفي المنفلوطي died in 1924 and the work was first published in 1910. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "النظرات",
+    "pages": [
+      {
+        "revision": 301596,
+        "title": "النظرات"
+      },
+      {
+        "revision": 433966,
+        "title": "النظرات/المقدمة"
+      },
+      {
+        "revision": 469710,
+        "title": "النظرات/الغد"
+      },
+      {
+        "revision": 469711,
+        "title": "النظرات/الكأس الأولى"
+      },
+      {
+        "revision": 335315,
+        "title": "النظرات/الدَّفِينُ الصَّغِير"
+      },
+      {
+        "revision": 433860,
+        "title": "النظرات/مناجاة القمر"
+      },
+      {
+        "revision": 469712,
+        "title": "النظرات/أين الفضيلة؟"
+      },
+      {
+        "revision": 335332,
+        "title": "النظرات/الغَنيُّ والفقير"
+      },
+      {
+        "revision": 469713,
+        "title": "النظرات/مدينة السعادة"
+      },
+      {
+        "revision": 433928,
+        "title": "النظرات/أيها المحزون"
+      },
+      {
+        "revision": 335305,
+        "title": "النظرات/إلى الدَّيْر"
+      },
+      {
+        "revision": 433862,
+        "title": "النظرات/الرحمة"
+      },
+      {
+        "revision": 469714,
+        "title": "النظرات/رسالة الغفران"
+      },
+      {
+        "revision": 469715,
+        "title": "النظرات/عبرة الدهر"
+      },
+      {
+        "revision": 335286,
+        "title": "النظرات/أفسدك قومُك"
+      },
+      {
+        "revision": 433863,
+        "title": "النظرات/الصدق والكذب"
+      },
+      {
+        "revision": 335352,
+        "title": "النظرات/النظَّامون"
+      },
+      {
+        "revision": 433782,
+        "title": "النظرات/الحرية"
+      },
+      {
+        "revision": 335378,
+        "title": "النظرات/عِبرةُ الهجرة"
+      },
+      {
+        "revision": 433883,
+        "title": "النظرات/الإنصاف"
+      },
+      {
+        "revision": 433871,
+        "title": "النظرات/المدنية الغربية"
+      },
+      {
+        "revision": 433945,
+        "title": "النظرات/يوم الحساب"
+      },
+      {
+        "revision": 469716,
+        "title": "النظرات/الشعرة البيضاء"
+      },
+      {
+        "revision": 433909,
+        "title": "النظرات/الصياد"
+      },
+      {
+        "revision": 433884,
+        "title": "النظرات/الانتحار"
+      },
+      {
+        "revision": 433861,
+        "title": "النظرات/الجمال"
+      },
+      {
+        "revision": 433905,
+        "title": "النظرات/الكذب"
+      },
+      {
+        "revision": 433875,
+        "title": "النظرات/غرفة الأحزان"
+      },
+      {
+        "revision": 433946,
+        "title": "النظرات/الشرف"
+      },
+      {
+        "revision": 433908,
+        "title": "النظرات/الحب والزواج"
+      },
+      {
+        "revision": 469717,
+        "title": "النظرات/الإسلام والمسيحية"
+      },
+      {
+        "revision": 335296,
+        "title": "النظرات/أهناءٌ أم عزاء؟"
+      },
+      {
+        "revision": 433963,
+        "title": "النظرات/الزوجتان"
+      },
+      {
+        "revision": 305935,
+        "title": "النظرات/في سبيل الإحسان"
+      },
+      {
+        "revision": 433986,
+        "title": "النظرات/أدب المناظرة"
+      },
+      {
+        "revision": 425184,
+        "title": "النظرات/الإحسان في الزواج"
+      },
+      {
+        "revision": 335387,
+        "title": "النظرات/لا همجيَّةَ في الإسلام"
+      },
+      {
+        "revision": 433996,
+        "title": "النظرات/البخيل"
+      },
+      {
+        "revision": 305939,
+        "title": "النظرات/البعوض والإنسان"
+      },
+      {
+        "revision": 309724,
+        "title": "النظرات/الجزع"
+      },
+      {
+        "revision": 434005,
+        "title": "النظرات/الاتحاد"
+      },
+      {
+        "revision": 305941,
+        "title": "النظرات/النبوغ"
+      },
+      {
+        "revision": 433970,
+        "title": "النظرات/البائسات"
+      },
+      {
+        "revision": 433910,
+        "title": "النظرات/البيان"
+      },
+      {
+        "revision": 433911,
+        "title": "النظرات/السريرة"
+      },
+      {
+        "revision": 335370,
+        "title": "النظرات/زيدٌ وعمرو"
+      },
+      {
+        "revision": 469719,
+        "title": "النظرات/أبو الشمقمق"
+      },
+      {
+        "revision": 469720,
+        "title": "النظرات/دورة الفلك"
+      },
+      {
+        "revision": 433865,
+        "title": "النظرات/تأبين فولتير"
+      },
+      {
+        "revision": 469721,
+        "title": "النظرات/العلماء والجهلاء"
+      },
+      {
+        "revision": 305942,
+        "title": "النظرات/الرجل والمرأة"
+      },
+      {
+        "revision": 433997,
+        "title": "النظرات/الدعوة"
+      },
+      {
+        "revision": 305943,
+        "title": "النظرات/الحياة الذاتية"
+      },
+      {
+        "revision": 335324,
+        "title": "النظرات/العَبَرات"
+      },
+      {
+        "revision": 305945,
+        "title": "النظرات/دمعة على الإسلام"
+      },
+      {
+        "revision": 305948,
+        "title": "النظرات/السياسة"
+      },
+      {
+        "revision": 335362,
+        "title": "النظرات/خِدَاعُ العناوين"
+      },
+      {
+        "revision": 305950,
+        "title": "النظرات/الإغراق"
+      },
+      {
+        "revision": 305951,
+        "title": "النظرات/اللقيطة"
+      },
+      {
+        "revision": 305952,
+        "title": "النظرات/الصندوق"
+      },
+      {
+        "revision": 305956,
+        "title": "النظرات/الغناء العربي"
+      },
+      {
+        "revision": 305957,
+        "title": "النظرات/التوبة"
+      },
+      {
+        "revision": 305958,
+        "title": "النظرات/الحسد"
+      },
+      {
+        "revision": 305959,
+        "title": "النظرات/الوفاء"
+      },
+      {
+        "revision": 305960,
+        "title": "النظرات/خبايا الزوايا"
+      },
+      {
+        "revision": 305961,
+        "title": "النظرات/الجامعة الإسلامية"
+      },
+      {
+        "revision": 335342,
+        "title": "النظرات/القِمار"
+      },
+      {
+        "revision": 305963,
+        "title": "النظرات/الأوصياء"
+      },
+      {
+        "revision": 305964,
+        "title": "النظرات/العام الجديد"
+      },
+      {
+        "revision": 305965,
+        "title": "النظرات/سحر البيان"
+      },
+      {
+        "revision": 305967,
+        "title": "النظرات/الكبرياء"
+      },
+      {
+        "revision": 305968,
+        "title": "النظرات/الانـتحار"
+      },
+      {
+        "revision": 305969,
+        "title": "النظرات/الحياة الشعرية"
+      },
+      {
+        "revision": 305970,
+        "title": "النظرات/رباعيات الخيام"
+      },
+      {
+        "revision": 305972,
+        "title": "النظرات/إلى تولستوي"
+      },
+      {
+        "revision": 305973,
+        "title": "النظرات/مقدمة «مختارات المنفلوطي»"
+      },
+      {
+        "revision": 305975,
+        "title": "النظرات/وا رحمتاه!"
+      },
+      {
+        "revision": 305976,
+        "title": "النظرات/خطبة الحرب"
+      },
+      {
+        "revision": 305977,
+        "title": "النظرات/الإنسانية العامة"
+      },
+      {
+        "revision": 305978,
+        "title": "النظرات/أدوار الشعر العربي"
+      },
+      {
+        "revision": 305979,
+        "title": "النظرات/حوانيت الأعراض"
+      },
+      {
+        "revision": 306021,
+        "title": "النظرات/الرثاء"
+      },
+      {
+        "revision": 306024,
+        "title": "النظرات/الشعر"
+      },
+      {
+        "revision": 306025,
+        "title": "النظرات/الشهيدتان"
+      },
+      {
+        "revision": 306026,
+        "title": "النظرات/الدعاء"
+      },
+      {
+        "revision": 306027,
+        "title": "النظرات/ليلة في التمثيل"
+      },
+      {
+        "revision": 306028,
+        "title": "النظرات/الكوخ والقصر"
+      },
+      {
+        "revision": 306029,
+        "title": "النظرات/على سرير الموت"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T11:50:09.839239Z",
+    "revision": "301596",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D8%A7%D8%AA"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1876,
+      "deathYear": 1924,
+      "name": "مصطفى لطفي المنفلوطي",
+      "wikidata": "Q403744"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 1910,
+    "originalTitle": "النظرات",
+    "workId": "manfaluti-al-nazarat"
+  }
+}

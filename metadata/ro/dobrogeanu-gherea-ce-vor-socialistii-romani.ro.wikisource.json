@@ -1,0 +1,101 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:49:56.980832Z",
+    "chapterCount": 12,
+    "contentSha256": "f94495aa86d4b7d1c33cb56f2886206b32481a548a5849b6e42f119ae1c2b038",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/dobrogeanu-gherea-ce-vor-socialistii-romani.ro.wikisource/v1/book.json.gz",
+    "sha256": "da83dd3ac222280ec6c8e093ca351086c9c877ee282e0746b9647c3d78799252",
+    "sizeBytes": 43401,
+    "uncompressedSizeBytes": 135386,
+    "wordCount": 19399
+  },
+  "edition": {
+    "editionId": "dobrogeanu-gherea-ce-vor-socialistii-romani.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "title": "Ce vor socialiștii români"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1920: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1899: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q134616921",
+      "https://www.wikidata.org/wiki/Q1127836",
+      "https://ro.wikisource.org/wiki/Ce_vor_sociali%C8%99tii"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Constantin Dobrogeanu-Gherea died in 1920 and the work was first published in 1899. Source: ro.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Ce vor socialiștii",
+    "pages": [
+      {
+        "revision": 144894,
+        "title": "Ce vor socialiștii"
+      },
+      {
+        "revision": 144883,
+        "title": "Ce vor socialiștii/Introducere"
+      },
+      {
+        "revision": 144888,
+        "title": "Ce vor socialiștii/Capitolul 1"
+      },
+      {
+        "revision": 144889,
+        "title": "Ce vor socialiștii/Capitolul 2"
+      },
+      {
+        "revision": 144890,
+        "title": "Ce vor socialiștii/Capitolul 3"
+      },
+      {
+        "revision": 144891,
+        "title": "Ce vor socialiștii/Capitolul 4"
+      },
+      {
+        "revision": 144892,
+        "title": "Ce vor socialiștii/Capitolul 5"
+      },
+      {
+        "revision": 144893,
+        "title": "Ce vor socialiștii/Supliment"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:49:56.607305Z",
+    "revision": "144894",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/Ce_vor_sociali%C8%99tii"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1855,
+      "deathYear": 1920,
+      "name": "Constantin Dobrogeanu-Gherea",
+      "wikidata": "Q1127836"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1899,
+    "originalTitle": "Ce vor socialiștii români",
+    "workId": "dobrogeanu-gherea-ce-vor-socialistii-romani"
+  }
+}

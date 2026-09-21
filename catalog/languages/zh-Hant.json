@@ -436,6 +436,49 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 50,
+        "contentSha256": "31d29cd2c4fec1007bb105e97aa0713b27966fdfb1930639f8c1e26425358997",
+        "encoding": "gzip",
+        "path": "books/zh-hant/jun-dongui-bogam.zh-hant.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "6152828e14dac083326741ef3e19d3e26d382f6b8c9ad648a70e402d3251c15f",
+        "sizeBytes": 37593,
+        "uncompressedSizeBytes": 89806,
+        "wordCount": 627
+      },
+      "author": "許浚",
+      "authorDeathYear": 1615,
+      "editionId": "jun-dongui-bogam.zh-hant.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "zh-Hant",
+      "originalLanguage": "zh-Hant",
+      "originalPublicationYear": 1613,
+      "originalTitle": "東醫寶鑑",
+      "rights": {
+        "statement": "Public domain worldwide. 許浚 died in 1615 and the work was first published in 1613. Source: zh.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "東醫寶鑒",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T11:08:09.270596Z",
+        "revision": "2245890",
+        "url": "https://zh.wikisource.org/wiki/%E6%9D%B1%E9%86%AB%E5%AF%B6%E9%91%92"
+      },
+      "title": "東醫寶鑑",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "jun-dongui-bogam"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 1,
         "contentSha256": "876cbdb3be5ec296689ce5277220800dda1697c75e6eb9624ae14f56cdf8784b",
         "encoding": "gzip",
@@ -824,7 +867,7 @@
   "direction": "ltr",
   "englishName": "Chinese Traditional",
   "language": "zh-Hant",
-  "manifestVersion": "86df2b5a8d76800e",
+  "manifestVersion": "746fbc4169477b0d",
   "nativeName": "繁體中文",
   "schemaVersion": 1
 }

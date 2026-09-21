@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:39:18.241016Z",
+    "chapterCount": 1,
+    "contentSha256": "0800835b3d7ff68e86450f18ffe412786e542daa6e4d43b628f0af1bcce9cf04",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ja/shimazaki-shinsei.ja.wikisource/v1/book.json.gz",
+    "sha256": "49e723130ffffdb02e59d10cb8dfaa169f86fb5483fd5ea1ab7e1f887e5370b6",
+    "sizeBytes": 333834,
+    "uncompressedSizeBytes": 1039831,
+    "wordCount": 3142
+  },
+  "edition": {
+    "editionId": "shimazaki-shinsei.ja.wikisource",
+    "kind": "original",
+    "language": "ja",
+    "title": "新生"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1943: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1919: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q11503648",
+      "https://www.wikidata.org/wiki/Q1093783",
+      "https://ja.wikisource.org/wiki/%E6%96%B0%E7%94%9F"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 島崎藤村 died in 1943 and the work was first published in 1919. Source: ja.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "新生",
+    "pages": [
+      {
+        "revision": 144107,
+        "title": "新生"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:39:17.372480Z",
+    "revision": "144107",
+    "site": "ja.wikisource.org",
+    "url": "https://ja.wikisource.org/wiki/%E6%96%B0%E7%94%9F"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1872,
+      "deathYear": 1943,
+      "name": "島崎藤村",
+      "wikidata": "Q1093783"
+    },
+    "originalLanguage": "ja",
+    "originalPublicationYear": 1919,
+    "originalTitle": "新生",
+    "workId": "shimazaki-shinsei"
+  }
+}

@@ -42,55 +42,12 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "dwivedi-origin-of-hindi-language"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 2,
-        "contentSha256": "d8cfa2f68dd41919b9e2161e40246586468757c99e3a52114303b052e7ff836f",
-        "encoding": "gzip",
-        "path": "books/hi/premchand-karbala.hi.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "d504750dd492c8b0ad8cfaae1d55e3b3231322be3ca19471922138eeec6cc5ec",
-        "sizeBytes": 20132,
-        "uncompressedSizeBytes": 93783,
-        "wordCount": 7354
-      },
-      "author": "प्रेमचंद",
-      "authorDeathYear": 1936,
-      "editionId": "premchand-karbala.hi.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "hi",
-      "originalLanguage": "hi",
-      "originalPublicationYear": 1924,
-      "originalTitle": "कर्बला",
-      "rights": {
-        "statement": "Public domain worldwide. प्रेमचंद died in 1936 and the work was first published in 1924. Source: hi.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "कर्बला",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:33:43.173231Z",
-        "revision": "654076",
-        "url": "https://hi.wikisource.org/wiki/%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%B2%E0%A4%BE"
-      },
-      "title": "कर्बला",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "premchand-karbala"
     }
   ],
   "direction": "ltr",
   "englishName": "Hindi",
   "language": "hi",
-  "manifestVersion": "8ea6ff32c414b673",
+  "manifestVersion": "9308130f1249d287",
   "nativeName": "हिन्दी",
   "schemaVersion": 1
 }

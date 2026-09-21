@@ -3,49 +3,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 17,
-        "contentSha256": "215ca87615eed57488c8993761d0384eb3c5e44be3dc285cabce4c3a01610523",
-        "encoding": "gzip",
-        "path": "books/nl/bavinck-gereformeerde-dogmatiek-tweede-deel.nl.gutenberg/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "992526b06a6b45e14fd1ba0c7af19e605bd55811a6ab5a3dd47bc19cdebab6ad",
-        "sizeBytes": 501849,
-        "uncompressedSizeBytes": 1405660,
-        "wordCount": 229669
-      },
-      "author": "Herman Bavinck",
-      "authorDeathYear": 1921,
-      "editionId": "bavinck-gereformeerde-dogmatiek-tweede-deel.nl.gutenberg",
-      "editionPublicationYear": 1897,
-      "genres": [
-        "Non-fiction"
-      ],
-      "kind": "original",
-      "language": "nl",
-      "originalLanguage": "nl",
-      "originalPublicationYear": null,
-      "originalTitle": "Gereformeerde dogmatiek. Tweede deel.",
-      "rights": {
-        "statement": "Public domain worldwide. Herman Bavinck died in 1921 and the edition digitised by Project Gutenberg was printed in 1897. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "67966",
-        "provider": "gutenberg",
-        "retrievedAt": "2026-09-21T04:05:46.451514Z",
-        "revision": "Thu, 27 Aug 2026 08:59:17 GMT",
-        "url": "https://www.gutenberg.org/ebooks/67966"
-      },
-      "title": "Gereformeerde dogmatiek. Tweede deel.",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "bavinck-gereformeerde-dogmatiek-tweede-deel"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 25,
         "contentSha256": "0321bf59ca60fb33b2da4d5cc541fd9813b22294156af7af4d0a7fa9da4ba192",
         "encoding": "gzip",
@@ -393,49 +350,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 24,
-        "contentSha256": "05a44ab00ebe898558c3c126452831b0081f222ec7de5e16ee6aae188a3c9176",
-        "encoding": "gzip",
-        "path": "books/nl/grimm-sprookjes-uit-de-nalatenschap-van-moeder-de.nl.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "072a47aee586fd5c4bcfe7c387fe30d9bf0c7dbea80995921a63f70b9f89816b",
-        "sizeBytes": 133163,
-        "uncompressedSizeBytes": 399342,
-        "wordCount": 68698
-      },
-      "author": "Jacob Grimm",
-      "authorDeathYear": 1863,
-      "editionId": "grimm-sprookjes-uit-de-nalatenschap-van-moeder-de.nl.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "nl",
-      "originalLanguage": "nl",
-      "originalPublicationYear": 1870,
-      "originalTitle": "Sprookjes uit de nalatenschap van Moeder de Gans",
-      "rights": {
-        "statement": "Public domain worldwide. Jacob Grimm died in 1863 and the work was first published in 1870. Source: nl.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Sprookjes uit de nalatenschap van Moeder de Gans",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T04:09:26.515190Z",
-        "revision": "168915",
-        "url": "https://nl.wikisource.org/wiki/Sprookjes_uit_de_nalatenschap_van_Moeder_de_Gans"
-      },
-      "title": "Sprookjes uit de nalatenschap van Moeder de Gans",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "grimm-sprookjes-uit-de-nalatenschap-van-moeder-de"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 68,
         "contentSha256": "7f180cdaac6d39e139170e630b5fd865577884098e104493194d80426ff29b4f",
         "encoding": "gzip",
@@ -696,49 +610,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 12,
-        "contentSha256": "4262887ec939ebe4f666dd63c858cff6f1fb15a5c19e721c70f3ad9bc4bdc7b4",
-        "encoding": "gzip",
-        "path": "books/nl/visscher-de-apocriefe-boeken.nl.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "a155e3ff047bf41c9f0bf4d3981a5df8d3c047b0f5414da1c88831ef5f49a6e4",
-        "sizeBytes": 190519,
-        "uncompressedSizeBytes": 575594,
-        "wordCount": 97833
-      },
-      "author": "Adolf Visscher",
-      "authorDeathYear": 1652,
-      "editionId": "visscher-de-apocriefe-boeken.nl.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "nl",
-      "originalLanguage": "nl",
-      "originalPublicationYear": 1906,
-      "originalTitle": "De apocriefe boeken",
-      "rights": {
-        "statement": "Public domain worldwide. Adolf Visscher died in 1652 and the work was first published in 1906. Source: nl.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Apocriefe boeken",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T04:11:00.402915Z",
-        "revision": "205902",
-        "url": "https://nl.wikisource.org/wiki/Apocriefe_boeken"
-      },
-      "title": "De apocriefe boeken",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "visscher-de-apocriefe-boeken"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 8,
         "contentSha256": "96fa6853f962063fc1ef6d3f9d5ad9049cb4f9c4d67473b94b3353ce2821ee94",
         "encoding": "gzip",
@@ -870,7 +741,7 @@
   "direction": "ltr",
   "englishName": "Dutch",
   "language": "nl",
-  "manifestVersion": "60cb48b658bb40ca",
+  "manifestVersion": "58da085a47eef67a",
   "nativeName": "Nederlands",
   "schemaVersion": 1
 }

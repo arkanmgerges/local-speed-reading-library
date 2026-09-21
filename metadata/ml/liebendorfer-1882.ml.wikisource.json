@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:48:36.225816Z",
+    "chapterCount": 2,
+    "contentSha256": "0292d2a28df73dc19dddf03340f575b7d478e90364c833badbed2e8d84181f55",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ml/liebendorfer-1882.ml.wikisource/v1/book.json.gz",
+    "sha256": "9cb78f743477b6cb92152b5d6939f593a5687024d4901716df111c11b2f033bd",
+    "sizeBytes": 57834,
+    "uncompressedSizeBytes": 303294,
+    "wordCount": 12973
+  },
+  "edition": {
+    "editionId": "liebendorfer-1882.ml.wikisource",
+    "kind": "original",
+    "language": "ml",
+    "title": "ശരീരശാസ്ത്രം (1882)"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1902: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1882: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q108225280",
+      "https://www.wikidata.org/wiki/Q1372725",
+      "https://ml.wikisource.org/wiki/%E0%B4%B6%E0%B4%B0%E0%B5%80%E0%B4%B0%E0%B4%B6%E0%B4%BE%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82_(1882)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. യൂജിൻ ലീബെൻദർഫെർ died in 1902 and the work was first published in 1882. Source: ml.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "ശരീരശാസ്ത്രം (1882)",
+    "pages": [
+      {
+        "revision": 210346,
+        "title": "ശരീരശാസ്ത്രം (1882)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:48:35.919392Z",
+    "revision": "210346",
+    "site": "ml.wikisource.org",
+    "url": "https://ml.wikisource.org/wiki/%E0%B4%B6%E0%B4%B0%E0%B5%80%E0%B4%B0%E0%B4%B6%E0%B4%BE%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82_(1882)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1852,
+      "deathYear": 1902,
+      "name": "യൂജിൻ ലീബെൻദർഫെർ",
+      "wikidata": "Q1372725"
+    },
+    "originalLanguage": "ml",
+    "originalPublicationYear": 1882,
+    "originalTitle": "ശരീരശാസ്ത്രം (1882)",
+    "workId": "liebendorfer-1882"
+  }
+}

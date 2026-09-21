@@ -3,49 +3,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 5,
-        "contentSha256": "6302b7f86c796a6d5977bfea2e985d4b31b9127633642c383ce944407954fbf7",
-        "encoding": "gzip",
-        "path": "books/vi/b-nh-sach-s-sang-chep-cac-vi-c.vi.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "862989bd82bff6a16e8cc7c5a37740e4ac8dd591f5b5466bdc7a96e7277edfb4",
-        "sizeBytes": 81680,
-        "uncompressedSizeBytes": 348129,
-        "wordCount": 82686
-      },
-      "author": "Philipphê Bỉnh",
-      "authorDeathYear": 1833,
-      "editionId": "b-nh-sach-s-sang-chep-cac-vi-c.vi.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "vi",
-      "originalLanguage": "vi",
-      "originalPublicationYear": 1822,
-      "originalTitle": "Sách sổ sang chép các việc",
-      "rights": {
-        "statement": "Public domain worldwide. Philipphê Bỉnh died in 1833 and the work was first published in 1822. Source: vi.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Sách Sổ sang chép các việc",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T05:22:20.449328Z",
-        "revision": "196797",
-        "url": "https://vi.wikisource.org/wiki/S%C3%A1ch_S%E1%BB%95_sang_ch%C3%A9p_c%C3%A1c_vi%E1%BB%87c"
-      },
-      "title": "Sách sổ sang chép các việc",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "b-nh-sach-s-sang-chep-cac-vi-c"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 37,
         "contentSha256": "0e1494003a7bcca94b57c7946eaa47f91b13ad77909795b37d549c3bdc7283ea",
         "encoding": "gzip",
@@ -348,7 +305,7 @@
   "direction": "ltr",
   "englishName": "Vietnamese",
   "language": "vi",
-  "manifestVersion": "3cda5c86a927105e",
+  "manifestVersion": "07b139098f3a0901",
   "nativeName": "Tiếng Việt",
   "schemaVersion": 1
 }

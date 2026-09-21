@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T09:21:31.659113Z",
+    "chapterCount": 1,
+    "contentSha256": "30ca89e4efa894b8c87beb51706b6274c34ceed579bb27ec5275ae473db41ff3",
+    "normalizerVersion": "0.2.0",
+    "path": "books/as/baruah-lachit-borphukan.as.wikisource/v1/book.json.gz",
+    "sha256": "e3ab41939fc98b03fb40bafbffe3158ab76f87e1e7d2dbf92c273e9ced1c9be9",
+    "sizeBytes": 61950,
+    "uncompressedSizeBytes": 309940,
+    "wordCount": 17291
+  },
+  "edition": {
+    "editionId": "baruah-lachit-borphukan.as.wikisource",
+    "kind": "original",
+    "language": "as",
+    "title": "লাচিত বৰফুকন"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1915: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q131927611",
+      "https://www.wikidata.org/wiki/Q7123860",
+      "https://as.wikisource.org/wiki/%E0%A6%B2%E0%A6%BE%E0%A6%9A%E0%A6%BF%E0%A6%A4_%E0%A6%AC%E0%A7%B0%E0%A6%AB%E0%A7%81%E0%A6%95%E0%A6%A8"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. পদ্মনাথ গোহাঞি বৰুৱা died in 1946 and the work was first published in 1915. Source: as.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "লাচিত বৰফুকন",
+    "pages": [
+      {
+        "revision": 89026,
+        "title": "লাচিত বৰফুকন"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T09:21:31.330586Z",
+    "revision": "89026",
+    "site": "as.wikisource.org",
+    "url": "https://as.wikisource.org/wiki/%E0%A6%B2%E0%A6%BE%E0%A6%9A%E0%A6%BF%E0%A6%A4_%E0%A6%AC%E0%A7%B0%E0%A6%AB%E0%A7%81%E0%A6%95%E0%A6%A8"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1871,
+      "deathYear": 1946,
+      "name": "পদ্মনাথ গোহাঞি বৰুৱা",
+      "wikidata": "Q7123860"
+    },
+    "originalLanguage": "as",
+    "originalPublicationYear": 1915,
+    "originalTitle": "লাচিত বৰফুকন",
+    "workId": "baruah-lachit-borphukan"
+  }
+}

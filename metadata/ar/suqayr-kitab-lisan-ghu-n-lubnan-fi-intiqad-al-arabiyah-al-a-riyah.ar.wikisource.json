@@ -1,0 +1,113 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T09:17:32.401448Z",
+    "chapterCount": 10,
+    "contentSha256": "f523792a171a98b097f698eb336ac5a828371213227abb655abce840747cb22c",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/suqayr-kitab-lisan-ghu-n-lubnan-fi-intiqad-al-arabiyah-al-a-riyah.ar.wikisource/v1/book.json.gz",
+    "sha256": "8457d75b19c05601d83b2926859e9325f023e70c278013fdf388babaec19d8b8",
+    "sizeBytes": 53228,
+    "uncompressedSizeBytes": 177973,
+    "wordCount": 17539
+  },
+  "edition": {
+    "editionId": "suqayr-kitab-lisan-ghu-n-lubnan-fi-intiqad-al-arabiyah-al-a-riyah.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "لسان غصن لبنان في انتقاد العربية العصرية"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1896: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1891: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q132174143",
+      "https://www.wikidata.org/wiki/Q16122409",
+      "https://ar.wikisource.org/wiki/%D9%84%D8%B3%D8%A7%D9%86_%D8%BA%D8%B5%D9%86_%D9%84%D8%A8%D9%86%D8%A7%D9%86_%D9%81%D9%8A_%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%B5%D8%B1%D9%8A%D8%A9"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. شاكر شقير died in 1896 and the work was first published in 1891. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "لسان غصن لبنان في انتقاد العربية العصرية",
+    "pages": [
+      {
+        "revision": 603420,
+        "title": "لسان غصن لبنان في انتقاد العربية العصرية"
+      },
+      {
+        "revision": 520241,
+        "title": "لسان غصن لبنان في انتقاد العربية العصرية/الانتقاد"
+      },
+      {
+        "revision": 522486,
+        "title": "لسان غصن لبنان في انتقاد العربية العصرية/أوجه الانتقاد"
+      },
+      {
+        "revision": 520244,
+        "title": "لسان غصن لبنان في انتقاد العربية العصرية/بيان ما وقع لبعض المشاهير"
+      },
+      {
+        "revision": 520245,
+        "title": "لسان غصن لبنان في انتقاد العربية العصرية/الجزء الأول من الكتاب المذكور"
+      },
+      {
+        "revision": 520246,
+        "title": "لسان غصن لبنان في انتقاد العربية العصرية/الجزء الثاني"
+      },
+      {
+        "revision": 519975,
+        "title": "لسان غصن لبنان في انتقاد العربية العصرية/الجزء الثالث"
+      },
+      {
+        "revision": 520247,
+        "title": "لسان غصن لبنان في انتقاد العربية العصرية/الجزء الرابع"
+      },
+      {
+        "revision": 520118,
+        "title": "لسان غصن لبنان في انتقاد العربية العصرية/في بعض التراكيب السقيمة والألفاظ المعربة"
+      },
+      {
+        "revision": 520380,
+        "title": "لسان غصن لبنان في انتقاد العربية العصرية/شواذ اللغة وشواردها"
+      },
+      {
+        "revision": 520368,
+        "title": "لسان غصن لبنان في انتقاد العربية العصرية/إصلاح غلط"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T09:17:32.124692Z",
+    "revision": "603420",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D9%84%D8%B3%D8%A7%D9%86_%D8%BA%D8%B5%D9%86_%D9%84%D8%A8%D9%86%D8%A7%D9%86_%D9%81%D9%8A_%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%B5%D8%B1%D9%8A%D8%A9"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1850,
+      "deathYear": 1896,
+      "name": "شاكر شقير",
+      "wikidata": "Q16122409"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 1891,
+    "originalTitle": "لسان غصن لبنان في انتقاد العربية العصرية",
+    "workId": "suqayr-kitab-lisan-ghu-n-lubnan-fi-intiqad-al-arabiyah-al-a-riyah"
+  }
+}

@@ -46,92 +46,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 1,
-        "contentSha256": "175171a4238e41ba0ddeaa84537ce6f73a57f071710cd66c29c0153b7b170cc4",
-        "encoding": "gzip",
-        "path": "books/fa/baha-u-llah-kitab-i-iqan.fa.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "a4a9b66c178af667559d43821f3bdea9ad1bb06685991ab6f5406c490cadd931",
-        "sizeBytes": 82582,
-        "uncompressedSizeBytes": 305671,
-        "wordCount": 35842
-      },
-      "author": "بهاءالله",
-      "authorDeathYear": 1892,
-      "editionId": "baha-u-llah-kitab-i-iqan.fa.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "fa",
-      "originalLanguage": "fa",
-      "originalPublicationYear": 1861,
-      "originalTitle": "کتاب ایقان",
-      "rights": {
-        "statement": "Public domain worldwide. بهاءالله died in 1892 and the work was first published in 1861. Source: fa.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "کتاب مستطاب ایقان",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:01:26.365043Z",
-        "revision": "278487",
-        "url": "https://fa.wikisource.org/wiki/%DA%A9%D8%AA%D8%A7%D8%A8_%D9%85%D8%B3%D8%AA%D8%B7%D8%A7%D8%A8_%D8%A7%DB%8C%D9%82%D8%A7%D9%86"
-      },
-      "title": "کتاب ایقان",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "baha-u-llah-kitab-i-iqan"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 1,
-        "contentSha256": "779efabe8eb76867b43dfccd13056cc3e1308cc73cc4072d6164f3862b8cf80d",
-        "encoding": "gzip",
-        "path": "books/fa/baha-u-llah-the-hidden-words.fa.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "5cd30351b5871e43750a49dcd14f9a98c6b9fa2436bcdd5a5ae8fafcc299977e",
-        "sizeBytes": 20911,
-        "uncompressedSizeBytes": 70632,
-        "wordCount": 7614
-      },
-      "author": "بهاءالله",
-      "authorDeathYear": 1892,
-      "editionId": "baha-u-llah-the-hidden-words.fa.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "fa",
-      "originalLanguage": "fa",
-      "originalPublicationYear": 1858,
-      "originalTitle": "کلمات مبارکه مکنونه",
-      "rights": {
-        "statement": "Public domain worldwide. بهاءالله died in 1892 and the work was first published in 1858. Source: fa.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "کلمات مکنونه عربی",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:01:28.395195Z",
-        "revision": "279258",
-        "url": "https://fa.wikisource.org/wiki/%DA%A9%D9%84%D9%85%D8%A7%D8%AA_%D9%85%DA%A9%D9%86%D9%88%D9%86%D9%87_%D8%B9%D8%B1%D8%A8%DB%8C"
-      },
-      "title": "کلمات مبارکه مکنونه",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "baha-u-llah-the-hidden-words"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 3,
         "contentSha256": "e225ef6f2693415d36cc639eb6e23f2c6ca16868d013f5ac11698b41ea18df1c",
         "encoding": "gzip",
@@ -262,7 +176,7 @@
   "direction": "rtl",
   "englishName": "Persian",
   "language": "fa",
-  "manifestVersion": "1a705c6e4a5ab527",
+  "manifestVersion": "8f0fc2ff6726b9cd",
   "nativeName": "فارسی",
   "schemaVersion": 1
 }

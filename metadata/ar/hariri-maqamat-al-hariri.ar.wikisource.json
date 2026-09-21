@@ -1,0 +1,269 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T11:45:35.618973Z",
+    "chapterCount": 51,
+    "contentSha256": "a26e7e5f38c12d6b067b16bd2239c7b3a53fac78fa45b5fe711f5d674495ea47",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/hariri-maqamat-al-hariri.ar.wikisource/v1/book.json.gz",
+    "sha256": "22bbf823e58668889c64f1bf341621cc2801695fd7061de27cac1aacf7f3c5db",
+    "sizeBytes": 189744,
+    "uncompressedSizeBytes": 695934,
+    "wordCount": 53029
+  },
+  "edition": {
+    "editionId": "hariri-maqamat-al-hariri.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "مقامات الحريري"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1122: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1110: more than 95 years ago (US term expired) - the fifty maqamat were completed about 1110, before the author’s death in 1122"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q12244584",
+      "https://www.wikidata.org/wiki/Q286097",
+      "https://en.wikipedia.org/wiki/Maqamat_al-Hariri",
+      "https://ar.wikisource.org/wiki/%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA_%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "statement": "Public domain worldwide. القاسم بن علي الحريري died in 1122 and the work was first published in 1110. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "مقامات الحريري",
+    "pages": [
+      {
+        "revision": 426592,
+        "title": "مقامات الحريري"
+      },
+      {
+        "revision": 404661,
+        "title": "مقامات الحريري/المقامة الإسكندرية"
+      },
+      {
+        "revision": 404662,
+        "title": "مقامات الحريري/المقامة البرقعيدية"
+      },
+      {
+        "revision": 404669,
+        "title": "مقامات الحريري/المقامة البصرية"
+      },
+      {
+        "revision": 404670,
+        "title": "مقامات الحريري/المقامة البغدادية"
+      },
+      {
+        "revision": 404666,
+        "title": "مقامات الحريري/المقامة البكرية"
+      },
+      {
+        "revision": 404665,
+        "title": "مقامات الحريري/المقامة التبريزية"
+      },
+      {
+        "revision": 404664,
+        "title": "مقامات الحريري/المقامة التفليسية"
+      },
+      {
+        "revision": 404663,
+        "title": "مقامات الحريري/المقامة التنيسية"
+      },
+      {
+        "revision": 82601,
+        "title": "مقامات الحريري/المقامة الحجرية"
+      },
+      {
+        "revision": 82604,
+        "title": "مقامات الحريري/المقامة الحرامية"
+      },
+      {
+        "revision": 82607,
+        "title": "مقامات الحريري/المقامة الحلبية"
+      },
+      {
+        "revision": 290040,
+        "title": "مقامات الحريري/المقامة الحلوانية"
+      },
+      {
+        "revision": 82613,
+        "title": "مقامات الحريري/المقامة الدمشقية"
+      },
+      {
+        "revision": 225152,
+        "title": "مقامات الحريري/المقامة الدمياطية"
+      },
+      {
+        "revision": 82619,
+        "title": "مقامات الحريري/المقامة الدينارية"
+      },
+      {
+        "revision": 301699,
+        "title": "مقامات الحريري/المقامة الرازية"
+      },
+      {
+        "revision": 82625,
+        "title": "مقامات الحريري/المقامة الرحبية"
+      },
+      {
+        "revision": 301607,
+        "title": "مقامات الحريري/المقامة الرقطاء"
+      },
+      {
+        "revision": 82631,
+        "title": "مقامات الحريري/المقامة الرملية"
+      },
+      {
+        "revision": 82634,
+        "title": "مقامات الحريري/المقامة الزبيدية"
+      },
+      {
+        "revision": 82637,
+        "title": "مقامات الحريري/المقامة الساسانية"
+      },
+      {
+        "revision": 82640,
+        "title": "مقامات الحريري/المقامة الساوية"
+      },
+      {
+        "revision": 82643,
+        "title": "مقامات الحريري/المقامة السمرقندية"
+      },
+      {
+        "revision": 82646,
+        "title": "مقامات الحريري/المقامة السنجارية"
+      },
+      {
+        "revision": 82649,
+        "title": "مقامات الحريري/المقامة الشتوية"
+      },
+      {
+        "revision": 82652,
+        "title": "مقامات الحريري/المقامة الشعرية"
+      },
+      {
+        "revision": 82655,
+        "title": "مقامات الحريري/المقامة الشيرازية"
+      },
+      {
+        "revision": 130701,
+        "title": "مقامات الحريري/المقامة الصعدية"
+      },
+      {
+        "revision": 271752,
+        "title": "مقامات الحريري/المقامة الصنعانية"
+      },
+      {
+        "revision": 82665,
+        "title": "مقامات الحريري/المقامة الصورية"
+      },
+      {
+        "revision": 82668,
+        "title": "مقامات الحريري/المقامة الطيبية"
+      },
+      {
+        "revision": 82671,
+        "title": "مقامات الحريري/المقامة العمانية"
+      },
+      {
+        "revision": 82674,
+        "title": "مقامات الحريري/المقامة الفارقية"
+      },
+      {
+        "revision": 82677,
+        "title": "مقامات الحريري/المقامة الفراتية"
+      },
+      {
+        "revision": 82680,
+        "title": "مقامات الحريري/المقامة الفرضية"
+      },
+      {
+        "revision": 82684,
+        "title": "مقامات الحريري/المقامة القطيعية"
+      },
+      {
+        "revision": 82687,
+        "title": "مقامات الحريري/المقامة القهقرية"
+      },
+      {
+        "revision": 480807,
+        "title": "مقامات الحريري/المقامة الكرجية"
+      },
+      {
+        "revision": 288146,
+        "title": "مقامات الحريري/المقامة الكوفية"
+      },
+      {
+        "revision": 82696,
+        "title": "مقامات الحريري/المقامة المراغية"
+      },
+      {
+        "revision": 410332,
+        "title": "مقامات الحريري/المقامة المروية"
+      },
+      {
+        "revision": 82702,
+        "title": "مقامات الحريري/المقامة المعرية"
+      },
+      {
+        "revision": 82705,
+        "title": "مقامات الحريري/المقامة المغربية"
+      },
+      {
+        "revision": 82708,
+        "title": "مقامات الحريري/المقامة المكية"
+      },
+      {
+        "revision": 283130,
+        "title": "مقامات الحريري/المقامة الملطية"
+      },
+      {
+        "revision": 82714,
+        "title": "مقامات الحريري/المقامة النجرانية"
+      },
+      {
+        "revision": 82719,
+        "title": "مقامات الحريري/المقامة النصيبية"
+      },
+      {
+        "revision": 82722,
+        "title": "مقامات الحريري/المقامة الواسطية"
+      },
+      {
+        "revision": 82725,
+        "title": "مقامات الحريري/المقامة الوبرية"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T11:45:34.676283Z",
+    "revision": "426592",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA_%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1054,
+      "deathYear": 1122,
+      "name": "القاسم بن علي الحريري",
+      "wikidata": "Q286097"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 1110,
+    "originalTitle": "مقامات الحريري",
+    "workId": "hariri-maqamat-al-hariri"
+  }
+}

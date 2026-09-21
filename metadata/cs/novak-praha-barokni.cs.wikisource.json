@@ -1,0 +1,109 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:06:15.037482Z",
+    "chapterCount": 9,
+    "contentSha256": "3a176e8f4fed9aaac7c409428bc9d7b06140c61abdae6b2fd04165f8f87455fe",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cs/novak-praha-barokni.cs.wikisource/v1/book.json.gz",
+    "sha256": "e4866ebd32d2cece16ae111029d2955c7e42ff5140f4f607d0b7cfcf675d30b7",
+    "sizeBytes": 30267,
+    "uncompressedSizeBytes": 72049,
+    "wordCount": 9024
+  },
+  "edition": {
+    "editionId": "novak-praha-barokni.cs.wikisource",
+    "kind": "original",
+    "language": "cs",
+    "title": "Praha barokní"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1939: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1915: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q19530617",
+      "https://www.wikidata.org/wiki/Q327093",
+      "https://cs.wikisource.org/wiki/Praha_barokn%C3%AD"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Arne Novák died in 1939 and the work was first published in 1915. Source: cs.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Praha barokní",
+    "pages": [
+      {
+        "revision": 219650,
+        "title": "Praha barokní"
+      },
+      {
+        "revision": 219740,
+        "title": "Praha barokní/1"
+      },
+      {
+        "revision": 219741,
+        "title": "Praha barokní/2"
+      },
+      {
+        "revision": 219742,
+        "title": "Praha barokní/3"
+      },
+      {
+        "revision": 296884,
+        "title": "Praha barokní/4"
+      },
+      {
+        "revision": 219744,
+        "title": "Praha barokní/5"
+      },
+      {
+        "revision": 219745,
+        "title": "Praha barokní/6"
+      },
+      {
+        "revision": 219746,
+        "title": "Praha barokní/7"
+      },
+      {
+        "revision": 219747,
+        "title": "Praha barokní/8"
+      },
+      {
+        "revision": 219748,
+        "title": "Praha barokní/Poznámka"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:06:14.879370Z",
+    "revision": "219650",
+    "site": "cs.wikisource.org",
+    "url": "https://cs.wikisource.org/wiki/Praha_barokn%C3%AD"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1880,
+      "deathYear": 1939,
+      "name": "Arne Novák",
+      "wikidata": "Q327093"
+    },
+    "originalLanguage": "cs",
+    "originalPublicationYear": 1915,
+    "originalTitle": "Praha barokní",
+    "workId": "novak-praha-barokni"
+  }
+}

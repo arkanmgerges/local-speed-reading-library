@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:38:55.127197Z",
+    "chapterCount": 1,
+    "contentSha256": "e1ca1c409825d8fe4c9f84d540ed63b93705d5d95f2d2faf11d65d47c039880f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ja/ogai-the-abe-family.ja.wikisource/v1/book.json.gz",
+    "sha256": "a9f9f6211030bd4fec29409950753f43d4e3ea417350b8d47710c228982108d9",
+    "sizeBytes": 34070,
+    "uncompressedSizeBytes": 97734,
+    "wordCount": 172
+  },
+  "edition": {
+    "editionId": "ogai-the-abe-family.ja.wikisource",
+    "kind": "original",
+    "language": "ja",
+    "title": "阿部一族"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1922: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1913: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q11657723",
+      "https://www.wikidata.org/wiki/Q356960",
+      "https://ja.wikisource.org/wiki/%E9%98%BF%E9%83%A8%E4%B8%80%E6%97%8F"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 森鷗外 died in 1922 and the work was first published in 1913. Source: ja.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "阿部一族",
+    "pages": [
+      {
+        "revision": 173013,
+        "title": "阿部一族"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:38:55.042074Z",
+    "revision": "173013",
+    "site": "ja.wikisource.org",
+    "url": "https://ja.wikisource.org/wiki/%E9%98%BF%E9%83%A8%E4%B8%80%E6%97%8F"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1862,
+      "deathYear": 1922,
+      "name": "森鷗外",
+      "wikidata": "Q356960"
+    },
+    "originalLanguage": "ja",
+    "originalPublicationYear": 1913,
+    "originalTitle": "阿部一族",
+    "workId": "ogai-the-abe-family"
+  }
+}

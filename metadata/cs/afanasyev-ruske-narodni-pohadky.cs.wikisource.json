@@ -1,0 +1,251 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:00:49.768502Z",
+    "chapterCount": 51,
+    "contentSha256": "1f9ffb933393bf4cccfe9b03499862dff1fba62e26744d04105be80182adfb7b",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cs/afanasyev-ruske-narodni-pohadky.cs.wikisource/v1/book.json.gz",
+    "sha256": "70d7c586a3fcea77917f5ca71601a8c18780f69eb9787c8c4258af558cf83870",
+    "sizeBytes": 159900,
+    "uncompressedSizeBytes": 454255,
+    "wordCount": 68303
+  },
+  "edition": {
+    "editionId": "afanasyev-ruske-narodni-pohadky.cs.wikisource",
+    "kind": "translation",
+    "language": "cs",
+    "title": "Ruské národní pohádky",
+    "translationPublicationYear": 1883,
+    "translator": {
+      "birthYear": 1841,
+      "deathYear": 1917,
+      "name": "František Vymazal",
+      "wikidata": "Q3561923"
+    }
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1871: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translator died 1917: more than 70 years ago in every life-plus-70 jurisdiction",
+      "translation first published 1883: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q2370698",
+      "https://www.wikidata.org/wiki/Q29076437",
+      "https://www.wikidata.org/wiki/Q325004",
+      "https://www.wikidata.org/wiki/Q3561923",
+      "https://cs.wikisource.org/wiki/Rusk%C3%A9_n%C3%A1rodn%C3%AD_poh%C3%A1dky"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Alexander Afanasyev died in 1871; the translator František Vymazal died in 1917 and this translation was first published in 1883. Source: cs.wikisource.org transcription.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Ruské národní pohádky",
+    "pages": [
+      {
+        "revision": 292188,
+        "title": "Ruské národní pohádky"
+      },
+      {
+        "revision": 292163,
+        "title": "Ruské národní pohádky/Staré pohostinství se zapomíná"
+      },
+      {
+        "revision": 292118,
+        "title": "Ruské národní pohádky/Kocour a liška"
+      },
+      {
+        "revision": 292117,
+        "title": "Ruské národní pohádky/Jeřáb a volavka"
+      },
+      {
+        "revision": 292186,
+        "title": "Ruské národní pohádky/Zlatá rybka"
+      },
+      {
+        "revision": 292159,
+        "title": "Ruské národní pohádky/Pohádka o Ježdíku"
+      },
+      {
+        "revision": 292158,
+        "title": "Ruské národní pohádky/O štice zubaté"
+      },
+      {
+        "revision": 292165,
+        "title": "Ruské národní pohádky/Věďma a Sluncova sestra"
+      },
+      {
+        "revision": 292164,
+        "title": "Ruské národní pohádky/Vazuza a Volha"
+      },
+      {
+        "revision": 292120,
+        "title": "Ruské národní pohádky/Krošečka-Chavrošička"
+      },
+      {
+        "revision": 292121,
+        "title": "Ruské národní pohádky/Krásná Vasilisa"
+      },
+      {
+        "revision": 284734,
+        "title": "Ruské národní pohádky/Zvíře norka"
+      },
+      {
+        "revision": 292122,
+        "title": "Ruské národní pohádky/Kulihrášek"
+      },
+      {
+        "revision": 292187,
+        "title": "Ruské národní pohádky/Zorka, Večerka a Půlnocka"
+      },
+      {
+        "revision": 290806,
+        "title": "Ruské národní pohádky/Létací koráb"
+      },
+      {
+        "revision": 292161,
+        "title": "Ruské národní pohádky/Sedm Semenů (Šimonů)"
+      },
+      {
+        "revision": 292157,
+        "title": "Ruské národní pohádky/Nikita Koželuh"
+      },
+      {
+        "revision": 292088,
+        "title": "Ruské národní pohádky/Dva Ivani vojenští synové"
+      },
+      {
+        "revision": 292090,
+        "title": "Ruské národní pohádky/Ivan carovic a Bílý Polanín"
+      },
+      {
+        "revision": 290813,
+        "title": "Ruské národní pohádky/Pohádka o Ivanu carovici, ptáku ohniváku a o šerém vlku"
+      },
+      {
+        "revision": 292123,
+        "title": "Ruské národní pohádky/Kůň, ubrus a růžek"
+      },
+      {
+        "revision": 292084,
+        "title": "Ruské národní pohádky/Beznohý a slepý bohatýr"
+      },
+      {
+        "revision": 292119,
+        "title": "Ruské národní pohádky/Koupená žena"
+      },
+      {
+        "revision": 292089,
+        "title": "Ruské národní pohádky/Helena Moudrá"
+      },
+      {
+        "revision": 292126,
+        "title": "Ruské národní pohádky/Mořský car a moudrá Vasilisa"
+      },
+      {
+        "revision": 292086,
+        "title": "Ruské národní pohádky/Chytré učení"
+      },
+      {
+        "revision": 292087,
+        "title": "Ruské národní pohádky/Div"
+      },
+      {
+        "revision": 290799,
+        "title": "Ruské národní pohádky/Jdi tam — nevím kam, přines to — nevím co"
+      },
+      {
+        "revision": 292160,
+        "title": "Ruské národní pohádky/Poklad"
+      },
+      {
+        "revision": 292162,
+        "title": "Ruské národní pohádky/Sestřička Helenka a bratříček Ivánek"
+      },
+      {
+        "revision": 292185,
+        "title": "Ruské národní pohádky/Zakletá královna"
+      },
+      {
+        "revision": 284718,
+        "title": "Ruské národní pohádky/Křivoručka"
+      },
+      {
+        "revision": 292156,
+        "title": "Ruské národní pohádky/Nevěda"
+      },
+      {
+        "revision": 292124,
+        "title": "Ruské národní pohádky/Licho jednooké"
+      },
+      {
+        "revision": 292125,
+        "title": "Ruské národní pohádky/Marko Bohatý a Vasil Nešťastný"
+      },
+      {
+        "revision": 284716,
+        "title": "Ruské národní pohádky/Historie o slavném a chrabrém bohatýru Ilji Muromci a o Slavíku loupežníku"
+      },
+      {
+        "revision": 290821,
+        "title": "Ruské národní pohádky/Štěstí a neštěstí"
+      },
+      {
+        "revision": 290811,
+        "title": "Ruské národní pohádky/O Mamaji bezbožném"
+      },
+      {
+        "revision": 284725,
+        "title": "Ruské národní pohádky/Sněhurka"
+      },
+      {
+        "revision": 284720,
+        "title": "Ruské národní pohádky/Lipka"
+      },
+      {
+        "revision": 284721,
+        "title": "Ruské národní pohádky/O hloupém Ivánkovi"
+      },
+      {
+        "revision": 292085,
+        "title": "Ruské národní pohádky/Bůh ví čím člověka trestati"
+      },
+      {
+        "revision": 284724,
+        "title": "Ruské národní pohádky/Přídavek"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:00:48.716238Z",
+    "revision": "292188",
+    "site": "cs.wikisource.org",
+    "url": "https://cs.wikisource.org/wiki/Rusk%C3%A9_n%C3%A1rodn%C3%AD_poh%C3%A1dky"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1826,
+      "deathYear": 1871,
+      "name": "Alexander Afanasyev",
+      "wikidata": "Q325004"
+    },
+    "originalLanguage": "be",
+    "originalPublicationYear": 1855,
+    "originalTitle": "Ruské národní pohádky",
+    "workId": "afanasyev-ruske-narodni-pohadky"
+  }
+}

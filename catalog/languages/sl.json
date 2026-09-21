@@ -218,6 +218,49 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 19,
+        "contentSha256": "9f53ef77e6b5ad81ce19ba3e5719a898d0b4e00884f8c44f9def69fa7eedcaef",
+        "encoding": "gzip",
+        "path": "books/sl/govekar-v-krvi.sl.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0d38f57967695b505081f246c6d26f3527e96f37357b694d5fe044bbea7050b3",
+        "sizeBytes": 131709,
+        "uncompressedSizeBytes": 330593,
+        "wordCount": 51569
+      },
+      "author": "Fran Govekar",
+      "authorDeathYear": 1949,
+      "editionId": "govekar-v-krvi.sl.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "sl",
+      "originalLanguage": "sl",
+      "originalPublicationYear": 1896,
+      "originalTitle": "V krvi",
+      "rights": {
+        "statement": "Public domain worldwide. Fran Govekar died in 1949 and the work was first published in 1896. Source: sl.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "V krvi",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:51:13.671625Z",
+        "revision": "170645",
+        "url": "https://sl.wikisource.org/wiki/V_krvi"
+      },
+      "title": "V krvi",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "govekar-v-krvi"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 26,
         "contentSha256": "e6387421ad18528b52486e83018d7f9692cd7936c987b3ee9b270089397165b2",
         "encoding": "gzip",
@@ -821,7 +864,7 @@
   "direction": "ltr",
   "englishName": "Slovenian",
   "language": "sl",
-  "manifestVersion": "3ae6e2256fae9eb5",
+  "manifestVersion": "384359dea9629df2",
   "nativeName": "Slovenščina",
   "schemaVersion": 1
 }

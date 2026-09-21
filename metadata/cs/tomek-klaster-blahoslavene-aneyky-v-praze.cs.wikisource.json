@@ -1,0 +1,89 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:09:37.840548Z",
+    "chapterCount": 4,
+    "contentSha256": "3cfb5fc69ee54e45d7246338abe7455853446f060b5a018740e0179e3f329fee",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cs/tomek-klaster-blahoslavene-aneyky-v-praze.cs.wikisource/v1/book.json.gz",
+    "sha256": "0767e7a9e121c4eea8757d44ea0e2dd632a0368fd22dd6c17ab5844e1527abbb",
+    "sizeBytes": 19832,
+    "uncompressedSizeBytes": 53013,
+    "wordCount": 6979
+  },
+  "edition": {
+    "editionId": "tomek-klaster-blahoslavene-aneyky-v-praze.cs.wikisource",
+    "kind": "original",
+    "language": "cs",
+    "title": "Klášter blahoslavené Anežky v Praze"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1905: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1892: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q19526989",
+      "https://www.wikidata.org/wiki/Q324157",
+      "https://cs.wikisource.org/wiki/Kl%C3%A1%C5%A1ter_blahoslaven%C3%A9_Ane%C5%BEky_v_Praze"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Václav Vladivoj Tomek died in 1905 and the work was first published in 1892. Source: cs.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Klášter blahoslavené Anežky v Praze",
+    "pages": [
+      {
+        "revision": 234671,
+        "title": "Klášter blahoslavené Anežky v Praze"
+      },
+      {
+        "revision": 234674,
+        "title": "Klášter blahoslavené Anežky v Praze/Předmluva"
+      },
+      {
+        "revision": 296605,
+        "title": "Klášter blahoslavené Anežky v Praze/I. Čásť dějepisná"
+      },
+      {
+        "revision": 296606,
+        "title": "Klášter blahoslavené Anežky v Praze/II. Čásť archaeologická"
+      },
+      {
+        "revision": 227157,
+        "title": "Klášter blahoslavené Anežky v Praze/Seznam připojených ilustrací"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:09:37.690135Z",
+    "revision": "234671",
+    "site": "cs.wikisource.org",
+    "url": "https://cs.wikisource.org/wiki/Kl%C3%A1%C5%A1ter_blahoslaven%C3%A9_Ane%C5%BEky_v_Praze"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1818,
+      "deathYear": 1905,
+      "name": "Václav Vladivoj Tomek",
+      "wikidata": "Q324157"
+    },
+    "originalLanguage": "cs",
+    "originalPublicationYear": 1892,
+    "originalTitle": "Klášter blahoslavené Anežky v Praze",
+    "workId": "tomek-klaster-blahoslavene-aneyky-v-praze"
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T11:52:17.809493Z",
+    "chapterCount": 51,
+    "contentSha256": "99365e5d24501c2ddacc841c9ccd326c0e2b8b4598b4fcb05836914a826d0dfa",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/hamadhani-maqamat-badi-al-zaman.ar.wikisource/v1/book.json.gz",
+    "sha256": "1f8d0bea6ebcee12d8930d98680ff4b3e7f66c919be61c1b69c4d898ed0d3ce1",
+    "sizeBytes": 89230,
+    "uncompressedSizeBytes": 354736,
+    "wordCount": 20608
+  },
+  "edition": {
+    "editionId": "hamadhani-maqamat-badi-al-zaman.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "notes": "The index page on ar.wikisource is titled after the author; the 51 maqamat are its linked subpages.",
+    "title": "مقامات بديع الزمان الهمذاني"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1007: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1007: more than 95 years ago (US term expired) - composed in the late 10th century, no later than the author’s death in 1007"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q6754265",
+      "https://www.wikidata.org/wiki/Q374608",
+      "https://en.wikipedia.org/wiki/Badi%27_al-Zaman_al-Hamadani",
+      "https://ar.wikisource.org/wiki/%D8%A8%D8%AF%D9%8A%D8%B9_%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D9%87%D9%85%D8%B0%D8%A7%D9%86%D9%8A"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "statement": "Public domain worldwide. بديع الزمان الهمذاني died in 1007 and the work was first published in 1007. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "بديع الزمان الهمذاني",
+    "pages": [
+      {
+        "revision": 601118,
+        "title": "بديع الزمان الهمذاني"
+      },
+      {
+        "revision": 602188,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة القريضية"
+      },
+      {
+        "revision": 602190,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الأزاذية"
+      },
+      {
+        "revision": 602191,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة البلخية"
+      },
+      {
+        "revision": 601152,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة السجستانية"
+      },
+      {
+        "revision": 601164,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الكوفية"
+      },
+      {
+        "revision": 601115,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الأسدية"
+      },
+      {
+        "revision": 601159,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الغيلانية"
+      },
+      {
+        "revision": 601112,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الأذربيجانية"
+      },
+      {
+        "revision": 601143,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الجرجانية"
+      },
+      {
+        "revision": 601139,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الأصفهانية"
+      },
+      {
+        "revision": 601140,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الأهوازية"
+      },
+      {
+        "revision": 601134,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة البغدادية"
+      },
+      {
+        "revision": 601133,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة البصرية"
+      },
+      {
+        "revision": 601162,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الفزارية"
+      },
+      {
+        "revision": 601142,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الجاحظية"
+      },
+      {
+        "revision": 601170,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة المكفوفية"
+      },
+      {
+        "revision": 601136,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة البخارية"
+      },
+      {
+        "revision": 601163,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة القزوينية"
+      },
+      {
+        "revision": 601151,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الساسانية"
+      },
+      {
+        "revision": 601179,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة القردية"
+      },
+      {
+        "revision": 601172,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الموصلية"
+      },
+      {
+        "revision": 601161,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة المضيرية"
+      },
+      {
+        "revision": 601144,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الحرزية"
+      },
+      {
+        "revision": 601165,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة المارستانية"
+      },
+      {
+        "revision": 601167,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة المجاعية"
+      },
+      {
+        "revision": 601160,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الوعظية"
+      },
+      {
+        "revision": 601116,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الأسودية"
+      },
+      {
+        "revision": 601157,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة العراقية"
+      },
+      {
+        "revision": 601146,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الحمدانية"
+      },
+      {
+        "revision": 601149,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الرصافية"
+      },
+      {
+        "revision": 601169,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة المغزلية"
+      },
+      {
+        "revision": 601158,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الشيرازية"
+      },
+      {
+        "revision": 601145,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الحلوانية"
+      },
+      {
+        "revision": 601174,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة النهيدية"
+      },
+      {
+        "revision": 601137,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الإبليسية"
+      },
+      {
+        "revision": 601113,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الأرمنية"
+      },
+      {
+        "revision": 601173,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الناجمية"
+      },
+      {
+        "revision": 601147,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الخلفية"
+      },
+      {
+        "revision": 601175,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة النيسابورية"
+      },
+      {
+        "revision": 601166,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة العلمية"
+      },
+      {
+        "revision": 601176,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الوصية"
+      },
+      {
+        "revision": 601156,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الصيمرية"
+      },
+      {
+        "revision": 601148,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الدينارية"
+      },
+      {
+        "revision": 601153,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الشعرية"
+      },
+      {
+        "revision": 601171,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الملوكية"
+      },
+      {
+        "revision": 601155,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الصفرية"
+      },
+      {
+        "revision": 601150,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة السارية"
+      },
+      {
+        "revision": 601141,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة التميمية"
+      },
+      {
+        "revision": 601181,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة الخمرية"
+      },
+      {
+        "revision": 601168,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة المطلبية"
+      },
+      {
+        "revision": 601132,
+        "title": "مقامات بديع الزمان الهمذاني/المقامة البشرية"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T11:46:46.751761Z",
+    "revision": "601118",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%A8%D8%AF%D9%8A%D8%B9_%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D9%87%D9%85%D8%B0%D8%A7%D9%86%D9%8A"
+  },
+  "work": {
+    "author": {
+      "birthYear": 967,
+      "deathYear": 1007,
+      "name": "بديع الزمان الهمذاني",
+      "wikidata": "Q374608"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 1007,
+    "originalTitle": "مقامات بديع الزمان الهمذاني",
+    "workId": "hamadhani-maqamat-badi-al-zaman"
+  }
+}

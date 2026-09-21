@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:38:53.072906Z",
+    "chapterCount": 1,
+    "contentSha256": "af0171e08de4959f41eb4471e306edf73db61f9cff184c36c7e3342a4753a52f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ja/ogai-sansho-dayu.ja.wikisource/v1/book.json.gz",
+    "sha256": "2010c729c53f943ab898988a59326f1693c84440d61c718873ae9911238ff40c",
+    "sizeBytes": 25946,
+    "uncompressedSizeBytes": 76977,
+    "wordCount": 227
+  },
+  "edition": {
+    "editionId": "ogai-sansho-dayu.ja.wikisource",
+    "kind": "original",
+    "language": "ja",
+    "title": "山椒大夫"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1922: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1915: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q124422176",
+      "https://www.wikidata.org/wiki/Q356960",
+      "https://ja.wikisource.org/wiki/%E5%B1%B1%E6%A4%92%E5%A4%A7%E5%A4%AB"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. 森鷗外 died in 1922 and the work was first published in 1915. Source: ja.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "山椒大夫",
+    "pages": [
+      {
+        "revision": 173009,
+        "title": "山椒大夫"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:38:53.002034Z",
+    "revision": "173009",
+    "site": "ja.wikisource.org",
+    "url": "https://ja.wikisource.org/wiki/%E5%B1%B1%E6%A4%92%E5%A4%A7%E5%A4%AB"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1862,
+      "deathYear": 1922,
+      "name": "森鷗外",
+      "wikidata": "Q356960"
+    },
+    "originalLanguage": "ja",
+    "originalPublicationYear": 1915,
+    "originalTitle": "山椒大夫",
+    "workId": "ogai-sansho-dayu"
+  }
+}

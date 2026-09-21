@@ -261,6 +261,49 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "a724276c4ec00ee3c1604be5eb5d871e3fa8b392608b6e9c9ce8e3394de65ff7",
+        "encoding": "gzip",
+        "path": "books/da/blicher-brudstykker-af-en-landsbydegns-dagbog.da.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "b39d861ae94618454fb3365e328c3359b1c4f583e8bb176e966c4211df2c4bf1",
+        "sizeBytes": 24445,
+        "uncompressedSizeBytes": 60414,
+        "wordCount": 10358
+      },
+      "author": "Steen Steensen Blicher",
+      "authorDeathYear": 1848,
+      "editionId": "blicher-brudstykker-af-en-landsbydegns-dagbog.da.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "da",
+      "originalLanguage": "da",
+      "originalPublicationYear": 1824,
+      "originalTitle": "Brudstykker af en Landsbydegns Dagbog",
+      "rights": {
+        "statement": "Public domain worldwide. Steen Steensen Blicher died in 1848 and the work was first published in 1824. Source: da.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Brudstykker af en Landsbydegns Dagbog",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:11:13.782262Z",
+        "revision": "48244",
+        "url": "https://da.wikisource.org/wiki/Brudstykker_af_en_Landsbydegns_Dagbog"
+      },
+      "title": "Brudstykker af en Landsbydegns Dagbog",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "blicher-brudstykker-af-en-landsbydegns-dagbog"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 51,
         "contentSha256": "37d246038e59f1b39a7af51ca757d128f206e7cb706c012bba7e72761a01cb69",
         "encoding": "gzip",
@@ -823,7 +866,7 @@
   "direction": "ltr",
   "englishName": "Danish",
   "language": "da",
-  "manifestVersion": "7dfd5ad7c4420f3c",
+  "manifestVersion": "405e82beba5316ff",
   "nativeName": "Dansk",
   "schemaVersion": 1
 }

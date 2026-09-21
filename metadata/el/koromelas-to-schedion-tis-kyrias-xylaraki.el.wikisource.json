@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:15:26.198504Z",
+    "chapterCount": 1,
+    "contentSha256": "6eb5b5b9ff5007d453cfab6f9824777b0b0c4b53d9dbaa29a8394caa6ed257a6",
+    "normalizerVersion": "0.2.0",
+    "path": "books/el/koromelas-to-schedion-tis-kyrias-xylaraki.el.wikisource/v1/book.json.gz",
+    "sha256": "61f8c0fc91c1b44aa1ae5dbcf0beb6fbac788998c37f6aadd6befbdccdab3df5",
+    "sizeBytes": 19423,
+    "uncompressedSizeBytes": 81046,
+    "wordCount": 6664
+  },
+  "edition": {
+    "editionId": "koromelas-to-schedion-tis-kyrias-xylaraki.el.wikisource",
+    "kind": "original",
+    "language": "el",
+    "title": "Το σχέδιον της κυρίας Ξυλαράκη"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1898: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1888: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q108145280",
+      "https://www.wikidata.org/wiki/Q12875998",
+      "https://el.wikisource.org/wiki/%CE%95%CF%84%CE%AE%CF%83%CE%B9%CE%BF%CE%BD_%CE%97%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%CE%BD_%CF%84%CE%BF%CF%85_%CE%88%CF%84%CE%BF%CF%85%CF%82_1888%2F%CE%A4%CE%BF_%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%BF%CE%BD_%CF%84%CE%B7%CF%82_%CE%BA%CF%85%CF%81%CE%AF%CE%B1%CF%82_%CE%9E%CF%85%CE%BB%CE%B1%CF%81%CE%AC%CE%BA%CE%B7"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Δημήτριος Κορομηλάς died in 1898 and the work was first published in 1888. Source: el.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Ετήσιον Ημερολόγιον του Έτους 1888/Το σχέδιον της κυρίας Ξυλαράκη",
+    "pages": [
+      {
+        "revision": 113944,
+        "title": "Ετήσιον Ημερολόγιον του Έτους 1888/Το σχέδιον της κυρίας Ξυλαράκη"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:15:26.090803Z",
+    "revision": "113944",
+    "site": "el.wikisource.org",
+    "url": "https://el.wikisource.org/wiki/%CE%95%CF%84%CE%AE%CF%83%CE%B9%CE%BF%CE%BD_%CE%97%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%CE%BD_%CF%84%CE%BF%CF%85_%CE%88%CF%84%CE%BF%CF%85%CF%82_1888/%CE%A4%CE%BF_%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%BF%CE%BD_%CF%84%CE%B7%CF%82_%CE%BA%CF%85%CF%81%CE%AF%CE%B1%CF%82_%CE%9E%CF%85%CE%BB%CE%B1%CF%81%CE%AC%CE%BA%CE%B7"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1850,
+      "deathYear": 1898,
+      "name": "Δημήτριος Κορομηλάς",
+      "wikidata": "Q12875998"
+    },
+    "originalLanguage": "el",
+    "originalPublicationYear": 1888,
+    "originalTitle": "Το σχέδιον της κυρίας Ξυλαράκη",
+    "workId": "koromelas-to-schedion-tis-kyrias-xylaraki"
+  }
+}

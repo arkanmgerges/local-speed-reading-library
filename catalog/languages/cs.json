@@ -46,6 +46,49 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 51,
+        "contentSha256": "1f9ffb933393bf4cccfe9b03499862dff1fba62e26744d04105be80182adfb7b",
+        "encoding": "gzip",
+        "path": "books/cs/afanasyev-ruske-narodni-pohadky.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "70d7c586a3fcea77917f5ca71601a8c18780f69eb9787c8c4258af558cf83870",
+        "sizeBytes": 159900,
+        "uncompressedSizeBytes": 454255,
+        "wordCount": 68303
+      },
+      "author": "Alexander Afanasyev",
+      "authorDeathYear": 1871,
+      "editionId": "afanasyev-ruske-narodni-pohadky.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "cs",
+      "originalLanguage": "be",
+      "originalPublicationYear": 1855,
+      "originalTitle": "Ruské národní pohádky",
+      "rights": {
+        "statement": "Public domain worldwide. Alexander Afanasyev died in 1871; the translator František Vymazal died in 1917 and this translation was first published in 1883. Source: cs.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Ruské národní pohádky",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:00:48.716238Z",
+        "revision": "292188",
+        "url": "https://cs.wikisource.org/wiki/Rusk%C3%A9_n%C3%A1rodn%C3%AD_poh%C3%A1dky"
+      },
+      "title": "Ruské národní pohádky",
+      "translationPublicationYear": 1883,
+      "translator": "František Vymazal",
+      "translatorDeathYear": 1917,
+      "workId": "afanasyev-ruske-narodni-pohadky"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 1,
         "contentSha256": "bc253095f6113f44eb5907e3bf5f52d5c9923c6ea5d548428e2bfca5b6a412c4",
         "encoding": "gzip",
@@ -85,6 +128,49 @@
       "translator": "Josef Mikuláš Boleslavský",
       "translatorDeathYear": 1892,
       "workId": "andersen-vodni-panna"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 30,
+        "contentSha256": "8bc0ed85263c313ea73600246ed017b8377e5dc5a41464f22d36f7d47a50a6d3",
+        "encoding": "gzip",
+        "path": "books/cs/boezina-tajemne-dalky.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "1eab99c5bfee15ca54994143318391bb51fa7d6655090d9ef64b5e211137917b",
+        "sizeBytes": 21386,
+        "uncompressedSizeBytes": 61224,
+        "wordCount": 7641
+      },
+      "author": "Otokar Březina",
+      "authorDeathYear": 1929,
+      "editionId": "boezina-tajemne-dalky.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "cs",
+      "originalLanguage": "cs",
+      "originalPublicationYear": 1895,
+      "originalTitle": "Tajemné dálky",
+      "rights": {
+        "statement": "Public domain worldwide. Otokar Březina died in 1929 and the work was first published in 1895. Source: cs.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Tajemné dálky",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:02:22.121091Z",
+        "revision": "233922",
+        "url": "https://cs.wikisource.org/wiki/Tajemn%C3%A9_d%C3%A1lky"
+      },
+      "title": "Tajemné dálky",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "boezina-tajemne-dalky"
     },
     {
       "asset": {
@@ -218,6 +304,135 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 12,
+        "contentSha256": "4b7877630ac89d94bb57c7678cdfa0f60c4e68717529bb54778cb53e3ae8ed6f",
+        "encoding": "gzip",
+        "path": "books/cs/halek-na-vejminku.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9dfdb9f932a667f2130ff0a93e15b36569312285abe153eed1f9981afb3e6186",
+        "sizeBytes": 91881,
+        "uncompressedSizeBytes": 247952,
+        "wordCount": 36872
+      },
+      "author": "Vítězslav Hálek",
+      "authorDeathYear": 1874,
+      "editionId": "halek-na-vejminku.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "cs",
+      "originalLanguage": "cs",
+      "originalPublicationYear": 1872,
+      "originalTitle": "Na vejminku",
+      "rights": {
+        "statement": "Public domain worldwide. Vítězslav Hálek died in 1874 and the work was first published in 1872. Source: cs.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Na vejminku",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:03:33.857078Z",
+        "revision": "304835",
+        "url": "https://cs.wikisource.org/wiki/Na_vejminku"
+      },
+      "title": "Na vejminku",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "halek-na-vejminku"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 6,
+        "contentSha256": "d2b90dca9bcf819b7563caa9c1b12caf55c22af1374ed0b02fe2b5162d0810ac",
+        "encoding": "gzip",
+        "path": "books/cs/heveroch-o-podivinech-a-lidech-napadnuch.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "56c18d16989dc7c4b48527eefe01794bfe06f1385492894f9ad62836c562cc4e",
+        "sizeBytes": 101517,
+        "uncompressedSizeBytes": 253095,
+        "wordCount": 34613
+      },
+      "author": "Antonín Heveroch",
+      "authorDeathYear": 1927,
+      "editionId": "heveroch-o-podivinech-a-lidech-napadnuch.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "cs",
+      "originalLanguage": "cs",
+      "originalPublicationYear": 1901,
+      "originalTitle": "O podivínech a lidech nápadných",
+      "rights": {
+        "statement": "Public domain worldwide. Antonín Heveroch died in 1927 and the work was first published in 1901. Source: cs.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "O podivínech a lidech nápadných",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:04:12.141175Z",
+        "revision": "286010",
+        "url": "https://cs.wikisource.org/wiki/O_podiv%C3%ADnech_a_lidech_n%C3%A1padn%C3%BDch"
+      },
+      "title": "O podivínech a lidech nápadných",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "heveroch-o-podivinech-a-lidech-napadnuch"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "4b1a7fa03fdae9343460316070f862db0d104a8a45ad0e1f400fa5b2cf7bcc50",
+        "encoding": "gzip",
+        "path": "books/cs/kolao-nejstarsi-peceti-slechty-ceske-ay-do-roku.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "421099b07efb6e7999c6d93d244420869b6c65cc2d32f9a523921b79358875f6",
+        "sizeBytes": 27621,
+        "uncompressedSizeBytes": 69719,
+        "wordCount": 9734
+      },
+      "author": "Martin Kolář",
+      "authorDeathYear": 1898,
+      "editionId": "kolao-nejstarsi-peceti-slechty-ceske-ay-do-roku.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "cs",
+      "originalLanguage": "cs",
+      "originalPublicationYear": 1883,
+      "originalTitle": "Nejstarší pečeti šlechty české až do roku 1300",
+      "rights": {
+        "statement": "Public domain worldwide. Martin Kolář died in 1898 and the work was first published in 1883. Source: cs.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Nejstarší pečeti šlechty české až do roku 1300",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:05:14.939554Z",
+        "revision": "281635",
+        "url": "https://cs.wikisource.org/wiki/Nejstar%C5%A1%C3%AD_pe%C4%8Deti_%C5%A1lechty_%C4%8Desk%C3%A9_a%C5%BE_do_roku_1300"
+      },
+      "title": "Nejstarší pečeti šlechty české až do roku 1300",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "kolao-nejstarsi-peceti-slechty-ceske-ay-do-roku"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 21,
         "contentSha256": "2ef02edfb554f77bc5957c70bad9b04c890709b5f622bdedf286046641a29006",
         "encoding": "gzip",
@@ -257,6 +472,49 @@
       "translator": "Bořivoj Prusík",
       "translatorDeathYear": 1928,
       "workId": "meyrink-golem"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 9,
+        "contentSha256": "3a176e8f4fed9aaac7c409428bc9d7b06140c61abdae6b2fd04165f8f87455fe",
+        "encoding": "gzip",
+        "path": "books/cs/novak-praha-barokni.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "e4866ebd32d2cece16ae111029d2955c7e42ff5140f4f607d0b7cfcf675d30b7",
+        "sizeBytes": 30267,
+        "uncompressedSizeBytes": 72049,
+        "wordCount": 9024
+      },
+      "author": "Arne Novák",
+      "authorDeathYear": 1939,
+      "editionId": "novak-praha-barokni.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "cs",
+      "originalLanguage": "cs",
+      "originalPublicationYear": 1915,
+      "originalTitle": "Praha barokní",
+      "rights": {
+        "statement": "Public domain worldwide. Arne Novák died in 1939 and the work was first published in 1915. Source: cs.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Praha barokní",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:06:14.879370Z",
+        "revision": "219650",
+        "url": "https://cs.wikisource.org/wiki/Praha_barokn%C3%AD"
+      },
+      "title": "Praha barokní",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "novak-praha-barokni"
     },
     {
       "asset": {
@@ -348,6 +606,49 @@
       "asset": {
         "assetVersion": 1,
         "chapterCount": 147,
+        "contentSha256": "5e99c0ae73a4251f46bf01aa4c3a22d60cd316aa037307ec3a8f9741c6aa705d",
+        "encoding": "gzip",
+        "path": "books/cs/thucydides-sepsani-valky-peloponnesske.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "68205f4077cb9d782b308abec532f9d2eb03b79beabc074c3b4101ca06725532",
+        "sizeBytes": 79025,
+        "uncompressedSizeBytes": 269251,
+        "wordCount": 33208
+      },
+      "author": "Thucydides",
+      "authorDeathYear": -394,
+      "editionId": "thucydides-sepsani-valky-peloponnesske.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "cs",
+      "originalLanguage": "grc",
+      "originalPublicationYear": null,
+      "originalTitle": "Sepsání války peloponnesské",
+      "rights": {
+        "statement": "Public domain worldwide. Thucydides died in -394; the translator Jan Nepomuk František Desolda died in 1885 and this translation was first published in 1885. Source: cs.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Sepsání války peloponnesské",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:09:30.383429Z",
+        "revision": "281869",
+        "url": "https://cs.wikisource.org/wiki/Seps%C3%A1n%C3%AD_v%C3%A1lky_peloponnessk%C3%A9"
+      },
+      "title": "Sepsání války peloponnesské",
+      "translationPublicationYear": 1885,
+      "translator": "Jan Nepomuk František Desolda",
+      "translatorDeathYear": 1885,
+      "workId": "thucydides-sepsani-valky-peloponnesske"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 147,
         "contentSha256": "e68b61b7d9741196563a29a320e945c880bf8a097d319e0fc30e084e31c8a9a9",
         "encoding": "gzip",
         "path": "books/cs/thukydides-sepsani-valky-peloponnesske.cs.wikisource/v1/book.json.gz",
@@ -386,6 +687,49 @@
       "translator": "Jan Nepomuk František Desolda",
       "translatorDeathYear": 1885,
       "workId": "thukydides-sepsani-valky-peloponnesske"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 4,
+        "contentSha256": "3cfb5fc69ee54e45d7246338abe7455853446f060b5a018740e0179e3f329fee",
+        "encoding": "gzip",
+        "path": "books/cs/tomek-klaster-blahoslavene-aneyky-v-praze.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "0767e7a9e121c4eea8757d44ea0e2dd632a0368fd22dd6c17ab5844e1527abbb",
+        "sizeBytes": 19832,
+        "uncompressedSizeBytes": 53013,
+        "wordCount": 6979
+      },
+      "author": "Václav Vladivoj Tomek",
+      "authorDeathYear": 1905,
+      "editionId": "tomek-klaster-blahoslavene-aneyky-v-praze.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "cs",
+      "originalLanguage": "cs",
+      "originalPublicationYear": 1892,
+      "originalTitle": "Klášter blahoslavené Anežky v Praze",
+      "rights": {
+        "statement": "Public domain worldwide. Václav Vladivoj Tomek died in 1905 and the work was first published in 1892. Source: cs.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Klášter blahoslavené Anežky v Praze",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:09:37.690135Z",
+        "revision": "234671",
+        "url": "https://cs.wikisource.org/wiki/Kl%C3%A1%C5%A1ter_blahoslaven%C3%A9_Ane%C5%BEky_v_Praze"
+      },
+      "title": "Klášter blahoslavené Anežky v Praze",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "tomek-klaster-blahoslavene-aneyky-v-praze"
     },
     {
       "asset": {
@@ -429,12 +773,55 @@
       "translator": "Karel Kohlman",
       "translatorDeathYear": 1948,
       "workId": "twain-dobrodruystvi-toma-sawyera"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
+        "contentSha256": "1f54a6967b8c42236949d9ec604bcc5bf762037091ea9274badfabe87a6a63c6",
+        "encoding": "gzip",
+        "path": "books/cs/yidek-klaster-praemonstratsku-v-nove-oisi-1211-1911.cs.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "53306807ce5b06923771d44843cb25cb5369a31788841dfd9973ea5fb65253f4",
+        "sizeBytes": 20655,
+        "uncompressedSizeBytes": 50375,
+        "wordCount": 6453
+      },
+      "author": "Cyril Žídek",
+      "authorDeathYear": 1894,
+      "editionId": "yidek-klaster-praemonstratsku-v-nove-oisi-1211-1911.cs.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "cs",
+      "originalLanguage": "cs",
+      "originalPublicationYear": 1911,
+      "originalTitle": "Klášter praemonstrátský v Nové Říši 1211–1911",
+      "rights": {
+        "statement": "Public domain worldwide. Cyril Žídek died in 1894 and the work was first published in 1911. Source: cs.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Klášter praemonstrátský v Nové Říši 1211–1911",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:09:44.819117Z",
+        "revision": "273453",
+        "url": "https://cs.wikisource.org/wiki/Kl%C3%A1%C5%A1ter_praemonstr%C3%A1tsk%C3%BD_v_Nov%C3%A9_%C5%98%C3%AD%C5%A1i_1211%E2%80%931911"
+      },
+      "title": "Klášter praemonstrátský v Nové Říši 1211–1911",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "yidek-klaster-praemonstratsku-v-nove-oisi-1211-1911"
     }
   ],
   "direction": "ltr",
   "englishName": "Czech",
   "language": "cs",
-  "manifestVersion": "ddf66882ac5be983",
+  "manifestVersion": "2e6d43536f157f6f",
   "nativeName": "Čeština",
   "schemaVersion": 1
 }

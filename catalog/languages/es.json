@@ -392,6 +392,49 @@
       "asset": {
         "assetVersion": 1,
         "chapterCount": 3,
+        "contentSha256": "6a9944754607ffe37d3d1451ddbd3fba320f497001bc28ca18d265b90baf271b",
+        "encoding": "gzip",
+        "path": "books/es/plato-apologia-de-socrates.es.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "bd664f2fbb2c092bacbf4201a4e26b52706439dc7f139165c5d366ac303176fd",
+        "sizeBytes": 28075,
+        "uncompressedSizeBytes": 78026,
+        "wordCount": 13055
+      },
+      "author": "Plato",
+      "authorDeathYear": -348,
+      "editionId": "plato-apologia-de-socrates.es.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "translation",
+      "language": "es",
+      "originalLanguage": "grc",
+      "originalPublicationYear": -395,
+      "originalTitle": "Apología de Sócrates",
+      "rights": {
+        "statement": "Public domain worldwide. Plato died in -348; the translator Patricio de Azcárate Corral died in 1886 and this translation was first published in 1871. Source: es.wikisource.org transcription.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "Apología de Sócrates (de Azcárate tr.)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:21:03.492751Z",
+        "revision": "1275524",
+        "url": "https://es.wikisource.org/wiki/Apolog%C3%ADa_de_S%C3%B3crates_(de_Azc%C3%A1rate_tr.)"
+      },
+      "title": "Apología de Sócrates",
+      "translationPublicationYear": 1871,
+      "translator": "Patricio de Azcárate Corral",
+      "translatorDeathYear": 1886,
+      "workId": "plato-apologia-de-socrates"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 3,
         "contentSha256": "d0584f7ae0cd49a51c8b0c4fbc42ea10509ada933301d56bc03b0f445f65d8b9",
         "encoding": "gzip",
         "path": "books/es/platon-apologia-de-socrates.es.wikisource/v1/book.json.gz",
@@ -825,7 +868,7 @@
   "direction": "ltr",
   "englishName": "Spanish",
   "language": "es",
-  "manifestVersion": "6a563aa7472c6ca7",
+  "manifestVersion": "2b3e7b2287fe6f5e",
   "nativeName": "Español",
   "schemaVersion": 1
 }

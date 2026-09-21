@@ -1,0 +1,97 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T09:21:29.160463Z",
+    "chapterCount": 6,
+    "contentSha256": "5777f3fef3682e5725602fe0a40b4b04d69ad1b7f7bf8b0ff393b933ed84c7b8",
+    "normalizerVersion": "0.2.0",
+    "path": "books/as/baruah-joymoti-ed-3.as.wikisource/v1/book.json.gz",
+    "sha256": "088859316a6f3e9aae2e542ebf46e3fc3df19ff688a5a499abecd8ee0878c214",
+    "sizeBytes": 42461,
+    "uncompressedSizeBytes": 193001,
+    "wordCount": 10861
+  },
+  "edition": {
+    "editionId": "baruah-joymoti-ed-3.as.wikisource",
+    "kind": "original",
+    "language": "as",
+    "title": "জয়মতী"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1900: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q135116305",
+      "https://www.wikidata.org/wiki/Q7123860",
+      "https://as.wikisource.org/wiki/%E0%A6%9C%E0%A6%AF%E0%A6%BC%E0%A6%AE%E0%A6%A4%E0%A7%80"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. পদ্মনাথ গোহাঞি বৰুৱা died in 1946 and the work was first published in 1900. Source: as.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "জয়মতী",
+    "pages": [
+      {
+        "revision": 209401,
+        "title": "জয়মতী"
+      },
+      {
+        "revision": 155700,
+        "title": "জয়মতী/পাতনি"
+      },
+      {
+        "revision": 155688,
+        "title": "জয়মতী/প্ৰথম অঙ্ক"
+      },
+      {
+        "revision": 155690,
+        "title": "জয়মতী/দ্বিতীয় অঙ্ক"
+      },
+      {
+        "revision": 155691,
+        "title": "জয়মতী/তৃতীয় অঙ্ক"
+      },
+      {
+        "revision": 155694,
+        "title": "জয়মতী/চতুৰ্থ অঙ্ক"
+      },
+      {
+        "revision": 155696,
+        "title": "জয়মতী/পঞ্চম অঙ্ক"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T09:21:28.942950Z",
+    "revision": "209401",
+    "site": "as.wikisource.org",
+    "url": "https://as.wikisource.org/wiki/%E0%A6%9C%E0%A6%AF%E0%A6%BC%E0%A6%AE%E0%A6%A4%E0%A7%80"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1871,
+      "deathYear": 1946,
+      "name": "পদ্মনাথ গোহাঞি বৰুৱা",
+      "wikidata": "Q7123860"
+    },
+    "originalLanguage": "as",
+    "originalPublicationYear": 1900,
+    "originalTitle": "জয়মতী",
+    "workId": "baruah-joymoti-ed-3"
+  }
+}

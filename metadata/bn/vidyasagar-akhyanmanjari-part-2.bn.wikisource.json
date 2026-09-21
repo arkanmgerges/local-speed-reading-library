@@ -1,0 +1,213 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T09:55:34.148815Z",
+    "chapterCount": 35,
+    "contentSha256": "b4e975b0eb728bd6d5fcdf19e946593eae1f997db73b84f574fda9bc7f154a53",
+    "normalizerVersion": "0.2.0",
+    "path": "books/bn/vidyasagar-akhyanmanjari-part-2.bn.wikisource/v1/book.json.gz",
+    "sha256": "a5605eebd8d13ea83d60057a86cae74a26ff28f9aa17bf2cbcc00419e7d5130b",
+    "sizeBytes": 44305,
+    "uncompressedSizeBytes": 267566,
+    "wordCount": 13904
+  },
+  "edition": {
+    "editionId": "vidyasagar-akhyanmanjari-part-2.bn.wikisource",
+    "kind": "original",
+    "language": "bn",
+    "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ)"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1891: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1920: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q106832935",
+      "https://www.wikidata.org/wiki/Q964111",
+      "https://bn.wikisource.org/wiki/%E0%A6%86%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%B0%E0%A7%80_(%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%AD%E0%A6%BE%E0%A6%97%2C_%E0%A7%A7%E0%A7%AF%E0%A7%A8%E0%A7%A6)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. ঈশ্বরচন্দ্র বিদ্যাসাগর died in 1891 and the work was first published in 1920. Source: bn.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)",
+    "pages": [
+      {
+        "revision": 1976152,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)"
+      },
+      {
+        "revision": 1976127,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/দয়া ও দানশীলতা"
+      },
+      {
+        "revision": 1976144,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/যথার্থ পরোপকারিতা"
+      },
+      {
+        "revision": 1976142,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/মাতৃভক্তির পুরস্কার"
+      },
+      {
+        "revision": 1976130,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/দয়ালুতা ও পরোপকারিতা"
+      },
+      {
+        "revision": 1976118,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/অদ্ভুত আতিথেয়তা"
+      },
+      {
+        "revision": 1976128,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/দয়া ও সদ্বিবেচনা"
+      },
+      {
+        "revision": 1976150,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/সৌজন্য ও শিষ্টাচারের ফল"
+      },
+      {
+        "revision": 1976129,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/দয়া ও সদ্বিবেচনা (২)"
+      },
+      {
+        "revision": 1976126,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/দয়া, সৌজন্য ও কৃতজ্ঞতা"
+      },
+      {
+        "revision": 1976120,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/অমায়িকতা ও উদারচিত্ততা"
+      },
+      {
+        "revision": 1976146,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/যথার্থবাদিতা ও অকুতোভয়তা"
+      },
+      {
+        "revision": 1976117,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/অদ্ভুত অমায়িকতা"
+      },
+      {
+        "revision": 1976123,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/কৃতঘ্নতা"
+      },
+      {
+        "revision": 1976124,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/কৃতজ্ঞতা ও অকুতোভয়তা"
+      },
+      {
+        "revision": 1976121,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/উপকার স্মরণ"
+      },
+      {
+        "revision": 1976140,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/প্রত্যুপকার"
+      },
+      {
+        "revision": 1976141,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/প্রত্যুপকার (২)"
+      },
+      {
+        "revision": 1976125,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/কৃতজ্ঞতার পুরস্কার"
+      },
+      {
+        "revision": 1976143,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/যথার্থ কৃতজ্ঞতা"
+      },
+      {
+        "revision": 1976133,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/নিঃস্পৃহতা"
+      },
+      {
+        "revision": 1976132,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/ধর্ম্মশীলতার পুরস্কার"
+      },
+      {
+        "revision": 1976119,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/অদ্ভুত ন্যায়পরতা"
+      },
+      {
+        "revision": 1976139,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/প্রকৃত ন্যায়পরতা"
+      },
+      {
+        "revision": 1976137,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/ন্যায়পরতার পুরস্কার"
+      },
+      {
+        "revision": 1976136,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/ন্যায়পরতা ও ধর্ম্মশীলতা"
+      },
+      {
+        "revision": 1976148,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/শঠতা ও দুরভিসন্ধির ফল"
+      },
+      {
+        "revision": 1976122,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/ঐশিক ব্যবস্থায় বিশ্বাস"
+      },
+      {
+        "revision": 1976149,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/সংসারে নম্র হইয়া চলা উচিত"
+      },
+      {
+        "revision": 1976151,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/সৌজন্য ও সদ্বিবেচনা"
+      },
+      {
+        "revision": 1976131,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/দোষস্বীকারের ফল"
+      },
+      {
+        "revision": 1976134,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/নিঃস্পৃহতা ও উন্নতচিত্ততা"
+      },
+      {
+        "revision": 1976135,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/নিরপেক্ষতা ও ন্যায়পরতা"
+      },
+      {
+        "revision": 1976145,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/যথার্থ বিচার"
+      },
+      {
+        "revision": 1976147,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/যেমন কর্ম্ম তেমনই ফল"
+      },
+      {
+        "revision": 1976138,
+        "title": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ, ১৯২০)/পিতৃভক্তি ও ভ্রাতৃবাৎসল্য"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T09:55:33.902647Z",
+    "revision": "1976152",
+    "site": "bn.wikisource.org",
+    "url": "https://bn.wikisource.org/wiki/%E0%A6%86%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%B0%E0%A7%80_(%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%AD%E0%A6%BE%E0%A6%97%2C_%E0%A7%A7%E0%A7%AF%E0%A7%A8%E0%A7%A6)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1820,
+      "deathYear": 1891,
+      "name": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "wikidata": "Q964111"
+    },
+    "originalLanguage": "bn",
+    "originalPublicationYear": 1920,
+    "originalTitle": "আখ্যানমঞ্জরী (দ্বিতীয় ভাগ)",
+    "workId": "vidyasagar-akhyanmanjari-part-2"
+  }
+}

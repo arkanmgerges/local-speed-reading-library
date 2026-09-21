@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:05:15.104860Z",
+    "chapterCount": 3,
+    "contentSha256": "4b1a7fa03fdae9343460316070f862db0d104a8a45ad0e1f400fa5b2cf7bcc50",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cs/kolao-nejstarsi-peceti-slechty-ceske-ay-do-roku.cs.wikisource/v1/book.json.gz",
+    "sha256": "421099b07efb6e7999c6d93d244420869b6c65cc2d32f9a523921b79358875f6",
+    "sizeBytes": 27621,
+    "uncompressedSizeBytes": 69719,
+    "wordCount": 9734
+  },
+  "edition": {
+    "editionId": "kolao-nejstarsi-peceti-slechty-ceske-ay-do-roku.cs.wikisource",
+    "kind": "original",
+    "language": "cs",
+    "title": "Nejstarší pečeti šlechty české až do roku 1300"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1898: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1883: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q22697091",
+      "https://www.wikidata.org/wiki/Q12035753",
+      "https://cs.wikisource.org/wiki/Nejstar%C5%A1%C3%AD_pe%C4%8Deti_%C5%A1lechty_%C4%8Desk%C3%A9_a%C5%BE_do_roku_1300"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Martin Kolář died in 1898 and the work was first published in 1883. Source: cs.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Nejstarší pečeti šlechty české až do roku 1300",
+    "pages": [
+      {
+        "revision": 281635,
+        "title": "Nejstarší pečeti šlechty české až do roku 1300"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:05:14.939554Z",
+    "revision": "281635",
+    "site": "cs.wikisource.org",
+    "url": "https://cs.wikisource.org/wiki/Nejstar%C5%A1%C3%AD_pe%C4%8Deti_%C5%A1lechty_%C4%8Desk%C3%A9_a%C5%BE_do_roku_1300"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1836,
+      "deathYear": 1898,
+      "name": "Martin Kolář",
+      "wikidata": "Q12035753"
+    },
+    "originalLanguage": "cs",
+    "originalPublicationYear": 1883,
+    "originalTitle": "Nejstarší pečeti šlechty české až do roku 1300",
+    "workId": "kolao-nejstarsi-peceti-slechty-ceske-ay-do-roku"
+  }
+}

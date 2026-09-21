@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T11:01:00.467613Z",
+    "chapterCount": 48,
+    "contentSha256": "23afb1270318ab88dced98eefd9c3de0246b265d890a70f0a741f9a33eeab947",
+    "normalizerVersion": "0.2.0",
+    "path": "books/uk/vovchok-q99600349.uk.wikisource/v1/book.json.gz",
+    "sha256": "073014d8e265c0e5240558430eddb5f05fdd0fca6237d3ee8c541151f64df324",
+    "sizeBytes": 38948,
+    "uncompressedSizeBytes": 135751,
+    "wordCount": 12498
+  },
+  "edition": {
+    "editionId": "vovchok-q99600349.uk.wikisource",
+    "kind": "original",
+    "language": "uk",
+    "title": "Інститутка"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1907: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1929: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q99600349",
+      "https://www.wikidata.org/wiki/Q2421158",
+      "https://uk.wikisource.org/wiki/%D0%86%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BA%D0%B0_(1929)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Марко Вовчок died in 1907 and the work was first published in 1929. Source: uk.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Інститутка (1929)",
+    "pages": [
+      {
+        "revision": 251210,
+        "title": "Інститутка (1929)"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T11:01:00.251907Z",
+    "revision": "251210",
+    "site": "uk.wikisource.org",
+    "url": "https://uk.wikisource.org/wiki/%D0%86%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BA%D0%B0_(1929)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1833,
+      "deathYear": 1907,
+      "name": "Марко Вовчок",
+      "wikidata": "Q2421158"
+    },
+    "originalLanguage": "uk",
+    "originalPublicationYear": 1929,
+    "originalTitle": "Інститутка",
+    "workId": "vovchok-q99600349"
+  }
+}

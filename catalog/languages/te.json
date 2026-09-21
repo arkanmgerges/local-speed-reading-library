@@ -89,6 +89,49 @@
     {
       "asset": {
         "assetVersion": 1,
+        "chapterCount": 1,
+        "contentSha256": "b1012e0cbf4fce44253fb5646aebb477c9eb04c824029c0c9bdae0d84a162c99",
+        "encoding": "gzip",
+        "path": "books/te/murty-q98066773.te.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "38e42576f1983999e2a276ae0a8863716facee52a7f9d79b8da803946af36a54",
+        "sizeBytes": 35721,
+        "uncompressedSizeBytes": 177760,
+        "wordCount": 6590
+      },
+      "author": "గురజాడ శ్రీరామమూర్తి",
+      "authorDeathYear": 1899,
+      "editionId": "murty-q98066773.te.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "te",
+      "originalLanguage": "te",
+      "originalPublicationYear": 1913,
+      "originalTitle": "కవి జీవితములు/వేములవాడ భీమకవి",
+      "rights": {
+        "statement": "Public domain worldwide. గురజాడ శ్రీరామమూర్తి died in 1899 and the work was first published in 1913. Source: te.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "కవి జీవితములు/వేములవాడ భీమకవి",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:51:41.663376Z",
+        "revision": "184879",
+        "url": "https://te.wikisource.org/wiki/%E0%B0%95%E0%B0%B5%E0%B0%BF_%E0%B0%9C%E0%B1%80%E0%B0%B5%E0%B0%BF%E0%B0%A4%E0%B0%AE%E0%B1%81%E0%B0%B2%E0%B1%81/%E0%B0%B5%E0%B1%87%E0%B0%AE%E0%B1%81%E0%B0%B2%E0%B0%B5%E0%B0%BE%E0%B0%A1_%E0%B0%AD%E0%B1%80%E0%B0%AE%E0%B0%95%E0%B0%B5%E0%B0%BF"
+      },
+      "title": "కవి జీవితములు/వేములవాడ భీమకవి",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "murty-q98066773"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
         "chapterCount": 21,
         "contentSha256": "73de26f587ef68694b99d6cd6ad030c0edfb72ddddc7faf4e15a9f8e60a70c2d",
         "encoding": "gzip",
@@ -132,19 +175,19 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 9,
-        "contentSha256": "524ac685148fafca8f10fb04e252976d8cf5b4014c74b0c8e277cbee98826b6d",
+        "chapterCount": 7,
+        "contentSha256": "91a93e7b514f6932ac55d214c0777ec7def54cdf0c88140faf66c3772189b526",
         "encoding": "gzip",
-        "path": "books/te/narasimham-nanak-charitra.te.wikisource/v1/book.json.gz",
+        "path": "books/te/nrisimhakavi-kavikarnarasayanamu.te.wikisource/v1/book.json.gz",
         "schemaVersion": 1,
-        "sha256": "82ad52d4df6bc399fc052aec709bd531b210af073d9c5719a569c9cb20b99994",
-        "sizeBytes": 66391,
-        "uncompressedSizeBytes": 340595,
-        "wordCount": 12329
+        "sha256": "bdf5d8d334e6df97b77af4eb9f85f333c0e9c524c41c9c75c808ec33ce72fd1a",
+        "sizeBytes": 167131,
+        "uncompressedSizeBytes": 750271,
+        "wordCount": 27912
       },
-      "author": "చిలకమర్తి లక్ష్మీనరసింహం",
-      "authorDeathYear": 1946,
-      "editionId": "narasimham-nanak-charitra.te.wikisource",
+      "author": "సంకుసాల నృసింహకవి",
+      "authorDeathYear": 1400,
+      "editionId": "nrisimhakavi-kavikarnarasayanamu.te.wikisource",
       "editionPublicationYear": null,
       "genres": [
         "Other"
@@ -152,42 +195,42 @@
       "kind": "original",
       "language": "te",
       "originalLanguage": "te",
-      "originalPublicationYear": 1920,
-      "originalTitle": "నానకు చరిత్ర",
+      "originalPublicationYear": 1916,
+      "originalTitle": "కవికర్ణరసాయనము",
       "rights": {
-        "statement": "Public domain worldwide. చిలకమర్తి లక్ష్మీనరసింహం died in 1946 and the work was first published in 1920. Source: te.wikisource.org transcription of the public-domain text.",
+        "statement": "Public domain worldwide. సంకుసాల నృసింహకవి died in 1400 and the work was first published in 1916. Source: te.wikisource.org transcription of the public-domain text.",
         "status": "public-domain",
         "verifiedAt": "2026-09-21"
       },
       "source": {
-        "identifier": "నానకు చరిత్ర",
+        "identifier": "కవికర్ణరసాయనము",
         "provider": "wikisource",
-        "retrievedAt": "2026-09-21T05:15:21.664219Z",
-        "revision": "524904",
-        "url": "https://te.wikisource.org/wiki/%E0%B0%A8%E0%B0%BE%E0%B0%A8%E0%B0%95%E0%B1%81_%E0%B0%9A%E0%B0%B0%E0%B0%BF%E0%B0%A4%E0%B1%8D%E0%B0%B0"
+        "retrievedAt": "2026-09-21T10:51:58.439434Z",
+        "revision": "537516",
+        "url": "https://te.wikisource.org/wiki/%E0%B0%95%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B0%B0%E0%B1%8D%E0%B0%A3%E0%B0%B0%E0%B0%B8%E0%B0%BE%E0%B0%AF%E0%B0%A8%E0%B0%AE%E0%B1%81"
       },
-      "title": "నానకు చరిత్ర",
+      "title": "కవికర్ణరసాయనము",
       "translationPublicationYear": null,
       "translator": null,
       "translatorDeathYear": null,
-      "workId": "narasimham-nanak-charitra"
+      "workId": "nrisimhakavi-kavikarnarasayanamu"
     },
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 11,
-        "contentSha256": "e411c0d25e097966e89be4bb3cbb8008c747dcbfd96a8a0af18d1ef0e395a66b",
+        "chapterCount": 25,
+        "contentSha256": "d62781944662380bc771e3a6da71eb63d4ae5666b624d55f45f6469c455e8df2",
         "encoding": "gzip",
-        "path": "books/te/ramireddy-kumbharana-meerabai.te.wikisource/v1/book.json.gz",
+        "path": "books/te/rao-q131681308.te.wikisource/v1/book.json.gz",
         "schemaVersion": 1,
-        "sha256": "b4935f89f382e1cb4dcdc783a8a13be1078527e7e5b302473fe94f275e61ffec",
-        "sizeBytes": 51864,
-        "uncompressedSizeBytes": 257307,
-        "wordCount": 11130
+        "sha256": "a2a55d1884fc20b324fec6af788c922b54e8380918f545c9604e3a1c1f9ba01a",
+        "sizeBytes": 69781,
+        "uncompressedSizeBytes": 419100,
+        "wordCount": 18741
       },
-      "author": "దువ్వూరి రామిరెడ్డి",
-      "authorDeathYear": 1947,
-      "editionId": "ramireddy-kumbharana-meerabai.te.wikisource",
+      "author": "చిలుకూరి నారాయణరావు",
+      "authorDeathYear": 1952,
+      "editionId": "rao-q131681308.te.wikisource",
       "editionPublicationYear": null,
       "genres": [
         "Other"
@@ -195,25 +238,25 @@
       "kind": "original",
       "language": "te",
       "originalLanguage": "te",
-      "originalPublicationYear": 1921,
-      "originalTitle": "కుంభరాణా (మీరాబాయి)",
+      "originalPublicationYear": 1930,
+      "originalTitle": "జర్మనీదేశ విద్యావిధానము",
       "rights": {
-        "statement": "Public domain worldwide. దువ్వూరి రామిరెడ్డి died in 1947 and the work was first published in 1921. Source: te.wikisource.org transcription of the public-domain text.",
+        "statement": "Public domain worldwide. చిలుకూరి నారాయణరావు died in 1952 and the work was first published in 1930. Source: te.wikisource.org transcription of the public-domain text.",
         "status": "public-domain",
         "verifiedAt": "2026-09-21"
       },
       "source": {
-        "identifier": "కుంభరాణా (మీరాబాయి)",
+        "identifier": "జర్మనీదేశ విద్యావిధానము",
         "provider": "wikisource",
-        "retrievedAt": "2026-09-21T05:15:52.664014Z",
-        "revision": "310950",
-        "url": "https://te.wikisource.org/wiki/%E0%B0%95%E0%B1%81%E0%B0%82%E0%B0%AD%E0%B0%B0%E0%B0%BE%E0%B0%A3%E0%B0%BE_(%E0%B0%AE%E0%B1%80%E0%B0%B0%E0%B0%BE%E0%B0%AC%E0%B0%BE%E0%B0%AF%E0%B0%BF)"
+        "retrievedAt": "2026-09-21T10:52:38.403238Z",
+        "revision": "580650",
+        "url": "https://te.wikisource.org/wiki/%E0%B0%9C%E0%B0%B0%E0%B1%8D%E0%B0%AE%E0%B0%A8%E0%B1%80%E0%B0%A6%E0%B1%87%E0%B0%B6_%E0%B0%B5%E0%B0%BF%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%B5%E0%B0%BF%E0%B0%A7%E0%B0%BE%E0%B0%A8%E0%B0%AE%E0%B1%81"
       },
-      "title": "కుంభరాణా (మీరాబాయి)",
+      "title": "జర్మనీదేశ విద్యావిధానము",
       "translationPublicationYear": null,
       "translator": null,
       "translatorDeathYear": null,
-      "workId": "ramireddy-kumbharana-meerabai"
+      "workId": "rao-q131681308"
     },
     {
       "asset": {
@@ -300,49 +343,6 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "soori-bala-vyakaranamu"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 9,
-        "contentSha256": "edd658963b05ad52f475b3f19a1c32fd02e396df6bfa500240f6e38ea64c29f9",
-        "encoding": "gzip",
-        "path": "books/te/srinatha-kasikhandamu.te.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "8834348de226787cd1489e3aff7ec92e7ae0c5cf09836527a3b707e98c9f783e",
-        "sizeBytes": 261989,
-        "uncompressedSizeBytes": 1208790,
-        "wordCount": 42060
-      },
-      "author": "శ్రీనాథుడు",
-      "authorDeathYear": 1440,
-      "editionId": "srinatha-kasikhandamu.te.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "te",
-      "originalLanguage": "te",
-      "originalPublicationYear": 1917,
-      "originalTitle": "కాశీఖండము",
-      "rights": {
-        "statement": "Public domain worldwide. శ్రీనాథుడు died in 1440 and the work was first published in 1917. Source: te.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "కాశీఖండము",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T05:16:58.407687Z",
-        "revision": "580397",
-        "url": "https://te.wikisource.org/wiki/%E0%B0%95%E0%B0%BE%E0%B0%B6%E0%B1%80%E0%B0%96%E0%B0%82%E0%B0%A1%E0%B0%AE%E0%B1%81"
-      },
-      "title": "కాశీఖండము",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "srinatha-kasikhandamu"
     },
     {
       "asset": {
@@ -477,7 +477,7 @@
   "direction": "ltr",
   "englishName": "Telugu",
   "language": "te",
-  "manifestVersion": "fb6bf56d065f3e31",
+  "manifestVersion": "e53f984c32b38cea",
   "nativeName": "తెలుగు",
   "schemaVersion": 1
 }

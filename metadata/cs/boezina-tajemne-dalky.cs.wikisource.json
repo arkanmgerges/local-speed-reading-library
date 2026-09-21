@@ -1,0 +1,193 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:02:22.258987Z",
+    "chapterCount": 30,
+    "contentSha256": "8bc0ed85263c313ea73600246ed017b8377e5dc5a41464f22d36f7d47a50a6d3",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cs/boezina-tajemne-dalky.cs.wikisource/v1/book.json.gz",
+    "sha256": "1eab99c5bfee15ca54994143318391bb51fa7d6655090d9ef64b5e211137917b",
+    "sizeBytes": 21386,
+    "uncompressedSizeBytes": 61224,
+    "wordCount": 7641
+  },
+  "edition": {
+    "editionId": "boezina-tajemne-dalky.cs.wikisource",
+    "kind": "original",
+    "language": "cs",
+    "title": "Tajemné dálky"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1929: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1895: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q19533998",
+      "https://www.wikidata.org/wiki/Q712420",
+      "https://cs.wikisource.org/wiki/Tajemn%C3%A9_d%C3%A1lky"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Otokar Březina died in 1929 and the work was first published in 1895. Source: cs.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Tajemné dálky",
+    "pages": [
+      {
+        "revision": 233922,
+        "title": "Tajemné dálky"
+      },
+      {
+        "revision": 292438,
+        "title": "Tajemné dálky/*** (1)"
+      },
+      {
+        "revision": 292355,
+        "title": "Tajemné dálky/Moje matka"
+      },
+      {
+        "revision": 233934,
+        "title": "Tajemné dálky/Mrtvé mládí"
+      },
+      {
+        "revision": 233952,
+        "title": "Tajemné dálky/Žeh bílý světla…"
+      },
+      {
+        "revision": 233939,
+        "title": "Tajemné dálky/Přátelství duší"
+      },
+      {
+        "revision": 233943,
+        "title": "Tajemné dálky/Tichá bolest"
+      },
+      {
+        "revision": 233946,
+        "title": "Tajemné dálky/Vzpomínka"
+      },
+      {
+        "revision": 233929,
+        "title": "Tajemné dálky/Den výroční"
+      },
+      {
+        "revision": 233931,
+        "title": "Tajemné dálky/Modlitba večerní"
+      },
+      {
+        "revision": 233937,
+        "title": "Tajemné dálky/Podzimní večer"
+      },
+      {
+        "revision": 233927,
+        "title": "Tajemné dálky/Apostrofa zimní"
+      },
+      {
+        "revision": 233940,
+        "title": "Tajemné dálky/Siesta"
+      },
+      {
+        "revision": 233928,
+        "title": "Tajemné dálky/Březen"
+      },
+      {
+        "revision": 292432,
+        "title": "Tajemné dálky/Vězeň"
+      },
+      {
+        "revision": 292353,
+        "title": "Tajemné dálky/*** (2)"
+      },
+      {
+        "revision": 292354,
+        "title": "Tajemné dálky/*** (3)"
+      },
+      {
+        "revision": 292356,
+        "title": "Tajemné dálky/Motiv z Beethovena"
+      },
+      {
+        "revision": 233926,
+        "title": "Tajemné dálky/Agonie touhy"
+      },
+      {
+        "revision": 233935,
+        "title": "Tajemné dálky/Návrat"
+      },
+      {
+        "revision": 233949,
+        "title": "Tajemné dálky/Z věčných dálek…"
+      },
+      {
+        "revision": 233936,
+        "title": "Tajemné dálky/Návštěva"
+      },
+      {
+        "revision": 233942,
+        "title": "Tajemné dálky/Snad potom…"
+      },
+      {
+        "revision": 233938,
+        "title": "Tajemné dálky/Pohled smrti"
+      },
+      {
+        "revision": 233948,
+        "title": "Tajemné dálky/Vůně zahrad mé duše…"
+      },
+      {
+        "revision": 233950,
+        "title": "Tajemné dálky/Zapomenutí"
+      },
+      {
+        "revision": 233951,
+        "title": "Tajemné dálky/Znamení duše"
+      },
+      {
+        "revision": 233930,
+        "title": "Tajemné dálky/Lítosť"
+      },
+      {
+        "revision": 233945,
+        "title": "Tajemné dálky/Vonné soumraky"
+      },
+      {
+        "revision": 233941,
+        "title": "Tajemné dálky/Slavný smutek"
+      },
+      {
+        "revision": 309001,
+        "title": "Tajemné dálky/Umění"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:02:22.121091Z",
+    "revision": "233922",
+    "site": "cs.wikisource.org",
+    "url": "https://cs.wikisource.org/wiki/Tajemn%C3%A9_d%C3%A1lky"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1868,
+      "deathYear": 1929,
+      "name": "Otokar Březina",
+      "wikidata": "Q712420"
+    },
+    "originalLanguage": "cs",
+    "originalPublicationYear": 1895,
+    "originalTitle": "Tajemné dálky",
+    "workId": "boezina-tajemne-dalky"
+  }
+}

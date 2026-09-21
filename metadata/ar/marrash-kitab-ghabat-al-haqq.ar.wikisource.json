@@ -1,0 +1,109 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T09:17:05.451110Z",
+    "chapterCount": 22,
+    "contentSha256": "d3fbf4a54930fa690be0f6de14ea19d674e3317f46a044d68d29a744fd476131",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ar/marrash-kitab-ghabat-al-haqq.ar.wikisource/v1/book.json.gz",
+    "sha256": "238aa65c174b608dcffb5c897031e95e0a6b2cadbc1eebfa91564b068e0606f3",
+    "sizeBytes": 85065,
+    "uncompressedSizeBytes": 280110,
+    "wordCount": 25667
+  },
+  "edition": {
+    "editionId": "marrash-kitab-ghabat-al-haqq.ar.wikisource",
+    "kind": "original",
+    "language": "ar",
+    "title": "كتاب غابة الحق"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1874: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1881: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q99455353",
+      "https://www.wikidata.org/wiki/Q4899",
+      "https://ar.wikisource.org/wiki/%D8%BA%D8%A7%D8%A8%D8%A9_%D8%A7%D9%84%D8%AD%D9%82_(1881)"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. فرنسيس مراش died in 1874 and the work was first published in 1881. Source: ar.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "غابة الحق (1881)",
+    "pages": [
+      {
+        "revision": 425829,
+        "title": "غابة الحق (1881)"
+      },
+      {
+        "revision": 425837,
+        "title": "غابة الحق (1881)/مقدمة"
+      },
+      {
+        "revision": 425831,
+        "title": "غابة الحق (1881)/الحلم"
+      },
+      {
+        "revision": 425834,
+        "title": "غابة الحق (1881)/الهواجس"
+      },
+      {
+        "revision": 425838,
+        "title": "غابة الحق (1881)/مملكة الروح"
+      },
+      {
+        "revision": 425832,
+        "title": "غابة الحق (1881)/السياسة والمملكة"
+      },
+      {
+        "revision": 425830,
+        "title": "غابة الحق (1881)/التمدن"
+      },
+      {
+        "revision": 425836,
+        "title": "غابة الحق (1881)/قواد الشر"
+      },
+      {
+        "revision": 425833,
+        "title": "غابة الحق (1881)/المحاكمة"
+      },
+      {
+        "revision": 425835,
+        "title": "غابة الحق (1881)/اليقظة"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T09:17:05.042050Z",
+    "revision": "425829",
+    "site": "ar.wikisource.org",
+    "url": "https://ar.wikisource.org/wiki/%D8%BA%D8%A7%D8%A8%D8%A9_%D8%A7%D9%84%D8%AD%D9%82_(1881)"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1836,
+      "deathYear": 1874,
+      "name": "فرنسيس مراش",
+      "wikidata": "Q4899"
+    },
+    "originalLanguage": "ar",
+    "originalPublicationYear": 1881,
+    "originalTitle": "كتاب غابة الحق",
+    "workId": "marrash-kitab-ghabat-al-haqq"
+  }
+}

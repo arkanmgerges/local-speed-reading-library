@@ -1,0 +1,85 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:48:58.521995Z",
+    "chapterCount": 3,
+    "contentSha256": "bae6e272efb2a72fbec1812c8c9ee20e0826b09b0fed265f1ca5341b53571046",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/capidan-meglenoromanii-volumul-i.ro.wikisource/v1/book.json.gz",
+    "sha256": "3a24d7794f612bd25450ccf8a97ae44b29c8dca81fd6ff4835353627c31fc853",
+    "sizeBytes": 117964,
+    "uncompressedSizeBytes": 332486,
+    "wordCount": 48869
+  },
+  "edition": {
+    "editionId": "capidan-meglenoromanii-volumul-i.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "title": "Meglenoromânii, Volumul I: „Istoria și graiul lor”"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1953: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1925: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q130476204",
+      "https://www.wikidata.org/wiki/Q12296175",
+      "https://ro.wikisource.org/wiki/Meglenorom%C3%A2nii%2FVolumul_I"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Theodor Capidan died in 1953 and the work was first published in 1925. Source: ro.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Meglenoromânii/Volumul I",
+    "pages": [
+      {
+        "revision": 139635,
+        "title": "Meglenoromânii/Volumul I"
+      },
+      {
+        "revision": 136930,
+        "title": "Meglenoromânii/Volumul I/Prefață"
+      },
+      {
+        "revision": 136931,
+        "title": "Meglenoromânii/Volumul I/Introducere"
+      },
+      {
+        "revision": 137032,
+        "title": "Meglenoromânii/Volumul I/Dialectul Meglenoromân"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:48:57.719398Z",
+    "revision": "139635",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/Meglenorom%C3%A2nii/Volumul_I"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1879,
+      "deathYear": 1953,
+      "name": "Theodor Capidan",
+      "wikidata": "Q12296175"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1925,
+    "originalTitle": "Meglenoromânii, Volumul I: „Istoria și graiul lor”",
+    "workId": "capidan-meglenoromanii-volumul-i"
+  }
+}

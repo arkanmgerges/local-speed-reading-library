@@ -261,92 +261,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 6,
-        "contentSha256": "ceafd3e01f842c1fa8aebfed7d4d0d2e1be0c0df12657a5ad77b9daa99cbfa5d",
-        "encoding": "gzip",
-        "path": "books/ml/gundert-kristu-sabhacharitram.ml.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "832d156e069406a944651ac79f6bb96f5fe22f484faddb11bae50ec628ac94de",
-        "sizeBytes": 288548,
-        "uncompressedSizeBytes": 1542486,
-        "wordCount": 19243
-      },
-      "author": "ഹെർമൻ ഗുണ്ടർട്ട്",
-      "authorDeathYear": 1893,
-      "editionId": "gundert-kristu-sabhacharitram.ml.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "ml",
-      "originalLanguage": "ml",
-      "originalPublicationYear": 1847,
-      "originalTitle": "ക്രിസ്ത സഭാചരിത്രം",
-      "rights": {
-        "statement": "Public domain worldwide. ഹെർമൻ ഗുണ്ടർട്ട് died in 1893 and the work was first published in 1847. Source: ml.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "ക്രിസ്ത സഭാചരിത്രം",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:59:13.186880Z",
-        "revision": "211002",
-        "url": "https://ml.wikisource.org/wiki/%E0%B4%95%E0%B5%8D%E0%B4%B0%E0%B4%BF%E0%B4%B8%E0%B5%8D%E0%B4%A4_%E0%B4%B8%E0%B4%AD%E0%B4%BE%E0%B4%9A%E0%B4%B0%E0%B4%BF%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82"
-      },
-      "title": "ക്രിസ്ത സഭാചരിത്രം",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "gundert-kristu-sabhacharitram"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 2,
-        "contentSha256": "b40eac5eba9b70dca70a4980de7b73148cae709d4c455aefea5052f81736f0ce",
-        "encoding": "gzip",
-        "path": "books/ml/gundert-suvisheshasamgraham.ml.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "0c45d4a7119aa420076291e298902a82d32fd0d203018bad9fca51bafb110cc7",
-        "sizeBytes": 197810,
-        "uncompressedSizeBytes": 1018867,
-        "wordCount": 28991
-      },
-      "author": "ഹെർമൻ ഗുണ്ടർട്ട്",
-      "authorDeathYear": 1893,
-      "editionId": "gundert-suvisheshasamgraham.ml.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "ml",
-      "originalLanguage": "ml",
-      "originalPublicationYear": 1849,
-      "originalTitle": "സുവിശേഷസംഗ്രഹം",
-      "rights": {
-        "statement": "Public domain worldwide. ഹെർമൻ ഗുണ്ടർട്ട് died in 1893 and the work was first published in 1849. Source: ml.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "സുവിശേഷസംഗ്രഹം (1849)",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:59:21.206378Z",
-        "revision": "210951",
-        "url": "https://ml.wikisource.org/wiki/%E0%B4%B8%E0%B5%81%E0%B4%B5%E0%B4%BF%E0%B4%B6%E0%B5%87%E0%B4%B7%E0%B4%B8%E0%B4%82%E0%B4%97%E0%B5%8D%E0%B4%B0%E0%B4%B9%E0%B4%82_(1849)"
-      },
-      "title": "സുവിശേഷസംഗ്രഹം",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "gundert-suvisheshasamgraham"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 2,
         "contentSha256": "34afdd33600613151dd0d7824c835320985e0123049738d9473c4b5951dde540",
         "encoding": "gzip",
@@ -386,6 +300,49 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "jye-hadeva-yuktibha-a"
+    },
+    {
+      "asset": {
+        "assetVersion": 1,
+        "chapterCount": 2,
+        "contentSha256": "0292d2a28df73dc19dddf03340f575b7d478e90364c833badbed2e8d84181f55",
+        "encoding": "gzip",
+        "path": "books/ml/liebendorfer-1882.ml.wikisource/v1/book.json.gz",
+        "schemaVersion": 1,
+        "sha256": "9cb78f743477b6cb92152b5d6939f593a5687024d4901716df111c11b2f033bd",
+        "sizeBytes": 57834,
+        "uncompressedSizeBytes": 303294,
+        "wordCount": 12973
+      },
+      "author": "യൂജിൻ ലീബെൻദർഫെർ",
+      "authorDeathYear": 1902,
+      "editionId": "liebendorfer-1882.ml.wikisource",
+      "editionPublicationYear": null,
+      "genres": [
+        "Other"
+      ],
+      "kind": "original",
+      "language": "ml",
+      "originalLanguage": "ml",
+      "originalPublicationYear": 1882,
+      "originalTitle": "ശരീരശാസ്ത്രം (1882)",
+      "rights": {
+        "statement": "Public domain worldwide. യൂജിൻ ലീബെൻദർഫെർ died in 1902 and the work was first published in 1882. Source: ml.wikisource.org transcription of the public-domain text.",
+        "status": "public-domain",
+        "verifiedAt": "2026-09-21"
+      },
+      "source": {
+        "identifier": "ശരീരശാസ്ത്രം (1882)",
+        "provider": "wikisource",
+        "retrievedAt": "2026-09-21T10:48:35.919392Z",
+        "revision": "210346",
+        "url": "https://ml.wikisource.org/wiki/%E0%B4%B6%E0%B4%B0%E0%B5%80%E0%B4%B0%E0%B4%B6%E0%B4%BE%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82_(1882)"
+      },
+      "title": "ശരീരശാസ്ത്രം (1882)",
+      "translationPublicationYear": null,
+      "translator": null,
+      "translatorDeathYear": null,
+      "workId": "liebendorfer-1882"
     },
     {
       "asset": {
@@ -519,49 +476,6 @@
     {
       "asset": {
         "assetVersion": 1,
-        "chapterCount": 13,
-        "contentSha256": "47babe30159cef5644bca24bff96c5bbf5c663563cbfd0b5033aa91f75c72d00",
-        "encoding": "gzip",
-        "path": "books/ml/pillai-kesaveeyam.ml.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "689833201939a2983bc2b7dc08ed1f019cfd0c719fd807a2cc866b8d13f43f6b",
-        "sizeBytes": 57001,
-        "uncompressedSizeBytes": 251159,
-        "wordCount": 7824
-      },
-      "author": "കെ.സി. കേശവപിള്ള",
-      "authorDeathYear": 1914,
-      "editionId": "pillai-kesaveeyam.ml.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "ml",
-      "originalLanguage": "ml",
-      "originalPublicationYear": 1914,
-      "originalTitle": "കേശവീയം",
-      "rights": {
-        "statement": "Public domain worldwide. കെ.സി. കേശവപിള്ള died in 1914 and the work was first published in 1914. Source: ml.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "കേശവീയം",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T04:00:51.754798Z",
-        "revision": "134317",
-        "url": "https://ml.wikisource.org/wiki/%E0%B4%95%E0%B5%87%E0%B4%B6%E0%B4%B5%E0%B5%80%E0%B4%AF%E0%B4%82"
-      },
-      "title": "കേശവീയം",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "pillai-kesaveeyam"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
         "chapterCount": 27,
         "contentSha256": "8ee7ec4389d8bd20f21f72fa435bbca5fdb70db8a7a9d43a70184ce55aa396f2",
         "encoding": "gzip",
@@ -649,7 +563,7 @@
   "direction": "ltr",
   "englishName": "Malayalam",
   "language": "ml",
-  "manifestVersion": "cacd244bcfad7a60",
+  "manifestVersion": "0adb0a90b4aed680",
   "nativeName": "മലയാളം",
   "schemaVersion": 1
 }

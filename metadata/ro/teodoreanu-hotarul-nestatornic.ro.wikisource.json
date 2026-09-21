@@ -1,0 +1,101 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:51:02.376373Z",
+    "chapterCount": 12,
+    "contentSha256": "7aeec599d960fe0d32707df63a7c160651438350ce98758c5fc030fc2d3f6728",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/teodoreanu-hotarul-nestatornic.ro.wikisource/v1/book.json.gz",
+    "sha256": "5cb6694973e32bfe2a8e425372ff18ce0d01a85dba461f2e64ed5d7e47590b66",
+    "sizeBytes": 183163,
+    "uncompressedSizeBytes": 520962,
+    "wordCount": 72173
+  },
+  "edition": {
+    "editionId": "teodoreanu-hotarul-nestatornic.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "title": "Hotarul nestatornic"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1954: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1925: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q135508615",
+      "https://www.wikidata.org/wiki/Q647963",
+      "https://ro.wikisource.org/wiki/Hotarul_nestatornic"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Ionel Teodoreanu died in 1954 and the work was first published in 1925. Source: ro.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Hotarul nestatornic",
+    "pages": [
+      {
+        "revision": 145280,
+        "title": "Hotarul nestatornic"
+      },
+      {
+        "revision": 145219,
+        "title": "Hotarul nestatornic/Partea 1/Capitolul 1"
+      },
+      {
+        "revision": 147647,
+        "title": "Hotarul nestatornic/Partea 1/Capitolul 2"
+      },
+      {
+        "revision": 147648,
+        "title": "Hotarul nestatornic/Partea 1/Capitolul 3"
+      },
+      {
+        "revision": 147794,
+        "title": "Hotarul nestatornic/Partea 2/Capitolul 1"
+      },
+      {
+        "revision": 147795,
+        "title": "Hotarul nestatornic/Partea 2/Capitolul 2"
+      },
+      {
+        "revision": 147796,
+        "title": "Hotarul nestatornic/Partea 2/Capitolul 3"
+      },
+      {
+        "revision": 147797,
+        "title": "Hotarul nestatornic/Partea 2/Capitolul 4"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:51:01.033242Z",
+    "revision": "145280",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/Hotarul_nestatornic"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1897,
+      "deathYear": 1954,
+      "name": "Ionel Teodoreanu",
+      "wikidata": "Q647963"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1925,
+    "originalTitle": "Hotarul nestatornic",
+    "workId": "teodoreanu-hotarul-nestatornic"
+  }
+}

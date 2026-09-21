@@ -1,0 +1,73 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:50:37.828123Z",
+    "chapterCount": 1,
+    "contentSha256": "e4cb807de80782d8dca49730df6346fd6a6d19824dd5d6f4284989a108cb0d84",
+    "normalizerVersion": "0.2.0",
+    "path": "books/ro/nadejde-evolutia-familiei.ro.wikisource/v1/book.json.gz",
+    "sha256": "e97825dcf9b201d096dc11b17a3556fe225bc6e38e6bf7f7e75336223b63e3b2",
+    "sizeBytes": 22920,
+    "uncompressedSizeBytes": 62919,
+    "wordCount": 9351
+  },
+  "edition": {
+    "editionId": "nadejde-evolutia-familiei.ro.wikisource",
+    "kind": "original",
+    "language": "ro",
+    "title": "Evoluția familiei"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1946: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1894: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q130497758",
+      "https://www.wikidata.org/wiki/Q12741050",
+      "https://ro.wikisource.org/wiki/Evolu%C8%9Bia_familiei"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Sofia Nădejde died in 1946 and the work was first published in 1894. Source: ro.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Evoluția familiei",
+    "pages": [
+      {
+        "revision": 145187,
+        "title": "Evoluția familiei"
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:50:37.688952Z",
+    "revision": "145187",
+    "site": "ro.wikisource.org",
+    "url": "https://ro.wikisource.org/wiki/Evolu%C8%9Bia_familiei"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1856,
+      "deathYear": 1946,
+      "name": "Sofia Nădejde",
+      "wikidata": "Q12741050"
+    },
+    "originalLanguage": "ro",
+    "originalPublicationYear": 1894,
+    "originalTitle": "Evoluția familiei",
+    "workId": "nadejde-evolutia-familiei"
+  }
+}

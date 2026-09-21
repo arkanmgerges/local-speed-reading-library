@@ -219,49 +219,6 @@
       "asset": {
         "assetVersion": 1,
         "chapterCount": 1,
-        "contentSha256": "2db19c065d06b032d54e9919744b201e16fcd404b6470197b804762852701a60",
-        "encoding": "gzip",
-        "path": "books/mr/bhate-sajjangad-va-samarth-ramdas.mr.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "4275b6cab67cc677d485f8a751089ee21573f40d67733663b2cd8b7f81d75f5e",
-        "sizeBytes": 97542,
-        "uncompressedSizeBytes": 524104,
-        "wordCount": 29847
-      },
-      "author": "गोविंद चिमणाजी भाटे",
-      "authorDeathYear": 1946,
-      "editionId": "bhate-sajjangad-va-samarth-ramdas.mr.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "mr",
-      "originalLanguage": "mr",
-      "originalPublicationYear": 1918,
-      "originalTitle": "सज्जनगड व समर्थ रामदास",
-      "rights": {
-        "statement": "Public domain worldwide. गोविंद चिमणाजी भाटे died in 1946 and the work was first published in 1918. Source: mr.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "सज्जनगड व समर्थ रामदास",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T04:03:00.302466Z",
-        "revision": "233887",
-        "url": "https://mr.wikisource.org/wiki/%E0%A4%B8%E0%A4%9C%E0%A5%8D%E0%A4%9C%E0%A4%A8%E0%A4%97%E0%A4%A1_%E0%A4%B5_%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5_%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A6%E0%A4%BE%E0%A4%B8"
-      },
-      "title": "सज्जनगड व समर्थ रामदास",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "bhate-sajjangad-va-samarth-ramdas"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 1,
         "contentSha256": "aa611fcc40eb3d7da5ca914b5d19387088b51cc3bc019afecf0ff2d3f660b4d8",
         "encoding": "gzip",
         "path": "books/mr/bhate-samajshastravril-vyakhyane.mr.wikisource/v1/book.json.gz",
@@ -386,49 +343,6 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "khare-ichalkaranji-sansthanacha-itihas"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 6,
-        "contentSha256": "88410d4936003aab9cfb8ce646b9d98883d4b8b8cc207be1476b91cc5421b537",
-        "encoding": "gzip",
-        "path": "books/mr/kosambi-buddha-dharma-ani-sangha.mr.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "3394b69b3da6b906cf205b6590ea31f3396e60de6d25072d4518294b664a9661",
-        "sizeBytes": 71204,
-        "uncompressedSizeBytes": 378159,
-        "wordCount": 20429
-      },
-      "author": "धर्मानंद दामोदर कोसंबी",
-      "authorDeathYear": 1947,
-      "editionId": "kosambi-buddha-dharma-ani-sangha.mr.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "mr",
-      "originalLanguage": "mr",
-      "originalPublicationYear": 1910,
-      "originalTitle": "बुद्ध, धर्म आणि संघ",
-      "rights": {
-        "statement": "Public domain worldwide. धर्मानंद दामोदर कोसंबी died in 1947 and the work was first published in 1910. Source: mr.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "बुद्ध, धर्म आणि संघ",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T04:03:25.058230Z",
-        "revision": "234098",
-        "url": "https://mr.wikisource.org/wiki/%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%2C_%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE_%E0%A4%86%E0%A4%A3%E0%A4%BF_%E0%A4%B8%E0%A4%82%E0%A4%98"
-      },
-      "title": "बुद्ध, धर्म आणि संघ",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "kosambi-buddha-dharma-ani-sangha"
     },
     {
       "asset": {
@@ -644,98 +558,12 @@
       "translator": null,
       "translatorDeathYear": null,
       "workId": "sane-puratatvabhushan-kai-itihasacharya-rajwade-yanche-charitra"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 1,
-        "contentSha256": "548b69830f775ded4a8fa8739c8d800b32d1ae9d23e73ea4488562c3e7cb6763",
-        "encoding": "gzip",
-        "path": "books/mr/vivekananda-swami-vivekanand-yanche-samagra-granth-navam-khand.mr.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "52f8a05d342ede688ff0344c3eef5df0969ba4c87a7bec2e517c46e15adbace0",
-        "sizeBytes": 262847,
-        "uncompressedSizeBytes": 1464646,
-        "wordCount": 83444
-      },
-      "author": "स्वामी विवेकानंद",
-      "authorDeathYear": 1902,
-      "editionId": "vivekananda-swami-vivekanand-yanche-samagra-granth-navam-khand.mr.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "mr",
-      "originalLanguage": "mr",
-      "originalPublicationYear": 1922,
-      "originalTitle": "स्वामी विवेकानंद यांचे समग्र ग्रंथ नवम खंड",
-      "rights": {
-        "statement": "Public domain worldwide. स्वामी विवेकानंद died in 1902 and the work was first published in 1922. Source: mr.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "स्वामी विवेकानंद यांचे समग्र ग्रंथ नवम खंड",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T04:04:25.647343Z",
-        "revision": "233886",
-        "url": "https://mr.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A5%80_%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%95%E0%A4%BE%E0%A4%A8%E0%A4%82%E0%A4%A6_%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%9A%E0%A5%87_%E0%A4%B8%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%82%E0%A4%A5_%E0%A4%A8%E0%A4%B5%E0%A4%AE_%E0%A4%96%E0%A4%82%E0%A4%A1"
-      },
-      "title": "स्वामी विवेकानंद यांचे समग्र ग्रंथ नवम खंड",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "vivekananda-swami-vivekanand-yanche-samagra-granth-navam-khand"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 9,
-        "contentSha256": "2030570731b189bb6caf972c026842bd3a1a2b704357478cf38f861e23d9b232",
-        "encoding": "gzip",
-        "path": "books/mr/vivekananda-swami-vivekananda-yanche-samgra-granth-pratham-khand.mr.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "becc9fa1c6cb664231e464b88c7ea638e151d29939002608c6a64ac7dc3d7402",
-        "sizeBytes": 270204,
-        "uncompressedSizeBytes": 1489551,
-        "wordCount": 83687
-      },
-      "author": "स्वामी विवेकानंद",
-      "authorDeathYear": 1902,
-      "editionId": "vivekananda-swami-vivekananda-yanche-samgra-granth-pratham-khand.mr.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "mr",
-      "originalLanguage": "mr",
-      "originalPublicationYear": 1912,
-      "originalTitle": "स्वामी विवेकानंद यांचे समग्र ग्रंथ (प्रथम खंड)",
-      "rights": {
-        "statement": "Public domain worldwide. स्वामी विवेकानंद died in 1902 and the work was first published in 1912. Source: mr.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "स्वामी विवेकानंद यांचे समग्र ग्रंथ (प्रथम खंड)",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T04:04:42.442150Z",
-        "revision": "234055",
-        "url": "https://mr.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A5%80_%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%95%E0%A4%BE%E0%A4%A8%E0%A4%82%E0%A4%A6_%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%9A%E0%A5%87_%E0%A4%B8%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%82%E0%A4%A5_(%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE_%E0%A4%96%E0%A4%82%E0%A4%A1)"
-      },
-      "title": "स्वामी विवेकानंद यांचे समग्र ग्रंथ (प्रथम खंड)",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "vivekananda-swami-vivekananda-yanche-samgra-granth-pratham-khand"
     }
   ],
   "direction": "ltr",
   "englishName": "Marathi",
   "language": "mr",
-  "manifestVersion": "63e29c2be17eb8a9",
+  "manifestVersion": "c0f99e5c89ad0bda",
   "nativeName": "मराठी",
   "schemaVersion": 1
 }

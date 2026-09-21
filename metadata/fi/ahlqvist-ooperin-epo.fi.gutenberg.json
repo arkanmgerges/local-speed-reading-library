@@ -1,0 +1,65 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:24:51.985941Z",
+    "chapterCount": 14,
+    "contentSha256": "516c64de6b8a360af23921c8d1c390bd4d76f740619373ba8e98729a80bd3ed4",
+    "normalizerVersion": "0.2.0",
+    "path": "books/fi/ahlqvist-ooperin-epo.fi.gutenberg/v1/book.json.gz",
+    "sha256": "e0aac62f7856f12354c8ca5e67f7d20f67075a15d70093d49753bf0b88387976",
+    "sizeBytes": 66983,
+    "uncompressedSizeBytes": 172730,
+    "wordCount": 20457
+  },
+  "edition": {
+    "editionId": "ahlqvist-ooperin-epo.fi.gutenberg",
+    "editionPublicationYear": 1927,
+    "kind": "original",
+    "language": "fi",
+    "title": "Ooperin Epo"
+  },
+  "genres": [
+    "Fiction"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1931: more than 70 years ago in every life-plus-70 jurisdiction",
+      "edition printed 1927 (imprint recorded by Project Gutenberg): more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.gutenberg.org/ebooks/76230",
+      "https://fi.wikipedia.org/wiki/Viktor_Ahlqvist"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Viktor Ahlqvist died in 1931 and the edition digitised by Project Gutenberg was printed in 1927. Project Gutenberg boilerplate removed; the Project Gutenberg edition is the source.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "epub",
+    "identifier": "76230",
+    "provider": "gutenberg",
+    "retrievedAt": "2026-09-21T10:24:51.687082Z",
+    "revision": "Sun, 30 Aug 2026 13:02:45 GMT",
+    "url": "https://www.gutenberg.org/ebooks/76230"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1868,
+      "deathYear": 1931,
+      "name": "Viktor Ahlqvist",
+      "wikidata": "Q11901405"
+    },
+    "originalLanguage": "fi",
+    "originalTitle": "Ooperin Epo",
+    "workId": "ahlqvist-ooperin-epo"
+  }
+}

@@ -693,98 +693,12 @@
       "translator": "Marsilius Ficinus",
       "translatorDeathYear": 1499,
       "workId": "plato-protagoras"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 3,
-        "contentSha256": "b49e9e76d4ca2399a7c5e5215d0dc5f55aadd1f08aeb3f1d6432eb902ce386f9",
-        "encoding": "gzip",
-        "path": "books/la/x-pascendi-dominici-gregis.la.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "e0d0588bf9427178d070b1fa3df86f14ffa39bb48772320b34a9fecdb5e67005",
-        "sizeBytes": 39300,
-        "uncompressedSizeBytes": 101830,
-        "wordCount": 13489
-      },
-      "author": "Pius X",
-      "authorDeathYear": 1914,
-      "editionId": "x-pascendi-dominici-gregis.la.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "la",
-      "originalLanguage": "la",
-      "originalPublicationYear": 1907,
-      "originalTitle": "Pascendi Dominici gregis",
-      "rights": {
-        "statement": "Public domain worldwide. Pius X died in 1914 and the work was first published in 1907. Source: la.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Pascendi Dominici gregis",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:56:15.778265Z",
-        "revision": "152968",
-        "url": "https://la.wikisource.org/wiki/Pascendi_Dominici_gregis"
-      },
-      "title": "Pascendi Dominici gregis",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "x-pascendi-dominici-gregis"
-    },
-    {
-      "asset": {
-        "assetVersion": 1,
-        "chapterCount": 5,
-        "contentSha256": "3eb7575d54b3883f60cf322e021d4972ed526f8477decdd4f45afe1c92e1df50",
-        "encoding": "gzip",
-        "path": "books/la/xiii-rerum-novarum.la.wikisource/v1/book.json.gz",
-        "schemaVersion": 1,
-        "sha256": "c9b8880c45b69db670b41d193939284c7c02f30472ac9ce523bf4873938ddb1b",
-        "sizeBytes": 27708,
-        "uncompressedSizeBytes": 70931,
-        "wordCount": 9615
-      },
-      "author": "Leo XIII",
-      "authorDeathYear": 1903,
-      "editionId": "xiii-rerum-novarum.la.wikisource",
-      "editionPublicationYear": null,
-      "genres": [
-        "Other"
-      ],
-      "kind": "original",
-      "language": "la",
-      "originalLanguage": "la",
-      "originalPublicationYear": 1891,
-      "originalTitle": "Rerum Novarum",
-      "rights": {
-        "statement": "Public domain worldwide. Leo XIII died in 1903 and the work was first published in 1891. Source: la.wikisource.org transcription of the public-domain text.",
-        "status": "public-domain",
-        "verifiedAt": "2026-09-21"
-      },
-      "source": {
-        "identifier": "Rerum Novarum",
-        "provider": "wikisource",
-        "retrievedAt": "2026-09-21T03:56:19.106027Z",
-        "revision": "178300",
-        "url": "https://la.wikisource.org/wiki/Rerum_Novarum"
-      },
-      "title": "Rerum Novarum",
-      "translationPublicationYear": null,
-      "translator": null,
-      "translatorDeathYear": null,
-      "workId": "xiii-rerum-novarum"
     }
   ],
   "direction": "ltr",
   "englishName": "Latin",
   "language": "la",
-  "manifestVersion": "efe65ccaf76c9fb0",
+  "manifestVersion": "2ee38dae333a71c1",
   "nativeName": "Latina",
   "schemaVersion": 1
 }

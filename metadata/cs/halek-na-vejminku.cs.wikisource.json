@@ -1,0 +1,121 @@
+{
+  "asset": {
+    "assetVersion": 1,
+    "builtAt": "2026-09-21T10:03:34.471686Z",
+    "chapterCount": 12,
+    "contentSha256": "4b7877630ac89d94bb57c7678cdfa0f60c4e68717529bb54778cb53e3ae8ed6f",
+    "normalizerVersion": "0.2.0",
+    "path": "books/cs/halek-na-vejminku.cs.wikisource/v1/book.json.gz",
+    "sha256": "9dfdb9f932a667f2130ff0a93e15b36569312285abe153eed1f9981afb3e6186",
+    "sizeBytes": 91881,
+    "uncompressedSizeBytes": 247952,
+    "wordCount": 36872
+  },
+  "edition": {
+    "editionId": "halek-na-vejminku.cs.wikisource",
+    "kind": "original",
+    "language": "cs",
+    "title": "Na vejminku"
+  },
+  "genres": [
+    "Other"
+  ],
+  "publish": {
+    "assetVersion": 1
+  },
+  "rights": {
+    "basis": [
+      "author died 1874: more than 70 years ago in every life-plus-70 jurisdiction",
+      "first published 1872: more than 95 years ago (US term expired)"
+    ],
+    "evidence": [
+      "https://www.wikidata.org/wiki/Q15962865",
+      "https://www.wikidata.org/wiki/Q594896",
+      "https://cs.wikisource.org/wiki/Na_vejminku"
+    ],
+    "jurisdictions": [
+      "worldwide-conservative"
+    ],
+    "notes": "Batch import: death years from the provider agent records and Wikidata, publication year from the cited Wikidata item or the imprint recorded by the provider; checked by the rights policy in tools/lib/src/rights_policy.dart.",
+    "statement": "Public domain worldwide. Vítězslav Hálek died in 1874 and the work was first published in 1872. Source: cs.wikisource.org transcription of the public-domain text.",
+    "status": "public-domain",
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "arkanmgerges"
+  },
+  "schemaVersion": 1,
+  "source": {
+    "format": "html",
+    "identifier": "Na vejminku",
+    "pages": [
+      {
+        "revision": 304835,
+        "title": "Na vejminku"
+      },
+      {
+        "revision": 304730,
+        "title": "Na vejminku/I."
+      },
+      {
+        "revision": 304731,
+        "title": "Na vejminku/II."
+      },
+      {
+        "revision": 304732,
+        "title": "Na vejminku/III."
+      },
+      {
+        "revision": 304733,
+        "title": "Na vejminku/IV."
+      },
+      {
+        "revision": 304827,
+        "title": "Na vejminku/V."
+      },
+      {
+        "revision": 304828,
+        "title": "Na vejminku/VI."
+      },
+      {
+        "revision": 304829,
+        "title": "Na vejminku/VII."
+      },
+      {
+        "revision": 304830,
+        "title": "Na vejminku/VIII."
+      },
+      {
+        "revision": 304831,
+        "title": "Na vejminku/IX."
+      },
+      {
+        "revision": 304832,
+        "title": "Na vejminku/X."
+      },
+      {
+        "revision": 304833,
+        "title": "Na vejminku/XI."
+      },
+      {
+        "revision": 304834,
+        "title": "Na vejminku/XII."
+      }
+    ],
+    "provider": "wikisource",
+    "retrievedAt": "2026-09-21T10:03:33.857078Z",
+    "revision": "304835",
+    "site": "cs.wikisource.org",
+    "url": "https://cs.wikisource.org/wiki/Na_vejminku"
+  },
+  "work": {
+    "author": {
+      "birthYear": 1835,
+      "deathYear": 1874,
+      "name": "Vítězslav Hálek",
+      "wikidata": "Q594896"
+    },
+    "originalLanguage": "cs",
+    "originalPublicationYear": 1872,
+    "originalTitle": "Na vejminku",
+    "workId": "halek-na-vejminku"
+  }
+}
