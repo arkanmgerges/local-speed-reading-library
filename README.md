@@ -75,6 +75,7 @@ Publishing and the required secrets: [docs/publishing.md](docs/publishing.md).
 
 ## Status
 
-Pilot: 3 Romanian editions (Wikisource) and 3 English editions (Project Gutenberg).
-The long-term target is about 20 books in each of 80+ languages, added gradually and
+Live at `https://books.localspeedreading.com` with more than 600 editions in over 50
+languages, from Wikisource and Project Gutenberg; `catalog/catalog.json` has the
+current per-language counts. The long-term target is about 20 books in each of 80+ languages, added gradually and
 reproducibly.
